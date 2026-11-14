@@ -1,0 +1,735 @@
+{
+ "source": "research/refs/legal-ip.json",
+ "counts": {
+  "not_found": 1,
+  "verified": 12,
+  "manual": 37
+ },
+ "results": [
+  {
+   "id": "adelman2014",
+   "cited": {
+    "authors": "Adelman, M.",
+    "year": 2014,
+    "title": "Constructed Languages and Copyright: A Brief History and Proposal for Divorce",
+    "venue": "Harvard Journal of Law & Technology, 27(2), 543-562",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.5040/9798216424697.ch-002",
+     "title": "A Brief History of Music Copyright",
+     "year": 2021,
+     "authors": "",
+     "venue": "Music Copyright",
+     "type": "other",
+     "similarity": 0.382
+    },
+    {
+     "doi": "10.1093/oso/9780197762554.002.0004",
+     "title": "Copyright Page",
+     "year": 2027,
+     "authors": "Karlander; Heller",
+     "venue": "Constructed Languages and the Sociolinguistics of Language Making",
+     "type": "other",
+     "similarity": 0.267
+    },
+    {
+     "doi": "10.1016/b978-0-12-404612-2.09990-6",
+     "title": "Copyright",
+     "year": 2014,
+     "authors": "",
+     "venue": "Vertical Flow Constructed Wetlands",
+     "type": "book-chapter",
+     "similarity": 0.212
+    }
+   ]
+  },
+  {
+   "id": "allenfranks2024",
+   "cited": {
+    "authors": "Allen-Franks, A.",
+    "year": 2024,
+    "title": "Copyright Protection for Individual Words of an Invented Language",
+    "venue": "SSRN (author posting of the article published in European Intellectual Property Review, 40(5), 311-318, 2018)",
+    "doi": "10.2139/ssrn.4936745",
+    "type": "preprint"
+   },
+   "registry": {
+    "doi": "10.2139/ssrn.4936745",
+    "title": "Copyright Protection for Individual Words of an Invented Language",
+    "year": 2024,
+    "authors": "Allen-Franks",
+    "venue": "",
+    "type": "posted-content"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "samuelson2015",
+   "cited": {
+    "authors": "Samuelson, P.",
+    "year": 2015,
+    "title": "Functionality and Expression in Computer Programs: Refining the Tests for Software Copyright Infringement",
+    "venue": "SSRN (published 2016 in Berkeley Technology Law Journal, 31(2), 1215-1300)",
+    "doi": "10.2139/ssrn.2667740",
+    "type": "preprint"
+   },
+   "registry": {
+    "doi": "10.2139/ssrn.2667740",
+    "title": "Functionality and Expression in Computer Programs: Refining the Tests for Software Copyright Infringement",
+    "year": 2015,
+    "authors": "Samuelson",
+    "venue": "",
+    "type": "posted-content"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wu2008",
+   "cited": {
+    "authors": "Wu, T.",
+    "year": 2008,
+    "title": "Tolerated Use",
+    "venue": "Columbia Journal of Law & the Arts, 31(4), 617-635 (DOI is the SSRN registration)",
+    "doi": "10.2139/ssrn.1132247",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2139/ssrn.1132247",
+    "title": "Tolerated Use",
+    "year": 2008,
+    "authors": "Wu",
+    "venue": "",
+    "type": "posted-content"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fry2009",
+   "cited": {
+    "authors": "Fry, B.",
+    "year": 2009,
+    "title": "Why Typefaces Proliferate Without Copyright Protection",
+    "venue": "SSRN (published 2010 in Journal on Telecommunications and High Technology Law, 8(2), 425-490)",
+    "doi": "10.2139/ssrn.1443491",
+    "type": "preprint"
+   },
+   "registry": {
+    "doi": "10.2139/ssrn.1443491",
+    "title": "Why Typefaces Proliferate Without Copyright Protection",
+    "year": 2009,
+    "authors": "Fry",
+    "venue": "",
+    "type": "posted-content"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kretzschmar2019",
+   "cited": {
+    "authors": "Kretzschmar, M.; Stanfill, M.",
+    "year": 2019,
+    "title": "Mods as Lightning Rods: A Typology of Video Game Mods, Intellectual Property, and Social Benefit/Harm",
+    "venue": "Social & Legal Studies, 28(4), 517-536",
+    "doi": "10.1177/0964663918787221",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0964663918787221",
+    "title": "Mods as Lightning Rods: A Typology of Video Game Mods, Intellectual Property, and Social Benefit/Harm",
+    "year": 2019,
+    "authors": "Kretzschmar; Stanfill",
+    "venue": "Social &amp; Legal Studies",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "postigo2008",
+   "cited": {
+    "authors": "Postigo, H.",
+    "year": 2008,
+    "title": "Video Game Appropriation through Modifications: Attitudes Concerning Intellectual Property among Modders and Fans",
+    "venue": "Convergence, 14(1), 59-74",
+    "doi": "10.1177/1354856507084419",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1354856507084419",
+    "title": "Video Game Appropriation through Modifications: Attitudes Concerning Intellectual Property among Modders and Fans",
+    "year": 2008,
+    "authors": "Postigo",
+    "venue": "Convergence: The International Journal of Research into New Media Technologies",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "joseph2018",
+   "cited": {
+    "authors": "Joseph, D.",
+    "year": 2018,
+    "title": "The Discourse of Digital Dispossession: Paid Modifications and Community Crisis on Steam",
+    "venue": "Games and Culture, 13(7), 690-707",
+    "doi": "10.1177/1555412018756488",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1555412018756488",
+    "title": "The Discourse of Digital Dispossession: Paid Modifications and Community Crisis on Steam",
+    "year": 2018,
+    "authors": "Joseph",
+    "venue": "Games and Culture",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kow2010",
+   "cited": {
+    "authors": "Kow, Y. M.; Nardi, B.",
+    "year": 2010,
+    "title": "Who owns the mods?",
+    "venue": "First Monday, 15(5)",
+    "doi": "10.5210/fm.v15i5.2971",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.5210/fm.v15i5.2971",
+    "title": "Who owns the mods?",
+    "year": 2010,
+    "authors": "Kow; Nardi",
+    "venue": "First Monday",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "carroll2015",
+   "cited": {
+    "authors": "Carroll, M. W.",
+    "year": 2015,
+    "title": "Sharing Research Data and Intellectual Property Law: A Primer",
+    "venue": "PLOS Biology, 13(8), e1002235",
+    "doi": "10.1371/journal.pbio.1002235",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1371/journal.pbio.1002235",
+    "title": "Sharing Research Data and Intellectual Property Law: A Primer",
+    "year": 2015,
+    "authors": "Carroll",
+    "venue": "PLOS Biology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hagedorn2011",
+   "cited": {
+    "authors": "Hagedorn, G.; Mietchen, D.; Morris, R. A.; Agosti, D.; Penev, L.; Berendsohn, W. G.; Hobern, D.",
+    "year": 2011,
+    "title": "Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information",
+    "venue": "ZooKeys, 150, 127-149",
+    "doi": "10.3897/zookeys.150.2189",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3897/zookeys.150.2189",
+    "title": "Creative Commons licenses and the non-commercial condition: Implications for the re-use of biodiversity information",
+    "year": 2011,
+    "authors": "Hagedorn; Mietchen; Morris; Agosti; Penev; Berendsohn; Hobern",
+    "venue": "ZooKeys",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiesler2016",
+   "cited": {
+    "authors": "Fiesler, C.; Lampe, C.; Bruckman, A. S.",
+    "year": 2016,
+    "title": "Reality and Perception of Copyright Terms of Service for Online Content Creation",
+    "venue": "Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW '16)",
+    "doi": "10.1145/2818048.2819931",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/2818048.2819931",
+    "title": "Reality and Perception of Copyright Terms of Service for Online Content Creation",
+    "year": 2016,
+    "authors": "Fiesler; Lampe; Bruckman",
+    "venue": "Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "derclaye2008",
+   "cited": {
+    "authors": "Derclaye, E.",
+    "year": 2008,
+    "title": "The Legal Protection of Databases: A Comparative Analysis",
+    "venue": "Edward Elgar Publishing",
+    "doi": "10.4337/9781847209986",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4337/9781847209986",
+    "title": "The Legal Protection of Databases: A Comparative Analysis",
+    "year": 2008,
+    "authors": "Derclaye",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "axanar_case",
+   "cited": {
+    "authors": "United States District Court for the Central District of California",
+    "year": 2017,
+    "title": "Paramount Pictures Corp. v. Axanar Productions, Inc., No. 2:15-cv-09938-RGK-E (C.D. Cal.): orders of 9 May 2016 (motion to dismiss) and 3 January 2017 (summary judgment)",
+    "venue": "U.S. District Court docket; summary-judgment order as reported by The Hollywood Reporter",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lcs_axanar",
+   "cited": {
+    "authors": "Language Creation Society",
+    "year": 2016,
+    "title": "Axanar [the Society's amicus brief in Paramount v. Axanar, with updates]",
+    "venue": "conlang.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "techdirt2016",
+   "cited": {
+    "authors": "Techdirt",
+    "year": 2016,
+    "title": "Judge Says Copyright Case Against Star Trek Fan Film Can 'Live Long' And Possibly 'Prosper'",
+    "venue": "techdirt.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "guadamuz2016",
+   "cited": {
+    "authors": "Guadamuz, A.",
+    "year": 2016,
+    "title": "Can you copyright the Klingon language?",
+    "venue": "TechnoLlama (academic blog)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "loglan1992",
+   "cited": {
+    "authors": "United States Court of Appeals for the Federal Circuit",
+    "year": 1992,
+    "title": "Loglan Institute, Inc. v. Logical Language Group, Inc., 962 F.2d 1038 (Fed. Cir. 1992)",
+    "venue": "Federal Reporter, Second Series",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "usc102b",
+   "cited": {
+    "authors": "United States Congress",
+    "year": 1976,
+    "title": "17 U.S.C. § 102(b) (ideas, procedures, processes, systems and methods of operation excluded from copyright)",
+    "venue": "United States Code, Title 17",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "usc107",
+   "cited": {
+    "authors": "United States Congress",
+    "year": 1976,
+    "title": "17 U.S.C. § 107 (fair use)",
+    "venue": "United States Code, Title 17",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "baker1880",
+   "cited": {
+    "authors": "Supreme Court of the United States",
+    "year": 1880,
+    "title": "Baker v. Selden, 101 U.S. 99 (1880)",
+    "venue": "United States Reports",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "feist1991",
+   "cited": {
+    "authors": "Supreme Court of the United States",
+    "year": 1991,
+    "title": "Feist Publications, Inc. v. Rural Telephone Service Co., 499 U.S. 340 (1991)",
+    "venue": "United States Reports",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "rdr2008",
+   "cited": {
+    "authors": "United States District Court for the Southern District of New York",
+    "year": 2008,
+    "title": "Warner Bros. Entertainment Inc. v. RDR Books, 575 F. Supp. 2d 513 (S.D.N.Y. 2008)",
+    "venue": "Federal Supplement, Second Series",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "cfr202",
+   "cited": {
+    "authors": "United States Copyright Office",
+    "year": 1992,
+    "title": "37 C.F.R. § 202.1 Material not subject to copyright: (a) words and short phrases; (e) typeface as typeface",
+    "venue": "Code of Federal Regulations",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "eltra1978",
+   "cited": {
+    "authors": "United States Court of Appeals for the Fourth Circuit",
+    "year": 1978,
+    "title": "Eltra Corp. v. Ringer, 579 F.2d 294 (4th Cir. 1978)",
+    "venue": "Federal Reporter, Second Series (URL is an encyclopedia mirror that summarises the case)",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "adobe1998",
+   "cited": {
+    "authors": "United States District Court for the Northern District of California",
+    "year": 1998,
+    "title": "Adobe Systems Inc. v. Southern Software Inc., No. C 95-20710 RMW, 1998 WL 104303 (N.D. Cal. 1998)",
+    "venue": "Unreported district court decision",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "monotype_update",
+   "cited": {
+    "authors": "Monotype",
+    "year": null,
+    "title": "Update on the application of copyright law to typeface design and font software",
+    "venue": "monotype.com (industry source)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "fordham2021",
+   "cited": {
+    "authors": "Fordham Intellectual Property, Media & Entertainment Law Journal",
+    "year": 2021,
+    "title": "Open Type Questions: Issues in Copyright Law and Protecting Typeface Design",
+    "venue": "fordhamiplj.org (law journal blog)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tabari2010",
+   "cited": {
+    "authors": "United States Court of Appeals for the Ninth Circuit",
+    "year": 2010,
+    "title": "Toyota Motor Sales, U.S.A., Inc. v. Tabari, 610 F.3d 1171 (9th Cir. 2010)",
+    "venue": "Federal Reporter, Third Series",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ninth1526",
+   "cited": {
+    "authors": "Ninth Circuit Jury Instructions Committee",
+    "year": null,
+    "title": "Manual of Model Civil Jury Instructions, 15.26 Defenses: Nominative Fair Use",
+    "venue": "United States Courts for the Ninth Circuit",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "newkids1992",
+   "cited": {
+    "authors": "United States Court of Appeals for the Ninth Circuit",
+    "year": 1992,
+    "title": "New Kids on the Block v. News America Publishing, Inc., 971 F.2d 302 (9th Cir. 1992)",
+    "venue": "Federal Reporter, Second Series (URL is a law-firm overview that discusses the case)",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "jackdaniels2023",
+   "cited": {
+    "authors": "Supreme Court of the United States",
+    "year": 2023,
+    "title": "Jack Daniel's Properties, Inc. v. VIP Products LLC, 599 U.S. 140 (2023)",
+    "venue": "United States Reports",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "sas2012",
+   "cited": {
+    "authors": "Court of Justice of the European Union",
+    "year": 2012,
+    "title": "SAS Institute Inc. v World Programming Ltd, Case C-406/10 (Grand Chamber, 2 May 2012); Press Release No 53/12",
+    "venue": "curia.europa.eu",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "exxon1982",
+   "cited": {
+    "authors": "Court of Appeal of England and Wales",
+    "year": 1982,
+    "title": "Exxon Corp. v Exxon Insurance Consultants International Ltd [1982] Ch 119",
+    "venue": "Law Reports, Chancery Division",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "dbdirective1996",
+   "cited": {
+    "authors": "European Parliament; Council of the European Union",
+    "year": 1996,
+    "title": "Directive 96/9/EC of 11 March 1996 on the legal protection of databases",
+    "venue": "Official Journal of the European Communities, L 77",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp_copyright",
+   "cited": {
+    "authors": "Unofficial Elder Scrolls Pages (UESP)",
+    "year": 2026,
+    "title": "UESPWiki:Copyright and Ownership (revision 3529700 of 26 March 2026, read through the MediaWiki API)",
+    "venue": "en.uesp.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ccbysa25",
+   "cited": {
+    "authors": "Creative Commons",
+    "year": 2005,
+    "title": "Attribution-ShareAlike 2.5 Generic: Legal Code",
+    "venue": "creativecommons.org (address as linked from the UESP policy page)",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda_video",
+   "cited": {
+    "authors": "Bethesda Softworks",
+    "year": 2017,
+    "title": "Bethesda Video Policy",
+    "venue": "bethesda.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda_standards",
+   "cited": {
+    "authors": "Bethesda Softworks",
+    "year": null,
+    "title": "Bethesda Softworks Community Standards",
+    "venue": "bethesda.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "zenimax_tos",
+   "cited": {
+    "authors": "ZeniMax Media Inc.",
+    "year": null,
+    "title": "Terms of Service",
+    "venue": "bethesda.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "xbox_rules",
+   "cited": {
+    "authors": "Microsoft",
+    "year": 2015,
+    "title": "Game Content Usage Rules",
+    "venue": "xbox.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "pcgamer2025",
+   "cited": {
+    "authors": "PC Gamer",
+    "year": 2025,
+    "title": "Credit where it's due: Bethesda is being admirably normal by letting modders carry on with their competing Oblivion remaster",
+    "venue": "pcgamer.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "gamesradar2026",
+   "cited": {
+    "authors": "GamesRadar+",
+    "year": 2026,
+    "title": "Bethesda kills AI fan's viral Fallout game, much to their chagrin",
+    "venue": "gamesradar.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "scrolls2012",
+   "cited": {
+    "authors": "Game Developer",
+    "year": 2012,
+    "title": "ZeniMax settlement blocks Mojang from making more Scrolls games",
+    "venue": "gamedeveloper.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_dict4",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Dovahzul Print Dictionary, 4th Edition",
+    "venue": "thuum.org (fan site; search snippet only)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_downloads",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Downloads",
+    "venue": "thuum.org (fan site; search snippet only)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "elfdict_forum",
+   "cited": {
+    "authors": "Parf Edhellen (elfdict.com) discussion board",
+    "year": null,
+    "title": "Question about copyright",
+    "venue": "elfdict.com (fan forum; search snippet only)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "elvish_faq",
+   "cited": {
+    "authors": "Elvish Linguistic Fellowship",
+    "year": null,
+    "title": "FAQ",
+    "venue": "elvish.org (search snippet only)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda_dragon_language",
+   "cited": {
+    "authors": "Wilhelm, P.",
+    "year": 2021,
+    "title": "How Bethesda Game Studios made Skyrim's Dragon language",
+    "venue": "elderscrolls.bethesda.net (Bethesda Softworks)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lojban1997",
+   "cited": {
+    "authors": "Logical Language Group",
+    "year": 1997,
+    "title": "1997 Baseline Announcement",
+    "venue": "tiki.lojban.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

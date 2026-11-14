@@ -1,10 +1,9 @@
 {
  "source": "research/refs/app-design-motivation.json",
  "counts": {
-  "verified": 90,
+  "verified": 93,
   "manual": 3,
-  "doi_resolves": 3,
-  "found": 2
+  "doi_resolves": 3
  },
  "results": [
   {
@@ -1869,20 +1868,18 @@
     "year": 2025,
     "title": "The motivating power of streaks: Increasing persistence is as easy as 1, 2, 3",
     "venue": "Organizational Behavior and Human Decision Processes",
-    "doi": null,
+    "doi": "10.1016/j.obhdp.2025.104391",
     "type": "article"
    },
-   "status": "found",
-   "suggested_doi": "10.1016/j.obhdp.2025.104391",
    "registry": {
     "doi": "10.1016/j.obhdp.2025.104391",
     "title": "The motivating power of streaks: Increasing persistence is as easy as 1, 2, 3",
     "year": 2025,
     "authors": "Mehr; Silverman; Sharif; Barasch; Milkman",
     "venue": "Organizational Behavior and Human Decision Processes",
-    "type": "journal-article",
-    "similarity": 1.0
-   }
+    "type": "journal-article"
+   },
+   "status": "verified"
   },
   {
    "id": "lee2023",
@@ -1891,20 +1888,18 @@
     "year": 2023,
     "title": "Effects of Gamification on Students’ English Language Proficiency: A Meta-Analysis on Research in South Korea",
     "venue": "Sustainability",
-    "doi": null,
+    "doi": "10.3390/su151411325",
     "type": "article"
    },
-   "status": "found",
-   "suggested_doi": "10.3390/su151411325",
    "registry": {
     "doi": "10.3390/su151411325",
     "title": "Effects of Gamification on Students’ English Language Proficiency: A Meta-Analysis on Research in South Korea",
     "year": 2023,
     "authors": "Lee; Baek",
     "venue": "Sustainability",
-    "type": "journal-article",
-    "similarity": 1.0
-   }
+    "type": "journal-article"
+   },
+   "status": "verified"
   },
   {
    "id": "reinders2015",
@@ -1922,6 +1917,26 @@
     "year": 2015,
     "authors": "Reinders; Wattana",
     "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sharif2017",
+   "cited": {
+    "authors": "Sharif, M. A.; Shu, S. B.",
+    "year": 2017,
+    "title": "The Benefits of Emergency Reserves: Greater Preference and Persistence for Goals That Have Slack with a Cost",
+    "venue": "Journal of Marketing Research",
+    "doi": "10.1509/jmr.15.0231",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1509/jmr.15.0231",
+    "title": "The Benefits of Emergency Reserves: Greater Preference and Persistence for Goals that Have Slack with a Cost",
+    "year": 2017,
+    "authors": "Sharif; Shu",
+    "venue": "Journal of Marketing Research",
     "type": "journal-article"
    },
    "status": "verified"

@@ -1,0 +1,743 @@
+{
+ "source": "research/refs/community-landscape.json",
+ "counts": {
+  "verified": 13,
+  "not_found": 1,
+  "manual": 36
+ },
+ "results": [
+  {
+   "id": "garvia2015",
+   "cited": {
+    "authors": "Garvía, R.",
+    "year": 2015,
+    "title": "Esperanto and Its Rivals: The Struggle for an International Language",
+    "venue": "University of Pennsylvania Press",
+    "doi": "10.9783/9780812291278",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.9783/9780812291278",
+    "title": "Esperanto and Its Rivals: The Struggle for an International Language",
+    "year": 2015,
+    "authors": "Garvía",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2011",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2011,
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "venue": "Current Issues in Language Planning",
+    "doi": "10.1080/14664208.2011.604965",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14664208.2011.604965",
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "year": 2011,
+    "authors": "Schreyer",
+    "venue": "Current Issues in Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2015",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2015,
+    "title": "The digital fandom of Na'vi speakers",
+    "venue": "Transformative Works and Cultures",
+    "doi": "10.3983/twc.2015.0610",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3983/twc.2015.0610",
+    "title": "digital fandom of Na'vi speakers",
+    "year": 2015,
+    "authors": "Schreyer",
+    "venue": "Transformative Works and Cultures",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2006",
+   "cited": {
+    "authors": "Fiedler, S.",
+    "year": 2006,
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "venue": "International Journal of the Sociology of Language",
+    "doi": "10.1515/IJSL.2006.005",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl.2006.005",
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "year": 2006,
+    "authors": "Fiedler",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "blanke2009",
+   "cited": {
+    "authors": "Blanke, D.",
+    "year": 2009,
+    "title": "Causes of the relative success of Esperanto",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.33.3.04bla",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.33.3.04bla",
+    "title": "Causes of the relative success of Esperanto",
+    "year": 2009,
+    "authors": "Blanke",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hostetter2007",
+   "cited": {
+    "authors": "Hostetter, C. F.",
+    "year": 2007,
+    "title": "Tolkienian Linguistics: The First Fifty Years",
+    "venue": "Tolkien Studies",
+    "doi": "10.1353/tks.2007.0022",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/tks.2007.0022",
+    "title": "Tolkienian Linguistics: The First Fifty Years",
+    "year": 2007,
+    "authors": "Hostetter",
+    "venue": "Tolkien Studies",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "okrent2009",
+   "cited": {
+    "authors": "Okrent, A.",
+    "year": 2009,
+    "title": "In the Land of Invented Languages",
+    "venue": "Spiegel & Grau",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1111/j.1548-1395.2012.01128.x",
+     "title": "In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language – By Arika Okrent",
+     "year": 2012,
+     "authors": "JONES",
+     "venue": "Journal of Linguistic Anthropology",
+     "type": "journal-article",
+     "similarity": 0.9
+    },
+    {
+     "doi": "10.1075/lplp.33.3.12ton",
+     "title": "Review of Okrent (2009): In the Land of Invented Languages",
+     "year": 2009,
+     "authors": "Tonkin",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.75
+    },
+    {
+     "doi": "10.1093/obo/9780199772810-0164",
+     "title": "Artificial Languages",
+     "year": 2013,
+     "authors": "Okrent",
+     "venue": "Oxford Bibliographies in Linguistics",
+     "type": "reference-entry",
+     "similarity": 0.453
+    }
+   ]
+  },
+  {
+   "id": "loglan1992",
+   "cited": {
+    "authors": "United States Court of Appeals for the Federal Circuit",
+    "year": 1992,
+    "title": "Loglan Institute, Inc. v. Logical Language Group, Inc., 962 F.2d 1038 (Fed. Cir. 1992)",
+    "venue": "Federal Reporter, Second Series",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lojban1997",
+   "cited": {
+    "authors": "Logical Language Group",
+    "year": 1997,
+    "title": "1997 Baseline Announcement",
+    "venue": "tiki.lojban.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "windsor2026",
+   "cited": {
+    "authors": "Windsor, J. W.",
+    "year": 2026,
+    "title": "Conlangs in Video and Table-Top Gaming",
+    "venue": "The Palgrave Handbook of Constructed Languages (Springer Nature Switzerland)",
+    "doi": "10.1007/978-3-032-03277-5_10",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-032-03277-5_10",
+    "title": "Conlangs in Video and Table-Top Gaming",
+    "year": 2026,
+    "authors": "Windsor",
+    "venue": "The Palgrave Handbook of Constructed Languages",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gordin2015",
+   "cited": {
+    "authors": "Gordin, M. D.",
+    "year": 2015,
+    "title": "Scientific Babel: How Science Was Done Before and After Global English",
+    "venue": "University of Chicago Press",
+    "doi": "10.7208/chicago/9780226000329.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.7208/chicago/9780226000329.001.0001",
+    "title": "Scientific Babel: How Science Was Done Before and After Global English",
+    "year": 2015,
+    "authors": "Gordin",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "forster1982",
+   "cited": {
+    "authors": "Forster, P. G.",
+    "year": 1982,
+    "title": "The Esperanto Movement",
+    "venue": "Mouton (De Gruyter)",
+    "doi": "10.1515/9783110824568",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9783110824568",
+    "title": "The Esperanto Movement",
+    "year": 1982,
+    "authors": "Forster",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "haugen1966",
+   "cited": {
+    "authors": "Haugen, E.",
+    "year": 1966,
+    "title": "Dialect, Language, Nation",
+    "venue": "American Anthropologist",
+    "doi": "10.1525/aa.1966.68.4.02a00040",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1525/aa.1966.68.4.02a00040",
+    "title": "Dialect, Language, Nation\n                    <sup>1</sup>",
+    "year": 1966,
+    "authors": "HAUGEN",
+    "venue": "American Anthropologist",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "milroy2001",
+   "cited": {
+    "authors": "Milroy, J.",
+    "year": 2001,
+    "title": "Language ideologies and the consequences of standardization",
+    "venue": "Journal of Sociolinguistics",
+    "doi": "10.1111/1467-9481.00163",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/1467-9481.00163",
+    "title": "Language ideologies and the consequences of standardization",
+    "year": 2001,
+    "authors": "Milroy",
+    "venue": "Journal of Sociolinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nyman2013",
+   "cited": {
+    "authors": "Nyman, L.; Lindman, J.",
+    "year": 2013,
+    "title": "Code Forking, Governance, and Sustainability in Open Source Software",
+    "venue": "Technology Innovation Management Review",
+    "doi": "10.22215/timreview/644",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.22215/timreview/644",
+    "title": "Code Forking, Governance, and Sustainability in Open Source Software",
+    "year": 2013,
+    "authors": "Nyman; Lindman",
+    "venue": "Technology Innovation Management Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "robles2012",
+   "cited": {
+    "authors": "Robles, G.; González-Barahona, J. M.",
+    "year": 2012,
+    "title": "A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes",
+    "venue": "Open Source Systems: Long-Term Sustainability (IFIP AICT 378), Springer",
+    "doi": "10.1007/978-3-642-33442-9_1",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-642-33442-9_1",
+    "title": "A Comprehensive Study of Software Forks: Dates, Reasons and Outcomes",
+    "year": 2012,
+    "authors": "Robles; González-Barahona",
+    "venue": "IFIP Advances in Information and Communication Technology",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thuum_home",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": 2026,
+    "title": "Thuum.org - The Dragon Language Dictionary [home page; carries a site notice dated 28 March 2026]",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_about",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "About",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_manual",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Manual [contributor guidance: canon, semi-canon and non-canon words]",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_library",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Library",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_downloads",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Downloads",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_dict5",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Dragon Language Dictionary: Dragon-English, English-Dragon, Fifth Edition",
+    "venue": "thuum.org Library (PDF)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_dict4",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Dovahzul Print Dictionary, 4th Edition",
+    "venue": "thuum.org Library (PDF)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_dict3",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Dovahzul Dictionary: Dovahzul-English, English-Dovahzul, Third Edition",
+    "venue": "thuum.org (PDF)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_lessonbook",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Learning Dovahzul: The Unofficial Guide to the Dragon Language of Skyrim",
+    "venue": "thuum.org (PDF)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_news2016",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": 2016,
+    "title": "Site Update, February 6, 2016",
+    "venue": "thuum.org news",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_news_lessonbook",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Lesson Book & Second Edition Print Dictionary",
+    "venue": "thuum.org news",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_news_memrise",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Non-Canon Memrise Course",
+    "venue": "thuum.org news",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_startinganew",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": null,
+    "title": "Starting Anew [forum thread; title only seen]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_canon_thread",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": null,
+    "title": "Canon, Non-Canon and Semi-Canon Words [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_canon_question",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": null,
+    "title": "Canon, Semi-Canon and Non-Canon [question thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_legacy",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Legacy Dictionary",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_faq2021",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": 2021,
+    "title": "An Updated FAQ [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_unicode",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": null,
+    "title": "Dragon Runes Unicode [forum thread; title only seen]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_app2013",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": 2013,
+    "title": "Dovahzul Dictionary -- Android app [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_app_official",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": null,
+    "title": "The official Dovahzul Dictionary Android App [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_memrise_runes",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": 2021,
+    "title": "New Memrise course for translating from runes to English [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_memrise_shouts",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": 2016,
+    "title": "Memrise: \"Dovahzul: Dragon Shouts\" [forum thread]",
+    "venue": "thuum.org forum",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "luckow",
+   "cited": {
+    "authors": "Luckow, M.",
+    "year": null,
+    "title": "Thuum.org [project page on a personal portfolio site]",
+    "venue": "matthewluckow.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tumblr_diary",
+   "cited": {
+    "authors": "Diary of a Dragonborn",
+    "year": null,
+    "title": "Diary of a Dragonborn [Tumblr blog that says it is run by the owner of Thuum.org]",
+    "venue": "Tumblr",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "github_dict_app",
+   "cited": {
+    "authors": "zolianmawia (GitHub user)",
+    "year": null,
+    "title": "Dovahzul-Dictionary [source repository of the Android dictionary app]",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "apkpure_dict_app",
+   "cited": {
+    "authors": "APKPure",
+    "year": null,
+    "title": "Dovahzul Dictionary APK for Android Download [store mirror listing, version 2.1.0]",
+    "venue": "APKPure",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "funtranslations",
+   "cited": {
+    "authors": "Fun Translations",
+    "year": null,
+    "title": "Thuum Translator API",
+    "venue": "funtranslations.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "github_ankit",
+   "cited": {
+    "authors": "Ankit-Nag (GitHub user)",
+    "year": null,
+    "title": "dovahzul-translator",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "github_cat16",
+   "cited": {
+    "authors": "cat16 (GitHub user)",
+    "year": null,
+    "title": "dovahzul-translator",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "memrise_dovahzul",
+   "cited": {
+    "authors": "Memrise",
+    "year": null,
+    "title": "Learn Dovahzul with Memrise",
+    "venue": "memrise.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "learningelvish2026",
+   "cited": {
+    "authors": "LearningElvish.com",
+    "year": 2026,
+    "title": "Dovahzul Dictionary: Common Dragon Language Words (2026)",
+    "venue": "learningelvish.com blog",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "learningelvish_phrases",
+   "cited": {
+    "authors": "LearningElvish.com",
+    "year": null,
+    "title": "Dovahzul Words & Phrases: Skyrim Dragon Language Guide",
+    "venue": "learningelvish.com blog",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026lang",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598, 24 August 2026)",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026fonts",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "General:Fonts",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

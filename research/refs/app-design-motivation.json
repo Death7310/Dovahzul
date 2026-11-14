@@ -956,7 +956,7 @@
   "year": 2025,
   "title": "The motivating power of streaks: Increasing persistence is as easy as 1, 2, 3",
   "venue": "Organizational Behavior and Human Decision Processes",
-  "doi": null,
+  "doi": "10.1016/j.obhdp.2025.104391",
   "url": null
  },
  {
@@ -966,7 +966,7 @@
   "year": 2023,
   "title": "Effects of Gamification on Students’ English Language Proficiency: A Meta-Analysis on Research in South Korea",
   "venue": "Sustainability",
-  "doi": null,
+  "doi": "10.3390/su151411325",
   "url": null
  },
  {
@@ -977,6 +977,16 @@
   "title": "Affect and willingness to communicate in digital game-based learning",
   "venue": "ReCALL",
   "doi": "10.1017/S0958344014000226",
+  "url": null
+ },
+ {
+  "id": "sharif2017",
+  "type": "article",
+  "authors": "Sharif, M. A.; Shu, S. B.",
+  "year": 2017,
+  "title": "The Benefits of Emergency Reserves: Greater Preference and Persistence for Goals That Have Slack with a Cost",
+  "venue": "Journal of Marketing Research",
+  "doi": "10.1509/jmr.15.0231",
   "url": null
  }
 ]

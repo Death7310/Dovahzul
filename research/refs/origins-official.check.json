@@ -1,0 +1,484 @@
+{
+ "source": "research/refs/origins-official.json",
+ "counts": {
+  "manual": 19,
+  "not_found": 3,
+  "verified": 5,
+  "found": 1
+ },
+ "results": [
+  {
+   "id": "miller2011",
+   "cited": {
+    "authors": "Miller, M.",
+    "year": 2011,
+    "title": "Skyrim's Dragon Shouts",
+    "venue": "Game Informer, online feature, 20 January 2011 (interview with Todd Howard and Emil Pagliarulo; full text archived on UESP as General:Skyrim's Dragon Shouts)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda2021",
+   "cited": {
+    "authors": "Bethesda Softworks",
+    "year": 2021,
+    "title": "How Bethesda Game Studios made Skyrim's Dragon language",
+    "venue": "elderscrolls.bethesda.net news article, August 2021 (interview with Emil Pagliarulo)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda2011wall",
+   "cited": {
+    "authors": "Bethesda Softworks",
+    "year": 2011,
+    "title": "Behind the Wall: The Making of Skyrim",
+    "venue": "Promotional documentary released with the Skyrim Collector's Edition, 11 November 2011 (transcript on UESP)",
+    "doi": null,
+    "type": "other"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda2011fan",
+   "cited": {
+    "authors": "Bethesda Softworks",
+    "year": 2011,
+    "title": "Skyrim Fan Interview",
+    "venue": "Bethesda forums post by community manager Gstaff, 5 July 2011, answers by Todd Howard, Bruce Nesmith and Matt Carofano (archived on UESP)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "hodgson2011",
+   "cited": {
+    "authors": "Hodgson, D.",
+    "year": 2011,
+    "title": "The Elder Scrolls V: Skyrim: Prima Official Game Guide",
+    "venue": "Prima Games (ISBN 978-0307891372; later Revised and Expanded, Legendary, Special and Atlas editions)",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.14361/9783839468258-037",
+     "title": "The Elder Scrolls V: Skyrim (2011)",
+     "year": 2025,
+     "authors": "Schwartz",
+     "venue": "Game Studies",
+     "type": "book-chapter",
+     "similarity": 0.651
+    },
+    {
+     "doi": "10.31261/pr.8957",
+     "title": "Wybrane toponimy w rosyjskim przekładzie gry The Elder Scrolls V: Skyrim",
+     "year": 2020,
+     "authors": "Włodowska",
+     "venue": "Przegląd Rusycystyczny",
+     "type": "journal-article",
+     "similarity": 0.423
+    },
+    {
+     "doi": "10.14295/principios.2675-6609.2026.174.008",
+     "title": "Uso da inteligência artificial na modificação de jogos eletrônicos: O caso do game The elder scrolls V: Skyrim",
+     "year": 2026,
+     "authors": "Nicolai; De Souza Mesquita",
+     "venue": "Princípios",
+     "type": "journal-article",
+     "similarity": 0.325
+    }
+   ]
+  },
+  {
+   "id": "zos2019",
+   "cited": {
+    "authors": "ZeniMax Online Studios",
+    "year": 2019,
+    "title": "Welcome to the Elsweyr & Update 22 AUA",
+    "venue": "Reddit r/elderscrollsonline developer Q&A, 3 June 2019 (archived on UESP)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026lang",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598, 24 August 2026)",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026alpha",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Alphabet (revision 3495681, 3 February 2026)",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026fonts",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "General:Fonts",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2011dragontes",
+   "cited": {
+    "authors": "ZKoshak (UESP user)",
+    "year": 2011,
+    "title": "File:DragonTES.zip (fan-made dragon font; file description page with the author's terms)",
+    "venue": "UESP file page, first uploaded 10 January 2011, revised 24 October and 26 November 2011 by other users",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2011dragonscript",
+   "cited": {
+    "authors": "Vaag256 (UESP user)",
+    "year": 2011,
+    "title": "File:SR-Dragon script.zip (Dragon script font in TTF format)",
+    "venue": "UESP file page, uploaded 4 December 2011",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026pagliarulo",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "General:Emil Pagliarulo",
+    "venue": "UESP, The Unofficial Elder Scrolls Pages (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp2026snapshot",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Snapshot of 331 UESP wiki pages taken 2026-11-14 (research/sources/uesp/, with research/data/README.md and ATTRIBUTION.md)",
+    "venue": "Project repository data, derived from UESP (CC BY-SA 2.5)",
+    "doi": null,
+    "type": "other"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "til-dragon",
+   "cited": {
+    "authors": "The Imperial Library",
+    "year": 2026,
+    "title": "Dragon language word list (cited by UESP as 'Official Bethesda Dragon dictionary'; undated, URL taken from the UESP reference, page not seen)",
+    "venue": "The Imperial Library (fan archive)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum-about",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": 2026,
+    "title": "About Thuum.org (undated; seen only through search-result summaries on 2026-11-14)",
+    "venue": "Thuum.org (fan community)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum-downloads",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": 2026,
+    "title": "Downloads: dictionaries and Dragon Alphabet font (undated; seen only through search-result summaries on 2026-11-14)",
+    "venue": "Thuum.org (fan community)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum-thesis",
+   "cited": {
+    "authors": "Thuum.org forum members",
+    "year": 2026,
+    "title": "Bachelor Thesis: Skyrim's Dragon Language (forum thread; undated, contents not seen)",
+    "venue": "Thuum.org forum thread 40",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "davidson2012",
+   "cited": {
+    "authors": "Davidson, N.",
+    "year": 2012,
+    "title": "Dovahkiin (font, Pixel Sagas)",
+    "venue": "FontSpace listing",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ofl-comicdragonrunes",
+   "cited": {
+    "authors": "Open Font Library contributor (name not established)",
+    "year": 2026,
+    "title": "ComicDragonRunes (font; undated listing)",
+    "venue": "Open Font Library, fontlibrary.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "rg2023",
+   "cited": {
+    "authors": "Authors not established",
+    "year": 2023,
+    "title": "Invented languages and their reflections on the world of video games",
+    "venue": "ResearchGate record 375632518 (venue and peer-review status not established)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "windsor2026",
+   "cited": {
+    "authors": "Windsor, J. W.",
+    "year": 2026,
+    "title": "Conlangs in Video and Table-Top Gaming",
+    "venue": "The Palgrave Handbook of Constructed Languages (Springer Nature Switzerland)",
+    "doi": "10.1007/978-3-032-03277-5_10",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-032-03277-5_10",
+    "title": "Conlangs in Video and Table-Top Gaming",
+    "year": 2026,
+    "authors": "Windsor",
+    "venue": "The Palgrave Handbook of Constructed Languages",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sanders2016",
+   "cited": {
+    "authors": "Sanders, N.",
+    "year": 2016,
+    "title": "Constructed languages in the classroom",
+    "venue": "Language",
+    "doi": "10.1353/lan.2016.0055",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/lan.2016.0055",
+    "title": "Constructed languages in the classroom",
+    "year": 2016,
+    "authors": "Sanders",
+    "venue": "Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "peterson2025",
+   "cited": {
+    "authors": "Peterson, J.",
+    "year": 2025,
+    "title": "How to Create a Language: The Conlang Guide",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/9781108991827",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/9781108991827",
+    "title": "How to Create a Language: The Conlang Guide",
+    "year": 2025,
+    "authors": "Peterson",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "adams2011",
+   "cited": {
+    "authors": "Adams, M. (ed.)",
+    "year": 2011,
+    "title": "From Elvish to Klingon: Exploring Invented Languages",
+    "venue": "Oxford University Press (no DOI recorded: the DOI the checker suggests, 10.1353/dic.2012.0009, belongs to a journal review of this book, not to the book)",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "found",
+   "suggested_doi": "10.1353/dic.2012.0009",
+   "registry": {
+    "doi": "10.1353/dic.2012.0009",
+    "title": "From Elvish to Klingon: Exploring Invented Languages (review)",
+    "year": 2012,
+    "authors": "",
+    "venue": "Dictionaries: Journal of the Dictionary Society of North America",
+    "type": "journal-article",
+    "similarity": 0.936
+   }
+  },
+  {
+   "id": "elzinga2012",
+   "cited": {
+    "authors": "Elzinga, D.",
+    "year": 2012,
+    "title": "Review of Adams (2011): From Elvish to Klingon: Exploring Invented Languages",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.36.3.06elz",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.36.3.06elz",
+    "title": "Review of Adams (2011): From Elvish to Klingon: Exploring Invented Languages",
+    "year": 2012,
+    "authors": "Elzinga",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cooper2021",
+   "cited": {
+    "authors": "Cooper, V.",
+    "year": 2021,
+    "title": "Modding and authentic, gritty medievalism in Skyrim",
+    "venue": "The Middle Ages in Modern Culture (Bloomsbury)",
+    "doi": "10.5040/9781350167452.0019",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.5040/9781350167452.0019",
+    "title": "Modding and authentic, gritty medievalism in  Skyrim",
+    "year": 2021,
+    "authors": "Cooper",
+    "venue": "The Middle Ages in Modern Culture",
+    "type": "other"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cooper2016",
+   "cited": {
+    "authors": "Cooper, V. E.",
+    "year": 2016,
+    "title": "Fantasies of the North: Medievalism and Identity in Skyrim",
+    "venue": "PhD thesis, University of Leeds (White Rose eTheses Online record 16875; not indexed in Crossref)",
+    "doi": null,
+    "type": "thesis"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.7765/9781526173966",
+     "title": "Fantasies of music in nostalgic medievalism",
+     "year": 2026,
+     "authors": "Dell",
+     "venue": "",
+     "type": "monograph",
+     "similarity": 0.58
+    },
+    {
+     "doi": "10.5040/9781350167452.0019",
+     "title": "Modding and authentic, gritty medievalism in  Skyrim",
+     "year": 2021,
+     "authors": "Cooper",
+     "venue": "The Middle Ages in Modern Culture",
+     "type": "other",
+     "similarity": 0.579
+    },
+    {
+     "doi": "10.7765/9781526173966.00002",
+     "title": "Dedication",
+     "year": 2026,
+     "authors": "Dell",
+     "venue": "Fantasies of music in nostalgic medievalism",
+     "type": "book-chapter",
+     "similarity": 0.209
+    }
+   ]
+  },
+  {
+   "id": "moberly2013",
+   "cited": {
+    "authors": "Moberly, K.; Moberly, B.",
+    "year": 2013,
+    "title": "There is No Word for Work in the Dragon Tongue",
+    "venue": "The Year's Work in Medievalism 28 (not indexed in Crossref; publisher PDF seen in search results)",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.54014/6e5z-zyna",
+     "title": "Word concreteness and word frequency as moderators of the tip-of-the-tongue effect",
+     "year": 2025,
+     "authors": "Gianico",
+     "venue": "",
+     "type": "dissertation",
+     "similarity": 0.453
+    },
+    {
+     "doi": "10.5771/9780739175910-193",
+     "title": "10 “Work, Donkey, Work”",
+     "year": 2013,
+     "authors": "Ziolkowska-Boehm",
+     "venue": "Melchior Wankowicz",
+     "type": "book-chapter",
+     "similarity": 0.338
+    },
+    {
+     "doi": "10.4324/9781003074557-2",
+     "title": "Dragon-lore",
+     "year": 2020,
+     "authors": "Tongue; Briggs",
+     "venue": "Forgotten Folk-Tales of the English Counties",
+     "type": "book-chapter",
+     "similarity": 0.316
+    }
+   ]
+  }
+ ]
+}
