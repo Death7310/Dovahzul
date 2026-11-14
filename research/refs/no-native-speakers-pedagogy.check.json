@@ -1,0 +1,1600 @@
+{
+ "source": "research/refs/no-native-speakers-pedagogy.json",
+ "counts": {
+  "verified": 70,
+  "doi_resolves": 1,
+  "not_found": 4,
+  "manual": 1
+ },
+ "results": [
+  {
+   "id": "ash2001",
+   "cited": {
+    "authors": "Ash, A.; Fermino, J. L. D.; Hale, K.",
+    "year": 2001,
+    "title": "Diversity in local language maintenance and restoration: A reason for optimism",
+    "venue": "In Hinton & Hale (eds.), The Green Book of Language Revitalization in Practice, pp. 19-35",
+    "doi": "10.1163/9789004261723_003",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1163/9789004261723_003",
+    "title": "Diversity in Local Language Maintenance and Restoration: A Reason For Optimism",
+    "year": 2001,
+    "authors": "Ash; Doe Fermino; Hale",
+    "venue": "The Green Book of Language Revitalization in Practice",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hinton2011",
+   "cited": {
+    "authors": "Hinton, L.",
+    "year": 2011,
+    "title": "Language revitalization and language pedagogy: new teaching and learning strategies",
+    "venue": "Language and Education 25(4), 307-318",
+    "doi": "10.1080/09500782.2011.577220",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/09500782.2011.577220",
+    "title": "Language revitalization and language pedagogy: new teaching and learning strategies",
+    "year": 2011,
+    "authors": "Hinton",
+    "venue": "Language and Education",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "amery2016",
+   "cited": {
+    "authors": "Amery, R.",
+    "year": 2016,
+    "title": "Warraparna Kaurna! Reclaiming an Australian Language",
+    "venue": "University of Adelaide Press",
+    "doi": "10.20851/kaurna",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.20851/kaurna",
+    "title": "Warraparna Kaurna! Reclaiming an Australian language",
+    "year": 2016,
+    "authors": "Amery",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "amery2001",
+   "cited": {
+    "authors": "Amery, R.",
+    "year": 2001,
+    "title": "Language planning and language revival",
+    "venue": "Current Issues in Language Planning 2(2-3), 141-221",
+    "doi": "10.1080/14664200108668023",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14664200108668023",
+    "title": "Language Planning and Language Revival",
+    "year": 2001,
+    "authors": "Amery",
+    "venue": "Current Issues in Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "leonard2011",
+   "cited": {
+    "authors": "Leonard, W. Y.",
+    "year": 2011,
+    "title": "Challenging \"extinction\" through modern Miami language practices",
+    "venue": "American Indian Culture and Research Journal 35(2), 135-160",
+    "doi": "10.17953/aicr.35.2.f3r173r46m261844",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.17953/aicr.35.2.f3r173r46m261844",
+    "title": "Challenging \"Extinction\" through Modern Miami Language Practices",
+    "year": 2011,
+    "authors": "Leonard",
+    "venue": "American Indian Culture and Research Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "leonard2017",
+   "cited": {
+    "authors": "Leonard, W. Y.",
+    "year": 2017,
+    "title": "Producing language reclamation by decolonising 'language'",
+    "venue": "Language Documentation and Description 14, 15-36",
+    "doi": "10.25894/ldd146",
+    "type": "article"
+   },
+   "status": "doi_resolves",
+   "note": "DOI is registered outside Crossref; metadata not compared"
+  },
+  {
+   "id": "warner2009",
+   "cited": {
+    "authors": "Warner, N.; Luna, Q.; Butler, L.; van Volkinburg, H.",
+    "year": 2009,
+    "title": "Revitalization in a scattered language community: problems and methods from the perspective of Mutsun language revitalization",
+    "venue": "International Journal of the Sociology of Language 2009(198), 135-148",
+    "doi": "10.1515/IJSL.2009.031",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl.2009.031",
+    "title": "Revitalization in a scattered language community: problems and methods from the perspective of Mutsun language revitalization",
+    "year": 2009,
+    "authors": "Warner; Luna; Butler; van Volkinburg",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "zuckermann2011",
+   "cited": {
+    "authors": "Zuckermann, G.; Walsh, M.",
+    "year": 2011,
+    "title": "Stop, Revive, Survive: Lessons from the Hebrew Revival Applicable to the Reclamation, Maintenance and Empowerment of Aboriginal Languages and Cultures",
+    "venue": "Australian Journal of Linguistics 31(1), 111-127",
+    "doi": "10.1080/07268602.2011.532859",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/07268602.2011.532859",
+    "title": "Stop, Revive, Survive: Lessons from the Hebrew Revival Applicable to the Reclamation, Maintenance and Empowerment of Aboriginal Languages and Cultures",
+    "year": 2011,
+    "authors": "Zuckermann; Walsh",
+    "venue": "Australian Journal of Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "zuckermann2020",
+   "cited": {
+    "authors": "Zuckermann, G.",
+    "year": 2020,
+    "title": "Revivalistics: From the Genesis of Israeli to Language Reclamation in Australia and Beyond",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/oso/9780199812776.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1093/oso/9780199812776.001.0001",
+    "title": "Revivalistics: From the Genesis of Israeli to Language Reclamation in Australia and Beyond",
+    "year": 2020,
+    "authors": "Zuckermann",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fellman1973",
+   "cited": {
+    "authors": "Fellman, J.",
+    "year": 1973,
+    "title": "The Revival of a Classical Tongue: Eliezer Ben Yehuda and the Modern Hebrew Language",
+    "venue": "Mouton",
+    "doi": "10.1515/9783110879100",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9783110879100",
+    "title": "The Revival of Classical Tongue: Eliezer Ben Yehuda and the Modern Hebrew Language",
+    "year": 1973,
+    "authors": "Fellman",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nahir1998",
+   "cited": {
+    "authors": "Nahir, M.",
+    "year": 1998,
+    "title": "Micro language planning and the revival of Hebrew: A schematic framework",
+    "venue": "Language in Society 27(3), 335-357",
+    "doi": "10.1017/S0047404500020005",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0047404500020005",
+    "title": "Micro language planning and the revival of Hebrew: A schematic framework",
+    "year": 1998,
+    "authors": "Nahir",
+    "venue": "Language in Society",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "spolsky1995",
+   "cited": {
+    "authors": "Spolsky, B.",
+    "year": 1995,
+    "title": "Conditions for Language Revitalization: A Comparison of the Cases of Hebrew and Maori",
+    "venue": "Current Issues in Language and Society 2(3), 177-201",
+    "doi": "10.1080/13520529509615444",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/13520529509615444",
+    "title": "Conditions for Language Revitalization: A Com parison of the Cases of Hebrew and Maori",
+    "year": 1995,
+    "authors": "Spolsky",
+    "venue": "Current Issues In Language and Society",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sayers2012",
+   "cited": {
+    "authors": "Sayers, D.",
+    "year": 2012,
+    "title": "Standardising Cornish: The politics of a new minority language",
+    "venue": "Language Problems and Language Planning 36(2), 99-119",
+    "doi": "10.1075/lplp.36.2.01say",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.36.2.01say",
+    "title": "Standardising Cornish: The politics of a new minority language",
+    "year": 2012,
+    "authors": "Sayers",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ohifearnain2015",
+   "cited": {
+    "authors": "Ó hIfearnáin, T.",
+    "year": 2015,
+    "title": "Sociolinguistic vitality of Manx after extreme language shift: authenticity without traditional native speakers",
+    "venue": "International Journal of the Sociology of Language 2015(231), 45-62",
+    "doi": "10.1515/ijsl-2014-0031",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl-2014-0031",
+    "title": "Sociolinguistic vitality of Manx after extreme language shift: authenticity without traditional native speakers",
+    "year": 2015,
+    "authors": "Ó hIfearnáin",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "orourke2015",
+   "cited": {
+    "authors": "O'Rourke, B.; Pujolar, J.; Ramallo, F.",
+    "year": 2015,
+    "title": "New speakers of minority languages: the challenging opportunity - Foreword",
+    "venue": "International Journal of the Sociology of Language 2015(231), 1-20",
+    "doi": "10.1515/ijsl-2014-0029",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl-2014-0029",
+    "title": "New speakers of minority languages: the challenging opportunity – Foreword",
+    "year": 2015,
+    "authors": "O'Rourke; Pujolar; Ramallo",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mcivor2020",
+   "cited": {
+    "authors": "McIvor, O.",
+    "year": 2020,
+    "title": "Indigenous language revitalization and applied linguistics: Parallel histories, shared futures?",
+    "venue": "Annual Review of Applied Linguistics 40, 78-96",
+    "doi": "10.1017/S0267190520000094",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0267190520000094",
+    "title": "Indigenous Language Revitalization and Applied Linguistics: Parallel Histories, Shared Futures?",
+    "year": 2020,
+    "authors": "McIvor",
+    "venue": "Annual Review of Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "peter2006",
+   "cited": {
+    "authors": "Peter, L.; Hirata-Edds, T. E.",
+    "year": 2006,
+    "title": "Using assessment to inform instruction in Cherokee language revitalisation",
+    "venue": "International Journal of Bilingual Education and Bilingualism 9(5), 643-658",
+    "doi": "10.2167/beb385.0",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2167/beb385.0",
+    "title": "Using Assessment to Inform Instruction in Cherokee Language Revitalisation",
+    "year": 2006,
+    "authors": "Peter; Hirata-Edds",
+    "venue": "International Journal of Bilingual Education and Bilingualism",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2011",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2011,
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "venue": "Current Issues in Language Planning 12(3), 403-425",
+    "doi": "10.1080/14664208.2011.604965",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14664208.2011.604965",
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "year": 2011,
+    "authors": "Schreyer",
+    "venue": "Current Issues in Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2006",
+   "cited": {
+    "authors": "Fiedler, S.",
+    "year": 2006,
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "venue": "International Journal of the Sociology of Language 2006(177), 67-90",
+    "doi": "10.1515/IJSL.2006.005",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl.2006.005",
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "year": 2006,
+    "authors": "Fiedler",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "malikmoraleda2025",
+   "cited": {
+    "authors": "Malik-Moraleda, S.; Taliaferro, M.; Shannon, S.; Jhingan, N.; Swords, S.; Peterson, D. J.; Frommer, P.; Okrand, M.; Sams, J.; Cardwell, R.; Freeman, C.; Fedorenko, E.",
+    "year": 2025,
+    "title": "Constructed languages are processed by the same brain mechanisms as natural languages",
+    "venue": "Proceedings of the National Academy of Sciences 122(12), e2313473122",
+    "doi": "10.1073/pnas.2313473122",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1073/pnas.2313473122",
+    "title": "Constructed languages are processed by the same brain mechanisms as natural languages",
+    "year": 2025,
+    "authors": "Malik-Moraleda; Taliaferro; Shannon; Jhingan; Swords; Peterson; Frommer; Okrand; Peterson; Cardwell; Freeman; Fedorenko",
+    "venue": "Proceedings of the National Academy of Sciences",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lloydhunt2021",
+   "cited": {
+    "authors": "Lloyd, M. E.; Hunt, S.",
+    "year": 2021,
+    "title": "Communicative Approaches for Ancient Languages",
+    "venue": "Bloomsbury Academic",
+    "doi": "10.5040/9781350157378",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.5040/9781350157378",
+    "title": "Communicative Approaches for Ancient Languages",
+    "year": 2021,
+    "authors": "Lloyd; Hunt",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "coffee2012",
+   "cited": {
+    "authors": "Coffee, N.",
+    "year": 2012,
+    "title": "Active Latin: Quo Tendimus?",
+    "venue": "Classical World 105(2), 255-269",
+    "doi": "10.1353/clw.2012.0007",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/clw.2012.0007",
+    "title": "Active Latin: Quo Tendimus?",
+    "year": 2012,
+    "authors": "Coffee",
+    "venue": "Classical World",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "owens2016",
+   "cited": {
+    "authors": "Owens, P. M.",
+    "year": 2016,
+    "title": "Barbarisms at the Gate: An Analysis of Some Perils in Active Latin Pedagogy",
+    "venue": "Classical World 109(4), 507-523",
+    "doi": "10.1353/clw.2016.0047",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/clw.2016.0047",
+    "title": "Barbarisms at the Gate: An Analysis of Some Perils in Active Latin Pedagogy",
+    "year": 2016,
+    "authors": "Owens",
+    "venue": "Classical World",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wingate2013",
+   "cited": {
+    "authors": "Wingate, H.",
+    "year": 2013,
+    "title": "The Natural Method of Teaching Latin: Its Origins, Rationale, and Prospects",
+    "venue": "Classical World 106(3), 493-504",
+    "doi": "10.1353/clw.2013.0054",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/clw.2013.0054",
+    "title": "The Natural Method of Teaching Latin: Its Origins, Rationale, and Prospects",
+    "year": 2013,
+    "authors": "Wingate",
+    "venue": "Classical World",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "venditti2021",
+   "cited": {
+    "authors": "Venditti, E.",
+    "year": 2021,
+    "title": "Using Comprehensible Input in the Latin Classroom to Enhance Language Proficiency",
+    "venue": "Journal of Classics Teaching 22(43)",
+    "doi": "10.1017/S2058631021000039",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s2058631021000039",
+    "title": "Using Comprehensible Input in the Latin Classroom to Enhance Language Proficiency",
+    "year": 2021,
+    "authors": "Venditti",
+    "venue": "Journal of Classics Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "moran2022",
+   "cited": {
+    "authors": "Moran, J.",
+    "year": 2022,
+    "title": "Comprehending Comprehensible Input (CI): Some Observations",
+    "venue": "Journal of Classics Teaching 23(45)",
+    "doi": "10.1017/S2058631021000799",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s2058631021000799",
+    "title": "Comprehending Comprehensible Input (CI): Some Observations",
+    "year": 2022,
+    "authors": "Moran",
+    "venue": "Journal of Classics Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "piazza2017",
+   "cited": {
+    "authors": "Piazza, J. P.",
+    "year": 2017,
+    "title": "Beginner Latin Novels: A General Overview",
+    "venue": "Teaching Classical Languages 8(2), 154-166",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1007/978-3-319-68158-0_1",
+     "title": "Introduction: Liminal Females in Contemporary Latin-American Novels",
+     "year": 2018,
+     "authors": "Botero",
+     "venue": "Literatures of the Americas",
+     "type": "book-chapter",
+     "similarity": 0.34
+    },
+    {
+     "doi": "10.18356/53aff179-en",
+     "title": "Risks and outlook for 2017",
+     "year": 2017,
+     "authors": "Economic Commission for Latin America and the Caribbean",
+     "venue": "Preliminary Overview of the Economy of Latin America and the Caribbean",
+     "type": "book-chapter",
+     "similarity": 0.242
+    },
+    {
+     "doi": "10.18356/d59457d9-en",
+     "title": "Preliminary Overview of the Economies of Latin America and the Caribbean 2016",
+     "year": 2017,
+     "authors": "Economic Commission for Latin America and the Caribbean",
+     "venue": "Preliminary Overview of the Economy of Latin America and the Caribbean",
+     "type": "book",
+     "similarity": 0.222
+    }
+   ]
+  },
+  {
+   "id": "muccigrosso2004",
+   "cited": {
+    "authors": "Muccigrosso, J. D.",
+    "year": 2004,
+    "title": "Frequent Vocabulary in Latin Instruction",
+    "venue": "Classical World 97(4), 409-433",
+    "doi": "10.2307/4352875",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/4352875",
+    "title": "Frequent Vocabulary in Latin Instruction",
+    "year": 2004,
+    "authors": "Muccigrosso",
+    "venue": "The Classical World",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "grubermiller2006",
+   "cited": {
+    "authors": "Gruber-Miller, J.",
+    "year": 2006,
+    "title": "When Dead Tongues Speak: Teaching Beginning Greek and Latin",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/oso/9780195174946.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1093/oso/9780195174946.001.0001",
+    "title": "When Dead Tongues Speak: Teaching Beginning Greek And Latin",
+    "year": 2006,
+    "authors": "Gruber-Miller",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "orberg1991",
+   "cited": {
+    "authors": "Ørberg, H. H.",
+    "year": 1991,
+    "title": "Lingua Latina per se Illustrata, Pars I: Familia Romana",
+    "venue": "Domus Latina",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.2307/4352082",
+     "title": "Lingua Latina: Per Se Illustrata",
+     "year": 1998,
+     "authors": "Davis; Oerberg",
+     "venue": "The Classical World",
+     "type": "journal-article",
+     "similarity": 0.9
+    },
+    {
+     "doi": "10.22456/2238-8915.45854",
+     "title": "RESENHA DE LINGUA LATINA PER SE ILLUSTRATA - FAMILIA ROMANA",
+     "year": 2014,
+     "authors": "Quednau",
+     "venue": "Organon",
+     "type": "journal-article",
+     "similarity": 0.836
+    },
+    {
+     "doi": "10.4322/llpsi.2016.001",
+     "title": "&gt;Vocabulário Latim-Português: Baseado no livro Lingua Latina Per Se Illustratata - Familia Romana",
+     "year": 2016,
+     "authors": "Azevedo; Quednau; Costa",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.631
+    }
+   ]
+  },
+  {
+   "id": "stafford2012",
+   "cited": {
+    "authors": "Stafford, C. A.; Bowden, H. W.; Sanz, C.",
+    "year": 2012,
+    "title": "Optimizing language instruction: Matters of explicitness, practice, and cue learning",
+    "venue": "Language Learning 62(3), 741-768",
+    "doi": "10.1111/j.1467-9922.2011.00648.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-9922.2011.00648.x",
+    "title": "Optimizing Language Instruction: Matters of Explicitness, Practice, and Cue Learning",
+    "year": 2012,
+    "authors": "Stafford; Bowden; Sanz",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lichtman2021",
+   "cited": {
+    "authors": "Lichtman, K.; VanPatten, B.",
+    "year": 2021,
+    "title": "Was Krashen right? Forty years later",
+    "venue": "Foreign Language Annals 54(2), 283-305",
+    "doi": "10.1111/flan.12552",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/flan.12552",
+    "title": "Was Krashen right? Forty years later",
+    "year": 2021,
+    "authors": "Lichtman; VanPatten",
+    "venue": "Foreign Language Annals",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lichtman2018",
+   "cited": {
+    "authors": "Lichtman, K.",
+    "year": 2018,
+    "title": "Teaching Proficiency through Reading and Storytelling (TPRS): An Input-Based Approach to Second Language Instruction",
+    "venue": "Routledge",
+    "doi": "10.4324/9781315208022",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9781315208022",
+    "title": "Teaching Proficiency Through Reading and Storytelling (TPRS): An Input-Based Approach to Second Language Instruction",
+    "year": 2018,
+    "authors": "Lichtman",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nationwaring2020",
+   "cited": {
+    "authors": "Nation, I. S. P.; Waring, R.",
+    "year": 2020,
+    "title": "Teaching Extensive Reading in Another Language",
+    "venue": "Routledge",
+    "doi": "10.4324/9780367809256",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780367809256",
+    "title": "Teaching Extensive Reading in Another Language",
+    "year": 2019,
+    "authors": "Nation; Waring",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nationwang1999",
+   "cited": {
+    "authors": "Nation, P.; Wang, K.",
+    "year": 1999,
+    "title": "Graded readers and vocabulary",
+    "venue": "Reading in a Foreign Language 12(2), 355-380",
+    "doi": "10.64152/10125/66966",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/66966",
+    "title": "Graded readers and vocabulary",
+    "year": 1999,
+    "authors": "Nation; Wang Ming-tzu",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hunation2000",
+   "cited": {
+    "authors": "Hsueh-chao, M. H.; Nation, P.",
+    "year": 2000,
+    "title": "Unknown vocabulary density and reading comprehension",
+    "venue": "Reading in a Foreign Language 13(1), 403-430",
+    "doi": "10.64152/10125/66973",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/66973",
+    "title": "Unknown vocabulary density and reading comprehension",
+    "year": 2000,
+    "authors": "Hsueh-chao; Nation",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schmitt2011",
+   "cited": {
+    "authors": "Schmitt, N.; Jiang, X.; Grabe, W.",
+    "year": 2011,
+    "title": "The percentage of words known in a text and reading comprehension",
+    "venue": "The Modern Language Journal 95(1), 26-43",
+    "doi": "10.1111/j.1540-4781.2011.01146.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.2011.01146.x",
+    "title": "The Percentage of Words Known in a Text and Reading Comprehension",
+    "year": 2011,
+    "authors": "SCHMITT; JIANG; GRABE",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "webb2025",
+   "cited": {
+    "authors": "Webb, S.; Pellicer-Sánchez, A.; Wang, A.",
+    "year": 2025,
+    "title": "Lexical coverage and reading comprehension revisited",
+    "venue": "Reading in a Foreign Language",
+    "doi": "10.64152/10125/67517",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/67517",
+    "title": "Lexical coverage and reading comprehension revisited",
+    "year": 2025,
+    "authors": "Webb; Pellicer-Sánchez; Wang",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nation2014",
+   "cited": {
+    "authors": "Nation, P.",
+    "year": 2014,
+    "title": "How much input do you need to learn the most frequent 9,000 words?",
+    "venue": "Reading in a Foreign Language 26(2), 1-16",
+    "doi": "10.64152/10125/66881",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/66881",
+    "title": "How much input do you need to learn the most frequent 9,000 words?",
+    "year": 2014,
+    "authors": "Nation",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "webb2007",
+   "cited": {
+    "authors": "Webb, S.",
+    "year": 2007,
+    "title": "The effects of repetition on vocabulary knowledge",
+    "venue": "Applied Linguistics 28(1), 46-65",
+    "doi": "10.1093/applin/aml048",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/aml048",
+    "title": "The Effects of Repetition on Vocabulary Knowledge",
+    "year": 2007,
+    "authors": "Webb",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uchihara2019",
+   "cited": {
+    "authors": "Uchihara, T.; Webb, S.; Yanagisawa, A.",
+    "year": 2019,
+    "title": "The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies",
+    "venue": "Language Learning 69(3), 559-599",
+    "doi": "10.1111/lang.12343",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12343",
+    "title": "The Effects of Repetition on Incidental Vocabulary Learning: A Meta‐Analysis of Correlational Studies",
+    "year": 2019,
+    "authors": "Uchihara; Webb; Yanagisawa",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "waring2003",
+   "cited": {
+    "authors": "Waring, R.; Takaki, M.",
+    "year": 2003,
+    "title": "At what rate do learners learn and retain new vocabulary from reading a graded reader?",
+    "venue": "Reading in a Foreign Language 15(2), 130-163",
+    "doi": "10.64152/10125/66776",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/66776",
+    "title": "At what rate do learners learn and retain new vocabulary from reading a graded reader?",
+    "year": 2003,
+    "authors": "Waring; Takaki",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schmittcarter2000",
+   "cited": {
+    "authors": "Schmitt, N.; Carter, R.",
+    "year": 2000,
+    "title": "The lexical advantages of narrow reading for second language learners",
+    "venue": "TESOL Journal 9(1), 4-9",
+    "doi": "10.1002/j.1949-3533.2000.tb00220.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/j.1949-3533.2000.tb00220.x",
+    "title": "The Lexical Advantages of Narrow Reading for Second Language Learners",
+    "year": 2000,
+    "authors": "Schmitt; Carter",
+    "venue": "TESOL Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "chang2017",
+   "cited": {
+    "authors": "Chang, A. C.-S.; Millett, S.",
+    "year": 2017,
+    "title": "Narrow reading: Effects on EFL learners' reading speed, comprehension, and perceptions",
+    "venue": "Reading in a Foreign Language 29(1), 1-19",
+    "doi": "10.64152/10125/66725",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.64152/10125/66725",
+    "title": "Narrow reading: Effects on EFL learners’ reading speed, comprehension, and perceptions",
+    "year": 2017,
+    "authors": "Chang; Millett",
+    "venue": "Reading in a Foreign Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "crossley2007",
+   "cited": {
+    "authors": "Crossley, S. A.; Louwerse, M. M.; McCarthy, P. M.; McNamara, D. S.",
+    "year": 2007,
+    "title": "A linguistic analysis of simplified and authentic texts",
+    "venue": "The Modern Language Journal 91(1), 15-30",
+    "doi": "10.1111/j.1540-4781.2007.00507.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.2007.00507.x",
+    "title": "A Linguistic Analysis of Simplified and Authentic Texts",
+    "year": 2007,
+    "authors": "CROSSLEY; LOUWERSE; McCARTHY; McNAMARA",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "crossley2012",
+   "cited": {
+    "authors": "Crossley, S. A.; Allen, D.; McNamara, D. S.",
+    "year": 2012,
+    "title": "Text simplification and comprehensible input: A case for an intuitive approach",
+    "venue": "Language Teaching Research 16(1), 89-108",
+    "doi": "10.1177/1362168811423456",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168811423456",
+    "title": "Text simplification and comprehensible input: A case for an intuitive approach",
+    "year": 2012,
+    "authors": "Crossley; Allen; McNamara",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "perez2012",
+   "cited": {
+    "authors": "Perez-Beltrachini, L.; Gardent, C.; Kruszewski, G.",
+    "year": 2012,
+    "title": "Generating Grammar Exercises",
+    "venue": "Proceedings of the Seventh Workshop on Building Educational Applications Using NLP, 147-156. Association for Computational Linguistics",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.18653/v1/p19-1504",
+     "title": "Generating Summaries with Topic Templates and Structured Convolutional Decoders",
+     "year": 2019,
+     "authors": "Perez-Beltrachini; Liu; Lapata",
+     "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+     "type": "proceedings-article",
+     "similarity": 0.374
+    },
+    {
+     "doi": "10.18653/v1/w16-6626",
+     "title": "The WebNLG Challenge: Generating Text from DBPedia Data",
+     "year": 2016,
+     "authors": "Colin; Gardent; Mrabet; Narayan; Perez-Beltrachini",
+     "venue": "Proceedings of the 9th International Natural Language Generation conference",
+     "type": "proceedings-article",
+     "similarity": 0.366
+    },
+    {
+     "doi": "10.18653/v1/w17-3518",
+     "title": "The WebNLG Challenge: Generating Text from RDF Data",
+     "year": 2017,
+     "authors": "Gardent; Shimorina; Narayan; Perez-Beltrachini",
+     "venue": "Proceedings of the 10th International Conference on Natural Language Generation",
+     "type": "proceedings-article",
+     "similarity": 0.359
+    }
+   ]
+  },
+  {
+   "id": "lange2018",
+   "cited": {
+    "authors": "Lange, H.; Ljunglöf, P.",
+    "year": 2018,
+    "title": "MULLE: A grammar-based Latin language learning tool to supplement the classroom setting",
+    "venue": "Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications, 108-112",
+    "doi": "10.18653/v1/W18-3715",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.18653/v1/w18-3715",
+    "title": "MULLE: A grammar-based Latin language learning tool to supplement the classroom setting",
+    "year": 2018,
+    "authors": "Lange; Ljunglöf",
+    "venue": "Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "morganshort2012",
+   "cited": {
+    "authors": "Morgan-Short, K.; Steinhauer, K.; Sanz, C.; Ullman, M. T.",
+    "year": 2012,
+    "title": "Explicit and implicit second language training differentially affect the achievement of native-like brain activation patterns",
+    "venue": "Journal of Cognitive Neuroscience 24(4), 933-947",
+    "doi": "10.1162/jocn_a_00119",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/jocn_a_00119",
+    "title": "Explicit and Implicit Second Language Training Differentially Affect the Achievement of Native-like Brain Activation Patterns",
+    "year": 2012,
+    "authors": "Morgan-Short; Steinhauer; Sanz; Ullman",
+    "venue": "Journal of Cognitive Neuroscience",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ettlinger2016",
+   "cited": {
+    "authors": "Ettlinger, M.; Morgan-Short, K.; Faretta-Stutenberg, M.; Wong, P. C. M.",
+    "year": 2016,
+    "title": "The relationship between artificial and second language learning",
+    "venue": "Cognitive Science 40(4), 822-847",
+    "doi": "10.1111/cogs.12257",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/cogs.12257",
+    "title": "The Relationship Between Artificial and Second Language Learning",
+    "year": 2016,
+    "authors": "Ettlinger; Morgan‐Short; Faretta‐Stutenberg; Wong",
+    "venue": "Cognitive Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hudsonkam2005",
+   "cited": {
+    "authors": "Hudson Kam, C. L.; Newport, E. L.",
+    "year": 2005,
+    "title": "Regularizing unpredictable variation: The roles of adult and child learners in language formation and change",
+    "venue": "Language Learning and Development 1(2), 151-195",
+    "doi": "10.1080/15475441.2005.9684215",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/15475441.2005.9684215",
+    "title": "Regularizing Unpredictable Variation: The Roles of Adult and Child Learners in Language Formation and Change",
+    "year": 2005,
+    "authors": "Hudson Kam; Newport",
+    "venue": "Language Learning and Development",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nation2022",
+   "cited": {
+    "authors": "Nation, I. S. P.",
+    "year": 2022,
+    "title": "Learning Vocabulary in Another Language",
+    "venue": "Cambridge University Press (3rd ed.)",
+    "doi": "10.1017/9781009093873",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/9781009093873",
+    "title": "Learning Vocabulary in Another Language",
+    "year": 2022,
+    "authors": "Nation",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nationmacalister2010",
+   "cited": {
+    "authors": "Nation, I. S. P.; Macalister, J.",
+    "year": 2010,
+    "title": "Language Curriculum Design",
+    "venue": "Routledge",
+    "doi": "10.4324/9780203870730",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203870730",
+    "title": "Language Curriculum Design",
+    "year": 2009,
+    "authors": "Macalister; Nation",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hegodfroid2019",
+   "cited": {
+    "authors": "He, X.; Godfroid, A.",
+    "year": 2019,
+    "title": "Choosing words to teach: A novel method for vocabulary selection and its practical application",
+    "venue": "TESOL Quarterly 53(2), 348-371",
+    "doi": "10.1002/tesq.483",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/tesq.483",
+    "title": "Choosing Words to Teach: A Novel Method for Vocabulary Selection and Its Practical Application",
+    "year": 2019,
+    "authors": "He; Godfroid",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "goldschneider2001",
+   "cited": {
+    "authors": "Goldschneider, J. M.; DeKeyser, R. M.",
+    "year": 2001,
+    "title": "Explaining the \"natural order of L2 morpheme acquisition\" in English: A meta-analysis of multiple determinants",
+    "venue": "Language Learning 51(1), 1-50",
+    "doi": "10.1111/1467-9922.00147",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/1467-9922.00147",
+    "title": "Explaining the “Natural Order of L2 Morpheme Acquisition” in English: A Meta‐analysis of Multiple Determinants",
+    "year": 2001,
+    "authors": "Goldschneider; DeKeyser",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "zhang2015",
+   "cited": {
+    "authors": "Zhang, X.; Lantolf, J. P.",
+    "year": 2015,
+    "title": "Natural or artificial: Is the route of L2 development teachable?",
+    "venue": "Language Learning 65(1), 152-180",
+    "doi": "10.1111/lang.12094",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12094",
+    "title": "Natural or Artificial: Is the Route of L2 Development Teachable?",
+    "year": 2015,
+    "authors": "Zhang; Lantolf",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wray2002",
+   "cited": {
+    "authors": "Wray, A.",
+    "year": 2002,
+    "title": "Formulaic Language and the Lexicon",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511519772",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511519772",
+    "title": "Formulaic Language and the Lexicon",
+    "year": 2002,
+    "authors": "Wray",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "boers2006",
+   "cited": {
+    "authors": "Boers, F.; Eyckmans, J.; Kappel, J.; Stengers, H.; Demecheleer, M.",
+    "year": 2006,
+    "title": "Formulaic sequences and perceived oral proficiency: putting a Lexical Approach to the test",
+    "venue": "Language Teaching Research 10(3), 245-261",
+    "doi": "10.1191/1362168806lr195oa",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1191/1362168806lr195oa",
+    "title": "Formulaic sequences and perceived oral proficiency: putting a Lexical                 Approach to the test",
+    "year": 2006,
+    "authors": "Boers; Eyckmans; Kappel; Stengers; Demecheleer",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "boers2012",
+   "cited": {
+    "authors": "Boers, F.; Lindstromberg, S.",
+    "year": 2012,
+    "title": "Experimental and intervention studies on formulaic sequences in a second language",
+    "venue": "Annual Review of Applied Linguistics 32, 83-110",
+    "doi": "10.1017/S0267190512000050",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0267190512000050",
+    "title": "Experimental and Intervention Studies on Formulaic Sequences in a Second Language",
+    "year": 2012,
+    "authors": "Boers; Lindstromberg",
+    "venue": "Annual Review of Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "myles1998",
+   "cited": {
+    "authors": "Myles, F.; Hooper, J.; Mitchell, R.",
+    "year": 1998,
+    "title": "Rote or rule? Exploring the role of formulaic language in classroom foreign language learning",
+    "venue": "Language Learning 48(3), 323-364",
+    "doi": "10.1111/0023-8333.00045",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/0023-8333.00045",
+    "title": "Rote or Rule? Exploring the Role of Formulaic Language in Classroom ForeignLanguage Learning",
+    "year": 1998,
+    "authors": "Myles; Hooper; Mitchell",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "richards2013",
+   "cited": {
+    "authors": "Richards, J. C.",
+    "year": 2013,
+    "title": "Curriculum approaches in language teaching: Forward, central, and backward design",
+    "venue": "RELC Journal 44(1), 5-33",
+    "doi": "10.1177/0033688212473293",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0033688212473293",
+    "title": "Curriculum Approaches in Language Teaching: Forward, Central, and Backward Design",
+    "year": 2013,
+    "authors": "Richards",
+    "venue": "RELC Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "north1998",
+   "cited": {
+    "authors": "North, B.; Schneider, G.",
+    "year": 1998,
+    "title": "Scaling descriptors for language proficiency scales",
+    "venue": "Language Testing 15(2), 217-262",
+    "doi": "10.1177/026553229801500204",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/026553229801500204",
+    "title": "Scaling descriptors for language proficiency scales",
+    "year": 1998,
+    "authors": "North; Schneider",
+    "venue": "Language Testing",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "martin1978",
+   "cited": {
+    "authors": "Martin, M. A.",
+    "year": 1978,
+    "title": "The application of spiraling to the teaching of grammar",
+    "venue": "TESOL Quarterly 12(2), 151-161",
+    "doi": "10.2307/3585606",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3585606",
+    "title": "The Application of Spiraling to the Teaching of Grammar",
+    "year": 1978,
+    "authors": "Martin",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nation2007",
+   "cited": {
+    "authors": "Nation, P.",
+    "year": 2007,
+    "title": "The four strands",
+    "venue": "Innovation in Language Learning and Teaching 1(1), 2-13",
+    "doi": "10.2167/illt039.0",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2167/illt039.0",
+    "title": "The Four Strands",
+    "year": 2007,
+    "authors": "Nation",
+    "venue": "Innovation in Language Learning and Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kim2022",
+   "cited": {
+    "authors": "Kim, S. K.; Webb, S.",
+    "year": 2022,
+    "title": "The effects of spaced practice on second language learning: A meta-analysis",
+    "venue": "Language Learning 72(1), 269-319",
+    "doi": "10.1111/lang.12479",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12479",
+    "title": "The Effects of Spaced Practice on Second Language Learning: A Meta‐Analysis",
+    "year": 2022,
+    "authors": "Kim; Webb",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ross1998",
+   "cited": {
+    "authors": "Ross, S.",
+    "year": 1998,
+    "title": "Self-assessment in second language testing: a meta-analysis and analysis of experiential factors",
+    "venue": "Language Testing 15(1), 1-20",
+    "doi": "10.1177/026553229801500101",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/026553229801500101",
+    "title": "Self-assessment in second language testing: a meta-analysis and analysis of                 experiential factors",
+    "year": 1998,
+    "authors": "Ross",
+    "venue": "Language Testing",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lizhang2021",
+   "cited": {
+    "authors": "Li, M.; Zhang, X.",
+    "year": 2021,
+    "title": "A meta-analysis of self-assessment and language performance in language testing and assessment",
+    "venue": "Language Testing 38(2), 189-218",
+    "doi": "10.1177/0265532220932481",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0265532220932481",
+    "title": "A meta-analysis of  self-assessment and language performance  in language testing and assessment",
+    "year": 2021,
+    "authors": "Li; Zhang",
+    "venue": "Language Testing",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cook1999",
+   "cited": {
+    "authors": "Cook, V.",
+    "year": 1999,
+    "title": "Going beyond the native speaker in language teaching",
+    "venue": "TESOL Quarterly 33(2), 185-209",
+    "doi": "10.2307/3587717",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3587717",
+    "title": "Going beyond the Native Speaker in Language Teaching",
+    "year": 1999,
+    "authors": "Cook",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "brownhudson2002",
+   "cited": {
+    "authors": "Brown, J. D.; Hudson, T.",
+    "year": 2002,
+    "title": "Criterion-referenced Language Testing",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9781139524803",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9781139524803",
+    "title": "Criterion-Referenced Language Testing",
+    "year": 2001,
+    "authors": "Brown; Hudson",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "segalowitz2010",
+   "cited": {
+    "authors": "Segalowitz, N.",
+    "year": 2010,
+    "title": "Cognitive Bases of Second Language Fluency",
+    "venue": "Routledge",
+    "doi": "10.4324/9780203851357",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203851357",
+    "title": "Cognitive Bases of Second Language Fluency",
+    "year": 2010,
+    "authors": "Segalowitz",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "laufer2008",
+   "cited": {
+    "authors": "Laufer, B.; Girsai, N.",
+    "year": 2008,
+    "title": "Form-focused instruction in second language vocabulary learning: A case for contrastive analysis and translation",
+    "venue": "Applied Linguistics 29(4), 694-716",
+    "doi": "10.1093/applin/amn018",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amn018",
+    "title": "Form-focused Instruction in Second Language Vocabulary Learning: A Case for Contrastive Analysis and Translation",
+    "year": 2008,
+    "authors": "Laufer; Girsai",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "swain1995",
+   "cited": {
+    "authors": "Swain, M.; Lapkin, S.",
+    "year": 1995,
+    "title": "Problems in output and the cognitive processes they generate: A step towards second language learning",
+    "venue": "Applied Linguistics 16(3), 371-391",
+    "doi": "10.1093/applin/16.3.371",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/16.3.371",
+    "title": "Problems in Output and the Cognitive Processes They Generate: A Step Towards Second Language Learning",
+    "year": 1995,
+    "authors": "SWAIN; LAPKIN",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uesp_dragon_language",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+    "venue": "The Unofficial Elder Scrolls Pages (UESP wiki)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "hinton2001sleeping",
+   "cited": {
+    "authors": "Hinton, L.",
+    "year": 2001,
+    "title": "Sleeping languages: Can they be awakened?",
+    "venue": "In Hinton & Hale (eds.), The Green Book of Language Revitalization in Practice, pp. 413-417",
+    "doi": "10.1163/9789004261723_032",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1163/9789004261723_032",
+    "title": "Sleeping Languages: Can They Be Awakened?",
+    "year": 2001,
+    "authors": "Hinton",
+    "venue": "The Green Book of Language Revitalization in Practice",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schmitt2017",
+   "cited": {
+    "authors": "Schmitt, N.; Cobb, T.; Horst, M.; Schmitt, D.",
+    "year": 2017,
+    "title": "How much vocabulary is needed to use English? Replication of van Zeeland & Schmitt (2012), Nation (2006) and Cobb (2007)",
+    "venue": "Language Teaching 50(2), 212-226",
+    "doi": "10.1017/S0261444815000075",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0261444815000075",
+    "title": "How much vocabulary is needed to use English? Replication of van Zeeland &amp; Schmitt (2012), Nation (2006) and Cobb (2007)",
+    "year": 2017,
+    "authors": "Schmitt; Cobb; Horst; Schmitt",
+    "venue": "Language Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "delon2026",
+   "cited": {
+    "authors": "De Lon, A.; Listenmaa, I.",
+    "year": 2026,
+    "title": "Multilingual language learning with Grammatical Framework",
+    "venue": "Proceedings of the 15th Workshop on Natural Language Processing for Computer Assisted Language Learning, 111-118. University of Tartu Library",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.22333/ijme.2018.11003",
+     "title": "LEARNING A SECOND LANGUAGE / THE GRAMMATICAL DIFFICULTIES OF TEACHING",
+     "year": 2018,
+     "authors": "Bepievi",
+     "venue": "INTERNATIONAL JOURNAL OF MULTILINGUAL EDUCATION",
+     "type": "journal-article",
+     "similarity": 0.516
+    },
+    {
+     "doi": "10.18653/v1/2025.mrl-main.3",
+     "title": "Universal Patterns of Grammatical Gender in Multilingual Large Language Models",
+     "year": 2025,
+     "authors": "Schröter; Basirat",
+     "venue": "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)",
+     "type": "proceedings-article",
+     "similarity": 0.341
+    },
+    {
+     "doi": "10.2139/ssrn.5909762",
+     "title": "The OS-Application Model of Second-Language Acquisition A Cognitive Framework for Adult Multilingual Learning",
+     "year": 2026,
+     "authors": "Moriyasu",
+     "venue": "",
+     "type": "posted-content",
+     "similarity": 0.253
+    }
+   ]
+  }
+ ]
+}

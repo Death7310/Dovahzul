@@ -1,0 +1,810 @@
+{
+ "source": "research/refs/typology-donor.json",
+ "counts": {
+  "manual": 3,
+  "verified": 30,
+  "not_found": 4
+ },
+ "results": [
+  {
+   "id": "wals2013",
+   "cited": {
+    "authors": "Dryer, M. S.; Haspelmath, M. (eds.)",
+    "year": 2013,
+    "title": "The World Atlas of Language Structures Online (WALS Online, v2020.6)",
+    "venue": "Max Planck Institute for Evolutionary Anthropology / Zenodo data set; feature tables downloaded 2026-11-14",
+    "doi": null,
+    "type": "other"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp_dragon_language",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+    "venue": "The Unofficial Elder Scrolls Pages",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda_dragon_language",
+   "cited": {
+    "authors": "Bethesda Game Studios",
+    "year": null,
+    "title": "How Bethesda Game Studios made Skyrim's Dragon language",
+    "venue": "elderscrolls.bethesda.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "dryer1992",
+   "cited": {
+    "authors": "Dryer, M. S.",
+    "year": 1992,
+    "title": "The Greenbergian word order correlations",
+    "venue": "Language",
+    "doi": "10.2307/416370",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/416370",
+    "title": "The Greenbergian Word Order Correlations",
+    "year": 1992,
+    "authors": "Dryer",
+    "venue": "Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gower1971",
+   "cited": {
+    "authors": "Gower, J. C.",
+    "year": 1971,
+    "title": "A general coefficient of similarity and some of its properties",
+    "venue": "Biometrics",
+    "doi": "10.2307/2528823",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/2528823",
+    "title": "A General Coefficient of Similarity and Some of Its Properties",
+    "year": 1971,
+    "authors": "Gower",
+    "venue": "Biometrics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "parkvall2010",
+   "cited": {
+    "authors": "Parkvall, M.",
+    "year": 2010,
+    "title": "How European is Esperanto? A typological study",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.34.1.04par",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.34.1.04par",
+    "title": "How European is Esperanto?: A typological study*",
+    "year": 2010,
+    "authors": "Parkvall",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "brosch2024",
+   "cited": {
+    "authors": "Brosch",
+    "year": 2024,
+    "title": "Warum sind internationale Plansprachen typologisch so, wie sie sind?",
+    "venue": "Jahrbuch der Gesellschaft für Interlinguistik",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.5771/9783518762165-21",
+     "title": "I. Liberale Kosmopolitinnen: Wie sie ticken und wo sie stehen",
+     "year": 2019,
+     "authors": "Strenger",
+     "venue": "Diese verdammten liberalen Eliten",
+     "type": "book-chapter",
+     "similarity": 0.4
+    },
+    {
+     "doi": "10.1007/978-3-446-42485-2_9",
+     "title": "Das Prozessmodell der ISO 9001: Die Dinge sind nie so, wie sie sind. Sie sind immer das, was man aus ihnen macht.",
+     "year": 2010,
+     "authors": "Anouilh",
+     "venue": "PQM - Prozessorientiertes Qualitätsmanagement",
+     "type": "book-chapter",
+     "similarity": 0.31
+    },
+    {
+     "doi": "10.1007/978-3-662-66727-9_2",
+     "title": "Werte: Was sind sie und warum spielen sie eine so große Rolle für die digitale Transformation?",
+     "year": 2023,
+     "authors": "Lüneburg",
+     "venue": "Wie digitale Transformation mit Werten gelingt",
+     "type": "book-chapter",
+     "similarity": 0.241
+    }
+   ]
+  },
+  {
+   "id": "goodall2023",
+   "cited": {
+    "authors": "Goodall, G.",
+    "year": 2023,
+    "title": "Constructed Languages",
+    "venue": "Annual Review of Linguistics",
+    "doi": "10.1146/annurev-linguistics-030421-064707",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1146/annurev-linguistics-030421-064707",
+    "title": "Constructed Languages",
+    "year": 2023,
+    "authors": "Goodall",
+    "venue": "Annual Review of Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2021",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2021,
+    "title": "Constructed Languages",
+    "venue": "Annual Review of Anthropology",
+    "doi": "10.1146/annurev-anthro-101819-110152",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1146/annurev-anthro-101819-110152",
+    "title": "Constructed Languages",
+    "year": 2021,
+    "authors": "Schreyer",
+    "venue": "Annual Review of Anthropology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "peterson2015",
+   "cited": {
+    "authors": "Peterson, D. J.",
+    "year": 2015,
+    "title": "The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building",
+    "venue": "Penguin Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1075/lplp.00008.gob",
+     "title": "David J. Peterson. <i>The art of language invention: From\n                        horse-lords to dark elves, the words behind the world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1075/lplp.41.2.13gob",
+     "title": "David J. Peterson. <i>The art of language invention: From horse-lords to dark elves, the words behind the\n            world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1515/9780691292601-019",
+     "title": "Chapter Seventeen Words and Deeds",
+     "year": 2007,
+     "authors": "",
+     "venue": "The Horse, the Wheel, and Language",
+     "type": "book-chapter",
+     "similarity": 0.336
+    }
+   ]
+  },
+  {
+   "id": "peterson2024",
+   "cited": {
+    "authors": "Peterson, D.; Peterson, J.",
+    "year": 2024,
+    "title": "A methodological proposal for conlang evaluation",
+    "venue": "Annual Review of Applied Linguistics",
+    "doi": "10.1017/S0267190524000084",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0267190524000084",
+    "title": "A methodological proposal for conlang evaluation",
+    "year": 2024,
+    "authors": "Peterson; Peterson",
+    "venue": "Annual Review of Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "novikov2022",
+   "cited": {
+    "authors": "Novikov",
+    "year": 2022,
+    "title": "Constructed Languages as Semantic and Semiotic Systems",
+    "venue": "RUDN Journal of Language Studies, Semiotics and Semantics",
+    "doi": "10.22363/2313-2299-2022-13-2-455-467",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.22363/2313-2299-2022-13-2-455-467",
+    "title": "Constructed Languages as Semantic and Semiotic Systems",
+    "year": 2022,
+    "authors": "Novikov",
+    "venue": "RUDN Journal of Language Studies, Semiotics and Semantics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kowli2023",
+   "cited": {
+    "authors": "Kowli, G.",
+    "year": 2023,
+    "title": "Conlangs as Speech Actions: Studying the pragmatics of Constructed Languages in Video Games",
+    "venue": "Proceedings of DiGRA Australia 2023",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1007/978-3-032-03277-5_15",
+     "title": "Conlangs in Theoretical Linguistics",
+     "year": 2026,
+     "authors": "Windsor",
+     "venue": "The Palgrave Handbook of Constructed Languages",
+     "type": "book-chapter",
+     "similarity": 0.336
+    },
+    {
+     "doi": "10.1007/978-3-032-03277-5_9",
+     "title": "Conlangs in Graphic Print Media",
+     "year": 2026,
+     "authors": "Johnson",
+     "venue": "The Palgrave Handbook of Constructed Languages",
+     "type": "book-chapter",
+     "similarity": 0.331
+    },
+    {
+     "doi": "10.1007/978-3-032-03277-5_10",
+     "title": "Conlangs in Video and Table-Top Gaming",
+     "year": 2026,
+     "authors": "Windsor",
+     "venue": "The Palgrave Handbook of Constructed Languages",
+     "type": "book-chapter",
+     "similarity": 0.328
+    }
+   ]
+  },
+  {
+   "id": "muysken1997",
+   "cited": {
+    "authors": "Muysken, P.",
+    "year": 1997,
+    "title": "Media Lengua",
+    "venue": "Thomason, S. G. (ed.), Contact Languages: A Wider Perspective. John Benjamins",
+    "doi": "10.1075/cll.17.13muy",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1075/cll.17.13muy",
+    "title": "Media Lengua",
+    "year": 1997,
+    "authors": "Muysken",
+    "venue": "Creole Language Library",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lefebvre1998",
+   "cited": {
+    "authors": "Lefebvre, C.",
+    "year": 1998,
+    "title": "Creole Genesis and the Acquisition of Grammar: The Case of Haitian Creole",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511519826",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511519826",
+    "title": "Creole Genesis and the Acquisition of Grammar: The Case of Haitian Creole",
+    "year": 1999,
+    "authors": "Lefebvre",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "degraff2002",
+   "cited": {
+    "authors": "DeGraff, M.",
+    "year": 2002,
+    "title": "Relexification: A reevaluation",
+    "venue": "Anthropological Linguistics 44(4), 321-414",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1515/9783110898736.9",
+     "title": "Chapter 1 The relexification hypothesis in Yiddish",
+     "year": 2002,
+     "authors": "",
+     "venue": "Two-tiered Relexification in Yiddish",
+     "type": "book-chapter",
+     "similarity": 0.456
+    },
+    {
+     "doi": "10.1515/9783110898736.ix",
+     "title": "Abbreviations and symbols",
+     "year": 2002,
+     "authors": "",
+     "venue": "Two-tiered Relexification in Yiddish",
+     "type": "book-chapter",
+     "similarity": 0.444
+    },
+    {
+     "doi": "10.1515/9783110898736",
+     "title": "Two-tiered Relexification in Yiddish: Jews, Sorbs, Khazars, and the Kiev-Polessian Dialect",
+     "year": 2002,
+     "authors": "Wexler",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.4
+    }
+   ]
+  },
+  {
+   "id": "harbert2007",
+   "cited": {
+    "authors": "Harbert, W.",
+    "year": 2007,
+    "title": "The Germanic Languages",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511755071",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511755071",
+    "title": "The Germanic Languages",
+    "year": 2006,
+    "authors": "Harbert",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "faarlund2007",
+   "cited": {
+    "authors": "Faarlund, J. T.",
+    "year": 2007,
+    "title": "The Syntax of Old Norse",
+    "venue": "Oxford University Press (first published 2004; year as in the DOI record)",
+    "doi": "10.1093/acprof:oso/9780199235599.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1093/acprof:oso/9780199235599.001.0001",
+    "title": "The Syntax of Old Norse",
+    "year": 2007,
+    "authors": "Faarlund",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fischer2000",
+   "cited": {
+    "authors": "Fischer, O.; van Kemenade, A.; Koopman, W.; van der Wurff, W.",
+    "year": 2000,
+    "title": "The Syntax of Early English",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511612312",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511612312",
+    "title": "The Syntax of Early English",
+    "year": 2001,
+    "authors": "Fischer; Kemenade; Koopman; Wurff",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mitchell1982",
+   "cited": {
+    "authors": "Mitchell, B.; Robinson, F. C.",
+    "year": 1982,
+    "title": "A Guide to Old English: Revised with Texts and Glossary",
+    "venue": "University of Toronto Press",
+    "doi": "10.3138/9781487586102",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.3138/9781487586102",
+    "title": "A Guide to Old English: Revised with Texts and Glossary",
+    "year": 1982,
+    "authors": "Mitchell; Robinson",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thrainsson2007",
+   "cited": {
+    "authors": "Thráinsson, H.",
+    "year": 2007,
+    "title": "The Syntax of Icelandic",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511619441",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511619441",
+    "title": "The Syntax of Icelandic",
+    "year": 2007,
+    "authors": "Thráinsson",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "holmes2013",
+   "cited": {
+    "authors": "Holmes, P.; Hinchliffe, I.",
+    "year": 2013,
+    "title": "Swedish: A Comprehensive Grammar",
+    "venue": "Routledge (3rd edition)",
+    "doi": "10.4324/9780203381670",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203381670",
+    "title": "Swedish: A Comprehensive Grammar",
+    "year": 2013,
+    "authors": "Holmes; Hinchliffe",
+    "venue": "",
+    "type": "reference-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "donaldson1993",
+   "cited": {
+    "authors": "Donaldson, B. C.",
+    "year": 1993,
+    "title": "A Grammar of Afrikaans",
+    "venue": "Mouton de Gruyter",
+    "doi": "10.1515/9783110863154",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9783110863154",
+    "title": "A Grammar of Afrikaans",
+    "year": 1993,
+    "authors": "Donaldson",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "huddleston2002",
+   "cited": {
+    "authors": "Huddleston, R.; Pullum, G. K.",
+    "year": 2002,
+    "title": "The Cambridge Grammar of the English Language",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/9781316423530",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/9781316423530",
+    "title": "The Cambridge Grammar of the English Language",
+    "year": 2002,
+    "authors": "Huddleston; Pullum",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "li1981",
+   "cited": {
+    "authors": "Li, C. N.; Thompson, S. A.",
+    "year": 1981,
+    "title": "Mandarin Chinese: A Functional Reference Grammar",
+    "venue": "University of California Press",
+    "doi": "10.1525/9780520352858",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1525/9780520352858",
+    "title": "Mandarin Chinese: A Functional Reference Grammar",
+    "year": 1981,
+    "authors": "Li; Thompson",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nguyen1997",
+   "cited": {
+    "authors": "Nguyễn, Đ.-H.",
+    "year": 1997,
+    "title": "Vietnamese",
+    "venue": "John Benjamins (London Oriental and African Language Library 9; subtitle: Tiếng Việt không son phấn)",
+    "doi": "10.1075/loall.9",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1075/loall.9",
+    "title": "Vietnamese",
+    "year": 1997,
+    "authors": "Nguyễn Ðình-Hoà",
+    "venue": "London Oriental and African Language Library",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kastovsky1992",
+   "cited": {
+    "authors": "Kastovsky, D.",
+    "year": 1992,
+    "title": "Semantics and vocabulary",
+    "venue": "Hogg, R. M. (ed.), The Cambridge History of the English Language, Volume 1: The Beginnings to 1066. Cambridge University Press",
+    "doi": "10.1017/CHOL9780521264747.006",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1017/chol9780521264747.006",
+    "title": "SEMANTICS AND VOCABULARY",
+    "year": 1992,
+    "authors": "Kastovsky",
+    "venue": "The Cambridge History of the English Language",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "davissecord2016",
+   "cited": {
+    "authors": "Davis-Secord, J.",
+    "year": 2016,
+    "title": "Joinings: Compound Words in Old English Literature",
+    "venue": "University of Toronto Press",
+    "doi": "10.3138/9781442625259",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.3138/9781442625259",
+    "title": "Joinings: Compound Words in Old English Literature",
+    "year": 2016,
+    "authors": "Davis-Secord",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bauer2017",
+   "cited": {
+    "authors": "Bauer, L.",
+    "year": 2017,
+    "title": "Compounds and Compounding",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/9781108235679",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/9781108235679",
+    "title": "Compounds and Compounding",
+    "year": 2017,
+    "authors": "Bauer",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cluniesross2005",
+   "cited": {
+    "authors": "Clunies Ross, M.",
+    "year": 2005,
+    "title": "A History of Old Norse Poetry and Poetics",
+    "venue": "D. S. Brewer",
+    "doi": "10.1515/9781846154010",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9781846154010",
+    "title": "A History of Old Norse Poetry and Poetics",
+    "year": 2005,
+    "authors": "Clunies Ross",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gardner1969",
+   "cited": {
+    "authors": "Gardner, T.",
+    "year": 1969,
+    "title": "The Old English kenning: A characteristic feature of Germanic poetical diction?",
+    "venue": "Modern Philology",
+    "doi": "10.1086/390147",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1086/390147",
+    "title": "The Old English Kenning: A Characteristic Feature of Germanic Poetical Diction?",
+    "year": 1969,
+    "authors": "Gardner",
+    "venue": "Modern Philology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "russom1998",
+   "cited": {
+    "authors": "Russom, G.",
+    "year": 1998,
+    "title": "Beowulf and Old Germanic Metre",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511582981",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511582981",
+    "title": "Beowulf and Old Germanic Metre",
+    "year": 1998,
+    "authors": "Russom",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "terasawa2011",
+   "cited": {
+    "authors": "Terasawa, J.",
+    "year": 2011,
+    "title": "Old English Metre: An Introduction",
+    "venue": "University of Toronto Press",
+    "doi": "10.3138/9781442693838",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.3138/9781442693838",
+    "title": "Old English Metre: An Introduction",
+    "year": 2011,
+    "authors": "Terasawa",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "minkova2003",
+   "cited": {
+    "authors": "Minkova, D.",
+    "year": 2003,
+    "title": "Alliteration and Sound Change in Early English",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511486968",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511486968",
+    "title": "Alliteration and Sound Change in Early English",
+    "year": 2003,
+    "authors": "Minkova",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sawyer2000",
+   "cited": {
+    "authors": "Sawyer, B.",
+    "year": 2000,
+    "title": "The Viking-Age Rune-Stones: Custom and Commemoration in Early Medieval Scandinavia",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/oso/9780198206439.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1093/oso/9780198206439.001.0001",
+    "title": "The Viking-Age Rune-Stones: Custom and Commemoration in Early Medieval Scandinavia",
+    "year": 2000,
+    "authors": "Sawyer",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ringbom2007",
+   "cited": {
+    "authors": "Ringbom, H.",
+    "year": 2007,
+    "title": "Cross-linguistic Similarity in Foreign Language Learning",
+    "venue": "Multilingual Matters",
+    "doi": "10.21832/9781853599361",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.21832/9781853599361",
+    "title": "Cross-linguistic Similarity in Foreign Language Learning",
+    "year": 2006,
+    "authors": "Ringbom",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schepens2016",
+   "cited": {
+    "authors": "Schepens, J.; van der Slik, F.; van Hout, R.",
+    "year": 2016,
+    "title": "L1 and L2 distance effects in learning L3 Dutch",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12150",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12150",
+    "title": "L1 and L2 Distance Effects in Learning L3 Dutch",
+    "year": 2016,
+    "authors": "Schepens; van der Slik; van Hout",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  }
+ ]
+}

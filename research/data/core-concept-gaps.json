@@ -1,0 +1,4277 @@
+{
+ "meta": {
+  "generator": "tools/analysis/core_concept_gaps.py 1.0.0",
+  "inputs": [
+   "research/data/canon-lexicon.json",
+   "research/data/canon-corpus.json"
+  ],
+  "lexicon_revid": 3619598,
+  "method": "Exact match of normalised dictionary glosses against hand-written accept/near gloss sets per concept; see the script docstring.",
+  "list_provenance": "All three lists were typed in from the analyst's knowledge of the published lists, not downloaded; counts verified (207/100/65). Diff against Concepticon before freezing.",
+  "status_values": {
+   "covered": "a dictionary gloss expresses the concept in the right word class",
+   "partial": "only a hyponym, related word or other word class is glossed; human ruling needed",
+   "missing": "no dictionary gloss matches"
+  },
+  "caveats": [
+   "Glosses are the wiki's English; most are single words with no sense notes.",
+   "'covered' says a word exists, not that its grammar or sense range is known.",
+   "tier 'canon' = the row cites at least one game-text or in-game-book source; 'semi-canon' = only Prima guide, Imperial Library list, press or game data.",
+   "corpus_hover_gloss_only lists dragon-language strings that wiki editors glossed with the concept word in dialogue; fan-level evidence."
+  ]
+ },
+ "summary": {
+  "swadesh207": {
+   "n_concepts": 207,
+   "covered": 97,
+   "partial": 29,
+   "missing": 81,
+   "pct_covered": 46.9,
+   "pct_covered_or_partial": 60.9,
+   "pct_missing": 39.1,
+   "covered_by_best_tier": {
+    "canon": 66,
+    "semi-canon": 31
+   },
+   "pct_covered_by_game_text_referenced_words": 31.9
+  },
+  "leipzig_jakarta100": {
+   "n_concepts": 100,
+   "covered": 48,
+   "partial": 11,
+   "missing": 41,
+   "pct_covered": 48.0,
+   "pct_covered_or_partial": 59.0,
+   "pct_missing": 41.0,
+   "covered_by_best_tier": {
+    "canon": 34,
+    "semi-canon": 14
+   },
+   "pct_covered_by_game_text_referenced_words": 34.0
+  },
+  "nsm65": {
+   "n_concepts": 65,
+   "covered": 33,
+   "partial": 15,
+   "missing": 17,
+   "pct_covered": 50.8,
+   "pct_covered_or_partial": 73.8,
+   "pct_missing": 26.2,
+   "covered_by_best_tier": {
+    "canon": 30,
+    "semi-canon": 3
+   },
+   "pct_covered_by_game_text_referenced_words": 46.2
+  }
+ },
+ "lists": {
+  "swadesh207": {
+   "title": "Swadesh 207 (composite of the 200- and 100-item lists)",
+   "n_concepts": 207,
+   "covered": 97,
+   "partial": 29,
+   "missing": 81,
+   "pct_covered": 46.9,
+   "pct_covered_or_partial": 60.9,
+   "pct_missing": 39.1,
+   "covered_by_best_tier": {
+    "canon": 66,
+    "semi-canon": 31
+   },
+   "pct_covered_by_game_text_referenced_words": 31.9,
+   "missing_concepts": [
+    "what",
+    "where",
+    "how",
+    "other",
+    "three",
+    "four",
+    "five",
+    "wide",
+    "thick",
+    "heavy",
+    "narrow",
+    "thin",
+    "fish",
+    "louse",
+    "stick",
+    "fruit",
+    "seed",
+    "leaf",
+    "root",
+    "bark (of a tree)",
+    "rope",
+    "skin",
+    "fat (noun)",
+    "egg",
+    "horn",
+    "tail",
+    "feather",
+    "ear",
+    "nose",
+    "foot",
+    "leg",
+    "knee",
+    "belly",
+    "guts",
+    "neck",
+    "back",
+    "breast",
+    "heart",
+    "liver",
+    "to drink",
+    "to bite",
+    "to suck",
+    "to spit",
+    "to vomit",
+    "to blow",
+    "to laugh",
+    "to scratch",
+    "to swim",
+    "to turn (intransitive)",
+    "to squeeze",
+    "to rub",
+    "to wash",
+    "to wipe",
+    "to pull",
+    "to throw",
+    "to sew",
+    "to count",
+    "to play",
+    "to float",
+    "to swell",
+    "star",
+    "lake",
+    "salt",
+    "dust",
+    "fog",
+    "smoke",
+    "ash",
+    "full",
+    "dirty",
+    "straight",
+    "round",
+    "dull (as a knife)",
+    "smooth",
+    "wet",
+    "dry",
+    "near",
+    "right (side)",
+    "left (side)",
+    "if",
+    "because",
+    "name"
+   ],
+   "partial_concepts": [
+    "you (plural)",
+    "few",
+    "two",
+    "big",
+    "small",
+    "short",
+    "woman",
+    "bird",
+    "mouth",
+    "fingernail",
+    "to breathe",
+    "to think",
+    "to smell",
+    "to sleep",
+    "to split",
+    "to stab",
+    "to dig",
+    "to walk",
+    "to lie (as in a bed)",
+    "to hold",
+    "to say",
+    "to sing",
+    "road",
+    "yellow",
+    "warm",
+    "new",
+    "bad",
+    "rotten",
+    "correct"
+   ],
+   "concepts": [
+    {
+     "concept": "I",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Zu'u",
+       "gloss": "I",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "you (singular)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hi",
+       "gloss": "You",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "he",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Rok",
+       "gloss": "He",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "we",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mu",
+       "gloss": "We",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "you (plural)",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Hi",
+       "gloss": "You",
+       "tier": "canon"
+      }
+     ],
+     "note": "canon 'hi' is glossed 'you' with no number stated"
+    },
+    {
+     "concept": "they",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Nust",
+       "gloss": "They",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "this",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Daar",
+       "gloss": "This",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "that",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Tol",
+       "gloss": "That",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "here",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Het",
+       "gloss": "Here",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "there",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Til",
+       "gloss": "There",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "who",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Wo",
+       "gloss": "Who",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "what",
+     "status": "missing"
+    },
+    {
+     "concept": "where",
+     "status": "missing"
+    },
+    {
+     "concept": "when",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Fod",
+       "gloss": "When",
+       "tier": "canon"
+      },
+      {
+       "word": "Rul",
+       "gloss": "When",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "how",
+     "status": "missing"
+    },
+    {
+     "concept": "not",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ni",
+       "gloss": "Not",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "all",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pah",
+       "gloss": "All",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "many",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pogaan",
+       "gloss": "Many",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "some",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Osos",
+       "gloss": "Some",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "few",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Mal",
+       "gloss": "Little",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "other",
+     "status": "missing"
+    },
+    {
+     "concept": "one",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gein",
+       "gloss": "One",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "two",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Ney",
+       "gloss": "Both",
+       "tier": "canon"
+      },
+      {
+       "word": "Um",
+       "gloss": "Twin",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "three",
+     "status": "missing"
+    },
+    {
+     "concept": "four",
+     "status": "missing"
+    },
+    {
+     "concept": "five",
+     "status": "missing"
+    },
+    {
+     "concept": "big",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Lot",
+       "gloss": "Great",
+       "tier": "canon"
+      },
+      {
+       "word": "Sahrot",
+       "gloss": "Mighty",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "long",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lingrah",
+       "gloss": "Long",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "wide",
+     "status": "missing"
+    },
+    {
+     "concept": "thick",
+     "status": "missing"
+    },
+    {
+     "concept": "heavy",
+     "status": "missing"
+    },
+    {
+     "concept": "small",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Mal",
+       "gloss": "Little",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "short",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Maltiid",
+       "gloss": "Brief",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "narrow",
+     "status": "missing"
+    },
+    {
+     "concept": "thin",
+     "status": "missing"
+    },
+    {
+     "concept": "woman",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Vahdin",
+       "gloss": "Maiden",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Kiim",
+       "gloss": "Wife",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "man (adult male)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Jul",
+       "gloss": "Man",
+       "tier": "canon"
+      },
+      {
+       "word": "Mun",
+       "gloss": "Man",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "man (human being)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Jul",
+       "gloss": "Humans",
+       "tier": "canon"
+      },
+      {
+       "word": "Jul",
+       "gloss": "Mankind",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "child",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kiir",
+       "gloss": "Child",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "wife",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kiim",
+       "gloss": "Wife",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "husband",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ahmul",
+       "gloss": "Husband",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "mother",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Monah",
+       "gloss": "Mother",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "father",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Bormah",
+       "gloss": "Father",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "animal",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Raan",
+       "gloss": "Animal",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "fish",
+     "status": "missing"
+    },
+    {
+     "concept": "bird",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Ruvaak",
+       "gloss": "Raven",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "dog",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dok",
+       "gloss": "Hound",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "louse",
+     "status": "missing"
+    },
+    {
+     "concept": "snake",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vith",
+       "gloss": "Serpent",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "worm",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lir",
+       "gloss": "Worm",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "tree",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Reyth",
+       "gloss": "Tree",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "forest",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Feykro",
+       "gloss": "Forest",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "stick",
+     "status": "missing"
+    },
+    {
+     "concept": "fruit",
+     "status": "missing"
+    },
+    {
+     "concept": "seed",
+     "status": "missing"
+    },
+    {
+     "concept": "leaf",
+     "status": "missing"
+    },
+    {
+     "concept": "root",
+     "status": "missing"
+    },
+    {
+     "concept": "bark (of a tree)",
+     "status": "missing"
+    },
+    {
+     "concept": "flower",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Fahlah",
+       "gloss": "Flower",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "grass",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Veydo",
+       "gloss": "Grass",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "rope",
+     "status": "missing"
+    },
+    {
+     "concept": "skin",
+     "status": "missing"
+    },
+    {
+     "concept": "meat",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Slen",
+       "gloss": "Flesh",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "blood",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sos",
+       "gloss": "Blood",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "bone",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Qeth",
+       "gloss": "Bone",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "fat (noun)",
+     "status": "missing"
+    },
+    {
+     "concept": "egg",
+     "status": "missing"
+    },
+    {
+     "concept": "horn",
+     "status": "missing"
+    },
+    {
+     "concept": "tail",
+     "status": "missing"
+    },
+    {
+     "concept": "feather",
+     "status": "missing"
+    },
+    {
+     "concept": "hair",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Om",
+       "gloss": "Hair",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "head",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Klov",
+       "gloss": "Head",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "ear",
+     "status": "missing"
+    },
+    {
+     "concept": "eye",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Miin",
+       "gloss": "Eye",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "nose",
+     "status": "missing"
+    },
+    {
+     "concept": "mouth",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Jot",
+       "gloss": "Maw",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "tooth",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Naas",
+       "gloss": "Tooth",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "tongue",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vun",
+       "gloss": "Tongue",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "fingernail",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Vos",
+       "gloss": "Claw",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "foot",
+     "status": "missing"
+    },
+    {
+     "concept": "leg",
+     "status": "missing"
+    },
+    {
+     "concept": "knee",
+     "status": "missing"
+    },
+    {
+     "concept": "hand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Haal",
+       "gloss": "Hand",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "wing",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Viing",
+       "gloss": "Wing",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "belly",
+     "status": "missing"
+    },
+    {
+     "concept": "guts",
+     "status": "missing"
+    },
+    {
+     "concept": "neck",
+     "status": "missing"
+    },
+    {
+     "concept": "back",
+     "status": "missing"
+    },
+    {
+     "concept": "breast",
+     "status": "missing"
+    },
+    {
+     "concept": "heart",
+     "status": "missing"
+    },
+    {
+     "concept": "liver",
+     "status": "missing"
+    },
+    {
+     "concept": "to drink",
+     "status": "missing"
+    },
+    {
+     "concept": "to eat",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Naak",
+       "gloss": "Eat",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to bite",
+     "status": "missing"
+    },
+    {
+     "concept": "to suck",
+     "status": "missing"
+    },
+    {
+     "concept": "to spit",
+     "status": "missing"
+    },
+    {
+     "concept": "to vomit",
+     "status": "missing"
+    },
+    {
+     "concept": "to blow",
+     "status": "missing"
+    },
+    {
+     "concept": "to breathe",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Su'um",
+       "gloss": "Breath",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to laugh",
+     "status": "missing"
+    },
+    {
+     "concept": "to see",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Koraav",
+       "gloss": "See",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to hear",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hon",
+       "gloss": "Hear",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to know",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mindok",
+       "gloss": "Know",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to think",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Morah",
+       "gloss": "thought",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to smell",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Pook",
+       "gloss": "Stink",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "to fear",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Faas",
+       "gloss": "Fear",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to sleep",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Praan",
+       "gloss": "Rest",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Hahnu",
+       "gloss": "Dream",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "to live",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lahney",
+       "gloss": "Live",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Nahlaas",
+       "gloss": "Live",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to die",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dir",
+       "gloss": "Die",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to kill",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Krii",
+       "gloss": "Kill",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to fight",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Krif",
+       "gloss": "Fight",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to hunt",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Nir",
+       "gloss": "Hunt",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to hit",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Nos",
+       "gloss": "Strike",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to cut",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vey",
+       "gloss": "Cut",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to split",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Kren",
+       "gloss": "Break",
+       "tier": "canon"
+      },
+      {
+       "word": "Vaaz",
+       "gloss": "rip",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to stab",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Nin",
+       "gloss": "Sting",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "to scratch",
+     "status": "missing"
+    },
+    {
+     "concept": "to dig",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Deyto",
+       "gloss": "Bury",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "to swim",
+     "status": "missing"
+    },
+    {
+     "concept": "to fly",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Bo",
+       "gloss": "Fly",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to walk",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Yoriik",
+       "gloss": "March",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Rovaan",
+       "gloss": "Wander",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Wundun",
+       "gloss": "Travel",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to come",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Meyz",
+       "gloss": "Come",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to lie (as in a bed)",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Nok",
+       "gloss": "Lie",
+       "tier": "canon"
+      }
+     ],
+     "note": "canon 'nok' is glossed 'lie' with a wiki remark that it covers both 'lie down' and 'tell a lie'"
+    },
+    {
+     "concept": "to sit",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Praal",
+       "gloss": "Sit",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to stand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kriist",
+       "gloss": "Stand",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to turn (intransitive)",
+     "status": "missing"
+    },
+    {
+     "concept": "to fall",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mah",
+       "gloss": "Fall",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to give",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ofan",
+       "gloss": "Give",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to hold",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Dein",
+       "gloss": "Keep",
+       "tier": "canon"
+      },
+      {
+       "word": "Kod",
+       "gloss": "Wield",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to squeeze",
+     "status": "missing"
+    },
+    {
+     "concept": "to rub",
+     "status": "missing"
+    },
+    {
+     "concept": "to wash",
+     "status": "missing"
+    },
+    {
+     "concept": "to wipe",
+     "status": "missing"
+    },
+    {
+     "concept": "to pull",
+     "status": "missing"
+    },
+    {
+     "concept": "to push",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dah",
+       "gloss": "Push",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to throw",
+     "status": "missing"
+    },
+    {
+     "concept": "to tie",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gron",
+       "gloss": "Bind",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to sew",
+     "status": "missing"
+    },
+    {
+     "concept": "to count",
+     "status": "missing"
+    },
+    {
+     "concept": "to say",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Tinvaak",
+       "gloss": "Talk",
+       "tier": "canon"
+      },
+      {
+       "word": "Fun",
+       "gloss": "Told",
+       "tier": "canon"
+      },
+      {
+       "word": "Tinvaak",
+       "gloss": "Speech",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to sing",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Lovaas",
+       "gloss": "Song",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "to play",
+     "status": "missing"
+    },
+    {
+     "concept": "to float",
+     "status": "missing"
+    },
+    {
+     "concept": "to flow",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Bo",
+       "gloss": "Flow",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to freeze",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Diin",
+       "gloss": "Freeze",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to swell",
+     "status": "missing"
+    },
+    {
+     "concept": "sun",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Krein",
+       "gloss": "Sun",
+       "tier": "canon"
+      },
+      {
+       "word": "Shul",
+       "gloss": "Sun",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "moon",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Jiid",
+       "gloss": "Moon",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "star",
+     "status": "missing"
+    },
+    {
+     "concept": "water",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Laar",
+       "gloss": "Water",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "rain",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ron",
+       "gloss": "Rain",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "river",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Rath",
+       "gloss": "River",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "lake",
+     "status": "missing"
+    },
+    {
+     "concept": "sea",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Okaaz",
+       "gloss": "Sea",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "salt",
+     "status": "missing"
+    },
+    {
+     "concept": "stone",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Golz",
+       "gloss": "Stone",
+       "tier": "unsourced"
+      },
+      {
+       "word": "Qethsegol",
+       "gloss": "(Word Wall) Stone",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "sand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Klo",
+       "gloss": "Sand",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "dust",
+     "status": "missing"
+    },
+    {
+     "concept": "earth",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gol",
+       "gloss": "Earth",
+       "tier": "canon"
+      },
+      {
+       "word": "Denek",
+       "gloss": "Soil",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "cloud",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gram",
+       "gloss": "Cloud",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "fog",
+     "status": "missing"
+    },
+    {
+     "concept": "sky",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lok",
+       "gloss": "Sky",
+       "tier": "canon"
+      },
+      {
+       "word": "Lok",
+       "gloss": "sky",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "wind",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ven",
+       "gloss": "Wind",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "snow",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Od",
+       "gloss": "Snow",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "ice",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Iiz",
+       "gloss": "Ice",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "smoke",
+     "status": "missing"
+    },
+    {
+     "concept": "fire",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Yol",
+       "gloss": "Fire",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "ash",
+     "status": "missing"
+    },
+    {
+     "concept": "to burn",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ag",
+       "gloss": "Burn",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "road",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Miir",
+       "gloss": "Path",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "mountain",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Strunmah",
+       "gloss": "Mountain",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "red",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sahqo",
+       "gloss": "Red",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "green",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Graag",
+       "gloss": "Green",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "yellow",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Yuvon",
+       "gloss": "Gold",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Yuvon",
+       "gloss": "Golden",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "white",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sot",
+       "gloss": "White",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "black",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ved",
+       "gloss": "Black",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "night",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vulon",
+       "gloss": "Night",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "day",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sul",
+       "gloss": "Day",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "year",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Eruvos",
+       "gloss": "Year",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "warm",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Faad",
+       "gloss": "Warmth",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Frin",
+       "gloss": "Hot",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "cold",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Krah",
+       "gloss": "Cold",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "full",
+     "status": "missing"
+    },
+    {
+     "concept": "new",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Goraan",
+       "gloss": "Young",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "old",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Wuth",
+       "gloss": "Old",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "good",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pruzah",
+       "gloss": "Good",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "bad",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Vokul",
+       "gloss": "Evil",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Bein",
+       "gloss": "Foul",
+       "tier": "canon"
+      },
+      {
+       "word": "Bel",
+       "gloss": "Foul",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Folaas",
+       "gloss": "Wrong",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "rotten",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Bein",
+       "gloss": "Foul",
+       "tier": "canon"
+      },
+      {
+       "word": "Bel",
+       "gloss": "Foul",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "dirty",
+     "status": "missing"
+    },
+    {
+     "concept": "straight",
+     "status": "missing"
+    },
+    {
+     "concept": "round",
+     "status": "missing"
+    },
+    {
+     "concept": "sharp (as a knife)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kinzon",
+       "gloss": "Sharp",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "dull (as a knife)",
+     "status": "missing"
+    },
+    {
+     "concept": "smooth",
+     "status": "missing"
+    },
+    {
+     "concept": "wet",
+     "status": "missing"
+    },
+    {
+     "concept": "dry",
+     "status": "missing"
+    },
+    {
+     "concept": "correct",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Vahzah, Vazah",
+       "gloss": "True",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "near",
+     "status": "missing"
+    },
+    {
+     "concept": "far",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gut",
+       "gloss": "Far",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "right (side)",
+     "status": "missing"
+    },
+    {
+     "concept": "left (side)",
+     "status": "missing"
+    },
+    {
+     "concept": "at",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ahst",
+       "gloss": "At",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "in",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ko",
+       "gloss": "In",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "with",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Voth",
+       "gloss": "With",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "and",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ahrk",
+       "gloss": "And",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "if",
+     "status": "missing"
+    },
+    {
+     "concept": "because",
+     "status": "missing"
+    },
+    {
+     "concept": "name",
+     "status": "missing"
+    }
+   ]
+  },
+  "leipzig_jakarta100": {
+   "title": "Leipzig-Jakarta 100 (Tadmor 2009)",
+   "n_concepts": 100,
+   "covered": 48,
+   "partial": 11,
+   "missing": 41,
+   "pct_covered": 48.0,
+   "pct_covered_or_partial": 59.0,
+   "pct_missing": 41.0,
+   "covered_by_best_tier": {
+    "canon": 34,
+    "semi-canon": 14
+   },
+   "pct_covered_by_game_text_referenced_words": 34.0,
+   "missing_concepts": [
+    "nose",
+    "root",
+    "breast",
+    "name",
+    "louse",
+    "fly (insect)",
+    "ear",
+    "neck",
+    "leg/foot",
+    "horn",
+    "fish",
+    "yesterday",
+    "to drink",
+    "navel",
+    "to bite",
+    "back",
+    "smoke",
+    "what?",
+    "egg",
+    "knee",
+    "to laugh",
+    "leaf",
+    "liver",
+    "to hide",
+    "skin/hide",
+    "to suck",
+    "ant",
+    "heavy",
+    "thigh",
+    "thick",
+    "to blow",
+    "ash",
+    "tail",
+    "to cry/weep",
+    "sweet",
+    "rope",
+    "salt",
+    "wide",
+    "star",
+    "hard",
+    "to crush/grind"
+   ],
+   "partial_concepts": [
+    "to go",
+    "mouth",
+    "house",
+    "to say",
+    "big",
+    "new",
+    "to carry",
+    "to take",
+    "wood",
+    "bird",
+    "small"
+   ],
+   "concepts": [
+    {
+     "concept": "fire",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Yol",
+       "gloss": "Fire",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "nose",
+     "status": "missing"
+    },
+    {
+     "concept": "to go",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Wundun",
+       "gloss": "Travel",
+       "tier": "canon"
+      },
+      {
+       "word": "Bo",
+       "gloss": "Move",
+       "tier": "canon"
+      },
+      {
+       "word": "Yoriik",
+       "gloss": "March",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "water",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Laar",
+       "gloss": "Water",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "mouth",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Jot",
+       "gloss": "Maw",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "tongue",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vun",
+       "gloss": "Tongue",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "blood",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sos",
+       "gloss": "Blood",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "bone",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Qeth",
+       "gloss": "Bone",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "2SG pronoun",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hi",
+       "gloss": "You",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "root",
+     "status": "missing"
+    },
+    {
+     "concept": "to come",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Meyz",
+       "gloss": "Come",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "breast",
+     "status": "missing"
+    },
+    {
+     "concept": "rain",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ron",
+       "gloss": "Rain",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "1SG pronoun",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Zu'u",
+       "gloss": "I",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "name",
+     "status": "missing"
+    },
+    {
+     "concept": "louse",
+     "status": "missing"
+    },
+    {
+     "concept": "wing",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Viing",
+       "gloss": "Wing",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "flesh/meat",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Slen",
+       "gloss": "Flesh",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "arm/hand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Haal",
+       "gloss": "Hand",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "fly (insect)",
+     "status": "missing",
+     "note": "canon 'bo' is the verb 'fly'; no insect word"
+    },
+    {
+     "concept": "night",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vulon",
+       "gloss": "Night",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "ear",
+     "status": "missing"
+    },
+    {
+     "concept": "neck",
+     "status": "missing"
+    },
+    {
+     "concept": "far",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gut",
+       "gloss": "Far",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to do/make",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dreh",
+       "gloss": "Do",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "house",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Hofkiin",
+       "gloss": "Home",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Hofkah",
+       "gloss": "Steading",
+       "tier": "canon"
+      },
+      {
+       "word": "Hofkahsejun",
+       "gloss": "Palace",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "stone/rock",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Golz",
+       "gloss": "Stone",
+       "tier": "unsourced"
+      },
+      {
+       "word": "Qethsegol",
+       "gloss": "(Word Wall) Stone",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "bitter",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ahzid",
+       "gloss": "Bitter",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to say",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Tinvaak",
+       "gloss": "Talk",
+       "tier": "canon"
+      },
+      {
+       "word": "Fun",
+       "gloss": "Told",
+       "tier": "canon"
+      },
+      {
+       "word": "Tinvaak",
+       "gloss": "Speech",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "tooth",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Naas",
+       "gloss": "Tooth",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "hair",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Om",
+       "gloss": "Hair",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "big",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Lot",
+       "gloss": "Great",
+       "tier": "canon"
+      },
+      {
+       "word": "Sahrot",
+       "gloss": "Mighty",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "one",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gein",
+       "gloss": "One",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "who?",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Wo",
+       "gloss": "Who",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "3SG pronoun",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Rok",
+       "gloss": "He",
+       "tier": "canon"
+      },
+      {
+       "word": "Rek",
+       "gloss": "She",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Nii",
+       "gloss": "It",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to hit/beat",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Nos",
+       "gloss": "Strike",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "leg/foot",
+     "status": "missing"
+    },
+    {
+     "concept": "horn",
+     "status": "missing"
+    },
+    {
+     "concept": "this",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Daar",
+       "gloss": "This",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "fish",
+     "status": "missing"
+    },
+    {
+     "concept": "yesterday",
+     "status": "missing"
+    },
+    {
+     "concept": "to drink",
+     "status": "missing"
+    },
+    {
+     "concept": "black",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ved",
+       "gloss": "Black",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "navel",
+     "status": "missing"
+    },
+    {
+     "concept": "to stand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kriist",
+       "gloss": "Stand",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to bite",
+     "status": "missing"
+    },
+    {
+     "concept": "back",
+     "status": "missing"
+    },
+    {
+     "concept": "wind",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ven",
+       "gloss": "Wind",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "smoke",
+     "status": "missing"
+    },
+    {
+     "concept": "what?",
+     "status": "missing"
+    },
+    {
+     "concept": "child (kin term)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kiir",
+       "gloss": "Child",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "egg",
+     "status": "missing"
+    },
+    {
+     "concept": "to give",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ofan",
+       "gloss": "Give",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "new",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Goraan",
+       "gloss": "Young",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "to burn (intransitive)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ag",
+       "gloss": "Burn",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "not",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ni",
+       "gloss": "Not",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "good",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pruzah",
+       "gloss": "Good",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to know",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mindok",
+       "gloss": "Know",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "knee",
+     "status": "missing"
+    },
+    {
+     "concept": "sand",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Klo",
+       "gloss": "Sand",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to laugh",
+     "status": "missing"
+    },
+    {
+     "concept": "to hear",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hon",
+       "gloss": "Hear",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "soil",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Denek",
+       "gloss": "Soil",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Gol",
+       "gloss": "Earth",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "leaf",
+     "status": "missing"
+    },
+    {
+     "concept": "red",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Sahqo",
+       "gloss": "Red",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "liver",
+     "status": "missing"
+    },
+    {
+     "concept": "to hide",
+     "status": "missing"
+    },
+    {
+     "concept": "skin/hide",
+     "status": "missing"
+    },
+    {
+     "concept": "to suck",
+     "status": "missing"
+    },
+    {
+     "concept": "to carry",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Drun",
+       "gloss": "Bring",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "ant",
+     "status": "missing"
+    },
+    {
+     "concept": "heavy",
+     "status": "missing"
+    },
+    {
+     "concept": "to take",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Gahrot",
+       "gloss": "Steal",
+       "tier": "canon"
+      },
+      {
+       "word": "Ofaal",
+       "gloss": "Receive",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Bodiis",
+       "gloss": "Borrow",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "old",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Wuth",
+       "gloss": "Old",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to eat",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Naak",
+       "gloss": "Eat",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "thigh",
+     "status": "missing"
+    },
+    {
+     "concept": "thick",
+     "status": "missing"
+    },
+    {
+     "concept": "long",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lingrah",
+       "gloss": "Long",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to blow",
+     "status": "missing"
+    },
+    {
+     "concept": "wood",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Reyth",
+       "gloss": "Tree",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Feykro",
+       "gloss": "Forest",
+       "tier": "semi-canon"
+      }
+     ],
+     "note": "tree/wood colexification is common cross-linguistically; a human must rule"
+    },
+    {
+     "concept": "to run",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ru",
+       "gloss": "Run",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to fall",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mah",
+       "gloss": "Fall",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "eye",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Miin",
+       "gloss": "Eye",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "ash",
+     "status": "missing"
+    },
+    {
+     "concept": "tail",
+     "status": "missing"
+    },
+    {
+     "concept": "dog",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dok",
+       "gloss": "Hound",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "to cry/weep",
+     "status": "missing",
+     "note": "canon 'luv' is glossed 'tear' (sense unstated); 'vaaz' is 'tear, rip', expressly not lacrimal"
+    },
+    {
+     "concept": "to tie",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gron",
+       "gloss": "Bind",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "to see",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Koraav",
+       "gloss": "See",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "sweet",
+     "status": "missing"
+    },
+    {
+     "concept": "rope",
+     "status": "missing"
+    },
+    {
+     "concept": "shade/shadow",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vokun",
+       "gloss": "Shadow",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "bird",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Ruvaak",
+       "gloss": "Raven",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "salt",
+     "status": "missing"
+    },
+    {
+     "concept": "small",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Mal",
+       "gloss": "Little",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "wide",
+     "status": "missing"
+    },
+    {
+     "concept": "star",
+     "status": "missing"
+    },
+    {
+     "concept": "in",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ko",
+       "gloss": "In",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "hard",
+     "status": "missing"
+    },
+    {
+     "concept": "to crush/grind",
+     "status": "missing"
+    }
+   ]
+  },
+  "nsm65": {
+   "title": "NSM semantic primes (Goddard & Wierzbicka 2014)",
+   "n_concepts": 65,
+   "covered": 33,
+   "partial": 15,
+   "missing": 17,
+   "pct_covered": 50.8,
+   "pct_covered_or_partial": 73.8,
+   "pct_missing": 26.2,
+   "covered_by_best_tier": {
+    "canon": 30,
+    "semi-canon": 3
+   },
+   "pct_covered_by_game_text_referenced_words": 46.2,
+   "missing_concepts": [
+    "SOMEONE",
+    "SOMETHING~THING",
+    "KIND",
+    "PART",
+    "THE SAME",
+    "OTHER~ELSE",
+    "DON'T WANT",
+    "FEEL",
+    "HAPPEN",
+    "FOR SOME TIME",
+    "MOMENT",
+    "WHERE~PLACE",
+    "ABOVE",
+    "NEAR",
+    "SIDE",
+    "BECAUSE",
+    "IF"
+   ],
+   "partial_concepts": [
+    "PEOPLE",
+    "TWO",
+    "LITTLE~FEW",
+    "BAD",
+    "BIG",
+    "SMALL",
+    "THINK",
+    "SAY",
+    "THERE IS",
+    "A LONG TIME",
+    "A SHORT TIME",
+    "BELOW",
+    "MAYBE",
+    "CAN",
+    "MORE"
+   ],
+   "concepts": [
+    {
+     "concept": "I",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Zu'u",
+       "gloss": "I",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "YOU",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hi",
+       "gloss": "You",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "SOMEONE",
+     "status": "missing"
+    },
+    {
+     "concept": "SOMETHING~THING",
+     "status": "missing"
+    },
+    {
+     "concept": "PEOPLE",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Jul",
+       "gloss": "Humans",
+       "tier": "canon"
+      },
+      {
+       "word": "Jul",
+       "gloss": "Mankind",
+       "tier": "canon"
+      },
+      {
+       "word": "Muz",
+       "gloss": "Men",
+       "tier": "canon"
+      },
+      {
+       "word": "Joor(re)",
+       "gloss": "Mortal(s)",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "BODY",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kopraan",
+       "gloss": "Body",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "KIND",
+     "status": "missing"
+    },
+    {
+     "concept": "PART",
+     "status": "missing"
+    },
+    {
+     "concept": "THIS",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Daar",
+       "gloss": "This",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "THE SAME",
+     "status": "missing"
+    },
+    {
+     "concept": "OTHER~ELSE",
+     "status": "missing"
+    },
+    {
+     "concept": "ONE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gein",
+       "gloss": "One",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "TWO",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Ney",
+       "gloss": "Both",
+       "tier": "canon"
+      },
+      {
+       "word": "Um",
+       "gloss": "Twin",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "SOME",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Osos",
+       "gloss": "Some",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "ALL",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pah",
+       "gloss": "All",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "MUCH~MANY",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pogaas",
+       "gloss": "Much",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Pogaan",
+       "gloss": "Many",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "LITTLE~FEW",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Mal",
+       "gloss": "Little",
+       "tier": "canon"
+      }
+     ],
+     "note": "canon 'mal' is glossed 'little'; size or quantity is not stated"
+    },
+    {
+     "concept": "GOOD",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Pruzah",
+       "gloss": "Good",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "BAD",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Vokul",
+       "gloss": "Evil",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Bein",
+       "gloss": "Foul",
+       "tier": "canon"
+      },
+      {
+       "word": "Bel",
+       "gloss": "Foul",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Folaas",
+       "gloss": "Wrong",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "BIG",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Lot",
+       "gloss": "Great",
+       "tier": "canon"
+      },
+      {
+       "word": "Sahrot",
+       "gloss": "Mighty",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "SMALL",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Mal",
+       "gloss": "Little",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "THINK",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Morah",
+       "gloss": "thought",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "KNOW",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mindok",
+       "gloss": "Know",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "WANT",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Laan",
+       "gloss": "Want",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "DON'T WANT",
+     "status": "missing",
+     "note": "no lexical exponent; composable from NOT + WANT if the grammar allows"
+    },
+    {
+     "concept": "FEEL",
+     "status": "missing"
+    },
+    {
+     "concept": "SEE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Koraav",
+       "gloss": "See",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "HEAR",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Hon",
+       "gloss": "Hear",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "SAY",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Tinvaak",
+       "gloss": "Talk",
+       "tier": "canon"
+      },
+      {
+       "word": "Fun",
+       "gloss": "Told",
+       "tier": "canon"
+      },
+      {
+       "word": "Tinvaak",
+       "gloss": "Speech",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "WORDS",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Rot",
+       "gloss": "Word(s)",
+       "tier": "canon"
+      },
+      {
+       "word": "Rot",
+       "gloss": "Word(s)",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "TRUE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Vahzah, Vazah",
+       "gloss": "True",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "DO",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dreh",
+       "gloss": "Do",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "HAPPEN",
+     "status": "missing"
+    },
+    {
+     "concept": "MOVE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Bo",
+       "gloss": "Move",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "BE (SOMEWHERE)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kos",
+       "gloss": "Be",
+       "tier": "canon"
+      },
+      {
+       "word": "Los",
+       "gloss": "Is",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon",
+     "note": "one canon copula stands for three primes"
+    },
+    {
+     "concept": "THERE IS",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Kos",
+       "gloss": "Be",
+       "tier": "canon"
+      },
+      {
+       "word": "Los",
+       "gloss": "Is",
+       "tier": "canon"
+      }
+     ],
+     "note": "no dedicated existential attested in the dictionary"
+    },
+    {
+     "concept": "BE (SOMEONE/SOMETHING)",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kos",
+       "gloss": "Be",
+       "tier": "canon"
+      },
+      {
+       "word": "Los",
+       "gloss": "Is",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "(IS) MINE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dii",
+       "gloss": "Mine",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "LIVE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Lahney",
+       "gloss": "Live",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Nahlaas",
+       "gloss": "Live",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "DIE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Dir",
+       "gloss": "Die",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "WHEN~TIME",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Fod",
+       "gloss": "When",
+       "tier": "canon"
+      },
+      {
+       "word": "Rul",
+       "gloss": "When",
+       "tier": "canon"
+      },
+      {
+       "word": "Tiid",
+       "gloss": "Time",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "NOW",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Nu",
+       "gloss": "Now",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "BEFORE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Us",
+       "gloss": "Before",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "AFTER",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Mindin",
+       "gloss": "After",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "A LONG TIME",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Lingrah",
+       "gloss": "Long",
+       "tier": "canon"
+      },
+      {
+       "word": "Ul",
+       "gloss": "Eternity",
+       "tier": "canon"
+      },
+      {
+       "word": "Mahfaeraak",
+       "gloss": "Forever",
+       "tier": "canon"
+      },
+      {
+       "word": "Vindahlheim",
+       "gloss": "Forever",
+       "tier": "semi-canon"
+      }
+     ],
+     "note": "composable"
+    },
+    {
+     "concept": "A SHORT TIME",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Maltiid",
+       "gloss": "Brief",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Frul",
+       "gloss": "Temporary",
+       "tier": "canon"
+      },
+      {
+       "word": "Frul",
+       "gloss": "Ephemeral",
+       "tier": "canon"
+      }
+     ],
+     "note": "composable"
+    },
+    {
+     "concept": "FOR SOME TIME",
+     "status": "missing",
+     "note": "composable from SOME + TIME"
+    },
+    {
+     "concept": "MOMENT",
+     "status": "missing"
+    },
+    {
+     "concept": "WHERE~PLACE",
+     "status": "missing"
+    },
+    {
+     "concept": "HERE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Het",
+       "gloss": "Here",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "ABOVE",
+     "status": "missing"
+    },
+    {
+     "concept": "BELOW",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Tum",
+       "gloss": "Down",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "FAR",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Gut",
+       "gloss": "Far",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "NEAR",
+     "status": "missing"
+    },
+    {
+     "concept": "SIDE",
+     "status": "missing"
+    },
+    {
+     "concept": "INSIDE",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Kosil",
+       "gloss": "within",
+       "tier": "semi-canon"
+      }
+     ],
+     "best_tier": "semi-canon"
+    },
+    {
+     "concept": "TOUCH",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Haalvut",
+       "gloss": "Touch",
+       "tier": "canon"
+      },
+      {
+       "word": "Qalos",
+       "gloss": "Touch",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "NOT",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Ni",
+       "gloss": "Not",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "MAYBE",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Aal",
+       "gloss": "May",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "CAN",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Nis",
+       "gloss": "Cannot",
+       "tier": "semi-canon"
+      },
+      {
+       "word": "Aal",
+       "gloss": "May",
+       "tier": "semi-canon"
+      }
+     ]
+    },
+    {
+     "concept": "BECAUSE",
+     "status": "missing"
+    },
+    {
+     "concept": "IF",
+     "status": "missing"
+    },
+    {
+     "concept": "VERY",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Rinik",
+       "gloss": "Very",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    },
+    {
+     "concept": "MORE",
+     "status": "partial",
+     "near_words": [
+      {
+       "word": "Zok",
+       "gloss": "Most",
+       "tier": "canon"
+      },
+      {
+       "word": "Zol",
+       "gloss": "Most",
+       "tier": "canon"
+      }
+     ]
+    },
+    {
+     "concept": "LIKE~AS~WAY",
+     "status": "covered",
+     "canon_words": [
+      {
+       "word": "Med",
+       "gloss": "Like",
+       "tier": "canon"
+      },
+      {
+       "word": "Ol",
+       "gloss": "As",
+       "tier": "canon"
+      }
+     ],
+     "best_tier": "canon"
+    }
+   ]
+  }
+ },
+ "supplementary_lexicon_statistics": {
+  "note": "Descriptive statistics of canon spelling used to set forge defaults. Lengths are in letters; neighbours are spellings one letter substitution, insertion or deletion away.",
+  "distinct_spellings": 667,
+  "homograph_spellings_listed_in_more_than_one_row": [],
+  "rows_with_more_than_one_gloss": 61,
+  "english_glosses_shared_by_more_than_one_row": 32,
+  "examples_of_shared_glosses": {
+   "ally": [
+    "Grah-Zeymahzin",
+    "Middovah"
+   ],
+   "beast": [
+    "Sivaas",
+    "Sunvaar"
+   ],
+   "betrayal": [
+    "Gruth",
+    "Nihnzey"
+   ],
+   "create": [
+    "Wahl",
+    "Zorox"
+   ],
+   "dragon": [
+    "Dov",
+    "Dovah"
+   ],
+   "forever": [
+    "Mahfaeraak",
+    "Vindahlheim"
+   ],
+   "foul": [
+    "Bein",
+    "Bel"
+   ],
+   "last": [
+    "Laat",
+    "Raal"
+   ],
+   "live": [
+    "Lahney",
+    "Nahlaas"
+   ],
+   "lord": [
+    "Drog",
+    "Thurri"
+   ],
+   "man": [
+    "Jul",
+    "Mun"
+   ],
+   "mind": [
+    "Hadrim, Hahdrim",
+    "Hah"
+   ],
+   "most": [
+    "Zok",
+    "Zol"
+   ],
+   "of": [
+    "Do",
+    "Se"
+   ],
+   "on": [
+    "Au",
+    "Nau"
+   ],
+   "rage": [
+    "Rahgol",
+    "Ruth"
+   ],
+   "shine": [
+    "Viin",
+    "Viint"
+   ],
+   "shout": [
+    "Thu'um",
+    "Zaan"
+   ],
+   "slave": [
+    "Aan",
+    "Aar",
+    "Zaam"
+   ],
+   "sorrow": [
+    "Krosis",
+    "So"
+   ],
+   "soul": [
+    "Sil",
+    "Ziil"
+   ],
+   "spirit": [
+    "On",
+    "Zii"
+   ],
+   "stone": [
+    "Golz",
+    "Qethsegol"
+   ],
+   "strength": [
+    "Mul",
+    "Mulaag"
+   ],
+   "sun": [
+    "Krein",
+    "Shul"
+   ],
+   "tear": [
+    "Luv",
+    "Vaaz"
+   ],
+   "the": [
+    "Faal",
+    "Fin"
+   ],
+   "touch": [
+    "Haalvut",
+    "Qalos"
+   ],
+   "unending": [
+    "Unslaad, Unahzaal",
+    "Uznahgaar"
+   ],
+   "victory": [
+    "Kron",
+    "Krongrah"
+   ],
+   "voice": [
+    "Thu'um",
+    "Zul"
+   ],
+   "when": [
+    "Fod",
+    "Rul"
+   ]
+  },
+  "neighbourhood_by_length": {
+   "2": {
+    "n_words": 37,
+    "mean_neighbours": 9.95,
+    "max": 21,
+    "share_with_zero": 0.0
+   },
+   "3": {
+    "n_words": 154,
+    "mean_neighbours": 8.36,
+    "max": 21,
+    "share_with_zero": 0.032
+   },
+   "4": {
+    "n_words": 150,
+    "mean_neighbours": 4.11,
+    "max": 14,
+    "share_with_zero": 0.16
+   },
+   "5": {
+    "n_words": 89,
+    "mean_neighbours": 0.78,
+    "max": 5,
+    "share_with_zero": 0.539
+   },
+   "6": {
+    "n_words": 111,
+    "mean_neighbours": 0.43,
+    "max": 3,
+    "share_with_zero": 0.649
+   },
+   "7": {
+    "n_words": 58,
+    "mean_neighbours": 0.24,
+    "max": 3,
+    "share_with_zero": 0.845
+   },
+   "8": {
+    "n_words": 28,
+    "mean_neighbours": 0.07,
+    "max": 1,
+    "share_with_zero": 0.929
+   },
+   "9": {
+    "n_words": 21,
+    "mean_neighbours": 0.14,
+    "max": 1,
+    "share_with_zero": 0.857
+   },
+   "10": {
+    "n_words": 9,
+    "mean_neighbours": 0.11,
+    "max": 1,
+    "share_with_zero": 0.889
+   },
+   "11": {
+    "n_words": 9,
+    "mean_neighbours": 0.0,
+    "max": 0,
+    "share_with_zero": 1.0
+   },
+   "12": {
+    "n_words": 1,
+    "mean_neighbours": 0.0,
+    "max": 0,
+    "share_with_zero": 1.0
+   }
+  },
+  "mean_neighbours_all": 3.61,
+  "zipf_length_frequency": {
+   "basis": "dictionary spellings that occur as tokens in canon, non-duplicate, non-name corpus texts",
+   "n_types": 594,
+   "n_tokens": 2342,
+   "spearman_rho_frequency_vs_letters": -0.319,
+   "mean_letters_by_frequency_band": {
+    "f 2-4": {
+     "n_types": 229,
+     "mean_letters": 4.71
+    },
+    "f 5-19": {
+     "n_types": 126,
+     "mean_letters": 4.18
+    },
+    "f>=20": {
+     "n_types": 14,
+     "mean_letters": 3.21
+    },
+    "f=1": {
+     "n_types": 225,
+     "mean_letters": 5.52
+    }
+   },
+   "dictionary_spellings_never_in_corpus": {
+    "n": 73,
+    "mean_letters": 5.11
+   },
+   "top_20_tokens": [
+    [
+     "do",
+     82
+    ],
+    [
+     "wah",
+     37
+    ],
+    [
+     "los",
+     37
+    ],
+    [
+     "ahrk",
+     36
+    ],
+    [
+     "fin",
+     31
+    ],
+    [
+     "het",
+     30
+    ],
+    [
+     "ko",
+     28
+    ],
+    [
+     "ni",
+     27
+    ],
+    [
+     "qethsegol",
+     26
+    ],
+    [
+     "wo",
+     24
+    ],
+    [
+     "yol",
+     23
+    ],
+    [
+     "zu'u",
+     23
+    ],
+    [
+     "ok",
+     22
+    ],
+    [
+     "hin",
+     20
+    ],
+    [
+     "dovahkiin",
+     19
+    ],
+    [
+     "wen",
+     18
+    ],
+    [
+     "unslaad",
+     17
+    ],
+    [
+     "naal",
+     17
+    ],
+    [
+     "alduin",
+     17
+    ],
+    [
+     "wahlaan",
+     16
+    ]
+   ]
+  }
+ }
+}

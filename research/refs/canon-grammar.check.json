@@ -1,0 +1,372 @@
+{
+ "source": "research/refs/canon-grammar.json",
+ "counts": {
+  "verified": 11,
+  "not_found": 2,
+  "manual": 5
+ },
+ "results": [
+  {
+   "id": "hayes2008",
+   "cited": {
+    "authors": "Hayes, B.; Wilson, C.",
+    "year": 2008,
+    "title": "A Maximum Entropy Model of Phonotactics and Phonotactic Learning",
+    "venue": "Linguistic Inquiry",
+    "doi": "10.1162/ling.2008.39.3.379",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/ling.2008.39.3.379",
+    "title": "A Maximum Entropy Model of Phonotactics and Phonotactic Learning",
+    "year": 2008,
+    "authors": "Hayes; Wilson",
+    "venue": "Linguistic Inquiry",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bailey2001",
+   "cited": {
+    "authors": "Bailey, T. M.; Hahn, U.",
+    "year": 2001,
+    "title": "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1006/jmla.2000.2756",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/jmla.2000.2756",
+    "title": "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?",
+    "year": 2001,
+    "authors": "Bailey; Hahn",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vitevitch2004",
+   "cited": {
+    "authors": "Vitevitch, M. S.; Luce, P. A.",
+    "year": 2004,
+    "title": "A Web-based interface to calculate phonotactic probability for words and nonwords in English",
+    "venue": "Behavior Research Methods, Instruments, & Computers",
+    "doi": "10.3758/BF03195594",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3758/bf03195594",
+    "title": "A Web-based interface to calculate phonotactic probability for words and nonwords in English",
+    "year": 2004,
+    "authors": "Vitevitch; Luce",
+    "venue": "Behavior Research Methods, Instruments, &amp; Computers",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "frisch2000",
+   "cited": {
+    "authors": "Frisch, S. A.; Large, N. R.; Pisoni, D. B.",
+    "year": 2000,
+    "title": "Perception of Wordlikeness: Effects of Segment Probability and Length on the Processing of Nonwords",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1006/jmla.1999.2692",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/jmla.1999.2692",
+    "title": "Perception of Wordlikeness: Effects of Segment Probability and Length on the Processing of Nonwords",
+    "year": 2000,
+    "authors": "Frisch; Large; Pisoni",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "daland2011",
+   "cited": {
+    "authors": "Daland, R.; Hayes, B.; White, J.; Garellek, M.; Davis, A.; Norrmann, I.",
+    "year": 2011,
+    "title": "Explaining sonority projection effects",
+    "venue": "Phonology",
+    "doi": "10.1017/S0952675711000145",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0952675711000145",
+    "title": "Explaining sonority projection effects",
+    "year": 2011,
+    "authors": "Daland; Hayes; White; Garellek; Davis; Norrmann",
+    "venue": "Phonology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kessler1997",
+   "cited": {
+    "authors": "Kessler, B.; Treiman, R.",
+    "year": 1997,
+    "title": "Syllable Structure and the Distribution of Phonemes in English Syllables",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1006/jmla.1997.2522",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/jmla.1997.2522",
+    "title": "Syllable Structure and the Distribution of Phonemes in English Syllables",
+    "year": 1997,
+    "authors": "Kessler; Treiman",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "baayen1992",
+   "cited": {
+    "authors": "Baayen, H.",
+    "year": 1992,
+    "title": "Quantitative aspects of morphological productivity",
+    "venue": "Yearbook of Morphology 1991",
+    "doi": "10.1007/978-94-011-2516-1_8",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-94-011-2516-1_8",
+    "title": "Quantitative aspects of morphological productivity",
+    "year": 1992,
+    "authors": "Baayen",
+    "venue": "Yearbook of Morphology",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bauer2001",
+   "cited": {
+    "authors": "Bauer, L.",
+    "year": 2001,
+    "title": "Morphological Productivity",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511486210",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511486210",
+    "title": "Morphological Productivity",
+    "year": 2001,
+    "authors": "Bauer",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dryer1992",
+   "cited": {
+    "authors": "Dryer, M. S.",
+    "year": 1992,
+    "title": "The Greenbergian Word Order Correlations",
+    "venue": "Language",
+    "doi": "10.2307/416370",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/416370",
+    "title": "The Greenbergian Word Order Correlations",
+    "year": 1992,
+    "authors": "Dryer",
+    "venue": "Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "haspelmath2010",
+   "cited": {
+    "authors": "Haspelmath, M.",
+    "year": 2010,
+    "title": "Comparative concepts and descriptive categories in crosslinguistic studies",
+    "venue": "Language",
+    "doi": "10.1353/lan.2010.0021",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/lan.2010.0021",
+    "title": "Comparative concepts and descriptive categories in crosslinguistic studies",
+    "year": 2010,
+    "authors": "Haspelmath",
+    "venue": "Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2015",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2015,
+    "title": "The digital fandom of Na'vi speakers",
+    "venue": "Transformative Works and Cultures",
+    "doi": "10.3983/twc.2015.0610",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3983/twc.2015.0610",
+    "title": "digital fandom of Na'vi speakers",
+    "year": 2015,
+    "authors": "Schreyer",
+    "venue": "Transformative Works and Cultures",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "peterson2015",
+   "cited": {
+    "authors": "Peterson, D. J.",
+    "year": 2015,
+    "title": "The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building",
+    "venue": "Penguin Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1075/lplp.00008.gob",
+     "title": "David J. Peterson. <i>The art of language invention: From\n                        horse-lords to dark elves, the words behind the world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1075/lplp.41.2.13gob",
+     "title": "David J. Peterson. <i>The art of language invention: From horse-lords to dark elves, the words behind the\n            world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1515/9780691292601-019",
+     "title": "Chapter Seventeen Words and Deeds",
+     "year": 2007,
+     "authors": "",
+     "venue": "The Horse, the Wheel, and Language",
+     "type": "book-chapter",
+     "similarity": 0.336
+    }
+   ]
+  },
+  {
+   "id": "stassen2013",
+   "cited": {
+    "authors": "Stassen, L.",
+    "year": 2013,
+    "title": "Zero Copula for Predicate Nominals",
+    "venue": "The World Atlas of Language Structures Online (WALS), chapter 120",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "prima2011",
+   "cited": {
+    "authors": "Hodgson, D.",
+    "year": 2011,
+    "title": "The Elder Scrolls V: Skyrim: Prima Official Game Guide",
+    "venue": "Prima Games",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.14361/9783839468258-037",
+     "title": "The Elder Scrolls V: Skyrim (2011)",
+     "year": 2025,
+     "authors": "Schwartz",
+     "venue": "Game Studies",
+     "type": "book-chapter",
+     "similarity": 0.651
+    },
+    {
+     "doi": "10.31261/pr.8957",
+     "title": "Wybrane toponimy w rosyjskim przekładzie gry The Elder Scrolls V: Skyrim",
+     "year": 2020,
+     "authors": "Włodowska",
+     "venue": "Przegląd Rusycystyczny",
+     "type": "journal-article",
+     "similarity": 0.423
+    },
+    {
+     "doi": "10.14295/principios.2675-6609.2026.174.008",
+     "title": "Uso da inteligência artificial na modificação de jogos eletrônicos: O caso do game The elder scrolls V: Skyrim",
+     "year": 2026,
+     "authors": "Nicolai; De Souza Mesquita",
+     "venue": "Princípios",
+     "type": "journal-article",
+     "similarity": 0.325
+    }
+   ]
+  },
+  {
+   "id": "gameinformer2011",
+   "cited": {
+    "authors": "Miller, M.",
+    "year": 2011,
+    "title": "Skyrim's Dragon Shouts",
+    "venue": "Game Informer",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "bethesda_dragon_language",
+   "cited": {
+    "authors": "Wilhelm, P.",
+    "year": 2021,
+    "title": "How Bethesda Game Studios made Skyrim's Dragon language",
+    "venue": "elderscrolls.bethesda.net (Bethesda Softworks), 26 August 2021",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp_dragon_language",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+    "venue": "The Unofficial Elder Scrolls Pages (UESP)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_about",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "About (thuum.org, a community for the dragon language of The Elder Scrolls V: Skyrim)",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

@@ -56,12 +56,25 @@ acting. The rules are meant to be simple enough to re-implement in the app.
    of at least three letters (the linker "se" is also allowed between parts).
    This is a string test, not an etymology: it over-detects (bahlok = bah +
    lok). Its complement is a conservative set of single-morpheme words.
+
+5. Forge profile (added in 1.1.0)
+   A summary for a rule-based word validator, counted over the
+   not-decomposable words only so that compound junctures do not pass as
+   clusters. Onsets, codas and nuclei get a tier by type count: core (5 or
+   more words), marginal (2 to 4), single (1). final_rime crosses the class
+   of the last nucleus with the length of the word-final coda.
+   wordlikeness_model is a unit-bigram model with word boundaries and add-k
+   smoothing; a word's score is its mean log2 transition probability. Scores
+   of the training words are leave-one-out (the word's own bigrams are
+   removed first), so the percentiles say how a NEW word of the same kind
+   would score. The control strings are an illustration, not a test set.
 """
 
 import argparse
 import collections
 import hashlib
 import json
+import math
 import os
 import re
 import sys
@@ -71,7 +84,7 @@ ROOT = os.path.normpath(os.path.join(HERE, "..", ".."))
 DATA = os.path.join(ROOT, "research", "data")
 OUT = os.path.join(DATA, "canon-phonotactics.json")
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 EXAMPLES = 6
 
 SINGLE_VOWELS = set("aeiou")
@@ -606,6 +619,112 @@ def affix_candidates(vocab):
 # main
 # --------------------------------------------------------------------------
 
+def tiered(rows):
+    """Count rows with a tier: core (>= 5 words), marginal (2-4), single (1)."""
+    out = []
+    for r in rows:
+        c = r["count"]
+        tier = "core" if c >= 5 else ("marginal" if c >= 2 else "single")
+        item = r["item"] if "item" in r else r[next(iter(r))]
+        out.append({"item": item, "count": c, "tier": tier, "examples": r.get("examples", [])[:3]})
+    return out
+
+
+def rime_table(words, licit_onsets):
+    """Class of the last nucleus x length of the word-final coda; long nucleus + cluster pairs."""
+    by_class = collections.Counter()
+    pairs = collections.Counter()
+    ex = collections.defaultdict(list)
+    for w in sorted(words):
+        sylls = syllabify(units(w), licit_onsets)
+        if not sylls:
+            continue
+        _, (nuc, cls), coda = sylls[-1]
+        by_class["%s + %d C" % (cls, len(coda))] += 1
+        if len(coda) >= 2:
+            pairs["%s + %s" % (nuc, join(coda))] += 1
+            ex["%s + %s" % (nuc, join(coda))].append(w)
+    return {
+        "nucleus_class_by_coda_length": {k: by_class[k] for k in sorted(by_class)},
+        "nucleus_plus_coda_cluster": table(pairs, ex),
+    }
+
+
+WORDLIKENESS_K = 0.5
+CONTROL_STRINGS = ("strength", "twelfth", "glimpse", "quick", "school", "thwart", "jumped", "bzdrang",
+                   "kaal", "drun", "vothiik", "zaanlok")
+
+
+def wordlikeness_model(train, extra_sets):
+    """Unit-bigram model with boundaries; leave-one-out scores for the training words."""
+    def seq(w):
+        return ["#"] + [u for u, _ in units(w)] + ["#"]
+
+    big = collections.Counter()
+    ctx = collections.Counter()
+    types = {"#"}
+    for w in train:
+        q = seq(w)
+        types.update(q)
+        for a, b in zip(q, q[1:]):
+            big[(a, b)] += 1
+            ctx[a] += 1
+    v = len(types)
+    k = WORDLIKENESS_K
+
+    def score(w, leave_out):
+        q = seq(w)
+        own = collections.Counter(zip(q, q[1:])) if leave_out else {}
+        own_ctx = collections.Counter(q[:-1]) if leave_out else {}
+        total = 0.0
+        unseen = 0
+        for a, b in zip(q, q[1:]):
+            c = big[(a, b)] - own.get((a, b), 0)
+            if c <= 0:
+                unseen += 1
+            total += math.log2((c + k) / (ctx[a] - own_ctx.get(a, 0) + k * v))
+        return round(total / (len(q) - 1), 4), unseen
+
+    scored = sorted((score(w, True) + (w,) for w in train), key=lambda t: (t[0], t[2]))
+    vals = [t[0] for t in scored]
+
+    def pct(p):
+        return vals[int(p * (len(vals) - 1))]
+
+    with_unseen = sum(1 for t in scored if t[1] > 0)
+    out = {
+        "what": "mean log2 P(unit | previous unit) over a word with boundaries, add-k smoothing",
+        "k": k,
+        "unit_types_including_boundary": v,
+        "bigram_types": len(big),
+        "trained_on": "lexicon_not_decomposable",
+        "n_training_words": len(vals),
+        "leave_one_out_score_percentiles": {
+            "min": vals[0], "p01": pct(0.01), "p05": pct(0.05), "p10": pct(0.10),
+            "p25": pct(0.25), "p50": pct(0.50), "p75": pct(0.75), "max": vals[-1],
+        },
+        "training_words_with_a_transition_seen_in_no_other_word": with_unseen,
+        "share_with_such_a_transition": round(with_unseen / len(vals), 4),
+        "lowest_scoring_training_words": [
+            {"word": w, "score": sc, "unseen_transitions": u} for sc, u, w in scored[:20]
+        ],
+        "other_sets": {},
+        "control_strings_illustration_only": [],
+    }
+    for name, words in extra_sets.items():
+        sc = sorted(score(w, w in train)[0] for w in words)
+        if sc:
+            out["other_sets"][name] = {
+                "n": len(sc), "min": sc[0], "p05": sc[int(0.05 * (len(sc) - 1))],
+                "p50": sc[int(0.5 * (len(sc) - 1))], "max": sc[-1],
+            }
+    for w in CONTROL_STRINGS:
+        sc, u = score(w, w in train)
+        out["control_strings_illustration_only"].append(
+            {"string": w, "score": sc, "unseen_transitions": u, "in_training_set": w in train})
+    return out
+
+
 def build():
     lex, h_lex = load("canon-lexicon.json")
     corpus, h_cor = load("canon-corpus.json")
@@ -789,6 +908,20 @@ def build():
         },
         "rune_spelling": rune_spelling(corpus, shouts),
         "affix_candidates": affix_candidates(vocab),
+        "forge_profile": {
+            "basis": "lexicon_not_decomposable (see the docstring, section 5)",
+            "tiers": "core: 5 or more words; marginal: 2 to 4; single: 1",
+            "word_initial_onsets": tiered(res_simplex["word_initial_onsets"]),
+            "word_final_codas": tiered(res_simplex["word_final_codas"]),
+            "nuclei": tiered(res_simplex["nuclei"]),
+            "final_rime": rime_table(simplex, licit),
+            "wordlikeness_model": wordlikeness_model(
+                simplex,
+                {"lexicon_mechanically_decomposable": vocab - simplex,
+                 "shout_words": set(sw),
+                 "dragon_names": {n_["name"] for n_ in names} if names and isinstance(names[0], dict) and "name" in names[0] else set()},
+            ),
+        },
         "mechanically_decomposable_words": {w: p for w, p in decomp.items() if p is not None},
         "syllabification_of_lexicon": syll_list,
     }

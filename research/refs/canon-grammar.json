@@ -1,0 +1,182 @@
+[
+ {
+  "id": "hayes2008",
+  "type": "article",
+  "authors": "Hayes, B.; Wilson, C.",
+  "year": 2008,
+  "title": "A Maximum Entropy Model of Phonotactics and Phonotactic Learning",
+  "venue": "Linguistic Inquiry",
+  "doi": "10.1162/ling.2008.39.3.379",
+  "url": null
+ },
+ {
+  "id": "bailey2001",
+  "type": "article",
+  "authors": "Bailey, T. M.; Hahn, U.",
+  "year": 2001,
+  "title": "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1006/jmla.2000.2756",
+  "url": null
+ },
+ {
+  "id": "vitevitch2004",
+  "type": "article",
+  "authors": "Vitevitch, M. S.; Luce, P. A.",
+  "year": 2004,
+  "title": "A Web-based interface to calculate phonotactic probability for words and nonwords in English",
+  "venue": "Behavior Research Methods, Instruments, & Computers",
+  "doi": "10.3758/BF03195594",
+  "url": null
+ },
+ {
+  "id": "frisch2000",
+  "type": "article",
+  "authors": "Frisch, S. A.; Large, N. R.; Pisoni, D. B.",
+  "year": 2000,
+  "title": "Perception of Wordlikeness: Effects of Segment Probability and Length on the Processing of Nonwords",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1006/jmla.1999.2692",
+  "url": null
+ },
+ {
+  "id": "daland2011",
+  "type": "article",
+  "authors": "Daland, R.; Hayes, B.; White, J.; Garellek, M.; Davis, A.; Norrmann, I.",
+  "year": 2011,
+  "title": "Explaining sonority projection effects",
+  "venue": "Phonology",
+  "doi": "10.1017/S0952675711000145",
+  "url": null
+ },
+ {
+  "id": "kessler1997",
+  "type": "article",
+  "authors": "Kessler, B.; Treiman, R.",
+  "year": 1997,
+  "title": "Syllable Structure and the Distribution of Phonemes in English Syllables",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1006/jmla.1997.2522",
+  "url": null
+ },
+ {
+  "id": "baayen1992",
+  "type": "chapter",
+  "authors": "Baayen, H.",
+  "year": 1992,
+  "title": "Quantitative aspects of morphological productivity",
+  "venue": "Yearbook of Morphology 1991",
+  "doi": "10.1007/978-94-011-2516-1_8",
+  "url": null
+ },
+ {
+  "id": "bauer2001",
+  "type": "book",
+  "authors": "Bauer, L.",
+  "year": 2001,
+  "title": "Morphological Productivity",
+  "venue": "Cambridge University Press",
+  "doi": "10.1017/CBO9780511486210",
+  "url": null
+ },
+ {
+  "id": "dryer1992",
+  "type": "article",
+  "authors": "Dryer, M. S.",
+  "year": 1992,
+  "title": "The Greenbergian Word Order Correlations",
+  "venue": "Language",
+  "doi": "10.2307/416370",
+  "url": null
+ },
+ {
+  "id": "haspelmath2010",
+  "type": "article",
+  "authors": "Haspelmath, M.",
+  "year": 2010,
+  "title": "Comparative concepts and descriptive categories in crosslinguistic studies",
+  "venue": "Language",
+  "doi": "10.1353/lan.2010.0021",
+  "url": null
+ },
+ {
+  "id": "schreyer2015",
+  "type": "article",
+  "authors": "Schreyer, C.",
+  "year": 2015,
+  "title": "The digital fandom of Na'vi speakers",
+  "venue": "Transformative Works and Cultures",
+  "doi": "10.3983/twc.2015.0610",
+  "url": null
+ },
+ {
+  "id": "peterson2015",
+  "type": "book",
+  "authors": "Peterson, D. J.",
+  "year": 2015,
+  "title": "The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building",
+  "venue": "Penguin Books",
+  "doi": null,
+  "url": "https://www.penguinrandomhouse.com/books/isbn/9780143126461"
+ },
+ {
+  "id": "stassen2013",
+  "type": "web",
+  "authors": "Stassen, L.",
+  "year": 2013,
+  "title": "Zero Copula for Predicate Nominals",
+  "venue": "The World Atlas of Language Structures Online (WALS), chapter 120",
+  "doi": null,
+  "url": "https://wals.info/chapter/120"
+ },
+ {
+  "id": "prima2011",
+  "type": "book",
+  "authors": "Hodgson, D.",
+  "year": 2011,
+  "title": "The Elder Scrolls V: Skyrim: Prima Official Game Guide",
+  "venue": "Prima Games",
+  "doi": null,
+  "url": "https://en.m.uesp.net/wiki/Books:The_Elder_Scrolls_V:_Skyrim:_Prima_Official_Game_Guide"
+ },
+ {
+  "id": "gameinformer2011",
+  "type": "web",
+  "authors": "Miller, M.",
+  "year": 2011,
+  "title": "Skyrim's Dragon Shouts",
+  "venue": "Game Informer",
+  "doi": null,
+  "url": "https://gameinformer.com/b/features/archive/2011/01/20/skyrim-s-dragon-shouts?PostPageIndex=1"
+ },
+ {
+  "id": "bethesda_dragon_language",
+  "type": "web",
+  "authors": "Wilhelm, P.",
+  "year": 2021,
+  "title": "How Bethesda Game Studios made Skyrim's Dragon language",
+  "venue": "elderscrolls.bethesda.net (Bethesda Softworks), 26 August 2021",
+  "doi": null,
+  "url": "https://elderscrolls.bethesda.net/en-AU/news/1rL4bCScN6RYXaXQb4ownj/how-bethesda-game-studios-made-skyrims-dragon-language"
+ },
+ {
+  "id": "uesp_dragon_language",
+  "type": "web",
+  "authors": "UESP contributors",
+  "year": 2026,
+  "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+  "venue": "The Unofficial Elder Scrolls Pages (UESP)",
+  "doi": null,
+  "url": "https://en.m.uesp.net/wiki/Lore:Dragon_Language"
+ },
+ {
+  "id": "thuum_about",
+  "type": "web",
+  "authors": "Thuum.org",
+  "year": null,
+  "title": "About (thuum.org, a community for the dragon language of The Elder Scrolls V: Skyrim)",
+  "venue": "thuum.org",
+  "doi": null,
+  "url": "https://thuum.org/about.php"
+ }
+]

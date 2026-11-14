@@ -1,0 +1,982 @@
+[
+ {
+  "id": "cepeda2006",
+  "type": "article",
+  "authors": "Cepeda, N. J.; Pashler, H.; Vul, E.; Wixted, J. T.; Rohrer, D.",
+  "year": 2006,
+  "title": "Distributed practice in verbal recall tasks: A review and quantitative synthesis",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/0033-2909.132.3.354",
+  "url": null
+ },
+ {
+  "id": "cepeda2008",
+  "type": "article",
+  "authors": "Cepeda, N. J.; Vul, E.; Rohrer, D.; Wixted, J. T.; Pashler, H.",
+  "year": 2008,
+  "title": "Spacing effects in learning: A temporal ridgeline of optimal retention",
+  "venue": "Psychological Science",
+  "doi": "10.1111/j.1467-9280.2008.02209.x",
+  "url": null
+ },
+ {
+  "id": "rowland2014",
+  "type": "article",
+  "authors": "Rowland, C. A.",
+  "year": 2014,
+  "title": "The effect of testing versus restudy on retention: A meta-analytic review of the testing effect",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/a0037559",
+  "url": null
+ },
+ {
+  "id": "adesope2017",
+  "type": "article",
+  "authors": "Adesope, O. O.; Trevisan, D. A.; Sundararajan, N.",
+  "year": 2017,
+  "title": "Rethinking the use of tests: A meta-analysis of practice testing",
+  "venue": "Review of Educational Research",
+  "doi": "10.3102/0034654316689306",
+  "url": null
+ },
+ {
+  "id": "roediger2006",
+  "type": "article",
+  "authors": "Roediger, H. L.; Karpicke, J. D.",
+  "year": 2006,
+  "title": "Test-enhanced learning: Taking memory tests improves long-term retention",
+  "venue": "Psychological Science",
+  "doi": "10.1111/j.1467-9280.2006.01693.x",
+  "url": null
+ },
+ {
+  "id": "karpicke2008",
+  "type": "article",
+  "authors": "Karpicke, J. D.; Roediger, H. L.",
+  "year": 2008,
+  "title": "The critical importance of retrieval for learning",
+  "venue": "Science",
+  "doi": "10.1126/science.1152408",
+  "url": null
+ },
+ {
+  "id": "dunlosky2013",
+  "type": "article",
+  "authors": "Dunlosky, J.; Rawson, K. A.; Marsh, E. J.; Nathan, M. J.; Willingham, D. T.",
+  "year": 2013,
+  "title": "Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology",
+  "venue": "Psychological Science in the Public Interest",
+  "doi": "10.1177/1529100612453266",
+  "url": null
+ },
+ {
+  "id": "karpicke2011",
+  "type": "article",
+  "authors": "Karpicke, J. D.; Bauernschmidt, A.",
+  "year": 2011,
+  "title": "Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing",
+  "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+  "doi": "10.1037/a0023436",
+  "url": null
+ },
+ {
+  "id": "kang2014",
+  "type": "article",
+  "authors": "Kang, S. H. K.; Lindsey, R. V.; Mozer, M. C.; Pashler, H.",
+  "year": 2014,
+  "title": "Retrieval practice over the long term: Should spacing be expanding or equal-interval?",
+  "venue": "Psychonomic Bulletin & Review",
+  "doi": "10.3758/s13423-014-0636-z",
+  "url": null
+ },
+ {
+  "id": "karpicke2007",
+  "type": "article",
+  "authors": "Karpicke, J. D.; Roediger, H. L.",
+  "year": 2007,
+  "title": "Expanding retrieval practice promotes short-term retention, but equally spaced retrieval enhances long-term retention",
+  "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+  "doi": "10.1037/0278-7393.33.4.704",
+  "url": null
+ },
+ {
+  "id": "rawson2011",
+  "type": "article",
+  "authors": "Rawson, K. A.; Dunlosky, J.",
+  "year": 2011,
+  "title": "Optimizing schedules of retrieval practice for durable and efficient learning: How much is enough?",
+  "venue": "Journal of Experimental Psychology: General",
+  "doi": "10.1037/a0023956",
+  "url": null
+ },
+ {
+  "id": "rawson2013",
+  "type": "article",
+  "authors": "Rawson, K. A.; Dunlosky, J.; Sciartelli, S. M.",
+  "year": 2013,
+  "title": "The power of successive relearning: Improving performance on course exams and long-term retention",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-013-9240-4",
+  "url": null
+ },
+ {
+  "id": "rawson2022",
+  "type": "article",
+  "authors": "Rawson, K. A.; Dunlosky, J.",
+  "year": 2022,
+  "title": "Successive relearning: An underexplored but potent technique for obtaining and maintaining knowledge",
+  "venue": "Current Directions in Psychological Science",
+  "doi": "10.1177/09637214221100484",
+  "url": null
+ },
+ {
+  "id": "latimier2021",
+  "type": "article",
+  "authors": "Latimier, A.; Peyre, H.; Ramus, F.",
+  "year": 2021,
+  "title": "A meta-analytic review of the benefit of spacing out retrieval practice episodes on retention",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-020-09572-8",
+  "url": null
+ },
+ {
+  "id": "kim2022",
+  "type": "article",
+  "authors": "Kim, S. K.; Webb, S.",
+  "year": 2022,
+  "title": "The effects of spaced practice on second language learning: A meta-analysis",
+  "venue": "Language Learning",
+  "doi": "10.1111/lang.12479",
+  "url": null
+ },
+ {
+  "id": "yang2021",
+  "type": "article",
+  "authors": "Yang, C.; Luo, L.; Vadillo, M. A.; Yu, R.; Shanks, D. R.",
+  "year": 2021,
+  "title": "Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/bul0000309",
+  "url": null
+ },
+ {
+  "id": "pan2018",
+  "type": "article",
+  "authors": "Pan, S. C.; Rickard, T. C.",
+  "year": 2018,
+  "title": "Transfer of test-enhanced learning: Meta-analytic review and synthesis",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/bul0000151",
+  "url": null
+ },
+ {
+  "id": "brunmair2019",
+  "type": "article",
+  "authors": "Brunmair, M.; Richter, T.",
+  "year": 2019,
+  "title": "Similarity matters: A meta-analysis of interleaved learning and its moderators",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/bul0000209",
+  "url": null
+ },
+ {
+  "id": "pan2019",
+  "type": "article",
+  "authors": "Pan, S. C.; Tajran, J.; Lovelett, J.; Osuna, J.; Rickard, T. C.",
+  "year": 2019,
+  "title": "Does interleaved practice enhance foreign language learning? The effects of training schedule on Spanish verb conjugation skills",
+  "venue": "Journal of Educational Psychology",
+  "doi": "10.1037/edu0000336",
+  "url": null
+ },
+ {
+  "id": "nakatasuzuki2019a",
+  "type": "article",
+  "authors": "Nakata, T.; Suzuki, Y.",
+  "year": 2019,
+  "title": "Mixing grammar exercises facilitates long-term retention: Effects of blocking, interleaving, and increasing practice",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/modl.12581",
+  "url": null
+ },
+ {
+  "id": "kornell2009a",
+  "type": "article",
+  "authors": "Kornell, N.; Hays, M. J.; Bjork, R. A.",
+  "year": 2009,
+  "title": "Unsuccessful retrieval attempts enhance subsequent learning",
+  "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+  "doi": "10.1037/a0015729",
+  "url": null
+ },
+ {
+  "id": "pashler2005",
+  "type": "article",
+  "authors": "Pashler, H.; Cepeda, N. J.; Wixted, J. T.; Rohrer, D.",
+  "year": 2005,
+  "title": "When does feedback facilitate learning of words?",
+  "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+  "doi": "10.1037/0278-7393.31.1.3",
+  "url": null
+ },
+ {
+  "id": "butler2007",
+  "type": "article",
+  "authors": "Butler, A. C.; Karpicke, J. D.; Roediger, H. L.",
+  "year": 2007,
+  "title": "The effect of type and timing of feedback on learning from multiple-choice tests",
+  "venue": "Journal of Experimental Psychology: Applied",
+  "doi": "10.1037/1076-898X.13.4.273",
+  "url": null
+ },
+ {
+  "id": "soderstrom2015",
+  "type": "article",
+  "authors": "Soderstrom, N. C.; Bjork, R. A.",
+  "year": 2015,
+  "title": "Learning versus performance: An integrative review",
+  "venue": "Perspectives on Psychological Science",
+  "doi": "10.1177/1745691615569000",
+  "url": null
+ },
+ {
+  "id": "pyc2009",
+  "type": "article",
+  "authors": "Pyc, M. A.; Rawson, K. A.",
+  "year": 2009,
+  "title": "Testing the retrieval effort hypothesis: Does greater difficulty correctly recalling information lead to higher levels of memory?",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1016/j.jml.2009.01.004",
+  "url": null
+ },
+ {
+  "id": "carpenter2022",
+  "type": "article",
+  "authors": "Carpenter, S. K.; Pan, S. C.; Butler, A. C.",
+  "year": 2022,
+  "title": "The science of effective learning with spacing and retrieval practice",
+  "venue": "Nature Reviews Psychology",
+  "doi": "10.1038/s44159-022-00089-1",
+  "url": null
+ },
+ {
+  "id": "kornell2009b",
+  "type": "article",
+  "authors": "Kornell, N.",
+  "year": 2009,
+  "title": "Optimising learning using flashcards: Spacing is more effective than cramming",
+  "venue": "Applied Cognitive Psychology",
+  "doi": "10.1002/acp.1537",
+  "url": null
+ },
+ {
+  "id": "bahrick1993",
+  "type": "article",
+  "authors": "Bahrick, H. P.; Bahrick, L. E.; Bahrick, A. S.; Bahrick, P. E.",
+  "year": 1993,
+  "title": "Maintenance of foreign language vocabulary and the spacing effect",
+  "venue": "Psychological Science",
+  "doi": "10.1111/j.1467-9280.1993.tb00571.x",
+  "url": null
+ },
+ {
+  "id": "nakata2015a",
+  "type": "article",
+  "authors": "Nakata, T.",
+  "year": 2015,
+  "title": "Effects of expanding and equal spacing on second language vocabulary learning: Does gradually increasing spacing increase vocabulary learning?",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263114000825",
+  "url": null
+ },
+ {
+  "id": "nakata2017",
+  "type": "article",
+  "authors": "Nakata, T.",
+  "year": 2017,
+  "title": "Does repeated practice make perfect? The effects of within-session repeated retrieval on second language vocabulary learning",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263116000280",
+  "url": null
+ },
+ {
+  "id": "nakata2015b",
+  "type": "article",
+  "authors": "Nakata, T.",
+  "year": 2015,
+  "title": "Effects of feedback timing on second language vocabulary learning: Does delaying feedback increase learning?",
+  "venue": "Language Teaching Research",
+  "doi": "10.1177/1362168814541721",
+  "url": null
+ },
+ {
+  "id": "pancarpenter2023",
+  "type": "article",
+  "authors": "Pan, S. C.; Carpenter, S. K.",
+  "year": 2023,
+  "title": "Prequestioning and pretesting effects: A review of empirical research, theoretical perspectives, and implications for educational practice",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-023-09814-5",
+  "url": null
+ },
+ {
+  "id": "potts2014",
+  "type": "article",
+  "authors": "Potts, R.; Shanks, D. R.",
+  "year": 2014,
+  "title": "The benefit of generating errors during learning",
+  "venue": "Journal of Experimental Psychology: General",
+  "doi": "10.1037/a0033194",
+  "url": null
+ },
+ {
+  "id": "rohrer2005",
+  "type": "article",
+  "authors": "Rohrer, D.; Taylor, K.; Pashler, H.; Wixted, J. T.; Cepeda, N. J.",
+  "year": 2005,
+  "title": "The effect of overlearning on long-term retention",
+  "venue": "Applied Cognitive Psychology",
+  "doi": "10.1002/acp.1083",
+  "url": null
+ },
+ {
+  "id": "wozniak1994",
+  "type": "article",
+  "authors": "Wozniak, P. A.; Gorzelanczyk, E. J.",
+  "year": 1994,
+  "title": "Optimization of repetition spacing in the practice of learning",
+  "venue": "Acta Neurobiologiae Experimentalis",
+  "doi": "10.55782/ane-1994-1003",
+  "url": null
+ },
+ {
+  "id": "wozniak1995",
+  "type": "article",
+  "authors": "Wozniak, P. A.; Gorzelanczyk, E. J.; Murakowski, J. A.",
+  "year": 1995,
+  "title": "Two components of long-term memory",
+  "venue": "Acta Neurobiologiae Experimentalis",
+  "doi": "10.55782/ane-1995-1090",
+  "url": null
+ },
+ {
+  "id": "wozniak1990",
+  "type": "web",
+  "authors": "Wozniak, P. A.",
+  "year": 1990,
+  "title": "Application of a computer to improve the results obtained in working with the SuperMemo method (Algorithm SM-2)",
+  "venue": "SuperMemo archive (adapted from the author's 1990 master's thesis)",
+  "doi": null,
+  "url": "https://www-v1.supermemo.com/archives1990-2015/english/ol/sm2"
+ },
+ {
+  "id": "settles2016",
+  "type": "proceedings",
+  "authors": "Settles, B.; Meeder, B.",
+  "year": 2016,
+  "title": "A trainable spaced repetition model for language learning",
+  "venue": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics",
+  "doi": "10.18653/v1/P16-1174",
+  "url": null
+ },
+ {
+  "id": "tabibian2019",
+  "type": "article",
+  "authors": "Tabibian, B.; Upadhyay, U.; De, A.; Zarezade, A.; Schölkopf, B.; Gomez-Rodriguez, M.",
+  "year": 2019,
+  "title": "Enhancing human learning via spaced repetition optimization",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.1815156116",
+  "url": null
+ },
+ {
+  "id": "reddy2016",
+  "type": "proceedings",
+  "authors": "Reddy, S.; Labutov, I.; Banerjee, S.; Joachims, T.",
+  "year": 2016,
+  "title": "Unbounded human learning: Optimal scheduling for spaced repetition",
+  "venue": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+  "doi": "10.1145/2939672.2939850",
+  "url": null
+ },
+ {
+  "id": "lindsey2014",
+  "type": "article",
+  "authors": "Lindsey, R. V.; Shroyer, J. D.; Pashler, H.; Mozer, M. C.",
+  "year": 2014,
+  "title": "Improving students' long-term knowledge retention through personalized review",
+  "venue": "Psychological Science",
+  "doi": "10.1177/0956797613504302",
+  "url": null
+ },
+ {
+  "id": "pavlik2008",
+  "type": "article",
+  "authors": "Pavlik, P. I.; Anderson, J. R.",
+  "year": 2008,
+  "title": "Using a model to compute the optimal schedule of practice",
+  "venue": "Journal of Experimental Psychology: Applied",
+  "doi": "10.1037/1076-898X.14.2.101",
+  "url": null
+ },
+ {
+  "id": "pavlik2005",
+  "type": "article",
+  "authors": "Pavlik, P. I.; Anderson, J. R.",
+  "year": 2005,
+  "title": "Practice and forgetting effects on vocabulary memory: An activation-based model of the spacing effect",
+  "venue": "Cognitive Science",
+  "doi": "10.1207/s15516709cog0000_14",
+  "url": null
+ },
+ {
+  "id": "walsh2018",
+  "type": "article",
+  "authors": "Walsh, M. M.; Gluck, K. A.; Gunzelmann, G.; Jastrzembski, T.; Krusmark, M.",
+  "year": 2018,
+  "title": "Evaluating the theoretic adequacy and applied potential of computational models of the spacing effect",
+  "venue": "Cognitive Science",
+  "doi": "10.1111/cogs.12602",
+  "url": null
+ },
+ {
+  "id": "sense2016",
+  "type": "article",
+  "authors": "Sense, F.; Behrens, F.; Meijer, R. R.; van Rijn, H.",
+  "year": 2016,
+  "title": "An individual's rate of forgetting is stable over time but differs across materials",
+  "venue": "Topics in Cognitive Science",
+  "doi": "10.1111/tops.12183",
+  "url": null
+ },
+ {
+  "id": "vandervelde2021",
+  "type": "article",
+  "authors": "van der Velde, M.; Sense, F.; Borst, J.; van Rijn, H.",
+  "year": 2021,
+  "title": "Alleviating the cold start problem in adaptive learning using data-driven difficulty estimates",
+  "venue": "Computational Brain & Behavior",
+  "doi": "10.1007/s42113-021-00101-6",
+  "url": null
+ },
+ {
+  "id": "ye2022",
+  "type": "proceedings",
+  "authors": "Ye, J.; Su, J.; Cao, Y.",
+  "year": 2022,
+  "title": "A stochastic shortest path algorithm for optimizing spaced repetition scheduling",
+  "venue": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+  "doi": "10.1145/3534678.3539081",
+  "url": null
+ },
+ {
+  "id": "su2023",
+  "type": "article",
+  "authors": "Su, J.; Ye, J.; Nie, L.; Cao, Y.; Chen, Y.",
+  "year": 2023,
+  "title": "Optimizing spaced repetition schedule by capturing the dynamics of memory",
+  "venue": "IEEE Transactions on Knowledge and Data Engineering",
+  "doi": "10.1109/TKDE.2023.3251721",
+  "url": null
+ },
+ {
+  "id": "eglington2020",
+  "type": "article",
+  "authors": "Eglington, L. G.; Pavlik, P. I.",
+  "year": 2020,
+  "title": "Optimizing practice scheduling requires quantitative tracking of individual item performance",
+  "venue": "npj Science of Learning",
+  "doi": "10.1038/s41539-020-00074-4",
+  "url": null
+ },
+ {
+  "id": "mettler2016",
+  "type": "article",
+  "authors": "Mettler, E.; Massey, C. M.; Kellman, P. J.",
+  "year": 2016,
+  "title": "A comparison of adaptive and fixed schedules of practice",
+  "venue": "Journal of Experimental Psychology: General",
+  "doi": "10.1037/xge0000170",
+  "url": null
+ },
+ {
+  "id": "upadhyay2021",
+  "type": "article",
+  "authors": "Upadhyay, U.; Lancashire, G.; Moser, C.; Gomez-Rodriguez, M.",
+  "year": 2021,
+  "title": "Large-scale randomized experiments reveals that machine learning-based instruction helps people memorize more effectively",
+  "venue": "npj Science of Learning",
+  "doi": "10.1038/s41539-021-00105-8",
+  "url": null
+ },
+ {
+  "id": "shu2024",
+  "type": "proceedings",
+  "authors": "Shu, M.; Balepur, N.; Feng, S.; Boyd-Graber, J.",
+  "year": 2024,
+  "title": "KARL: Knowledge-Aware Retrieval and Representations aid Retention and Learning in Students",
+  "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+  "doi": "10.18653/v1/2024.emnlp-main.784",
+  "url": null
+ },
+ {
+  "id": "wixted1991",
+  "type": "article",
+  "authors": "Wixted, J. T.; Ebbesen, E. B.",
+  "year": 1991,
+  "title": "On the form of forgetting",
+  "venue": "Psychological Science",
+  "doi": "10.1111/j.1467-9280.1991.tb00175.x",
+  "url": null
+ },
+ {
+  "id": "srsbenchmark",
+  "type": "web",
+  "authors": "open-spaced-repetition (Ye, J.; contributors)",
+  "year": 2026,
+  "title": "srs-benchmark: A benchmark for spaced repetition schedulers/algorithms",
+  "venue": "GitHub repository",
+  "doi": null,
+  "url": "https://github.com/open-spaced-repetition/srs-benchmark"
+ },
+ {
+  "id": "fsrsrepo",
+  "type": "web",
+  "authors": "open-spaced-repetition (Ye, J.; contributors)",
+  "year": 2026,
+  "title": "free-spaced-repetition-scheduler: A spaced repetition algorithm based on DSR model",
+  "venue": "GitHub repository",
+  "doi": null,
+  "url": "https://github.com/open-spaced-repetition/free-spaced-repetition-scheduler"
+ },
+ {
+  "id": "fsrs4anki",
+  "type": "web",
+  "authors": "open-spaced-repetition (Ye, J.; contributors)",
+  "year": 2026,
+  "title": "fsrs4anki: fsrs4anki_scheduler.js (reference scheduler with FSRS-6 default parameters)",
+  "venue": "GitHub repository",
+  "doi": null,
+  "url": "https://github.com/open-spaced-repetition/fsrs4anki/blob/main/fsrs4anki_scheduler.js"
+ },
+ {
+  "id": "fsrsoptret",
+  "type": "web",
+  "authors": "open-spaced-repetition (Ye, J.; contributors)",
+  "year": 2026,
+  "title": "The optimal retention",
+  "venue": "fsrs4anki wiki, GitHub",
+  "doi": null,
+  "url": "https://github.com/open-spaced-repetition/fsrs4anki/wiki/The-optimal-retention"
+ },
+ {
+  "id": "tsfsrs",
+  "type": "web",
+  "authors": "open-spaced-repetition (contributors)",
+  "year": 2026,
+  "title": "ts-fsrs updates (release feed)",
+  "venue": "Project documentation site",
+  "doi": null,
+  "url": "https://open-spaced-repetition.github.io/ts-fsrs/rss/updates.xml"
+ },
+ {
+  "id": "webb2023",
+  "type": "article",
+  "authors": "Webb, S.; Uchihara, T.; Yanagisawa, A.",
+  "year": 2023,
+  "title": "How effective is second language incidental vocabulary learning? A meta-analysis",
+  "venue": "Language Teaching",
+  "doi": "10.1017/s0261444822000507",
+  "url": null
+ },
+ {
+  "id": "uchihara2019",
+  "type": "article",
+  "authors": "Uchihara, T.; Webb, S.; Yanagisawa, A.",
+  "year": 2019,
+  "title": "The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies",
+  "venue": "Language Learning",
+  "doi": "10.1111/lang.12343",
+  "url": null
+ },
+ {
+  "id": "webb2020",
+  "type": "article",
+  "authors": "Webb, S.; Yanagisawa, A.; Uchihara, T.",
+  "year": 2020,
+  "title": "How effective are intentional vocabulary-learning activities? A meta-analysis",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/modl.12671",
+  "url": null
+ },
+ {
+  "id": "laufer2001",
+  "type": "article",
+  "authors": "Laufer, B.; Hulstijn, J.",
+  "year": 2001,
+  "title": "Incidental vocabulary acquisition in a second language: The construct of task-induced involvement",
+  "venue": "Applied Linguistics",
+  "doi": "10.1093/applin/22.1.1",
+  "url": null
+ },
+ {
+  "id": "yanagisawa2021",
+  "type": "article",
+  "authors": "Yanagisawa, A.; Webb, S.",
+  "year": 2021,
+  "title": "To what extent does the involvement load hypothesis predict incidental L2 vocabulary learning? A meta-analysis",
+  "venue": "Language Learning",
+  "doi": "10.1111/lang.12444",
+  "url": null
+ },
+ {
+  "id": "yanagisawa2022",
+  "type": "article",
+  "authors": "Yanagisawa, A.; Webb, S.",
+  "year": 2022,
+  "title": "Involvement Load Hypothesis Plus: Creating an improved predictive model of incidental vocabulary learning",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263121000577",
+  "url": null
+ },
+ {
+  "id": "hu2016",
+  "type": "article",
+  "authors": "Hu, H. M.; Nassaji, H.",
+  "year": 2016,
+  "title": "Effective vocabulary learning tasks: Involvement Load Hypothesis versus Technique Feature Analysis",
+  "venue": "System",
+  "doi": "10.1016/j.system.2015.11.001",
+  "url": null
+ },
+ {
+  "id": "nation2022",
+  "type": "book",
+  "authors": "Nation, I. S. P.",
+  "year": 2022,
+  "title": "Learning Vocabulary in Another Language",
+  "venue": "Cambridge University Press (3rd ed.)",
+  "doi": "10.1017/9781009093873",
+  "url": null
+ },
+ {
+  "id": "nakata2011",
+  "type": "article",
+  "authors": "Nakata, T.",
+  "year": 2011,
+  "title": "Computer-assisted second language vocabulary learning in a paired-associate paradigm: A critical investigation of flashcard software",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2010.520675",
+  "url": null
+ },
+ {
+  "id": "webb2009",
+  "type": "article",
+  "authors": "Webb, S.",
+  "year": 2009,
+  "title": "The effects of receptive and productive learning of word pairs on vocabulary knowledge",
+  "venue": "RELC Journal",
+  "doi": "10.1177/0033688209343854",
+  "url": null
+ },
+ {
+  "id": "mondria2004",
+  "type": "chapter",
+  "authors": "Mondria, J.-A.; Wiersma, B.",
+  "year": 2004,
+  "title": "Receptive, productive, and receptive + productive L2 vocabulary learning: What difference does it make?",
+  "venue": "Vocabulary in a Second Language (John Benjamins)",
+  "doi": "10.1075/lllt.10.08mon",
+  "url": null
+ },
+ {
+  "id": "griffin1996",
+  "type": "article",
+  "authors": "Griffin, G.; Harley, T. A.",
+  "year": 1996,
+  "title": "List learning of second language vocabulary",
+  "venue": "Applied Psycholinguistics",
+  "doi": "10.1017/S0142716400008195",
+  "url": null
+ },
+ {
+  "id": "laufer2004",
+  "type": "article",
+  "authors": "Laufer, B.; Goldstein, Z.",
+  "year": 2004,
+  "title": "Testing vocabulary knowledge: Size, strength, and computer adaptiveness",
+  "venue": "Language Learning",
+  "doi": "10.1111/j.0023-8333.2004.00260.x",
+  "url": null
+ },
+ {
+  "id": "yanagisawa2020",
+  "type": "article",
+  "authors": "Yanagisawa, A.; Webb, S.; Uchihara, T.",
+  "year": 2020,
+  "title": "How do different forms of glossing contribute to L2 vocabulary learning from reading? A meta-regression analysis",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263119000688",
+  "url": null
+ },
+ {
+  "id": "kimleelee2024",
+  "type": "article",
+  "authors": "Kim, H. S.; Lee, J. H.; Lee, H.",
+  "year": 2024,
+  "title": "The relative effects of L1 and L2 glosses on L2 learning: A meta-analysis",
+  "venue": "Language Teaching Research",
+  "doi": "10.1177/1362168820981394",
+  "url": null
+ },
+ {
+  "id": "laufer1997",
+  "type": "article",
+  "authors": "Laufer, B.; Shmueli, K.",
+  "year": 1997,
+  "title": "Memorizing new words: Does teaching have anything to do with it?",
+  "venue": "RELC Journal",
+  "doi": "10.1177/003368829702800106",
+  "url": null
+ },
+ {
+  "id": "atkinson1975",
+  "type": "article",
+  "authors": "Atkinson, R. C.; Raugh, M. R.",
+  "year": 1975,
+  "title": "An application of the mnemonic keyword method to the acquisition of a Russian vocabulary",
+  "venue": "Journal of Experimental Psychology: Human Learning and Memory",
+  "doi": "10.1037/0278-7393.1.2.126",
+  "url": null
+ },
+ {
+  "id": "wang1995",
+  "type": "article",
+  "authors": "Wang, A. Y.; Thomas, M. H.",
+  "year": 1995,
+  "title": "Effect of keywords on long-term retention: Help or hindrance?",
+  "venue": "Journal of Educational Psychology",
+  "doi": "10.1037/0022-0663.87.3.468",
+  "url": null
+ },
+ {
+  "id": "tinkham1993",
+  "type": "article",
+  "authors": "Tinkham, T.",
+  "year": 1993,
+  "title": "The effect of semantic clustering on the learning of second language vocabulary",
+  "venue": "System",
+  "doi": "10.1016/0346-251X(93)90027-E",
+  "url": null
+ },
+ {
+  "id": "waring1997",
+  "type": "article",
+  "authors": "Waring, R.",
+  "year": 1997,
+  "title": "The negative effects of learning words in semantic sets: A replication",
+  "venue": "System",
+  "doi": "10.1016/S0346-251X(97)00013-4",
+  "url": null
+ },
+ {
+  "id": "nakatasuzuki2019b",
+  "type": "article",
+  "authors": "Nakata, T.; Suzuki, Y.",
+  "year": 2019,
+  "title": "Effects of massing and spacing on the learning of semantically related and unrelated words",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263118000219",
+  "url": null
+ },
+ {
+  "id": "li2026",
+  "type": "article",
+  "authors": "Li, M.; Uchihara, T.; Nakata, T.; Murphy, V.",
+  "year": 2026,
+  "title": "The effectiveness of semantic clustering on vocabulary learning: A multilevel meta-analysis",
+  "venue": "System",
+  "doi": "10.1016/j.system.2026.104141",
+  "url": null
+ },
+ {
+  "id": "sarioglu2024",
+  "type": "article",
+  "authors": "Sarıoğlu, M.; Karatepe",
+  "year": 2024,
+  "title": "The Use of Mnemonics to Minimize the Interfering Effects of Teaching New Words in Semantic Sets to Learners of English as a Foreign Language",
+  "venue": "Applied Cognitive Psychology",
+  "doi": "10.1002/acp.4251",
+  "url": null
+ },
+ {
+  "id": "boers2012",
+  "type": "article",
+  "authors": "Boers, F.; Lindstromberg, S.",
+  "year": 2012,
+  "title": "Experimental and intervention studies on formulaic sequences in a second language",
+  "venue": "Annual Review of Applied Linguistics",
+  "doi": "10.1017/S0267190512000050",
+  "url": null
+ },
+ {
+  "id": "nation2007",
+  "type": "article",
+  "authors": "Nation, P.",
+  "year": 2007,
+  "title": "The four strands",
+  "venue": "Innovation in Language Learning and Teaching",
+  "doi": "10.2167/illt039.0",
+  "url": null
+ },
+ {
+  "id": "elgort2011",
+  "type": "article",
+  "authors": "Elgort, I.",
+  "year": 2011,
+  "title": "Deliberate learning and vocabulary acquisition in a second language",
+  "venue": "Language Learning",
+  "doi": "10.1111/j.1467-9922.2010.00613.x",
+  "url": null
+ },
+ {
+  "id": "barcroft2007",
+  "type": "article",
+  "authors": "Barcroft, J.",
+  "year": 2007,
+  "title": "Effects of opportunities for word retrieval during second language vocabulary learning",
+  "venue": "Language Learning",
+  "doi": "10.1111/j.1467-9922.2007.00398.x",
+  "url": null
+ },
+ {
+  "id": "kang2013",
+  "type": "article",
+  "authors": "Kang, S. H. K.; Gollan, T. H.; Pashler, H.",
+  "year": 2013,
+  "title": "Don't just repeat after me: Retrieval practice is better than imitation for foreign vocabulary learning",
+  "venue": "Psychonomic Bulletin & Review",
+  "doi": "10.3758/s13423-013-0450-z",
+  "url": null
+ },
+ {
+  "id": "little2012",
+  "type": "article",
+  "authors": "Little, J. L.; Bjork, E. L.; Bjork, R. A.; Angello, G.",
+  "year": 2012,
+  "title": "Multiple-choice tests exonerated, at least of some charges: Fostering test-induced learning and avoiding test-induced forgetting",
+  "venue": "Psychological Science",
+  "doi": "10.1177/0956797612443370",
+  "url": null
+ },
+ {
+  "id": "roediger2005",
+  "type": "article",
+  "authors": "Roediger, H. L.; Marsh, E. J.",
+  "year": 2005,
+  "title": "The positive and negative consequences of multiple-choice testing",
+  "venue": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+  "doi": "10.1037/0278-7393.31.5.1155",
+  "url": null
+ },
+ {
+  "id": "wiley2021",
+  "type": "article",
+  "authors": "Wiley, R. W.; Rapp, B.",
+  "year": 2021,
+  "title": "The effects of handwriting experience on literacy learning",
+  "venue": "Psychological Science",
+  "doi": "10.1177/0956797621993111",
+  "url": null
+ },
+ {
+  "id": "nakatawebb2016",
+  "type": "article",
+  "authors": "Nakata, T.; Webb, S.",
+  "year": 2016,
+  "title": "Does studying vocabulary in smaller sets increase learning? The effects of part and whole learning on second language vocabulary acquisition",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263115000236",
+  "url": null
+ },
+ {
+  "id": "kornell2008",
+  "type": "article",
+  "authors": "Kornell, N.; Bjork, R. A.",
+  "year": 2008,
+  "title": "Optimising self-regulated study: The benefits—and costs—of dropping flashcards",
+  "venue": "Memory",
+  "doi": "10.1080/09658210701763899",
+  "url": null
+ },
+ {
+  "id": "lally2010",
+  "type": "article",
+  "authors": "Lally, P.; van Jaarsveld, C. H. M.; Potts, H. W. W.; Wardle, J.",
+  "year": 2010,
+  "title": "How are habits formed: Modelling habit formation in the real world",
+  "venue": "European Journal of Social Psychology",
+  "doi": "10.1002/ejsp.674",
+  "url": null
+ },
+ {
+  "id": "nakataelgort2021",
+  "type": "article",
+  "authors": "Nakata, T.; Elgort, I.",
+  "year": 2021,
+  "title": "Effects of spacing on contextual vocabulary learning: Spacing facilitates the acquisition of explicit, but not tacit, vocabulary knowledge",
+  "venue": "Second Language Research",
+  "doi": "10.1177/0267658320927764",
+  "url": null
+ },
+ {
+  "id": "seiberthanson2020",
+  "type": "article",
+  "authors": "Seibert Hanson, A. E.; Brown, C. M.",
+  "year": 2020,
+  "title": "Enhancing L2 learning through a mobile assisted spaced-repetition tool: an effective but bitter pill?",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2018.1552975",
+  "url": null
+ },
+ {
+  "id": "bird2010",
+  "type": "article",
+  "authors": "Bird, S.",
+  "year": 2010,
+  "title": "Effects of distributed practice on the acquisition of second language English syntax",
+  "venue": "Applied Psycholinguistics",
+  "doi": "10.1017/s0142716410000172",
+  "url": null
+ },
+ {
+  "id": "suzukidekeyser2017b",
+  "type": "article",
+  "authors": "Suzuki, Y.; DeKeyser, R.",
+  "year": 2017,
+  "title": "Effects of distributed practice on the proceduralization of morphology",
+  "venue": "Language Teaching Research",
+  "doi": "10.1177/1362168815617334",
+  "url": null
+ },
+ {
+  "id": "kasprowicz2019",
+  "type": "article",
+  "authors": "Kasprowicz, R. E.; Marsden, E.; Sephton, N.",
+  "year": 2019,
+  "title": "Investigating distribution of practice effects for the learning of foreign language verb morphology in the young learner classroom",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/modl.12586",
+  "url": null
+ },
+ {
+  "id": "rogers2025",
+  "type": "article",
+  "authors": "Rogers, J.; Nakata, T.; Chiu",
+  "year": 2025,
+  "title": "Optimizing distributed practice online: A conceptual replication of Cepeda et al. (2009)",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263124000706",
+  "url": null
+ }
+]

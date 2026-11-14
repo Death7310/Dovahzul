@@ -1,0 +1,442 @@
+[
+ {
+  "id": "kleppmann2019",
+  "type": "proceedings",
+  "authors": "Kleppmann, M.; Wiggins, A.; van Hardenberg, P.; McGranaghan, M.",
+  "year": 2019,
+  "title": "Local-first software: you own your data, in spite of the cloud",
+  "venue": "Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! 2019)",
+  "doi": "10.1145/3359591.3359737",
+  "url": null
+ },
+ {
+  "id": "shapiro2011",
+  "type": "proceedings",
+  "authors": "Shapiro, M.; Preguiça, N.; Baquero, C.; Zawirski, M.",
+  "year": 2011,
+  "title": "Conflict-Free Replicated Data Types",
+  "venue": "Stabilization, Safety, and Security of Distributed Systems (SSS 2011), LNCS 6976",
+  "doi": "10.1007/978-3-642-24550-3_29",
+  "url": null
+ },
+ {
+  "id": "kleppmann2022",
+  "type": "proceedings",
+  "authors": "Kleppmann, M.",
+  "year": 2022,
+  "title": "Making CRDTs Byzantine fault tolerant",
+  "venue": "Proceedings of the 9th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC '22)",
+  "doi": "10.1145/3517209.3524042",
+  "url": null
+ },
+ {
+  "id": "samuel2010",
+  "type": "proceedings",
+  "authors": "Samuel, J.; Mathewson, N.; Cappos, J.; Dingledine, R.",
+  "year": 2010,
+  "title": "Survivable key compromise in software update systems",
+  "venue": "Proceedings of the 17th ACM Conference on Computer and Communications Security (CCS '10)",
+  "doi": "10.1145/1866307.1866315",
+  "url": null
+ },
+ {
+  "id": "newman2022",
+  "type": "proceedings",
+  "authors": "Newman, Z.; Meyers, J. S.; Torres-Arias, S.",
+  "year": 2022,
+  "title": "Sigstore: Software Signing for Everybody",
+  "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)",
+  "doi": "10.1145/3548606.3560596",
+  "url": null
+ },
+ {
+  "id": "lamb2022",
+  "type": "article",
+  "authors": "Lamb, C.; Zacchiroli, S.",
+  "year": 2022,
+  "title": "Reproducible Builds: Increasing the Integrity of Software Supply Chains",
+  "venue": "IEEE Software",
+  "doi": "10.1109/MS.2021.3073045",
+  "url": null
+ },
+ {
+  "id": "bernstein2012",
+  "type": "article",
+  "authors": "Bernstein, D. J.; Duif, N.; Lange, T.; Schwabe, P.; Yang, B.-Y.",
+  "year": 2012,
+  "title": "High-speed high-security signatures",
+  "venue": "Journal of Cryptographic Engineering",
+  "doi": "10.1007/s13389-012-0027-1",
+  "url": null
+ },
+ {
+  "id": "biornhansen2017",
+  "type": "proceedings",
+  "authors": "Biørn-Hansen, A.; Majchrzak, T. A.; Grønli, T.-M.",
+  "year": 2017,
+  "title": "Progressive Web Apps: The Possible Web-native Unifier for Mobile Development",
+  "venue": "Proceedings of the 13th International Conference on Web Information Systems and Technologies (WEBIST 2017)",
+  "doi": "10.5220/0006353703440351",
+  "url": null
+ },
+ {
+  "id": "majchrzak2018",
+  "type": "proceedings",
+  "authors": "Majchrzak, T. A.; Biørn-Hansen, A.; Grønli, T.-M.",
+  "year": 2018,
+  "title": "Progressive Web Apps: the Definite Approach to Cross-Platform Development?",
+  "venue": "Proceedings of the 51st Hawaii International Conference on System Sciences (HICSS)",
+  "doi": "10.24251/HICSS.2018.718",
+  "url": null
+ },
+ {
+  "id": "biornhansen2018",
+  "type": "article",
+  "authors": "Biørn-Hansen, A.; Grønli, T.-M.; Ghinea, G.",
+  "year": 2018,
+  "title": "A Survey and Taxonomy of Core Concepts and Research Challenges in Cross-Platform Mobile Development",
+  "venue": "ACM Computing Surveys",
+  "doi": "10.1145/3241739",
+  "url": null
+ },
+ {
+  "id": "biornhansen2020",
+  "type": "article",
+  "authors": "Biørn-Hansen, A.; Rieger, C.; Grønli, T.-M.; Majchrzak, T. A.; Ghinea, G.",
+  "year": 2020,
+  "title": "An empirical investigation of performance overhead in cross-platform mobile development frameworks",
+  "venue": "Empirical Software Engineering",
+  "doi": "10.1007/s10664-020-09827-6",
+  "url": null
+ },
+ {
+  "id": "malavolta2017",
+  "type": "proceedings",
+  "authors": "Malavolta, I.; Procaccianti, G.; Noorland, P.; Vukmirovic, P.",
+  "year": 2017,
+  "title": "Assessing the Impact of Service Workers on the Energy Efficiency of Progressive Web Apps",
+  "venue": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+  "doi": "10.1109/MOBILESoft.2017.7",
+  "url": null
+ },
+ {
+  "id": "kim2017",
+  "type": "proceedings",
+  "authors": "Kim, D.; Kwon, B. J.; Dumitraş, T.",
+  "year": 2017,
+  "title": "Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI",
+  "venue": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (CCS '17)",
+  "doi": "10.1145/3133956.3133958",
+  "url": null
+ },
+ {
+  "id": "felt2015",
+  "type": "proceedings",
+  "authors": "Felt, A. P.; Ainslie, A.; Reeder, R. W.; Consolvo, S.; Thyagaraja, S.; Bettes, A.; Harris, H.; Grimes, J.",
+  "year": 2015,
+  "title": "Improving SSL Warnings: Comprehension and Adherence",
+  "venue": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)",
+  "doi": "10.1145/2702123.2702442",
+  "url": null
+ },
+ {
+  "id": "halfaker2013",
+  "type": "article",
+  "authors": "Halfaker, A.; Geiger, R. S.; Morgan, J. T.; Riedl, J.",
+  "year": 2013,
+  "title": "The Rise and Decline of an Open Collaboration System: How Wikipedia's Reaction to Popularity Is Causing Its Decline",
+  "venue": "American Behavioral Scientist",
+  "doi": "10.1177/0002764212469365",
+  "url": null
+ },
+ {
+  "id": "geiger2013",
+  "type": "proceedings",
+  "authors": "Geiger, R. S.; Halfaker, A.",
+  "year": 2013,
+  "title": "When the levee breaks: without bots, what happens to Wikipedia's quality control processes?",
+  "venue": "Proceedings of the 9th International Symposium on Open Collaboration (WikiSym '13)",
+  "doi": "10.1145/2491055.2491061",
+  "url": null
+ },
+ {
+  "id": "raman2020",
+  "type": "proceedings",
+  "authors": "Raman, N.; Cao, M.; Tsvetkov, Y.; Kästner, C.; Vasilescu, B.",
+  "year": 2020,
+  "title": "Stress and burnout in open source: toward finding, understanding, and mitigating unhealthy interactions",
+  "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER '20)",
+  "doi": "10.1145/3377816.3381732",
+  "url": null
+ },
+ {
+  "id": "steinmacher2015",
+  "type": "article",
+  "authors": "Steinmacher, I.; Silva, M. A. G.; Gerosa, M. A.; Redmiles, D. F.",
+  "year": 2015,
+  "title": "A systematic literature review on the barriers faced by newcomers to open source software projects",
+  "venue": "Information and Software Technology",
+  "doi": "10.1016/j.infsof.2014.11.001",
+  "url": null
+ },
+ {
+  "id": "wilkinson2016",
+  "type": "article",
+  "authors": "Wilkinson, M. D.; Dumontier, M.; Aalbersberg, IJ. J.; Appleton, G.; Axton, M.; Baak, A.; et al.",
+  "year": 2016,
+  "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+  "venue": "Scientific Data",
+  "doi": "10.1038/sdata.2016.18",
+  "url": null
+ },
+ {
+  "id": "raemaekers2017",
+  "type": "article",
+  "authors": "Raemaekers, S.; van Deursen, A.; Visser, J.",
+  "year": 2017,
+  "title": "Semantic versioning and impact of breaking changes in the Maven repository",
+  "venue": "Journal of Systems and Software",
+  "doi": "10.1016/j.jss.2016.04.008",
+  "url": null
+ },
+ {
+  "id": "ladisa2023",
+  "type": "proceedings",
+  "authors": "Ladisa, P.; Plate, H.; Martinez, M.; Barais, O.",
+  "year": 2023,
+  "title": "SoK: Taxonomy of Attacks on Open-Source Software Supply Chains",
+  "venue": "2023 IEEE Symposium on Security and Privacy (SP)",
+  "doi": "10.1109/SP46215.2023.10179304",
+  "url": null
+ },
+ {
+  "id": "benedetti2022",
+  "type": "proceedings",
+  "authors": "Benedetti, G.; Verderame, L.; Merlo, A.",
+  "year": 2022,
+  "title": "Automatic Security Assessment of GitHub Actions Workflows",
+  "venue": "Proceedings of the 2022 ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '22)",
+  "doi": "10.1145/3560835.3564554",
+  "url": null
+ },
+ {
+  "id": "claessen2000",
+  "type": "proceedings",
+  "authors": "Claessen, K.; Hughes, J.",
+  "year": 2000,
+  "title": "QuickCheck: a lightweight tool for random testing of Haskell programs",
+  "venue": "Proceedings of the Fifth ACM SIGPLAN International Conference on Functional Programming (ICFP '00)",
+  "doi": "10.1145/351240.351266",
+  "url": null
+ },
+ {
+  "id": "mdn_storage",
+  "type": "web",
+  "authors": "MDN contributors",
+  "year": null,
+  "title": "Storage quotas and eviction criteria",
+  "venue": "MDN Web Docs",
+  "doi": null,
+  "url": "https://developer.mozilla.org/docs/Web/API/Storage_API/Storage_quotas_and_eviction_criteria"
+ },
+ {
+  "id": "webkit_storage2023",
+  "type": "web",
+  "authors": "WebKit Project",
+  "year": 2023,
+  "title": "Updates to Storage Policy",
+  "venue": "WebKit blog",
+  "doi": null,
+  "url": "https://webkit.org/?p=14403"
+ },
+ {
+  "id": "github_pages_limits",
+  "type": "web",
+  "authors": "GitHub",
+  "year": null,
+  "title": "GitHub Pages limits",
+  "venue": "GitHub Docs",
+  "doi": null,
+  "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits"
+ },
+ {
+  "id": "apple_gatekeeper",
+  "type": "web",
+  "authors": "Apple",
+  "year": null,
+  "title": "Safely open apps on your Mac",
+  "venue": "Apple Support, article 102445",
+  "doi": null,
+  "url": "https://support.apple.com/en-euro/102445"
+ },
+ {
+  "id": "oakley2024",
+  "type": "web",
+  "authors": "Oakley, H.",
+  "year": 2024,
+  "title": "Living with(out) notarization",
+  "venue": "The Eclectic Light Company (blog)",
+  "doi": null,
+  "url": "https://eclecticlight.co/2024/10/01/living-without-notarization/"
+ },
+ {
+  "id": "copes_openanyway",
+  "type": "web",
+  "authors": "Copes, F.",
+  "year": null,
+  "title": "How to avoid the \"Open Anyway\" message when building macOS apps",
+  "venue": "flaviocopes.com (blog)",
+  "doi": null,
+  "url": "https://flaviocopes.com/macos-open-anyway/"
+ },
+ {
+  "id": "ms_smartscreen",
+  "type": "web",
+  "authors": "Microsoft",
+  "year": null,
+  "title": "SmartScreen reputation (Windows apps: package and deploy)",
+  "venue": "Microsoft Learn",
+  "doi": null,
+  "url": "https://learn.microsoft.com/et-ee/windows/apps/package-and-deploy/smartscreen-reputation"
+ },
+ {
+  "id": "ms_codesign",
+  "type": "web",
+  "authors": "Microsoft",
+  "year": null,
+  "title": "Code signing options (Windows apps: package and deploy)",
+  "venue": "Microsoft Learn",
+  "doi": null,
+  "url": "https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/code-signing-options"
+ },
+ {
+  "id": "lawrence2024",
+  "type": "web",
+  "authors": "Lawrence, E.",
+  "year": 2024,
+  "title": "Best Practices for SmartScreen AppRep",
+  "venue": "text/plain (blog)",
+  "doi": null,
+  "url": "https://textslashplain.com/2024/11/15/best-practices-for-smartscreen-apprep/"
+ },
+ {
+  "id": "ms_store_individual2025",
+  "type": "web",
+  "authors": "Microsoft",
+  "year": 2025,
+  "title": "Free developer registration for individual developers on Microsoft Store",
+  "venue": "Windows Developer Blog, 10 September 2025",
+  "doi": null,
+  "url": "https://blogs.windows.com/windowsdeveloper/2025/09/10/free-developer-registration-for-individual-developers-on-microsoft-store/"
+ },
+ {
+  "id": "ms_store_company2026",
+  "type": "web",
+  "authors": "Microsoft",
+  "year": 2026,
+  "title": "Publish to Microsoft Store as a company - now with free registration and faster onboarding",
+  "venue": "Windows Developer Blog, 7 May 2026",
+  "doi": null,
+  "url": "https://blogs.windows.com/windowsdeveloper/2026/05/07/publish-to-microsoft-store-as-a-company-now-with-free-registration-and-faster-onboarding/"
+ },
+ {
+  "id": "android_verification_blog2026",
+  "type": "web",
+  "authors": "Google",
+  "year": 2026,
+  "title": "Android developer verification",
+  "venue": "Android Developers Blog, March 2026",
+  "doi": null,
+  "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification.html"
+ },
+ {
+  "id": "android_verification_support",
+  "type": "web",
+  "authors": "Google",
+  "year": null,
+  "title": "Understanding Android developer verification",
+  "venue": "Android Developer Console Help",
+  "doi": null,
+  "url": "https://support.google.com/android-developer-console/answer/16561738"
+ },
+ {
+  "id": "android_verification_faq",
+  "type": "web",
+  "authors": "Google",
+  "year": null,
+  "title": "Android developer verification: Frequently asked questions",
+  "venue": "Android Developers",
+  "doi": null,
+  "url": "https://developer.android.com/developer-verification/guides/faq"
+ },
+ {
+  "id": "fdroid_letter2026",
+  "type": "web",
+  "authors": "F-Droid",
+  "year": 2026,
+  "title": "An Open Letter Opposing Android Developer Verification",
+  "venue": "F-Droid news, 24 February 2026",
+  "doi": null,
+  "url": "https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html"
+ },
+ {
+  "id": "pinggy2026",
+  "type": "web",
+  "authors": "Pinggy",
+  "year": 2026,
+  "title": "F-Droid Rebuilt Its App Store Right as Android Locks Down Sideloading",
+  "venue": "Pinggy blog",
+  "doi": null,
+  "url": "https://pinggy.io/blog/f_droid_2_0_android_developer_verification/"
+ },
+ {
+  "id": "tauri_distribute",
+  "type": "web",
+  "authors": "Tauri Programme",
+  "year": null,
+  "title": "Distribute",
+  "venue": "Tauri 2 documentation",
+  "doi": null,
+  "url": "https://v2.tauri.app/distribute/"
+ },
+ {
+  "id": "tauri_android_signing",
+  "type": "web",
+  "authors": "Tauri Programme",
+  "year": null,
+  "title": "Android Code Signing",
+  "venue": "Tauri 2 documentation",
+  "doi": null,
+  "url": "https://v2.tauri.app/distribute/sign/android/"
+ },
+ {
+  "id": "tauri_action",
+  "type": "web",
+  "authors": "tauri-apps",
+  "year": null,
+  "title": "tauri-action: Build your Web application as a Tauri binary for macOS, Linux and Windows",
+  "venue": "GitHub repository README",
+  "doi": null,
+  "url": "https://github.com/tauri-apps/tauri-action"
+ },
+ {
+  "id": "tauri_issue10313",
+  "type": "web",
+  "authors": "tauri-apps issue tracker",
+  "year": null,
+  "title": "[bug] v2 fails to generate signed apk (issue 10313)",
+  "venue": "GitHub issue, tauri-apps/tauri",
+  "doi": null,
+  "url": "https://github.com/tauri-apps/tauri/issues/10313"
+ },
+ {
+  "id": "hopp_tauri_electron",
+  "type": "web",
+  "authors": "Hopp",
+  "year": null,
+  "title": "Tauri vs. Electron: performance, bundle size, and the real trade-offs",
+  "venue": "DEV Community (vendor blog post)",
+  "doi": null,
+  "url": "https://dev.to/gethopp/tauri-vs-electron-performance-bundle-size-and-the-real-trade-offs-1el4"
+ }
+]

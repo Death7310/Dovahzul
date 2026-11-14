@@ -1,0 +1,1670 @@
+{
+ "source": "research/refs/pronunciation-speech.json",
+ "counts": {
+  "verified": 64,
+  "not_found": 4,
+  "manual": 18
+ },
+ "results": [
+  {
+   "id": "lee2015",
+   "cited": {
+    "authors": "Lee, J.; Jang, J.; Plonsky, L.",
+    "year": 2015,
+    "title": "The effectiveness of second language pronunciation instruction: A meta-analysis",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/amu040",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amu040",
+    "title": "The Effectiveness of Second Language Pronunciation Instruction: A Meta-Analysis",
+    "year": 2015,
+    "authors": "Lee; Jang; Plonsky",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "saitoplonsky2019",
+   "cited": {
+    "authors": "Saito, K.; Plonsky, L.",
+    "year": 2019,
+    "title": "Effects of second language pronunciation teaching revisited: A proposed measurement framework and meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12345",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12345",
+    "title": "Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis",
+    "year": 2019,
+    "authors": "Saito; Plonsky",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thomsonderwing2015",
+   "cited": {
+    "authors": "Thomson, R. I.; Derwing, T. M.",
+    "year": 2015,
+    "title": "The effectiveness of L2 pronunciation instruction: A narrative review",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/amu076",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amu076",
+    "title": "The Effectiveness of L2 Pronunciation Instruction: A Narrative Review",
+    "year": 2015,
+    "authors": "Thomson; Derwing",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "levis2005",
+   "cited": {
+    "authors": "Levis, J. M.",
+    "year": 2005,
+    "title": "Changing contexts and shifting paradigms in pronunciation teaching",
+    "venue": "TESOL Quarterly",
+    "doi": "10.2307/3588485",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3588485",
+    "title": "Changing Contexts and Shifting Paradigms in Pronunciation Teaching",
+    "year": 2005,
+    "authors": "Levis",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "munroderwing1995",
+   "cited": {
+    "authors": "Munro, M. J.; Derwing, T. M.",
+    "year": 1995,
+    "title": "Foreign accent, comprehensibility, and intelligibility in the speech of second language learners",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-1770.1995.tb00963.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-1770.1995.tb00963.x",
+    "title": "Foreign Accent, Comprehensibility, and Intelligibility in the Speech of Second Language Learners",
+    "year": 1995,
+    "authors": "Munro; Derwing",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "derwing1998",
+   "cited": {
+    "authors": "Derwing, T. M.; Munro, M. J.; Wiebe, G.",
+    "year": 1998,
+    "title": "Evidence in favor of a broad framework for pronunciation instruction",
+    "venue": "Language Learning",
+    "doi": "10.1111/0023-8333.00047",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/0023-8333.00047",
+    "title": "Evidence in Favor of a Broad Framework for Pronunciation Instruction",
+    "year": 1998,
+    "authors": "Derwing; Munro; Wiebe",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "jenkins2002",
+   "cited": {
+    "authors": "Jenkins, J.",
+    "year": 2002,
+    "title": "A sociolinguistically based, empirically researched pronunciation syllabus for English as an international language",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/23.1.83",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/23.1.83",
+    "title": "A Sociolinguistically Based, Empirically Researched Pronunciation Syllabus for English as an International Language",
+    "year": 2002,
+    "authors": "Jenkins",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "munroderwing2006",
+   "cited": {
+    "authors": "Munro, M. J.; Derwing, T. M.",
+    "year": 2006,
+    "title": "The functional load principle in ESL pronunciation instruction: An exploratory study",
+    "venue": "System",
+    "doi": "10.1016/j.system.2006.09.004",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.system.2006.09.004",
+    "title": "The functional load principle in ESL pronunciation instruction: An exploratory study",
+    "year": 2006,
+    "authors": "Munro; Derwing",
+    "venue": "System",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hahn2004",
+   "cited": {
+    "authors": "Hahn, L. D.",
+    "year": 2004,
+    "title": "Primary stress and intelligibility: Research to motivate the teaching of suprasegmentals",
+    "venue": "TESOL Quarterly",
+    "doi": "10.2307/3588378",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3588378",
+    "title": "Primary Stress and Intelligibility: Research to Motivate the Teaching of Suprasegmentals",
+    "year": 2004,
+    "authors": "Hahn",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "field2005",
+   "cited": {
+    "authors": "Field, J.",
+    "year": 2005,
+    "title": "Intelligibility and the listener: The role of lexical stress",
+    "venue": "TESOL Quarterly",
+    "doi": "10.2307/3588487",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3588487",
+    "title": "Intelligibility and the Listener: The Role of Lexical Stress",
+    "year": 2005,
+    "authors": "Field",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "isaacs2012",
+   "cited": {
+    "authors": "Isaacs, T.; Trofimovich, P.",
+    "year": 2012,
+    "title": "Deconstructing comprehensibility: Identifying the linguistic influences on listeners' L2 comprehensibility ratings",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263112000150",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263112000150",
+    "title": "DECONSTRUCTING COMPREHENSIBILITY: Identifying the Linguistic Influences on Listeners’ L2 Comprehensibility Ratings",
+    "year": 2012,
+    "authors": "Isaacs; Trofimovich",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "derwingmunro2015",
+   "cited": {
+    "authors": "Derwing, T. M.; Munro, M. J.",
+    "year": 2015,
+    "title": "Pronunciation Fundamentals: Evidence-based perspectives for L2 teaching and research",
+    "venue": "John Benjamins",
+    "doi": "10.1075/lllt.42",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1075/lllt.42",
+    "title": "Pronunciation Fundamentals: Evidence-based perspectives for L2 teaching and research",
+    "year": 2015,
+    "authors": "Derwing; Munro",
+    "venue": "Language Learning &amp; Language Teaching",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kissling2013",
+   "cited": {
+    "authors": "Kissling, E. M.",
+    "year": 2013,
+    "title": "Teaching pronunciation: Is explicit phonetics instruction beneficial for FL learners?",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/j.1540-4781.2013.12029.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.2013.12029.x",
+    "title": "Teaching pronunciation: Is explicit phonetics instruction beneficial for FL learners?",
+    "year": 2013,
+    "authors": "Kissling",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "saito2013",
+   "cited": {
+    "authors": "Saito, K.",
+    "year": 2013,
+    "title": "Reexamining effects of form-focused instruction on L2 pronunciation development: The role of explicit phonetic information",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263112000666",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263112000666",
+    "title": "REEXAMINING EFFECTS OF FORM-FOCUSED INSTRUCTION ON L2 PRONUNCIATION DEVELOPMENT: The Role of Explicit Phonetic Information",
+    "year": 2013,
+    "authors": "Saito",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sakaimoorman2018",
+   "cited": {
+    "authors": "Sakai, M.; Moorman, C.",
+    "year": 2018,
+    "title": "Can perception training improve the production of second language phonemes? A meta-analytic review of 25 years of perception training research",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/S0142716417000418",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0142716417000418",
+    "title": "Can perception training improve the production of second language phonemes? A meta-analytic review of 25 years of perception training research",
+    "year": 2018,
+    "authors": "SAKAI; MOORMAN",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uchihara2024",
+   "cited": {
+    "authors": "Uchihara, T.; Karas, M.; Thomson, R. I.",
+    "year": 2024,
+    "title": "Does perceptual high variability phonetic training improve L2 speech production? A meta-analysis of perception-production connection",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/S0142716424000195",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0142716424000195",
+    "title": "Does perceptual high variability phonetic training improve L2 speech production? A meta-analysis of perception-production connection",
+    "year": 2024,
+    "authors": "Uchihara; Karas; Thomson",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uchihara2025",
+   "cited": {
+    "authors": "Uchihara, T.; Karas, M.; Thomson, R. I.",
+    "year": 2025,
+    "title": "High variability phonetic training (HVPT): A meta-analysis of L2 perceptual training studies",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263125100879",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263125100879",
+    "title": "High variability phonetic training (HVPT): A meta-analysis of L2 perceptual training studies",
+    "year": 2025,
+    "authors": "Uchihara; Karas; Thomson",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "zhang2021",
+   "cited": {
+    "authors": "Zhang, X.; Cheng, B.; Zhang, Y.",
+    "year": 2021,
+    "title": "The role of talker variability in nonnative phonetic learning: A systematic review and meta-analysis",
+    "venue": "Journal of Speech, Language, and Hearing Research",
+    "doi": "10.1044/2021_JSLHR-21-00181",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1044/2021_jslhr-21-00181",
+    "title": "The Role of Talker Variability in Nonnative Phonetic Learning: A Systematic Review and Meta-Analysis",
+    "year": 2021,
+    "authors": "Zhang; Cheng; Zhang",
+    "venue": "Journal of Speech, Language, and Hearing Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "logan1991",
+   "cited": {
+    "authors": "Logan, J. S.; Lively, S. E.; Pisoni, D. B.",
+    "year": 1991,
+    "title": "Training Japanese listeners to identify English /r/ and /l/: A first report",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.1894649",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.1894649",
+    "title": "Training Japanese listeners to identify English /r/ and /l/: A first report",
+    "year": 1991,
+    "authors": "Logan; Lively; Pisoni",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lively1993",
+   "cited": {
+    "authors": "Lively, S. E.; Logan, J. S.; Pisoni, D. B.",
+    "year": 1993,
+    "title": "Training Japanese listeners to identify English /r/ and /l/. II: The role of phonetic environment and talker variability in learning new perceptual categories",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.408177",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.408177",
+    "title": "Training Japanese listeners to identify English /r/ and /l/. II: The role of phonetic environment and talker variability in learning new perceptual categories",
+    "year": 1993,
+    "authors": "Lively; Logan; Pisoni",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bradlow1997",
+   "cited": {
+    "authors": "Bradlow, A. R.; Pisoni, D. B.; Akahane-Yamada, R.; Tohkura, Y.",
+    "year": 1997,
+    "title": "Training Japanese listeners to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.418276",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.418276",
+    "title": "Training Japanese listeners to identify English /\n                    <b>r</b>\n                    / and /\n                    <b>l</b>\n                    /: IV. Some effects of perceptual learning on speech production",
+    "year": 1997,
+    "authors": "Bradlow; Pisoni; Akahane-Yamada; Tohkura",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thomson2018",
+   "cited": {
+    "authors": "Thomson, R. I.",
+    "year": 2018,
+    "title": "High Variability [Pronunciation] Training (HVPT): A proven technique about which every language teacher and learner ought to know",
+    "venue": "Journal of Second Language Pronunciation",
+    "doi": "10.1075/jslp.17038.tho",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/jslp.17038.tho",
+    "title": "High Variability [Pronunciation] Training (HVPT): A proven technique about which every language teacher and learner ought to know",
+    "year": 2018,
+    "authors": "Thomson",
+    "venue": "Journal of Second Language Pronunciation",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "brekelmans2022",
+   "cited": {
+    "authors": "Brekelmans, G.; Lavan, N.; Saito, H.; Clayards, M.; Wonnacott, E.",
+    "year": 2022,
+    "title": "Does high variability training improve the learning of non-native phoneme contrasts over low variability training? A replication",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1016/j.jml.2022.104352",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jml.2022.104352",
+    "title": "Does high variability training improve the learning of non-native phoneme contrasts over low variability training? A replication",
+    "year": 2022,
+    "authors": "Brekelmans; Lavan; Saito; Clayards; Wonnacott",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "perrachione2011",
+   "cited": {
+    "authors": "Perrachione, T. K.; Lee, J.; Ha, L. Y. Y.; Wong, P. C. M.",
+    "year": 2011,
+    "title": "Learning a novel phonological contrast depends on interactions between individual differences and training paradigm design",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.3593366",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.3593366",
+    "title": "Learning a novel phonological contrast depends on interactions between individual differences and training paradigm design",
+    "year": 2011,
+    "authors": "Perrachione; Lee; Ha; Wong",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "iverson2005",
+   "cited": {
+    "authors": "Iverson, P.; Hazan, V.; Bannister, K.",
+    "year": 2005,
+    "title": "Phonetic training with acoustic cue manipulations: A comparison of methods for teaching English /r/-/l/ to Japanese adults",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.2062307",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.2062307",
+    "title": "Phonetic training with acoustic cue manipulations: A comparison of methods for teaching English /r/-/l/ to Japanese adults",
+    "year": 2005,
+    "authors": "Iverson; Hazan; Bannister",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wangmunro2004",
+   "cited": {
+    "authors": "Wang, X.; Munro, M. J.",
+    "year": 2004,
+    "title": "Computer-based training for learning English vowel contrasts",
+    "venue": "System",
+    "doi": "10.1016/j.system.2004.09.011",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.system.2004.09.011",
+    "title": "Computer-based training for learning English vowel contrasts",
+    "year": 2004,
+    "authors": "Wang; Munro",
+    "venue": "System",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thomson2011",
+   "cited": {
+    "authors": "Thomson, R. I.",
+    "year": 2011,
+    "title": "Computer assisted pronunciation training: Targeting second language vowel perception improves pronunciation",
+    "venue": "CALICO Journal",
+    "doi": "10.11139/cj.28.3.744-765",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.11139/cj.28.3.744-765",
+    "title": "Computer Assisted Pronunciation Training",
+    "year": 2011,
+    "authors": "Thomson",
+    "venue": "CALICO Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "baeseberk2016",
+   "cited": {
+    "authors": "Baese-Berk, M. M.; Samuel, A. G.",
+    "year": 2016,
+    "title": "Listeners beware: Speech production may be bad for learning speech sounds",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1016/j.jml.2015.10.008",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jml.2015.10.008",
+    "title": "Listeners beware: Speech production may be bad for learning speech sounds",
+    "year": 2016,
+    "authors": "Baese-Berk; Samuel",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "naglebaeseberk2022",
+   "cited": {
+    "authors": "Nagle, C. L.; Baese-Berk, M. M.",
+    "year": 2022,
+    "title": "Advancing the state of the art in L2 speech perception-production research: Revisiting theoretical assumptions and methodological practices",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263121000371",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263121000371",
+    "title": "ADVANCING THE STATE OF THE ART IN L2 SPEECH PERCEPTION-PRODUCTION RESEARCH: REVISITING THEORETICAL ASSUMPTIONS AND METHODOLOGICAL PRACTICES",
+    "year": 2022,
+    "authors": "Nagle; Baese-Berk",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lidekeyser2017",
+   "cited": {
+    "authors": "Li, M.; DeKeyser, R.",
+    "year": 2017,
+    "title": "Perception practice, production practice, and musical ability in L2 Mandarin tone-word learning",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263116000358",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263116000358",
+    "title": "PERCEPTION PRACTICE, PRODUCTION PRACTICE, AND MUSICAL ABILITY IN L2 MANDARIN TONE-WORD LEARNING",
+    "year": 2017,
+    "authors": "Li; DeKeyser",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "flegebohn2021",
+   "cited": {
+    "authors": "Flege, J. E.; Bohn, O.-S.",
+    "year": 2021,
+    "title": "The revised Speech Learning Model (SLM-r)",
+    "venue": "In Wayland, R. (ed.), Second Language Speech Learning: Theoretical and Empirical Progress. Cambridge University Press",
+    "doi": "10.1017/9781108886901.002",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1017/9781108886901.002",
+    "title": "The Revised Speech Learning Model (SLM-r)",
+    "year": 2021,
+    "authors": "Flege; Bohn",
+    "venue": "Second Language Speech Learning",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "besttyler2007",
+   "cited": {
+    "authors": "Best, C. T.; Tyler, M. D.",
+    "year": 2007,
+    "title": "Nonnative and second-language speech perception: Commonalities and complementarities",
+    "venue": "In Bohn, O.-S.; Munro, M. J. (eds.), Language Experience in Second Language Speech Learning. John Benjamins",
+    "doi": "10.1075/lllt.17.07bes",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1075/lllt.17.07bes",
+    "title": "Nonnative and second-language speech perception: Commonalities and complementarities",
+    "year": 2007,
+    "authors": "Best; Tyler",
+    "venue": "Language Learning &amp; Language Teaching",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kuhl2008",
+   "cited": {
+    "authors": "Kuhl, P. K.; Conboy, B. T.; Coffey-Corina, S.; Padden, D.; Rivera-Gaxiola, M.; Nelson, T.",
+    "year": 2008,
+    "title": "Phonetic learning as a pathway to language: new data and native language magnet theory expanded (NLM-e)",
+    "venue": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "doi": "10.1098/rstb.2007.2154",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1098/rstb.2007.2154",
+    "title": "Phonetic learning as a pathway to language: new data and native language magnet theory expanded (NLM-e)",
+    "year": 2008,
+    "authors": "Kuhl; Conboy; Coffey-Corina; Padden; Rivera-Gaxiola; Nelson",
+    "venue": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "iverson2003",
+   "cited": {
+    "authors": "Iverson, P.; Kuhl, P. K.; Akahane-Yamada, R.; Diesch, E.; Tohkura, Y.; Kettermann, A.; Siebert, C.",
+    "year": 2003,
+    "title": "A perceptual interference account of acquisition difficulties for non-native phonemes",
+    "venue": "Cognition",
+    "doi": "10.1016/S0010-0277(02)00198-1",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/s0010-0277(02)00198-1",
+    "title": "A perceptual interference account of acquisition difficulties for non-native phonemes",
+    "year": 2003,
+    "authors": "Iverson; Kuhl; Akahane-Yamada; Diesch; Tohkura; Kettermann; Siebert",
+    "venue": "Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hamada2016",
+   "cited": {
+    "authors": "Hamada, Y.",
+    "year": 2016,
+    "title": "Shadowing: Who benefits and how? Uncovering a booming EFL teaching technique for listening comprehension",
+    "venue": "Language Teaching Research",
+    "doi": "10.1177/1362168815597504",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168815597504",
+    "title": "Shadowing: Who benefits and how? Uncovering a booming EFL teaching technique for listening comprehension",
+    "year": 2016,
+    "authors": "Hamada",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "foote2017",
+   "cited": {
+    "authors": "Foote, J. A.; McDonough, K.",
+    "year": 2017,
+    "title": "Using shadowing with mobile technology to improve L2 pronunciation",
+    "venue": "Journal of Second Language Pronunciation",
+    "doi": "10.1075/jslp.3.1.02foo",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/jslp.3.1.02foo",
+    "title": "Using shadowing with mobile technology to improve L2 pronunciation",
+    "year": 2017,
+    "authors": "Foote; McDonough",
+    "venue": "Journal of Second Language Pronunciation",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "olsonofferman2021",
+   "cited": {
+    "authors": "Olson, D. J.; Offerman, H. M.",
+    "year": 2021,
+    "title": "Maximizing the effect of visual feedback for pronunciation instruction: A comparative analysis of three approaches",
+    "venue": "Journal of Second Language Pronunciation",
+    "doi": "10.1075/jslp.20005.ols",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/jslp.20005.ols",
+    "title": "Maximizing the effect of visual feedback for pronunciation instruction: A comparative analysis of three approaches",
+    "year": 2021,
+    "authors": "Olson; Offerman",
+    "venue": "Journal of Second Language Pronunciation",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "levispickering2004",
+   "cited": {
+    "authors": "Levis, J.; Pickering, L.",
+    "year": 2004,
+    "title": "Teaching intonation in discourse using speech visualization technology",
+    "venue": "System",
+    "doi": "10.1016/j.system.2004.09.009",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.system.2004.09.009",
+    "title": "Teaching intonation in discourse using speech visualization technology",
+    "year": 2004,
+    "authors": "Levis; Pickering",
+    "venue": "System",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dlaska2008",
+   "cited": {
+    "authors": "Dlaska, A.; Krekeler, C.",
+    "year": 2008,
+    "title": "Self-assessment of pronunciation",
+    "venue": "System",
+    "doi": "10.1016/j.system.2008.03.003",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.system.2008.03.003",
+    "title": "Self-assessment of pronunciation",
+    "year": 2008,
+    "authors": "Dlaska; Krekeler",
+    "venue": "System",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "trofimovich2016",
+   "cited": {
+    "authors": "Trofimovich, P.; Isaacs, T.; Kennedy, S.; Saito, K.; Crowther, D.",
+    "year": 2016,
+    "title": "Flawed self-assessment: Investigating self- and other-perception of second language speech",
+    "venue": "Bilingualism: Language and Cognition",
+    "doi": "10.1017/S1366728914000832",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s1366728914000832",
+    "title": "Flawed self-assessment: Investigating self- and other-perception of second language speech",
+    "year": 2016,
+    "authors": "TROFIMOVICH; ISAACS; KENNEDY; SAITO; CROWTHER",
+    "venue": "Bilingualism: Language and Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lizhang2021",
+   "cited": {
+    "authors": "Li, M.; Zhang, X.",
+    "year": 2021,
+    "title": "A meta-analysis of self-assessment and language performance in language testing and assessment",
+    "venue": "Language Testing 38(2), 189-218",
+    "doi": "10.1177/0265532220932481",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0265532220932481",
+    "title": "A meta-analysis of  self-assessment and language performance  in language testing and assessment",
+    "year": 2021,
+    "authors": "Li; Zhang",
+    "venue": "Language Testing",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mahdi2019",
+   "cited": {
+    "authors": "Mahdi, H. S.; Al Khateeb, A. A.",
+    "year": 2019,
+    "title": "The effectiveness of computer-assisted pronunciation training: A meta-analysis",
+    "venue": "Review of Education",
+    "doi": "10.1002/rev3.3165",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/rev3.3165",
+    "title": "The effectiveness of computer‐assisted pronunciation training: A meta‐analysis",
+    "year": 2019,
+    "authors": "Mahdi; Al Khateeb",
+    "venue": "Review of Education",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ngo2024",
+   "cited": {
+    "authors": "Ngo, T. T.-N.; Chen, H. H.-J.; Lai, K. K.-W.",
+    "year": 2024,
+    "title": "The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysis",
+    "venue": "ReCALL",
+    "doi": "10.1017/S0958344023000113",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344023000113",
+    "title": "The effectiveness of automatic speech recognition in ESL/EFL pronunciation: A meta-analysis",
+    "year": 2024,
+    "authors": "Thi-Nhu Ngo; Hao-Jan Chen; Kuo-Wei Lai",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "neri2002",
+   "cited": {
+    "authors": "Neri, A.; Cucchiarini, C.; Strik, H.; Boves, L.",
+    "year": 2002,
+    "title": "The pedagogy-technology interface in computer assisted pronunciation training",
+    "venue": "Computer Assisted Language Learning",
+    "doi": "10.1076/call.15.5.441.13473",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1076/call.15.5.441.13473",
+    "title": "The Pedagogy-Technology Interface in Computer Assisted Pronunciation Training",
+    "year": 2002,
+    "authors": "Neri; Cucchiarini; Strik; Boves",
+    "venue": "Computer Assisted Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "rogersonrevell2021",
+   "cited": {
+    "authors": "Rogerson-Revell, P. M.",
+    "year": 2021,
+    "title": "Computer-Assisted Pronunciation Training (CAPT): Current issues and future directions",
+    "venue": "RELC Journal",
+    "doi": "10.1177/0033688220977406",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0033688220977406",
+    "title": "Computer-Assisted Pronunciation Training (CAPT): Current Issues and Future Directions",
+    "year": 2021,
+    "authors": "Rogerson-Revell",
+    "venue": "RELC Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wittyoung2000",
+   "cited": {
+    "authors": "Witt, S. M.; Young, S. J.",
+    "year": 2000,
+    "title": "Phone-level pronunciation scoring and assessment for interactive language learning",
+    "venue": "Speech Communication",
+    "doi": "10.1016/S0167-6393(99)00044-8",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/s0167-6393(99)00044-8",
+    "title": "Phone-level pronunciation scoring and assessment for interactive language learning",
+    "year": 2000,
+    "authors": "Witt; Young",
+    "venue": "Speech Communication",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "derwing2000",
+   "cited": {
+    "authors": "Derwing, T. M.; Munro, M. J.; Carbonaro, M.",
+    "year": 2000,
+    "title": "Does popular speech recognition software work with ESL speech?",
+    "venue": "TESOL Quarterly",
+    "doi": "10.2307/3587748",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/3587748",
+    "title": "Does Popular Speech Recognition Software Work with ESL Speech?",
+    "year": 2000,
+    "authors": "Derwing; Munro; Carbonaro",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "leeglass2012",
+   "cited": {
+    "authors": "Lee, A.; Glass, J.",
+    "year": 2012,
+    "title": "A comparison-based approach to mispronunciation detection",
+    "venue": "2012 IEEE Spoken Language Technology Workshop (SLT)",
+    "doi": "10.1109/SLT.2012.6424254",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1109/slt.2012.6424254",
+    "title": "A comparison-based approach to mispronunciation detection",
+    "year": 2012,
+    "authors": "Lee; Glass",
+    "venue": "2012 IEEE Spoken Language Technology Workshop (SLT)",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "klatt1980",
+   "cited": {
+    "authors": "Klatt, D. H.",
+    "year": 1980,
+    "title": "Software for a cascade/parallel formant synthesizer",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.383940",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.383940",
+    "title": "Software for a cascade/parallel formant synthesizer",
+    "year": 1980,
+    "authors": "Klatt",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "decheveigne2002",
+   "cited": {
+    "authors": "de Cheveigné, A.; Kawahara, H.",
+    "year": 2002,
+    "title": "YIN, a fundamental frequency estimator for speech and music",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.1458024",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.1458024",
+    "title": "YIN, a fundamental frequency estimator for speech and music",
+    "year": 2002,
+    "authors": "de Cheveigné; Kawahara",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "venkatagiri2003",
+   "cited": {
+    "authors": "Venkatagiri, H. S.",
+    "year": 2003,
+    "title": "Segmental intelligibility of four currently used text-to-speech synthesis methods",
+    "venue": "The Journal of the Acoustical Society of America",
+    "doi": "10.1121/1.1558356",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1121/1.1558356",
+    "title": "Segmental intelligibility of four currently used text-to-speech synthesis methods",
+    "year": 2003,
+    "authors": "Venkatagiri",
+    "venue": "The Journal of the Acoustical Society of America",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "craigschroeder2017",
+   "cited": {
+    "authors": "Craig, S. D.; Schroeder, N. L.",
+    "year": 2017,
+    "title": "Reconsidering the voice effect when learning from a virtual human",
+    "venue": "Computers & Education",
+    "doi": "10.1016/j.compedu.2017.07.003",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.compedu.2017.07.003",
+    "title": "Reconsidering the voice effect when learning from a virtual human",
+    "year": 2017,
+    "authors": "Craig; Schroeder",
+    "venue": "Computers &amp; Education",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "atkinson2005",
+   "cited": {
+    "authors": "Atkinson, R. K.; Mayer, R. E.; Merrill, M. M.",
+    "year": 2005,
+    "title": "Fostering social agency in multimedia learning: Examining the impact of an animated agent's voice",
+    "venue": "Contemporary Educational Psychology",
+    "doi": "10.1016/j.cedpsych.2004.07.001",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.cedpsych.2004.07.001",
+    "title": "Fostering social agency in multimedia learning: Examining the impact of an animated agent’s voice",
+    "year": 2005,
+    "authors": "Atkinson; Mayer; Merrill",
+    "venue": "Contemporary Educational Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "liakin2017",
+   "cited": {
+    "authors": "Liakin, D.; Cardoso, W.; Liakina, N.",
+    "year": 2017,
+    "title": "The pedagogical use of mobile speech synthesis (TTS): focus on French liaison",
+    "venue": "Computer Assisted Language Learning",
+    "doi": "10.1080/09588221.2017.1312463",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/09588221.2017.1312463",
+    "title": "The pedagogical use of mobile speech synthesis (TTS): focus on French liaison",
+    "year": 2017,
+    "authors": "Liakin; Cardoso; Liakina",
+    "venue": "Computer Assisted Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cardoso2015",
+   "cited": {
+    "authors": "Cardoso, W.; Smith, G.; Garcia Fuentes, C.",
+    "year": 2015,
+    "title": "Evaluating text-to-speech synthesizers",
+    "venue": "Critical CALL - Proceedings of the 2015 EUROCALL Conference, Padova, Italy",
+    "doi": "10.14705/rpnet.2015.000318",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.14705/rpnet.2015.000318",
+    "title": "Evaluating text-to-speech synthesizers",
+    "year": 2015,
+    "authors": "Cardoso; Smith; Garcia Fuentes",
+    "venue": "Critical CALL – Proceedings of the 2015 EUROCALL Conference, Padova, Italy",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vandergriftgoh2012",
+   "cited": {
+    "authors": "Vandergrift, L.; Goh, C. C. M.",
+    "year": 2012,
+    "title": "Teaching and Learning Second Language Listening: Metacognition in Action",
+    "venue": "Routledge",
+    "doi": "10.4324/9780203843376",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203843376",
+    "title": "Teaching and Learning Second Language Listening",
+    "year": 2012,
+    "authors": "Goh; Vandergrift",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "field2008",
+   "cited": {
+    "authors": "Field, J.",
+    "year": 2008,
+    "title": "Listening in the Language Classroom",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511575945",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511575945",
+    "title": "Listening in the Language Classroom",
+    "year": 2009,
+    "authors": "Field",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "changmillett2014",
+   "cited": {
+    "authors": "Chang, A. C.-S.; Millett, S.",
+    "year": 2014,
+    "title": "The effect of extensive listening on developing L2 listening fluency: some hard evidence",
+    "venue": "ELT Journal",
+    "doi": "10.1093/elt/cct052",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/elt/cct052",
+    "title": "The effect of extensive listening on developing L2 listening fluency: some hard evidence",
+    "year": 2014,
+    "authors": "Chang; Millett",
+    "venue": "ELT Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kiany2002",
+   "cited": {
+    "authors": "Kiany, G. R.; Shiramiry, E.",
+    "year": 2002,
+    "title": "The effect of frequent dictation on the listening comprehension ability of elementary EFL learners",
+    "venue": "TESL Canada Journal",
+    "doi": "10.18806/tesl.v20i1.938",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.18806/tesl.v20i1.938",
+    "title": "The Effect of Frequent Dictation on the Listening Comprehension Ability of Elementary EFL Learners",
+    "year": 2002,
+    "authors": "Kiany; Shiramiry",
+    "venue": "TESL Canada Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wilson2003",
+   "cited": {
+    "authors": "Wilson, M.",
+    "year": 2003,
+    "title": "Discovery listening - improving perceptual processing",
+    "venue": "ELT Journal",
+    "doi": "10.1093/elt/57.4.335",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/elt/57.4.335",
+    "title": "Discovery listening--improving perceptual processing",
+    "year": 2003,
+    "authors": "Wilson",
+    "venue": "ELT Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2011",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2011,
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "venue": "Current Issues in Language Planning",
+    "doi": "10.1080/14664208.2011.604965",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14664208.2011.604965",
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "year": 2011,
+    "authors": "Schreyer",
+    "venue": "Current Issues in Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2015",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2015,
+    "title": "The digital fandom of Na'vi speakers",
+    "venue": "Transformative Works and Cultures",
+    "doi": "10.3983/twc.2015.0610",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3983/twc.2015.0610",
+    "title": "digital fandom of Na'vi speakers",
+    "year": 2015,
+    "authors": "Schreyer",
+    "venue": "Transformative Works and Cultures",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2006",
+   "cited": {
+    "authors": "Fiedler, S.",
+    "year": 2006,
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "venue": "International Journal of the Sociology of Language",
+    "doi": "10.1515/IJSL.2006.005",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl.2006.005",
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "year": 2006,
+    "authors": "Fiedler",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bergen2001",
+   "cited": {
+    "authors": "Bergen, B. K.",
+    "year": 2001,
+    "title": "Nativization processes in L1 Esperanto",
+    "venue": "Journal of Child Language",
+    "doi": "10.1017/S0305000901004779",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0305000901004779",
+    "title": "Nativization processes in L1 Esperanto",
+    "year": 2001,
+    "authors": "BERGEN",
+    "venue": "Journal of Child Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "okrand1985",
+   "cited": {
+    "authors": "Okrand, M.",
+    "year": 1985,
+    "title": "The Klingon Dictionary",
+    "venue": "Pocket Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.21983/p3.0215.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2011,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.583
+    },
+    {
+     "doi": "10.53288/0345.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2022,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei; Yonge-Mallo",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.583
+    },
+    {
+     "doi": "10.1093/oed/7446872875",
+     "title": "Klingon, n. &amp; adj.",
+     "year": 2023,
+     "authors": "",
+     "venue": "Oxford English Dictionary",
+     "type": "book-chapter",
+     "similarity": 0.462
+    }
+   ]
+  },
+  {
+   "id": "okrand1997",
+   "cited": {
+    "authors": "Okrand, M.",
+    "year": 1997,
+    "title": "Klingon for the Galactic Traveler",
+    "venue": "Pocket Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1525/sfs.24.2.0265",
+     "title": "The Klingon Language.",
+     "year": 1997,
+     "authors": "Meyers",
+     "venue": "Science Fiction Studies",
+     "type": "journal-article",
+     "similarity": 0.453
+    },
+    {
+     "doi": "10.1093/oed/7446872875",
+     "title": "Klingon, n. &amp; adj.",
+     "year": 2023,
+     "authors": "",
+     "venue": "Oxford English Dictionary",
+     "type": "book-chapter",
+     "similarity": 0.44
+    },
+    {
+     "doi": "10.21983/p3.0215.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2011,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.373
+    }
+   ]
+  },
+  {
+   "id": "peterson2014",
+   "cited": {
+    "authors": "Peterson, D. J.",
+    "year": 2014,
+    "title": "Living Language Dothraki: A Conversational Language Course Based on the Hit Original HBO Series Game of Thrones",
+    "venue": "Living Language (Random House)",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.22515/crossover.v4i1.8836",
+     "title": "ANHA DOTHRAK CHEK ASSHEKH: THE RENDERING OPERATION OF THE INVENTED LANGUAGE DOTHRAKI INTO BAHASA INDONESIA IN GAME OF THRONES SEASON 6",
+     "year": 2024,
+     "authors": "Isnaini",
+     "venue": "CrossOver",
+     "type": "journal-article",
+     "similarity": 0.403
+    },
+    {
+     "doi": "10.24193/subbphilo.2024.2.08",
+     "title": "LANGUAGE AS A TOOL OF INFLUENCE: A DISCOURSE ANALYSIS OF DAENERYS TARGARYEN’S SPEECHES IN DOTHRAKI AND HIGH VALYRIAN IN GAME OF THRONES",
+     "year": 2024,
+     "authors": "ENE",
+     "venue": "Studia Universitatis Babeș-Bolyai Philologia",
+     "type": "journal-article",
+     "similarity": 0.369
+    },
+    {
+     "doi": "10.2307/321499",
+     "title": "Conversational Russian. Living Language Course",
+     "year": 1960,
+     "authors": "Ornstein; Aron",
+     "venue": "The Modern Language Journal",
+     "type": "journal-article",
+     "similarity": 0.284
+    }
+   ]
+  },
+  {
+   "id": "ardila2020",
+   "cited": {
+    "authors": "Ardila, R.; Branson, M.; Davis, K.; Kohler, M.; Meyer, J.; Henretty, M.; Morais, R.; Saunders, L.; Tyers, F.; Weber, G.",
+    "year": 2020,
+    "title": "Common Voice: A Massively-Multilingual Speech Corpus",
+    "venue": "Proceedings of the Twelfth Language Resources and Evaluation Conference (LREC 2020), 4218-4222. European Language Resources Association",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.18653/v1/2022.sigtyp-1.15",
+     "title": "ParaNames: A Massively Multilingual Entity Name Corpus",
+     "year": 2022,
+     "authors": "Sälevä; Lignos",
+     "venue": "Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP",
+     "type": "proceedings-article",
+     "similarity": 0.712
+    },
+    {
+     "doi": "10.63317/38skf3jhvobn",
+     "title": "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation",
+     "year": 2022,
+     "authors": "Jia; Tadmor Ramanovich; Wang; Zen",
+     "venue": "Proceedings of the Language Resources and Evaluation Conference",
+     "type": "proceedings-article",
+     "similarity": 0.627
+    },
+    {
+     "doi": "10.70675/8465c7cbzdf69z4d79z8950zb4a862100148",
+     "title": "Sentence Embeddings for Massively Multilingual Speech and Text Processing",
+     "year": 2026,
+     "authors": "Duquenne",
+     "venue": "",
+     "type": "dissertation",
+     "similarity": 0.597
+    }
+   ]
+  },
+  {
+   "id": "kli_development",
+   "cited": {
+    "authors": "Klingon Language Institute",
+    "year": null,
+    "title": "Development and Use of the Klingon Language",
+    "venue": "kli.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "npr2009",
+   "cited": {
+    "authors": "NPR",
+    "year": 2009,
+    "title": "Do You Speak Na'vi? Giving Voice To 'Avatar' Aliens",
+    "venue": "NPR, 15 December 2009",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_alphabet",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Alphabet & Pronunciation (fan site; seen as a search summary only)",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_thread310",
+   "cited": {
+    "authors": "Thuum.org forum",
+    "year": null,
+    "title": "Forum thread 310 (fan discussion of IPA values and the r sound; seen as a search summary only)",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "uesp_dragon_language",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24, read from the repository snapshot)",
+    "venue": "The Unofficial Elder Scrolls Pages (UESP)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "espeak_chromeos",
+   "cited": {
+    "authors": "The Chromium Authors",
+    "year": null,
+    "title": "The eSpeak-NG speech synthesis engine on ChromeOS",
+    "venue": "Chromium source documentation",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "text2wav",
+   "cited": {
+    "authors": "text2wav contributors",
+    "year": null,
+    "title": "text2wav (npm package: eSpeak NG compiled to JavaScript and WebAssembly)",
+    "venue": "npm",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "espeak_phonemes",
+   "cited": {
+    "authors": "Stericker, J.",
+    "year": 2026,
+    "title": "espeak-phonemes: English text to IPA phonemes using eSpeak NG, WASM-based, fast, offline",
+    "venue": "Codeberg",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "mespeak2019",
+   "cited": {
+    "authors": "Landsteiner, N.",
+    "year": 2019,
+    "title": "Announcing meSpeak.js 2.0",
+    "venue": "masswerk.at",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "piper_aur",
+   "cited": {
+    "authors": "Arch User Repository",
+    "year": 2026,
+    "title": "Package details: piper-tts 1.8.0-1",
+    "venue": "aur.archlinux.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "piper_plus",
+   "cited": {
+    "authors": "piper-plus contributors",
+    "year": 2026,
+    "title": "piper-plus (README and comparison table)",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "sherpa_issue846",
+   "cited": {
+    "authors": "k2-fsa/sherpa-onnx contributors",
+    "year": 2024,
+    "title": "Issue 846 (WebAssembly text-to-speech with Piper models)",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "kokoro_js",
+   "cited": {
+    "authors": "kokoro-js contributors",
+    "year": 2025,
+    "title": "kokoro-js (npm package README)",
+    "venue": "npm",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "mdn_localservice",
+   "cited": {
+    "authors": "MDN contributors",
+    "year": null,
+    "title": "SpeechSynthesisVoice: localService property",
+    "venue": "MDN Web Docs",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "readium_webspeech",
+   "cited": {
+    "authors": "Readium Foundation",
+    "year": null,
+    "title": "SpeechSynthesis in browsers and OSes",
+    "venue": "readium.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lingualibre_meta",
+   "cited": {
+    "authors": "Wikimedia contributors",
+    "year": null,
+    "title": "Lingua Libre",
+    "venue": "Meta-Wiki (Wikimedia)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lingualibre_wizard",
+   "cited": {
+    "authors": "Lingua Libre contributors",
+    "year": null,
+    "title": "Help:RecordWizard manual",
+    "venue": "lingualibre.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "mozilla2019",
+   "cited": {
+    "authors": "Mozilla",
+    "year": 2019,
+    "title": "Sharing our Common Voices: Mozilla releases the largest to-date public domain transcribed voice dataset",
+    "venue": "The Mozilla Blog, 28 February 2019",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

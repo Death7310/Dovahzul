@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generator": "tools/analysis/phonotactics.py 1.0.0",
+  "generator": "tools/analysis/phonotactics.py 1.1.0",
   "inputs": {
    "research/data/canon-lexicon.json": "7a9dbe404567eda691333c0197483699c78799bd3f7d263ed2ac80332c2ecb2b",
    "research/data/canon-corpus.json": "db635e406c4a812df9135010968d2bd4be68967eb392b293736ea9640ff0b580",
@@ -16087,6 +16087,1127 @@
    }
   ],
   "doubled_final_letter_plus_e": []
+ },
+ "forge_profile": {
+  "basis": "lexicon_not_decomposable (see the docstring, section 5)",
+  "tiers": "core: 5 or more words; marginal: 2 to 4; single: 1",
+  "word_initial_onsets": [
+   {
+    "item": "(none)",
+    "count": 68,
+    "tier": "core",
+    "examples": [
+     "aak",
+     "aal",
+     "aam"
+    ]
+   },
+   {
+    "item": "v",
+    "count": 50,
+    "tier": "core",
+    "examples": [
+     "vaal",
+     "vaat",
+     "vaaz"
+    ]
+   },
+   {
+    "item": "n",
+    "count": 39,
+    "tier": "core",
+    "examples": [
+     "naak",
+     "naako",
+     "naal"
+    ]
+   },
+   {
+    "item": "d",
+    "count": 35,
+    "tier": "core",
+    "examples": [
+     "daal",
+     "daan",
+     "daanii"
+    ]
+   },
+   {
+    "item": "k",
+    "count": 34,
+    "tier": "core",
+    "examples": [
+     "kaal",
+     "kaan",
+     "kaaz"
+    ]
+   },
+   {
+    "item": "m",
+    "count": 33,
+    "tier": "core",
+    "examples": [
+     "maar",
+     "mah",
+     "mahfaeraak"
+    ]
+   },
+   {
+    "item": "s",
+    "count": 32,
+    "tier": "core",
+    "examples": [
+     "sadon",
+     "sah",
+     "sahlo"
+    ]
+   },
+   {
+    "item": "r",
+    "count": 30,
+    "tier": "core",
+    "examples": [
+     "raal",
+     "raan",
+     "rah"
+    ]
+   },
+   {
+    "item": "f",
+    "count": 29,
+    "tier": "core",
+    "examples": [
+     "faad",
+     "faal",
+     "faas"
+    ]
+   },
+   {
+    "item": "l",
+    "count": 26,
+    "tier": "core",
+    "examples": [
+     "laan",
+     "laar",
+     "laas"
+    ]
+   },
+   {
+    "item": "h",
+    "count": 24,
+    "tier": "core",
+    "examples": [
+     "haal",
+     "haalvut",
+     "haas"
+    ]
+   },
+   {
+    "item": "z",
+    "count": 22,
+    "tier": "core",
+    "examples": [
+     "zaam",
+     "zaamhus",
+     "zaan"
+    ]
+   },
+   {
+    "item": "kr",
+    "count": 21,
+    "tier": "core",
+    "examples": [
+     "krah",
+     "krasaar",
+     "krasnovaar"
+    ]
+   },
+   {
+    "item": "t",
+    "count": 19,
+    "tier": "core",
+    "examples": [
+     "taazokaan",
+     "tafiir",
+     "tah"
+    ]
+   },
+   {
+    "item": "b",
+    "count": 16,
+    "tier": "core",
+    "examples": [
+     "bah",
+     "balaan",
+     "bein"
+    ]
+   },
+   {
+    "item": "g",
+    "count": 16,
+    "tier": "core",
+    "examples": [
+     "gaaf",
+     "gaan",
+     "gaar"
+    ]
+   },
+   {
+    "item": "p",
+    "count": 12,
+    "tier": "core",
+    "examples": [
+     "paak",
+     "paal",
+     "paar"
+    ]
+   },
+   {
+    "item": "w",
+    "count": 12,
+    "tier": "core",
+    "examples": [
+     "wah",
+     "wahl",
+     "wen"
+    ]
+   },
+   {
+    "item": "gr",
+    "count": 11,
+    "tier": "core",
+    "examples": [
+     "graag",
+     "graan",
+     "grah"
+    ]
+   },
+   {
+    "item": "j",
+    "count": 10,
+    "tier": "core",
+    "examples": [
+     "jaag",
+     "jer",
+     "jiid"
+    ]
+   },
+   {
+    "item": "q",
+    "count": 10,
+    "tier": "core",
+    "examples": [
+     "qah",
+     "qahnaaran",
+     "qahnaarin"
+    ]
+   },
+   {
+    "item": "br",
+    "count": 8,
+    "tier": "core",
+    "examples": [
+     "brendon",
+     "brii",
+     "briinahii"
+    ]
+   },
+   {
+    "item": "dr",
+    "count": 6,
+    "tier": "core",
+    "examples": [
+     "draal",
+     "dreh",
+     "drem"
+    ]
+   },
+   {
+    "item": "fr",
+    "count": 5,
+    "tier": "core",
+    "examples": [
+     "frin",
+     "frini",
+     "frod"
+    ]
+   },
+   {
+    "item": "pr",
+    "count": 5,
+    "tier": "core",
+    "examples": [
+     "praal",
+     "praan",
+     "prodah"
+    ]
+   },
+   {
+    "item": "th",
+    "count": 5,
+    "tier": "core",
+    "examples": [
+     "thaan",
+     "thaarn",
+     "thu'um"
+    ]
+   },
+   {
+    "item": "y",
+    "count": 5,
+    "tier": "core",
+    "examples": [
+     "yah",
+     "yol",
+     "yolos"
+    ]
+   },
+   {
+    "item": "sh",
+    "count": 3,
+    "tier": "marginal",
+    "examples": [
+     "shaan",
+     "shor",
+     "shul"
+    ]
+   },
+   {
+    "item": "dw",
+    "count": 2,
+    "tier": "marginal",
+    "examples": [
+     "dwiin",
+     "dwiirok"
+    ]
+   },
+   {
+    "item": "kl",
+    "count": 2,
+    "tier": "marginal",
+    "examples": [
+     "klo",
+     "klov"
+    ]
+   },
+   {
+    "item": "st",
+    "count": 2,
+    "tier": "marginal",
+    "examples": [
+     "staadnau",
+     "stin"
+    ]
+   },
+   {
+    "item": "qu",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "quethsegol"
+    ]
+   },
+   {
+    "item": "sl",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "slen"
+    ]
+   },
+   {
+    "item": "sm",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "smoliin"
+    ]
+   },
+   {
+    "item": "sp",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "spaan"
+    ]
+   },
+   {
+    "item": "str",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "strun"
+    ]
+   }
+  ],
+  "word_final_codas": [
+   {
+    "item": "n",
+    "count": 134,
+    "tier": "core",
+    "examples": [
+     "aan",
+     "ahkrin",
+     "ahraan"
+    ]
+   },
+   {
+    "item": "(none)",
+    "count": 109,
+    "tier": "core",
+    "examples": [
+     "ah",
+     "atmora",
+     "au"
+    ]
+   },
+   {
+    "item": "l",
+    "count": 62,
+    "tier": "core",
+    "examples": [
+     "aal",
+     "ahmul",
+     "ahrol"
+    ]
+   },
+   {
+    "item": "k",
+    "count": 56,
+    "tier": "core",
+    "examples": [
+     "aak",
+     "ahmik",
+     "alok"
+    ]
+   },
+   {
+    "item": "s",
+    "count": 40,
+    "tier": "core",
+    "examples": [
+     "aus",
+     "bodiis",
+     "denos"
+    ]
+   },
+   {
+    "item": "r",
+    "count": 39,
+    "tier": "core",
+    "examples": [
+     "aar",
+     "bonaar",
+     "daar"
+    ]
+   },
+   {
+    "item": "d",
+    "count": 26,
+    "tier": "core",
+    "examples": [
+     "ahtiid",
+     "ahzid",
+     "brod"
+    ]
+   },
+   {
+    "item": "m",
+    "count": 22,
+    "tier": "core",
+    "examples": [
+     "aam",
+     "am",
+     "brom"
+    ]
+   },
+   {
+    "item": "t",
+    "count": 20,
+    "tier": "core",
+    "examples": [
+     "brit",
+     "gahrot",
+     "gut"
+    ]
+   },
+   {
+    "item": "v",
+    "count": 17,
+    "tier": "core",
+    "examples": [
+     "aav",
+     "amativ",
+     "bolaav"
+    ]
+   },
+   {
+    "item": "z",
+    "count": 15,
+    "tier": "core",
+    "examples": [
+     "aaz",
+     "dez",
+     "faaz"
+    ]
+   },
+   {
+    "item": "th",
+    "count": 12,
+    "tier": "core",
+    "examples": [
+     "gruth",
+     "oth",
+     "qeth"
+    ]
+   },
+   {
+    "item": "g",
+    "count": 7,
+    "tier": "core",
+    "examples": [
+     "ag",
+     "bolog",
+     "drog"
+    ]
+   },
+   {
+    "item": "nt",
+    "count": 7,
+    "tier": "core",
+    "examples": [
+     "fent",
+     "funt",
+     "krent"
+    ]
+   },
+   {
+    "item": "st",
+    "count": 6,
+    "tier": "core",
+    "examples": [
+     "ahst",
+     "kest",
+     "kriist"
+    ]
+   },
+   {
+    "item": "x",
+    "count": 6,
+    "tier": "core",
+    "examples": [
+     "bex",
+     "munax",
+     "nax"
+    ]
+   },
+   {
+    "item": "nd",
+    "count": 4,
+    "tier": "marginal",
+    "examples": [
+     "grind",
+     "hind",
+     "ond"
+    ]
+   },
+   {
+    "item": "f",
+    "count": 3,
+    "tier": "marginal",
+    "examples": [
+     "gaaf",
+     "hof",
+     "krif"
+    ]
+   },
+   {
+    "item": "rn",
+    "count": 2,
+    "tier": "marginal",
+    "examples": [
+     "thaarn",
+     "vothaarn"
+    ]
+   },
+   {
+    "item": "ft",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "luft"
+    ]
+   },
+   {
+    "item": "kt",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "vahrukt"
+    ]
+   },
+   {
+    "item": "ld",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "wuld"
+    ]
+   },
+   {
+    "item": "ll",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "nall"
+    ]
+   },
+   {
+    "item": "lt",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "golt"
+    ]
+   },
+   {
+    "item": "lz",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "golz"
+    ]
+   },
+   {
+    "item": "ng",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "viing"
+    ]
+   },
+   {
+    "item": "p",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "kip"
+    ]
+   },
+   {
+    "item": "rk",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "ahrk"
+    ]
+   },
+   {
+    "item": "sh",
+    "count": 1,
+    "tier": "single",
+    "examples": [
+     "tosh"
+    ]
+   }
+  ],
+  "nuclei": [
+   {
+    "item": "o",
+    "count": 220,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "aa",
+    "count": 130,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "u",
+    "count": 118,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "i",
+    "count": 102,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "ah",
+    "count": 83,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "ii",
+    "count": 74,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "e",
+    "count": 54,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "a",
+    "count": 38,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "ey",
+    "count": 26,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "ei",
+    "count": 17,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "oo",
+    "count": 9,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "eh",
+    "count": 5,
+    "tier": "core",
+    "examples": []
+   },
+   {
+    "item": "au",
+    "count": 4,
+    "tier": "marginal",
+    "examples": []
+   },
+   {
+    "item": "u'u",
+    "count": 4,
+    "tier": "marginal",
+    "examples": []
+   },
+   {
+    "item": "oh",
+    "count": 3,
+    "tier": "marginal",
+    "examples": []
+   },
+   {
+    "item": "ae",
+    "count": 1,
+    "tier": "single",
+    "examples": []
+   },
+   {
+    "item": "ih",
+    "count": 1,
+    "tier": "single",
+    "examples": []
+   },
+   {
+    "item": "uu",
+    "count": 1,
+    "tier": "single",
+    "examples": []
+   }
+  ],
+  "final_rime": {
+   "nucleus_class_by_coda_length": {
+    "V + 0 C": 40,
+    "V + 1 C": 254,
+    "V + 2 C": 19,
+    "VV + 0 C": 29,
+    "VV + 1 C": 204,
+    "VV + 2 C": 6,
+    "Vh + 0 C": 40,
+    "Vh + 1 C": 3,
+    "Vh + 2 C": 2
+   },
+   "nucleus_plus_coda_cluster": [
+    {
+     "item": "e + nt",
+     "count": 3,
+     "examples": [
+      "fent",
+      "krent",
+      "nikrent"
+     ]
+    },
+    {
+     "item": "i + nd",
+     "count": 3,
+     "examples": [
+      "grind",
+      "hind",
+      "zind"
+     ]
+    },
+    {
+     "item": "aa + rn",
+     "count": 2,
+     "examples": [
+      "thaarn",
+      "vothaarn"
+     ]
+    },
+    {
+     "item": "u + nt",
+     "count": 2,
+     "examples": [
+      "funt",
+      "unt"
+     ]
+    },
+    {
+     "item": "a + ll",
+     "count": 1,
+     "examples": [
+      "nall"
+     ]
+    },
+    {
+     "item": "ah + rk",
+     "count": 1,
+     "examples": [
+      "ahrk"
+     ]
+    },
+    {
+     "item": "ah + st",
+     "count": 1,
+     "examples": [
+      "ahst"
+     ]
+    },
+    {
+     "item": "e + st",
+     "count": 1,
+     "examples": [
+      "kest"
+     ]
+    },
+    {
+     "item": "ii + ng",
+     "count": 1,
+     "examples": [
+      "viing"
+     ]
+    },
+    {
+     "item": "ii + nt",
+     "count": 1,
+     "examples": [
+      "viint"
+     ]
+    },
+    {
+     "item": "ii + st",
+     "count": 1,
+     "examples": [
+      "kriist"
+     ]
+    },
+    {
+     "item": "o + lt",
+     "count": 1,
+     "examples": [
+      "golt"
+     ]
+    },
+    {
+     "item": "o + lz",
+     "count": 1,
+     "examples": [
+      "golz"
+     ]
+    },
+    {
+     "item": "o + nd",
+     "count": 1,
+     "examples": [
+      "ond"
+     ]
+    },
+    {
+     "item": "o + nt",
+     "count": 1,
+     "examples": [
+      "ont"
+     ]
+    },
+    {
+     "item": "o + st",
+     "count": 1,
+     "examples": [
+      "lost"
+     ]
+    },
+    {
+     "item": "oo + st",
+     "count": 1,
+     "examples": [
+      "loost"
+     ]
+    },
+    {
+     "item": "u + ft",
+     "count": 1,
+     "examples": [
+      "luft"
+     ]
+    },
+    {
+     "item": "u + kt",
+     "count": 1,
+     "examples": [
+      "vahrukt"
+     ]
+    },
+    {
+     "item": "u + ld",
+     "count": 1,
+     "examples": [
+      "wuld"
+     ]
+    },
+    {
+     "item": "u + st",
+     "count": 1,
+     "examples": [
+      "nust"
+     ]
+    }
+   ]
+  },
+  "wordlikeness_model": {
+   "what": "mean log2 P(unit | previous unit) over a word with boundaries, add-k smoothing",
+   "k": 0.5,
+   "unit_types_including_boundary": 42,
+   "bigram_types": 424,
+   "trained_on": "lexicon_not_decomposable",
+   "n_training_words": 597,
+   "leave_one_out_score_percentiles": {
+    "min": -6.6994,
+    "p01": -5.6682,
+    "p05": -4.8992,
+    "p10": -4.5655,
+    "p25": -4.1028,
+    "p50": -3.6455,
+    "p75": -3.2685,
+    "max": -2.3911
+   },
+   "training_words_with_a_transition_seen_in_no_other_word": 113,
+   "share_with_such_a_transition": 0.1893,
+   "lowest_scoring_training_words": [
+    {
+     "word": "iiz",
+     "score": -6.6994,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "au",
+     "score": -5.9736,
+     "unseen_transitions": 0
+    },
+    {
+     "word": "tosh",
+     "score": -5.9039,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "zu'u",
+     "score": -5.8855,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "kip",
+     "score": -5.6973,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "roh",
+     "score": -5.6682,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "thurri",
+     "score": -5.6535,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "nihnzey",
+     "score": -5.6474,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "ag",
+     "score": -5.5497,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "se",
+     "score": -5.3369,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "aus",
+     "score": -5.2987,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "jaag",
+     "score": -5.2876,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "moh",
+     "score": -5.2415,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "quethsegol",
+     "score": -5.2253,
+     "unseen_transitions": 4
+    },
+    {
+     "word": "erei",
+     "score": -5.2133,
+     "unseen_transitions": 0
+    },
+    {
+     "word": "neh",
+     "score": -5.2104,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "heyv",
+     "score": -5.195,
+     "unseen_transitions": 2
+    },
+    {
+     "word": "evgir",
+     "score": -5.1632,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "staadnau",
+     "score": -5.1596,
+     "unseen_transitions": 1
+    },
+    {
+     "word": "aav",
+     "score": -5.1246,
+     "unseen_transitions": 0
+    }
+   ],
+   "other_sets": {
+    "lexicon_mechanically_decomposable": {
+     "n": 69,
+     "min": -5.1822,
+     "p05": -4.367,
+     "p50": -3.5742,
+     "max": -2.571
+    },
+    "shout_words": {
+     "n": 136,
+     "min": -6.6994,
+     "p05": -5.1131,
+     "p50": -3.6455,
+     "max": -2.4734
+    },
+    "dragon_names": {
+     "n": 41,
+     "min": -5.1163,
+     "p05": -4.6554,
+     "p50": -3.9562,
+     "max": -3.2068
+    }
+   },
+   "control_strings_illustration_only": [
+    {
+     "string": "strength",
+     "score": -4.4071,
+     "unseen_transitions": 1,
+     "in_training_set": false
+    },
+    {
+     "string": "twelfth",
+     "score": -5.2612,
+     "unseen_transitions": 3,
+     "in_training_set": false
+    },
+    {
+     "string": "glimpse",
+     "score": -5.7389,
+     "unseen_transitions": 3,
+     "in_training_set": false
+    },
+    {
+     "string": "quick",
+     "score": -5.7804,
+     "unseen_transitions": 3,
+     "in_training_set": false
+    },
+    {
+     "string": "school",
+     "score": -5.1995,
+     "unseen_transitions": 4,
+     "in_training_set": false
+    },
+    {
+     "string": "thwart",
+     "score": -5.6433,
+     "unseen_transitions": 3,
+     "in_training_set": false
+    },
+    {
+     "string": "jumped",
+     "score": -4.7003,
+     "unseen_transitions": 1,
+     "in_training_set": false
+    },
+    {
+     "string": "bzdrang",
+     "score": -5.0141,
+     "unseen_transitions": 2,
+     "in_training_set": false
+    },
+    {
+     "string": "kaal",
+     "score": -3.2273,
+     "unseen_transitions": 0,
+     "in_training_set": true
+    },
+    {
+     "string": "drun",
+     "score": -2.9087,
+     "unseen_transitions": 0,
+     "in_training_set": true
+    },
+    {
+     "string": "vothiik",
+     "score": -3.6435,
+     "unseen_transitions": 1,
+     "in_training_set": false
+    },
+    {
+     "string": "zaanlok",
+     "score": -3.7796,
+     "unseen_transitions": 1,
+     "in_training_set": false
+    }
+   ]
+  }
  },
  "mechanically_decomposable_words": {
   "bahlaan": [

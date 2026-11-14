@@ -1,0 +1,1073 @@
+{
+ "source": "research/refs/script-evolution.json",
+ "counts": {
+  "found": 2,
+  "verified": 42,
+  "not_found": 2,
+  "manual": 8
+ },
+ "results": [
+  {
+   "id": "schmandt1992",
+   "cited": {
+    "authors": "Schmandt-Besserat, D.",
+    "year": 1992,
+    "title": "Before Writing, Volume I: From Counting to Cuneiform",
+    "venue": "University of Texas Press",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "found",
+   "suggested_doi": "10.2307/530080",
+   "registry": {
+    "doi": "10.2307/530080",
+    "title": "Before Writing. Volume I: From Counting to Cuneiform",
+    "year": 1993,
+    "authors": "Zimansky; Schmandt-Besserat",
+    "venue": "Journal of Field Archaeology",
+    "type": "journal-article",
+    "similarity": 1.0
+   }
+  },
+  {
+   "id": "taylor2011",
+   "cited": {
+    "authors": "Taylor, J.",
+    "year": 2011,
+    "title": "Tablets as Artefacts, Scribes as Artisans",
+    "venue": "The Oxford Handbook of Cuneiform Culture (Oxford University Press)",
+    "doi": "10.1093/oxfordhb/9780199557301.013.0001",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1093/oxfordhb/9780199557301.013.0001",
+    "title": "Tablets as Artefacts, Scribes as Artisans",
+    "year": 2012,
+    "authors": "Taylor",
+    "venue": "The Oxford Handbook of Cuneiform Culture",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "barnes2012",
+   "cited": {
+    "authors": "Barnes, M. P.",
+    "year": 2012,
+    "title": "Runes: A Handbook",
+    "venue": "Boydell Press",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1515/anglia-2013-0012",
+     "title": "Michael P. Barnes. Runes: A Handbook",
+     "year": 2013,
+     "authors": "Pakis",
+     "venue": "Anglia",
+     "type": "journal-article",
+     "similarity": 0.653
+    },
+    {
+     "doi": "10.1515/ejss-2017-0034",
+     "title": "Michael P. Barnes: Runes. A Handbook",
+     "year": 2017,
+     "authors": "Lindqvist",
+     "venue": "European Journal of Scandinavian Studies",
+     "type": "journal-article",
+     "similarity": 0.653
+    },
+    {
+     "doi": "10.1075/nowele.67.2.08sch",
+     "title": "Review of Barnes (2012): Runes. A Handbook",
+     "year": 2014,
+     "authors": "Schulte",
+     "venue": "NOWELE. North-Western European Language Evolution",
+     "type": "journal-article",
+     "similarity": 0.593
+    }
+   ]
+  },
+  {
+   "id": "schulte2015",
+   "cited": {
+    "authors": "Schulte, M.",
+    "year": 2015,
+    "title": "Runology and historical sociolinguistics: On runic writing and its social history in the first millennium",
+    "venue": "Journal of Historical Sociolinguistics",
+    "doi": "10.1515/jhsl-2015-0004",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/jhsl-2015-0004",
+    "title": "Runology and historical sociolinguistics: On runic writing and its social history in the first millennium",
+    "year": 2015,
+    "authors": "Schulte",
+    "venue": "Journal of Historical Sociolinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mcmanus1991",
+   "cited": {
+    "authors": "McManus, D.",
+    "year": 1991,
+    "title": "A Guide to Ogam",
+    "venue": "An Sagart (Maynooth Monographs 4)",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "found",
+   "suggested_doi": "10.2307/25571631",
+   "registry": {
+    "doi": "10.2307/25571631",
+    "title": "A Guide to Ogam",
+    "year": 1991,
+    "authors": "Hughes; McManus",
+    "venue": "Comhar",
+    "type": "journal-article",
+    "similarity": 1.0
+   }
+  },
+  {
+   "id": "houston2012",
+   "cited": {
+    "authors": "Houston, S. D.",
+    "year": 2012,
+    "title": "The Shape of Script: How and Why Writing Systems Change",
+    "venue": "School for Advanced Research Press",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1017/s0047404514000864",
+     "title": "Stephen D. Houston (ed.), The shape of script: How and why writing systems change. Santa Fe, NM: SAR Press, 2012. Pp. xxiii, 317. Hb. $34.95.",
+     "year": 2015,
+     "authors": "Wu",
+     "venue": "Language in Society",
+     "type": "journal-article",
+     "similarity": 0.607
+    },
+    {
+     "doi": "10.1093/actrade/9780199567782.003.0005",
+     "title": "5. How writing systems work",
+     "year": 2009,
+     "authors": "Robinson",
+     "venue": "Writing and Script",
+     "type": "book-chapter",
+     "similarity": 0.525
+    },
+    {
+     "doi": "10.1017/s0003598x00048456",
+     "title": "Stephen D. Houston (ed.). The shape of script: how and why writing systems change. xxiv+322 pages. 54 illustrations, 5 tables. 2012. Santa Fe (NM): School for Advanced Research Press; 978-1-934691-42-7 paperback $34.95.",
+     "year": 2012,
+     "authors": "Robinson",
+     "venue": "Antiquity",
+     "type": "journal-article",
+     "similarity": 0.422
+    }
+   ]
+  },
+  {
+   "id": "chrisomalis2010",
+   "cited": {
+    "authors": "Chrisomalis, S.",
+    "year": 2010,
+    "title": "Numerical Notation: A Comparative History",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511676062",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511676062",
+    "title": "Numerical Notation: A Comparative History",
+    "year": 2010,
+    "authors": "Chrisomalis",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "parkes2016",
+   "cited": {
+    "authors": "Parkes, M. B.",
+    "year": 2016,
+    "title": "Pause and Effect: An Introduction to the History of Punctuation in the West",
+    "venue": "Routledge (reissue; first published by Scolar Press, 1992)",
+    "doi": "10.4324/9781315247243",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9781315247243",
+    "title": "Pause and Effect: An Introduction to the History of Punctuation in the West",
+    "year": 2016,
+    "authors": "Parkes",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "saenger1997",
+   "cited": {
+    "authors": "Saenger, P.",
+    "year": 1997,
+    "title": "Space Between Words: The Origins of Silent Reading",
+    "venue": "Stanford University Press",
+    "doi": "10.1515/9781503619081",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9781503619081",
+    "title": "Space Between Words: The Origins of Silent Reading",
+    "year": 1997,
+    "authors": "Saenger",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "coulmas2003",
+   "cited": {
+    "authors": "Coulmas, F.",
+    "year": 2003,
+    "title": "Writing Systems: An Introduction to Their Linguistic Analysis",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9781139164597",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9781139164597",
+    "title": "Writing Systems: An Introduction to Their Linguistic Analysis",
+    "year": 2002,
+    "authors": "Coulmas",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "meletis2022",
+   "cited": {
+    "authors": "Meletis, D.; Dürscheid, C.",
+    "year": 2022,
+    "title": "Writing Systems and Their Use: An Overview of Grapholinguistics",
+    "venue": "De Gruyter Mouton",
+    "doi": "10.1515/9783110757835",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9783110757835",
+    "title": "Writing Systems and Their Use: An Overview of Grapholinguistics",
+    "year": 2022,
+    "authors": "Meletis; Dürscheid",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gnanadesikan2017",
+   "cited": {
+    "authors": "Gnanadesikan, A. E.",
+    "year": 2017,
+    "title": "Towards a typology of phonemic scripts",
+    "venue": "Writing Systems Research",
+    "doi": "10.1080/17586801.2017.1308239",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/17586801.2017.1308239",
+    "title": "Towards a typology of phonemic scripts",
+    "year": 2017,
+    "authors": "Gnanadesikan",
+    "venue": "Writing Systems Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kelly2021",
+   "cited": {
+    "authors": "Kelly, P.; Winters, J.; Miton, H.; Morin, O.",
+    "year": 2021,
+    "title": "The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems",
+    "venue": "Current Anthropology",
+    "doi": "10.1086/717779",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1086/717779",
+    "title": "The Predictable Evolution of Letter Shapes: An Emergent Script of West Africa Recapitulates Historical Change in Writing Systems",
+    "year": 2021,
+    "authors": "Kelly; Winters; Miton; Morin",
+    "venue": "Current Anthropology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "changizi2005",
+   "cited": {
+    "authors": "Changizi, M. A.; Shimojo, S.",
+    "year": 2005,
+    "title": "Character complexity and redundancy in writing systems over human history",
+    "venue": "Proceedings of the Royal Society B: Biological Sciences",
+    "doi": "10.1098/rspb.2004.2942",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1098/rspb.2004.2942",
+    "title": "Character complexity and redundancy in writing systems over human history",
+    "year": 2005,
+    "authors": "Changizi; Shimojo",
+    "venue": "Proceedings of the Royal Society B: Biological Sciences",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "changizi2006",
+   "cited": {
+    "authors": "Changizi, M. A.; Zhang, Q.; Ye, H.; Shimojo, S.",
+    "year": 2006,
+    "title": "The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes",
+    "venue": "The American Naturalist",
+    "doi": "10.1086/502806",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1086/502806",
+    "title": "The Structures of Letters and Symbols throughout Human History Are Selected to Match Those Found in Objects in Natural Scenes",
+    "year": 2006,
+    "authors": "Changizi; Zhang; Ye; Shimojo",
+    "venue": "The American Naturalist",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "morin2018",
+   "cited": {
+    "authors": "Morin, O.",
+    "year": 2018,
+    "title": "Spontaneous emergence of legibility in writing systems: The case of orientation anisotropy",
+    "venue": "Cognitive Science",
+    "doi": "10.1111/cogs.12550",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/cogs.12550",
+    "title": "Spontaneous Emergence of Legibility in Writing Systems: The Case of Orientation Anisotropy",
+    "year": 2018,
+    "authors": "Morin",
+    "venue": "Cognitive Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "miton2021",
+   "cited": {
+    "authors": "Miton, H.; Morin, O.",
+    "year": 2021,
+    "title": "Graphic complexity in writing systems",
+    "venue": "Cognition",
+    "doi": "10.1016/j.cognition.2021.104771",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.cognition.2021.104771",
+    "title": "Graphic complexity in writing systems",
+    "year": 2021,
+    "authors": "Miton; Morin",
+    "venue": "Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "koshevoy2023",
+   "cited": {
+    "authors": "Koshevoy, A.; Miton, H.; Morin, O.",
+    "year": 2023,
+    "title": "Zipf's law of abbreviation holds for individual characters across a broad range of writing systems",
+    "venue": "Cognition",
+    "doi": "10.1016/j.cognition.2023.105527",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.cognition.2023.105527",
+    "title": "Zipf’s Law of Abbreviation holds for individual characters across a broad range of writing systems",
+    "year": 2023,
+    "authors": "Koshevoy; Miton; Morin",
+    "venue": "Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kim2025",
+   "cited": {
+    "authors": "Kim, Y.; Allassonnière-Tang, M.; Miton, H.; Morin, O.",
+    "year": 2025,
+    "title": "The phonology of letter shapes: Feature economy and informativeness in 43 writing systems",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1016/j.jml.2025.104620",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jml.2025.104620",
+    "title": "The phonology of letter shapes: Feature economy and informativeness in 43 writing systems",
+    "year": 2025,
+    "authors": "Kim; Allassonnière-Tang; Miton; Morin",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "han2022",
+   "cited": {
+    "authors": "Han, S. J.; Kelly, P.; Winters, J.; Kemp, C.",
+    "year": 2022,
+    "title": "Simplification is not dominant in the evolution of Chinese characters",
+    "venue": "Open Mind",
+    "doi": "10.1162/opmi_a_00064",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/opmi_a_00064",
+    "title": "Simplification Is Not Dominant in the Evolution of Chinese Characters",
+    "year": 2022,
+    "authors": "Han; Kelly; Winters; Kemp",
+    "venue": "Open Mind",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "pelli2006",
+   "cited": {
+    "authors": "Pelli, D. G.; Burns, C. W.; Farell, B.; Moore-Page, D. C.",
+    "year": 2006,
+    "title": "Feature detection and letter identification",
+    "venue": "Vision Research",
+    "doi": "10.1016/j.visres.2006.04.023",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.visres.2006.04.023",
+    "title": "Feature detection and letter identification",
+    "year": 2006,
+    "authors": "Pelli; Burns; Farell; Moore-Page",
+    "venue": "Vision Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "chang2018",
+   "cited": {
+    "authors": "Chang, L.-Y.; Chen, Y.-C.; Perfetti, C. A.",
+    "year": 2018,
+    "title": "GraphCom: A multidimensional measure of graphic complexity applied to 131 written languages",
+    "venue": "Behavior Research Methods",
+    "doi": "10.3758/s13428-017-0881-y",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3758/s13428-017-0881-y",
+    "title": "GraphCom: A multidimensional measure of graphic complexity applied to 131 written languages",
+    "year": 2018,
+    "authors": "Chang; Chen; Perfetti",
+    "venue": "Behavior Research Methods",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "appelle1972",
+   "cited": {
+    "authors": "Appelle, S.",
+    "year": 1972,
+    "title": "Perception and discrimination as a function of stimulus orientation: The \"oblique effect\" in man and animals",
+    "venue": "Psychological Bulletin",
+    "doi": "10.1037/h0033117",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/h0033117",
+    "title": "Perception and discrimination as a function of stimulus orientation: The \"oblique effect\" in man and animals.",
+    "year": 1972,
+    "authors": "Appelle",
+    "venue": "Psychological Bulletin",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mueller2012",
+   "cited": {
+    "authors": "Mueller, S. T.; Weidemann, C. T.",
+    "year": 2012,
+    "title": "Alphabetic letter identification: Effects of perceivability, similarity, and bias",
+    "venue": "Acta Psychologica",
+    "doi": "10.1016/j.actpsy.2011.09.014",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.actpsy.2011.09.014",
+    "title": "Alphabetic letter identification: Effects of perceivability, similarity, and bias",
+    "year": 2012,
+    "authors": "Mueller; Weidemann",
+    "venue": "Acta Psychologica",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wiley2016",
+   "cited": {
+    "authors": "Wiley, R. W.; Wilson, C.; Rapp, B.",
+    "year": 2016,
+    "title": "The effects of alphabet and expertise on letter perception",
+    "venue": "Journal of Experimental Psychology: Human Perception and Performance",
+    "doi": "10.1037/xhp0000213",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/xhp0000213",
+    "title": "The effects of alphabet and expertise on letter perception.",
+    "year": 2016,
+    "authors": "Wiley; Wilson; Rapp",
+    "venue": "Journal of Experimental Psychology: Human Perception and Performance",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "treiman2011",
+   "cited": {
+    "authors": "Treiman, R.; Kessler, B.",
+    "year": 2011,
+    "title": "Similarities among the shapes of writing and their effects on learning",
+    "venue": "Written Language & Literacy",
+    "doi": "10.1075/wll.14.1.03tre",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/wll.14.1.03tre",
+    "title": "Similarities among the shapes of writing and their effects on learning",
+    "year": 2011,
+    "authors": "Treiman; Kessler",
+    "venue": "Written Language &amp; Literacy",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "primus2004",
+   "cited": {
+    "authors": "Primus, B.",
+    "year": 2004,
+    "title": "A featural analysis of the Modern Roman Alphabet",
+    "venue": "Written Language & Literacy",
+    "doi": "10.1075/wll.7.2.06pri",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/wll.7.2.06pri",
+    "title": "A featural analysis of the Modern Roman Alphabet",
+    "year": 2005,
+    "authors": "Primus",
+    "venue": "Written Language &amp; Literacy",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "jee2022",
+   "cited": {
+    "authors": "Jee, H.; Tamariz, M.; Shillcock, R.",
+    "year": 2022,
+    "title": "Systematicity in language and the fast and slow creation of writing systems: Understanding two types of non-arbitrary relations between orthographic characters and their canonical pronunciation",
+    "venue": "Cognition",
+    "doi": "10.1016/j.cognition.2022.105197",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.cognition.2022.105197",
+    "title": "Systematicity in language and the fast and slow creation of writing systems: Understanding two types of non-arbitrary relations between orthographic characters and their canonical pronunciation",
+    "year": 2022,
+    "authors": "Jee; Tamariz; Shillcock",
+    "venue": "Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "tamariz2015",
+   "cited": {
+    "authors": "Tamariz, M.; Kirby, S.",
+    "year": 2015,
+    "title": "Culture: Copying, compression, and conventionality",
+    "venue": "Cognitive Science",
+    "doi": "10.1111/cogs.12144",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/cogs.12144",
+    "title": "Culture: Copying, Compression, and Conventionality",
+    "year": 2015,
+    "authors": "Tamariz; Kirby",
+    "venue": "Cognitive Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "garrod2007",
+   "cited": {
+    "authors": "Garrod, S.; Fay, N.; Lee, J.; Oberlander, J.; MacLeod, T.",
+    "year": 2007,
+    "title": "Foundations of representation: Where might graphical symbol systems come from?",
+    "venue": "Cognitive Science",
+    "doi": "10.1080/03640210701703659",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/03640210701703659",
+    "title": "Foundations of Representation: Where Might Graphical Symbol Systems Come From?",
+    "year": 2007,
+    "authors": "Garrod; Fay; Lee; Oberlander; MacLeod",
+    "venue": "Cognitive Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dehaene2007",
+   "cited": {
+    "authors": "Dehaene, S.; Cohen, L.",
+    "year": 2007,
+    "title": "Cultural recycling of cortical maps",
+    "venue": "Neuron",
+    "doi": "10.1016/j.neuron.2007.10.004",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.neuron.2007.10.004",
+    "title": "Cultural Recycling of Cortical Maps",
+    "year": 2007,
+    "authors": "Dehaene; Cohen",
+    "venue": "Neuron",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "turoman2017",
+   "cited": {
+    "authors": "Turoman, N.; Styles, S. J.",
+    "year": 2017,
+    "title": "Glyph guessing for 'oo' and 'ee': spatial frequency information in sound symbolic matching for ancient and unfamiliar scripts",
+    "venue": "Royal Society Open Science",
+    "doi": "10.1098/rsos.170882",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1098/rsos.170882",
+    "title": "Glyph guessing for ‘oo’ and ‘ee’: spatial frequency information in sound symbolic matching for ancient and unfamiliar scripts",
+    "year": 2017,
+    "authors": "Turoman; Styles",
+    "venue": "Royal Society Open Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "araujo2022",
+   "cited": {
+    "authors": "Araújo, S.; Domingues, M.; Fernandes, T.",
+    "year": 2022,
+    "title": "From hand to eye: A meta-analysis of the benefit from handwriting training in visual graph recognition",
+    "venue": "Educational Psychology Review",
+    "doi": "10.1007/s10648-021-09651-4",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1007/s10648-021-09651-4",
+    "title": "From Hand to Eye: a Meta-Analysis of the Benefit from Handwriting Training in Visual Graph Recognition",
+    "year": 2022,
+    "authors": "Araújo; Domingues; Fernandes",
+    "venue": "Educational Psychology Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "longcamp2005",
+   "cited": {
+    "authors": "Longcamp, M.; Zerbato-Poudou, M.-T.; Velay, J.-L.",
+    "year": 2005,
+    "title": "The influence of writing practice on letter recognition in preschool children: A comparison between handwriting and typing",
+    "venue": "Acta Psychologica",
+    "doi": "10.1016/j.actpsy.2004.10.019",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.actpsy.2004.10.019",
+    "title": "The influence of writing practice on letter recognition in preschool children: A comparison between handwriting and typing",
+    "year": 2005,
+    "authors": "Longcamp; Zerbato-Poudou; Velay",
+    "venue": "Acta Psychologica",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "longcamp2008",
+   "cited": {
+    "authors": "Longcamp, M.; Boucard, C.; Gilhodes, J.-C.; Anton, J.-L.; Roth, M.; Nazarian, B.; Velay, J.-L.",
+    "year": 2008,
+    "title": "Learning through hand- or typewriting influences visual recognition of new graphic shapes: Behavioral and functional imaging evidence",
+    "venue": "Journal of Cognitive Neuroscience",
+    "doi": "10.1162/jocn.2008.20504",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/jocn.2008.20504",
+    "title": "Learning through Hand- or Typewriting Influences Visual Recognition of New Graphic Shapes: Behavioral and Functional Imaging Evidence",
+    "year": 2008,
+    "authors": "Longcamp; Boucard; Gilhodes; Anton; Roth; Nazarian; Velay",
+    "venue": "Journal of Cognitive Neuroscience",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wiley2021",
+   "cited": {
+    "authors": "Wiley, R. W.; Rapp, B.",
+    "year": 2021,
+    "title": "The effects of handwriting experience on literacy learning",
+    "venue": "Psychological Science",
+    "doi": "10.1177/0956797621993111",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0956797621993111",
+    "title": "The Effects of Handwriting Experience on Literacy Learning",
+    "year": 2021,
+    "authors": "Wiley; Rapp",
+    "venue": "Psychological Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "li2016",
+   "cited": {
+    "authors": "Li, J. X.; James, K. H.",
+    "year": 2016,
+    "title": "Handwriting generates variable visual output to facilitate symbol learning",
+    "venue": "Journal of Experimental Psychology: General",
+    "doi": "10.1037/xge0000134",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/xge0000134",
+    "title": "Handwriting generates variable visual output to facilitate symbol learning.",
+    "year": 2016,
+    "authors": "Li; James",
+    "venue": "Journal of Experimental Psychology: General",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ibaibarriaga2025",
+   "cited": {
+    "authors": "Ibaibarriaga, G.; Acha, J.; Perea, M.",
+    "year": 2025,
+    "title": "The impact of handwriting and typing practice in children's letter and word learning: Implications for literacy development",
+    "venue": "Journal of Experimental Child Psychology",
+    "doi": "10.1016/j.jecp.2025.106195",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jecp.2025.106195",
+    "title": "The impact of handwriting and typing practice in children’s letter and word learning: Implications for literacy development",
+    "year": 2025,
+    "authors": "Ibaibarriaga; Acha; Perea",
+    "venue": "Journal of Experimental Child Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ehri1984",
+   "cited": {
+    "authors": "Ehri, L. C.; Deffner, N. D.; Wilce, L. S.",
+    "year": 1984,
+    "title": "Pictorial mnemonics for phonics",
+    "venue": "Journal of Educational Psychology",
+    "doi": "10.1037/0022-0663.76.5.880",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/0022-0663.76.5.880",
+    "title": "Pictorial mnemonics for phonics.",
+    "year": 1984,
+    "authors": "Ehri; Deffner; Wilce",
+    "venue": "Journal of Educational Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "shmidman2010",
+   "cited": {
+    "authors": "Shmidman, A.; Ehri, L.",
+    "year": 2010,
+    "title": "Embedded picture mnemonics to learn letters",
+    "venue": "Scientific Studies of Reading",
+    "doi": "10.1080/10888430903117492",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/10888430903117492",
+    "title": "Embedded Picture Mnemonics to Learn Letters",
+    "year": 2010,
+    "authors": "Shmidman; Ehri",
+    "venue": "Scientific Studies of Reading",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "taylor2017",
+   "cited": {
+    "authors": "Taylor, J. S. H.; Davis, M. H.; Rastle, K.",
+    "year": 2017,
+    "title": "Comparing and validating methods of reading instruction using behavioural and neural findings in an artificial orthography",
+    "venue": "Journal of Experimental Psychology: General",
+    "doi": "10.1037/xge0000301",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/xge0000301",
+    "title": "Comparing and validating methods of reading instruction using behavioural and neural findings in an artificial orthography.",
+    "year": 2017,
+    "authors": "Taylor; Davis; Rastle",
+    "venue": "Journal of Experimental Psychology: General",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "rastle2021",
+   "cited": {
+    "authors": "Rastle, K.; Lally, C.; Davis, M. H.; Taylor, J. S. H.",
+    "year": 2021,
+    "title": "The dramatic impact of explicit instruction on learning to read in a new writing system",
+    "venue": "Psychological Science",
+    "doi": "10.1177/0956797620968790",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0956797620968790",
+    "title": "The Dramatic Impact of Explicit Instruction on Learning to Read in a New Writing System",
+    "year": 2021,
+    "authors": "Rastle; Lally; Davis; Taylor",
+    "venue": "Psychological Science",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "xu2013",
+   "cited": {
+    "authors": "Xu, Y.; Chang, L.-Y.; Zhang, J.; Perfetti, C. A.",
+    "year": 2013,
+    "title": "Reading, writing, and animation in character learning in Chinese as a foreign language",
+    "venue": "Foreign Language Annals",
+    "doi": "10.1111/flan.12040",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/flan.12040",
+    "title": "Reading, Writing, and Animation in Character Learning in Chinese as a Foreign Language",
+    "year": 2013,
+    "authors": "Xu; Chang; Zhang; Perfetti",
+    "venue": "Foreign Language Annals",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hsiung2017",
+   "cited": {
+    "authors": "Hsiung, H.-Y.; Chang, Y.-L.; Chen, H.-C.; Sung, Y.-T.",
+    "year": 2017,
+    "title": "Effect of stroke-order learning and handwriting exercises on recognizing and writing Chinese characters by Chinese as a foreign language learners",
+    "venue": "Computers in Human Behavior",
+    "doi": "10.1016/j.chb.2017.04.022",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.chb.2017.04.022",
+    "title": "Effect of stroke-order learning and handwriting exercises on recognizing and writing Chinese characters by Chinese as a foreign language learners",
+    "year": 2017,
+    "authors": "Hsiung; Chang; Chen; Sung",
+    "venue": "Computers in Human Behavior",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "guan2011",
+   "cited": {
+    "authors": "Guan, C. Q.; Liu, Y.; Chan, D. H. L.; Ye, F.; Perfetti, C. A.",
+    "year": 2011,
+    "title": "Writing strengthens orthography and alphabetic-coding strengthens phonology in learning to read Chinese",
+    "venue": "Journal of Educational Psychology",
+    "doi": "10.1037/a0023730",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/a0023730",
+    "title": "Writing strengthens orthography and alphabetic-coding strengthens phonology in learning to read Chinese.",
+    "year": 2011,
+    "authors": "Guan; Liu; Chan; Ye; Perfetti",
+    "venue": "Journal of Educational Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uesp_alphabet",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Alphabet (revision 3495681, snapshot in research/sources/uesp/)",
+    "venue": "Unofficial Elder Scrolls Pages",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "gameinformer2011",
+   "cited": {
+    "authors": "Miller, M.",
+    "year": 2011,
+    "title": "Skyrim's Dragon Shouts (Game Informer feature, as archived on UESP page General:Skyrim's Dragon Shouts, revision 3187192; read from the repository snapshot)",
+    "venue": "Game Informer / UESP archive",
+    "doi": null,
+    "type": "other"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_downloads",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": 2026,
+    "title": "Downloads (fan fonts, including a Numbered Dragon Alphabet font and printable alphabet sheet); known only from search-result summaries",
+    "venue": "thuum.org (fan site)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "fontforge2025",
+   "cited": {
+    "authors": "FontForge project",
+    "year": 2025,
+    "title": "FontForge downloads page (release 2025-10-09)",
+    "venue": "fontforge.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ucsur",
+   "cited": {
+    "authors": "Wikipedia contributors",
+    "year": 2026,
+    "title": "ConScript Unicode Registry (and its successor, the Under-ConScript Unicode Registry)",
+    "venue": "Wikipedia",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "cfr202",
+   "cited": {
+    "authors": "United States Copyright Office",
+    "year": 1992,
+    "title": "37 CFR 202.1 Material not subject to copyright, paragraph (e): typeface as typeface",
+    "venue": "Code of Federal Regulations",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "cozens_features",
+   "cited": {
+    "authors": "Cozens, S.",
+    "year": 2026,
+    "title": "Fonts and Layout for Global Scripts: OpenType features, part 2 (substitution rules, including ligature substitution)",
+    "venue": "simoncozens.github.io (open textbook)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "typedrawers_pua",
+   "cited": {
+    "authors": "TypeDrawers forum contributors",
+    "year": 2026,
+    "title": "DirectWrite and the Unicode PUA - Can they work together? (thread on ligature substitution over Private Use Area glyphs failing in Microsoft Word)",
+    "venue": "typedrawers.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "wobbrock2007",
+   "cited": {
+    "authors": "Wobbrock, J. O.; Wilson, A. D.; Li, Y.",
+    "year": 2007,
+    "title": "Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes",
+    "venue": "Proceedings of the 20th Annual ACM Symposium on User Interface Software and Technology (UIST 2007)",
+    "doi": "10.1145/1294211.1294238",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/1294211.1294238",
+    "title": "Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes",
+    "year": 2007,
+    "authors": "Wobbrock; Wilson; Li",
+    "venue": "Proceedings of the 20th annual ACM symposium on User interface software and technology",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  }
+ ]
+}

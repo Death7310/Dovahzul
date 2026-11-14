@@ -1,0 +1,1340 @@
+{
+ "source": "research/refs/formal-rules.json",
+ "counts": {
+  "verified": 47,
+  "not_found": 6,
+  "manual": 12
+ },
+ "results": [
+  {
+   "id": "hayes2008",
+   "cited": {
+    "authors": "Hayes, B.; Wilson, C.",
+    "year": 2008,
+    "title": "A maximum entropy model of phonotactics and phonotactic learning",
+    "venue": "Linguistic Inquiry",
+    "doi": "10.1162/ling.2008.39.3.379",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/ling.2008.39.3.379",
+    "title": "A Maximum Entropy Model of Phonotactics and Phonotactic Learning",
+    "year": 2008,
+    "authors": "Hayes; Wilson",
+    "venue": "Linguistic Inquiry",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vitevitch2004",
+   "cited": {
+    "authors": "Vitevitch, M. S.; Luce, P. A.",
+    "year": 2004,
+    "title": "A Web-based interface to calculate phonotactic probability for words and nonwords in English",
+    "venue": "Behavior Research Methods, Instruments, & Computers",
+    "doi": "10.3758/BF03195594",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3758/bf03195594",
+    "title": "A Web-based interface to calculate phonotactic probability for words and nonwords in English",
+    "year": 2004,
+    "authors": "Vitevitch; Luce",
+    "venue": "Behavior Research Methods, Instruments, &amp; Computers",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bailey2001",
+   "cited": {
+    "authors": "Bailey, T. M.; Hahn, U.",
+    "year": 2001,
+    "title": "Determinants of wordlikeness: Phonotactics or lexical neighborhoods?",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1006/jmla.2000.2756",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/jmla.2000.2756",
+    "title": "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?",
+    "year": 2001,
+    "authors": "Bailey; Hahn",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "albright2009",
+   "cited": {
+    "authors": "Albright, A.",
+    "year": 2009,
+    "title": "Feature-based generalisation as a source of gradient acceptability",
+    "venue": "Phonology",
+    "doi": "10.1017/S0952675709001705",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0952675709001705",
+    "title": "Feature-based generalisation as a source of gradient acceptability",
+    "year": 2009,
+    "authors": "Albright",
+    "venue": "Phonology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "frisch2000",
+   "cited": {
+    "authors": "Frisch, S. A.; Large, N. R.; Pisoni, D. B.",
+    "year": 2000,
+    "title": "Perception of wordlikeness: Effects of segment probability and length on the processing of nonwords",
+    "venue": "Journal of Memory and Language",
+    "doi": "10.1006/jmla.1999.2692",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/jmla.1999.2692",
+    "title": "Perception of Wordlikeness: Effects of Segment Probability and Length on the Processing of Nonwords",
+    "year": 2000,
+    "authors": "Frisch; Large; Pisoni",
+    "venue": "Journal of Memory and Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "daland2011",
+   "cited": {
+    "authors": "Daland, R.; Hayes, B.; White, J.; Garellek, M.; Davis, A.; Norrmann, I.",
+    "year": 2011,
+    "title": "Explaining sonority projection effects",
+    "venue": "Phonology",
+    "doi": "10.1017/S0952675711000145",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0952675711000145",
+    "title": "Explaining sonority projection effects",
+    "year": 2011,
+    "authors": "Daland; Hayes; White; Garellek; Davis; Norrmann",
+    "venue": "Phonology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "luce1998",
+   "cited": {
+    "authors": "Luce, P. A.; Pisoni, D. B.",
+    "year": 1998,
+    "title": "Recognizing spoken words: The neighborhood activation model",
+    "venue": "Ear and Hearing",
+    "doi": "10.1097/00003446-199802000-00001",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1097/00003446-199802000-00001",
+    "title": "Recognizing Spoken Words: The Neighborhood Activation Model",
+    "year": 1998,
+    "authors": "Luce; Pisoni",
+    "venue": "Ear and Hearing",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "chen1999",
+   "cited": {
+    "authors": "Chen, S. F.; Goodman, J.",
+    "year": 1999,
+    "title": "An empirical study of smoothing techniques for language modeling",
+    "venue": "Computer Speech & Language",
+    "doi": "10.1006/csla.1999.0128",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/csla.1999.0128",
+    "title": "An empirical study of smoothing techniques for language modeling",
+    "year": 1999,
+    "authors": "Chen; Goodman",
+    "venue": "Computer Speech &amp; Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wilson2018",
+   "cited": {
+    "authors": "Wilson, C.; Gallagher, G.",
+    "year": 2018,
+    "title": "Accidental gaps and surface-based phonotactic learning: A case study of South Bolivian Quechua",
+    "venue": "Linguistic Inquiry",
+    "doi": "10.1162/ling_a_00285",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/ling_a_00285",
+    "title": "Accidental Gaps and Surface-Based Phonotactic Learning: A Case Study of South Bolivian Quechua",
+    "year": 2018,
+    "authors": "Wilson; Gallagher",
+    "venue": "Linguistic Inquiry",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "rogers2011",
+   "cited": {
+    "authors": "Rogers, J.; Pullum, G. K.",
+    "year": 2011,
+    "title": "Aural pattern recognition experiments and the subregular hierarchy",
+    "venue": "Journal of Logic, Language and Information",
+    "doi": "10.1007/s10849-011-9140-2",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1007/s10849-011-9140-2",
+    "title": "Aural Pattern Recognition Experiments and the Subregular Hierarchy",
+    "year": 2011,
+    "authors": "Rogers; Pullum",
+    "venue": "Journal of Logic, Language and Information",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mayer2025",
+   "cited": {
+    "authors": "Mayer, C.; Kondur, A.; Sundara, M.",
+    "year": 2025,
+    "title": "UCI Phonotactic Calculator: An online tool for computing phonotactic metrics",
+    "venue": "Behavior Research Methods",
+    "doi": "10.3758/s13428-025-02725-z",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3758/s13428-025-02725-z",
+    "title": "The UCI Phonotactic Calculator: An online tool for computing phonotactic metrics",
+    "year": 2025,
+    "authors": "Mayer; Kondur; Sundara",
+    "venue": "Behavior Research Methods",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "coleman1997",
+   "cited": {
+    "authors": "Coleman, J.; Pierrehumbert, J.",
+    "year": 1997,
+    "title": "Stochastic phonological grammars and acceptability",
+    "venue": "Computational Phonology: Third Meeting of the ACL Special Interest Group in Computational Phonology",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1093/oso/9780190923334.003.0002",
+     "title": "Phonological Grammars",
+     "year": 2024,
+     "authors": "Archibald",
+     "venue": "Phonology in Multilingual Grammars",
+     "type": "book-chapter",
+     "similarity": 0.592
+    },
+    {
+     "doi": "10.14793/eng_etd.1",
+     "title": "Phonological features of Hong Kong English : patterns of variation and effects on local acceptability",
+     "year": 2014,
+     "authors": "SEWELL",
+     "venue": "",
+     "type": "dissertation",
+     "similarity": 0.47
+    },
+    {
+     "doi": "10.1051/ita/1997310504371",
+     "title": "Accurate computation of the relative entropy between stochastic regular grammars",
+     "year": 1997,
+     "authors": "Carrasco",
+     "venue": "RAIRO - Theoretical Informatics and Applications",
+     "type": "journal-article",
+     "similarity": 0.338
+    }
+   ]
+  },
+  {
+   "id": "koskenniemi1984",
+   "cited": {
+    "authors": "Koskenniemi, K.",
+    "year": 1984,
+    "title": "A general computational model for word-form recognition and production",
+    "venue": "Proceedings of the 10th International Conference on Computational Linguistics (COLING 1984)",
+    "doi": "10.3115/980431.980529",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.3115/980431.980529",
+    "title": "A general computational model for word-form recognition and production",
+    "year": 1984,
+    "authors": "Koskenniemi",
+    "venue": "Proceedings of the 10th international conference on Computational linguistics  -",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kaplan1994",
+   "cited": {
+    "authors": "Kaplan, R. M.; Kay, M.",
+    "year": 1994,
+    "title": "Regular models of phonological rule systems",
+    "venue": "Computational Linguistics",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.21437/icslp.1994-439",
+     "title": "Generating phoneme models for forming phonological concepts",
+     "year": 1994,
+     "authors": "Kojima; Tanaka; Hayamizu",
+     "venue": "3rd International Conference on Spoken Language Processing (ICSLP 1994)",
+     "type": "proceedings-article",
+     "similarity": 0.549
+    },
+    {
+     "doi": "10.31973/aj.v3i144.3881",
+     "title": "Models of Phonological Loanword Adaptation: The Optimality Model as Opposed to the Perceptual and Phonological Models",
+     "year": 2023,
+     "authors": "Abdulrazzaq; Al-Ubaidy",
+     "venue": "Al-Adab Journal",
+     "type": "journal-article",
+     "similarity": 0.403
+    },
+    {
+     "doi": "10.1177/002383099403700306",
+     "title": "Phonological Development: Models, Research, Implications",
+     "year": 1994,
+     "authors": "Faber",
+     "venue": "Language and Speech",
+     "type": "journal-article",
+     "similarity": 0.333
+    }
+   ]
+  },
+  {
+   "id": "hulden2009",
+   "cited": {
+    "authors": "Hulden, M.",
+    "year": 2009,
+    "title": "Foma: a finite-state compiler and library",
+    "venue": "Proceedings of the Demonstrations Session at EACL 2009",
+    "doi": "10.3115/1609049.1609057",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.3115/1609049.1609057",
+    "title": "Foma: a finite-state compiler and library",
+    "year": 2009,
+    "authors": "Hulden",
+    "venue": "Proceedings of the 12th Conference of the European Chapter of the Association for Computational Linguistics: Demonstrations Session on - EACL '09",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "linden2011",
+   "cited": {
+    "authors": "Lindén, K.; Axelson, E.; Hardwick, S.; Pirinen, T. A.; Silfverberg, M.",
+    "year": 2011,
+    "title": "HFST—Framework for compiling and applying morphologies",
+    "venue": "Systems and Frameworks for Computational Morphology (Communications in Computer and Information Science 100)",
+    "doi": "10.1007/978-3-642-23138-4_5",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-642-23138-4_5",
+    "title": "HFST—Framework for Compiling and Applying Morphologies",
+    "year": 2011,
+    "authors": "Lindén; Axelson; Hardwick; Pirinen; Silfverberg",
+    "venue": "Communications in Computer and Information Science",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "forsberg2004",
+   "cited": {
+    "authors": "Forsberg, M.; Ranta, A.",
+    "year": 2004,
+    "title": "Functional morphology",
+    "venue": "Proceedings of the Ninth ACM SIGPLAN International Conference on Functional Programming (ICFP 2004)",
+    "doi": "10.1145/1016850.1016879",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/1016850.1016879",
+    "title": "Functional morphology",
+    "year": 2004,
+    "authors": "Forsberg; Ranta",
+    "venue": "Proceedings of the ninth ACM SIGPLAN international conference on Functional programming",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "detrez2012",
+   "cited": {
+    "authors": "Détrez, G.; Ranta, A.",
+    "year": 2012,
+    "title": "Smart paradigms and the predictability and complexity of inflectional morphology",
+    "venue": "Proceedings of the 13th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2012)",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1017/cbo9781316105290.008",
+     "title": "A conception of the relation of content to form in inflectional paradigms",
+     "year": 2015,
+     "authors": "",
+     "venue": "Inflectional Paradigms",
+     "type": "book-chapter",
+     "similarity": 0.418
+    },
+    {
+     "doi": "10.1017/cbo9781316105290.003",
+     "title": "Canonical inflectional paradigms",
+     "year": 2015,
+     "authors": "",
+     "venue": "Inflectional Paradigms",
+     "type": "book-chapter",
+     "similarity": 0.375
+    },
+    {
+     "doi": "10.1017/cbo9781316105290.002",
+     "title": "What are inflectional paradigms?",
+     "year": 2015,
+     "authors": "",
+     "venue": "Inflectional Paradigms",
+     "type": "book-chapter",
+     "similarity": 0.324
+    }
+   ]
+  },
+  {
+   "id": "koehn2003",
+   "cited": {
+    "authors": "Koehn, P.; Knight, K.",
+    "year": 2003,
+    "title": "Empirical methods for compound splitting",
+    "venue": "Proceedings of the 10th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2003)",
+    "doi": "10.3115/1067807.1067833",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.3115/1067807.1067833",
+    "title": "Empirical methods for compound splitting",
+    "year": 2003,
+    "authors": "Koehn; Knight",
+    "venue": "Proceedings of the tenth conference on European chapter of the Association for Computational Linguistics  - EACL '03",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hulden2013",
+   "cited": {
+    "authors": "Hulden, M.; Silfverberg, M.; Francom, J.",
+    "year": 2013,
+    "title": "Finite state applications with Javascript",
+    "venue": "Proceedings of the 19th Nordic Conference of Computational Linguistics (NODALIDA 2013)",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1007/11780885_10",
+     "title": "Finite-State Syllabification",
+     "year": 2006,
+     "authors": "Hulden",
+     "venue": "Lecture Notes in Computer Science",
+     "type": "book-chapter",
+     "similarity": 0.609
+    },
+    {
+     "doi": "10.1093/obo/9780199772810-0181",
+     "title": "Finite State Languages",
+     "year": 2014,
+     "authors": "Hulden",
+     "venue": "Oxford Bibliographies in Linguistics",
+     "type": "reference-entry",
+     "similarity": 0.508
+    },
+    {
+     "doi": "10.3233/978-1-58603-975-2-82",
+     "title": "Regular Expressions and Predicate Logic in Finite-State Language Processing",
+     "year": 2009,
+     "authors": "Hulden Mans",
+     "venue": "Frontiers in Artificial Intelligence and Applications",
+     "type": "book-chapter",
+     "similarity": 0.293
+    }
+   ]
+  },
+  {
+   "id": "earley1970",
+   "cited": {
+    "authors": "Earley, J.",
+    "year": 1970,
+    "title": "An efficient context-free parsing algorithm",
+    "venue": "Communications of the ACM",
+    "doi": "10.1145/362007.362035",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1145/362007.362035",
+    "title": "An efficient context-free parsing algorithm",
+    "year": 1970,
+    "authors": "Earley",
+    "venue": "Communications of the ACM",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "karlsson1990",
+   "cited": {
+    "authors": "Karlsson, F.",
+    "year": 1990,
+    "title": "Constraint grammar as a framework for parsing running text",
+    "venue": "COLING 1990 Volume 3: Papers presented to the 13th International Conference on Computational Linguistics",
+    "doi": "10.3115/991146.991176",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.3115/991146.991176",
+    "title": "Constraint grammar as a framework for parsing running text",
+    "year": 1990,
+    "authors": "Karlsson",
+    "venue": "Proceedings of the 13th conference on Computational linguistics  -",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bick2015",
+   "cited": {
+    "authors": "Bick, E.; Didriksen, T.",
+    "year": 2015,
+    "title": "CG-3 — Beyond classical constraint grammar",
+    "venue": "Proceedings of the 20th Nordic Conference of Computational Linguistics (NODALIDA 2015)",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.63317/5632vaz4dkpo",
+     "title": "FrAG, a Hybrid Constraint Grammar Parser for French",
+     "year": 2010,
+     "authors": "Bick",
+     "venue": "Proceedings of the Language Resources and Evaluation Conference",
+     "type": "proceedings-article",
+     "similarity": 0.533
+    },
+    {
+     "doi": "10.1007/978-3-540-24580-3_47",
+     "title": "A Constraint Grammar Based Question Answering System for Portuguese",
+     "year": 2003,
+     "authors": "Bick",
+     "venue": "Lecture Notes in Computer Science",
+     "type": "book-chapter",
+     "similarity": 0.374
+    },
+    {
+     "doi": "10.1007/978-3-319-10888-9_23",
+     "title": "Constraint Grammar-Based Swedish-Danish Machine Translation",
+     "year": 2014,
+     "authors": "Bick",
+     "venue": "Lecture Notes in Computer Science",
+     "type": "book-chapter",
+     "similarity": 0.364
+    }
+   ]
+  },
+  {
+   "id": "ranta2004",
+   "cited": {
+    "authors": "Ranta, A.",
+    "year": 2004,
+    "title": "Grammatical Framework",
+    "venue": "Journal of Functional Programming",
+    "doi": "10.1017/S0956796803004738",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0956796803004738",
+    "title": "Grammatical Framework",
+    "year": 2004,
+    "authors": "RANTA",
+    "venue": "Journal of Functional Programming",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "angelov2010",
+   "cited": {
+    "authors": "Angelov, K.; Bringert, B.; Ranta, A.",
+    "year": 2010,
+    "title": "PGF: A portable run-time format for type-theoretical grammars",
+    "venue": "Journal of Logic, Language and Information",
+    "doi": "10.1007/s10849-009-9112-y",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1007/s10849-009-9112-y",
+    "title": "PGF: A Portable Run-time Format for Type-theoretical Grammars",
+    "year": 2010,
+    "authors": "Angelov; Bringert; Ranta",
+    "venue": "Journal of Logic, Language and Information",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ranta2020",
+   "cited": {
+    "authors": "Ranta, A.; Angelov, K.; Gruzitis, N.; Kolachina, P.",
+    "year": 2020,
+    "title": "Abstract syntax as interlingua: Scaling up the Grammatical Framework from controlled languages to robust pipelines",
+    "venue": "Computational Linguistics",
+    "doi": "10.1162/coli_a_00378",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/coli_a_00378",
+    "title": "Abstract Syntax as Interlingua: Scaling Up the Grammatical Framework from Controlled Languages to Robust Pipelines",
+    "year": 2020,
+    "authors": "Ranta; Angelov; Gruzitis; Kolachina",
+    "venue": "Computational Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ranta2012",
+   "cited": {
+    "authors": "Ranta, A.; Enache, R.; Détrez, G.",
+    "year": 2012,
+    "title": "Controlled language for everyday use: The MOLTO phrasebook",
+    "venue": "Controlled Natural Language (CNL 2010), Lecture Notes in Computer Science 7175",
+    "doi": "10.1007/978-3-642-31175-8_7",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-642-31175-8_7",
+    "title": "Controlled Language for Everyday Use: The MOLTO Phrasebook",
+    "year": 2012,
+    "authors": "Ranta; Enache; Détrez",
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kuhn2014",
+   "cited": {
+    "authors": "Kuhn, T.",
+    "year": 2014,
+    "title": "A survey and classification of controlled natural languages",
+    "venue": "Computational Linguistics",
+    "doi": "10.1162/COLI_a_00168",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1162/coli_a_00168",
+    "title": "A Survey and Classification of Controlled Natural Languages",
+    "year": 2014,
+    "authors": "Kuhn",
+    "venue": "Computational Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "milkowski2010",
+   "cited": {
+    "authors": "Miłkowski, M.",
+    "year": 2010,
+    "title": "Developing an open-source, rule-based proofreading tool",
+    "venue": "Software: Practice and Experience",
+    "doi": "10.1002/spe.971",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/spe.971",
+    "title": "Developing an open‐source, rule‐based proofreading tool",
+    "year": 2010,
+    "authors": "Miłkowski",
+    "venue": "Software: Practice and Experience",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "heift2007",
+   "cited": {
+    "authors": "Heift, T.; Schulze, M.",
+    "year": 2007,
+    "title": "Errors and Intelligence in Computer-Assisted Language Learning: Parsers and Pedagogues",
+    "venue": "Routledge",
+    "doi": "10.4324/9780203012215",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203012215",
+    "title": "Errors and Intelligence in Computer-Assisted Language Learning",
+    "year": 2007,
+    "authors": "Heift; Schulze",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nagata1993",
+   "cited": {
+    "authors": "Nagata, N.",
+    "year": 1993,
+    "title": "Intelligent computer feedback for second language instruction",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/j.1540-4781.1993.tb01980.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.1993.tb01980.x",
+    "title": "Intelligent Computer Feedback for Second Language Instruction",
+    "year": 1993,
+    "authors": "NAGATA",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "heift2004",
+   "cited": {
+    "authors": "Heift, T.",
+    "year": 2004,
+    "title": "Corrective feedback and learner uptake in CALL",
+    "venue": "ReCALL",
+    "doi": "10.1017/S0958344004001120",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344004001120",
+    "title": "<i>Corrective feedback and learner uptake in CALL</i>",
+    "year": 2004,
+    "authors": "HEIFT",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schneider1998",
+   "cited": {
+    "authors": "Schneider, D.; McCoy, K. F.",
+    "year": 1998,
+    "title": "Recognizing syntactic errors in the writing of second language learners",
+    "venue": "Proceedings of the 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics (COLING-ACL 1998)",
+    "doi": "10.3115/980432.980765",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.3115/980432.980765",
+    "title": "Recognizing syntactic errors in the writing of second language learners",
+    "year": 1998,
+    "authors": "Schneider; McCoy",
+    "venue": "Proceedings of the 17th international conference on Computational linguistics  -",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "foster2004",
+   "cited": {
+    "authors": "Foster, J.; Vogel, C.",
+    "year": 2004,
+    "title": "Parsing ill-formed text using an error grammar",
+    "venue": "Artificial Intelligence Review",
+    "doi": "10.1023/B:AIRE.0000036259.68818.1e",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1023/b:aire.0000036259.68818.1e",
+    "title": "Parsing Ill-Formed Text Using an Error Grammar",
+    "year": 2004,
+    "authors": "Foster; Vogel",
+    "venue": "Artificial Intelligence Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "amaral2011",
+   "cited": {
+    "authors": "Amaral, L. A.; Meurers, D.",
+    "year": 2011,
+    "title": "On using intelligent computer-assisted language learning in real-life foreign language teaching and learning",
+    "venue": "ReCALL",
+    "doi": "10.1017/S0958344010000261",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344010000261",
+    "title": "On using intelligent computer-assisted language learning in real-life foreign language teaching and learning",
+    "year": 2011,
+    "authors": "Amaral; Meurers",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "katinskaia2019",
+   "cited": {
+    "authors": "Katinskaia, A.; Ivanova, S.; Yangarber, R.",
+    "year": 2019,
+    "title": "Multiple admissibility: Judging grammaticality using unlabeled data in language learning",
+    "venue": "Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing",
+    "doi": "10.18653/v1/w19-3702",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.18653/v1/w19-3702",
+    "title": "Multiple Admissibility: Judging Grammaticality using Unlabeled Data in Language Learning",
+    "year": 2019,
+    "authors": "Katinskaia; Ivanova",
+    "venue": "Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "reiter2000",
+   "cited": {
+    "authors": "Reiter, E.; Dale, R.",
+    "year": 2000,
+    "title": "Building Natural Language Generation Systems",
+    "venue": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511519857",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1017/cbo9780511519857",
+    "title": "Building Natural Language Generation Systems",
+    "year": 2000,
+    "authors": "Reiter; Dale",
+    "venue": "",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gatt2018",
+   "cited": {
+    "authors": "Gatt, A.; Krahmer, E.",
+    "year": 2018,
+    "title": "Survey of the state of the art in natural language generation: Core tasks, applications and evaluation",
+    "venue": "Journal of Artificial Intelligence Research",
+    "doi": "10.1613/jair.5477",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1613/jair.5477",
+    "title": "Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation",
+    "year": 2018,
+    "authors": "Gatt; Krahmer",
+    "venue": "Journal of Artificial Intelligence Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "perez2012",
+   "cited": {
+    "authors": "Perez-Beltrachini, L.; Gardent, C.; Kruszewski, G.",
+    "year": 2012,
+    "title": "Generating grammar exercises",
+    "venue": "Proceedings of the Seventh Workshop on Building Educational Applications Using NLP",
+    "doi": null,
+    "type": "proceedings"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.18653/v1/p19-1504",
+     "title": "Generating Summaries with Topic Templates and Structured Convolutional Decoders",
+     "year": 2019,
+     "authors": "Perez-Beltrachini; Liu; Lapata",
+     "venue": "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+     "type": "proceedings-article",
+     "similarity": 0.374
+    },
+    {
+     "doi": "10.18653/v1/w16-6626",
+     "title": "The WebNLG Challenge: Generating Text from DBPedia Data",
+     "year": 2016,
+     "authors": "Colin; Gardent; Mrabet; Narayan; Perez-Beltrachini",
+     "venue": "Proceedings of the 9th International Natural Language Generation conference",
+     "type": "proceedings-article",
+     "similarity": 0.366
+    },
+    {
+     "doi": "10.18653/v1/w17-3518",
+     "title": "The WebNLG Challenge: Generating Text from RDF Data",
+     "year": 2017,
+     "authors": "Gardent; Shimorina; Narayan; Perez-Beltrachini",
+     "venue": "Proceedings of the 10th International Conference on Natural Language Generation",
+     "type": "proceedings-article",
+     "similarity": 0.359
+    }
+   ]
+  },
+  {
+   "id": "lange2018",
+   "cited": {
+    "authors": "Lange, H.; Ljunglöf, P.",
+    "year": 2018,
+    "title": "MULLE: A grammar-based Latin language learning tool to supplement the classroom setting",
+    "venue": "Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications",
+    "doi": "10.18653/v1/w18-3715",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.18653/v1/w18-3715",
+    "title": "MULLE: A grammar-based Latin language learning tool to supplement the classroom setting",
+    "year": 2018,
+    "authors": "Lange; Ljunglöf",
+    "venue": "Proceedings of the 5th Workshop on Natural Language Processing Techniques for Educational Applications",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mayhew2020",
+   "cited": {
+    "authors": "Mayhew, S.; Bicknell, K.; Brust, C.; McDowell, B.; Monroe, W.; Settles, B.",
+    "year": 2020,
+    "title": "Simultaneous translation and paraphrase for language education",
+    "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation",
+    "doi": "10.18653/v1/2020.ngt-1.28",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.18653/v1/2020.ngt-1.28",
+    "title": "Simultaneous Translation and Paraphrase for Language Education",
+    "year": 2020,
+    "authors": "Mayhew; Bicknell; Brust; McDowell; Monroe; Settles",
+    "venue": "Proceedings of the Fourth Workshop on Neural Generation and Translation",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gierl2012",
+   "cited": {
+    "authors": "Gierl, M. J.; Lai, H.; Turner, S. R.",
+    "year": 2012,
+    "title": "Using automatic item generation to create multiple-choice test items",
+    "venue": "Medical Education",
+    "doi": "10.1111/j.1365-2923.2012.04289.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1365-2923.2012.04289.x",
+    "title": "Using automatic item generation to create multiple‐choice test items",
+    "year": 2012,
+    "authors": "Gierl; Lai; Turner",
+    "venue": "Medical Education",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "list2016",
+   "cited": {
+    "authors": "List, J.-M.; Cysouw, M.; Forkel, R.",
+    "year": 2016,
+    "title": "Concepticon: A resource for the linking of concept lists",
+    "venue": "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)",
+    "doi": "10.63317/2kc62t62893m",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.63317/2kc62t62893m",
+    "title": "Concepticon: A Resource for the Linking of Concept Lists",
+    "year": 2016,
+    "authors": "List; Cysouw; Forkel",
+    "venue": "Proceedings of the Language Resources and Evaluation Conference",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "rzymski2020",
+   "cited": {
+    "authors": "Rzymski, C.; Tresoldi, T.; Greenhill, S. J.; Wu, M.-S.; Schweikhard, N. E.; Koptjevskaja-Tamm, M.; Gast, V.; Bodt, T. A.; Hantgan, A.; Kaiping, G. A.; Chang, S.; Lai, Y.; Morozova, N.; Arjava, H.; Hübler, N.; Koile, E.; Pepper, S.; Proos, M.; Van Epps, B.; Blanco, I.; Hundt, C.; Monakhov, S.; Pianykh, K.; Ramesh, S.; Gray, R. D.; Forkel, R.; List, J.-M.",
+    "year": 2020,
+    "title": "The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies",
+    "venue": "Scientific Data",
+    "doi": "10.1038/s41597-019-0341-x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1038/s41597-019-0341-x",
+    "title": "The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies",
+    "year": 2020,
+    "authors": "Rzymski; Tresoldi; Greenhill; Wu; Schweikhard; Koptjevskaja-Tamm; Gast; Bodt; Hantgan; Kaiping; Chang; Lai; Morozova; Arjava; Hübler; Koile; Pepper; Proos; Van Epps; Blanco; Hundt; Monakhov; Pianykh; Ramesh; Gray; Forkel; List",
+    "venue": "Scientific Data",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "forkel2018",
+   "cited": {
+    "authors": "Forkel, R.; List, J.-M.; Greenhill, S. J.; Rzymski, C.; Bank, S.; Cysouw, M.; Hammarström, H.; Haspelmath, M.; Kaiping, G. A.; Gray, R. D.",
+    "year": 2018,
+    "title": "Cross-Linguistic Data Formats, advancing data sharing and re-use in comparative linguistics",
+    "venue": "Scientific Data",
+    "doi": "10.1038/sdata.2018.205",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1038/sdata.2018.205",
+    "title": "Cross-Linguistic Data Formats, advancing data sharing and re-use in comparative linguistics",
+    "year": 2018,
+    "authors": "Forkel; List; Greenhill; Rzymski; Bank; Cysouw; Hammarström; Haspelmath; Kaiping; Gray",
+    "venue": "Scientific Data",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "miller1995",
+   "cited": {
+    "authors": "Miller, G. A.",
+    "year": 1995,
+    "title": "WordNet: A lexical database for English",
+    "venue": "Communications of the ACM",
+    "doi": "10.1145/219717.219748",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1145/219717.219748",
+    "title": "WordNet: a lexical database for English",
+    "year": 1995,
+    "authors": "Miller",
+    "venue": "Communications of the ACM",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mccrae2019",
+   "cited": {
+    "authors": "McCrae, J. P.; Rademaker, A.; Bond, F.; Rudnicka, E.; Fellbaum, C.",
+    "year": 2019,
+    "title": "English WordNet 2019 – An open-source WordNet for English",
+    "venue": "Proceedings of the 10th Global Wordnet Conference",
+    "doi": "10.18653/v1/2019.gwc-1.31",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.18653/v1/2019.gwc-1.31",
+    "title": "English WordNet 2019 – An Open-Source WordNet for English",
+    "year": 2019,
+    "authors": "McCrae; Rademaker; Bond; Rudnicka; Fellbaum",
+    "venue": "Proceedings of the 10th Global Wordnet Conference",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lamb2022",
+   "cited": {
+    "authors": "Lamb, C.; Zacchiroli, S.",
+    "year": 2022,
+    "title": "Reproducible builds: Increasing the integrity of software supply chains",
+    "venue": "IEEE Software",
+    "doi": "10.1109/MS.2021.3073045",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1109/ms.2021.3073045",
+    "title": "Reproducible Builds: Increasing the Integrity of Software Supply Chains",
+    "year": 2022,
+    "authors": "Lamb; Zacchiroli",
+    "venue": "IEEE Software",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "merigoux2021",
+   "cited": {
+    "authors": "Merigoux, D.; Chataing, N.; Protzenko, J.",
+    "year": 2021,
+    "title": "Catala: A programming language for the law",
+    "venue": "Proceedings of the ACM on Programming Languages",
+    "doi": "10.1145/3473582",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1145/3473582",
+    "title": "Catala: a programming language for the law",
+    "year": 2021,
+    "authors": "Merigoux; Chataing; Protzenko",
+    "venue": "Proceedings of the ACM on Programming Languages",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hilton2016",
+   "cited": {
+    "authors": "Hilton, M.; Tunnell, T.; Huang, K.; Marinov, D.; Dig, D.",
+    "year": 2016,
+    "title": "Usage, costs, and benefits of continuous integration in open-source projects",
+    "venue": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering (ASE 2016)",
+    "doi": "10.1145/2970276.2970358",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/2970276.2970358",
+    "title": "Usage, costs, and benefits of continuous integration in open-source projects",
+    "year": 2016,
+    "authors": "Hilton; Tunnell; Huang; Marinov; Dig",
+    "venue": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "tyree2005",
+   "cited": {
+    "authors": "Tyree, J.; Akerman, A.",
+    "year": 2005,
+    "title": "Architecture decisions: Demystifying architecture",
+    "venue": "IEEE Software",
+    "doi": "10.1109/MS.2005.27",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1109/ms.2005.27",
+    "title": "Architecture Decisions: Demystifying Architecture",
+    "year": 2005,
+    "authors": "Tyree; Akerman",
+    "venue": "IEEE Software",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "oepen1998",
+   "cited": {
+    "authors": "Oepen, S.; Flickinger, D. P.",
+    "year": 1998,
+    "title": "Towards systematic grammar profiling. Test suite technology 10 years after",
+    "venue": "Computer Speech & Language",
+    "doi": "10.1006/csla.1998.0105",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1006/csla.1998.0105",
+    "title": "Towards systematic grammar profiling.Test suite technology 10 years after",
+    "year": 1998,
+    "authors": "Oepen; Flickinger",
+    "venue": "Computer Speech &amp; Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "raemaekers2017",
+   "cited": {
+    "authors": "Raemaekers, S.; van Deursen, A.; Visser, J.",
+    "year": 2017,
+    "title": "Semantic versioning and impact of breaking changes in the Maven repository",
+    "venue": "Journal of Systems and Software",
+    "doi": "10.1016/j.jss.2016.04.008",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jss.2016.04.008",
+    "title": "Semantic versioning and impact of breaking changes in the Maven repository",
+    "year": 2017,
+    "authors": "Raemaekers; van Deursen; Visser",
+    "venue": "Journal of Systems and Software",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uesp2026",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24, read from the repository snapshot)",
+    "venue": "The Unofficial Elder Scrolls Pages",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "gf_typescript",
+   "cited": {
+    "authors": "Grammatical Framework developers",
+    "year": 2024,
+    "title": "gf-typescript: TypeScript runtime for Grammatical Framework (repository README)",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "gf_releases",
+   "cited": {
+    "authors": "Grammatical Framework developers",
+    "year": 2025,
+    "title": "gf-core releases (GF 3.12, 2025-08-08)",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "gf_license",
+   "cited": {
+    "authors": "Grammatical Framework developers",
+    "year": 2025,
+    "title": "GF Resource Grammar Library LICENSE and GF licence summary",
+    "venue": "grammaticalframework.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "cg3_license",
+   "cited": {
+    "authors": "GrammarSoft ApS",
+    "year": 2024,
+    "title": "Constraint Grammar Manual (CG-3), Chapter 2: License",
+    "venue": "edu.visl.dk",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "foma_repo",
+   "cited": {
+    "authors": "Hulden, M.",
+    "year": 2026,
+    "title": "foma: finite-state compiler and C library (repository)",
+    "venue": "GitHub",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "foma_wikipedia",
+   "cited": {
+    "authors": "Wikipedia contributors",
+    "year": 2026,
+    "title": "Foma (software)",
+    "venue": "Wikipedia",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "pyfoma_js",
+   "cited": {
+    "authors": "foma developers",
+    "year": 2026,
+    "title": "pyfoma JavaScript port (runs in the browser)",
+    "venue": "fomafst.github.io",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ohm_mirror",
+   "cited": {
+    "authors": "Ohm developers",
+    "year": 2026,
+    "title": "Ohm release files (v17.4.0, listing dated 2026-02-12; v17.5.0 named as latest)",
+    "venue": "SourceForge mirror of the Ohm GitHub releases",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "nearley_npm",
+   "cited": {
+    "authors": "Cloudsmith",
+    "year": 2026,
+    "title": "nearley npm package listing (2.20.1, last stable release about four years old)",
+    "venue": "Cloudsmith Navigator",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "concepticon_site",
+   "cited": {
+    "authors": "List, J.-M.; Tjuka, A.; Blum, F.; Kučerová, A.; Barrientos Ugarte, C.; Rzymski, C.; Greenhill, S.; Forkel, R. (eds.)",
+    "year": 2025,
+    "title": "CLLD Concepticon 3.4.0 (licence statement in the site footer)",
+    "venue": "concepticon.clld.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "oewn_license",
+   "cited": {
+    "authors": "Open English WordNet Community",
+    "year": 2024,
+    "title": "Open English WordNet 2024 (lexicon metadata and licence)",
+    "venue": "en-word.net",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

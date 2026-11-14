@@ -1,0 +1,852 @@
+[
+ {
+  "id": "nation2006",
+  "type": "article",
+  "authors": "Nation, I. S. P.",
+  "year": 2006,
+  "title": "How large a vocabulary is needed for reading and listening?",
+  "venue": "Canadian Modern Language Review",
+  "doi": "10.3138/cmlr.63.1.59",
+  "url": null
+ },
+ {
+  "id": "schmitt2011",
+  "type": "article",
+  "authors": "Schmitt, N.; Jiang, X.; Grabe, W.",
+  "year": 2011,
+  "title": "The percentage of words known in a text and reading comprehension",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/j.1540-4781.2011.01146.x",
+  "url": null
+ },
+ {
+  "id": "vanzeeland2013",
+  "type": "article",
+  "authors": "van Zeeland, H.; Schmitt, N.",
+  "year": 2013,
+  "title": "Lexical coverage in L1 and L2 listening comprehension: The same or different from reading comprehension?",
+  "venue": "Applied Linguistics",
+  "doi": "10.1093/applin/ams074",
+  "url": null
+ },
+ {
+  "id": "adolphs2003",
+  "type": "article",
+  "authors": "Adolphs, S.; Schmitt, N.",
+  "year": 2003,
+  "title": "Lexical coverage of spoken discourse",
+  "venue": "Applied Linguistics",
+  "doi": "10.1093/applin/24.4.425",
+  "url": null
+ },
+ {
+  "id": "laufer2010",
+  "type": "article",
+  "authors": "Laufer, B.; Ravenhorst-Kalovski, G. C.",
+  "year": 2010,
+  "title": "Lexical threshold revisited: Lexical text coverage, learners' vocabulary size and reading comprehension",
+  "venue": "Reading in a Foreign Language",
+  "doi": "10.64152/10125/66648",
+  "url": null
+ },
+ {
+  "id": "nation2022",
+  "type": "book",
+  "authors": "Nation, I. S. P.",
+  "year": 2022,
+  "title": "Learning Vocabulary in Another Language",
+  "venue": "Cambridge University Press (3rd ed.)",
+  "doi": "10.1017/9781009093873",
+  "url": null
+ },
+ {
+  "id": "brezina2015",
+  "type": "article",
+  "authors": "Brezina, V.; Gablasova, D.",
+  "year": 2015,
+  "title": "Is there a core general vocabulary? Introducing the New General Service List",
+  "venue": "Applied Linguistics",
+  "doi": "10.1093/applin/amt018",
+  "url": null
+ },
+ {
+  "id": "browne2014",
+  "type": "article",
+  "authors": "Browne, C.",
+  "year": 2014,
+  "title": "A New General Service List: The better mousetrap we've been looking for?",
+  "venue": "Vocabulary Learning and Instruction",
+  "doi": "10.7820/vli.v03.2.browne",
+  "url": null
+ },
+ {
+  "id": "swadesh1955",
+  "type": "article",
+  "authors": "Swadesh, M.",
+  "year": 1955,
+  "title": "Towards greater accuracy in lexicostatistic dating",
+  "venue": "International Journal of American Linguistics",
+  "doi": "10.1086/464321",
+  "url": null
+ },
+ {
+  "id": "tadmor2009",
+  "type": "chapter",
+  "authors": "Tadmor, U.",
+  "year": 2009,
+  "title": "Loanwords in the world's languages: Findings and results",
+  "venue": "In Haspelmath, M. & Tadmor, U. (eds.), Loanwords in the World's Languages: A Comparative Handbook. De Gruyter Mouton",
+  "doi": "10.1515/9783110218442.55",
+  "url": null
+ },
+ {
+  "id": "tadmor2010",
+  "type": "article",
+  "authors": "Tadmor, U.; Haspelmath, M.; Taylor, B.",
+  "year": 2010,
+  "title": "Borrowability and the notion of basic vocabulary",
+  "venue": "Diachronica",
+  "doi": "10.1075/dia.27.2.04tad",
+  "url": null
+ },
+ {
+  "id": "goddard2014",
+  "type": "book",
+  "authors": "Goddard, C.; Wierzbicka, A.",
+  "year": 2014,
+  "title": "Words and Meanings: Lexical Semantics across Domains, Languages, and Cultures",
+  "venue": "Oxford University Press",
+  "doi": "10.1093/acprof:oso/9780199668434.001.0001",
+  "url": null
+ },
+ {
+  "id": "list2016",
+  "type": "proceedings",
+  "authors": "List, J.-M.; Cysouw, M.; Forkel, R.",
+  "year": 2016,
+  "title": "Concepticon: A resource for the linking of concept lists",
+  "venue": "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC 2016)",
+  "doi": "10.63317/2kc62t62893m",
+  "url": "https://aclanthology.org/L16-1379/"
+ },
+ {
+  "id": "rzymski2020",
+  "type": "article",
+  "authors": "Rzymski, C.; Tresoldi, T.; Greenhill, S. J.; Wu, M.-S.; Schweikhard, N. E.; Koptjevskaja-Tamm, M.; Gast, V.; Bodt, T. A.; Hantgan, A.; Kaiping, G. A.; Chang, S.; Lai, Y.; Morozova, N.; Arjava, H.; Hübler, N.; Koile, E.; Pepper, S.; Proos, M.; Van Epps, B.; Blanco, I.; Hundt, C.; Monakhov, S.; Pianykh, K.; Ramesh, S.; Gray, R. D.; Forkel, R.; List, J.-M.",
+  "year": 2020,
+  "title": "The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies",
+  "venue": "Scientific Data",
+  "doi": "10.1038/s41597-019-0341-x",
+  "url": null
+ },
+ {
+  "id": "ogden1930",
+  "type": "book",
+  "authors": "Ogden, C. K.",
+  "year": 1930,
+  "title": "Basic English: A General Introduction with Rules and Grammar",
+  "venue": "Kegan Paul, Trench, Trubner",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "piantadosi2011",
+  "type": "article",
+  "authors": "Piantadosi, S. T.; Tily, H.; Gibson, E.",
+  "year": 2011,
+  "title": "Word lengths are optimized for efficient communication",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.1012551108",
+  "url": null
+ },
+ {
+  "id": "kanwal2017",
+  "type": "article",
+  "authors": "Kanwal, J.; Smith, K.; Culbertson, J.; Kirby, S.",
+  "year": 2017,
+  "title": "Zipf's Law of Abbreviation and the Principle of Least Effort: Language users optimise a miniature lexicon for efficient communication",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2017.05.001",
+  "url": null
+ },
+ {
+  "id": "bentz2016",
+  "type": "proceedings",
+  "authors": "Bentz, C.; Ferrer-i-Cancho, R.",
+  "year": 2016,
+  "title": "Zipf's law of abbreviation as a language universal",
+  "venue": "Proceedings of the Leiden Workshop on Capturing Phylogenetic Algorithms for Linguistics. University of Tübingen",
+  "doi": "10.15496/publikation-10057",
+  "url": null
+ },
+ {
+  "id": "meylan2021",
+  "type": "article",
+  "authors": "Meylan, S. C.; Griffiths, T. L.",
+  "year": 2021,
+  "title": "The Challenges of Large-Scale, Web-Based Language Datasets: Word Length and Predictability Revisited",
+  "venue": "Cognitive Science",
+  "doi": "10.1111/cogs.12983",
+  "url": null
+ },
+ {
+  "id": "pimentel2023",
+  "type": "proceedings",
+  "authors": "Pimentel, T.; Meister, C.; Wilcox, E. G.; Mahowald, K.; Cotterell, R.",
+  "year": 2023,
+  "title": "Revisiting the Optimality of Word Lengths",
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "doi": "10.18653/v1/2023.emnlp-main.137",
+  "url": null
+ },
+ {
+  "id": "petrini2023",
+  "type": "article",
+  "authors": "Petrini, S.; Casas-i-Muñoz, A.; Cluet-i-Martinell, J.; Wang, M.; Bentz, C.; Ferrer-i-Cancho, R.",
+  "year": 2023,
+  "title": "Direct and indirect evidence of compression of word lengths. Zipf's law of abbreviation revisited",
+  "venue": "Glottometrics",
+  "doi": "10.53482/2023_54_407",
+  "url": null
+ },
+ {
+  "id": "piantadosi2012",
+  "type": "article",
+  "authors": "Piantadosi, S. T.; Tily, H.; Gibson, E.",
+  "year": 2012,
+  "title": "The communicative function of ambiguity in language",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2011.10.004",
+  "url": null
+ },
+ {
+  "id": "trott2020",
+  "type": "article",
+  "authors": "Trott, S.; Bergen, B.",
+  "year": 2020,
+  "title": "Why do human languages have homophones?",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2020.104449",
+  "url": null
+ },
+ {
+  "id": "wedel2013",
+  "type": "article",
+  "authors": "Wedel, A.; Kaplan, A.; Jackson, S.",
+  "year": 2013,
+  "title": "High functional load inhibits phonological contrast loss: A corpus study",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2013.03.002",
+  "url": null
+ },
+ {
+  "id": "dautriche2017a",
+  "type": "article",
+  "authors": "Dautriche, I.; Mahowald, K.; Gibson, E.; Christophe, A.; Piantadosi, S. T.",
+  "year": 2017,
+  "title": "Words cluster phonetically beyond phonotactic regularities",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2017.02.001",
+  "url": null
+ },
+ {
+  "id": "dautriche2017b",
+  "type": "article",
+  "authors": "Dautriche, I.; Mahowald, K.; Gibson, E.; Piantadosi, S. T.",
+  "year": 2017,
+  "title": "Wordform Similarity Increases With Semantic Similarity: An Analysis of 100 Languages",
+  "venue": "Cognitive Science",
+  "doi": "10.1111/cogs.12453",
+  "url": null
+ },
+ {
+  "id": "mahowald2018",
+  "type": "article",
+  "authors": "Mahowald, K.; Dautriche, I.; Gibson, E.; Piantadosi, S. T.",
+  "year": 2018,
+  "title": "Word Forms Are Structured for Efficient Use",
+  "venue": "Cognitive Science",
+  "doi": "10.1111/cogs.12689",
+  "url": null
+ },
+ {
+  "id": "luce1998",
+  "type": "article",
+  "authors": "Luce, P. A.; Pisoni, D. B.",
+  "year": 1998,
+  "title": "Recognizing spoken words: The neighborhood activation model",
+  "venue": "Ear and Hearing",
+  "doi": "10.1097/00003446-199802000-00001",
+  "url": null
+ },
+ {
+  "id": "vitevitch1999",
+  "type": "article",
+  "authors": "Vitevitch, M. S.; Luce, P. A.",
+  "year": 1999,
+  "title": "Probabilistic Phonotactics and Neighborhood Activation in Spoken Word Recognition",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1006/jmla.1998.2618",
+  "url": null
+ },
+ {
+  "id": "storkel2006",
+  "type": "article",
+  "authors": "Storkel, H. L.; Armbrüster, J.; Hogan, T. P.",
+  "year": 2006,
+  "title": "Differentiating phonotactic probability and neighborhood density in adult word learning",
+  "venue": "Journal of Speech, Language, and Hearing Research",
+  "doi": "10.1044/1092-4388(2006/085)",
+  "url": null
+ },
+ {
+  "id": "hayes2008",
+  "type": "article",
+  "authors": "Hayes, B.; Wilson, C.",
+  "year": 2008,
+  "title": "A Maximum Entropy Model of Phonotactics and Phonotactic Learning",
+  "venue": "Linguistic Inquiry",
+  "doi": "10.1162/ling.2008.39.3.379",
+  "url": null
+ },
+ {
+  "id": "bailey2001",
+  "type": "article",
+  "authors": "Bailey, T. M.; Hahn, U.",
+  "year": 2001,
+  "title": "Determinants of Wordlikeness: Phonotactics or Lexical Neighborhoods?",
+  "venue": "Journal of Memory and Language",
+  "doi": "10.1006/jmla.2000.2756",
+  "url": null
+ },
+ {
+  "id": "blasi2016",
+  "type": "article",
+  "authors": "Blasi, D. E.; Wichmann, S.; Hammarström, H.; Stadler, P. F.; Christiansen, M. H.",
+  "year": 2016,
+  "title": "Sound-meaning association biases evidenced across thousands of languages",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.1605782113",
+  "url": null
+ },
+ {
+  "id": "cwiek2022",
+  "type": "article",
+  "authors": "Ćwiek, A.; Fuchs, S.; Draxler, C.; Asu, E. L.; Dediu, D.; Hiovain, K.; Kawahara, S.; Koutalidis, S.; Krifka, M.; Lippus, P.; Lupyan, G.; Oh, G. E.; Paul, J.; Petrone, C.; Ridouane, R.; Reiter, S.; Schümchen, N.; Szalontai, Á.; Ünal-Logacev, Ö.; Zeller, J.; Perlman, M.; Winter, B.",
+  "year": 2022,
+  "title": "The bouba/kiki effect is robust across cultures and writing systems",
+  "venue": "Philosophical Transactions of the Royal Society B",
+  "doi": "10.1098/rstb.2020.0390",
+  "url": null
+ },
+ {
+  "id": "dingemanse2015",
+  "type": "article",
+  "authors": "Dingemanse, M.; Blasi, D. E.; Lupyan, G.; Christiansen, M. H.; Monaghan, P.",
+  "year": 2015,
+  "title": "Arbitrariness, Iconicity, and Systematicity in Language",
+  "venue": "Trends in Cognitive Sciences",
+  "doi": "10.1016/j.tics.2015.07.013",
+  "url": null
+ },
+ {
+  "id": "sidhu2018",
+  "type": "article",
+  "authors": "Sidhu, D. M.; Pexman, P. M.",
+  "year": 2018,
+  "title": "Five mechanisms of sound symbolic association",
+  "venue": "Psychonomic Bulletin & Review",
+  "doi": "10.3758/s13423-017-1361-1",
+  "url": null
+ },
+ {
+  "id": "monaghan2014",
+  "type": "article",
+  "authors": "Monaghan, P.; Shillcock, R. C.; Christiansen, M. H.; Kirby, S.",
+  "year": 2014,
+  "title": "How arbitrary is language?",
+  "venue": "Philosophical Transactions of the Royal Society B",
+  "doi": "10.1098/rstb.2013.0299",
+  "url": null
+ },
+ {
+  "id": "winter2024",
+  "type": "article",
+  "authors": "Winter, B.; Lupyan, G.; Perry, L. K.; Dingemanse, M.; Perlman, M.",
+  "year": 2024,
+  "title": "Iconicity ratings for 14,000+ English words",
+  "venue": "Behavior Research Methods",
+  "doi": "10.3758/s13428-023-02112-6",
+  "url": null
+ },
+ {
+  "id": "winter2022",
+  "type": "article",
+  "authors": "Winter, B.; Sóskuthy, M.; Perlman, M.; Dingemanse, M.",
+  "year": 2022,
+  "title": "Trilled /r/ is associated with roughness, linking sound and touch across spoken languages",
+  "venue": "Scientific Reports",
+  "doi": "10.1038/s41598-021-04311-7",
+  "url": null
+ },
+ {
+  "id": "francois2008",
+  "type": "chapter",
+  "authors": "François, A.",
+  "year": 2008,
+  "title": "Semantic maps and the typology of colexification: Intertwining polysemous networks across languages",
+  "venue": "In Vanhove, M. (ed.), From Polysemy to Semantic Change. John Benjamins",
+  "doi": "10.1075/slcs.106.09fra",
+  "url": null
+ },
+ {
+  "id": "xu2020",
+  "type": "article",
+  "authors": "Xu, Y.; Duong, K.; Malt, B. C.; Jiang, S.; Srinivasan, M.",
+  "year": 2020,
+  "title": "Conceptual relations predict colexification across languages",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2020.104280",
+  "url": null
+ },
+ {
+  "id": "youn2016",
+  "type": "article",
+  "authors": "Youn, H.; Sutton, L.; Smith, E.; Moore, C.; Wilkins, J. F.; Maddieson, I.; Croft, W.; Bhattacharya, T.",
+  "year": 2016,
+  "title": "On the universal structure of human lexical semantics",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.1520752113",
+  "url": null
+ },
+ {
+  "id": "karjus2021",
+  "type": "article",
+  "authors": "Karjus, A.; Blythe, R. A.; Kirby, S.; Wang, T.; Smith, K.",
+  "year": 2021,
+  "title": "Conceptual Similarity and Communicative Need Shape Colexification: An Experimental Study",
+  "venue": "Cognitive Science",
+  "doi": "10.1111/cogs.13035",
+  "url": null
+ },
+ {
+  "id": "brochhagen2022",
+  "type": "article",
+  "authors": "Brochhagen, T.; Boleda, G.",
+  "year": 2022,
+  "title": "When do languages use the same word for different meanings? The Goldilocks principle in colexification",
+  "venue": "Cognition",
+  "doi": "10.1016/j.cognition.2022.105179",
+  "url": null
+ },
+ {
+  "id": "stekauer2012",
+  "type": "book",
+  "authors": "Štekauer, P.; Valera, S.; Körtvélyessy, L.",
+  "year": 2012,
+  "title": "Word-Formation in the World's Languages: A Typological Survey",
+  "venue": "Cambridge University Press",
+  "doi": "10.1017/CBO9780511895005",
+  "url": null
+ },
+ {
+  "id": "gibson2019",
+  "type": "article",
+  "authors": "Gibson, E.; Futrell, R.; Piantadosi, S. T.; Dautriche, I.; Mahowald, K.; Bergen, L.; Levy, R.",
+  "year": 2019,
+  "title": "How Efficiency Shapes Human Language",
+  "venue": "Trends in Cognitive Sciences",
+  "doi": "10.1016/j.tics.2019.02.003",
+  "url": null
+ },
+ {
+  "id": "cooper1989",
+  "type": "book",
+  "authors": "Cooper, R. L.",
+  "year": 1989,
+  "title": "Language Planning and Social Change",
+  "venue": "Cambridge University Press",
+  "doi": "10.1017/CBO9780511620812",
+  "url": null
+ },
+ {
+  "id": "haugen1966",
+  "type": "article",
+  "authors": "Haugen, E.",
+  "year": 1966,
+  "title": "Dialect, Language, Nation",
+  "venue": "American Anthropologist",
+  "doi": "10.1525/aa.1966.68.4.02a00040",
+  "url": null
+ },
+ {
+  "id": "fellman1973",
+  "type": "book",
+  "authors": "Fellman, J.",
+  "year": 1973,
+  "title": "The Revival of a Classical Tongue: Eliezer Ben Yehuda and the Modern Hebrew Language",
+  "venue": "Mouton",
+  "doi": "10.1515/9783110879100",
+  "url": null
+ },
+ {
+  "id": "zuckermann2003",
+  "type": "book",
+  "authors": "Zuckermann, G.",
+  "year": 2003,
+  "title": "Language Contact and Lexical Enrichment in Israeli Hebrew",
+  "venue": "Palgrave Macmillan",
+  "doi": "10.1057/9781403938695",
+  "url": null
+ },
+ {
+  "id": "zuckermann2011",
+  "type": "article",
+  "authors": "Zuckermann, G.; Walsh, M.",
+  "year": 2011,
+  "title": "Stop, Revive, Survive: Lessons from the Hebrew Revival Applicable to the Reclamation, Maintenance and Empowerment of Aboriginal Languages and Cultures",
+  "venue": "Australian Journal of Linguistics",
+  "doi": "10.1080/07268602.2011.532859",
+  "url": null
+ },
+ {
+  "id": "spolsky1995",
+  "type": "article",
+  "authors": "Spolsky, B.",
+  "year": 1995,
+  "title": "Conditions for Language Revitalization: A Comparison of the Cases of Hebrew and Maori",
+  "venue": "Current Issues in Language and Society",
+  "doi": "10.1080/13520529509615444",
+  "url": null
+ },
+ {
+  "id": "hilmarsson2010",
+  "type": "article",
+  "authors": "Hilmarsson-Dunn, A.; Kristinsson, A. P.",
+  "year": 2010,
+  "title": "The language situation in Iceland",
+  "venue": "Current Issues in Language Planning",
+  "doi": "10.1080/14664208.2010.538008",
+  "url": null
+ },
+ {
+  "id": "vikor2010",
+  "type": "article",
+  "authors": "Vikør, L. S.",
+  "year": 2010,
+  "title": "Language purism in the Nordic countries",
+  "venue": "International Journal of the Sociology of Language",
+  "doi": "10.1515/ijsl.2010.028",
+  "url": null
+ },
+ {
+  "id": "graedler2010",
+  "type": "article",
+  "authors": "Graedler, A.-L.; Kvaran, G.",
+  "year": 2010,
+  "title": "Foreign influence on the written language in the Nordic language communities",
+  "venue": "International Journal of the Sociology of Language",
+  "doi": "10.1515/ijsl.2010.029",
+  "url": null
+ },
+ {
+  "id": "trinick2013",
+  "type": "article",
+  "authors": "Trinick, T.; May, S.",
+  "year": 2013,
+  "title": "Developing a Māori language mathematics lexicon: challenges for corpus planning in indigenous language contexts",
+  "venue": "Current Issues in Language Planning",
+  "doi": "10.1080/14664208.2013.835149",
+  "url": null
+ },
+ {
+  "id": "kimura2009",
+  "type": "chapter",
+  "authors": "Kimura, L.; Counceller, A. G. L.",
+  "year": 2009,
+  "title": "Indigenous new words creation: Perspectives from Alaska and Hawai'i",
+  "venue": "In Reyhner, J. & Lockard, L. (eds.), Indigenous Language Revitalization: Encouragement, Guidance & Lessons Learned. Northern Arizona University",
+  "doi": null,
+  "url": "https://listserv.linguistlist.org/pipermail/ilat/2014-August/009090.html"
+ },
+ {
+  "id": "sayers2012",
+  "type": "article",
+  "authors": "Sayers, D.",
+  "year": 2012,
+  "title": "Standardising Cornish: The politics of a new minority language",
+  "venue": "Language Problems and Language Planning",
+  "doi": "10.1075/lplp.36.2.01say",
+  "url": null
+ },
+ {
+  "id": "sayers2015",
+  "type": "article",
+  "authors": "Sayers, D.; Renkó-Michelsén, Z.",
+  "year": 2015,
+  "title": "Phoenix from the Ashes: Reconstructed Cornish in relation to Einar Haugen's four-step model of language standardisation",
+  "venue": "Sociolinguistica",
+  "doi": "10.1515/soci-2015-0004",
+  "url": null
+ },
+ {
+  "id": "nighearain2011",
+  "type": "article",
+  "authors": "Ní Ghearáin, H.",
+  "year": 2011,
+  "title": "The problematic relationship between institutionalised Irish terminology development and the Gaeltacht speech community: dynamics of acceptance and estrangement",
+  "venue": "Language Policy",
+  "doi": "10.1007/s10993-011-9216-5",
+  "url": null
+ },
+ {
+  "id": "quirion2003",
+  "type": "article",
+  "authors": "Quirion, J.",
+  "year": 2003,
+  "title": "Methodology for the design of a standard research protocol for measuring terminology usage",
+  "venue": "Terminology",
+  "doi": "10.1075/term.9.1.03qui",
+  "url": null
+ },
+ {
+  "id": "schreyer2011",
+  "type": "article",
+  "authors": "Schreyer, C.",
+  "year": 2011,
+  "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+  "venue": "Current Issues in Language Planning",
+  "doi": "10.1080/14664208.2011.604965",
+  "url": null
+ },
+ {
+  "id": "schreyer2021",
+  "type": "article",
+  "authors": "Schreyer, C.",
+  "year": 2021,
+  "title": "Constructed Languages",
+  "venue": "Annual Review of Anthropology",
+  "doi": "10.1146/annurev-anthro-101819-110152",
+  "url": null
+ },
+ {
+  "id": "fiedler2006",
+  "type": "article",
+  "authors": "Fiedler, S.",
+  "year": 2006,
+  "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+  "venue": "International Journal of the Sociology of Language",
+  "doi": "10.1515/IJSL.2006.005",
+  "url": null
+ },
+ {
+  "id": "blanke2009",
+  "type": "article",
+  "authors": "Blanke, D.",
+  "year": 2009,
+  "title": "Causes of the relative success of Esperanto",
+  "venue": "Language Problems and Language Planning",
+  "doi": "10.1075/lplp.33.3.04bla",
+  "url": null
+ },
+ {
+  "id": "garvia2015",
+  "type": "book",
+  "authors": "Garvía, R.",
+  "year": 2015,
+  "title": "Esperanto and Its Rivals: The Struggle for an International Language",
+  "venue": "University of Pennsylvania Press",
+  "doi": "10.9783/9780812291278",
+  "url": null
+ },
+ {
+  "id": "okrent2009",
+  "type": "book",
+  "authors": "Okrent, A.",
+  "year": 2009,
+  "title": "In the Land of Invented Languages",
+  "venue": "Spiegel & Grau",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "peterson2015",
+  "type": "book",
+  "authors": "Peterson, D. J.",
+  "year": 2015,
+  "title": "The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building",
+  "venue": "Penguin Books",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "harlow2007",
+  "type": "book",
+  "authors": "Harlow, R.",
+  "year": 2007,
+  "title": "Māori: A Linguistic Introduction",
+  "venue": "Cambridge University Press",
+  "doi": "10.1017/CBO9780511618697",
+  "url": null
+ },
+ {
+  "id": "krageloh2014",
+  "type": "article",
+  "authors": "Krägeloh, C. U.; Neha, T. N.",
+  "year": 2014,
+  "title": "Lexical expansion and terminological planning in indigenous and planned languages: Comparisons between Te Reo Māori and Esperanto",
+  "venue": "Language Problems and Language Planning",
+  "doi": "10.1075/lplp.38.1.04kra",
+  "url": null
+ },
+ {
+  "id": "walker2025",
+  "type": "proceedings",
+  "authors": "Walker, S.; Wu, W.; Torres Fischer, B.; Kimura, L.",
+  "year": 2025,
+  "title": "Kuene: A Web Platform for Facilitating Hawaiian Word Neologism",
+  "venue": "Proceedings of the Eight Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8), pp. 182-187. Association for Computational Linguistics",
+  "url": "https://aclanthology.org/2025.computel-main.21/",
+  "doi": null
+ },
+ {
+  "id": "jokulsdottir2019",
+  "type": "article",
+  "authors": "Jökulsdóttir, T. F.; Ingason, A. K.; Sigurjónsdóttir, S.; Rögnvaldsson, E.",
+  "year": 2019,
+  "title": "Um nýyrði sem tengjast tölvum og tækni",
+  "venue": "Orð og tunga",
+  "doi": "10.33112/ordogtunga.21.6",
+  "url": null
+ },
+ {
+  "id": "lang2014",
+  "type": "book",
+  "authors": "Lang, S.",
+  "year": 2014,
+  "title": "Toki Pona: The Language of Good",
+  "venue": "Tawhid",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "lang2021",
+  "type": "book",
+  "authors": "Lang, S.",
+  "year": 2021,
+  "title": "Toki Pona Dictionary",
+  "venue": "Tawhid",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "ahl_word",
+  "type": "web",
+  "authors": "Academy of the Hebrew Language",
+  "year": null,
+  "title": "How a Word is Born",
+  "venue": "en.hebrew-academy.org.il",
+  "url": "https://en.hebrew-academy.org.il/?p=78",
+  "doi": null
+ },
+ {
+  "id": "ahl_plenum",
+  "type": "web",
+  "authors": "Academy of the Hebrew Language",
+  "year": null,
+  "title": "Plenum And Committees",
+  "venue": "en.hebrew-academy.org.il",
+  "url": "https://en.hebrew-academy.org.il/?p=182",
+  "doi": null
+ },
+ {
+  "id": "hpr2020",
+  "type": "web",
+  "authors": "Hawai'i Public Radio",
+  "year": 2020,
+  "title": "There's craft, conflict in creating new 'ōlelo Hawai'i words",
+  "venue": "Hawai'i Public Radio, 5 February 2020",
+  "url": "https://www.hawaiipublicradio.org/general-assignment/2020-02-05/theres-craft-conflict-in-creating-new-lelo-hawai-i-words",
+  "doi": null
+ },
+ {
+  "id": "kli_newwords",
+  "type": "web",
+  "authors": "Klingon Language Institute",
+  "year": null,
+  "title": "New Klingon Words",
+  "venue": "kli.org",
+  "url": "https://www.kli.org/about-klingon/new-klingon-words/e/",
+  "doi": null
+ },
+ {
+  "id": "klingonska_canon",
+  "type": "web",
+  "authors": "klingonska.org",
+  "year": null,
+  "title": "Archive of Okrandian Canon",
+  "venue": "klingonska.org",
+  "url": "https://klingonska.org/canon/",
+  "doi": null
+ },
+ {
+  "id": "kelutral_about",
+  "type": "web",
+  "authors": "Kelutral.org",
+  "year": null,
+  "title": "kelutral.org: About (describes the Lexical Expansion Project)",
+  "venue": "kelutral.org",
+  "url": "https://kelutral.org/about",
+  "doi": null
+ },
+ {
+  "id": "lojban_baseline2002",
+  "type": "web",
+  "authors": "Logical Language Group",
+  "year": 2002,
+  "title": "Official Baseline Statement",
+  "venue": "lojban.org wiki",
+  "url": "https://tiki.lojban.org/Official+Baseline+Statement",
+  "doi": null
+ },
+ {
+  "id": "lojban_baseline1997",
+  "type": "web",
+  "authors": "Logical Language Group",
+  "year": 1997,
+  "title": "1997 Baseline Announcement",
+  "venue": "lojban.org wiki",
+  "url": "https://tiki.lojban.org/1997+Baseline+Announcement",
+  "doi": null
+ },
+ {
+  "id": "sona_nimiku",
+  "type": "web",
+  "authors": "sona pona wiki contributors",
+  "year": null,
+  "title": "nimi ku",
+  "venue": "sona.pona.la",
+  "url": "https://sona.pona.la/wiki/nimi_ku",
+  "doi": null
+ },
+ {
+  "id": "thuum_manual",
+  "type": "web",
+  "authors": "Thuum.org",
+  "year": null,
+  "title": "Contributor's manual (thuum.org, a community for the dragon language of The Elder Scrolls V: Skyrim)",
+  "venue": "thuum.org; seen only as a search-result summary, the site refuses automated requests",
+  "url": "https://www.thuum.org/manual.php",
+  "doi": null
+ },
+ {
+  "id": "uesp_dragon_language",
+  "type": "web",
+  "authors": "UESP contributors",
+  "year": 2026,
+  "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+  "venue": "The Unofficial Elder Scrolls Pages (UESP)",
+  "url": "https://en.uesp.net/wiki/Lore:Dragon_Language",
+  "doi": null
+ }
+]

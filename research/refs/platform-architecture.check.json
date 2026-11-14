@@ -1,0 +1,721 @@
+{
+ "source": "research/refs/platform-architecture.json",
+ "counts": {
+  "verified": 23,
+  "manual": 21
+ },
+ "results": [
+  {
+   "id": "kleppmann2019",
+   "cited": {
+    "authors": "Kleppmann, M.; Wiggins, A.; van Hardenberg, P.; McGranaghan, M.",
+    "year": 2019,
+    "title": "Local-first software: you own your data, in spite of the cloud",
+    "venue": "Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software (Onward! 2019)",
+    "doi": "10.1145/3359591.3359737",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3359591.3359737",
+    "title": "Local-first software: you own your data, in spite of the cloud",
+    "year": 2019,
+    "authors": "Kleppmann; Wiggins; van Hardenberg; McGranaghan",
+    "venue": "Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "shapiro2011",
+   "cited": {
+    "authors": "Shapiro, M.; Preguiça, N.; Baquero, C.; Zawirski, M.",
+    "year": 2011,
+    "title": "Conflict-Free Replicated Data Types",
+    "venue": "Stabilization, Safety, and Security of Distributed Systems (SSS 2011), LNCS 6976",
+    "doi": "10.1007/978-3-642-24550-3_29",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-642-24550-3_29",
+    "title": "Conflict-Free Replicated Data Types",
+    "year": 2011,
+    "authors": "Shapiro; Preguiça; Baquero; Zawirski",
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kleppmann2022",
+   "cited": {
+    "authors": "Kleppmann, M.",
+    "year": 2022,
+    "title": "Making CRDTs Byzantine fault tolerant",
+    "venue": "Proceedings of the 9th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC '22)",
+    "doi": "10.1145/3517209.3524042",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3517209.3524042",
+    "title": "Making CRDTs Byzantine fault tolerant",
+    "year": 2022,
+    "authors": "Kleppmann",
+    "venue": "Proceedings of the 9th Workshop on Principles and Practice of Consistency for Distributed Data",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "samuel2010",
+   "cited": {
+    "authors": "Samuel, J.; Mathewson, N.; Cappos, J.; Dingledine, R.",
+    "year": 2010,
+    "title": "Survivable key compromise in software update systems",
+    "venue": "Proceedings of the 17th ACM Conference on Computer and Communications Security (CCS '10)",
+    "doi": "10.1145/1866307.1866315",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/1866307.1866315",
+    "title": "Survivable key compromise in software update systems",
+    "year": 2010,
+    "authors": "Samuel; Mathewson; Cappos; Dingledine",
+    "venue": "Proceedings of the 17th ACM conference on Computer and communications security",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "newman2022",
+   "cited": {
+    "authors": "Newman, Z.; Meyers, J. S.; Torres-Arias, S.",
+    "year": 2022,
+    "title": "Sigstore: Software Signing for Everybody",
+    "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS '22)",
+    "doi": "10.1145/3548606.3560596",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3548606.3560596",
+    "title": "Sigstore: Software Signing for Everybody",
+    "year": 2022,
+    "authors": "Newman; Meyers; Torres-Arias",
+    "venue": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lamb2022",
+   "cited": {
+    "authors": "Lamb, C.; Zacchiroli, S.",
+    "year": 2022,
+    "title": "Reproducible Builds: Increasing the Integrity of Software Supply Chains",
+    "venue": "IEEE Software",
+    "doi": "10.1109/MS.2021.3073045",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1109/ms.2021.3073045",
+    "title": "Reproducible Builds: Increasing the Integrity of Software Supply Chains",
+    "year": 2022,
+    "authors": "Lamb; Zacchiroli",
+    "venue": "IEEE Software",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bernstein2012",
+   "cited": {
+    "authors": "Bernstein, D. J.; Duif, N.; Lange, T.; Schwabe, P.; Yang, B.-Y.",
+    "year": 2012,
+    "title": "High-speed high-security signatures",
+    "venue": "Journal of Cryptographic Engineering",
+    "doi": "10.1007/s13389-012-0027-1",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1007/s13389-012-0027-1",
+    "title": "High-speed high-security signatures",
+    "year": 2012,
+    "authors": "Bernstein; Duif; Lange; Schwabe; Yang",
+    "venue": "Journal of Cryptographic Engineering",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "biornhansen2017",
+   "cited": {
+    "authors": "Biørn-Hansen, A.; Majchrzak, T. A.; Grønli, T.-M.",
+    "year": 2017,
+    "title": "Progressive Web Apps: The Possible Web-native Unifier for Mobile Development",
+    "venue": "Proceedings of the 13th International Conference on Web Information Systems and Technologies (WEBIST 2017)",
+    "doi": "10.5220/0006353703440351",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.5220/0006353703440351",
+    "title": "Progressive Web Apps: The Possible Web-native Unifier for Mobile Development",
+    "year": 2017,
+    "authors": "Biørn-Hansen; Majchrzak; Grønli",
+    "venue": "Proceedings of the 13th International Conference on Web Information Systems and Technologies",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "majchrzak2018",
+   "cited": {
+    "authors": "Majchrzak, T. A.; Biørn-Hansen, A.; Grønli, T.-M.",
+    "year": 2018,
+    "title": "Progressive Web Apps: the Definite Approach to Cross-Platform Development?",
+    "venue": "Proceedings of the 51st Hawaii International Conference on System Sciences (HICSS)",
+    "doi": "10.24251/HICSS.2018.718",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.24251/hicss.2018.718",
+    "title": "Progressive Web Apps: the Definite Approach to Cross-Platform Development?",
+    "year": 2018,
+    "authors": "Majchrzak; Biørn-Hansen; Grønli",
+    "venue": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "biornhansen2018",
+   "cited": {
+    "authors": "Biørn-Hansen, A.; Grønli, T.-M.; Ghinea, G.",
+    "year": 2018,
+    "title": "A Survey and Taxonomy of Core Concepts and Research Challenges in Cross-Platform Mobile Development",
+    "venue": "ACM Computing Surveys",
+    "doi": "10.1145/3241739",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1145/3241739",
+    "title": "A Survey and Taxonomy of Core Concepts and Research Challenges in Cross-Platform Mobile Development",
+    "year": 2019,
+    "authors": "Biørn-Hansen; Grønli; Ghinea",
+    "venue": "ACM Computing Surveys",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "biornhansen2020",
+   "cited": {
+    "authors": "Biørn-Hansen, A.; Rieger, C.; Grønli, T.-M.; Majchrzak, T. A.; Ghinea, G.",
+    "year": 2020,
+    "title": "An empirical investigation of performance overhead in cross-platform mobile development frameworks",
+    "venue": "Empirical Software Engineering",
+    "doi": "10.1007/s10664-020-09827-6",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1007/s10664-020-09827-6",
+    "title": "An empirical investigation of performance overhead in cross-platform mobile development frameworks",
+    "year": 2020,
+    "authors": "Biørn-Hansen; Rieger; Grønli; Majchrzak; Ghinea",
+    "venue": "Empirical Software Engineering",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "malavolta2017",
+   "cited": {
+    "authors": "Malavolta, I.; Procaccianti, G.; Noorland, P.; Vukmirovic, P.",
+    "year": 2017,
+    "title": "Assessing the Impact of Service Workers on the Energy Efficiency of Progressive Web Apps",
+    "venue": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+    "doi": "10.1109/MOBILESoft.2017.7",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1109/mobilesoft.2017.7",
+    "title": "Assessing the Impact of Service Workers on the Energy Efficiency of Progressive Web Apps",
+    "year": 2017,
+    "authors": "Malavolta; Procaccianti; Noorland; Vukmirovic",
+    "venue": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kim2017",
+   "cited": {
+    "authors": "Kim, D.; Kwon, B. J.; Dumitraş, T.",
+    "year": 2017,
+    "title": "Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI",
+    "venue": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (CCS '17)",
+    "doi": "10.1145/3133956.3133958",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3133956.3133958",
+    "title": "Certified Malware: Measuring Breaches of Trust in the Windows Code-Signing PKI",
+    "year": 2017,
+    "authors": "Kim; Kwon; Dumitraş",
+    "venue": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "felt2015",
+   "cited": {
+    "authors": "Felt, A. P.; Ainslie, A.; Reeder, R. W.; Consolvo, S.; Thyagaraja, S.; Bettes, A.; Harris, H.; Grimes, J.",
+    "year": 2015,
+    "title": "Improving SSL Warnings: Comprehension and Adherence",
+    "venue": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15)",
+    "doi": "10.1145/2702123.2702442",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/2702123.2702442",
+    "title": "Improving SSL Warnings: Comprehension and Adherence",
+    "year": 2015,
+    "authors": "Felt; Ainslie; Reeder; Consolvo; Thyagaraja; Bettes; Harris; Grimes",
+    "venue": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "halfaker2013",
+   "cited": {
+    "authors": "Halfaker, A.; Geiger, R. S.; Morgan, J. T.; Riedl, J.",
+    "year": 2013,
+    "title": "The Rise and Decline of an Open Collaboration System: How Wikipedia's Reaction to Popularity Is Causing Its Decline",
+    "venue": "American Behavioral Scientist",
+    "doi": "10.1177/0002764212469365",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0002764212469365",
+    "title": "The Rise and Decline of an Open Collaboration System: How Wikipedia’s Reaction to Popularity Is Causing Its Decline",
+    "year": 2013,
+    "authors": "Halfaker; Geiger; Morgan; Riedl",
+    "venue": "American Behavioral Scientist",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "geiger2013",
+   "cited": {
+    "authors": "Geiger, R. S.; Halfaker, A.",
+    "year": 2013,
+    "title": "When the levee breaks: without bots, what happens to Wikipedia's quality control processes?",
+    "venue": "Proceedings of the 9th International Symposium on Open Collaboration (WikiSym '13)",
+    "doi": "10.1145/2491055.2491061",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/2491055.2491061",
+    "title": "When the levee breaks: without bots, what happens to Wikipedia's quality control processes?",
+    "year": 2013,
+    "authors": "Geiger; Halfaker",
+    "venue": "Proceedings of the 9th International Symposium on Open Collaboration",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "raman2020",
+   "cited": {
+    "authors": "Raman, N.; Cao, M.; Tsvetkov, Y.; Kästner, C.; Vasilescu, B.",
+    "year": 2020,
+    "title": "Stress and burnout in open source: toward finding, understanding, and mitigating unhealthy interactions",
+    "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER '20)",
+    "doi": "10.1145/3377816.3381732",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3377816.3381732",
+    "title": "Stress and burnout in open source: toward finding, understanding, and mitigating unhealthy interactions",
+    "year": 2020,
+    "authors": "Raman; Cao; Tsvetkov; Kästner; Vasilescu",
+    "venue": "Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: New Ideas and Emerging Results",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "steinmacher2015",
+   "cited": {
+    "authors": "Steinmacher, I.; Silva, M. A. G.; Gerosa, M. A.; Redmiles, D. F.",
+    "year": 2015,
+    "title": "A systematic literature review on the barriers faced by newcomers to open source software projects",
+    "venue": "Information and Software Technology",
+    "doi": "10.1016/j.infsof.2014.11.001",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.infsof.2014.11.001",
+    "title": "A systematic literature review on the barriers faced by newcomers to open source software projects",
+    "year": 2015,
+    "authors": "Steinmacher; Graciotto Silva; Gerosa; Redmiles",
+    "venue": "Information and Software Technology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wilkinson2016",
+   "cited": {
+    "authors": "Wilkinson, M. D.; Dumontier, M.; Aalbersberg, IJ. J.; Appleton, G.; Axton, M.; Baak, A.; et al.",
+    "year": 2016,
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+    "venue": "Scientific Data",
+    "doi": "10.1038/sdata.2016.18",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1038/sdata.2016.18",
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+    "year": 2016,
+    "authors": "Wilkinson; Dumontier; Aalbersberg; Appleton; Axton; Baak; Blomberg; Boiten; da Silva Santos; Bourne; Bouwman; Brookes; Clark; Crosas; Dillo; Dumon; Edmunds; Evelo; Finkers; Gonzalez-Beltran; Gray; Groth; Goble; Grethe; Heringa; ’t Hoen; Hooft; Kuhn; Kok; Kok; Lusher; Martone; Mons; Packer; Persson; Rocca-Serra; Roos; van Schaik; Sansone; Schultes; Sengstag; Slater; Strawn; Swertz; Thompson; van der Lei; van Mulligen; Velterop; Waagmeester; Wittenburg; Wolstencroft; Zhao; Mons",
+    "venue": "Scientific Data",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "raemaekers2017",
+   "cited": {
+    "authors": "Raemaekers, S.; van Deursen, A.; Visser, J.",
+    "year": 2017,
+    "title": "Semantic versioning and impact of breaking changes in the Maven repository",
+    "venue": "Journal of Systems and Software",
+    "doi": "10.1016/j.jss.2016.04.008",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.jss.2016.04.008",
+    "title": "Semantic versioning and impact of breaking changes in the Maven repository",
+    "year": 2017,
+    "authors": "Raemaekers; van Deursen; Visser",
+    "venue": "Journal of Systems and Software",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ladisa2023",
+   "cited": {
+    "authors": "Ladisa, P.; Plate, H.; Martinez, M.; Barais, O.",
+    "year": 2023,
+    "title": "SoK: Taxonomy of Attacks on Open-Source Software Supply Chains",
+    "venue": "2023 IEEE Symposium on Security and Privacy (SP)",
+    "doi": "10.1109/SP46215.2023.10179304",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1109/sp46215.2023.10179304",
+    "title": "SoK: Taxonomy of Attacks on Open-Source Software Supply Chains",
+    "year": 2023,
+    "authors": "Ladisa; Plate; Martinez; Barais",
+    "venue": "2023 IEEE Symposium on Security and Privacy (SP)",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "benedetti2022",
+   "cited": {
+    "authors": "Benedetti, G.; Verderame, L.; Merlo, A.",
+    "year": 2022,
+    "title": "Automatic Security Assessment of GitHub Actions Workflows",
+    "venue": "Proceedings of the 2022 ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '22)",
+    "doi": "10.1145/3560835.3564554",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/3560835.3564554",
+    "title": "Automatic Security Assessment of GitHub Actions Workflows",
+    "year": 2022,
+    "authors": "Benedetti; Verderame; Merlo",
+    "venue": "Proceedings of the 2022 ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "claessen2000",
+   "cited": {
+    "authors": "Claessen, K.; Hughes, J.",
+    "year": 2000,
+    "title": "QuickCheck: a lightweight tool for random testing of Haskell programs",
+    "venue": "Proceedings of the Fifth ACM SIGPLAN International Conference on Functional Programming (ICFP '00)",
+    "doi": "10.1145/351240.351266",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.1145/351240.351266",
+    "title": "QuickCheck: a lightweight tool for random testing of Haskell programs",
+    "year": 2000,
+    "authors": "Claessen; Hughes",
+    "venue": "Proceedings of the fifth ACM SIGPLAN international conference on Functional programming",
+    "type": "proceedings-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mdn_storage",
+   "cited": {
+    "authors": "MDN contributors",
+    "year": null,
+    "title": "Storage quotas and eviction criteria",
+    "venue": "MDN Web Docs",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "webkit_storage2023",
+   "cited": {
+    "authors": "WebKit Project",
+    "year": 2023,
+    "title": "Updates to Storage Policy",
+    "venue": "WebKit blog",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "github_pages_limits",
+   "cited": {
+    "authors": "GitHub",
+    "year": null,
+    "title": "GitHub Pages limits",
+    "venue": "GitHub Docs",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "apple_gatekeeper",
+   "cited": {
+    "authors": "Apple",
+    "year": null,
+    "title": "Safely open apps on your Mac",
+    "venue": "Apple Support, article 102445",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "oakley2024",
+   "cited": {
+    "authors": "Oakley, H.",
+    "year": 2024,
+    "title": "Living with(out) notarization",
+    "venue": "The Eclectic Light Company (blog)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "copes_openanyway",
+   "cited": {
+    "authors": "Copes, F.",
+    "year": null,
+    "title": "How to avoid the \"Open Anyway\" message when building macOS apps",
+    "venue": "flaviocopes.com (blog)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ms_smartscreen",
+   "cited": {
+    "authors": "Microsoft",
+    "year": null,
+    "title": "SmartScreen reputation (Windows apps: package and deploy)",
+    "venue": "Microsoft Learn",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ms_codesign",
+   "cited": {
+    "authors": "Microsoft",
+    "year": null,
+    "title": "Code signing options (Windows apps: package and deploy)",
+    "venue": "Microsoft Learn",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lawrence2024",
+   "cited": {
+    "authors": "Lawrence, E.",
+    "year": 2024,
+    "title": "Best Practices for SmartScreen AppRep",
+    "venue": "text/plain (blog)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ms_store_individual2025",
+   "cited": {
+    "authors": "Microsoft",
+    "year": 2025,
+    "title": "Free developer registration for individual developers on Microsoft Store",
+    "venue": "Windows Developer Blog, 10 September 2025",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "ms_store_company2026",
+   "cited": {
+    "authors": "Microsoft",
+    "year": 2026,
+    "title": "Publish to Microsoft Store as a company - now with free registration and faster onboarding",
+    "venue": "Windows Developer Blog, 7 May 2026",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "android_verification_blog2026",
+   "cited": {
+    "authors": "Google",
+    "year": 2026,
+    "title": "Android developer verification",
+    "venue": "Android Developers Blog, March 2026",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "android_verification_support",
+   "cited": {
+    "authors": "Google",
+    "year": null,
+    "title": "Understanding Android developer verification",
+    "venue": "Android Developer Console Help",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "android_verification_faq",
+   "cited": {
+    "authors": "Google",
+    "year": null,
+    "title": "Android developer verification: Frequently asked questions",
+    "venue": "Android Developers",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "fdroid_letter2026",
+   "cited": {
+    "authors": "F-Droid",
+    "year": 2026,
+    "title": "An Open Letter Opposing Android Developer Verification",
+    "venue": "F-Droid news, 24 February 2026",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "pinggy2026",
+   "cited": {
+    "authors": "Pinggy",
+    "year": 2026,
+    "title": "F-Droid Rebuilt Its App Store Right as Android Locks Down Sideloading",
+    "venue": "Pinggy blog",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tauri_distribute",
+   "cited": {
+    "authors": "Tauri Programme",
+    "year": null,
+    "title": "Distribute",
+    "venue": "Tauri 2 documentation",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tauri_android_signing",
+   "cited": {
+    "authors": "Tauri Programme",
+    "year": null,
+    "title": "Android Code Signing",
+    "venue": "Tauri 2 documentation",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tauri_action",
+   "cited": {
+    "authors": "tauri-apps",
+    "year": null,
+    "title": "tauri-action: Build your Web application as a Tauri binary for macOS, Linux and Windows",
+    "venue": "GitHub repository README",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tauri_issue10313",
+   "cited": {
+    "authors": "tauri-apps issue tracker",
+    "year": null,
+    "title": "[bug] v2 fails to generate signed apk (issue 10313)",
+    "venue": "GitHub issue, tauri-apps/tauri",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "hopp_tauri_electron",
+   "cited": {
+    "authors": "Hopp",
+    "year": null,
+    "title": "Tauri vs. Electron: performance, bundle size, and the real trade-offs",
+    "venue": "DEV Community (vendor blog post)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

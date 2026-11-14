@@ -1,0 +1,1841 @@
+{
+ "source": "research/refs/sla-core.json",
+ "counts": {
+  "verified": 91,
+  "manual": 1
+ },
+ "results": [
+  {
+   "id": "norris2000",
+   "cited": {
+    "authors": "Norris, J. M.; Ortega, L.",
+    "year": 2000,
+    "title": "Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/0023-8333.00136",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/0023-8333.00136",
+    "title": "Effectiveness of L2 Instruction: A Research Synthesis and Quantitative Meta‐analysis",
+    "year": 2000,
+    "authors": "Norris; Ortega",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "spada2010",
+   "cited": {
+    "authors": "Spada, N.; Tomita, Y.",
+    "year": 2010,
+    "title": "Interactions between type of instruction and type of language feature: A meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-9922.2010.00562.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-9922.2010.00562.x",
+    "title": "Interactions Between Type of Instruction and Type of Language Feature: A Meta‐Analysis",
+    "year": 2010,
+    "authors": "Spada; Tomita",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "goo2015",
+   "cited": {
+    "authors": "Goo, J.; Granena, G.; Yilmaz, Y.; Novella, M.",
+    "year": 2015,
+    "title": "Implicit and explicit instruction in L2 learning: Norris & Ortega (2000) revisited and updated",
+    "venue": "In P. Rebuschat (ed.), Implicit and Explicit Learning of Languages. John Benjamins",
+    "doi": "10.1075/sibil.48.18goo",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1075/sibil.48.18goo",
+    "title": "Implicit and explicit instruction in L2 learning: Norris &amp; Ortega (2000) revisited and updated",
+    "year": 2015,
+    "authors": "Goo; Granena; Yilmaz; Novella",
+    "venue": "Studies in Bilingualism",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kang2019",
+   "cited": {
+    "authors": "Kang, E. Y.; Sok, S.; Han, Z.",
+    "year": 2019,
+    "title": "Thirty-five years of ISLA on form-focused instruction: A meta-analysis",
+    "venue": "Language Teaching Research",
+    "doi": "10.1177/1362168818776671",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168818776671",
+    "title": "Thirty-five years of ISLA on form-focused instruction: A meta-analysis",
+    "year": 2019,
+    "authors": "Kang; Sok; Han",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "shintani2013",
+   "cited": {
+    "authors": "Shintani, N.; Li, S.; Ellis, R.",
+    "year": 2013,
+    "title": "Comprehension-based versus production-based grammar instruction: A meta-analysis of comparative studies",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12001",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12001",
+    "title": "Comprehension‐Based Versus Production‐Based Grammar Instruction: A Meta‐Analysis of Comparative Studies",
+    "year": 2013,
+    "authors": "Shintani; Li; Ellis",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "shintani2015",
+   "cited": {
+    "authors": "Shintani, N.",
+    "year": 2015,
+    "title": "The effectiveness of processing instruction and production-based instruction on L2 grammar acquisition: A meta-analysis",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/amu067",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amu067",
+    "title": "The Effectiveness of Processing Instruction and Production-based Instruction on L2 Grammar Acquisition: A Meta-Analysis",
+    "year": 2015,
+    "authors": "Shintani",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dekeyser2015",
+   "cited": {
+    "authors": "DeKeyser, R.; Prieto Botana, G.",
+    "year": 2015,
+    "title": "The effectiveness of processing instruction in L2 grammar acquisition: A narrative review",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/amu071",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amu071",
+    "title": "The Effectiveness of Processing Instruction in L2 Grammar Acquisition: A Narrative Review",
+    "year": 2015,
+    "authors": "Dekeyser; Prieto Botana",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vanpatten1993",
+   "cited": {
+    "authors": "VanPatten, B.; Cadierno, T.",
+    "year": 1993,
+    "title": "Explicit instruction and input processing",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263100011979",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263100011979",
+    "title": "Explicit Instruction and Input Processing",
+    "year": 1993,
+    "authors": "VanPatten; Cadierno",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lee2008",
+   "cited": {
+    "authors": "Lee, S.-K.; Huang, H.-T.",
+    "year": 2008,
+    "title": "Visual input enhancement and grammar learning: A meta-analytic review",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263108080479",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263108080479",
+    "title": "VISUAL INPUT ENHANCEMENT AND GRAMMAR LEARNING: A Meta-Analytic Review",
+    "year": 2008,
+    "authors": "Lee; Huang",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lichtman2021",
+   "cited": {
+    "authors": "Lichtman, K.; VanPatten, B.",
+    "year": 2021,
+    "title": "Was Krashen right? Forty years later",
+    "venue": "Foreign Language Annals",
+    "doi": "10.1111/flan.12552",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/flan.12552",
+    "title": "Was Krashen right? Forty years later",
+    "year": 2021,
+    "authors": "Lichtman; VanPatten",
+    "venue": "Foreign Language Annals",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nakanishi2015",
+   "cited": {
+    "authors": "Nakanishi, T.",
+    "year": 2015,
+    "title": "A meta-analysis of extensive reading research",
+    "venue": "TESOL Quarterly",
+    "doi": "10.1002/tesq.157",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/tesq.157",
+    "title": "A Meta-Analysis of Extensive Reading Research",
+    "year": 2015,
+    "authors": "Nakanishi",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hamada2020",
+   "cited": {
+    "authors": "Hamada, A.",
+    "year": 2020,
+    "title": "Using meta-analysis and propensity score methods to assess treatment effects toward evidence-based practice in extensive reading",
+    "venue": "Frontiers in Psychology",
+    "doi": "10.3389/fpsyg.2020.00617",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3389/fpsyg.2020.00617",
+    "title": "Using Meta-Analysis and Propensity Score Methods to Assess Treatment Effects Toward Evidence-Based Practice in Extensive Reading",
+    "year": 2020,
+    "authors": "Hamada",
+    "venue": "Frontiers in Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "webb2023",
+   "cited": {
+    "authors": "Webb, S.; Uchihara, T.; Yanagisawa, A.",
+    "year": 2023,
+    "title": "How effective is second language incidental vocabulary learning? A meta-analysis",
+    "venue": "Language Teaching",
+    "doi": "10.1017/s0261444822000507",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0261444822000507",
+    "title": "How effective is second language incidental vocabulary learning? A meta-analysis",
+    "year": 2023,
+    "authors": "Webb; Uchihara; Yanagisawa",
+    "venue": "Language Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uchihara2019",
+   "cited": {
+    "authors": "Uchihara, T.; Webb, S.; Yanagisawa, A.",
+    "year": 2019,
+    "title": "The effects of repetition on incidental vocabulary learning: A meta-analysis of correlational studies",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12343",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12343",
+    "title": "The Effects of Repetition on Incidental Vocabulary Learning: A Meta‐Analysis of Correlational Studies",
+    "year": 2019,
+    "authors": "Uchihara; Webb; Yanagisawa",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "devos2018",
+   "cited": {
+    "authors": "de Vos, J. F.; Schriefers, H.; Nivard, M. G.; Lemhöfer, K.",
+    "year": 2018,
+    "title": "A meta-analysis and meta-regression of incidental second language word learning from spoken input",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12296",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12296",
+    "title": "A Meta‐Analysis and Meta‐Regression of Incidental Second Language Word Learning from Spoken Input",
+    "year": 2018,
+    "authors": "de Vos; Schriefers; Nivard; Lemhöfer",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schmitt2011",
+   "cited": {
+    "authors": "Schmitt, N.; Jiang, X.; Grabe, W.",
+    "year": 2011,
+    "title": "The percentage of words known in a text and reading comprehension",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/j.1540-4781.2011.01146.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.2011.01146.x",
+    "title": "The Percentage of Words Known in a Text and Reading Comprehension",
+    "year": 2011,
+    "authors": "SCHMITT; JIANG; GRABE",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mclean2017",
+   "cited": {
+    "authors": "McLean, S.; Rouault, G.",
+    "year": 2017,
+    "title": "The effectiveness and efficiency of extensive reading at developing reading rates",
+    "venue": "System",
+    "doi": "10.1016/j.system.2017.09.003",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.system.2017.09.003",
+    "title": "The effectiveness and efficiency of extensive reading at developing reading rates",
+    "year": 2017,
+    "authors": "McLean; Rouault",
+    "venue": "System",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "loewen2018",
+   "cited": {
+    "authors": "Loewen, S.; Sato, M.",
+    "year": 2018,
+    "title": "Interaction and instructed second language acquisition",
+    "venue": "Language Teaching",
+    "doi": "10.1017/S0261444818000125",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0261444818000125",
+    "title": "Interaction and instructed second language acquisition",
+    "year": 2018,
+    "authors": "Loewen; Sato",
+    "venue": "Language Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "keck2006",
+   "cited": {
+    "authors": "Keck, C. M.; Iberri-Shea, G.; Tracy-Ventura, N.; Wa-Mbaleka, S.",
+    "year": 2006,
+    "title": "Investigating the empirical link between task-based interaction and acquisition: A meta-analysis",
+    "venue": "In J. M. Norris & L. Ortega (eds.), Synthesizing Research on Language Learning and Teaching. John Benjamins",
+    "doi": "10.1075/lllt.13.08kec",
+    "type": "chapter"
+   },
+   "registry": {
+    "doi": "10.1075/lllt.13.08kec",
+    "title": "3. Investigating the empirical link between task-based interaction and acquisition: A meta-analysis",
+    "year": 2006,
+    "authors": "Keck; Iberri-Shea; Tracy-Ventura; Wa-Mbaleka",
+    "venue": "Language Learning &amp; Language Teaching",
+    "type": "book-chapter"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ziegler2016",
+   "cited": {
+    "authors": "Ziegler, N.",
+    "year": 2016,
+    "title": "Synchronous computer-mediated communication and interaction: A meta-analysis",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s027226311500025x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s027226311500025x",
+    "title": "SYNCHRONOUS COMPUTER-MEDIATED COMMUNICATION AND INTERACTION: A Meta-Analysis",
+    "year": 2016,
+    "authors": "Ziegler",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "swain1995",
+   "cited": {
+    "authors": "Swain, M.; Lapkin, S.",
+    "year": 1995,
+    "title": "Problems in output and the cognitive processes they generate: A step towards second language learning",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/16.3.371",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/16.3.371",
+    "title": "Problems in Output and the Cognitive Processes They Generate: A Step Towards Second Language Learning",
+    "year": 1995,
+    "authors": "SWAIN; LAPKIN",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "izumi2002",
+   "cited": {
+    "authors": "Izumi, S.",
+    "year": 2002,
+    "title": "Output, input enhancement, and the noticing hypothesis: An experimental study on ESL relativization",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263102004023",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263102004023",
+    "title": "OUTPUT, INPUT ENHANCEMENT, AND THE NOTICING HYPOTHESIS: An Experimental Study on ESL Relativization",
+    "year": 2002,
+    "authors": "Izumi",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "li2010",
+   "cited": {
+    "authors": "Li, S.",
+    "year": 2010,
+    "title": "The effectiveness of corrective feedback in SLA: A meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-9922.2010.00561.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-9922.2010.00561.x",
+    "title": "The Effectiveness of Corrective Feedback in SLA: A Meta‐Analysis",
+    "year": 2010,
+    "authors": "Li",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lyster2010",
+   "cited": {
+    "authors": "Lyster, R.; Saito, K.",
+    "year": 2010,
+    "title": "Oral feedback in classroom SLA: A meta-analysis",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263109990520",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263109990520",
+    "title": "ORAL FEEDBACK IN CLASSROOM SLA: A Meta-Analysis",
+    "year": 2010,
+    "authors": "Lyster; Saito",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kang2015",
+   "cited": {
+    "authors": "Kang, E.; Han, Z.",
+    "year": 2015,
+    "title": "The efficacy of written corrective feedback in improving L2 written accuracy: A meta-analysis",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12189",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12189",
+    "title": "The Efficacy of Written Corrective Feedback in Improving L2 Written Accuracy: A Meta‐Analysis",
+    "year": 2015,
+    "authors": "Kang; Han",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "truscott1996",
+   "cited": {
+    "authors": "Truscott, J.",
+    "year": 1996,
+    "title": "The case against grammar correction in L2 writing classes",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-1770.1996.tb01238.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-1770.1996.tb01238.x",
+    "title": "The Case Against Grammar Correction in L2 Writing Classes",
+    "year": 1996,
+    "authors": "Truscott",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "brown2026",
+   "cited": {
+    "authors": "Brown, D.; Liu, Q.; Norouzian, R.",
+    "year": 2026,
+    "title": "Effectiveness of written corrective feedback in developing L2 accuracy: A Bayesian meta-analysis",
+    "venue": "Language Teaching Research (first published online 2023; registry issue year 2026)",
+    "doi": "10.1177/13621688221147374",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/13621688221147374",
+    "title": "Effectiveness of written corrective feedback in developing L2 accuracy: A Bayesian meta-analysis",
+    "year": 2026,
+    "authors": "Brown; Liu; Norouzian",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "li2016timing",
+   "cited": {
+    "authors": "Li, S.; Zhu, Y.; Ellis, R.",
+    "year": 2016,
+    "title": "The effects of the timing of corrective feedback on the acquisition of a new linguistic structure",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12315",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12315",
+    "title": "The Effects of the Timing of Corrective Feedback on the Acquisition of a New Linguistic Structure",
+    "year": 2016,
+    "authors": "LI; ZHU; ELLIS",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fu2022",
+   "cited": {
+    "authors": "Fu, M.; Li, S.",
+    "year": 2022,
+    "title": "The effects of immediate and delayed corrective feedback on L2 development",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263120000388",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263120000388",
+    "title": "THE EFFECTS OF IMMEDIATE AND DELAYED CORRECTIVE FEEDBACK ON L2 DEVELOPMENT",
+    "year": 2022,
+    "authors": "Fu; Li",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "heift2004",
+   "cited": {
+    "authors": "Heift, T.",
+    "year": 2004,
+    "title": "Corrective feedback and learner uptake in CALL",
+    "venue": "ReCALL",
+    "doi": "10.1017/s0958344004001120",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344004001120",
+    "title": "<i>Corrective feedback and learner uptake in CALL</i>",
+    "year": 2004,
+    "authors": "HEIFT",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nagata1993",
+   "cited": {
+    "authors": "Nagata, N.",
+    "year": 1993,
+    "title": "Intelligent computer feedback for second language instruction",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/j.1540-4781.1993.tb01980.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1540-4781.1993.tb01980.x",
+    "title": "Intelligent Computer Feedback for Second Language Instruction",
+    "year": 1993,
+    "authors": "NAGATA",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "cerezo2016",
+   "cited": {
+    "authors": "Cerezo, L.; Caras, A.; Leow, R. P.",
+    "year": 2016,
+    "title": "The effectiveness of guided induction versus deductive instruction on the development of complex Spanish gustar structures: An analysis of learning outcomes and processes",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263116000139",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263116000139",
+    "title": "THE EFFECTIVENESS OF GUIDED INDUCTION VERSUS DEDUCTIVE INSTRUCTION ON THE DEVELOPMENT OF COMPLEX SPANISH<i>GUSTAR</i>STRUCTURES: An Analysis of Learning Outcomes and Processes",
+    "year": 2016,
+    "authors": "Cerezo; Caras; Leow",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "plonskybrown2015",
+   "cited": {
+    "authors": "Plonsky, L.; Brown, D.",
+    "year": 2015,
+    "title": "Domain definition and search techniques in meta-analyses of L2 research (Or why 18 meta-analyses of feedback have different results)",
+    "venue": "Second Language Research",
+    "doi": "10.1177/0267658314536436",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/0267658314536436",
+    "title": "Domain definition and search techniques in meta-analyses of L2 research (Or why 18 meta-analyses of feedback have different results)",
+    "year": 2015,
+    "authors": "Plonsky; Brown",
+    "venue": "Second Language Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bryfonski2019",
+   "cited": {
+    "authors": "Bryfonski, L.; McKay, T. H.",
+    "year": 2019,
+    "title": "TBLT implementation and evaluation: A meta-analysis",
+    "venue": "Language Teaching Research",
+    "doi": "10.1177/1362168817744389",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168817744389",
+    "title": "TBLT implementation and evaluation: A meta-analysis",
+    "year": 2019,
+    "authors": "Bryfonski; McKay",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "xuan2025",
+   "cited": {
+    "authors": "Xuan, Q.; Cheung, A.; Liu, J.",
+    "year": 2025,
+    "title": "How effective is task-based language teaching to enhance second language learning? A technical comment on Bryfonski and McKay (2019)",
+    "venue": "Language Teaching Research (first published online 2022; registry issue year 2025)",
+    "doi": "10.1177/13621688221131127",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/13621688221131127",
+    "title": "How effective is task-based language teaching to enhance second language learning? A technical comment on Bryfonski and McKay (2019)",
+    "year": 2025,
+    "authors": "Xuan; Cheung; Liu",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "boersfaez2026",
+   "cited": {
+    "authors": "Boers, F.; Faez, F.",
+    "year": 2026,
+    "title": "Meta-analysis to estimate the relative effectiveness of TBLT programs: Are we there yet?",
+    "venue": "Language Teaching Research (first published online 2023; registry issue year 2026)",
+    "doi": "10.1177/13621688231167573",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/13621688231167573",
+    "title": "Meta-analysis to estimate the relative effectiveness of TBLT programs: Are we there yet?",
+    "year": 2026,
+    "authors": "Boers; Faez",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "boers2021",
+   "cited": {
+    "authors": "Boers, F.; Bryfonski, L.; Faez, F.; McKay, T.",
+    "year": 2021,
+    "title": "A call for cautious interpretation of meta-analytic reviews",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263120000327",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263120000327",
+    "title": "A CALL FOR CAUTIOUS INTERPRETATION OF META-ANALYTIC REVIEWS",
+    "year": 2021,
+    "authors": "Boers; Bryfonski; Faez; McKay",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nation2007",
+   "cited": {
+    "authors": "Nation, P.",
+    "year": 2007,
+    "title": "The four strands",
+    "venue": "Innovation in Language Learning and Teaching",
+    "doi": "10.2167/illt039.0",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2167/illt039.0",
+    "title": "The Four Strands",
+    "year": 2007,
+    "authors": "Nation",
+    "venue": "Innovation in Language Learning and Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ellis2016",
+   "cited": {
+    "authors": "Ellis, R.",
+    "year": 2016,
+    "title": "Focus on form: A critical review",
+    "venue": "Language Teaching Research",
+    "doi": "10.1177/1362168816628627",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168816628627",
+    "title": "Focus on form: A critical review",
+    "year": 2016,
+    "authors": "Ellis",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ellis2005",
+   "cited": {
+    "authors": "Ellis, R.",
+    "year": 2005,
+    "title": "Measuring implicit and explicit knowledge of a second language: A psychometric study",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263105050096",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263105050096",
+    "title": "MEASURING IMPLICIT AND EXPLICIT KNOWLEDGE OF A SECOND LANGUAGE: A Psychometric Study",
+    "year": 2005,
+    "authors": "Ellis",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "suzuki2017",
+   "cited": {
+    "authors": "Suzuki, Y.",
+    "year": 2017,
+    "title": "Validity of new measures of implicit knowledge: Distinguishing implicit knowledge from automatized explicit knowledge",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/s014271641700011x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s014271641700011x",
+    "title": "Validity of new measures of implicit knowledge: Distinguishing implicit knowledge from automatized explicit knowledge",
+    "year": 2017,
+    "authors": "SUZUKI",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "suzukidekeyser2017a",
+   "cited": {
+    "authors": "Suzuki, Y.; DeKeyser, R.",
+    "year": 2017,
+    "title": "The interface of explicit and implicit knowledge in a second language: Insights from individual differences in cognitive aptitudes",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12241",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12241",
+    "title": "The Interface of Explicit and Implicit Knowledge in a Second Language: Insights From Individual Differences in Cognitive Aptitudes",
+    "year": 2017,
+    "authors": "Suzuki; DeKeyser",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dekeyser1997",
+   "cited": {
+    "authors": "DeKeyser, R. M.",
+    "year": 1997,
+    "title": "Beyond explicit rule learning: Automatizing second language morphosyntax",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263197002040",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263197002040",
+    "title": "BEYOND EXPLICIT RULE LEARNING: Automatizing Second Language\nMorphosyntax",
+    "year": 1997,
+    "authors": "DeKeyser",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nellis2002",
+   "cited": {
+    "authors": "Ellis, N. C.",
+    "year": 2002,
+    "title": "Frequency effects in language processing: A review with implications for theories of implicit and explicit language acquisition",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263102002024",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263102002024",
+    "title": "FREQUENCY EFFECTS IN LANGUAGE PROCESSING: A Review with Implications for Theories of Implicit and Explicit Language Acquisition",
+    "year": 2002,
+    "authors": "Ellis",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nellis2005",
+   "cited": {
+    "authors": "Ellis, N. C.",
+    "year": 2005,
+    "title": "At the interface: Dynamic interactions of explicit and implicit language knowledge",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s027226310505014x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s027226310505014x",
+    "title": "AT THE INTERFACE: DYNAMIC INTERACTIONS OF EXPLICIT AND IMPLICIT LANGUAGE KNOWLEDGE",
+    "year": 2005,
+    "authors": "Ellis",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "frost2019",
+   "cited": {
+    "authors": "Frost, R.; Armstrong, B. C.; Christiansen, M. H.",
+    "year": 2019,
+    "title": "Statistical learning research: A critical review and possible new directions",
+    "venue": "Psychological Bulletin",
+    "doi": "10.1037/bul0000210",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/bul0000210",
+    "title": "Statistical learning research: A critical review and possible new directions.",
+    "year": 2019,
+    "authors": "Frost; Armstrong; Christiansen",
+    "venue": "Psychological Bulletin",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "morris1977",
+   "cited": {
+    "authors": "Morris, C. D.; Bransford, J. D.; Franks, J. J.",
+    "year": 1977,
+    "title": "Levels of processing versus transfer appropriate processing",
+    "venue": "Journal of Verbal Learning and Verbal Behavior",
+    "doi": "10.1016/s0022-5371(77)80016-9",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/s0022-5371(77)80016-9",
+    "title": "Levels of processing versus transfer appropriate processing",
+    "year": 1977,
+    "authors": "Morris; Bransford; Franks",
+    "venue": "Journal of Verbal Learning and Verbal Behavior",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lidekeyser2017",
+   "cited": {
+    "authors": "Li, M.; DeKeyser, R.",
+    "year": 2017,
+    "title": "Perception practice, production practice, and musical ability in L2 Mandarin tone-word learning",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263116000358",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263116000358",
+    "title": "PERCEPTION PRACTICE, PRODUCTION PRACTICE, AND MUSICAL ABILITY IN L2 MANDARIN TONE-WORD LEARNING",
+    "year": 2017,
+    "authors": "Li; DeKeyser",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "bird2010",
+   "cited": {
+    "authors": "Bird, S.",
+    "year": 2010,
+    "title": "Effects of distributed practice on the acquisition of second language English syntax",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/s0142716410000172",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0142716410000172",
+    "title": "Effects of distributed practice on the acquisition of second language English syntax",
+    "year": 2010,
+    "authors": "BIRD",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "suzukidekeyser2017b",
+   "cited": {
+    "authors": "Suzuki, Y.; DeKeyser, R.",
+    "year": 2017,
+    "title": "Effects of distributed practice on the proceduralization of morphology",
+    "venue": "Language Teaching Research",
+    "doi": "10.1177/1362168815617334",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1177/1362168815617334",
+    "title": "Effects of distributed practice on the proceduralization of morphology",
+    "year": 2017,
+    "authors": "Suzuki; DeKeyser",
+    "venue": "Language Teaching Research",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kasprowicz2019",
+   "cited": {
+    "authors": "Kasprowicz, R. E.; Marsden, E.; Sephton, N.",
+    "year": 2019,
+    "title": "Investigating distribution of practice effects for the learning of foreign language verb morphology in the young learner classroom",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12586",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12586",
+    "title": "Investigating Distribution of Practice Effects for the Learning of Foreign Language Verb Morphology in the Young Learner Classroom",
+    "year": 2019,
+    "authors": "KASPROWICZ; MARSDEN; SEPHTON",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kim2022",
+   "cited": {
+    "authors": "Kim, S. K.; Webb, S.",
+    "year": 2022,
+    "title": "The effects of spaced practice on second language learning: A meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12479",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12479",
+    "title": "The Effects of Spaced Practice on Second Language Learning: A Meta‐Analysis",
+    "year": 2022,
+    "authors": "Kim; Webb",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "nakata2019",
+   "cited": {
+    "authors": "Nakata, T.; Suzuki, Y.",
+    "year": 2019,
+    "title": "Mixing grammar exercises facilitates long-term retention: Effects of blocking, interleaving, and increasing practice",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12581",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12581",
+    "title": "Mixing Grammar Exercises Facilitates Long‐Term Retention: Effects of Blocking, Interleaving, and Increasing Practice",
+    "year": 2019,
+    "authors": "NAKATA; SUZUKI",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "pan2019",
+   "cited": {
+    "authors": "Pan, S. C.; Tajran, J.; Lovelett, J.; Osuna, J.; Rickard, T. C.",
+    "year": 2019,
+    "title": "Does interleaved practice enhance foreign language learning? The effects of training schedule on Spanish verb conjugation skills",
+    "venue": "Journal of Educational Psychology",
+    "doi": "10.1037/edu0000336",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1037/edu0000336",
+    "title": "Does interleaved practice enhance foreign language learning? The effects of training schedule on Spanish verb conjugation skills.",
+    "year": 2019,
+    "authors": "Pan; Tajran; Lovelett; Osuna; Rickard",
+    "venue": "Journal of Educational Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "kakitani2024",
+   "cited": {
+    "authors": "Kakitani, J.; Kormos, J.",
+    "year": 2024,
+    "title": "The effects of distributed practice on second language fluency development",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263124000251",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263124000251",
+    "title": "The effects of distributed practice on second language fluency development",
+    "year": 2024,
+    "authors": "Kakitani; Kormos",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "rogers2025",
+   "cited": {
+    "authors": "Rogers, J.; Nakata, T.; Chiu",
+    "year": 2025,
+    "title": "Optimizing distributed practice online: A conceptual replication of Cepeda et al. (2009)",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263124000706",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263124000706",
+    "title": "Optimizing distributed practice online: A conceptual replication of Cepeda et al. (2009)",
+    "year": 2025,
+    "authors": "Rogers; Nakata; Chiu",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "segalowitz2010",
+   "cited": {
+    "authors": "Segalowitz, N.",
+    "year": 2010,
+    "title": "Cognitive Bases of Second Language Fluency",
+    "venue": "Routledge",
+    "doi": "10.4324/9780203851357",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.4324/9780203851357",
+    "title": "Cognitive Bases of Second Language Fluency",
+    "year": 2010,
+    "authors": "Segalowitz",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "segalowitz1993",
+   "cited": {
+    "authors": "Segalowitz, N. S.; Segalowitz, S. J.",
+    "year": 1993,
+    "title": "Skilled performance, practice, and the differentiation of speed-up from automatization effects: Evidence from second language word recognition",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/s0142716400010845",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0142716400010845",
+    "title": "Skilled performance, practice, and the differentiation of speed-up from automatization effects: Evidence from second language word recognition",
+    "year": 1993,
+    "authors": "Segalowitz; Segalowitz",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dejong2013",
+   "cited": {
+    "authors": "de Jong, N. H.; Steinel, M. P.; Florijn, A.; Schoonen, R.; Hulstijn, J. H.",
+    "year": 2013,
+    "title": "Linguistic skills and speaking fluency in a second language",
+    "venue": "Applied Psycholinguistics",
+    "doi": "10.1017/s0142716412000069",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0142716412000069",
+    "title": "Linguistic skills and speaking fluency in a second language",
+    "year": 2013,
+    "authors": "DE JONG; STEINEL; FLORIJN; SCHOONEN; HULSTIJN",
+    "venue": "Applied Psycholinguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ssuzuki2021",
+   "cited": {
+    "authors": "Suzuki, S.; Kormos, J.; Uchihara, T.",
+    "year": 2021,
+    "title": "The relationship between utterance and perceived fluency: A meta-analysis of correlational studies",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12706",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12706",
+    "title": "The Relationship Between Utterance and Perceived Fluency: A Meta‐Analysis of Correlational Studies",
+    "year": 2021,
+    "authors": "SUZUKI; KORMOS; UCHIHARA",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dejong2011",
+   "cited": {
+    "authors": "de Jong, N.; Perfetti, C. A.",
+    "year": 2011,
+    "title": "Fluency training in the ESL classroom: An experimental study of fluency development and proceduralization",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-9922.2010.00620.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-9922.2010.00620.x",
+    "title": "Fluency Training in the ESL Classroom: An Experimental Study of Fluency Development and Proceduralization",
+    "year": 2011,
+    "authors": "de Jong; Perfetti",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "thai2016",
+   "cited": {
+    "authors": "Thai, C.; Boers, F.",
+    "year": 2016,
+    "title": "Repeating a monologue under increasing time pressure: Effects on fluency, complexity, and accuracy",
+    "venue": "TESOL Quarterly",
+    "doi": "10.1002/tesq.232",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1002/tesq.232",
+    "title": "Repeating a Monologue Under Increasing Time Pressure: Effects on Fluency, Complexity, and Accuracy",
+    "year": 2016,
+    "authors": "Thai; Boers",
+    "venue": "TESOL Quarterly",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ysuzuki2021",
+   "cited": {
+    "authors": "Suzuki, Y.",
+    "year": 2021,
+    "title": "Optimizing fluency training for speaking skills transfer: Comparing the effects of blocked and interleaved task repetition",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12433",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12433",
+    "title": "Optimizing Fluency Training for Speaking Skills Transfer: Comparing the Effects of Blocked and Interleaved Task Repetition",
+    "year": 2021,
+    "authors": "Suzuki",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "suzukihanzawa2022",
+   "cited": {
+    "authors": "Suzuki, Y.; Hanzawa, K.",
+    "year": 2022,
+    "title": "Massed task repetition is a double-edged sword for fluency development: An EFL classroom study",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263121000358",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263121000358",
+    "title": "MASSED TASK REPETITION IS A DOUBLE-EDGED SWORD FOR FLUENCY DEVELOPMENT: AN EFL CLASSROOM STUDY",
+    "year": 2022,
+    "authors": "Suzuki; Hanzawa",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hartshorne2018",
+   "cited": {
+    "authors": "Hartshorne, J. K.; Tenenbaum, J. B.; Pinker, S.",
+    "year": 2018,
+    "title": "A critical period for second language acquisition: Evidence from 2/3 million English speakers",
+    "venue": "Cognition",
+    "doi": "10.1016/j.cognition.2018.04.007",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1016/j.cognition.2018.04.007",
+    "title": "A critical period for second language acquisition: Evidence from 2/3 million English speakers",
+    "year": 2018,
+    "authors": "Hartshorne; Tenenbaum; Pinker",
+    "venue": "Cognition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vanderslik2022",
+   "cited": {
+    "authors": "van der Slik, F.; Schepens, J.; Bongaerts, T.; van Hout, R.",
+    "year": 2022,
+    "title": "Critical period claim revisited: Reanalysis of Hartshorne, Tenenbaum, and Pinker (2018) suggests steady decline and learner-type differences",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12470",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12470",
+    "title": "Critical Period Claim Revisited: Reanalysis of Hartshorne, Tenenbaum, and Pinker (2018) Suggests Steady Decline and Learner‐Type Differences",
+    "year": 2022,
+    "authors": "van der Slik; Schepens; Bongaerts; van Hout",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "abrahamsson2009",
+   "cited": {
+    "authors": "Abrahamsson, N.; Hyltenstam, K.",
+    "year": 2009,
+    "title": "Age of onset and nativelikeness in a second language: Listener perception versus linguistic scrutiny",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.1467-9922.2009.00507.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1467-9922.2009.00507.x",
+    "title": "Age of Onset and Nativelikeness in a Second Language: Listener Perception Versus Linguistic Scrutiny",
+    "year": 2009,
+    "authors": "Abrahamsson; Hyltenstam",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "snow1978",
+   "cited": {
+    "authors": "Snow, C. E.; Hoefnagel-Höhle, M.",
+    "year": 1978,
+    "title": "The critical period for language acquisition: Evidence from second language learning",
+    "venue": "Child Development",
+    "doi": "10.2307/1128751",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.2307/1128751",
+    "title": "The Critical Period for Language Acquisition: Evidence from Second Language Learning",
+    "year": 1978,
+    "authors": "Snow; Hoefnagel-Hohle",
+    "venue": "Child Development",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "li2015",
+   "cited": {
+    "authors": "Li, S.",
+    "year": 2015,
+    "title": "The associations between language aptitude and second language grammar acquisition: A meta-analytic review of five decades of research",
+    "venue": "Applied Linguistics",
+    "doi": "10.1093/applin/amu054",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1093/applin/amu054",
+    "title": "The Associations Between Language Aptitude and Second Language Grammar Acquisition: A Meta-Analytic Review of Five Decades of Research",
+    "year": 2015,
+    "authors": "Li",
+    "venue": "Applied Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "linck2014",
+   "cited": {
+    "authors": "Linck, J. A.; Osthus, P.; Koeth, J. T.; Bunting, M. F.",
+    "year": 2014,
+    "title": "Working memory and second language comprehension and production: A meta-analysis",
+    "venue": "Psychonomic Bulletin & Review",
+    "doi": "10.3758/s13423-013-0565-2",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3758/s13423-013-0565-2",
+    "title": "Working memory and second language comprehension and production: A meta-analysis",
+    "year": 2014,
+    "authors": "Linck; Osthus; Koeth; Bunting",
+    "venue": "Psychonomic Bulletin &amp; Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "alhoorie2018",
+   "cited": {
+    "authors": "Al-Hoorie, A. H.",
+    "year": 2018,
+    "title": "The L2 motivational self system: A meta-analysis",
+    "venue": "Studies in Second Language Learning and Teaching",
+    "doi": "10.14746/ssllt.2018.8.4.2",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.14746/ssllt.2018.8.4.2",
+    "title": "The L2 motivational self system: A meta-analysis",
+    "year": 2018,
+    "authors": "Al-Hoorie",
+    "venue": "Studies in Second Language Learning and Teaching",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "plonsky2014",
+   "cited": {
+    "authors": "Plonsky, L.; Oswald, F. L.",
+    "year": 2014,
+    "title": "How big is \"big\"? Interpreting effect sizes in L2 research",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12079",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12079",
+    "title": "How Big Is “Big”? Interpreting Effect Sizes in L2 Research",
+    "year": 2014,
+    "authors": "Plonsky; Oswald",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "marsden2018",
+   "cited": {
+    "authors": "Marsden, E.; Morgan-Short, K.; Thompson, S.; Abugaber, D.",
+    "year": 2018,
+    "title": "Replication in second language research: Narrative and systematic reviews and recommendations for the field",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12286",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12286",
+    "title": "Replication in Second Language Research: Narrative and Systematic Reviews and Recommendations for the Field",
+    "year": 2018,
+    "authors": "Marsden; Morgan‐Short; Thompson; Abugaber",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "plonsky2013",
+   "cited": {
+    "authors": "Plonsky, L.",
+    "year": 2013,
+    "title": "Study quality in SLA: An assessment of designs, analyses, and reporting practices in quantitative L2 research",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263113000399",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263113000399",
+    "title": "STUDY QUALITY IN SLA: An Assessment of Designs, Analyses, and Reporting Practices in Quantitative L2 Research",
+    "year": 2013,
+    "authors": "Plonsky",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "morganshort2018",
+   "cited": {
+    "authors": "Morgan-Short, K.; Marsden, E.; Heil, J.; Issa, B. I.; Leow, R. P.; Mikhaylova, A.; Mikołajczak, S.; Moreno, N.; Slabakova, R.; Szudarski, P.",
+    "year": 2018,
+    "title": "Multisite replication in second language acquisition research: Attention to form during listening and reading comprehension",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12292",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12292",
+    "title": "Multisite Replication in Second Language Acquisition Research: Attention to Form During Listening and Reading Comprehension",
+    "year": 2018,
+    "authors": "Morgan‐Short; Marsden; Heil; Issa II; Leow; Mikhaylova; Mikołajczak; Moreno; Slabakova; Szudarski",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "isbell2022",
+   "cited": {
+    "authors": "Isbell, D. R.; Brown, D.; Chen, M.; Derrick, D. J.; Ghanem, R.; Gutiérrez Arvizu, M. N.; Schnur, E.; Zhang, M.; Plonsky, L.",
+    "year": 2022,
+    "title": "Misconduct and questionable research practices: The ethics of quantitative data handling and reporting in applied linguistics",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/modl.12760",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/modl.12760",
+    "title": "Misconduct and Questionable Research Practices: The Ethics of Quantitative Data Handling and Reporting in Applied Linguistics",
+    "year": 2022,
+    "authors": "ISBELL; BROWN; CHEN; DERRICK; GHANEM; ARVIZU; SCHNUR; ZHANG; PLONSKY",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "vuogan2024",
+   "cited": {
+    "authors": "Vuogan, A.; Li, S.",
+    "year": 2024,
+    "title": "A systematic review of meta-analyses in second language research: Current practices, issues, and recommendations",
+    "venue": "Applied Linguistics Review",
+    "doi": "10.1515/applirev-2022-0192",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/applirev-2022-0192",
+    "title": "A systematic review of meta-analyses in second language research: current practices, issues, and recommendations",
+    "year": 2024,
+    "authors": "Vuogan; Li",
+    "venue": "Applied Linguistics Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "mcmanus2024",
+   "cited": {
+    "authors": "McManus, K.",
+    "year": 2024,
+    "title": "Replication studies in second language acquisition research: Definitions, issues, resources, and future directions: Introduction to the special issue",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263124000652",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263124000652",
+    "title": "Replication studies in second language acquisition research: <i>Definitions, issues, resources, and future directions</i>: Introduction to the special issue",
+    "year": 2024,
+    "authors": "McManus",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "godfroid2023",
+   "cited": {
+    "authors": "Godfroid, A.; Andringa, S.",
+    "year": 2023,
+    "title": "Uncovering sampling biases, advancing inclusivity, and rethinking theoretical accounts in second language acquisition: Introduction to the special issue SLA for All?",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12620",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12620",
+    "title": "Uncovering Sampling Biases, Advancing Inclusivity, and Rethinking Theoretical Accounts in Second Language Acquisition: Introduction to the Special Issue <i>SLA for All?</i>",
+    "year": 2023,
+    "authors": "Godfroid; Andringa",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "burston2022",
+   "cited": {
+    "authors": "Burston, J.; Giannakou, K.",
+    "year": 2022,
+    "title": "MALL language learning outcomes: A comprehensive meta-analysis 1994–2019",
+    "venue": "ReCALL",
+    "doi": "10.1017/S0958344021000240",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344021000240",
+    "title": "MALL language learning outcomes: A comprehensive meta-analysis 1994–2019",
+    "year": 2022,
+    "authors": "Burston; Giannakou",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "loewen2019",
+   "cited": {
+    "authors": "Loewen, S.; Crowther, D.; Isbell, D. R.; Kim, K. M.; Maloney, J.; Miller, Z. F.; Rawal, H.",
+    "year": 2019,
+    "title": "Mobile-assisted language learning: A Duolingo case study",
+    "venue": "ReCALL",
+    "doi": "10.1017/s0958344019000065",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0958344019000065",
+    "title": "Mobile-assisted language learning: A Duolingo case study",
+    "year": 2019,
+    "authors": "Loewen; Crowther; Isbell; Kim; Maloney; Miller; Rawal",
+    "venue": "ReCALL",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "loewen2020",
+   "cited": {
+    "authors": "Loewen, S.; Isbell, D. R.; Sporn, Z.",
+    "year": 2020,
+    "title": "The effectiveness of app-based language instruction for developing receptive linguistic knowledge and oral communicative ability",
+    "venue": "Foreign Language Annals",
+    "doi": "10.1111/flan.12454",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/flan.12454",
+    "title": "The effectiveness of app‐based language instruction for developing receptive linguistic knowledge and oral communicative ability",
+    "year": 2020,
+    "authors": "Loewen; Isbell; Sporn",
+    "venue": "Foreign Language Annals",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "saito2019",
+   "cited": {
+    "authors": "Saito, K.; Plonsky, L.",
+    "year": 2019,
+    "title": "Effects of second language pronunciation teaching revisited: A proposed measurement framework and meta-analysis",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12345",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12345",
+    "title": "Effects of Second Language Pronunciation Teaching Revisited: A Proposed Measurement Framework and Meta‐Analysis",
+    "year": 2019,
+    "authors": "Saito; Plonsky",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "pienemann1984",
+   "cited": {
+    "authors": "Pienemann, M.",
+    "year": 1984,
+    "title": "Psychological constraints on the teachability of languages",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263100005015",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263100005015",
+    "title": "Psychological Constraints on the Teachability of Languages",
+    "year": 1984,
+    "authors": "Pienemann",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "pienemann1998",
+   "cited": {
+    "authors": "Pienemann, M.",
+    "year": 1998,
+    "title": "Language Processing and Second Language Development: Processability Theory",
+    "venue": "John Benjamins",
+    "doi": "10.1075/sibil.15",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1075/sibil.15",
+    "title": "Language Processing and Second Language Development: Processability theory",
+    "year": 1998,
+    "authors": "Pienemann",
+    "venue": "Studies in Bilingualism",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "goldschneider2001",
+   "cited": {
+    "authors": "Goldschneider, J. M.; DeKeyser, R. M.",
+    "year": 2001,
+    "title": "Explaining the \"natural order of L2 morpheme acquisition\" in English: A meta-analysis of multiple determinants",
+    "venue": "Language Learning",
+    "doi": "10.1111/1467-9922.00147",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/1467-9922.00147",
+    "title": "Explaining the “Natural Order of L2 Morpheme Acquisition” in English: A Meta‐analysis of Multiple Determinants",
+    "year": 2001,
+    "authors": "Goldschneider; DeKeyser",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "spada1999",
+   "cited": {
+    "authors": "Spada, N.; Lightbown, P. M.",
+    "year": 1999,
+    "title": "Instruction, first language influence, and developmental readiness in second language acquisition",
+    "venue": "The Modern Language Journal",
+    "doi": "10.1111/0026-7902.00002",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/0026-7902.00002",
+    "title": "Instruction, First Language Influence, and Developmental Readiness in Second Language Acquisition",
+    "year": 1999,
+    "authors": "Spada; Lightbown",
+    "venue": "The Modern Language Journal",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "zhang2015",
+   "cited": {
+    "authors": "Zhang, X.; Lantolf, J. P.",
+    "year": 2015,
+    "title": "Natural or artificial: Is the route of L2 development teachable?",
+    "venue": "Language Learning",
+    "doi": "10.1111/lang.12094",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/lang.12094",
+    "title": "Natural or Artificial: Is the Route of L2 Development Teachable?",
+    "year": 2015,
+    "authors": "Zhang; Lantolf",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "murakami2016",
+   "cited": {
+    "authors": "Murakami, A.; Alexopoulou, T.",
+    "year": 2016,
+    "title": "L1 influence on the acquisition order of English grammatical morphemes: A learner corpus study",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/s0272263115000352",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263115000352",
+    "title": "L1 INFLUENCE ON THE ACQUISITION ORDER OF ENGLISH GRAMMATICAL MORPHEMES: A Learner Corpus Study",
+    "year": 2016,
+    "authors": "Murakami; Alexopoulou",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "dekeyser2005",
+   "cited": {
+    "authors": "DeKeyser, R. M.",
+    "year": 2005,
+    "title": "What makes learning second-language grammar difficult? A review of issues",
+    "venue": "Language Learning",
+    "doi": "10.1111/j.0023-8333.2005.00294.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.0023-8333.2005.00294.x",
+    "title": "What Makes Learning Second‐Language Grammar Difficult? A Review of Issues",
+    "year": 2005,
+    "authors": "DeKeyser",
+    "venue": "Language Learning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "pashler2008",
+   "cited": {
+    "authors": "Pashler, H.; McDaniel, M.; Rohrer, D.; Bjork, R.",
+    "year": 2008,
+    "title": "Learning styles: Concepts and evidence",
+    "venue": "Psychological Science in the Public Interest",
+    "doi": "10.1111/j.1539-6053.2009.01038.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.1539-6053.2009.01038.x",
+    "title": "Learning Styles: Concepts and Evidence",
+    "year": 2008,
+    "authors": "Pashler; McDaniel; Rohrer; Bjork",
+    "venue": "Psychological Science in the Public Interest",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "uesp_dragon_language",
+   "cited": {
+    "authors": "UESP contributors",
+    "year": 2026,
+    "title": "Lore:Dragon Language (revision 3619598 of 2026-08-24)",
+    "venue": "The Unofficial Elder Scrolls Pages",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}
