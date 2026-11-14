@@ -17,11 +17,11 @@ Research date: 2026-11-14. Method: ten web searches, the repository's UESP snaps
 
 ### 2.1 Thuum.org: history and who runs it
 
-A personal portfolio page says its author started Thuum.org as a side project near the end of his studies at the University of Wisconsin-Stevens Point (Luckow, `luckow`). The site's administrator and developer signs as "paarthurnax", and a Tumblr blog, "Diary of a Dragonborn", says it is run by the site's owner (Diary of a Dragonborn, `tumblr_diary`). That these are one person is my inference. The site existed by 2013, the year of the first Android app thread (Thuum.org forum, `thuum_app2013`).
+The site was started as a personal side project by one developer (a personal portfolio page, `founder_page`; name and address withheld here). The site's administrator and developer signs as "paarthurnax". The site existed by 2013, the year of the first Android app thread (Thuum.org forum, `thuum_app2013`).
 
 Its history has three phases, all seen second-hand:
 
-1. **Expansion (to about 2016).** "A simple crowd-sourced dictionary to which fans could submit new words" (Thuum.org, `thuum_about`, or Luckow, `luckow`; the summary did not say which page). Print dictionaries ran to a Fourth Edition reporting over 11,500 entries and over 5,000 Dovahzul words (Thuum.org, `thuum_dict4`, as reported in track 14). A lesson book and Memrise courses were issued (2.4).
+1. **Expansion (to about 2016).** "A simple crowd-sourced dictionary to which fans could submit new words" (Thuum.org, `thuum_about`, or the founder's page, `founder_page`; the summary did not say which page). Print dictionaries ran to a Fourth Edition reporting over 11,500 entries and over 5,000 Dovahzul words (Thuum.org, `thuum_dict4`, as reported in track 14). A lesson book and Memrise courses were issued (2.4).
 2. **Reset (February 2016).** The "largest update to date" added a new dictionary and a new translator; the old dictionary, translator and search became a "Legacy Dictionary" that is "no longer maintained or supported" (Thuum.org, `thuum_news2016`). A forum thread titled "Starting Anew" exists; only its title was seen (Thuum.org forum, `thuum_startinganew`). The Fifth Edition preface gives the reason: "a lot of energy being put toward revising the 6,000 fanmade words" (Thuum.org, `thuum_dict5`, wording as rendered by the search summary).
 3. **Canon reference (2026).** A home-page notice dated 28 March 2026 says the owner will keep hosting the site as a reference for the official canon, will add vocabulary from The Elder Scrolls Online, and has removed the links to the fan-made parts, which had been "retired about 10 years ago" but kept for reference. Older dictionaries with fan vocabulary remain in the Library (Thuum.org, `thuum_home`; `thuum_library`).
 
@@ -107,7 +107,7 @@ Inference for Dovahzul: its position is the Elvish one (no engaged creator) with
 
 - Everything about Thuum.org rests on search summaries. Quoted phrases are the summaries' renderings and may not be exact.
 - Dates are loose: the Fifth Edition is undated in what I saw; "retired about 10 years ago" fits the February 2016 update but the "Starting Anew" thread was not read.
-- The link between the portfolio page, the administrator name and the Tumblr blog is an inference.
+- Who runs the site today was not established beyond the administrator's signature.
 - Whether Thuum.org counts Prima-only words as canon is inferred from one forum post.
 - Whether the Discord community still coins words is unknown. If it does, a second fan standard already exists.
 - The schism literature is historical case study, without measurement. Applying it to a 650-word game language is analogy. The fork studies concern software.
@@ -153,7 +153,7 @@ Generated from `research/refs/community-landscape.json`; each line ends with its
 - LearningElvish.com (2026). Dovahzul Dictionary: Common Dragon Language Words (2026). learningelvish.com blog. https://learningelvish.com/blog/dovahzul-dictionary-common-words `learningelvish2026: manual` [search summary only]
 - LearningElvish.com (n.d.). Dovahzul Words & Phrases: Skyrim Dragon Language Guide. learningelvish.com blog. https://learningelvish.com/blog/dovahzul-words-phrases-skyrim `learningelvish_phrases: manual` [search summary only]
 - Logical Language Group (1997). 1997 Baseline Announcement. tiki.lojban.org. https://tiki.lojban.org/1997%2BBaseline%2BAnnouncement `lojban1997: manual` [URL taken from track 14, not seen in this run]
-- Luckow, M. (n.d.). Thuum.org [project page on a personal portfolio site]. matthewluckow.com. https://matthewluckow.com/project/thuum-org/ `luckow: manual` [search summary only]
+- Founder's personal project page (n.d.). Thuum.org [project page on a personal site; name and address withheld]. `founder_page: manual` [search summary only]
 - Memrise (n.d.). Learn Dovahzul with Memrise. memrise.com. https://www.memrise.com/en/learn-dovahzul `memrise_dovahzul: manual` [search summary only]
 - Thuum.org (2016). Site Update, February 6, 2016. thuum.org news. https://www.thuum.org/viewnews.php?thread=181 `thuum_news2016: manual` [search summary only]
 - Thuum.org (2026). Thuum.org - The Dragon Language Dictionary [home page; carries a site notice dated 28 March 2026]. thuum.org. https://www.thuum.org/ `thuum_home: manual` [search summary only]

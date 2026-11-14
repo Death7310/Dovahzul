@@ -380,14 +380,14 @@
   "url": "https://www.thuum.org/viewthread.php?thread=1387"
  },
  {
-  "id": "luckow",
+  "id": "founder_page",
   "type": "web",
-  "authors": "Luckow, M.",
+  "authors": null,
   "year": null,
-  "title": "Thuum.org [project page on a personal portfolio site]",
-  "venue": "matthewluckow.com",
+  "title": "Thuum.org [project page on a personal site; name and address withheld]",
+  "venue": null,
   "doi": null,
-  "url": "https://matthewluckow.com/project/thuum-org/"
+  "url": null
  },
  {
   "id": "tumblr_diary",
