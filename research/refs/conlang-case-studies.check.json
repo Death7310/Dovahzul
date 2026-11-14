@@ -1,0 +1,1148 @@
+{
+ "source": "research/refs/conlang-case-studies.json",
+ "counts": {
+  "verified": 26,
+  "found": 1,
+  "not_found": 8,
+  "manual": 20,
+  "doi_resolves": 2
+ },
+ "results": [
+  {
+   "id": "schreyer2011",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2011,
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "venue": "Current Issues in Language Planning",
+    "doi": "10.1080/14664208.2011.604965",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14664208.2011.604965",
+    "title": "Media, information technology, and language planning: what can endangered language communities learn from created language communities?",
+    "year": 2011,
+    "authors": "Schreyer",
+    "venue": "Current Issues in Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2015",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2015,
+    "title": "The digital fandom of Na'vi speakers",
+    "venue": "Transformative Works and Cultures",
+    "doi": "10.3983/twc.2015.0610",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3983/twc.2015.0610",
+    "title": "digital fandom of Na'vi speakers",
+    "year": 2015,
+    "authors": "Schreyer",
+    "venue": "Transformative Works and Cultures",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "schreyer2021",
+   "cited": {
+    "authors": "Schreyer, C.",
+    "year": 2021,
+    "title": "Constructed Languages",
+    "venue": "Annual Review of Anthropology",
+    "doi": "10.1146/annurev-anthro-101819-110152",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1146/annurev-anthro-101819-110152",
+    "title": "Constructed Languages",
+    "year": 2021,
+    "authors": "Schreyer",
+    "venue": "Annual Review of Anthropology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "goodall2023",
+   "cited": {
+    "authors": "Goodall, G.",
+    "year": 2023,
+    "title": "Constructed Languages",
+    "venue": "Annual Review of Linguistics",
+    "doi": "10.1146/annurev-linguistics-030421-064707",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1146/annurev-linguistics-030421-064707",
+    "title": "Constructed Languages",
+    "year": 2023,
+    "authors": "Goodall",
+    "venue": "Annual Review of Linguistics",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "sanders2016",
+   "cited": {
+    "authors": "Sanders, N.",
+    "year": 2016,
+    "title": "Constructed languages in the classroom",
+    "venue": "Language",
+    "doi": "10.1353/lan.2016.0055",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/lan.2016.0055",
+    "title": "Constructed languages in the classroom",
+    "year": 2016,
+    "authors": "Sanders",
+    "venue": "Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "punske2020",
+   "cited": {
+    "authors": "Punske, J.; Sanders, N.; Fountain, A. V.",
+    "year": 2020,
+    "title": "Language Invention in Linguistics Pedagogy",
+    "venue": "Oxford University Press",
+    "doi": "10.1093/oso/9780198829874.001.0001",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1093/oso/9780198829874.001.0001",
+    "title": "Language Invention in Linguistics Pedagogy",
+    "year": 2020,
+    "authors": "Punske; Sanders; Fountain",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "adams2011",
+   "cited": {
+    "authors": "Adams, M.",
+    "year": 2011,
+    "title": "From Elvish to Klingon: Exploring Invented Languages",
+    "venue": "Oxford University Press",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "found",
+   "suggested_doi": "10.1353/dic.2012.0009",
+   "registry": {
+    "doi": "10.1353/dic.2012.0009",
+    "title": "From Elvish to Klingon: Exploring Invented Languages (review)",
+    "year": 2012,
+    "authors": "",
+    "venue": "Dictionaries: Journal of the Dictionary Society of North America",
+    "type": "journal-article",
+    "similarity": 0.936
+   }
+  },
+  {
+   "id": "okrand2011",
+   "cited": {
+    "authors": "Okrand, M.; Adams, M.; Hendriks-Hermans, J.; Kroon, S.",
+    "year": 2011,
+    "title": "Wild and Whirling Words: The Invention and Use of Klingon",
+    "venue": "From Elvish to Klingon: Exploring Invented Languages (Oxford University Press)",
+    "doi": null,
+    "type": "chapter"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.4324/9781315150055-8",
+     "title": "“Wild and Whirling Words”",
+     "year": 2017,
+     "authors": "Groves",
+     "venue": "Hamlet on the Couch",
+     "type": "book-chapter",
+     "similarity": 0.582
+    },
+    {
+     "doi": "10.5962/bhl.title.101123",
+     "title": "Whirling disease &amp; Montana's wild trout",
+     "year": 1995,
+     "authors": "Montana.",
+     "venue": "",
+     "type": "monograph",
+     "similarity": 0.392
+    },
+    {
+     "doi": "10.21983/p3.0215.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2011,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.341
+    }
+   ]
+  },
+  {
+   "id": "weiner2011",
+   "cited": {
+    "authors": "Weiner, E. S. C.; Marshall, J.",
+    "year": 2011,
+    "title": "Tolkien's Invented Languages",
+    "venue": "From Elvish to Klingon: Exploring Invented Languages (Oxford University Press)",
+    "doi": null,
+    "type": "chapter"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1353/tks.2016.0027",
+     "title": "Philology and Language Studies: Invented Languages",
+     "year": 2016,
+     "authors": "Bratman",
+     "venue": "Tolkien Studies",
+     "type": "journal-article",
+     "similarity": 0.623
+    },
+    {
+     "doi": "10.1353/tks.2017.0013",
+     "title": "A Secret Vice: Tolkien on Invented Languages by J.R.R. Tolkien",
+     "year": 2017,
+     "authors": "Smith",
+     "venue": "Tolkien Studies",
+     "type": "journal-article",
+     "similarity": 0.614
+    },
+    {
+     "doi": "10.1002/9781119691457.ch14",
+     "title": "Invented Languages and Writing Systems",
+     "year": 2022,
+     "authors": "Smith",
+     "venue": "A Companion to J. R. R. Tolkien",
+     "type": "other",
+     "similarity": 0.545
+    }
+   ]
+  },
+  {
+   "id": "okrent2009",
+   "cited": {
+    "authors": "Okrent, A.",
+    "year": 2009,
+    "title": "In the Land of Invented Languages",
+    "venue": "Spiegel & Grau",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1111/j.1548-1395.2012.01128.x",
+     "title": "In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language – By Arika Okrent",
+     "year": 2012,
+     "authors": "JONES",
+     "venue": "Journal of Linguistic Anthropology",
+     "type": "journal-article",
+     "similarity": 0.9
+    },
+    {
+     "doi": "10.1075/lplp.33.3.12ton",
+     "title": "Review of Okrent (2009): In the Land of Invented Languages",
+     "year": 2009,
+     "authors": "Tonkin",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.75
+    },
+    {
+     "doi": "10.1093/obo/9780199772810-0164",
+     "title": "Artificial Languages",
+     "year": 2013,
+     "authors": "Okrent",
+     "venue": "Oxford Bibliographies in Linguistics",
+     "type": "reference-entry",
+     "similarity": 0.453
+    }
+   ]
+  },
+  {
+   "id": "peterson2015",
+   "cited": {
+    "authors": "Peterson, D. J.",
+    "year": 2015,
+    "title": "The Art of Language Invention: From Horse-Lords to Dark Elves, the Words Behind World-Building",
+    "venue": "Penguin Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1075/lplp.41.2.13gob",
+     "title": "David J. Peterson. <i>The art of language invention: From horse-lords to dark elves, the words behind the\n            world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1075/lplp.00008.gob",
+     "title": "David J. Peterson. <i>The art of language invention: From\n                        horse-lords to dark elves, the words behind the world-building</i>",
+     "year": 2017,
+     "authors": "Gobbo",
+     "venue": "Language Problems and Language Planning",
+     "type": "journal-article",
+     "similarity": 0.898
+    },
+    {
+     "doi": "10.1515/9781400831104-018",
+     "title": "Chapter Seventeen. Words and Deeds",
+     "year": 2008,
+     "authors": "",
+     "venue": "The Horse, the Wheel, and Language",
+     "type": "book-chapter",
+     "similarity": 0.336
+    }
+   ]
+  },
+  {
+   "id": "hostetter2007",
+   "cited": {
+    "authors": "Hostetter, C. F.",
+    "year": 2007,
+    "title": "Tolkienian Linguistics: The First Fifty Years",
+    "venue": "Tolkien Studies",
+    "doi": "10.1353/tks.2007.0022",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1353/tks.2007.0022",
+    "title": "Tolkienian Linguistics: The First Fifty Years",
+    "year": 2007,
+    "authors": "Hostetter",
+    "venue": "Tolkien Studies",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "hostetter2006",
+   "cited": {
+    "authors": "Hostetter, C. F.",
+    "year": 2006,
+    "title": "Elvish as She Is Spoke",
+    "venue": "The Lord of the Rings 1954-2004: Scholarship in Honor of Richard E. Blackwelder (Marquette University Press)",
+    "doi": null,
+    "type": "chapter"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1017/9781139029643.014",
+     "title": "English As She Is Spoke",
+     "year": 2017,
+     "authors": "",
+     "venue": "Jacques Offenbach and the Making of Modern Culture",
+     "type": "book-chapter",
+     "similarity": 0.933
+    },
+    {
+     "doi": "10.1136/bmj.4.5832.61-a",
+     "title": "English as she is spoke.",
+     "year": 1972,
+     "authors": "",
+     "venue": "BMJ",
+     "type": "journal-article",
+     "similarity": 0.933
+    },
+    {
+     "doi": "10.4324/9780203205280-16",
+     "title": "Should English be spelt as she is spoke?",
+     "year": 2002,
+     "authors": "",
+     "venue": "English Words",
+     "type": "book-chapter",
+     "similarity": 0.689
+    }
+   ]
+  },
+  {
+   "id": "bergen2001",
+   "cited": {
+    "authors": "Bergen, B. K.",
+    "year": 2001,
+    "title": "Nativization processes in L1 Esperanto",
+    "venue": "Journal of Child Language",
+    "doi": "10.1017/S0305000901004779",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0305000901004779",
+    "title": "Nativization processes in L1 Esperanto",
+    "year": 2001,
+    "authors": "BERGEN",
+    "venue": "Journal of Child Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "garvia2015",
+   "cited": {
+    "authors": "Garvía, R.",
+    "year": 2015,
+    "title": "Esperanto and Its Rivals: The Struggle for an International Language",
+    "venue": "University of Pennsylvania Press",
+    "doi": "10.9783/9780812291278",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.9783/9780812291278",
+    "title": "Esperanto and Its Rivals: The Struggle for an International Language",
+    "year": 2015,
+    "authors": "Garvía",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2022",
+   "cited": {
+    "authors": "Fiedler, S.; Brosch, C. R.",
+    "year": 2022,
+    "title": "Esperanto – Lingua Franca and Language Community",
+    "venue": "John Benjamins",
+    "doi": "10.1075/wlp.10",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1075/wlp.10",
+    "title": "Esperanto – Lingua Franca and Language Community",
+    "year": 2022,
+    "authors": "Fiedler; Brosch",
+    "venue": "Studies in World Language Problems",
+    "type": "monograph"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fians2021",
+   "cited": {
+    "authors": "Fians, G.",
+    "year": 2021,
+    "title": "Esperanto Revolutionaries and Geeks: Language Politics, Digital Media and the Making of an International Community",
+    "venue": "Palgrave Macmillan",
+    "doi": "10.1007/978-3-030-84230-7",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1007/978-3-030-84230-7",
+    "title": "Esperanto Revolutionaries and Geeks: Language Politics, Digital Media and the Making of an International Community",
+    "year": 2021,
+    "authors": "Fians",
+    "venue": "",
+    "type": "book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "roehr2018",
+   "cited": {
+    "authors": "Roehr-Brackin, K.; Tellier, A.",
+    "year": 2018,
+    "title": "Esperanto as a tool in classroom foreign language learning in England",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.00013.roe",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.00013.roe",
+    "title": "Esperanto as a tool in classroom foreign language learning in England",
+    "year": 2018,
+    "authors": "Roehr-Brackin; Tellier",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "tellier2013",
+   "cited": {
+    "authors": "Tellier, A.; Roehr-Brackin, K.",
+    "year": 2013,
+    "title": "Metalinguistic awareness in children with differing language learning experience",
+    "venue": "EUROSLA Yearbook",
+    "doi": "10.1075/eurosla.13.06tel",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/eurosla.13.06tel",
+    "title": "Metalinguistic awareness in children with differing language learning experience",
+    "year": 2013,
+    "authors": "Tellier; Roehr-Brackin",
+    "venue": "EUROSLA Yearbook",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "roehr2019",
+   "cited": {
+    "authors": "Roehr-Brackin, K.; Tellier, A.",
+    "year": 2019,
+    "title": "The role of language-analytic ability in children's instructed second language learning",
+    "venue": "Studies in Second Language Acquisition",
+    "doi": "10.1017/S0272263119000214",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1017/s0272263119000214",
+    "title": "THE ROLE OF LANGUAGE-ANALYTIC ABILITY IN CHILDREN’S INSTRUCTED SECOND LANGUAGE LEARNING",
+    "year": 2019,
+    "authors": "Roehr-Brackin; Tellier",
+    "venue": "Studies in Second Language Acquisition",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "halloran1952",
+   "cited": {
+    "authors": "Halloran, J. H.",
+    "year": 1952,
+    "title": "A four year experiment in Esperanto as an introduction to French",
+    "venue": "British Journal of Educational Psychology",
+    "doi": "10.1111/j.2044-8279.1952.tb02826.x",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1111/j.2044-8279.1952.tb02826.x",
+    "title": "A FOUR YEAR EXPERIMENT IN ESPERANTO AS AN INTRODUCTION TO FRENCH",
+    "year": 1952,
+    "authors": "HALLORAN",
+    "venue": "British Journal of Educational Psychology",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "williams1965",
+   "cited": {
+    "authors": "Williams, N.",
+    "year": 1965,
+    "title": "A language teaching experiment",
+    "venue": "Canadian Modern Language Review",
+    "doi": "10.3138/cmlr.22.1.26",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3138/cmlr.22.1.26",
+    "title": "A Language Teaching Experiment",
+    "year": 1965,
+    "authors": "",
+    "venue": "The Canadian Modern Language Review",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "charters2015",
+   "cited": {
+    "authors": "Charters, D.",
+    "year": 2015,
+    "title": "The Teaching and Learning of Esperanto",
+    "venue": "Interdisciplinary Description of Complex Systems",
+    "doi": "10.7906/indecs.13.2.7",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.7906/indecs.13.2.7",
+    "title": "The Teaching and Learning of Esperanto",
+    "year": 2015,
+    "authors": "Charters",
+    "venue": "Interdisciplinary Description of Complex Systems",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "wandel2015",
+   "cited": {
+    "authors": "Wandel, A.",
+    "year": 2015,
+    "title": "How Many People Speak Esperanto? Esperanto on the Web",
+    "venue": "Interdisciplinary Description of Complex Systems",
+    "doi": "10.7906/indecs.13.2.9",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.7906/indecs.13.2.9",
+    "title": "How Many People Speak Esperanto? Esperanto on the Web",
+    "year": 2015,
+    "authors": "Wandel",
+    "venue": "Interdisciplinary Description of Complex Systems",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "blanke2009",
+   "cited": {
+    "authors": "Blanke, D.",
+    "year": 2009,
+    "title": "Causes of the relative success of Esperanto",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.33.3.04bla",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.33.3.04bla",
+    "title": "Causes of the relative success of Esperanto",
+    "year": 2009,
+    "authors": "Blanke",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "gobbo2021",
+   "cited": {
+    "authors": "Gobbo, F.",
+    "year": 2021,
+    "title": "Coolification and Language Vitality: The Case of Esperanto",
+    "venue": "Languages",
+    "doi": "10.3390/languages6020093",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.3390/languages6020093",
+    "title": "Coolification and Language Vitality: The Case of Esperanto",
+    "year": 2021,
+    "authors": "Gobbo",
+    "venue": "Languages",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2006",
+   "cited": {
+    "authors": "Fiedler, S.",
+    "year": 2006,
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "venue": "International Journal of the Sociology of Language",
+    "doi": "10.1515/IJSL.2006.005",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1515/ijsl.2006.005",
+    "title": "Standardization and self-regulation in an international speech community: the case of Esperanto",
+    "year": 2006,
+    "authors": "Fiedler",
+    "venue": "International Journal of the Sociology of Language",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "fiedler2012",
+   "cited": {
+    "authors": "Fiedler, S.",
+    "year": 2012,
+    "title": "The Esperanto denaskulo: The status of the native speaker of Esperanto within and beyond the planned language community",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.36.1.04fie",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.36.1.04fie",
+    "title": "The Esperanto <i>denaskulo</i>: The status of the native speaker of Esperanto within and beyond the planned language community",
+    "year": 2012,
+    "authors": "Fiedler",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "adelman2014",
+   "cited": {
+    "authors": "Adelman, M.",
+    "year": 2014,
+    "title": "Constructed Languages and Copyright: A Brief History and Proposal for Divorce",
+    "venue": "Harvard Journal of Law & Technology",
+    "doi": null,
+    "type": "article"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.5040/9798216424697.ch-002",
+     "title": "A Brief History of Music Copyright",
+     "year": 2021,
+     "authors": "",
+     "venue": "Music Copyright",
+     "type": "other",
+     "similarity": 0.382
+    },
+    {
+     "doi": "10.1093/oso/9780197762554.002.0004",
+     "title": "Copyright Page",
+     "year": 2027,
+     "authors": "Karlander; Heller",
+     "venue": "Constructed Languages and the Sociolinguistics of Language Making",
+     "type": "other",
+     "similarity": 0.267
+    },
+    {
+     "doi": "10.1016/b978-0-12-404612-2.09990-6",
+     "title": "Copyright",
+     "year": 2014,
+     "authors": "",
+     "venue": "Vertical Flow Constructed Wetlands",
+     "type": "book-chapter",
+     "similarity": 0.212
+    }
+   ]
+  },
+  {
+   "id": "loglan1992",
+   "cited": {
+    "authors": "United States Court of Appeals for the Federal Circuit",
+    "year": 1992,
+    "title": "Loglan Institute, Inc. v. Logical Language Group, Inc., 962 F.2d 1038 (Fed. Cir. 1992)",
+    "venue": "Federal Reporter, Second Series",
+    "doi": null,
+    "type": "legal"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "huang2025",
+   "cited": {
+    "authors": "Huang, D.; Joo, H.-A.",
+    "year": 2025,
+    "title": "A Computational Approach to Analyzing Language Change and Variation in the Constructed Language Toki Pona",
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2508.10246",
+    "type": "preprint"
+   },
+   "status": "doi_resolves",
+   "note": "DOI is registered outside Crossref; metadata not compared"
+  },
+  {
+   "id": "gonzalez2024",
+   "cited": {
+    "authors": "Gonzalez, S.",
+    "year": 2024,
+    "title": "A Network Analysis Approach to Conlang Research Literature",
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2407.15370",
+    "type": "preprint"
+   },
+   "status": "doi_resolves",
+   "note": "DOI is registered outside Crossref; metadata not compared"
+  },
+  {
+   "id": "noletto2023",
+   "cited": {
+    "authors": "Noletto, I. A. C.; Norledge, J.; Stockwell, P.",
+    "year": 2023,
+    "title": "Reading Fictional Languages",
+    "venue": "Edinburgh University Press",
+    "doi": "10.1515/9781399529167",
+    "type": "book"
+   },
+   "registry": {
+    "doi": "10.1515/9781399529167",
+    "title": "Reading Fictional Languages",
+    "year": 2023,
+    "authors": "Noletto; Norledge; Stockwell",
+    "venue": "",
+    "type": "edited-book"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "lang2014",
+   "cited": {
+    "authors": "Lang, S.",
+    "year": 2014,
+    "title": "Toki Pona: The Language of Good",
+    "venue": "Tawhid",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.1353/wlt.2025.a946535",
+     "title": "Toki Pona",
+     "year": 2025,
+     "authors": "Esposito",
+     "venue": "World Literature Today",
+     "type": "journal-article",
+     "similarity": 0.462
+    },
+    {
+     "doi": "10.2307/j.ctv1f8xcbd.84",
+     "title": "TOKI PONA",
+     "year": 2021,
+     "authors": "",
+     "venue": "Cheers!",
+     "type": "book-chapter",
+     "similarity": 0.462
+    },
+    {
+     "doi": "10.36505/exling-2020/11/0047/000462",
+     "title": "Zipf’s law in Toki Pona",
+     "year": 2020,
+     "authors": "Skotarek",
+     "venue": "Linguistic Proceedings Series",
+     "type": "journal-article",
+     "similarity": 0.34
+    }
+   ]
+  },
+  {
+   "id": "okrand1985",
+   "cited": {
+    "authors": "Okrand, M.",
+    "year": 1985,
+    "title": "The Klingon Dictionary",
+    "venue": "Pocket Books",
+    "doi": null,
+    "type": "book"
+   },
+   "status": "not_found",
+   "candidates": [
+    {
+     "doi": "10.21983/p3.0215.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2011,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.583
+    },
+    {
+     "doi": "10.53288/0345.1.00",
+     "title": "paq'batlh: The Klingon Epic",
+     "year": 2022,
+     "authors": "Schönfeld; Ligtelijn; van Gerven Oei; Yonge-Mallo",
+     "venue": "",
+     "type": "edited-book",
+     "similarity": 0.583
+    },
+    {
+     "doi": "10.1093/oed/7446872875",
+     "title": "Klingon, n. &amp; adj.",
+     "year": 2023,
+     "authors": "",
+     "venue": "Oxford English Dictionary",
+     "type": "book-chapter",
+     "similarity": 0.462
+    }
+   ]
+  },
+  {
+   "id": "lojban1997",
+   "cited": {
+    "authors": "Logical Language Group",
+    "year": 1997,
+    "title": "1997 Baseline Announcement",
+    "venue": "tiki.lojban.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "lojbanwiki",
+   "cited": {
+    "authors": "Linguifex wiki (mirror of the Wikipedia article)",
+    "year": null,
+    "title": "Lojban",
+    "venue": "linguifex.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "sciencenews",
+   "cited": {
+    "authors": "Science News",
+    "year": null,
+    "title": "How to invent a realistic language for fictional speakers",
+    "venue": "sciencenews.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "duolingo_hv",
+   "cited": {
+    "authors": "Duolingo",
+    "year": null,
+    "title": "[Duolingo Blog post on High Valyrian course updates]",
+    "venue": "blog.duolingo.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "marketplace2019",
+   "cited": {
+    "authors": "Marketplace",
+    "year": 2019,
+    "title": "[How one linguist is teaching Game of Thrones fans to speak High Valyrian]",
+    "venue": "marketplace.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_dict4",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "Dovahzul Print Dictionary, 4th Edition",
+    "venue": "thuum.org (fan site)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "unicode_sp",
+   "cited": {
+    "authors": "Unicode Technical Committee document register",
+    "year": 2024,
+    "title": "L2/24-275 [proposal to encode sitelen pona]",
+    "venue": "unicode.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "essex_project",
+   "cited": {
+    "authors": "University of Essex",
+    "year": null,
+    "title": "Esperanto as a starter language [research project page]",
+    "venue": "essex.ac.uk",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "theworld2016",
+   "cited": {
+    "authors": "The World (PRX)",
+    "year": 2016,
+    "title": "Why a lawyer wrote a legal brief partially in Klingon",
+    "venue": "theworld.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "eldamo_start",
+   "cited": {
+    "authors": "Eldamo (Elvish Data Model)",
+    "year": null,
+    "title": "Getting Started",
+    "venue": "eldamo.org (fan scholarship)",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "nautilus_navi",
+   "cited": {
+    "authors": "Nautilus",
+    "year": null,
+    "title": "Cracking Avatar's Language Codes",
+    "venue": "nautil.us",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "wikipedia_klingon",
+   "cited": {
+    "authors": "Wikipedia (mirror)",
+    "year": null,
+    "title": "Klingon language",
+    "venue": "wikiwand.com",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "coluzzi2024",
+   "cited": {
+    "authors": "Coluzzi, P.",
+    "year": 2025,
+    "title": "Esperanto, Klingon and Toki Pona: evaluating non-speaker perceptions of the orthographic and phonological characteristics of three popular constructed languages",
+    "venue": "International Journal of Multilingualism",
+    "doi": "10.1080/14790718.2024.2384593",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1080/14790718.2024.2384593",
+    "title": "Esperanto, Klingon and Toki Pona: evaluating non-speaker perceptions of the orthographic and phonological characteristics of three popular constructed languages",
+    "year": 2025,
+    "authors": "Coluzzi",
+    "venue": "International Journal of Multilingualism",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "coluzzi2022",
+   "cited": {
+    "authors": "Coluzzi, P.",
+    "year": 2022,
+    "title": "How learning Toki Pona may help improving communication strategies in a foreign or second language",
+    "venue": "Language Problems and Language Planning",
+    "doi": "10.1075/lplp.00086.col",
+    "type": "article"
+   },
+   "registry": {
+    "doi": "10.1075/lplp.00086.col",
+    "title": "How learning Toki Pona may help improving communication strategies in a foreign or second language",
+    "year": 2022,
+    "authors": "Coluzzi",
+    "venue": "Language Problems and Language Planning",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "jalt2023tp",
+   "cited": {
+    "authors": "Kitano",
+    "year": 2024,
+    "title": "Teaching Toki Pona in Japan",
+    "venue": "JALT Postconference Publication",
+    "doi": "10.37546/jaltpcp2023-27",
+    "type": "proceedings"
+   },
+   "registry": {
+    "doi": "10.37546/jaltpcp2023-27",
+    "title": "Teaching Toki Pona in Japan",
+    "year": 2024,
+    "authors": "Kitano",
+    "venue": "JALT Postconference Publication",
+    "type": "journal-article"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "tpcensus2021",
+   "cited": {
+    "authors": "Toki Pona census (community project)",
+    "year": 2021,
+    "title": "Results of the 2021 Toki Pona census",
+    "venue": "tokiponacensus.github.io",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "tpcensus2024",
+   "cited": {
+    "authors": "Toki Pona census (community project)",
+    "year": 2024,
+    "title": "Results of the 2024 Toki Pona census",
+    "venue": "tokiponacensus.github.io",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "linku_wiki",
+   "cited": {
+    "authors": "sona pona (community wiki)",
+    "year": null,
+    "title": "Linku",
+    "venue": "sona.pona.la",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "kli_duolingo",
+   "cited": {
+    "authors": "Klingon Language Institute",
+    "year": null,
+    "title": "Duolingo Klingon Language Course",
+    "venue": "kli.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "kli_list",
+   "cited": {
+    "authors": "tlhIngan-Hol mailing list (Klingon Language Institute)",
+    "year": null,
+    "title": "[List thread with members' estimates of the number of fluent Klingon speakers]",
+    "venue": "lists.kli.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "thuum_about",
+   "cited": {
+    "authors": "Thuum.org",
+    "year": null,
+    "title": "About [fan community site for the dragon language; search snippet only]",
+    "venue": "thuum.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  },
+  {
+   "id": "eusa2016",
+   "cited": {
+    "authors": "Esperanto-USA",
+    "year": 2016,
+    "title": "Usona Esperantisto 2016:3-4 [bulletin item on the CEFR-aligned KER examinations]",
+    "venue": "bulteno.esperanto-usa.org",
+    "doi": null,
+    "type": "web"
+   },
+   "status": "manual"
+  }
+ ]
+}

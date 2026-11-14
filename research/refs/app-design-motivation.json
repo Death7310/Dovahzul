@@ -1,0 +1,982 @@
+[
+ {
+  "id": "loewen2019",
+  "type": "article",
+  "authors": "Loewen, S.; Crowther, D.; Isbell, D. R.; Kim, K. M.; Maloney, J.; Miller, Z. F.; Rawal, H.",
+  "year": 2019,
+  "title": "Mobile-assisted language learning: A Duolingo case study",
+  "venue": "ReCALL",
+  "doi": "10.1017/S0958344019000065",
+  "url": null
+ },
+ {
+  "id": "loewen2020",
+  "type": "article",
+  "authors": "Loewen, S.; Isbell, D. R.; Sporn, Z.",
+  "year": 2020,
+  "title": "The effectiveness of app-based language instruction for developing receptive linguistic knowledge and oral communicative ability",
+  "venue": "Foreign Language Annals",
+  "doi": "10.1111/flan.12454",
+  "url": null
+ },
+ {
+  "id": "jiang2021",
+  "type": "article",
+  "authors": "Jiang, X.; Rollinson, J.; Plonsky, L.; Gustafson, E.; Pajak, B.",
+  "year": 2021,
+  "title": "Evaluating the reading and listening outcomes of beginning-level Duolingo courses",
+  "venue": "Foreign Language Annals",
+  "doi": "10.1111/flan.12600",
+  "url": null
+ },
+ {
+  "id": "kessler2025",
+  "type": "article",
+  "authors": "Kessler, M.; Loewen, S.; Gönülal, T.",
+  "year": 2025,
+  "title": "Mobile-assisted language learning with Babbel and Duolingo: comparing L2 learning gains and user experience",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2023.2215294",
+  "url": null
+ },
+ {
+  "id": "kim2026",
+  "type": "article",
+  "authors": "Kim, Y.; Payant, C.; Skalicky, S.; Namkung, Y.",
+  "year": 2026,
+  "title": "Comparing the effectiveness of Duolingo, Classroom instruction, and Classroom + Duolingo instruction conditions on beginner-level French language development",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263126101521",
+  "url": null
+ },
+ {
+  "id": "smith2024",
+  "type": "article",
+  "authors": "Smith, B.; Jiang, X.; Peters, R.",
+  "year": 2024,
+  "title": "The effectiveness of Duolingo in developing receptive and productive language knowledge and proficiency",
+  "venue": "Language Learning & Technology",
+  "doi": "10.64152/10125/73595",
+  "url": null
+ },
+ {
+  "id": "sudina2023",
+  "type": "article",
+  "authors": "Sudina, E.; Plonsky, L.",
+  "year": 2023,
+  "title": "The effects of frequency, duration, and intensity on L2 learning through Duolingo",
+  "venue": "Journal of Second Language Studies",
+  "doi": "10.1075/jsls.00021.plo",
+  "url": null
+ },
+ {
+  "id": "nielson2011",
+  "type": "article",
+  "authors": "Nielson, K. B.",
+  "year": 2011,
+  "title": "Self-study with language learning software in the workplace: What happens?",
+  "venue": "Language Learning & Technology",
+  "doi": "10.64152/10125/44265",
+  "url": null
+ },
+ {
+  "id": "garciabotero2019",
+  "type": "article",
+  "authors": "García Botero, G.; Questier, F.; Zhu, C.",
+  "year": 2019,
+  "title": "Self-directed language learning in a mobile-assisted, out-of-class context: do students walk the talk?",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2018.1485707",
+  "url": null
+ },
+ {
+  "id": "rachels2018",
+  "type": "article",
+  "authors": "Rachels, J. R.; Rockinson-Szapkiw, A. J.",
+  "year": 2018,
+  "title": "The effects of a mobile gamification app on elementary students' Spanish achievement and self-efficacy",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2017.1382536",
+  "url": null
+ },
+ {
+  "id": "burston2022",
+  "type": "article",
+  "authors": "Burston, J.; Giannakou, K.",
+  "year": 2022,
+  "title": "MALL language learning outcomes: A comprehensive meta-analysis 1994–2019",
+  "venue": "ReCALL",
+  "doi": "10.1017/S0958344021000240",
+  "url": null
+ },
+ {
+  "id": "sung2015",
+  "type": "article",
+  "authors": "Sung, Y.-T.; Chang, K.-E.; Yang, J.-M.",
+  "year": 2015,
+  "title": "How effective are mobile devices for language learning? A meta-analysis",
+  "venue": "Educational Research Review",
+  "doi": "10.1016/j.edurev.2015.09.001",
+  "url": null
+ },
+ {
+  "id": "mihaylova2022",
+  "type": "article",
+  "authors": "Mihaylova, M.; Gorin, S.; Reber, T. P.; Rothen, N.",
+  "year": 2022,
+  "title": "A meta-analysis on mobile-assisted language learning applications: Benefits and risks",
+  "venue": "Psychologica Belgica",
+  "doi": "10.5334/pb.1146",
+  "url": null
+ },
+ {
+  "id": "hou2021",
+  "type": "article",
+  "authors": "Hou, Z.; Aryadoust, V.",
+  "year": 2021,
+  "title": "A review of the methodological quality of quantitative mobile-assisted language learning research",
+  "venue": "System",
+  "doi": "10.1016/j.system.2021.102568",
+  "url": null
+ },
+ {
+  "id": "tommerdahl2024",
+  "type": "article",
+  "authors": "Tommerdahl, J. M.; Dragonflame, C. S.; Olsen, A. A.",
+  "year": 2024,
+  "title": "A systematic review examining the efficacy of commercially available foreign language learning mobile apps",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2022.2035401",
+  "url": null
+ },
+ {
+  "id": "shortt2023",
+  "type": "article",
+  "authors": "Shortt, M.; Tilak, S.; Kuznetcova, I.; Martens, B.; Akinkuolie, B.",
+  "year": 2023,
+  "title": "Gamification in mobile-assisted language learning: a systematic review of Duolingo literature from public release of 2012 to early 2020",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2021.1933540",
+  "url": null
+ },
+ {
+  "id": "eysenbach2005",
+  "type": "article",
+  "authors": "Eysenbach, G.",
+  "year": 2005,
+  "title": "The law of attrition",
+  "venue": "Journal of Medical Internet Research",
+  "doi": "10.2196/jmir.7.1.e11",
+  "url": null
+ },
+ {
+  "id": "sailer2020",
+  "type": "article",
+  "authors": "Sailer, M.; Homner, L.",
+  "year": 2020,
+  "title": "The gamification of learning: a meta-analysis",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-019-09498-w",
+  "url": null
+ },
+ {
+  "id": "bai2020",
+  "type": "article",
+  "authors": "Bai, S.; Hew, K. F.; Huang, B.",
+  "year": 2020,
+  "title": "Does gamification improve student learning outcome? Evidence from a meta-analysis and synthesis of qualitative data in educational contexts",
+  "venue": "Educational Research Review",
+  "doi": "10.1016/j.edurev.2020.100322",
+  "url": null
+ },
+ {
+  "id": "huang2020",
+  "type": "article",
+  "authors": "Huang, R.; Ritzhaupt, A. D.; Sommer, M.; Zhu, J.; Stephen, A.; Valle, N.; Hampton, J.; Li, J.",
+  "year": 2020,
+  "title": "The impact of gamification in educational settings on student learning outcomes: a meta-analysis",
+  "venue": "Educational Technology Research and Development",
+  "doi": "10.1007/s11423-020-09807-z",
+  "url": null
+ },
+ {
+  "id": "hanus2015",
+  "type": "article",
+  "authors": "Hanus, M. D.; Fox, J.",
+  "year": 2015,
+  "title": "Assessing the effects of gamification in the classroom: A longitudinal study on intrinsic motivation, social comparison, satisfaction, effort, and academic performance",
+  "venue": "Computers & Education",
+  "doi": "10.1016/j.compedu.2014.08.019",
+  "url": null
+ },
+ {
+  "id": "mekler2017",
+  "type": "article",
+  "authors": "Mekler, E. D.; Brühlmann, F.; Tuch, A. N.; Opwis, K.",
+  "year": 2017,
+  "title": "Towards understanding the effects of individual gamification elements on intrinsic motivation and performance",
+  "venue": "Computers in Human Behavior",
+  "doi": "10.1016/j.chb.2015.08.048",
+  "url": null
+ },
+ {
+  "id": "sailer2017",
+  "type": "article",
+  "authors": "Sailer, M.; Hense, J. U.; Mayr, S. K.; Mandl, H.",
+  "year": 2017,
+  "title": "How gamification motivates: An experimental study of the effects of specific game design elements on psychological need satisfaction",
+  "venue": "Computers in Human Behavior",
+  "doi": "10.1016/j.chb.2016.12.033",
+  "url": null
+ },
+ {
+  "id": "landers2017",
+  "type": "article",
+  "authors": "Landers, R. N.; Bauer, K. N.; Callan, R. C.",
+  "year": 2017,
+  "title": "Gamification of task performance with leaderboards: A goal setting experiment",
+  "venue": "Computers in Human Behavior",
+  "doi": "10.1016/j.chb.2015.08.008",
+  "url": null
+ },
+ {
+  "id": "rodrigues2022",
+  "type": "article",
+  "authors": "Rodrigues, L.; Pereira, F. D.; Toda, A. M.; Palomino, P. T.; Pessoa, M.; Carvalho, L. S. G.; Fernandes, D.; Oliveira, E. H. T.; Cristea, A. I.; Isotani, S.",
+  "year": 2022,
+  "title": "Gamification suffers from the novelty effect but benefits from the familiarization effect: Findings from a longitudinal study",
+  "venue": "International Journal of Educational Technology in Higher Education",
+  "doi": "10.1186/s41239-021-00314-6",
+  "url": null
+ },
+ {
+  "id": "dehghanzadeh2021",
+  "type": "article",
+  "authors": "Dehghanzadeh, H.; Fardanesh, H.; Hatami, J.; Talaee, E.; Noroozi, O.",
+  "year": 2021,
+  "title": "Using gamification to support learning English as a second language: a systematic review",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2019.1648298",
+  "url": null
+ },
+ {
+  "id": "deci1999",
+  "type": "article",
+  "authors": "Deci, E. L.; Koestner, R.; Ryan, R. M.",
+  "year": 1999,
+  "title": "A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation",
+  "venue": "Psychological Bulletin",
+  "doi": "10.1037/0033-2909.125.6.627",
+  "url": null
+ },
+ {
+  "id": "cameron2001",
+  "type": "article",
+  "authors": "Cameron, J.; Banko, K. M.; Pierce, W. D.",
+  "year": 2001,
+  "title": "Pervasive negative effects of rewards on intrinsic motivation: The myth continues",
+  "venue": "The Behavior Analyst",
+  "doi": "10.1007/BF03392017",
+  "url": null
+ },
+ {
+  "id": "ryan2000",
+  "type": "article",
+  "authors": "Ryan, R. M.; Deci, E. L.",
+  "year": 2000,
+  "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+  "venue": "American Psychologist",
+  "doi": "10.1037/0003-066X.55.1.68",
+  "url": null
+ },
+ {
+  "id": "ryan2006",
+  "type": "article",
+  "authors": "Ryan, R. M.; Rigby, C. S.; Przybylski, A.",
+  "year": 2006,
+  "title": "The motivational pull of video games: A self-determination theory approach",
+  "venue": "Motivation and Emotion",
+  "doi": "10.1007/s11031-006-9051-8",
+  "url": null
+ },
+ {
+  "id": "howard2021",
+  "type": "article",
+  "authors": "Howard, J. L.; Bureau, J.; Guay, F.; Chong, J. X. Y.; Ryan, R. M.",
+  "year": 2021,
+  "title": "Student motivation and associated outcomes: A meta-analysis from self-determination theory",
+  "venue": "Perspectives on Psychological Science",
+  "doi": "10.1177/1745691620966789",
+  "url": null
+ },
+ {
+  "id": "silverman2023",
+  "type": "article",
+  "authors": "Silverman, J.; Barasch, A.",
+  "year": 2023,
+  "title": "On or off track: How (broken) streaks affect consumer decisions",
+  "venue": "Journal of Consumer Research",
+  "doi": "10.1093/jcr/ucac029",
+  "url": null
+ },
+ {
+  "id": "soderstrom2015",
+  "type": "article",
+  "authors": "Soderstrom, N. C.; Bjork, R. A.",
+  "year": 2015,
+  "title": "Learning versus performance: An integrative review",
+  "venue": "Perspectives on Psychological Science",
+  "doi": "10.1177/1745691615569000",
+  "url": null
+ },
+ {
+  "id": "noels2000",
+  "type": "article",
+  "authors": "Noels, K. A.; Pelletier, L. G.; Clément, R.; Vallerand, R. J.",
+  "year": 2000,
+  "title": "Why are you learning a second language? Motivational orientations and self-determination theory",
+  "venue": "Language Learning",
+  "doi": "10.1111/0023-8333.00111",
+  "url": null
+ },
+ {
+  "id": "alhoorie2018",
+  "type": "article",
+  "authors": "Al-Hoorie, A. H.",
+  "year": 2018,
+  "title": "The L2 motivational self system: A meta-analysis",
+  "venue": "Studies in Second Language Learning and Teaching",
+  "doi": "10.14746/ssllt.2018.8.4.2",
+  "url": null
+ },
+ {
+  "id": "alhoorie2025",
+  "type": "article",
+  "authors": "Al-Hoorie, A. H.; Oga-Baldwin, W. L. Q.; Hiver, P.; Vitta, J. P.",
+  "year": 2025,
+  "title": "Self-determination mini-theories in second language learning: A systematic review of three decades of research",
+  "venue": "Language Teaching Research",
+  "doi": "10.1177/13621688221102686",
+  "url": null
+ },
+ {
+  "id": "schreyer2015",
+  "type": "article",
+  "authors": "Schreyer, C.",
+  "year": 2015,
+  "title": "The digital fandom of Na'vi speakers",
+  "venue": "Transformative Works and Cultures",
+  "doi": "10.3983/twc.2015.0610",
+  "url": null
+ },
+ {
+  "id": "schreyer-sapiens",
+  "type": "web",
+  "authors": "SAPIENS (interview with Schreyer, C.)",
+  "year": null,
+  "title": "Christine Schreyer's Constructed Languages",
+  "venue": "SAPIENS",
+  "doi": null,
+  "url": "https://sapiens.org/language/christine-schreyer-language"
+ },
+ {
+  "id": "malikmoraleda2025",
+  "type": "article",
+  "authors": "Malik-Moraleda, S.; Taliaferro, M.; Shannon, S.; Jhingan, N.; Swords, S.; Peterson, D. J.; Frommer, P.; Okrand, M.; Sams, J.; Cardwell, R.; Freeman, C.; Fedorenko, E.",
+  "year": 2025,
+  "title": "Constructed languages are processed by the same brain mechanisms as natural languages",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.2313473122",
+  "url": null
+ },
+ {
+  "id": "mayer2009",
+  "type": "book",
+  "authors": "Mayer, R. E.",
+  "year": 2009,
+  "title": "Multimedia Learning (2nd ed.)",
+  "venue": "Cambridge University Press",
+  "doi": "10.1017/CBO9780511811678",
+  "url": null
+ },
+ {
+  "id": "mayer2003",
+  "type": "article",
+  "authors": "Mayer, R. E.; Moreno, R.",
+  "year": 2003,
+  "title": "Nine ways to reduce cognitive load in multimedia learning",
+  "venue": "Educational Psychologist",
+  "doi": "10.1207/S15326985EP3801_6",
+  "url": null
+ },
+ {
+  "id": "sweller2019",
+  "type": "article",
+  "authors": "Sweller, J.; van Merriënboer, J. J. G.; Paas, F.",
+  "year": 2019,
+  "title": "Cognitive architecture and instructional design: 20 years later",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-019-09465-5",
+  "url": null
+ },
+ {
+  "id": "kalyuga2003",
+  "type": "article",
+  "authors": "Kalyuga, S.; Ayres, P.; Chandler, P.; Sweller, J.",
+  "year": 2003,
+  "title": "The expertise reversal effect",
+  "venue": "Educational Psychologist",
+  "doi": "10.1207/S15326985EP3801_4",
+  "url": null
+ },
+ {
+  "id": "ginns2005",
+  "type": "article",
+  "authors": "Ginns, P.",
+  "year": 2005,
+  "title": "Meta-analysis of the modality effect",
+  "venue": "Learning and Instruction",
+  "doi": "10.1016/j.learninstruc.2005.07.001",
+  "url": null
+ },
+ {
+  "id": "schroeder2018",
+  "type": "article",
+  "authors": "Schroeder, N. L.; Cenkci, A. T.",
+  "year": 2018,
+  "title": "Spatial contiguity and spatial split-attention effects in multimedia learning environments: a meta-analysis",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-018-9435-9",
+  "url": null
+ },
+ {
+  "id": "sundararajan2020",
+  "type": "article",
+  "authors": "Sundararajan, N.; Adesope, O.",
+  "year": 2020,
+  "title": "Keep it coherent: A meta-analysis of the seductive details effect",
+  "venue": "Educational Psychology Review",
+  "doi": "10.1007/s10648-020-09522-4",
+  "url": null
+ },
+ {
+  "id": "adesope2012",
+  "type": "article",
+  "authors": "Adesope, O. O.; Nesbit, J. C.",
+  "year": 2012,
+  "title": "Verbal redundancy in multimedia learning environments: A meta-analysis",
+  "venue": "Journal of Educational Psychology",
+  "doi": "10.1037/a0026147",
+  "url": null
+ },
+ {
+  "id": "monteroperez2013",
+  "type": "article",
+  "authors": "Montero Perez, M.; Van Den Noortgate, W.; Desmet, P.",
+  "year": 2013,
+  "title": "Captioned video for L2 listening and vocabulary learning: A meta-analysis",
+  "venue": "System",
+  "doi": "10.1016/j.system.2013.07.013",
+  "url": null
+ },
+ {
+  "id": "dehaan2010",
+  "type": "article",
+  "authors": "deHaan, J.; Reed, W. M.; Kuwada, K.",
+  "year": 2010,
+  "title": "The effect of interactivity with a music video game on second language vocabulary recall",
+  "venue": "Language Learning & Technology",
+  "doi": "10.64152/10125/44215",
+  "url": null
+ },
+ {
+  "id": "corbett1994",
+  "type": "article",
+  "authors": "Corbett, A. T.; Anderson, J. R.",
+  "year": 1994,
+  "title": "Knowledge tracing: Modeling the acquisition of procedural knowledge",
+  "venue": "User Modeling and User-Adapted Interaction",
+  "doi": "10.1007/BF01099821",
+  "url": null
+ },
+ {
+  "id": "pavlik2009",
+  "type": "chapter",
+  "authors": "Pavlik, P. I.; Cen, H.; Koedinger, K. R.",
+  "year": 2009,
+  "title": "Performance Factors Analysis – A New Alternative to Knowledge Tracing",
+  "venue": "Artificial Intelligence in Education (Frontiers in Artificial Intelligence and Applications 200)",
+  "doi": "10.3233/978-1-60750-028-5-531",
+  "url": null
+ },
+ {
+  "id": "piech2015",
+  "type": "preprint",
+  "authors": "Piech, C.; Bassen, J.; Huang, J.; Ganguli, S.; Sahami, M.; Guibas, L.; Sohl-Dickstein, J.",
+  "year": 2015,
+  "title": "Deep knowledge tracing",
+  "venue": "arXiv (also Advances in Neural Information Processing Systems 28)",
+  "doi": "10.48550/arXiv.1506.05908",
+  "url": null
+ },
+ {
+  "id": "khajah2016",
+  "type": "preprint",
+  "authors": "Khajah, M.; Lindsey, R. V.; Mozer, M. C.",
+  "year": 2016,
+  "title": "How deep is knowledge tracing?",
+  "venue": "arXiv (also Proceedings of the 9th International Conference on Educational Data Mining)",
+  "doi": "10.48550/arXiv.1604.02416",
+  "url": null
+ },
+ {
+  "id": "gervet2020",
+  "type": "article",
+  "authors": "Gervet, T.; Koedinger, K.; Schneider, J.; Mitchell, T.",
+  "year": 2020,
+  "title": "When is deep learning the best approach to knowledge tracing?",
+  "venue": "Journal of Educational Data Mining",
+  "doi": "10.5281/zenodo.4143614",
+  "url": null
+ },
+ {
+  "id": "pelanek2016",
+  "type": "article",
+  "authors": "Pelánek, R.",
+  "year": 2016,
+  "title": "Applications of the Elo rating system in adaptive educational systems",
+  "venue": "Computers & Education",
+  "doi": "10.1016/j.compedu.2016.03.017",
+  "url": null
+ },
+ {
+  "id": "pelanek2017",
+  "type": "article",
+  "authors": "Pelánek, R.",
+  "year": 2017,
+  "title": "Bayesian knowledge tracing, logistic models, and beyond: an overview of learner modeling techniques",
+  "venue": "User Modeling and User-Adapted Interaction",
+  "doi": "10.1007/s11257-017-9193-2",
+  "url": null
+ },
+ {
+  "id": "klinkenberg2011",
+  "type": "article",
+  "authors": "Klinkenberg, S.; Straatemeier, M.; van der Maas, H. L. J.",
+  "year": 2011,
+  "title": "Computer adaptive practice of Maths ability using a new item response model for on the fly ability and difficulty estimation",
+  "venue": "Computers & Education",
+  "doi": "10.1016/j.compedu.2011.02.003",
+  "url": null
+ },
+ {
+  "id": "wilson2019",
+  "type": "article",
+  "authors": "Wilson, R. C.; Shenhav, A.; Straccia, M.; Cohen, J. D.",
+  "year": 2019,
+  "title": "The Eighty Five Percent Rule for optimal learning",
+  "venue": "Nature Communications",
+  "doi": "10.1038/s41467-019-12552-4",
+  "url": null
+ },
+ {
+  "id": "kulik1990",
+  "type": "article",
+  "authors": "Kulik, C.-L. C.; Kulik, J. A.; Bangert-Drowns, R. L.",
+  "year": 1990,
+  "title": "Effectiveness of mastery learning programs: A meta-analysis",
+  "venue": "Review of Educational Research",
+  "doi": "10.3102/00346543060002265",
+  "url": null
+ },
+ {
+  "id": "doroudi2019",
+  "type": "article",
+  "authors": "Doroudi, S.; Aleven, V.; Brunskill, E.",
+  "year": 2019,
+  "title": "Where's the Reward?",
+  "venue": "International Journal of Artificial Intelligence in Education (article subtitle: A review of reinforcement learning for instructional sequencing)",
+  "doi": "10.1007/s40593-019-00187-x",
+  "url": null
+ },
+ {
+  "id": "li2021",
+  "type": "article",
+  "authors": "Li, M.; Zhang, X.",
+  "year": 2021,
+  "title": "A meta-analysis of self-assessment and language performance in language testing and assessment",
+  "venue": "Language Testing",
+  "doi": "10.1177/0265532220932481",
+  "url": null
+ },
+ {
+  "id": "north1998",
+  "type": "article",
+  "authors": "North, B.; Schneider, G.",
+  "year": 1998,
+  "title": "Scaling descriptors for language proficiency scales",
+  "venue": "Language Testing",
+  "doi": "10.1177/026553229801500204",
+  "url": null
+ },
+ {
+  "id": "hulstijn2007",
+  "type": "article",
+  "authors": "Hulstijn, J. H.",
+  "year": 2007,
+  "title": "The shaky ground beneath the CEFR: Quantitative and qualitative dimensions of language proficiency",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/j.1540-4781.2007.00627_5.x",
+  "url": null
+ },
+ {
+  "id": "fulcher2004",
+  "type": "article",
+  "authors": "Fulcher, G.",
+  "year": 2004,
+  "title": "Deluded by artifices? The Common European Framework and harmonization",
+  "venue": "Language Assessment Quarterly",
+  "doi": "10.1207/s15434311laq0104_4",
+  "url": null
+ },
+ {
+  "id": "deygers2021",
+  "type": "article",
+  "authors": "Deygers, B.",
+  "year": 2021,
+  "title": "The CEFR Companion Volume: Between research-based policy and policy-based research",
+  "venue": "Applied Linguistics",
+  "doi": "10.1093/applin/amz024",
+  "url": null
+ },
+ {
+  "id": "klcp",
+  "type": "web",
+  "authors": "Klingon Language Institute",
+  "year": null,
+  "title": "Klingon Language Certification Program",
+  "venue": "kli.org",
+  "doi": null,
+  "url": "https://www.kli.org/?p=917"
+ },
+ {
+  "id": "bibauw2019",
+  "type": "article",
+  "authors": "Bibauw, S.; François, T.; Desmet, P.",
+  "year": 2019,
+  "title": "Discussing with a computer to practice a foreign language: research synthesis and conceptual framework of dialogue-based CALL",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2018.1535508",
+  "url": null
+ },
+ {
+  "id": "bibauw2022",
+  "type": "article",
+  "authors": "Bibauw, S.; Van den Noortgate, W.; François, T.; Desmet, P.",
+  "year": 2022,
+  "title": "Dialogue systems for language learning: A meta-analysis",
+  "venue": "Language Learning & Technology",
+  "doi": "10.64152/10125/73488",
+  "url": null
+ },
+ {
+  "id": "harless1999",
+  "type": "article",
+  "authors": "Harless, W. G.; Zier, M. A.; Duncan, R. C.",
+  "year": 1999,
+  "title": "Virtual dialogues with native speakers: The evaluation of an interactive multimedia method",
+  "venue": "CALICO Journal",
+  "doi": "10.1558/cj.v16i3.313-337",
+  "url": null
+ },
+ {
+  "id": "sydorenko2018",
+  "type": "article",
+  "authors": "Sydorenko, T.; Daurio, P.; Thorne, S. L.",
+  "year": 2018,
+  "title": "Refining pragmatically-appropriate oral communication via computer-simulated conversations",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588221.2017.1394326",
+  "url": null
+ },
+ {
+  "id": "taguchi2017",
+  "type": "article",
+  "authors": "Taguchi, N.; Li, Q.; Tang, X.",
+  "year": 2017,
+  "title": "Learning Chinese formulaic expressions in a scenario-based interactive environment",
+  "venue": "Foreign Language Annals",
+  "doi": "10.1111/flan.12292",
+  "url": null
+ },
+ {
+  "id": "neville2009",
+  "type": "article",
+  "authors": "Neville, D. O.; Shelton, B. E.; McInnis, B.",
+  "year": 2009,
+  "title": "Cybertext redux: using digital game-based learning to teach L2 vocabulary, reading, and culture",
+  "venue": "Computer Assisted Language Learning",
+  "doi": "10.1080/09588220903345168",
+  "url": null
+ },
+ {
+  "id": "cornillie2012",
+  "type": "article",
+  "authors": "Cornillie, F.; Clarebout, G.; Desmet, P.",
+  "year": 2012,
+  "title": "Between learning and playing? Exploring learners' perceptions of corrective feedback in an immersive game for English pragmatics",
+  "venue": "ReCALL",
+  "doi": "10.1017/S0958344012000146",
+  "url": null
+ },
+ {
+  "id": "dixon2022",
+  "type": "article",
+  "authors": "Dixon, D. H.; Dixon, T.; Jordan, E.",
+  "year": 2022,
+  "title": "Second language (L2) gains through digital game-based language learning (DGBLL): A meta-analysis",
+  "venue": "Language Learning & Technology",
+  "doi": "10.64152/10125/73464",
+  "url": null
+ },
+ {
+  "id": "galante2017",
+  "type": "article",
+  "authors": "Galante, A.; Thomson, R. I.",
+  "year": 2017,
+  "title": "The effectiveness of drama as an instructional approach for the development of second language oral fluency, comprehensibility, and accentedness",
+  "venue": "TESOL Quarterly",
+  "doi": "10.1002/tesq.290",
+  "url": null
+ },
+ {
+  "id": "lee2015",
+  "type": "article",
+  "authors": "Lee, B. K.; Patall, E. A.; Cawthon, S. W.; Steingut, R. R.",
+  "year": 2015,
+  "title": "The effect of drama-based pedagogy on preK–16 outcomes: A meta-analysis of research from 1985 to 2012",
+  "venue": "Review of Educational Research",
+  "doi": "10.3102/0034654314540477",
+  "url": null
+ },
+ {
+  "id": "dejong2011",
+  "type": "article",
+  "authors": "de Jong, N.; Perfetti, C. A.",
+  "year": 2011,
+  "title": "Fluency training in the ESL classroom: An experimental study of fluency development and proceduralization",
+  "venue": "Language Learning",
+  "doi": "10.1111/j.1467-9922.2010.00620.x",
+  "url": null
+ },
+ {
+  "id": "lambert2017",
+  "type": "article",
+  "authors": "Lambert, C.; Kormos, J.; Minn, D.",
+  "year": 2017,
+  "title": "Task repetition and second language speech processing",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S0272263116000085",
+  "url": null
+ },
+ {
+  "id": "yan2016",
+  "type": "article",
+  "authors": "Yan, X.; Maeda, Y.; Lv, J.; Ginther, A.",
+  "year": 2016,
+  "title": "Elicited imitation as a measure of second language proficiency: A narrative review and meta-analysis",
+  "venue": "Language Testing",
+  "doi": "10.1177/0265532215594643",
+  "url": null
+ },
+ {
+  "id": "hamada2016",
+  "type": "article",
+  "authors": "Hamada, Y.",
+  "year": 2016,
+  "title": "Shadowing: Who benefits and how? Uncovering a booming EFL teaching technique for listening comprehension",
+  "venue": "Language Teaching Research",
+  "doi": "10.1177/1362168815597504",
+  "url": null
+ },
+ {
+  "id": "ziegler2016",
+  "type": "article",
+  "authors": "Ziegler, N.",
+  "year": 2016,
+  "title": "Synchronous computer-mediated communication and interaction: A meta-analysis",
+  "venue": "Studies in Second Language Acquisition",
+  "doi": "10.1017/S027226311500025X",
+  "url": null
+ },
+ {
+  "id": "thorne2009",
+  "type": "article",
+  "authors": "Thorne, S. L.; Black, R. W.; Sykes, J. M.",
+  "year": 2009,
+  "title": "Second language use, socialization, and learning in Internet interest communities and online gaming",
+  "venue": "The Modern Language Journal",
+  "doi": "10.1111/j.1540-4781.2009.00974.x",
+  "url": null
+ },
+ {
+  "id": "black2006",
+  "type": "article",
+  "authors": "Black, R. W.",
+  "year": 2006,
+  "title": "Language, culture, and identity in online fanfiction",
+  "venue": "E-Learning and Digital Media",
+  "doi": "10.2304/elea.2006.3.2.170",
+  "url": null
+ },
+ {
+  "id": "sauro2017",
+  "type": "article",
+  "authors": "Sauro, S.",
+  "year": 2017,
+  "title": "Online fan practices and CALL",
+  "venue": "CALICO Journal",
+  "doi": "10.1558/cj.33077",
+  "url": null
+ },
+ {
+  "id": "torres2022",
+  "type": "article",
+  "authors": "Torres-Rodríguez, F. A.; Martínez-Granada, L.",
+  "year": 2022,
+  "title": "Speaking in worlds of adventure: Tabletop roleplaying games within the EFL classroom",
+  "venue": "HOW",
+  "doi": "10.19183/how.29.1.653",
+  "url": null
+ },
+ {
+  "id": "schneider2023",
+  "type": "article",
+  "authors": "Schneider, C.",
+  "year": 2023,
+  "title": "On the similarities of slaying dragons and ordering food: A proposition for using a Task-Based Language Teaching approach for playing tabletop role-playing games",
+  "venue": "Ludic Language Pedagogy",
+  "doi": "10.55853/llp_v5Art2",
+  "url": null
+ },
+ {
+  "id": "bowman2015",
+  "type": "article",
+  "authors": "Bowman, S. L.; Standiford, A.",
+  "year": 2015,
+  "title": "Educational larp in the middle school classroom: A mixed method case study",
+  "venue": "International Journal of Role-Playing",
+  "doi": "10.33063/ijrp.vi5.233",
+  "url": null
+ },
+ {
+  "id": "wcag22",
+  "type": "web",
+  "authors": "World Wide Web Consortium (W3C) Web Accessibility Initiative",
+  "year": 2023,
+  "title": "What's New in WCAG 2.2 (summary of the Web Content Accessibility Guidelines 2.2 Recommendation)",
+  "venue": "W3C",
+  "doi": null,
+  "url": "https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/"
+ },
+ {
+  "id": "rfc5646",
+  "type": "other",
+  "authors": "Phillips, A.; Davis, M.",
+  "year": 2009,
+  "title": "Tags for Identifying Languages (RFC 5646, BCP 47)",
+  "venue": "RFC Editor",
+  "doi": "10.17487/RFC5646",
+  "url": null
+ },
+ {
+  "id": "zorzi2012",
+  "type": "article",
+  "authors": "Zorzi, M.; Barbiera, C.; Facoetti, A.; Lonciari, I.; Carrozzi, M.; Montico, M.; Bravar, L.; George, F.; Pech-Georgel, C.; Ziegler, J. C.",
+  "year": 2012,
+  "title": "Extra-large letter spacing improves reading in dyslexia",
+  "venue": "Proceedings of the National Academy of Sciences",
+  "doi": "10.1073/pnas.1205566109",
+  "url": null
+ },
+ {
+  "id": "marinus2016",
+  "type": "article",
+  "authors": "Marinus, E.; Mostard, M.; Segers, E.; Schubert, T. M.; Madelaine, A.; Wheldall, K.",
+  "year": 2016,
+  "title": "A special font for people with dyslexia: Does it work and, if so, why?",
+  "venue": "Dyslexia",
+  "doi": "10.1002/dys.1527",
+  "url": null
+ },
+ {
+  "id": "wery2017",
+  "type": "article",
+  "authors": "Wery, J. J.; Diliberto, J. A.",
+  "year": 2017,
+  "title": "The effect of a specialized dyslexia font, OpenDyslexic, on reading rate and accuracy",
+  "venue": "Annals of Dyslexia",
+  "doi": "10.1007/s11881-016-0127-1",
+  "url": null
+ },
+ {
+  "id": "kuster2018",
+  "type": "article",
+  "authors": "Kuster, S. M.; van Weerdenburg, M.; Gompel, M.; Bosman, A. M. T.",
+  "year": 2018,
+  "title": "Dyslexie font does not benefit reading in children with or without dyslexia",
+  "venue": "Annals of Dyslexia",
+  "doi": "10.1007/s11881-017-0154-6",
+  "url": null
+ },
+ {
+  "id": "kormos2017",
+  "type": "book",
+  "authors": "Kormos, J.",
+  "year": 2017,
+  "title": "The Second Language Learning Processes of Students with Specific Learning Difficulties",
+  "venue": "Routledge",
+  "doi": "10.4324/9781315692371",
+  "url": null
+ },
+ {
+  "id": "capp2017",
+  "type": "article",
+  "authors": "Capp, M. J.",
+  "year": 2017,
+  "title": "The effectiveness of universal design for learning: a meta-analysis of literature between 2013 and 2016",
+  "venue": "International Journal of Inclusive Education",
+  "doi": "10.1080/13603116.2017.1325074",
+  "url": null
+ },
+ {
+  "id": "mehr2025",
+  "type": "article",
+  "authors": "Mehr, K. S.; Silverman, J.; Sharif, M. A.; Barasch, A.; Milkman, K. L.",
+  "year": 2025,
+  "title": "The motivating power of streaks: Increasing persistence is as easy as 1, 2, 3",
+  "venue": "Organizational Behavior and Human Decision Processes",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "lee2023",
+  "type": "article",
+  "authors": "Lee, J.-Y.; Baek, M.",
+  "year": 2023,
+  "title": "Effects of Gamification on Students’ English Language Proficiency: A Meta-Analysis on Research in South Korea",
+  "venue": "Sustainability",
+  "doi": null,
+  "url": null
+ },
+ {
+  "id": "reinders2015",
+  "type": "article",
+  "authors": "Reinders, H.; Wattana, S.",
+  "year": 2015,
+  "title": "Affect and willingness to communicate in digital game-based learning",
+  "venue": "ReCALL",
+  "doi": "10.1017/S0958344014000226",
+  "url": null
+ }
+]
