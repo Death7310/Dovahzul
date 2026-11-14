@@ -1,0 +1,101 @@
+{{Content Developers Trail|Pagliarulo}}
+{| class="wikitable" style="float:right; margin:0 0 0.5em 1em; width:{{{width|15}}}%; font-size:88%"
+|-
+! colspan=2 |Emil Pagliarulo
+|-
+| colspan=2 | [[File:GEN-developer-Emil Pagliarulo 03.png|Emil Pagliarulo|300px|center]]
+|-
+! Role(s)
+| [[Wikipedia:Video game design|Designer]], [[Wikipedia:Video game writing|Writer]]
+|-
+! Bethesda Softworks tenure
+| Nov 2002–Present{{ref|name=LookingGlassDeparture|1=[https://www.ttlg.com/forums/showthread.php?t=59808&p=678202#post678202 ''EmilPags{{'}} Post on Through the Looking Glass Forums'']}}
+|-
+! Alias(es)
+| Dezinuh
+|}
+
+{{Quote Box|style=float:none; max-width:none; margin-left:0|''I used to be an adventurer like you. Then I took an arrow in the knee...''|Hold Guard{{ref|name=SRG|[[Skyrim:Guard Dialogue|Guard]] dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}}}
+
+'''Emil Pagliarulo''' is the senior design director at [[General:Bethesda|Bethesda Game Studios]], with credits on ''[[General:The Elder Scrolls|The Elder Scrolls]]'', ''[[General:Fallout|Fallout]]'', and ''[[General:Starfield|Starfield]]''.{{ref|name=MBG|[https://www.mobygames.com/developer/sheet/view/developerId,14020/ MobyGames] — ''Emil Pagliarulo''}}
+
+Pagliarulo was a fan of ''The Elder Scrolls'' from the start, having played ''[[Arena:Arena|Arena]]'', ''[[Daggerfall:Daggerfall|Daggerfall]]'', and ''[[Redguard:Redguard|Redguard]]'' in the 1990s when they came out. He used to write articles and conduct interviews for Avault, one of which was for ''Redguard'', before he then moved on to work at [[Wikipedia:Eidos Interactive|Eidos Interactive]] on the ''[[Wikipedia:Thief (series)|Thief]]'' series. After being seduced by  emails from [[General:Todd Howard|Todd Howard]] about vibrant forests, Pagliarulo chose to join Bethesda Game Studios. 
+{{TOClimit|2}}
+==''The Elder Scrolls'' Credits==
+===Video Games===
+*'''''[[Bloodmoon:Bloodmoon|The Elder Scrolls III: Morrowind: Bloodmoon]]''''' — Writing & Quest Design{{ref|name=BMC|[[Bloodmoon: Credits]]}}
+*'''''[[Oblivion:Oblivion|The Elder Scrolls IV: Oblivion]]''''' — Quest Design{{ref|name=OBC|[[Oblivion: Credits]]}}
+**''[[Oblivion:Knights of the Nine|The Elder Scrolls IV: Oblivion: Knights of the Nine]]'' — Additional Design{{ref|name=KNC|[[General:Unofficial credits for Knights of the Nine]]}}
+**''[[Shivering:Shivering Isles|The Elder Scrolls IV: Oblivion: Shivering Isles]]'' — Voices{{ref|name=SIC|[[Shivering: Credits]]}}
+*'''''[[Skyrim:Skyrim|The Elder Scrolls V: Skyrim]]''''' — Senior Designer / Senior Writer{{ref|name=SRC|[[Skyrim: Credits]]}}
+**''[[SkyrimVSE:Skyrim Very Special Edition|Skyrim Very Special Edition]]'' — Writing <small>(uncredited)</small>{{ref|name=25thPanel}}
+*'''''[[Online:Online|The Elder Scrolls Online]]''''' — Special Thanks{{ref|name=MBG}}
+*'''''[[Blades:Blades|The Elder Scrolls: Blades]]''''' — Additional Writing{{ref|name=BLC|[[Blades: Credits]]}}
+*'''''[[Oblivion:Oblivion Remastered|The Elder Scrolls IV: Oblivion Remastered]]''''' —  Senior Design Director{{Ref|name=OBR|[[Oblivion:Credits/Remastered|Oblivion Remastered: Credits]]}}
+
+===Tabletop Games===
+*'''''[[SkyrimTAG:Skyrim - The Adventure Game|The Elder Scrolls V: Skyrim - The Adventure Game]]''''' — With Thanks to{{ref|name=STAG|[[SkyrimTAG: Credits]]}}
+
+===[[Books:Books|Books]]===
+*'''''[[Books:The Morrowind Prophecies|The Morrowind Prophecies]]''''' — Acknowledgements{{ref|name=MWP|[[Books:The Morrowind Prophecies#Credits|The Morrowind Prophecies: Credits]]}}
+**''[[Books:The_Morrowind_Prophecies#Game_of_the_Year_Edition|The Morrowind Prophecies: Game of the Year Edition]]'' — Acknowledgements{{ref|name=MWPGotY|[[Books:The Morrowind Prophecies#Additional_GotY_Credits|The Morrowind Prophecies GotY Edition: Credits]]}}
+
+==Known Contributions==
+This list is non-exhaustive and includes only contributions which have been confirmed to be implemented, fully or partially, by Pagliarulo.
+
+*''[[Bloodmoon:Bloodmoon|Bloodmoon]]'' — Pagliarulo helped develop many of the side quests, including the encounter with [[Bloodmoon:Uncle Sweetshare|Uncle Sweetshare]].{{ref|name=25thPanel}}{{ref|name=RPGV|1=[https://web.archive.org/web/20050211154756/http://rpgvault.ign.com/articles/390/390344p3.html ''RPGVault: The Elder Scrolls III: Bloodmoon Interview'']}}
+*''[[Oblivion:Oblivion|Oblivion]]'' — Pagliarulo authored the game's sneaking mechanics, the [[Oblivion:Dark Brotherhood|Dark Brotherhood]] questline and lore, as well as the [[Oblivion:Arena|Arena]] questline.{{ref|name=DevDiaryDB|[[General:Emil Pagliarulo: Now You See Me, Now You Don't|''Oblivion Developer Diary, Now You See Me, Now You Don't'']]}}{{ref|name=25thPanel}}{{ref|name=DBDoc|1=[https://www.youtube.com/watch?v=sqqVMVp39Xk ''Noclip: The Elder Scrolls IV: Oblivion - Designing The Dark Brotherhood'']}}
+*''[[Oblivion:Knights of the Nine|Knights of the Nine]]'' — Pagliarulo wrote additional conversations.{{ref|name=KNC}}
+*''[[Shivering:Shivering Isles|Shivering Isles]]'' — Pagliarulo provided voice acting for the male Dark Seducers.{{ref|name=OBVA|[[Oblivion:Voice_Actors#Shivering_Isles|Oblivion:Voice_Actors]]}}
+*''[[Skyrim:Skyrim|Skyrim]]'' — Pagliarulo was a senior designer and writer for ''Skyrim'', providing additional design support for the high level setting, factions, and cities featured in the game.{{ref|name=CitiesOfSkyrim|1=[https://www.youtube.com/watch?v=NQ7S2VA82Z4 ''Konsoll 2019: Emil Pagliarulo - Designing the Cities of Skyrim'']}} He authored the lyrics used in the game's main theme music, and a great deal of the Dragon Language and shout mechanics.{{ref|name=BehindTheWall|[[General:Behind the Wall: The Making of Skyrim|''Behind the Wall: The Making of Skyrim'']]}}{{ref|name=NoclipHistory}}{{ref|name=DragonLanguage|1=[https://bethesda.net/en/article/1rL4bCScN6RYXaXQb4ownj/how-bethesda-game-studios-made-skyrims-dragon-language ''Bethsoft: How Bethesda Game Studios made Skyrim’s Dragon language'']}} Additionally, the Dovahkiin's shouts both in the [[General:The Elder Scrolls V: Skyrim - Official Trailer|game's trailer]] and in-game were voice acted by Pagliarulo.{{ref|name=DragonLanguage}}{{ref|name=TweetBGS|Bethesda Game Studios. (4 September 2021). [https://web.archive.org/web/20210904155021/https://twitter.com/BethesdaStudios/status/1434169387179728901 "Emil Pagliarulo (@Dezinuh) recording the original Skyrim shouts with Audio Director Mark Lampert and Todd Howard (photo credit). The all time epic VO session."]. Twitter.}} He designed the [[Skyrim:Dark Brotherhood|Dark Brotherhood]] questline, made design contributions to the [[Skyrim:Main Quest|Main Quest]], and designed the [[Skyrim:Blood on the Ice|Blood on the Ice]] side quest.{{ref|name=CitiesOfSkyrim}}{{ref|name=BehindTheWall}}{{ref|name=NoclipHistory}} The lockpicking minigame was also his design, a holdover from ''Fallout 3''.{{ref|name=NoclipHistory|1=[https://www.youtube.com/watch?v=QKn9yiLVlMM ''Noclip: The History of Bethesda Game Studios'']}} Pagliarulo also wrote the guard dialogue for the game, including the: "I used to be an adventurer like you. Then I took an arrow in the knee..." line.{{ref|name=NoclipHistory}} 
+*''[[Skyrim:Dawnguard|Dawnguard]]'' — While Pagliarulo did not contribute to the add-on, he suggested the idea of the Prophecy of the Sun, with the earth forever becoming entombed in darkness.{{ref|name=BethPod|1=[https://web.archive.org/web/20131221100438/http://www.bethblog.com/podcast/ ''Bethesda Podcast #16'']}}
+*''[[Online:Dark Brotherhood (DLC)|Dark Brotherhood]]'' — Pagliarulo provided feedback to the creators of the ''Dark Brotherhood'' DLC, informing them where they got certain things wrong and how the fiction the Dark Brotherhood should be designed.{{ref|name=25thPanel|1=[https://youtu.be/JITgbkbIJG4?feature=shared&t=745 ''Bethsoft: Bethesda Game Days – The Elder Scrolls 25th Anniversary Panel'']}}
+*''[[SkyrimVSE:Skyrim Very Special Edition|Skyrim Very Special Edition]]'' — Pagliarulo wrote the dialogue for the game.{{ref|name=25thPanel}}
+
+==Texts Authored==
+This list is non-exhaustive and includes only texts which have been confirmed to be written, fully or partially, by Pagliarulo.
+
+'''[[General:Unofficial Lore|Out-of-game]]'''
+* ''[[General:Skyrim Cities' Design Excerpts|Skyrim Cities' Design Excerpts]]''
+
+==Interviews==
+<span class="plainlinks">
+*Apr 2003: [https://web.archive.org/web/20030602140844/http://www.gamegossip.com/content/interviews/elder_scrolls_bloodmoon/ ''GameGossip: Elder Scrolls III: Bloodmoon Interview'']
+*Feb 2005: [[General:Emil Pagliarulo: Now You See Me, Now You Don't|''ElderScrolls.com: Oblivion Developer Diary, Now You See Me, Now You Don't'']]
+*Apr 2004: ''[[General:Elderscrolls.com_Archive/Most_Memorable_Elder_Scrolls_Moments#Emil_Pagliarulo.2C_Designer|ElderScrolls.com: Most Memorable Elder Scrolls Moments]]'' 
+*Apr 2005: [https://web.archive.org/web/20050412000517/http://www.evilavatar.com/forums/showthread.php?t=1356 ''EvilAvatar: Oblivion Q&A'']
+*May 2008: [https://web.archive.org/web/20080513160421/http://bethblog.com/index.php/2008/05/08/inside-the-vault-emil-pagliarulo-redux/#more-599 ''Bethesda Blog: Inside the Vault: Emil Pagliarulo'']
+*Apr 2011: ''<span class="plainlinks">[https://web.archive.org/web/20140606034746/http://www.bethblog.com/podcast/ Bethesda Podcast Episode #8: Oblivion 5th Anniversary Special]''
+*Nov 2011: [[General:Behind the Wall: The Making of Skyrim|''Bethsoft: Behind the Wall: The Making of Skyrim'']]
+*May 2016: [https://www.youtube.com/watch?v=Bi51-wjcwp8 ''infinitDK 2016: Talks from STORY: Emil Pagliarulo, writer and lead designer of Fallout 4 and Skyrim'']
+*Jun 2018: [https://www.youtube.com/watch?v=QKn9yiLVlMM ''Noclip: The History of Bethesda Game Studios'']
+*Jun 2018: [https://www.youtube.com/watch?v=sqqVMVp39Xk ''Noclip: The Elder Scrolls IV: Oblivion - Designing The Dark Brotherhood'']
+*Apr 2019: [https://youtu.be/JITgbkbIJG4?feature=shared&t=745 ''Bethsoft: Bethesda Game Days – The Elder Scrolls 25th Anniversary Panel'']
+*Dec 2019: [https://www.youtube.com/watch?v=NQ7S2VA82Z4 ''Konsoll 2019: Emil Pagliarulo - Designing the Cities of Skyrim'']
+*Aug 2020: [https://www.twitch.tv/videos/725149480?t=0h15m1s ''Bethsoft: Willkommen zu #BGC2020 - unser Gamescom Streaming-Format für euch!'']
+*Aug 2021: [https://bethesda.net/en/article/1rL4bCScN6RYXaXQb4ownj/how-bethesda-game-studios-made-skyrims-dragon-language ''Bethsoft: How Bethesda Game Studios made Skyrim’s Dragon language'']
+*Jul 2022: [https://web.archive.org/web/20220704120535/https://www.wired.com/story/dark-brotherhood-skyrim-most-beloved-faction/ ''WIRED: How a Group of Murderers Became Skyrim{{'}}s Most Beloved Faction'']
+*May 2023: [https://www.youtube.com/watch?v=41_kixGZM3U ''CHAD A Fallout 76 Podcast: Writing the Worlds of Bethesda'']
+</span>
+
+==See Also==
+{{Bullet Link|Emil Pagliarulo's Posts|Posts by <i>Pagliarulo</i> about ''The Elder Scrolls'' on various platforms under the name <b>Dezinuh</b>}}
+
+==Gallery==
+<gallery>
+File:GEN-developer-Emil Pagliarulo.jpg|Emil in 2005
+File:GEN-developer-Emil Pagliarulo 02.jpg|Emil in 2005
+</gallery>
+
+==External Links==
+* [https://bsky.app/profile/dezinuh.bsky.social ''Emil Pagliarulo'' on BlueSky]
+* [https://x.com/dezinuh_prime ''Emil Pagliarulo'' on Twitter]
+*<s>[https://web.archive.org/web/*/https://twitter.com/dezinuh* ''Emil Pagliarulo'' on Twitter]</s> <small>'''(deprecated)'''</small>
+* [[wikipedia:Emil Pagliarulo|''Emil Pagliarulo'' on Wikipedia]]
+* [https://www.imdb.com/name/nm1596410/ ''Emil Pagliarulo'' on IMDb]
+
+==References==
+<references/>
+[[Category:General-Bethesda Game Studios Developers]]
+[[Category:General-Designers & Writers]]
+[[Category:General-System Designers]]

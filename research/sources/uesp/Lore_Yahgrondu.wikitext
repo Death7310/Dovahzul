@@ -1,0 +1,30 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Yahgrondu
+|image=ON-creature-Yahgrondu.jpg
+|birth=Dawn Era
+|birthLoc=
+|death=2E 582
+|deathLoc=Pellitine
+|reignStart=
+|reignEnd=
+|prev=
+|next=
+|loc=[[Lore:Pellitine|Pellitine]], [[Lore:Elsweyr|Elsweyr]]
+|appears=[[Online:Yahgrondu|ESO]]
+}}</noinclude>
+[[Lore:Yahgrondu|Yahgrondu]] was a red [[Lore:Dragon|dragon]] whose name meant "Seek-Bind-Devour" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=DLMNM|{{Cite Book|Dragon Language: Myth no More}}}} Little is known of his earlier history. It is possible he originates from [[Lore:Akavir|Akavir]], as it has been said to be the homeland of red Dragons.{{ref|{{Cite Book|Mysterious Akavir}}}}{{ref|name=PGE1Cyro|{{Cite Book|Pocket Guide to the Empire, 1st Edition/Cyrodiil}}}}
+
+At some point, before the foundation of the [[Lore:Dragonguard|Dragonguard]], Yahgrondu ran afoul of a powerful Dragon hunter. [[Lore:Nahfahlaar|Nahfahlaar]] found him injured and cornered, and offered his aid. In exchange, Nahfahlaar demanded that Yahgrondu repay his debt in the future. Yahgrondu was obligated to repay his debt through sosmir, the blood allegiance, and vowed to assist Nahfahlaar in his hour of need. Yahgrondu remained hidden for generations and was not discovered by the Dragonguard.{{Ref|name=NAH|[[Online:Nahfahlaar|Nahfahlaar]]'s dialogue in [[ON:Online|ESO]]}}<noinclude>
+[[File:ON-prerelease-Dragon 08.jpg|thumb|left|Yahgrondu]]
+In {{Year|2E 582}}, Nahfahlaar, who allied himself with the Dragonguard against [[Lore:Laatvulon|Laatvulon]], informed his mortal allies of Yahgrondu and their pact, but he wasn't sure where his associate was located. Clan Mother Tadali of the Khenarthi's Breath Temple offered her assistance and performed a divination ritual. She told the Dragonguard that Yahgrondu was located somewhere with an abundance of limestone, inside a coastal cave.{{ref|[[Online:Clan Mother Tadali|Clan Mother Tadali]]'s dialogue in [[ON:Online|ESO]]}} When she was done, Nahfahlaar arrived and informed the Dragonguard members of a limestone quarry south of the temple, that had been overrun by the [[Lore:Order of the New Moon|Order of the New Moon]]. By the time the Dragonguard arrived at the limestone mine, Laatvulon was already in the depths of the mine, attempting to convince Yahgrondu to join him. Yahgrondu refused, which provoked Laatvulon to attack him. By the time the Dragonguard members had reached Yahgrondu, he was already dead. Laatvulon then commanded his dragon priest [[Lore:Ra'khajin|Ra'khajin]] to raise Yahgrondu's corpse from the dead with the power of the [[Lore:Aeonstone|aeonstone]], turning Yahgrondu into an undead monstrosity.{{Ref|name=Laatvulon|[[ON:Laatvulon|Laatvulon]]'s dialogue in [[ON:Online|ESO]]}}{{Ref|name=AR|[[ON:Aeliah Renmus|Aeliah Renmus]]' dialogue in [[ON:Online|ESO]]}}{{Ref|name=RK|[[ON:Ra'khajin|Ra'khajin]]'s dialogue in [[ON:Online|ESO]]}} [[Lore:The Vestige|The Vestige]] of the Dragonguard, however, managed to kill the risen corpse of the Dragon.{{ref|Events of [[Online:Uneasy Alliances|Uneasy Alliances]] in [[ON:Online|ESO]]}}
+
+It is unknown whether Yahgrondu's soul was devoured by Laatvulon or not, and as such, it is unknown whether or not Yahgrondu was killed permanently.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} Ra'Khajin only animated the corpse of the dragon, not his soul.{{Ref|name=RK}}{{Ref|name=SS|[[ON:Sai Sahan|Sai Sahan]]'s dialogue in [[ON:Online|ESO]]}}{{Ref|name=Caska|[[ON:Caska|Caska]]'s dialogue in [[ON:Online|ESO]]}}{{NewLeft}}
+
+==See Also==
+*{{GSI|ESO:Yahgrondu}}
+
+==References==
+<references/>
+</noinclude>

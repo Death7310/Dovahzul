@@ -1,0 +1,31 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Nord
+|gender=Male
+|image=SR-npc-Arngeir.jpg
+|title=Master
+|birth=
+|birthLoc=
+|prev=
+|next=
+|loc=[[Lore:High Hrothgar|High Hrothgar]]
+|appears=[[Skyrim:Arngeir|Skyrim]]}}
+{{Quote Box|style=float:none; max-width:none|''We study the Way of the Voice, according to the teachings of our founder, Jurgen Windcaller. Very few are permitted to study with us here at High Hrothgar. But in your case, Dragonborn, it is a privilege to guide you towards mastery of your Voice.''|Arngeir{{Ref|name=Arngeir}}}}</noinclude>
+[[Lore:Arngeir|Arngeir]] is a powerful [[Lore:Greybeards|Greybeard]] who lived during the second and third centuries of the [[Lore:Fourth Era|Fourth Era]]. At the time, Arngeir was the only human of the order with the control over his [[Lore:Thu'um|thu'um]] necessary to speak without fear of wreaking havoc. Therefore, he acted as the Greybeards' representative during this period. He was the right hand of [[Lore:Paarthurnax|Paarthurnax]], the Grandmaster of the order. Arngeir tutored the [[Lore:Last Dragonborn|Last Dragonborn]] in the [[Lore:Way of the Voice|Way of the Voice]] and helped bring about the final defeat of [[Lore:Alduin|Alduin]].{{ref|name=Skyrim|Events of ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLeft}}
+==History==
+{{Quote Box|style=float:none; max-width:none|''This is the road we have to walk. Even the Greybeards must bend to the winds of change, it seems. So be it.''|Arngeir{{Ref|name=Arngeir}}}}
+[[File:SR-npc-Ulfric Stormcloak.jpg|thumb|left|Ulfric Stormcloak, Arngeir's former student]][[File:SR-creature-Paarthurnax.jpg|thumb|right|Paarthurnax, Arngeir's master]]
+Little is known about Arngeir's life before his seclusion from the world and his joining of the Greybeards at High Hrothgar. He spent years honing the art of the Voice and learned many ways of wielding thu'um. He was known to master a variety of shouts, such as Zun Haal Viik, Yol Toor Shul, Fo Krah Diin, Iiz Slen Nus, Fus Ro Dah, Lok Vah Koor, or Wuld Nah Kest.{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue and abilities in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+Circa {{Year|4E 161}}, [[Lore:Ulfric Stormcloak|Ulfric Stormcloak]] was honored to be chosen by the Greybeards while he was "just a lad", and spent nearly ten years training at High Hrothgar, learning the Way of the Voice under Arngeir. By then Arngeir was already the oldest and the most powerful among the human members of the Order. Ulfric left the High Hrothgar when the [[Lore:Great War|Great War]] began and retained some belief in Arngeir's teachings, particularly that the thu'um should not be used lightly. However, he doubted Arngeir had ever forgiven him for leaving, or for what he saw as the blasphemy of using the Voice for purposes other than the worship of [[Lore:Kyne|Kyne]].{{ref|name=Ulfric|[[Skyrim:Ulfric Stormcloak|Ulfric Stormcloak]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+By {{Year|4E 201}}, Master Arngeir, alongside the dragon Paarthurnax and his fellow Nord Greybeards Borri, Einarth, and Wulfgar, were the only remaining members of the Order,{{Ref|name=Arngeir}} and Arngeir has become the oldest and most powerful of the Greybeards.{{ref|name=Ulfric}} Upon sensing the presence of the Last Dragonborn in Skyrim, they summoned them to High Hrothgar for instruction. Arngeir served as the Dragonborn's teacher and mentor, preparing them for their trials and for their role in the defeat of Alduin.{{Ref|name=Arngeir}}{{Ref|name=TWOTV|[[Skyrim:The Way of the Voice|The Way of the Voice]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} He sent the Last Dragonborn to retrieve the [[Lore:Horn of Jurgen Windcaller|Horn]] of [[Lore:Jurgen Windcaller|Jurgen Windcaller]] from his resting place at [[Lore:Ustengrav|Ustengrav]] as the final trial.{{Ref|name=Arngeir}}{{Ref|name=THOJW|[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} He aided the Last Dragonborn in learning more words of power,{{ref|name=TWOP|[[Skyrim:The Words of Power|The Words of Power]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} allowed the Last Dragonborn to meet with his master Paarthurnax,{{ref|name=TTOTW|[[Skyrim:The Throat of the World|The Throat of the World]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} and possibly guided them to learn more of the [[Lore:Elder Scrolls|Elder Scrolls]] from the mages of the [[Lore:College of Winterhold|College of Winterhold]].{{ref|name=EK|[[Skyrim:Elder Knowledge|Elder Knowledge]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} Following the Last Dragonborn's battle against Alduin at the Throat of the World he provided further assistance to the hero.{{Ref|name=Arngeir}}{{ref|name=AB|[[Skyrim:Alduin's Bane|Alduin's Bane]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=TF|[[Skyrim:The Fallen|The Fallen]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} If the situation called for it, he even arranged a diplomatic meeting between the factions of the civil war, hoping to give the Last Dragonborn the means to properly oppose Alduin.{{ref|name=Arngeir}}{{Ref|name=SU|[[Skyrim:Season Unending|Season Unending]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} Following Alduin's defeat and the Dragonborn's victory in [[Lore:Sovngarde|Sovngarde]], Arngeir offered a final counsel, urging them to reflect on how they would use the great power they had gained. He reminded the Dragonborn that their future legacy, whether as a hero, a warning, or one forgotten, would be shaped by their choices, and encouraged them to follow the Way of the Voice as a path toward wisdom.{{ref|name=Arngeir}}{{Ref|name=Dragonslayer|[[Skyrim:Dragonslayer|Dragonslayer]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+There are, however, some accounts claiming that the Dragonborn slew Paarthurnax during their quest, heeding the request of the Grandmaster [[Lore:Delphine|Delphine]] of the [[Lore:Blades|Blades]] instead. In such case, Arngeir would refuse to offer further assistance to the Dragonborn, declaring that such an act was beyond his forgiveness.{{Ref|name=Arngeir}}{{ref|name=PaarthurnaxQ|[[Skyrim:Paarthurnax (quest)|Paarthurnax ]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLeft}}
+
+
+== See Also ==
+*{{GSI|SR:Arngeir}}
+
+==References==
+<references/></noinclude>

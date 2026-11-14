@@ -1,0 +1,14 @@
+<includeonly><cleanspace>
+{{#inherit:ns_base}}
+{{#define:shout|{{{1|}}}}}
+{{#local:page|{{NS_FULL:}}{{{shout}}}}}
+{{#load:{{{page}}}|words|translation|location1|location2|location3|wordwall1|wordwall2|wordwall3|translation1|translation2|translation3|mod}}
+</cleanspace>
+|-
+! colspan=3 | <span id="{{{shout}}}"></span>[[{{{page}}}|{{{shout}}}]]{{#if:{{{mod|}}}|{{{{{mod}}}}}}}
+|-
+| colspan=3 | {{#if:{{{wordwall1|}}}|
+{{#if:{{{location1|}}}|'''Found in:''' {{{location1}}}{{#if:{{{location2|}}}|, {{{location2}}}, and {{{location3}}}}}
+{{WordWall/Main|dummy=}}}}
+|<div style="padding:19px 0">Does not have a word wall.</div>
+}}</includeonly><noinclude>{{/Doc}}</noinclude>

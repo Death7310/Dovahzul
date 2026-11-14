@@ -1,0 +1,51 @@
+{{Shout Summary
+|id=0007097e
+|icon=SR-icon-shout-Kyne's Peace.png
+|quote=The Voice soothes wild beasts, who lose their desire to fight or flee.
+|word1=KaaN
+|wordid1=0006029d
+|cooldown1=40
+|info1=[[Skyrim:Animals|Animals]] up to Level 20 within 75 feet are calmed for 60 s.
+|location1=[[Skyrim:Ragnvald|Ragnvald]]
+|word2=DREM
+|wordid2=0006029e
+|cooldown2=50
+|info2=[[Skyrim:Animals|Animals]] up to Level 20 within 150 feet are calmed for 120 s.
+|location2=[[Skyrim:Rannveig's Fast|Rannveig's Fast]]
+|word3=OV
+|wordid3=0006029f
+|cooldown3=60
+|info3=[[Skyrim:Animals|Animals]] up to Level 20 within 225 feet are calmed for 180 s.
+|location3=[[Skyrim:Shroud Hearth Barrow|Shroud Hearth Barrow]]
+|transword1=Kyne
+|transword2=peace
+|transword3=trust
+|spellid1=00082a34
+|spellid2=00082a39
+|spellid3=00082a3a
+}}
+[[File:SR-word wall-Shroud Hearth Barrow.jpg|left|thumb|The word wall at the end of Shroud Hearth Barrow]]
+'''Kyne's Peace''' is a [[Skyrim:Dragon Shouts|shout]] that calms [[Skyrim:Animals|animals]]. Affected creatures will not fight or flee. Additionally, affected creatures will be revealed by an effect similar to [[Skyrim:Aura Whisper|Aura Whisper]] for the duration of the shout.
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Lifting the Shroud}}
+* {{Quest Link|Ragnvald (quest)}}
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=HET NOK KOPRaaN DO HELA<br>FahDON Wah Pah SIVaaS<br>aaR DO {{FC|blue|KaaN}} aaL REK SiiV UNahZaaL<br>PRaaN KO FeyKRO DO HahNU
+|translation1=Here lies (the) body of Hela,<br>friend to all beasts,<br>servant of {{FC|blue|Kyne}}. May she find eternal<br>rest in the Forest of Dreams.
+|wordwall2=NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMah DRaaL<br>NI Fah {{FC|blue|DREM}} Fah GRIK LOS<br>HIND DO SahLO ahRK NIVahRiiN
+|translation2=Noble Nords remember these words<br>of the hoar father: Pray<br>not for {{FC|blue|peace}}, for such is<br>(the) wish of (the) weak and cowardly.
+|wordwall3=HET Mah SPaaN VahDIN VALKRYS<br>WO KRIF VOTH ahKRIN NUZ<br>LOS FOLaaS Vah {{FC|blue|OV}} MULaaG<br>DO BODiiS TUZ
+|translation3=Here fell shield maiden Valkrys<br>who fought with courage, but<br>was wrong to {{FC|blue|trust}} (the) power<br>of (a) borrowed sword.}}
+
+==Notes==
+* Despite this being a "peaceful" shout, there is a slight shock-wave that is emitted that can cause harm. The shock-wave has a rather large impact area and usually do not provoke NPCs (with the random Vigilants of Stendarr in the wild as an exception), making it useful for bringing down hawks.
+* The shout penetrates doors and walls.
+* This shout can be used to calm animals under the control of [[Skyrim:Spriggan|spriggans]].
+* This shout can be used to cause a large mess quickly in heavily decorated areas such as Dragonsreach if you so desire.
+* It is useful when the message "You cannot fast travel with enemies nearby" appears, as it will tame any hostile creatures in the area, thus allowing you to fast travel.
+{{Skyrim Shouts}}

@@ -1,0 +1,51 @@
+{{Shout Summary
+|id=0002395a
+|icon=SR-icon-shout-Pink.png
+|quote=And the weak shall fear the Thu'um, and flee in terror.
+|word1=FaaS
+|wordid1=0003291a
+|cooldown1=40
+|info1=Causes enemies up to level 7 within 36 feet to flee for 30 s
+|location1=[[Skyrim:Dead Crone Rock|Dead Crone Rock]]
+|word2=RU
+|wordid2=0003291b
+|cooldown2=45
+|info2=Causes enemies up to level 15 within 50 feet to flee for 30 s
+|location2=[[Skyrim:Lost Tongue Overlook|Lost Tongue Overlook]]
+|word3=MaaR
+|wordid3=0003291c
+|cooldown3=50
+|info3=Causes enemies up to level 24 within 93.75 feet to flee for 30 s
+|location3=[[Skyrim:Shalidor's Maze|Shalidor's Maze]]
+|transword1=Fear
+|transword2=run
+|transword3=terror
+|spellid1=0002395b
+|spellid2=0002395e
+|spellid3=00023967
+}}
+'''Dismay''' is a [[Skyrim:Dragon Shouts|dragon shout]] that causes enemies to flee from you. It can hit any enemies in its radius, similar to [[Skyrim:Unrelenting Force|Unrelenting Force]].
+
+{{NewLeft}}
+==Possible Uses==
+*Occupying several weaker enemies to make way for a stronger foe.
+*Lessening the odds against yourself when outnumbered.
+*Clearing the way to flee out of a difficult situation.
+*Buying time to safely transform into a [[Skyrim:Werewolf|Werewolf]] or [[Skyrim:Vampire Lord|Vampire Lord]].
+
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah {{FC|blue|FaaS}} NI BRENDON DO<br>DINOK Fah ROK LOS QOLaaS DO MORO<br>ahRK HIN aaK Wah LOT SOVNGARDE
+|translation1=Noble Nord, remember these words of the<br>hoar father: {{FC|blue|Fear}} not (the) specter of<br>death, for he is (the) herald of glory<br>and your guide to great Sovngarde.
+|wordwall2=HET NOK KOPRaaN DO SONaaN<br>ROMERIUS WO UNT {{FC|blue|RU}} NOL OSOS<br>GOGIL NUZ MOTMah
+|translation2=Here lies (the) body of Bard<br>Romerius who tried (to) {{FC|blue|run}} from some<br>Goblins but slipped
+|wordwall3=QETHSEGOL VahRUKIV DaaNIK<br>FahLiiL KiiR DO GRAVuuN FROD<br>WO BOVUL KO {{FC|blue|MaaR}} NOL KINZON<br>ZahKRii DO KRUZiiK HOKORON
+|translation3=(This) stone commemorates (the) doomed<br>Elf children of (the) Autumn Field<br>Who fled in {{FC|blue|terror}} from (the) sharp<br>Swords of (the) ancient enemy}}
+
+== Notes ==
+* Although its effects are similar to that of [[Skyrim:Fear (effect)|Fear]] spells, Dismay is ''not'' governed by the [[Skyrim:Illusion|Illusion]] skill and does not benefit from any perks. It also does not affect undead, Daedra, machines, or dragons.
+
+
+{{Skyrim Shouts}}

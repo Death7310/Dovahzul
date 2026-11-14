@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Vahlok the Jailor",
+  "revid": 3533186,
+  "timestamp": "2026-03-31T10:38:22Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3533186&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "a61feaff33a3da078092a5a98ffa9b3233d07782f2e815d714fd4bf68bb618a5",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 141498,
+  "ns": 134,
+  "parentid": 2930106,
+  "requested_title": "Skyrim:Vahlok the Jailor",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Vahlok_the_Jailor",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3533186",
+  "sha1": "60bee582cb33435f02b9f89e4d2b32db9ce1e189",
+  "sha1_matches_mediawiki": true,
+  "bytes": 2417,
+  "chars": 2417,
+  "lines": 39,
+  "saved_as": "research/sources/uesp/Skyrim_Vahlok_the_Jailor.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Otar+the+Mad|Skyrim:Rahgot+%28creature%29|Skyrim:Vahlok+the+Jailor|Skyrim:Vokun+%28creature%29|Skyrim:Volsung+%28creature%29|Skyrim:Zahkriisos+%28creature%29|Skyrim:Hevnoraak+%28item%29|Skyrim:Krosis+%28item%29|Skyrim:Morokei+%28item%29|Skyrim:Nahkriin+%28item%29|Skyrim:Vokun+%28item%29|Skyrim:Volsung+%28item%29",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:39Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

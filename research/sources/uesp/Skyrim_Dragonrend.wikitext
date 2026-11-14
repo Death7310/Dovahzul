@@ -1,0 +1,48 @@
+{{Shout Summary
+|id=00044250
+|icon=SR-icon-shout-Dragonrend.png
+|quote=Your Voice lashes out at a dragon's very soul, forcing the beast to land.
+|word1=JooR
+|wordid1=00044251
+|cooldown1=10
+|info1=15 seconds
+|location1=[[Skyrim: Throat of the World|Throat of the World]] (during [[Skyrim:Alduin's Bane|Alduin's Bane]])
+|letters1=J8R
+|word2=Zah
+|wordid2=00044252
+|cooldown2=12
+|info2=18 seconds
+|letters2=Z4
+|word3=FRUL
+|wordid3=00044253
+|cooldown3=15
+|info3=22 seconds
+|letters3=FRUL
+|transword1=Mortal
+|transword2=Finite
+|transword3=Temporary
+|spellid1=00044254
+|spellid2=00028315
+|spellid3=00028345
+}}
+[[File:SR-shout-Dragonrend.jpg|thumb|left|A dragon under the effects of Dragonrend is forced to land.]]
+'''Dragonrend''' is a [[Skyrim:Dragon Shouts|dragon shout]] that weakens a [[Skyrim:Dragon|dragon]] and forces it to land. It is said to do so by forcing a dragon to experience mortality, a completely foreign concept to the ageless and immortal dragons. For this very reason, it is impossible for any dragon to learn Dragonrend. 
+
+The shout is learned during [[Skyrim:Alduin's Bane|Alduin's Bane]], as part of the [[Skyrim:Main Quest|main quest]], by hearing the three Nordic heroes, [[Skyrim:Gormlaith Golden-Hilt|Gormlaith Golden-Hilt]], [[Skyrim:Felldir the Old|Felldir the Old]], and [[Skyrim:Hakon One-Eye|Hakon One-Eye]], use it against [[Skyrim:Alduin|Alduin]].
+{{NewLeft}}
+
+== Related Quests ==
+* {{Quest Link|Alduin's Bane}}
+* {{Quest Link|The Fallen}}
+* {{Quest Link|Dragonslayer}}
+
+== Notes ==
+* In addition to rendering a dragon unable to fly, they will stagger from this Shout even if one Word of Power is used.  This makes it additionally useful for "stun-locking" the dragon after it lands, exploiting the quick cool-down compared to other Shouts.
+* The third word of this shout provides a slightly shorter period of time in which a dragon will be grounded relative to the cooldown. The first and second word version provide 1.5 seconds of time in which a dragon will be grounded for each second spent recharging your shout. However, the third word only provides 1.46 seconds of time a dragon will be grounded for each second spent recharging after using the shout.
+* Dragonrend has no effect on NPCs and non-dragon creatures, and will not turn them hostile or cause a bounty. You will receive a notification of "[NPC or creature name] resisted Dragonrend" if you use it on non-Dragon targets.
+*This shout is one of the most visually impressive, causing the entire screen to turn shades of blue for a few seconds when used.
+
+== Bugs ==
+{{Bug|If there is no valid landing location nearby, a dragon will fly away from the player as it looks for a usable landing location, potentially ending the battle by flying far enough away.|confirmed=1}}
+
+{{Skyrim Shouts}}

@@ -1,0 +1,18 @@
+<includeonly><cleanspace>
+{{#preview:ns_base|Skyrim}}
+{{#preview:shout|Dismay}}
+{{#preview:wordwall1   |NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah {{FC|blue|FaaS}} NI BRENDON DO<br>DINOK Fah ROK LOS QOLaaS DO MORO<br>ahRK HIN aaK Wah LOT SOVNGARDE}}
+{{#preview:translation1|Noble Nord, remember these words of the<br>hoar father: {{FC|blue|Fear}} not (the) specter of<br>death, for he is (the) herald of glory<br>and your guide to great Sovngarde.}}
+{{#preview:wordwall2   |HET NOK KOPRaaN DO SONaaN<br>ROMERIUS WO UNT {{FC|blue|RU}} NOL OSOS<br>GOGIL NUZ MOTMah}}
+{{#preview:translation2|Here lies the body of Bard<br>Romerius who tried to {{FC|blue|run}} from some<br>Goblins but slipped}}
+{{#preview:wordwall3   |QETHSEGOL VahRUKIV DaaNIK<br>FahLiiL KiiR DO GRAVuuN FROD<br>WO BOVUL KO {{FC|blue|MaaR}} NOL KINZON<br>ZahKRii DO KRUZiiK HOKORON}}
+{{#preview:translation3|This stone commemorates the doomed<br>Elf child of Autumn Field<br>Who fled in {{FC|blue|terror}} from the sharp<br>Sword of an ancient enemy}}
+{{#save:wordwall1|wordwall2|wordwall3|translation1|translation2|translation3|allwords|ifnot={{{shout|}}}}}
+{{#define:shout|{{PAGENAME}}}}</cleanspace>
+{| class="wikitable" style="text-align:center"
+! rowspan=2 | Thu'um !! {{SkipLink|{{NS_FULL:}}Word Wall|Word Wall}} !! rowspan=2 {{!}} Translation
+|-
+! Transliteration
+|-
+{{WordWall/Main}}
+|}</includeonly><noinclude>{{/Doc}}</noinclude>

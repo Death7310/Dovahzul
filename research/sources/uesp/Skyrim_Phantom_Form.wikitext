@@ -1,0 +1,47 @@
+{{Shout Summary
+|id=0002f2df
+|quote=Phantom Form, for 8 secs
+|word1=FiiK
+|wordid1=0002f2cc
+|spellid1=0002f2de
+|cooldown1=1
+|info1=Create phantom for 8 seconds.
+|location1=Unavailable
+|word2=LO
+|wordid2=0002f2cd
+|spellid2=0002f2de
+|cooldown2=1
+|info2=Create phantom for 8 seconds.
+|word3=SAH
+|wordid3=0002f2ce
+|spellid3=0002f2de
+|cooldown3=1
+|info3=Create phantom for 8 seconds.
+|transword1=mirror
+|transword2=deceive
+|transword3=phantom
+}}
+
+'''Phantom Form''' is a [[Skyrim:Dragon Shouts|dragon shout]] that creates a [[Skyrim:phantom|phantom]]. It is used by the [[Skyrim:Greybeards|Greybeards]] to create targets for shout practice. 
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|The Way of the Voice}}
+
+== Notes ==
+* It is unavailable to the player, but PC users can use [[Skyrim:Console|console]] commands to learn and unlock the shout. This shout was apparently intended to be usable by the player, as it is voiced for all races and its three Word Walls can be found in the game files.
+* Although the unused Word Wall writes "SAH" as {{DragonFont|Sah|3}}, using a single glyph for ah, the third word of the shout itself actually uses separated a and h letters, rendering it as {{DragonFont|SAH|3}}.
+{{NewLine}}
+
+== Word Wall Translations (only in the game files) ==
+{{WordWall
+|wordwall1=HET ONT KRiiST {{FC|blue|FiiK}} DO AMUSAN<br>MiiRaaD Wah HahVULON ahRK<br>MiiRaaK DO HahNU
+|translation1=Here once stood (the) {{FC|blue|Mirror}} of Amusan,<br>doorway to nightmares and<br>portal of dreams.
+|wordwall2=NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMah {{FC|blue|LO}} NI HIN<br>KiiM Fah REK LOS WOL KO HIN<br>SPaaN DWiiN KO HIN ZahKRii
+|translation2=Noble Nords, remember these words<br>of the Hoar Father : {{FC|blue|Deceive}} not your<br>wife, for she is (the) oak in your<br>shield, (and the) steel in your sword.
+|wordwall3=QETHSEGOL VahRUKIV SOD DO<br>SIGLIF FIN VONUN WO aaM LOT<br>KeiZaaL NI OL KENDOV KO VU<br>NUZ OL {{FC|blue|Sah}} KO SUVULaaN
+|translation3=(This) stone commemorates (the) deeds of<br>Siglif the Unseen, who served great<br>Skyrim not as (a) warrior in dawn,<br>but as (a) {{FC|blue|phantom}} in twilight.}}
+
+{{Skyrim Shouts}}
+
+{{Stub|Magic}}

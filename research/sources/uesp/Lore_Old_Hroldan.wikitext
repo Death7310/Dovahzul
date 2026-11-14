@@ -1,0 +1,48 @@
+<noinclude>{{Lore Places Trail}}{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|region=The Reach
+|settlement=Old Hroldan
+|image=SR-place-Old Hroldan.jpg
+|imgdesc=Old Hroldan ca. {{Year|4E 201}}
+|appears=[[Skyrim:Old Hroldan Inn|Skyrim]], [[Online:Hroldan Ring|ESO]]
+}}[[File:ON-place-Hroldan Ring.jpg|thumb|right|Hroldan Ring ca. {{Year|2E 582}}]]</noinclude>
+[[Lore:Old Hroldan|Old Hroldan]]{{intnote|Hroldan|[nb 1]}} (formerly known as '''Hroldan'''){{Ref|name=AOTD|{{Cite Book|Annals of the Dragonguard}}}} is a historical landmark in the southern river valley of [[Lore:The Reach|the Reach]], in the province of [[Lore:Skyrim|Skyrim]]. The land has frequently passed hands between the [[Lore:Reachfolk|Reachfolk]] and the [[Lore:Nord|Nords of Karth]]. To the Nords, it is a historical settlement from the early [[Lore:First Era|First Era]], possibly one of their earliest known footholds in the Reach in a post-[[Lore:Dragon Cult|Dragon Cult]] era,{{Ref|name=HOJG|{{Cite Book|Holdings of Jarl Gjalund}}}} but to the local Reachfolk, the site was known as '''Hroldan Ring''', and it was neutral grounds for the [[Lore:Reachman Clans|Reach clans]] to trade resources or share stories with one another.{{Ref|name=ONArana|[[Online:Arana|Arana]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Markarth (DLC)|Markarth]]''}} The site is known as '''Ahroldan''' in the [[Lore:Dragon Language|Dragon language]].{{Ref|name=HOJG}}<noinclude>{{TOCleft}}
+{{NewLine}}
+
+==History==
+===Early History===
+[[File:ON-quest-Vows and Oaths.jpg|thumb|right|The Meeting of Two Clans at Hroldan Ring]]
+The earliest records of Hroldan describe it as a hall once inhabited by the native Reachfolk,{{Ref|name=HOJG}} whose ancestors resided in the Reach long before the arrival of the first Nords,{{ref|name=ONLVR|[[Online:Lost Valley Redoubt|Lost Valley Redoubt]]'s loading screen in [[Online:Online|ESO]]}} "when the world was young".{{ref|name=ONArdanir|[[Online:Ardanir|Ardanir]]'s dialogue in [[Online:Online|ESO]]}} Dating back to the early First Era, the area was part of the southern Karth River valley, within [[Lore:Whiterun Hold|Whiterun Hold]], at the time under the rule of Jarl Gjalund.{{Ref|name=HOJG}}{{Ref|name=SRFarengar|[[Skyrim:Farengar Secret-Fire|Farengar Secret-Fire]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} At that time, it was simply known as H'roldan, a large wooden Reachfolk hall, surrounded by open land used for pasturing. It was reportedly taken by the Nords from the native Reachfolk, and they would give [[Lore:Silver|silver]] and [[Lore:Iron|iron]] as tribute.{{Ref|name=HOJG}} Many years later, Hroldan was the seat of an unknown Jarl, alongside the city of [[Lore:Markarth|Markarth]]. In {{Year|1E 2801}}, Emperor [[Lore:Kastav|Kastav]] of the [[Lore:Second Empire|Second Empire]] ordered the [[Lore:Dragonguard|Dragonguard]] to seize hostages from both settlements, so their jarls can meet his conscripted quota. The incident damaged public relations between the Dragonguard and the people of Skyrim.{{Ref|name=AOTD}}
+
+By the time the [[Lore:Interregnum|Interregnum]] took place, Old Hroldan was relinquished back to the Reachfolk and it was reverted to the site known as the Hroldan Ring. The meeting ground was featured in the fictional book, [[Lore:Investigator Vale in the Reach|Investigator Vale in the Reach]]. The eponymous [[Lore:Investigator Vale|main character]] met with Clan Chieftain Orana of the [[Lore:Spirit-Tale Clan|Spirit-Tale Clan]], who informed her about the missing offerings for the spirits of Hroldan Ring. Some of the tribes including the Spirit-Tale Clan were nigh close to war, but the investigator was able to find the culprits in mere seconds. Two young hunters and a harmless prank gone wrong. The investigator was then granted safe passage through the Reach.{{Ref|name=IVITR|{{Cite Book|Investigator Vale in the Reach}}}}
+
+In {{Year|2E 582}}, the [[Lore:Ghostsong Clan|Ghostsong Clan]] gathered at Hroldan Ring at the behest of their matriarch, [[Lore:Nathari|Nathari]], before they made their way south to the [[Lore:Lost Valley Redoubt|Lost Valley Redoubt]]. The matriarch promised the clan a great revelation inside the ruins, but it was later revealed to be a mass sacrifice to restore the [[Lore:Dark Heart|Dark Heart]] that rests underneath the Reach.{{Ref|name=ONAwakening|[[Online:The Awakening Darkness|The Awakening Darkness]] story quest in [[Online:Online|ESO]]: ''[[Online:Markarth (DLC)|Markarth]]''}} In that same year, two rival clans, the [[Lore:Eagleseers|Eagleseers]] and the [[Lore:Six-Ford Clan|Six-Fords]] gathered at Hroldan Ring to celebrate the arranged marriage of their youngest members, Eslyn of the Eagleseers and Madearn of the Six-Fords.{{Ref|name=ONVows|[[Online:Vows and Oaths|Vows and Oaths]] quest in [[Online:Online|ESO]]: ''[[Online:Markarth (DLC)|Markarth]]''}}
+
+Before the marriage had begun, the two ran out into the wilderness and the Chief-of-Chiefs, [[Lore:Cannear|Cannear]] sent an [[Lore:The Vestige|adventurer]] to bring them back. Their quest eventually brought them across the Reach, on a journey to understand why the rivalry began in the first place, to maybe mend the broken connection the two clans had. The three of them returned to Hroldan Ring with the [[Lore:Lover's Coil|Lover's Coil]], an artifact that symbolized the love between the two clan's founding members before it was broken. It is unknown whether they continued with the handfasting ceremony or not, but the feud between the Eagleseers and Six-Fords had eventually started to die out.{{Ref|name=ONVows}}
+{{NewLine}}
+
+===The Sack of Old Hroldan and onward===
+[[File:SR-npc-Ghost of Old Hroldan.jpg|thumb|right|The Ghost of Old Hroldan]]
+By the late [[Lore:Second Era|Second Era]], Old Hrol'dan was the site of an impervious stronghold still occupied by the Reachmen and it proved a formidable threat for the Nords of Southern Skyrim. One of the first known conflicts was the Sack of Old Hrol'dan, which took place sometime after {{Year|2E 809}}.{{Ref|name=RGTobias|[[Redguard:Tobias|Tobias]]' biography in ''[[Redguard:Redguard|Redguard]]''}} But one of the most important conflicts to come out of this time was the [[Lore:Battle of Old Hroldan|Battle of Old Hroldan]], when the Colovian-King of [[Lore:Falkreath Hold|Falkreath]], [[Lore:Cuhlecain|Cuhlecain]], who sought to unite the [[Lore:Colovian Estates|Colovian Estates]] for his campaign for the [[Lore:Imperial City|Imperial City]]. The King enlisted the help of his prized general, [[Lore:Hjalti Early-Beard|Hjalti Early-Beard]] to besiege the keep and secure their northern border.
+
+The battle commenced and with his small band of Colovian troops and Nordic berserkers, General Hjalti broke the initial line until the enemy was forced back inside the gates. The next morning, the General approached the gates and penetrated the walls with ease and the power of his [[Lore:Thu'um|thu'um]]. The enemy's volley of arrows did nothing to sedate him and soon, Old Hrol'dan's walls had completely fallen and Hjalti's soldiers stormed in, securing the keep. The general acquired the name of Hjalti [[Lore:Talos|Talos]] and later took on the [[Lore:Cyrodilic|Cyrodilic]] name, [[Lore:Tiber Septim|Tiber Septim]].{{Ref|name=TAH|{{Cite Book|The Arcturian Heresy}}}}
+
+By the third century of the [[Lore:Fourth Era|Fourth Era]], the only piece of property on Old Hroldan was a lowly inn owned by the publican, Eydis, and her husband. Throughout the years, she has managed to preserve Tiber Septim's bed and it has since been used.{{Ref|name=SREydis|[[Skyrim:Eydis|Eydis]]' dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} One day, a [[Lore:Last Dragonborn|certain traveler]] stayed in the inn for a night and woke up to find a [[Lore:Ghost|ghost]] sitting idly in the inn. The ghost mistook the traveler for Hjalti and asked that he may be named his sworn brother, just as he promised him. The traveler left the inn to search for Hjalti's long-lost sword, somewhere in the expanse of the Reach. Eventually, they returned to Old Hroldan Inn and passed the sword onto the fallen soldier. Before he was able to rest in peace, the ghost taught the traveler techniques he and Hjalti learned from the swordmasters of [[Lore:Alcaire|Alcaire]].{{Ref|name=SRGhost|[[Skyrim:The Ghost of Old Hroldan|The Ghost of Old Hroldan]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+
+==Gallery==
+<gallery>
+ON-place-Hroldan Ring 02.jpg|Handfasting Cave
+</gallery>
+
+==Notes==
+*{{LNote|Hroldan|^|Old Hroldan is known to have numerous spellings, such as '''Old H'roldan''',{{Ref|name=PGE1EWR|{{Cite Book|Pocket Guide to the Empire, 1st Edition/The Wild Region}}}} '''Old Hrol'dan''',{{Ref|name=TAH}}, '''H'roldan''',{{Ref|name=HOJG}} and '''Ahroldan'''.{{Ref|name=HOJG}}}}
+*In the late-Second Era, Old Hroldan was considered part of the province of [[Lore:High Rock|High Rock]] and not far from it in an [[Lore:Wrothgar|uninhabited mountain region]] was where the original [[Lore:Orc|Orcish]] tribes were located after their exodus from the southwest in the First Era.{{Ref|name=PGE1EWR}}
+
+==See Also==
+* {{GSI|Skyrim:Old Hroldan Inn|Online:Hroldan Ring}}
+
+==References==
+<references/>
+</noinclude>

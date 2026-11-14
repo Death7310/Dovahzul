@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "generated_at": "2026-11-14T06:47:51Z",
+    "generator": "tools/ingest/parse_corpus.py",
+    "source": "UESP wiki (en.uesp.net), MediaWiki API snapshot under research/sources/uesp/",
+    "license": "Attribution-ShareAlike 2.5 License",
+    "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+    "attribution": "Text from the Unofficial Elder Scrolls Pages (UESP), https://en.uesp.net/ ; each record names its page and revision id.",
+    "notes": [
+      "The wiki describes the script as a whole but gives no description of any single rune's shape; shape_description is therefore null for every rune. Glyphs exist on the wiki only as a web font.",
+      "latin = the Latin value the wiki's table heads the rune with.",
+      "dragonfont_template_code = what the wiki's {{DragonFont}} template is given to print the rune: the letter itself, or a digit 1-9 for the two-letter runes.",
+      "wiki_spelling_in_transcriptions = how the rune is typed in the wiki's rune-case transcriptions (lower-case pair for two-letter runes)."
+    ],
+    "counts": {
+      "runes_in_main_table": 34,
+      "single_letter_runes": 25,
+      "two_letter_runes": 9,
+      "extra_font_glyphs": 2
+    }
+  },
+  "runes": [
+    {
+      "order_on_wiki": 1,
+      "latin": "A",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "A",
+      "wiki_spelling_in_transcriptions": "A",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 2,
+      "latin": "AA",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "1",
+      "wiki_spelling_in_transcriptions": "aa",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 3,
+      "latin": "AH",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "4",
+      "wiki_spelling_in_transcriptions": "ah",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 4,
+      "latin": "B",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "B",
+      "wiki_spelling_in_transcriptions": "B",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 5,
+      "latin": "D",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "D",
+      "wiki_spelling_in_transcriptions": "D",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 6,
+      "latin": "E",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "E",
+      "wiki_spelling_in_transcriptions": "E",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 7,
+      "latin": "EI",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "2",
+      "wiki_spelling_in_transcriptions": "ei",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 8,
+      "latin": "EY",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "9",
+      "wiki_spelling_in_transcriptions": "ey",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 9,
+      "latin": "F",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "F",
+      "wiki_spelling_in_transcriptions": "F",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 10,
+      "latin": "G",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "G",
+      "wiki_spelling_in_transcriptions": "G",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 11,
+      "latin": "H",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "H",
+      "wiki_spelling_in_transcriptions": "H",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 12,
+      "latin": "I",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "I",
+      "wiki_spelling_in_transcriptions": "I",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 13,
+      "latin": "II",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "3",
+      "wiki_spelling_in_transcriptions": "ii",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 14,
+      "latin": "IR",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "7",
+      "wiki_spelling_in_transcriptions": "ir",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 15,
+      "latin": "J",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "J",
+      "wiki_spelling_in_transcriptions": "J",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 16,
+      "latin": "K",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "K",
+      "wiki_spelling_in_transcriptions": "K",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 17,
+      "latin": "L",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "L",
+      "wiki_spelling_in_transcriptions": "L",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 18,
+      "latin": "M",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "M",
+      "wiki_spelling_in_transcriptions": "M",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 19,
+      "latin": "N",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "N",
+      "wiki_spelling_in_transcriptions": "N",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 20,
+      "latin": "O",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "O",
+      "wiki_spelling_in_transcriptions": "O",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 21,
+      "latin": "OO",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "8",
+      "wiki_spelling_in_transcriptions": "oo",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 22,
+      "latin": "P",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "P",
+      "wiki_spelling_in_transcriptions": "P",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 23,
+      "latin": "Q",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "Q",
+      "wiki_spelling_in_transcriptions": "Q",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 24,
+      "latin": "R",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "R",
+      "wiki_spelling_in_transcriptions": "R",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 25,
+      "latin": "S",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "S",
+      "wiki_spelling_in_transcriptions": "S",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 26,
+      "latin": "T",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "T",
+      "wiki_spelling_in_transcriptions": "T",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 27,
+      "latin": "U",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "U",
+      "wiki_spelling_in_transcriptions": "U",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 28,
+      "latin": "UU",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "5",
+      "wiki_spelling_in_transcriptions": "uu",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 29,
+      "latin": "UR",
+      "kind": "two-letter rune",
+      "dragonfont_template_code": "6",
+      "wiki_spelling_in_transcriptions": "ur",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 30,
+      "latin": "V",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "V",
+      "wiki_spelling_in_transcriptions": "V",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 31,
+      "latin": "W",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "W",
+      "wiki_spelling_in_transcriptions": "W",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 32,
+      "latin": "X",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "X",
+      "wiki_spelling_in_transcriptions": "X",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 33,
+      "latin": "Y",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "Y",
+      "wiki_spelling_in_transcriptions": "Y",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 34,
+      "latin": "Z",
+      "kind": "single-letter rune",
+      "dragonfont_template_code": "Z",
+      "wiki_spelling_in_transcriptions": "Z",
+      "in_main_alphabet_table": true,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 35,
+      "latin": "C",
+      "kind": "not used by the language (wiki: 'the letter is unused in the Dragon Language')",
+      "dragonfont_template_code": "C",
+      "wiki_spelling_in_transcriptions": "C",
+      "in_main_alphabet_table": false,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "order_on_wiki": 36,
+      "latin": "0",
+      "kind": "font-only glyph (wiki: 'goes unused as there is no associated letter')",
+      "dragonfont_template_code": "0",
+      "wiki_spelling_in_transcriptions": null,
+      "in_main_alphabet_table": false,
+      "shape_description": null,
+      "glyph_source": "The wiki shows the glyph only by rendering the code above in its DragonscriptRegular web font; it gives no per-rune description.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    }
+  ],
+  "statements": [
+    {
+      "statement": "The Dragon Alphabet is the alphabet used for the Dragon Language. Text written in the Dragon Alphabet is found on walls in ancient dungeons and on burial grounds in the form of Word Walls. The alphabet consists of 34 symbols: 25 that map directly to letters in the Latin alphabet, and nine that represent pairs of letters. There is a symbol for every letter in the Latin alphabet.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681,
+      "wiki_source_note": "The wiki cites the in-game book Dragon Language: Myth no More for the first two sentences."
+    },
+    {
+      "statement": "The shape of the letters is constrained by their need to be written using three large talons and a vestigial fourth digit called the dewclaw. Thus, all of the character symbols consist of a maximum of three scratches occasionally punctuated with a dot from the dewclaw.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681,
+      "wiki_source_note": "The wiki cites this to Game Informer, 'Skyrim's Dragon Shouts', 20 January 2011, in its 'UOL' reference group."
+    },
+    {
+      "statement": "The letter \"C\" does not usually appear, due to the fact that the letter is unused in the Dragon Language. See Legends Card Packs below for details.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "The character \"0\" is a part of the Dragon Alphabet Font. It goes unused as there is no associated letter.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "This is the only instance of the letter \"C\" in the Dragon Alphabet.",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "Although the unused Word Wall writes \"SAH\" as Sah, using a single glyph for ah, the third word of the shout itself actually uses separated a and h letters, rendering it as SAH.",
+      "source_page": "Skyrim:Phantom Form",
+      "revid": 3207612,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "General:Fonts lists a font 'Dragon_script' as appearing in Skyrim (2011), used for the Dragon Language.",
+      "source_page": "General:Fonts",
+      "revid": 3509518,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "The following fonts are available for download: Dwemer, Daedric, Dragon and Falmer.",
+      "source_page": "General:Fonts",
+      "revid": 3509518,
+      "wiki_source_note": null
+    },
+    {
+      "statement": "The language concept that emerged abandoned tense, conjugation, and even upper and lower case letters, preferring that the context imply those ideas. For instance, in the translation of Game Informer’s back cover, the word “fundein” translates to “unfurled,” but it could mean either unfurl or unfurled, depending on where the word is used. Similarly, the word “prodah” could mean either foretell or foretold.",
+      "source_page": "General:Skyrim’s Dragon Shouts",
+      "revid": 3187192,
+      "wiki_source_note": "Text of the Game Informer feature 'Skyrim’s Dragon Shouts' (Matt Miller; quotes Todd Howard and Emil Pagliarulo) as archived on the wiki. Developer statements reported by the press: semi-canon."
+    },
+    {
+      "statement": "Beyond crafting the spoken language of the dragons, Pagliarulo and the rest of the developers at Bethesda needed one final important element to make their new language shine: a written alphabet.",
+      "source_page": "General:Skyrim’s Dragon Shouts",
+      "revid": 3187192,
+      "wiki_source_note": "Text of the Game Informer feature 'Skyrim’s Dragon Shouts' (Matt Miller; quotes Todd Howard and Emil Pagliarulo) as archived on the wiki. Developer statements reported by the press: semi-canon."
+    },
+    {
+      "statement": "“The idea was, how would the dragons write or scratch this language in the stone or on the ground? Everything is done with the three talons. You’ll always see combinations of one to three scratches, and sometimes the dot, which is like the dewclaw,” Todd Howard explains. With that concept in mind, someone had to make the idea into a reality: concept artist Adam Adamowicz. “One of our concept artists [Adamowicz] had the task of making a font. Make unique symbols for these letters that sound like this, using this scheme. He was literally like, ‘What?’ I think he sat there and stared at his monitor for an hour. And we came back, and he’d say, ‘I still don’t…say it again?’” Howard laughs.",
+      "source_page": "General:Skyrim’s Dragon Shouts",
+      "revid": 3187192,
+      "wiki_source_note": "Text of the Game Informer feature 'Skyrim’s Dragon Shouts' (Matt Miller; quotes Todd Howard and Emil Pagliarulo) as archived on the wiki. Developer statements reported by the press: semi-canon."
+    },
+    {
+      "statement": "Working together with Adamowicz, a final runic alphabet emerged. “It doesn’t coincide directly with the alphabet we use in English. There are 34 unique characters within the language,” Pagliarulo says. Some Roman alphabet letters don’t exist, like the letter \"c\". In other instances, a single runic character represents multiple Roman letters, including many double vowels like “aa” or “ei.” For ease of use in implementing the language into the game, the final font was designed to work in word processors like Microsoft Word. Many of the number keys on a traditional keyboard are co-opted within the font to include the additional dragon characters.",
+      "source_page": "General:Skyrim’s Dragon Shouts",
+      "revid": 3187192,
+      "wiki_source_note": "Text of the Game Informer feature 'Skyrim’s Dragon Shouts' (Matt Miller; quotes Todd Howard and Emil Pagliarulo) as archived on the wiki. Developer statements reported by the press: semi-canon."
+    },
+    {
+      "statement": "Take a look at the individual runes in the written dragon language. Can you see how each character could be written by a creature with three front talons and a dewclaw? Even the shape of the letters echoes claw marks.",
+      "source_page": "General:Skyrim’s Dragon Shouts",
+      "revid": 3187192,
+      "wiki_source_note": "Text of the Game Informer feature 'Skyrim’s Dragon Shouts' (Matt Miller; quotes Todd Howard and Emil Pagliarulo) as archived on the wiki. Developer statements reported by the press: semi-canon."
+    }
+  ],
+  "dragonfont_template": {
+    "template": "Template:DragonFont",
+    "digit_codes": {
+      "1": "aa",
+      "2": "ei",
+      "3": "ii",
+      "4": "ah",
+      "5": "uu",
+      "6": "ur",
+      "7": "ir",
+      "8": "oo",
+      "9": "ey"
+    },
+    "usage_note": "Text to display using the Dragon font. Use upper-case letters for single-symbol characters. Use lower-case or numbers, as listed, when one symbol in the dragon language is two letters in the Latin alphabet.",
+    "font_family_in_template": "DragonscriptRegular",
+    "source_page": "Template:DragonFont/Doc",
+    "revid": 1369290
+  },
+  "non_language_uses_of_the_script": [
+    {
+      "runes_as_written": "WALK IN THE PA OF THE LEGENDS",
+      "latin_reading_on_wiki": "WALK IN THE PA[TH] OF THE LEGENDS",
+      "language": "English written in dragon runes (not Dragon Language)",
+      "where": "Heroes of Skyrim Legendary card packs, The Elder Scrolls: Legends",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "runes_as_written": "UNLEASH THE STRENGTH OF LEGENDS AND CONQUER ALL",
+      "latin_reading_on_wiki": "UNLEASH THE STRENGTH OF LEGENDS AND CONQUER ALL",
+      "language": "English written in dragon runes (not Dragon Language)",
+      "where": "Heroes of Skyrim Legendary card packs, The Elder Scrolls: Legends",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    },
+    {
+      "runes_as_written": "THE POWER OF LEGENDS AWAITS YOU",
+      "latin_reading_on_wiki": "THE POWER OF LEGENDS AWAITS YOU",
+      "language": "English written in dragon runes (not Dragon Language)",
+      "where": "Heroes of Skyrim Legendary card packs, The Elder Scrolls: Legends",
+      "source_page": "Lore:Dragon Alphabet",
+      "revid": 3495681
+    }
+  ]
+}

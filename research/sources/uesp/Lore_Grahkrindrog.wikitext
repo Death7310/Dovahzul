@@ -1,0 +1,19 @@
+<noinclude>{{Lore People Summary
+|image=MER-toys-Grahkrindrog.jpg
+|fullimgdesc=Grahkrindrog
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=2E 184
+|deathLoc=Northern Coast
+|resurrection=4E 201
+|death2=4E 201
+|death2Loc=Skyrim
+|appears=[[SkyrimTAG:From the Ashes (campaign)|Skyrim - The Adventure Game]]
+}}</noinclude>
+[[Lore:Grahkrindrog|Grahkrindrog]] is a high [[Lore:Dragon|dragon]] whose name means "Battle-Courageous-Lord" in the [[Lore:Dragon Language|Dragon Language]].{{Ref|name=TIL|[https://www.imperial-library.info/content/lang-dragon Official Bethesda Dragon dictionary] from Imperial Library}}
+
+Grahkrindrog was slain by the [[Lore:Dragonguard|Dragonguard]] in {{Year|2E 184}}, after perpetrating great slaughter in [[Lore:Winterhold (region)|Winterhold]] and [[Lore:Eastmarch|Eastmarch]] in northeast [[Lore:Skyrim|Skyrim]]. The dragon's name was supposedly confirmed to the Dragonguard with assistance from mages of the [[Lore:College of Winterhold|College of Winterhold]]. His death was later documented by the Dragonguard in {{Year|2E 373}}.{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}} In {{Year|4E 201}}, he was resurrected by [[Lore:Alduin|Alduin]] and caused havoc across the Holds of Skyrim. The [[Lore:Sheathed Blades|Sheathed Blades]] chased down and defeated the colossal dragon, which was said to have plagued Skyrim for centuries in ancient times.{{Ref|name=AdventureGame|Events of [[SkyrimTAG:From the Ashes|From the Ashes]] [[SkyrimTAG:From the Ashes (campaign)|campaign]] in [[SkyrimTAG:Skyrim - The Adventure Game|''Skyrim — The Adventure Game'']]}}  Due to the nature of dragons, Grahkrindrog may not be truly dead and therefore could rise again.<noinclude>
+
+==References==
+<references/>{{Lore Antagonists}}</noinclude>

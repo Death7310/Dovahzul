@@ -1,0 +1,39 @@
+{
+  "title": "Legends:Paarthurnax's Roar",
+  "revid": 2213597,
+  "timestamp": "2020-09-21T12:24:47Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=2213597&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "202a35f8ff1b767008c904c10281a133281978a96cdfc6a42d8b18345a27e7b6",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 234309,
+  "ns": 150,
+  "parentid": 1996793,
+  "requested_title": "Legends:Paarthurnax's Roar",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Legends:Paarthurnax's_Roar",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=2213597",
+  "sha1": "7c115db6228d786f01812a5568dbdd9ab35d22b0",
+  "sha1_matches_mediawiki": true,
+  "bytes": 1138,
+  "chars": 1134,
+  "lines": 56,
+  "saved_as": "research/sources/uesp/Legends_Paarthurnax's_Roar.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Online:Dovah%27s+Du%27ul+Style|Online:Yoltoor+Dovah-Fly|Online:Green+Dragon+Imp|Online:Blue+Dragon+Imp|Online:Regal+Dragon+Imp|Online:Dwarven+Bear|Online:Elder+Scrolls+Historical+References|Online:Chevalier+Renald|Legends:Shouts|Legends:Paarthurnax|Legends:Alduin|Legends:Paarthurnax%27s+Roar",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:46Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

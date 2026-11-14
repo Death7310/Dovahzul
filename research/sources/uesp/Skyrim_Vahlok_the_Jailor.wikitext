@@ -1,0 +1,39 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[Skyrim:Vahlok's Tomb|Vahlok's Tomb]]
+|refid=xx01CAD0
+|baseid=xx01CAD5
+|image=SR-creature-Vahlok the Jailor.jpg
+|imgdesc=Vahlok the Jailor
+|soul=Grand
+|faction={{Faction|allied apocrypha creatures}}; {{Faction|Dragon Priest Faction|ns_base=Skyrim}}
+|level=50
+|perks=[[Skyrim:Magic Resistance|Magic Resistance]], [[Skyrim:Mage Armor|Mage Armor]], [[Skyrim:Stability|Stability]], [[Skyrim:Augmented Flames|Augmented Flames]], [[Skyrim:Atromancy|Atromancy]], [[Skyrim:Regeneration|Regeneration]], [[Skyrim:Respite|Respite]], [[Skyrim:Ward Absorb|Ward Absorb]], [[Skyrim:Recovery|Recovery]], [[Skyrim:Light Foot|Light Foot]]
+|class=Dragon Priest
+|drops=[[Skyrim:Bone Meal|Bone Meal]], [[Skyrim:Gold|Gold]]
+|health=1490
+|magicka=545
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+|respawn=Yes
+}}__NOTOC__
+'''Vahlok the Jailor''' is a [[Skyrim:Dragon Priest|dragon priest]] entombed within [[Skyrim:Vahlok's Tomb|Vahlok's Tomb]] in [[Skyrim:Solstheim|Solstheim]]. He was once the ruler of Solstheim, tasked with watching over the traitor, [[Skyrim:Miraak (person)|Miraak]], after discovering Miraak's plot against their masters and defeating him in an epic battle.
+
+Vahlok knows a variety of spells, including [[Skyrim:Ebonyflesh|Ebonyflesh]], [[Skyrim:Command Daedra|Command Daedra]], [[Skyrim:Conjure Flame Atronach|Conjure Flame Atronach]], [[Skyrim:Fireball|Fireball]], [[Skyrim:Flame Cloak|Flame Cloak]], [[Skyrim:Incinerate|Incinerate]], and [[Skyrim:Greater Ward|Greater Ward]].
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Lost Legacy}}
+
+== Notes ==
+* The story of Vahlok and Miraak is described in more detail in ''[[Skyrim:The Guardian and the Traitor|The Guardian and the Traitor]]''.
+* Vahlok means "guardian" in the [[Lore:Dragon Language|dragon language]]. It's featured on the first [[Skyrim:Word_Wall#Unrelenting_Force|Word Wall of the Unrelenting Force shout.]]
+* Vahlok is the only named dragon priest who does not have an eponymous mask.
+* Many internal references refer to him by the name "'''Toldar'''".
+
+== Bugs ==
+{{Bug|Vahlok will respawn, which is different from every other dragon priest.|UDBP|1.0.1}}
+
+{{Stub|Creature}}
+
+{{Skyrim Dragon Priests}}

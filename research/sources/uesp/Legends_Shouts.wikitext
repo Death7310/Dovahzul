@@ -1,0 +1,29 @@
+{{Mod Header|Heroes of Skyrim}}{{Trail|Card Effects}}{{Legends Effect Summary
+|keyeffect=Card Effect
+|image=
+|availability=Heroes of Skyrim
+|appearance=Actions
+|description=When you play a Shout, all your other copies are upgraded.
+|strength=1
+|intelligence=1
+|willpower=1
+|agility=1
+|endurance=1
+|neutral=2
+|dual=
+|triple=
+}}
+
+'''Shout''' cards are a particular variation of [[Legends:Actions|Actions]], which level up as they are played.
+
+For an alphabetical list of all Shout cards, see the [[:Category:Legends-Cards-Action-Shouts|category]].
+{{NewLine}}
+==Cards==
+{{Legends Table|shout=1}}
+
+==Cards associated with Shouts==
+{{Legends Table|effect=ashout}}
+
+[[Category:Legends-Cards-Action-Shouts]]
+
+{{Legends Card Effects}}

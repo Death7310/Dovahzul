@@ -1,0 +1,185 @@
+{{Online NPC Summary
+|image=ON-creature-The Dragon.jpg
+|imgdesc=The Dragon
+|loc=[[ON:The Scholarium|The Scholarium]], [[ON:Wing of the Dragon|Wing of the Dragon]]
+|race=Dragon
+|gender=Female
+|creature=1
+|health={{ESO Health|ncf}}
+|reaction=Friendly
+}}{{TOCright}}
+'''The Dragon''' is a Luminary of Magic associated with [[ON:The Scholarium|the Scholarium]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Second Era of Scribing}}
+*{{Quest Link|The Wing of the Dragon}}
+*{{Quest Link|The Wing of the Crow}}
+
+==Dialogue==
+After the completion of the Wing of the Dragon you may talk to the Dragon in her wing at any time:
+:''"I continue to mull your riddle. Its simplicity and circular nature delights me, mortal. A pearl of an idea I can polish and hold up to examine again, and again."''
+
+If spoken to while on the quest for [[ON:The Netch|the Netch]]:
+:''"A slightly irritated face, the smell of gas about you … you're dealing with the Netch's idea of funny, aren't you?<br/>Don't worry, if you just keep nodding along with its vacuous ramblings, eventually it stops talking."''
+
+If spoken to while on the quest for [[ON:The Gryphon|the Gryphon]]:
+:''"Off in search of some abstract idea of justice and truth, aren't you? The Gryphon is a one note song, over and over again.<br/>I grew tired of that tune long ago, but good luck listening through to the end."''
+
+If spoken to after completing the Scribing questline:
+:''"Ulfsild would be proud of you, I think. She and I never truly saw eye to eye. How could we, when she was so much smaller than I am?<br/>Despite that, we held a deep respect for one another. So take the value of my words, or do not. But you've done well."''
+
+==Quest-Related Events==
+===The Second Era of Scribing===
+As you are closing the Door of the Wing of the Dragon: 
+:'''The Dragon:''' ''"Two moons ascend this star-pocked night. One a Lamp, and one her light."''
+
+===The Wing of the Dragon===
+As you approach her in the Wing of the Dragon:
+
+:'''The Dragon:''' ''"Ahh, at last."''
+:'''The Dragon:''' ''"Let's see how clever you are, mortal."''
+
+She will introduce you to her trial by having you place her fable on the dais:
+:''"Mortal. Let us dispense with pleasantries. You are here to master Scribing. To amplify the power of the altar, and walk in the footsteps of the Archmagus Ulfsild.<br/> In short, her inheritor. Do I have that right?"''
+:'''I'm just here to take your trial.'''
+:''"Hmm, fascinating. I sense the power of the Indrik about you, so clearly you're here seeking my approval. In a way, that's acting as Ulfsild's inheritor.<br/> Can we at least agree on that?"''
+:'''I want to take your trial, Dragon.'''
+:''"Hmm. Very well, have it your way. Inheritor or not, we'll have ample opportunity to see what kind of mind you have in there.<br/> Place my fable upon the dais to connect my wing to the Scholarium once more."''
+:'''I'll place the fable on the dais.'''
+
+If you talk to her again before placing the fable on the dais:
+:''"So interesting, you are. What goes on within that mind of yours? What shapes your mind in just such a way? <br/> Hmm, I suppose we will see. Place the fable upon the altar."''
+
+After you place the fable on the dais:
+:'''The Dragon:''' ''"We rejoin the Scholarium, as it should be. Let's converse."''
+
+She will ask you to solve her riddles as part of the trial:
+:''"Mortal, it's been some time since I had the pleasure of real conversation. I may have begun this relationship on the wrong wing. What do you say we begin again?<br/> I am the Dragon. A being of purest magic, intellectual, and enjoyer of riddles."''
+:'''Why do you enjoy riddles so much?'''
+:''"I am endlessly fascinated by the world inside the mind, the universe within. And what are riddles but a shift in perspective? <br/> Even the smallest question can lead to an entirely new worldview, if asked at the right time."''
+:'''What do you want me to do for your trial?'''
+:''"I want to see if you have a mind for riddles. I've written a series that will whet your appetite for greater challenges to come.<br/> If you can decipher all of them, well done. But you need only complete those which most appeal to you."''
+:'''Is there anything else I should know?'''
+:''"Ulfsild struggled with my puzzles alone. It was her choice, but it made her miserable.<br/> You, mortal, are welcome to confer with others to solve these riddles. Ulfsild's inheritor or not, this will be fascinating to watch. Good luck."''
+:'''Understood. I'll solve some of your riddles.'''
+
+You can ask her some questions about herself, riddles and the other Luminaries:
+:''"Which riddles will you solve? Which ones will you seek help to solve?<br/> Choices made are so instructive, so … revealing. Don't you agree?"''
+::'''Can I ask you a few questions? / I have a few other questions.'''
+::''"Hmm. What is the shape of your mind? I'm eager to see. I hope to learn about you by what you deem worthy of asking."''
+:::'''Why did you choose to be a dragon?'''
+::::''"There is beauty to this countenance, is there not? And as I could have chosen anything when I was formed, why would I not be this magnificent creature?<br/> Frankly, I think it's embarrassing that the others chose such pedestrian shapes."''
+:::'''Why are you so focused on riddles and the mind?'''
+::::''"I exist because of a confluence of magic beyond the bounds of mortal influence. I was not born from a magical accident, or a summoning gone awry. The ebb and flow of Aetherius and Nirn were my parents.<br/> A small riddle for you, then. Why was I born?"''
+::::'''I have no idea.'''
+::::''"Neither do I. That's why the mind fascinates me, mortal. It exists without purpose, but is beautiful in its complexity. <br/> And a riddle is a rock thrown into the pool of your contemplations. How could I not find that … endlessly fascinating?"''
+
+::'''I'd like to talk about the other Luminaries.'''
+::''"If I must. The others are … fine.<br/> Luminary. I've never been overly fond of that term. Ulfsild was insistent that for scholarship, she needed a word. A way to refer to us. It suffices, I suppose."''
+
+:::'''What do you think about the Indrik?'''
+::::''"A pompous old goat with an inferiority complex. He is terrified the power we wield might be misused. He's spent centuries of existence wishing he, and by extension I, did not exist."''
+::::'''The Indrik seemed focused on the responsibility of your power.'''
+::::''"We're immortal beings made from magic itself. What responsibilities do we have? <br/> To me it seems irresponsible not to focus on intellectual pursuits, on improvements in thought."''
+
+:::'''Can you tell me about the Netch?'''
+::::''"A vacuous gas-bag with pretentions of do-goodery. A limitless existence, unimaginable power, and the best he can think to do with it is slip sweets and coins into the pockets of the downtrodden."''
+::::'''You don't think the Netch accomplishes anything?''' (Appears if you completed the Wing of the Netch already)
+::::''"Perhaps the Netch makes the lives of mortals easier. But we are beings of pure magic who, as far as I am aware, will live for eons. Why is it not the Netch's goal to make whole civilizations bettered, more focused? Maddening."''
+
+:::'''What do you make of the Gryphon?'''
+::::''"A grizzled old knight who has fallen from his horse one too many times. He's adopted the concept of justice as if he's the only one of us with a moral compass.<br/> It would be pathetic if not for his stewardship of that delightful little creature."''
+::::'''You think the Gryphon is pathetic?''' (Appears if you completed the Wing of the Gryphon already)
+::::''"His lasting accomplishments can be counted on one claw. He is so blinded by a pedanctic code … and yet. I must give him credit for ensuring the survival of the Fox.<br/>Even a world-weary creature such as myself must bow an elegant head to that beast."''
+
+After accepting the challenge:
+:'''The Dragon:''' ''"Even if your allies tell you the answers, you'll still need to complete the tasks yourself."''
+
+Speaking to her again before solving the riddles:
+:''"Which riddles will you solve, I wonder? You need only complete some to prove yourself. But choices, as always, say much about the chooser."''
+
+After you return:
+:'''The Dragon:''' ''"You return. Echoes of your success precede you."''
+
+She will now challenge you to think up a good riddle for her that will be hard for her to solve:
+:''"Your choices, the riddles you sought solutions to, were quite instructive. Gave me an intriguing peek within your mind. Well done.<br/> Now, for a real challenge. If I am to lend my power to the altar you must understand my thoughts as well."''
+:'''How do I do that?'''
+:''"Riddles are a way to explore the way another creature thinks. A stone thrown into the pool of thought. That is your task, the challenge I put before you.<br/> Throw a stone. Construct a clever, devious riddle exclusively for me."''
+:'''What kind of a riddle?'''
+:''"A shrewdly impossible riddle, one I cannot solve. And yes, the riddle must have an answer. <br/> You must understand me, how I think, so that you might craft a riddle I cannot unmake."''
+:'''How can I understand how you think?'''
+:''"I've already given you clues. But while Ulfsild toiled alone, that was her choice. One that spoke volumes. <br/> You should reach out to your knight, consult with the Crow. Whatever you must to achieve the task I've put before you."''
+:'''I'll speak to Nahlia and the Crow, then.'''
+
+Before you speak to Nahlia and the Crow, you can ask her about her insight on the riddle that will challenge her:
+:''"With your allies at your side, seek understanding of my mind. Craft a riddle that will confound my thinking and ensure your success."''
+
+::'''Can I ask you a few questions? / Can I ask you questions, to understand you better?''' (This dialogue option lets you ask her questions you asked her in the previous conversation)
+
+::'''Can you give me some more guidance with this riddle?'''
+::''"I can, of course. But too much guidance and this exercise would be well and truly academic. Wouldn't it?"''
+
+:::'''How is coming up with a riddle a trial?'''
+::::''"Each of us judges a mortal's worth on our own terms. I have no interest in your ability to steal daffodils or stab Daedra. Or whatever it is the others care about.<br/> Riddles are a way to observe your mastery of the mind. My domain."''
+
+:::'''Can't I ask you an impossible riddle right now? Like, what happened to the Dwarves?'''
+::::''"Firstly, that riddle has an answer. They disappeared. Secondly, riddles to which you do not know the true answer are not in the spirit of the trial. <br/> But then you already knew as much, mortal."''
+
+:::'''How can I understand your mind? You're a Luminary of Magic.'''
+::::''"That's a very mortal viewpoint. Our minds are not so dissimilar. My origin may be more colorful than yours, true. <br/> But I promise you I am no harder to understand than any other being you've encountered before. Just have a little faith in yourself."''
+
+After asking her one of the questions above you may also ask her about topics you talked about before:
+:'''Can I ask you questions, to understand you better?''' (This dialogue option lets you ask her questions you asked her in the previous conversation)
+
+After you spoke to the Crown and Nahlia, if you speak to the Dragon again:
+:''"Hmm, do you have a notion of what to do? Where to go? With your allies at your side, craft a riddle that will confound my thinking.<br>I know you have it in you."''
+
+Before you speak to Nalia after returning back with the riddle:
+:''"My advice, mortal, is not to jump to action. Careful thought is in precious short supply in the world.<br>Take a seat, or a perch. And see if a solution does not present itself."''
+
+Once you have prepared the perfect riddle:
+:'''The Dragon:''' ''"You return! Carrying a riddle for me, I hope."''
+
+You will present the riddle which the Dragon will be happy to accept:
+:''"I have been sitting here mulling what morsel you might lay at my feet, mortal. <br/> I honestly hope I am not disappointed. Out with it. What is your riddle?"''
+:'''Ulfsild told you how to recognize her inheritor. So my riddle is, am I Ulfsild's inheritor?'''
+:''"How do you know what Ulfsild told me? Unless you are her inheritor. You never claimed to be. Which, from what the Archmage said, would suggest you are.<br/> If you are, then I've definitively answered your riddle."''
+:'''So am I or am I not?'''
+:''"Now, if the question has an answer you haven't brought me an unsolvable riddle. But then that would mean you aren't her inheritor. And then how would you know what Ulfsild told me? <br/> And we're right back where we started! Clever, very clever!"''
+:'''Clever. Does that mean you accept my riddle?'''
+:''"Haha. I do. You have a mind for riddles. And even from all those years ago, it's clear Ulfsild wanted you to have my support.<br/> I find you worthy of my power. Take my sigil to the altar, inheritor. Or pretender. Whichever you are."''
+:'''Thank you, Dragon.'''
+
+She will present her sigil for you to claim:
+:'''The Dragon:''' ''"Your wisdom and wit have proven your worth. Accept the power of the Dragon, mortal. And may you prove clever enough in its use."''
+
+If you talk to the Dragon again:
+:''"Your tactics were unconventional. Even devious. I loved every moment of our conversations. <br/> Make clever use of my power, mortal. For Ulfsild's sake, if nothing else."''
+
+===The Wing of the Crow===
+If spoken to while on the quest:
+:''"You've really done it, haven't you? You've gotten the others to donate their power, and the Crow has deemed you worthy. I admit to surprise, pleasant surprise.<br/>Think your way through her trials, mortal. And you'll be just fine."''
+
+In the Crow's test you can hear the Dragon as you interact with the corresponding brazier:
+:'''Flame of the Dragon:''' ''"Develop a keen mind."''
+
+The Dragon appears at the Dragon Wall in [[Online:the Crow's Labyrinthian|the Crow's Labyrinthian]] after you defeat [[Online:Aut'arioth, Inheritor's Bane|Aut'arioth]].
+:'''The Crow:''' ''"I am the Crow, a piece of Ulfsild left behind to see Scribing passed to you. To the world."''
+:'''Votary Nahlia''' ''"The Luminaries. Look!"''
+:'''The Indrik:''' ''"She wisely used her power to ensure her legacy."''
+:'''The Dragon:''' ''"Ulfsild's keen mind ensured you could follow in her footsteps."''
+:'''The Gryphon:''' ''"She was a fierce protector, defiant for what she cared about most."''
+:'''The Netch:''' ''"Her compassion lifted everyone around her. Just as it lifted you!"''
+:'''The Crow:''' ''"I am the shadow of a singular person. A being born in sorrow but filled with hope."''
+:'''The Crow:''' ''"I have soared on the winds of magic for centuries to be here with you today, Inheritor."''
+
+==Bugs==
+*When spoken to during the Netch's quest, The Dragon's dialogue will break. The text will be shown, but no voice line audio will play.
+**The Dragon will also play a lip sync animation, which is the only time in the game where any of the Luminaries do so.
+
+<!--Instructions: Add any miscellaneous notes about the NPC here, with a bullet for each note.--><!--
+==Notes==
+* Add note here
+--><!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+-->

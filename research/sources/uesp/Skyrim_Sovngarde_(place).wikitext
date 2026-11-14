@@ -1,0 +1,44 @@
+{{Place Summary
+|type=Worldspace
+|lorepage=Sovngarde
+|mapname=none
+|zones=1
+|occupants=[[Skyrim:Alduin|Alduin]], [[Skyrim:Tsun|Tsun]]
+|locationcode=SovngardeAlduinPerch, SovngardeCenter, SovngardeMeadHall, SovngardeNorth, SovngardeStart
+|image=SR-place-Sovngarde.jpg
+|imgdesc=Sovngarde
+|description=The [[Skyrim:Nord|Nordic]] afterlife.
+}}[[File:SR-place-Sovngarde 02.jpg|thumb|right|The ruined word wall in Sovngarde]]
+It is the realm of [[Lore:Aetherius|Aetherius]] where dead Nord heroes are rewarded by [[Lore:Shor|Shor]] with an eternity of revelry in the [[Skyrim:Hall of Valor|Hall of Valor]]. It is here where you must defeat [[Skyrim:Alduin|Alduin the World-Eater]].
+
+{{NewLeft}}
+==Residents==
+{{Skyrim:Sovngarde People}}
+
+==Related Quests==
+* {{Quest Link|Sovngarde (quest)}}
+* {{Quest Link|Dragonslayer}}
+
+==Walkthrough==
+===Sovngarde===
+Despite it being a place for the dead, the living may visit Sovngarde, provided they have a way to get there. Your only means of accessing Sovngarde is the portal created by the [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Nahkriin (creature)|Nahkriin]] atop [[Skyrim:Skuldafn|Skuldafn]] during the quest [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]]. You will find much of the land is shrouded in fog, with Alduin flying the skies, swooping down and devouring the very souls of his hapless victims.
+
+The land itself is rich and vibrant, with flora and fungi including [[Skyrim:Red Mountain Flower|red]], [[Skyrim:Blue Mountain Flower|blue]], and [[Skyrim:Purple Mountain Flower|purple mountain flowers]], [[Skyrim:Tundra Cotton|tundra cotton]] plants, and the occasional patch of [[Skyrim:Mora Tapinella|mora tapinella]] on tree stumps. There are no creatures in Sovngarde. Large identical statues line the stairs and the edges of the valley. Atop the central hill are the remains of a [[Skyrim:Word Wall|word wall]], now covered in large rocks. The most notable feature of Sovngarde is the Hall of Valor, also known as Shor's Hall, a massive stone mead hall where dead Nord heroes are rewarded by Shor with an eternity of revelry.
+
+During the quest [[Skyrim:Sovngarde (quest)|Sovngarde]], the Skuldafn portal brings you to the head of the valley at the top of a series of stairs. To reach the Hall of Valor, simply descend the stairs and follow the partly paved path that winds through the valley to the gatekeeper, [[Skyrim:Tsun|Tsun]]. On the way, you are likely to encounter several souls lost in the fog, mostly those of unnamed [[Skyrim:Imperial Soldier|Imperial]] or [[Skyrim:Stormcloak Soldier|Stormcloak soldiers]], but also the souls of certain named Nords who have died bravely. Most of the souls present will vary depending on your progress and choices in certain quests. However, [[Skyrim:High King Torygg|High King Torygg]] can always be found in the fog.
+
+The Hall of Valor is on a pinnacle of rock separated from the rest of Sovngarde by a massive chasm spanned by a whalebone bridge. Tsun stands in front of the bridge between two stream-fed pools that empty over the edge of the chasm as great waterfalls. When you reach Tsun, he will ask by what right you should be allowed to enter the hall. Depending on your progress in various questlines, you may have several responses to choose from. Whichever right you claim, you must then prove your worth in a warrior's duel. Once you reduce Tsun's health sufficiently, the fight will stop, and you will be allowed to proceed across the bridge. On the far side, a paved terrace features two curved flights of stairs ascending to a row of four doors that all lead into the hall.
+
+==Notes==
+* Although Sovngarde will technically respawn after ten days, there is no way to return to it after the main quest without the use of console commands. It is one of the few places in the game that cannot be revisited, so be sure not to leave anything behind.
+* If you attempt to cross the bridge to the hall without dueling Tsun, you will be killed by lightning strikes on the bridge, even in [[Skyrim:Console|god mode]]. You will also automatically die if you fall into the chasm beneath the bridge, though not in god mode.
+* It is possible to kill and soul trap the generic soldiers and Svaknir. Their bodies will be removed after Alduin appears.
+* Even though they're technically dead, the [[Skyrim:Detect Life (spell)|Detect Life]] spell, and not the [[Skyrim:Detect Dead|Detect Dead]] spell, will detect the heroes of Sovngarde.
+* Sovngarde is said to be ruled by Shor, but he does not appear in the game.
+* The "stars" slowly move across the sky of Sovngarde.
+* The [[Lore:Constellations|constellations]] of [[Lore:The Warrior (constellation)|the Warrior]], [[Lore:The Thief|the Thief]], and [[Lore:The Mage|the Mage]] can be seen in the sky of Sovngarde.
+* The chasm that spans the waterfalls next to the whalebone bridge has water at the bottom. This can be seen if you have the Eagle Eye perk in the [[Skyrim:Archery|Archery]] skill tree when standing either on the bridge or on the rock outcroppings near the waterfalls.
+* When you're not looking at them, the towering statues of the hooded figures turn to face you as you travel around Sovngarde. This is most notably seen when you walk down the stairs after entering from Skuldafn: if you turn back around, the statues that had been facing the stairs will have turned to face you at the bottom of the steps.
+
+==Bugs==
+{{Bug|Alduin's death cry during [[Skyrim:Dragonslayer|Dragonslayer]] may be too quiet for you to hear if you're too far away.|USKP|1.2.2}}

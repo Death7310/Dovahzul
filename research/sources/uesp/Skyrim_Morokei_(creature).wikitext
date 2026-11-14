@@ -1,0 +1,53 @@
+{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[SR:Labyrinthian|Labyrinthian]]
+|baseid=000F496C
+|faction={{Faction|Creature Faction}}; {{Faction|DraugrFaction}}
+|refid=00086CF4
+|image=SR-creature-Morokei.jpg
+|imgdesc=Morokei wielding the Staff of Magnus
+|level=50
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Shock|Augmented Shock]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|health=1490
+|magicka=545
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Morokei''' is one of the eight high-ranking [[Skyrim:Dragon Priest|dragon priests]] of Skyrim. He is located in the antechamber of [[Skyrim:Labyrinthian|Labyrinthian]] and possesses both the [[Skyrim:Staff of Magnus|Staff of Magnus]] and his [[Skyrim:Morokei (item)|eponymous mask]].
+
+As you journey through Labyrinthian, ghostly images from the past reveal that [[Skyrim:Savos Aren|Savos Aren]] had encountered Morokei prior to you. In an act of desperation, he sacrificed the lives of two [[SR:College of Winterhold (faction)|College]] students in order to keep Morokei sealed within Labyrinthian for the good of Skyrim. 
+
+Throughout Labyrinthian, Morokei taunts you - at first, in the [[Lore:Dragon Language|dragon language]], then secondly in the Skyrim vernacular - and asks if you are Savos. His disembodied voice, often accompanied by a blue wind capable of sapping [[Skyrim:Magicka|magicka]], follows you all the way to the end of the dungeon, where he is found incarcerated by two [[Skyrim:Enthralled Wizard|ex-College thralls]].
+
+Due to the nature of the Staff of Magnus, Morokei elects to use his own spells rather than the staff. This can make him an exceptionally dangerous foe as he can summon a [[Skyrim:Storm Atronach|storm atronach]] in combat and can turn your own summons against you with the spell [[Skyrim:Command Daedra|Command Daedra]]. He is particularly dangerous for players using melee weapons against him because of his [[Skyrim:Lightning Cloak|Lightning Cloak]] spell. He can also use the following spells: [[Skyrim:Greater Ward|Greater Ward]], [[Skyrim:Chain Lightning|Chain Lightning]], [[Skyrim:Thunderbolt|Thunderbolt]], and [[Skyrim:Ebonyflesh|Ebonyflesh]].
+
+{{NewLeft}}
+==Related Quests==
+*{{Quest Link|The Staff of Magnus}}
+
+== Dialogue ==
+* ''"{{Hover|Who comes to my dark kingdom?|Wo meyz wah dii vul junaar?}}"''
+** "Junaar" means "Kingdom" in the dragon language. As "brom" is 'north', Bromjunaar translates to 'North Kingdom'.
+* ''"{{Hover|Cowardly men shall find no mercy here|Nivahriin muz fent siiv nid aaz het}}."''
+* ''"You do not answer... Must I use this guttural language of yours?"''
+* ''"Have you returned, Aren? My old friend?"''
+* ''"Do you seek to finish that which you could not?"''
+* ''"You only face failure once more..."''
+* ''"You... You are not Aren, are you? Has he sent you in his place?"''
+* ''"Did he warn you that your own power would be your undoing? That it would only serve to strengthen me?"''
+* ''"Come. Face your end."''
+
+After "Come. Face your end.", there are a few occurrences of the dragon shout visual effect, and the magicka draining associated with Morokei's voice, but no phrase is heard.
+
+==Notes==
+* Morokei can only be encountered after joining the [[Skyrim:College of Winterhold (faction)|College of Winterhold]] and starting [[Skyrim:The Staff of Magnus|The Staff of Magnus]].
+* Morokei's Level is set at 50. If you go straight for the College of Winterhold questline, you may be in for a very difficult fight. However the fact that he uses the Staff of Magnus, an underpowered weapon, makes the fight much easier than some of the other dragon priests.
+* Morokei means "glorious" in the [[Lore:Dragon Language|dragon language]].
+* Morokei also [[Online:Morokei|appears]] in [[Online:Online|ESO]], and appears as a {{Card|Morokei, the Deathless|card}} in the [[Legends:Forgotten Hero Collection|Forgotten Hero Collection]] card set for ''[[LG:Legends|Legends]]''.
+
+==Bugs==
+{{Bug|It is possible Morokei will not fight back.|confirmed=1}}
+**This can be fixed via the console by clicking on Morokei, then typing and executing the following three commands in a row: resetai, disable, enable. After this, he starts combat.
+{{Skyrim Dragon Priests}}

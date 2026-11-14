@@ -1,0 +1,64 @@
+{{Shout Summary
+|id=0003f9ea
+|icon=SR-icon-shout-Fire Breath.png
+|quote=Inhale air, exhale flame, and behold the Thu'um as inferno.
+|word1=YOL
+|wordid1=00020e17
+|cooldown1=30
+|info1=50 [[Skyrim:Fire Damage|Fire Damage]]
+|location1=[[Skyrim:Dustman's Cairn|Dustman's Cairn]] (quest locked)
+|word2=TooR
+|wordid2=00020e18
+|cooldown2=50
+|info2=70 Fire Damage
+|location2=[[Skyrim:Sunderstone Gorge|Sunderstone Gorge]]
+|word3=SHUL
+|wordid3=00020e19
+|cooldown3=100
+|info3=90 Fire Damage
+|location3=[[Skyrim:Throat of the World|Throat of the World]] (during [[Skyrim:The Throat of the World|The Throat of the World]])
+|transword1=fire
+|transword2=Inferno
+|transword3=Sun
+|spellid1=0003f9eb
+|spellid2=0003f9ec
+|spellid3=0003f9ed
+}} __NOTOC__
+[[File:SR-creature-Odahviing Battles Elder Dragon.jpg|thumb|left|An elder dragon using the Fire Breath attack on Odahviing]] [[File:SR-creature-Fire Wyrm.jpg|thumb|right|A Fire Wyrm{{DB}}]]
+'''Fire Breath''' is a [[Skyrim:Dragon Shouts|shout]] that deals [[Skyrim:Fire Damage|fire damage]] to enemies, and potentially staggers them as well. Its use does not increase XP for the [[Skyrim:Destruction|Destruction]] skill.
+
+{{NewLeft}}
+
+==Meditation==
+Meditating on the word ''Yol'' with [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] grants the player [[Skyrim:The Fire Within|The Fire Within]], an ability which increases the damage from this shout by 25%.
+
+==Dragonborn Flame{{DB}}==
+[[Skyrim:Dragonborn Flame|Dragonborn]] adds the [[Skyrim:Dragonborn Flame|Dragonborn Flame]] ability which summons a [[Skyrim:Fire Wyrm|Fire Wyrm]] for 60 seconds when an enemy is killed with the Fire Breath shout. All available words of the shout must be used for a Fire Wyrm to appear. If multiple enemies are killed with the shout, multiple Fire Wyrms will appear.
+
+The Fire Wyrm itself is similar in appearance and behavior to an Ice Wraith. It is resistant to fire and uses a "Fire Bite" attack. When killed or when its timer expires, it explodes, dealing some damage. Unlike other summons, the Fire Wyrm will not follow the player. It is best to kill weaker enemies at the start of a fight with the Fire Breath shout, so the Fire Wyrms can help against stronger enemies of a group.
+
+== Related Quests ==
+* {{Quest Link|Proving Honor}}
+* {{Quest Link|The Throat of the World}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=QETHSEGOL VahRUKIV KiiR<br>JUN JAFNHAR WO LOS AG<br>NahLaaS NaaL {{FC|blue|YOL}} DO<br>LOT DOVah LODUNOST
+|translation1=(This) stone commemorates (the) child<br>king Jafnhar who was burned<br>alive by (the) {{FC|blue|fire}} of<br>(the) great dragon Lodunost.
+|wordwall2=AESA WahLaaN QETHSEGOL<br>BRiiNahii VahRUKT THOHILD<br>FIN {{FC|blue|TooR}} WEN SMOLiiN AG<br>FRIN OL SahQO HeiM
+|translation2=Aesa raised (this) stone<br>for (her) sister, Thohild<br>the {{FC|blue|Inferno}}, whose passion burned<br>hot as (the) Red Forge.
+|wordwall3=HET Mah HERFODR<br>{{FC|blue|SHUL}}-KRiiD SahROT<br>KONahRIK DO LUMNaaR<br>DO KRENT HahNU
+|translation3=Here fell Herfodr<br>{{FC|blue|Sun}}-Slayer, mighty<br>warlord of (the) Valley<br>of Broken Dreams.}}
+
+==Notes==
+* The second and third word of this shout make it increasingly less efficient when it comes to damage per second (dps) per second of cooldown. The first word alone does 1.6 damage per second of cooldown, while the second word and third word only do 1.4 and 0.9 damage per second of cooldown, respectively.
+* Like most fire spells, using this shout over an oil slick will ignite it, as well as igniting an area with explosive gas, causing a large explosion. It will also set off any runes (ones you've cast, or hostile runes).
+* [[Skyrim:Alduin|Alduin]] can be seen using this shout at the beginning of the game, when half of the tower your character and [[Skyrim:Ralof|Ralof]] enter is blocked by rubble. If the subtitles are activated, he can be seen saying the last 2 words, ''"Toor...Shul!"''
+** If the subtitles are activated when [[Skyrim:Hadvar|Hadvar]] tells you to stay close to the wall, Alduin can be seen using all 3 words.
+
+==Bugs==
+{{Bug|If none or only one of the words of the shout Fire Breath is known when you first approach [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] at the [[Skyrim:Throat of the World|Throat of the World]], and you have a dragon soul in stock, you can use the soul to learn the newly found word on the wall before Paarthurnax unlocks it for you. This results in the "soul" from Paarthurnax teaching you the next word of the shout. This way you can learn two words of the shout at the same time.|confirmed=1}}
+** If you do this when you have no words for Fire Breath, the next word wall for Fire Breath encountered will not unlock the final word. All three locations will still need to be visited to unlock the final word. If you have unlocked one word, you do not have to visit the final location; however, it will still run the animation as if you were learning the word.
+{{Bug|Summoning [[Skyrim:Fire Wyrm|Fire Wyrms]]{{DB}} in the [[Skyrim:Soul Cairn|Soul Cairn]]{{DG}} via this shout with the [[Skyrim:Dragonborn Flame|Dragonborn Flame]]{{DB}} ability active can cause the Fire Wyrms to be hostile towards the lost souls there.|USLEEP|3.0.1|Both factions have been set as allies to each other.}}
+
+{{Skyrim Shouts}}

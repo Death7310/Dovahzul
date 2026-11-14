@@ -1,0 +1,20 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|loc=Skyrim
+|image=SR-creature-Numinex.jpg
+|fullimgdesc=The skull of Numinex in Dragonsreach
+}}{{Quote Box|style=float:none; max-width:none|Yes. This was ages ago, you understand. There were more of us then. Before the bruniike - the Akaviri - came and killed all my zeymah. I used to visit him from time to time. Nearly crazed by loneliness and captivity. Tiiraz sivaas. He did not even remember his own name. I do not know how he came to be caught. But the bronjun... the Jarl... was very proud of his pet. Paak! The hofkahsejun has been known as Dragonsreach ever since.|[[Lore:Paarthurnax|Paarthurnax]] on Numinex{{ref|name=Paarthurnax}}}}</noinclude>
+[[Lore:Numinex|Numinex]] was a fearsome [[Lore:Dragon|dragon]] famous for his battle with [[Lore:Olaf One-Eye|Olaf One-Eye]] in the [[Lore:First Era|First Era]], which occurred some time before {{Year|1E 420}} when Olaf became High King and ended the [[Lore:War of Succession|War of Succession]].{{ref|name=Proventus|[[Skyrim:Proventus Avenicci|Proventus Avenicci]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Olaf|[[:File:SR-misc-Olaf Plaque.png|Commemorative plaque in Windhelm]]}}<noinclude>
+
+A few ancient bard texts assert Numinex was particularly foul-tempered because he was extremely old. In these accounts, the dragon spends his final years terrorizing the countryside before flying off to the top of [[Lore:Mount Anthor|Mount Anthor]] to die in peace, but was interrupted by the opportunistic Olaf. This version of the story is questionable, however, as dragons do not actually die of old age. Regardless, Numinex had wiped out entire villages, burned cities, and killed countless Nords.{{ref|name=OATD|{{Cite Book|Olaf and the Dragon}}}} Along with a few trusted warriors, Olaf confronted and fought Numinex at his lair atop Mount Anthor.{{ref|name=Proventus}}{{ref|name=OATD}} The two battled, blade against claw, by some accounts for days.{{ref|name=OATD}}
+
+Eventually, their battle incorporated the [[Lore:Thu'um|thu'um]], and the two engaged in an epic shouting duel. Finally, Numinex collapsed from a combination of injury and sheer exhaustion. Somehow—and this detail is conspicuously absent in virtually every account—Olaf managed to convey the dragon all the way back to the capital city of Whiterun.{{ref|name=OATD}} By Olaf's decree, the city's keep was renovated to become a prison for Numinex. Since then, the great keep has been called "{{Lore Link|Dragonsreach}}".{{ref|name=Proventus}}{{ref|name=Paarthurnax|[[SR:Paarthurnax (dragon)|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} This feat granted Olaf grand renown, which eventually led to him becoming the High King of Skyrim.{{Ref|name=TCOF|{{Cite Book|The Crown of Freydis}}}}
+
+Numinex was apparently driven half-mad by many, many years of loneliness and captivity, though [[Lore:Paarthurnax|Paarthurnax]] would manage to visit him from time to time.{{ref|name=Paarthurnax}} While it is claimed Numinex eventually escaped,{{ref|[[SR:Viarmo|Viarmo]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} his skull can still be seen hanging above the Jarl's throne at Dragonsreach.{{ref|name=Paarthurnax}} According to some sources Numinex paid for their life by providing the kings of Skyrim with draconic armor.{{ref|name=Dov-rha Sabatons|[[ON:Dov-rha Sabatons|Dov-rha Sabatons]]'s antiquity codex entries in [[ON:Online|ESO]]}} Due to the nature of dragons, Numinex is not truly dead and could be raised again, although his scattered remains make this an unlikely possibility.
+
+==References==
+<references/>
+<!--Interwiki links--> 
+[[fr:Lore:Numinex]]
+</noinclude>

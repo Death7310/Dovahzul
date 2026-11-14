@@ -1,0 +1,26 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|loc=Battlespire
+|appears=[[Battlespire:Battlespire|Battlespire]]
+|image=BS-creature-Dragonne Papre.jpg
+|fullimgdesc=Dragonne Papré's skeleton as seen in Battlespire
+}}</noinclude>
+[[Lore:Dragonne Papré|Dragonne Papré]]{{ref|name=SLB|[[Battlespire:Starlover's Log|''Battlespire'' version]] of ''Starlover's Log''}} (or '''Dragonne Papre'''){{ref|name=SLM|[[Morrowind:Starlover's Log|''Morrowind'' version]] of ''Starlover's Log''}} was an enormous [[Lore:Dragon|dragon]] who lived in the [[Lore:Battlespire|Battlespire]] during the [[Lore:Third Era|Third Era]]. He was the companion of an [[Lore:Imperial Battlemages|Imperial Battlemage]] Armsmaster{{ref|name=Athenaeum|{{Cite Book|Battlespire Athenaeum|ns_base=Books}}}}{{rp|99}} named [[LO:Samar Starlover|Samar Starlover]]. Dragonne Papré's lair was located in the bowels of the Battlespire.{{ref|name=BS1|Events of [[BS:Level 1|Level 1: The Weir Gate]] in ''[[Battlespire:Battlespire|Battlespire]]''}}
+
+When the invading [[Lore:Daedra|daedric]] armies of [[Lore:Mehrunes Dagon|Mehrunes Dagon]] began to overwhelm the Battlespire during the [[Lore:Imperial Simulacrum|Imperial Simulacrum]], Samar told the surviving Battlemages of his plan to mount Papré and fly to the [[Lore:Imperial Palace|Imperial Palace]] on [[Lore:Nirn|Nirn]] in order to notify Emperor [[Lore:Uriel Septim VII|Uriel Septim VII]] (although, at the time, [[Lore:Jagar Tharn|Jagar Tharn]] was impersonating the Emperor and was perfectly aware of the invasion). However, the daedra had prevented Papré from escaping by sealing the main gate, and presumably killed him. When Starlover fought his way to Papré's lair, all he found was a carcass. Unable to request a rescue force, Starlover gave up hope and took comfort in being "eternally reunited" with his companion in death.{{ref|name=SL|{{Cite Book|Starlover's Log}}}}
+
+The Battlespire fell to the daedra, who then retreated back into [[Lore:Oblivion|Oblivion]]. Starlover's log was later discovered beside Papré's skeleton by an [[Lore:Hero|apprentice]], who would single-handedly follow the retreating armies into Oblivion and eventually banished Dagon in [[Lore:Dagon's Hunting Lodge|his own realm]].{{ref|name=BS1}}{{ref|name=BS2|Events of [[BS:Level 7|Level 7: Dagon's Hunting Lodge]] in ''[[Battlespire:Battlespire|Battlespire]]''}} The logs were returned to [[Lore:Tamriel|Tamriel]] and came into the possession of [[Lore:Divayth Fyr|Divayth Fyr]].{{ref|name=Morrowind|Events of ''[[Morrowind:Morrowind|Morrowind]]''}} Due to the nature of dragons, Dragonne Papré isn't truly dead and could be raised again;{{ref|name=Skyrim|Events of ''[[Skyrim:Skyrim|Skyrim]]''}} however, it is unclear if his remains survived the destruction of the Battlespire.<noinclude>
+
+==Gallery==
+<gallery>
+File:BS-creature-Dragonne Papre 02.jpg|A side view of Dragonne Papré's massive carcass
+File:BS-creature-Dragonne Papre 03.jpg|The remains of Samar Starlover alongside Papré's skull
+</gallery>
+
+==Notes==
+*The ''[[Battlespire:Battlespire|Battlespire]]'' game engine cannot render the accented E in Papré, so it is displayed in-game as "Papr&nbsp;", including the extraneous space.
+*Papré's appearance in ''Battlespire'' predates the creation of the [[Lore:Dragon Language|Dragon language]] for ''[[SR:Skyrim|The Elder Scrolls V: Skyrim]]''. Having not been mentioned since ''Battlespire'', it is unknown if Papré can be considered his true name; as such, the name "Papré" has no known translation in the Dragon language and contains only two syllables, rather than the usual three found in most Dragon names.
+
+==References==
+<references/></noinclude>

@@ -1,0 +1,25 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|loc=In the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]]
+|refid=xx01D573
+|baseid=xx03D5B5
+|type=Monsters
+|species=Dragon
+|level={{Hover|10, 20, 30, 40, 50|Radiant (10-50)}}
+|class=Dragon
+|health={{Hover|905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|DLC2MQ06NonHostileFaction}}; {{Faction|DLC2MQ06MiraakFaction}}; {{Faction|Creature Faction|ns_base=Skyrim}}; {{Faction|Dragon Faction|ns_base=Skyrim}}
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]], [[Skyrim:Reduce Damage|Reduce Damage]]
+|image=SR-creature-Kruziikrel.jpg
+|imgdesc=Kruziikrel
+|drops=[[Skyrim:Dragon#Loot|Dragon Loot]]
+|soul=Dragon
+|stamina={{Hover|130, 164, 197, 230, 264|130-264}}
+}} 
+'''Kruziikrel''' is a unique [[Skyrim:Dragon|dragon]] found inside the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]] during the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]].
+
+His name means "Ancient Domination" in the [[Lore:Dragon Language|dragon language]].
+{{newLeft}}
+==Related Quests==
+*{{Quest Link|At the Summit of Apocrypha}}
+{{Skyrim Dragons}}

@@ -1,0 +1,77 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=
+|reward=Multiple
+|rewardChecked=Riliane
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=Automatic upon entering [[Skyrim:Sovngarde (place)|Sovngarde]] during [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]].
+|Reward=None
+|Disp=
+|Prev=[[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]]
+|Conc=
+|Next=[[Skyrim:Dragonslayer|Dragonslayer]]
+|Loc=[[Skyrim:Sovngarde (place)|Sovngarde]]
+|Image=SR-quest-Sovngarde.jpg
+|ImgDesc=Sovngarde
+|description=Seek out [[Skyrim:Alduin|Alduin]] within [[Skyrim:Sovngarde (place)|Sovngarde]].
+|ID=MQ304
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+# Once you've entered [[Skyrim:Sovngarde (place)|Sovngarde]], continue down the path.
+# Find out how to defeat [[SR:Alduin|Alduin]].
+# Gain admittance to the [[SR:Hall of Valor|Hall of Valor]].
+# Talk to the heroes of Sovngarde.
+
+==Detailed Walkthrough==
+[[File:SR-quest-Sovngarde 02.jpg|thumb|Inside the Hall of Valor]]
+You are transported to a [[Skyrim:Sovngarde (place)|misty realm]] filled with statues of [[Skyrim:Nord|Nord]] warriors. The mist has no noticeable effect on you and can be temporarily cleared with the [[Skyrim:Clear Skies|Clear Skies]] shout, but it quickly rematerializes. Upon continuing down the stone steps, you may be stopped by a [[Skyrim:Stormcloak Soldier (Sovngarde)|Stormcloak soldier]] who says that the mist is extremely dangerous and that you should not go into it. He died fighting the [[Skyrim:Imperial Legion|Imperial Legion]], and all his companions have been swallowed up by the mist, where he says [[Skyrim:Alduin|Alduin]] lurks, devouring souls. He also tells you that at the end of the valley of mist lies [[Skyrim:Hall of Valor|Shor's Hall]], where the heroes of Sovngarde gather. He begs you to allow him to follow you.
+
+True enough, Alduin will periodically swoop in and grab a fallen [[Skyrim:Stormcloaks|Stormcloak]] or Legion soldier in the misty valley. On the way, you may encounter historical figures such as [[Skyrim:High King Torygg|High King Torygg]] and [[Skyrim:Svaknir|Svaknir]], along with NPCs that have died in the course of the game, such as [[Skyrim:Kodlak Whitemane|Kodlak Whitemane]], [[Skyrim:Ulfric Stormcloak|Ulfric Stormcloak]], [[Skyrim:Legate Rikke|Legate Rikke]], or [[Skyrim:Galmar Stone-Fist|Galmar Stone-Fist]]. Once clearing the mist, you'll reach the edge and be stopped by the gate guardian, [[Skyrim:Tsun|Tsun]]. He challenges your right to enter the Hall of Valor and declares that you must prove your worth in a warrior's duel regardless of the right that you claim. The first claim 'by the right of birth' will always appear regardless of what you have done in the game, but the remaining ones can only be used if you have completed the quests of the Companions, the College of Winterhold, the Dark Brotherhood and/or the Thieves Guild, respectively.
+{|class=wikitable
+!Option
+!Dialogue
+|-
+|'''By the right of birth. I am Dragonborn.'''
+|''"Ah! It's been too long since last I faced a doom-driven hero of the dragon blood."''
+|-
+|'''By right of glory. I lead the Companions of Jorrvaskr.'''
+|''"I welcome the chance to challenge the blade of Ysgramor's heir, honored shield-brother/shield-sister to Kodlak Whitemane, whom I've watched for in vain."''
+|-
+|'''By right of Cleverness. I am Master of the College of Winterhold.'''
+|''"Well met, mage of Skyrim. The Nords may have forgotten their forefathers' respect for the Clever Craft, but your comrades throng this hall. Here in Shor's house we honor it still."''
+|-
+|'''By right of blood. I Listen for the Night Mother.'''<sup>†</sup>
+|''"You trespass here, shadow-walker. Shor does not know you. Perhaps before the end you will earn the right to pass this way. Welcome I do not offer, but your errand I will not hinder, if my wrath you can withstand."''
+|-
+|'''By right of plunder. I am a Nightingale of Nocturnal.'''<sup>‡</sup>
+|''"Do not mistake the night-shrouded thief's stealthily-taken spoils, stolen and unearned, for a warrior's plunder, won in honorable battle. Your doom already binds you to your dark mistress, but your errand I will not hinder, if my wrath you can withstand."''
+|}
+<sup>†</sup> Also requires [[Skyrim:Hail Sithis!|Hail Sithis!]] to be completed.
+<br/>
+<sup>‡</sup> Only requires [[Skyrim:Trinity Restored|Trinity Restored]] to be completed.
+
+He is fast and deals an enormous amount of damage, so if you are having trouble beating him, you can run back down the steps and into the water, as he will stand at the edge and be unable to attack you. [[Skyrim:Potions#Poisons|Poison potions]] will significantly help the battle against him and with the right potions may end the battle immediately or greatly shorten the length of the battle. Fire spells work particularly well against him, as do ranged attacks. You do not need to initiate conversation in order to earn entrance.
+
+Inside, you are greeted by [[Skyrim:Ysgramor|Ysgramor]], founder of the [[Skyrim:Companions|Companions]] and harbinger of men, who asks you to speak to the Nord heroes of old who battled Alduin (as seen in the Elder Scroll): [[Skyrim:Gormlaith Golden-Hilt|Gormlaith Golden-Hilt]], [[Skyrim:Hakon One-Eye|Hakon One-Eye]], and [[Skyrim:Felldir the Old|Felldir the Old]]. The Hall is filled with [[Skyrim:Hero of Sovngarde|Heroes of Sovngarde]], including some very notable ones like [[Skyrim:Jurgen Windcaller|Jurgen Windcaller]], [[Skyrim:Olaf One-Eye|Olaf One-Eye]], and [[Skyrim:Ulfgar the Unending|Ulfgar the Unending]]. When you meet with the three heroes that you are directed towards, they decide to join Shouts with you to clear the mist from Sovngarde. The quest ends with you running out to join them near the misty valley.
+
+== Notes ==
+* It is possible to jump onto a rock hanging over the waterfall and make Tsun fall to his death, or shove him off the platform with Unrelenting Force. However, he will merely respawn in front of the Hall of Valor. On your way to the hall of Valor, he may stop you on the bridge and congratulate you.
+* If you try to cross the bridge before Tsun grants access, you will be killed by lightning strikes.
+* If you try to climb down the mountain around the Hall (on either side) you will be instantly killed if you go below a certain height.
+* On the tables in the Hall of Valor, you can find a [[Skyrim:Roasted Ox Head|Roasted Ox Head]] and two [[Skyrim:Roasted Ox Leg|Roasted Ox Leg]]s, the only ones available in the game which you can take.
+
+==Quest Stages==
+{{Journal Entries
+|10||I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Now to find Alduin and defeat him once and for all.
+{{Quest Objective|10|Find out how to defeat Alduin}}
+|50||I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. My only hope is to reach the Hall of Heroes.
+{{Quest Objective|20|Gain admittance to the Hall of Valor}}
+|150||{{Quest Objective|30|Talk to the heroes of Sovngarde}}
+|200|fin|I've passed through Alduin's portal into Sovngarde, the realm of Aetherius where the souls of Nord heroes go to feast and battle until the final reckoning. Alduin has laid some kind of soul-snare across the valley of Sovngarde, a mist where he hides and feeds upon the trapped souls. I reached the Hall of Heroes and met Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old - the three heroes who I saw defeat Alduin in my vision of the past. They have been permitted by Shor, the god of the underworld, to join me in my battle against Alduin.
+|missing=0, 1, 5, 20, 30, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 130, 135, 140, 160, 170, 180, 300
+}}
+{{Skyrim Quest Stages Notes}}
+{{Quest Footer|Next=[[Skyrim:Dragonslayer|Dragonslayer]]|Prev=[[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

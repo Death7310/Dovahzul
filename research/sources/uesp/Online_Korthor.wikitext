@@ -1,0 +1,44 @@
+{{Online NPC Summary
+|image=ON-npc-Korthor.jpg
+|imgdesc=Korthor
+|loc=[[Online:Vuldngrav|Vuldngrav]]
+|race=Draugr
+|gender=Male
+|difficulty=1
+|reaction=Hostile
+|health=175,909
+|class=Bonelord
+|faction={{Faction|Dragon Cult}}
+}}[[File:ON-npc-Korthor (old).jpg|thumb|right|Old model]]
+'''Korthor''' is an undead [[Online:Dragon Priest|dragon priest]] found in [[Online:Vuldngrav|Vuldngrav]]. He holds {{Item Link|The Fork of Horripilation|questid=3725}}, an item needed for the related quest.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Simply Misplaced}}
+
+==Skills and Abilities==
+;Entropic Bolt:A basic ranged attack dealing minor [[ON:Magic Damage|magic damage]].
+;Summon Abomination:The enemy summons a [[ON:Flesh Atronach|flesh atronach]], [[ON:Bone Colossus|bone colossus]] or [[ON:Ghost|ghost]] to fight, spawning with the summoner's current {{ESO Health Link}}. The Bonelord's {{ESO Resistance Link|Physical|||y}} and {{ESO Resistance Link|Spell}} are reduced to 0 while a summon is active as seen by a blue glow on them. The summon automatically dies if the Bonelord is killed.
+;Bone Cage:The Bonelord casts a rune on the ground that activates after a while, dealing low magic damage and [[Online:Combat#Root|rooting]] targets who step in it. This can be [[Online:Interrupt|interrupted]] to knock the Bonelord off balance. This cannot be blocked.
+;Run Away!:When too close to them, the bonelord backs up to put some distance between their target and themselves.
+;Bone Surge:The Bonelord casts a [[ON:Bone Shield|Bone Shield]]-like ability on themselves which reduces their melee damage taken by 20% until this disappears.
+
+==Quest-Related Events==
+During the quest, Haskill will send you to Vuldngrav to recover Sheogorath's missing artifact, {{Item Link|The Fork of Horripilation|questid=3725}}.
+Examine the chest, which seems to rouse the Dragon Priest:
+:'''Korthor:''' ''"You dare steal from me? Krif voth ahkrin!"''
+:'''Arch-Mage Shalidor:''' ''"Ah. Korthor's awake."''
+:'''Korthor:''' ''"My priests will make quick work of you! Luft Dinokii!"''
+
+After you defeat his minions, he'll decry:
+:'''Korthor:''' ''"Worthless!"''
+:'''Korthor:''' ''"No matter. Come. Face me yourselves!"''
+
+Enter his presence and he'll remark:
+:'''Korthor:''' ''"Ahh … there you are."''
+
+When combat begins:
+:'''Korthor:''' ''"The Fork is mine! You shall not have it! Dir Nu!"''
+
+==Bugs==
+{{Bug|Despite being an elite rank enemy, Korthor is vulnerable to crowd control.}}

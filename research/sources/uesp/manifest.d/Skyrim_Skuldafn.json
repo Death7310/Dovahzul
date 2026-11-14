@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Skuldafn",
+  "revid": 3564906,
+  "timestamp": "2026-05-25T15:03:19Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3564906&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "31b02723efdc699a18ae9c367ad7546732477766b98c600af6ed1114f5055eec",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 112061,
+  "ns": 134,
+  "parentid": 3525910,
+  "requested_title": "Skyrim:Skuldafn",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Skuldafn",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3564906",
+  "sha1": "a31cf755461c5e7fd58506a3a46ea7d0ab317de6",
+  "sha1_matches_mediawiki": true,
+  "bytes": 20159,
+  "chars": 20159,
+  "lines": 80,
+  "saved_as": "research/sources/uesp/Skyrim_Skuldafn.wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Skuldafn|Online:Legendary+Companion|General:Saltatio+Mortis+-+Pray+To+The+Hunter+feat.+%E2%80%9EThe+Elder+Scrolls+Online%22|Legends:Greybeard+Mentor|Lore:Skuldafn",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T06:10:53Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

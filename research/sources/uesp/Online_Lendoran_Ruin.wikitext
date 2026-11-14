@@ -1,0 +1,38 @@
+{{Mod Header|Greymoor}}
+{{Online Place Summary
+|type=Ruin
+|lorepage=Volskygge
+|class=Striking Locale
+|description=a [[ON:Nord|Nordic]] ruin found in [[ON:Haafingar|Haafingar]] Hold of [[ON:Western Skyrim|Western Skyrim]], located northeast of [[ON:Mor Khazgur|Mor Khazgur]].
+|image=ON-place-Lendoran Ruin.jpg
+|imgdesc=Lendoran Ruin
+|discoverable=Yes
+|completion=None
+|skyshard=1
+|chapter=Greymoor
+|subzone=Haafingar
+|zone=Western Skyrim
+|location=Northeast of [[ON:Mor Khazgur|Mor Khazgur]]
+|marker_id=Locale
+}}The doors to the ruins are blocked off by fallen rubble. The [[ON:Dragon's Belly|Dragon's Belly]] crafting site is located just down the stairs from the ruin's entrance.
+
+A copy of ''[[Online:Cheeses of Skyrim: Hjaalmarch, Haafingar|Cheeses of Skyrim: Hjaalmarch, Haafingar]]'' can be found next to the [[ON:Skyshard|skyshard]] here. A Word Wall can be found at the summit, with a [[ON:Bristleback|bristleback]] and a [[ON:Mammoth|mammoth]] fighting in front of it.
+{{NewLeft}}
+<!--
+==Related Quests==
+*{{Quest Link|}}-->
+
+==Gallery==
+<gallery>
+File:ON-place-Lendoran Ruin 02.jpg|The word wall behind Lendoran Ruin
+File:ON-prerelease-Lendoran Ruin.jpg|[[ON:Screenshots|Pre-release screenshot]]
+</gallery>
+
+==Achievements==
+{{ESO Achievements List
+|Western Skyrim Pathfinder
+|Western Skyrim Master Explorer
+}}
+
+==Notes==
+* Lendoran Ruins appears in ''[[Skyrim:Skyrim|Skyrim]]'' as [[Skyrim:Volskygge|Volskygge]].

@@ -1,0 +1,31 @@
+{{Creature Summary
+|loc=[[Skyrim:Volskygge|Volskygge]]
+|refid=00041931
+|baseid=00041930
+|type=Undead
+|species=Dragon Priest
+|level=50
+|health=1490
+|magicka=545
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|image=SR-creature-Volsung.jpg
+|imgdesc=Volsung at the word wall on Volskygge Peak
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Frost|Augmented Frost]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Volsung''' is one of the eight high-ranked [[Skyrim:Dragon Priest|dragon priests]] in Skyrim. Volsung drops an [[Skyrim:Volsung (item)|eponymous mask]], which makes [[Skyrim:Fortify Barter|prices better]] by 20%, [[Skyrim:Fortify Carry Weight|increases carrying weight]] by 20 points, and gives [[Skyrim:Waterbreathing (effect)|waterbreathing]].
+
+Volsung can be found in [[Skyrim:Volskygge|Volskygge]] in northwestern Skyrim. Note that you can just climb the mountain above the entrance and skip the dungeon entirely.
+
+{{NewLeft}}
+==Related Quests==
+*{{Quest Link|Volskygge (quest)}}
+==Notes==
+* Volsung is extremely skilled in [[Skyrim:Destruction|Destruction]], [[Skyrim:Conjuration|Conjuration]], [[Skyrim:Alteration|Alteration]] and [[Skyrim:Restoration|Restoration]], with a level of 100 in each of the aforementioned skills.
+
+==Bugs==
+{{Bug|When bursting free from his coffin, Volsung may not fight back and only backpedal after casting a Frost Cloak (or not casting it at all), leading to a really easy fight.|confirmed=1}}
+
+{{Skyrim Dragon Priests}}

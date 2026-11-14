@@ -1,0 +1,24 @@
+{{Lore Book
+|SR=1
+|writer=Shane Liesegang
+|sortkey=Songs of the Return, Volume 19
+|sumtitle=[[Lore:Songs of the Return|SONGS OF THE RETURN]]<br>Volume 19<br>The Second Tale of the Ylgermet
+|description=Part of the traditional legend of Ysgramor and his Five Hundred Companions
+|up=[[Lore:Songs of the Return|Songs of the Return]]
+|prev=[[Lore:Songs of the Return, Vol 7|Volume 7]]
+|next=[[Lore:Songs of the Return, vol 24|Volume 24]]
+}}
+{{LetterPic|W}}hen that final battle at the barren pass was completed, and the melting snow carried elf-blood back to the sea, the crew of the Kaal Kaaz, the Sadon Reyth, and the most exalted crew of our lord's ship, the Ylgermet, at last parted ways, never to join shields again. They drew apart in that form which is not a loss, but a gain in knowing one's heart can be carried in the chests of others. So great was the love that those first of the Five Hundred had for each other, and most especially for the great {{Lore Link|Ysgramor}}, harbinger of us all.
+
+They pressed eastwards, seeking the sea, when they came upon the {{Lore Link|barrow of Yngol}}, the mighty Ysgramor's son who had fallen to the whims of {{Lore Link|Kyne}} rather than the treachery of the [[Lore:Mer|elves]]. Our lord had not expected to lay eyes upon it again so soon, and his grief flowed anew at the sight of it, as a reopened wound will bleed as it did when first received. 
+
+His eyes turned to the south, where a river met the sea, and decreed that there would he and the crew of the Ylgermet create a great city, in monument to the glories of mankind, that from his palace he might always look upon the hill of his dear son's resting place, and feel that his line would know peace in this new home that was never known in {{Lore Link|Atmora}}. 
+
+The elven captives were set to work, bringing forth stone to build in their conqueror's fashion. As many elves died in the building of the city as had the crew of the Ylgermet slain while on way to its site, and Ysgramor drove the wretches ever more, to build higher, to lay a claim to the river so that none might pass into the interior of this land without first showing due respect to its rightful claimant. 
+
+Thus was the great bridge constructed, forever striding the river that no elf might sneak through to avenge his devious cousins. As the bridge was built long, so too was the palace built high, spires reaching the sky to show dominion even over the very winds that had brought forth such a grief. 
+
+In the deep hollows beneath the city, a great tomb was prepared for the day when lord Ysgramor, harbinger to us all, would be called home to glory in {{Lore Link|Sovngarde|SRlink=Skyrim:Sovngarde (place)}}. But as we know, he chose instead to be {{Lore Link|Ysgramor's Tomb|buried}} on the shore, facing towards Atmora, that though his heart lived and died in this new land, it would forever yearn for the beauties of still-green Atmora, before the freezing took it. 
+
+Thus was founding of {{Lore Link|Windhelm}}, the city of Kings, though her history is long and her glories did not end with her founder.
+{{Book Footer}}

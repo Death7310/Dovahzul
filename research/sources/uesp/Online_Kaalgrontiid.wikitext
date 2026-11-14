@@ -1,0 +1,203 @@
+{{Mod Header|Elsweyr}}
+{{Online NPC Summary
+|image=ON-creature-Kaalgrontiid.jpg
+|imgdesc=Kaalgrontiid escaping from the Halls of Colossus
+|race=Dragon
+|creature=1
+|loc=[[ON:Halls of Colossus|Halls of Colossus]], Summit of Rending Flames<br>[[ON:Riverhold|Riverhold]] (during the siege)<br>[[ON:Moon Gate of Anequina|Moon Gate of Anequina]], [[ON:Plane of Jode|Plane of Jode]]<br>[[ON:Dragonhold (The Dark Aeon)|Dragonhold]]{{ESO DLC|Dragonhold}}
+|health={{ESO Health|ncf}}
+|reaction=Friendly
+|faction={{Faction|Order of the New Moon (faction)}}
+}}{{TOCright}}
+'''Kaalgrontiid''' is a colossal green [[ON:Dragon|dragon]] who was imprisoned by [[Online:Khunzar-ri|Khunzar-ri]] in the [[ON:Halls of Colossus|Halls of Colossus]] long ago. Locked behind a magically sealed door at the Summit of Rending Flames, [[ON:Captain Martio Calsivius|Captain Calsivius]] attempts to break the seal to control him for [[Online:Euraxia Tharn|Euraxia Tharn]], and after he is killed, [[ON:Abnur Tharn|Abnur Tharn]] combines the [[Lore:Wrathstone|Wrathstone]] to undo the spell. However, the door is opened, and Kaalgrontiid emerges from the depths before flying off into [[Online:Northern Elsweyr|Northern Elsweyr]].
+
+Kaalgrontiid then leads his fellow dragons on a destructive tear across Elsweyr, seemingly in search for something. He is allied by the [[ON:Euraxians|Euraxians]] through his second-in-command, [[ON:Mulaamnir|Mulaamnir]], and trusted soldier, [[ON:Bahlokdaan|Bahlokdaan]]. It's up to you and the defenders of Elsweyr to find out what he is searching for, and stop him.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Halls of Colossus}}
+*{{Quest Link|Bright Moons, Warm Sands}}
+*{{Quest Link|The Battle for Riverhold}}
+*{{Quest Link|Jode's Core (quest)}}
+*{{Quest Link|The Dark Aeon}}
+*{{Quest Link|New Moon Rising}}
+
+==Skills and Abilities==
+===The Halls of Colossus===
+;Unrelenting Force: In the Halls of Colossus, Kaalgrontiid shouts at you, Tharn, and Khamira after being released, knocking the three of you back <!--In the files as EQT2 Shout FX-->
+
+===Jode's Core===
+;Moon Blast: While on Jode's Core, Kaalgrontiid empowers Mulaamnir by charging him up with lunar energy.
+
+===New Moon Rising===
+;Bite: A basic physical attack.
+;Headbutt: Kaalgrontiid swings his head with force, dealing damage and knocking you away.
+;Wing Thrash: Standing near his wing causes Kaalgrontiid to swat you with it, dealing damage and knocking you away.
+;Dark Aeon Growth: Kaalgrontiid shouts, firing off a Dark Aeon crystal at your location, indicated by circular AoE, dealing constant damage while near it. Two additional growths split off from the original one short distances away.
+;Dark Aeon Breath: Kaalgrontiid breathes Dark Aeon fire in a half-circle pattern. Unlike other similar dragon breath attacks, this one doesn't have an AoE indicator.
+;Temporal Trap: Kaalgrontiid raises his head and shouts, shooting a luminous orb down at your location, which creates a large circular AoE. Standing in the AoE deals constant damage and snares you. If standing in the AoE too long, a bubble forms up over it, freezing you in place for a few seconds while the damage continues ticking.
+;Retreat: At 95%/70%/45% health , Kaalgrontiid takes off and ceases to be targetable. After flying in the air briefly, he perches on the massive Dark Aeon Crystal, and begins breathing potent Dark Aeon fire down into the arena. You have a brief window of time to reach a nearby protected [[ON:Grapple Point|grapple point]]. Otherwise, if the fire reaches you, you are instantly killed.
+;Summon Allies: Once you are within the protected area, Kaalgrontiid summons [[ON:Dark Aeon Penitent|Dark Aeon Penitents]] and [[ON:Dark Aeon Senche-raht|Dark Aeon Senche-raht]] inside to attack you. You must kill them to empower the [[Lore:Mask of Alkosh|Mask of Alkosh]], and once fully powered, you must use the '''Draconic Power''' synergy to call on [[ON:Nahfahlaar|Nahfahlaar]] to breathe fire onto Kaalgrontiid, damaging him (for about 15% of his total health) and forcing him back down.
+;Dark Aeon Aura: Throughout the fight, whenever Kaalgrontiid is grounded, a swirling green aura is present beneath him, which deals continuous high damage if stood into for too long.
+
+Once Kaalgrontiid reaches 20% health, he becomes immobile in the center of the arena and starts to curse you, as energy starts to leave his body and empowering the Mask on its own, at which point the synergy is used one last time to deliver the finishing blow.
+
+==Quest-Related Events==
+===The Halls of Colossus===
+[[File:ON-quest-The Halls of Colossus 04.jpg|Kaalgrontiid relishes in his freedom|thumb|right]]
+After Captain Calsivius' death, the ground rumbles and shakes:
+:'''[[ON:Abnur Tharn|Abnur Tharn]]:''' ''"Stand back. I'll use the Wrathstone to restore the seal."''
+:'''[[ON:Khamira|Khamira]]:''' ''"Hurry, wizard! You must hurry!"''
+:'''Abnur Tharn:''' ''"Seal, damn you! Seal!"''
+:'''Abnur Tharn:''' ''"I think... I think that did it."'' [The door bursts open]
+:'''Abnur Tharn:''' ''"Ok, now what?"'' [Kaalgrontiid grabs hold of the door and looks around]
+:'''Kaalgrontiid:''' ''"Brothers, we are free!"'' [He and the other dragons fly off]
+:'''Khamira:''' ''"Dark moons! Get down!"''
+:'''Khamira:''' ''"The [[ON:Dragon|Dragon]]s! You released them into [[Online:Northern Elsweyr|Elsweyr]]!"''
+:'''Abnur Tharn:''' ''"I was trying to stop that from happening. The blame falls squarely on Captain Calsivius, I'm quite certain."''
+:'''Khamira:''' ''"He was working for your sister!"''
+:'''Abnur Tharn:''' ''"Half-sister! But let's finish this back at my camp."''
+
+===Bright Moons, Warm Sands===
+While [[ON:Bahlokdaan|Bahlokdaan]] is fought inside the [[ON:Star Haven Adeptorium (Elsweyr)|Star Haven Adeptorium]], Kaalgrontiid can be heard calling Bahlokdaan back to his side.
+:'''Bahlokdaan''': ''"Burn, fools!"''
+:'''Kaalgrontiid''': ''"Bahlokdaan, return to my side!"''
+:<Bahlokdaan flies off>
+:'''[[ON:Zamarak|Zamarak]]''': ''"The beast departs. Quick, let us leave."''
+
+===The Battle for Riverhold===
+[[File:ON-quest-The Battle for Riverhold 05.jpg|thumb|right|Kaalgrontiid arrives to finish the siege]]
+When the dragons begin to fly over, Kaalgrontiid will hover above the town square:
+:'''Kaalgrontiid: ''' ''"Such pathetic creatures. Flee before Kaalgrontiid, you insignificant morsels!"''
+:'''Khamira : ''' ''"No. Riverhold belongs to the Khajiit."''
+:'''Lord Gharesh-ri : ''' ''"Khamira, consider your next words very carefully …."''
+:'''Khamira : ''' ''"Now I will speak the words my people need to hear!"''
+:'''Khamira : ''' ''"We are Khajiit! We are the children of Alkosh, the daughters and sons of Jone and Jode! We do not run, even from Dragons!"''
+:'''Kaalgrontiid : ''' ''"[[Online:Bahlokdaan|Bahlokdaan]]! Prove your worth. Destroy these paltry insects!"''
+:'''Khamira : ''' ''"Stand with me, people of Anequina! For I am Khamira, daughter of King Hemakar! I am your queen!"''
+
+Kaalgrontiid will then fly off and leave Bahlokdaan to fight.
+
+===Jode's Core===
+[[File:ON-quest-Jode's Core 09.jpg|thumb|right|Your allies are too late to stop Kaalgrontiid from entering the portal]]
+As you enter the plane, the dragons will circle until they notice you and your companions:
+:'''Kaalgrontiid : ''' ''"Mulaamnir. The vermin still pester us. Devour them."''
+:'''Mulaamnir : ''' ''"As you say, my brother."''
+[[File:ON-quest-Jode's Core 11.jpg|thumb|right|Kaalgrontiid empowers his brother with the energy of the Core]]
+After you make your way to the Core, you will find Kaalgrontiid already absorbing the power while Mulaamnir stands guard. Once you begin to fight:
+:'''Muulamnir''': ''"You amuse me, little insect."''
+:'''Kaalgrontiid''': ''"Do not let them best you, Mulaamnir!"''
+:'''Muulamnir''': ''"Yes, brother, I will make this quick!"''
+
+As Muulamnir is slowly beaten back, Kaalgrontiid will be annoyed:
+:'''Kaalgrontiid''': ''"End this, my brother, or I will end you."''
+
+While charging Moon Blast:
+:'''Muulamnir''': ''"Kaalgrontiid, assist me!"''
+:'''Kaalgrontiid''': ''"The power! It fills me!"''
+
+[[File:ON-quest-Jode's Core 12.jpg|thumb|right|Kaalgrontiid's last stand]]
+Once Mulaamnir is defeated, Khamira will work to finish the ritual, much to Kaalgrontiid's dismay:
+:'''Kaalgrontiid : ''' ''"I will be … the equal of Akatosh!"''
+:'''Khamira : ''' ''"The Moons. I need to finish the ritual."''
+:'''Khamira:''' ''"Jone and Jode, hear me!"''
+:'''Kaalgrontiid:''' ''"The power, it belongs to me!"''
+:'''Khamira:''' ''"Separate and resume your eternal dance! Now, five-claw, sound the horn!"''
+:'''Kaalgrontiid:''' ''"No! I will not … be denied!"''
+:'''Kaalgrontiid:''' ''"No! Arrggghhh!"''
+
+Kaalgrontiid is thrown far into the sky and expelled from the plane.
+{{Mod Note|Dragonhold}}
+===The Dark Aeon===
+You will hear his voice from outside as you approach the New Moon Fortress' amphitheater.
+:'''Kaalgrontiid:''' ''"Through the portal, fleas. There is work to do on my island."''
+:'''Abnur Tharn:''' ''"Kaalgrontiid? Here? We must find him!"''
+
+Tharn confronts him in the amphitheater.
+:'''Abnur Tharn:''' ''"Kaalgrontiid!"''
+:'''Kaalgrontiid:''' ''"You shall be the first to behold the rise of the Dark Aeon!"''
+He flies off before you can have any sort of substantial interaction with him.
+
+You will see him again on Dragonhold, near the island's aegis.
+:'''Abnur Tharn:''' ''"Up there! That's Kaalgrontiid!"''
+:'''Kaalgrontiid:''' ''"That foul scent. I know these worms. You cannot stop me. This island will ascend and I shall become the Dark Aeon!"''
+:'''Kaalgrontiid:''' ''"[[ON:Joorahmaar|Joorahmaar]]! Protect the aegis!"''
+:'''Abnur Tharn:''' ''"Protect me while I try to destroy the aegis! Joorahmaar may be wounded, but he's still a Dragon!"''
+
+As Joorahmaar nears defeat, he calls out:
+:'''Kaalgrontiid:''' ''"The island shall rise and a new moon will be born!"''
+
+After Joorahmaar's defeat, the island begins to rise.
+:'''Abnur Tharn:''' ''"I destroyed the aegis, but now we need to get out of here!"''
+:'''Kaalgrontiid:''' ''"I am the Dark Aeon!"''
+===New Moon Rising===
+[[File:ON-quest-The Dark Aeon.jpg|thumb|right|Kaalgrontiid in Dragonhold]]
+After the first aeonstone formation has been destroyed:
+:'''Kaalgrontiid:''' ''"Who dares attempt to stop my ascension?"''
+After the second aeonstone formation has been destroyed:
+:'''Kaalgrontiid:''' ''"You think to stop the rise of the New Moon? Never!"''
+After the final aeonstone formation has been destroyed:
+:'''Kaalgrontiid:''' ''"The flow of power has ceased! I will destroy whoever dares interfere with my ascension!"''
+{{NewRight}}
+{{Online NPC Summary
+|image=ON-creature-Kaalgrontiid 03.jpg
+|imgdesc=Kaalgrontiid, empowered by Aeonstone
+|race=Dragon
+|creature=1
+|loc=[[ON:Dragonhold (New Moon Rising)|Dragonhold]]
+|health=17,439,212
+|difficulty=3
+|reaction=Hostile
+|faction={{Faction|Order of the New Moon (faction)}}
+}}
+Approach him at the pinnacle.
+:'''Abnur Tharn:''' ''"I'll cast spheres of protection upon the grapple points when Kaalgrontiid prepares to shout!"''
+:'''Kaalgrontiid:''' ''"Come, mortals. Let me taste your blood. One last drink before I complete my ascension."''
+
+As he takes flight during battle:
+:'''Kaalgrontiid:''' ''"Infuriating fleas! How dare you attempt to stop the rise of the Dark Aeon!"''
+:As he takes flight:
+:'''Kaalgrontiid:''' ''"Tiresome mortals, submit to my reign and you may yet serve me!"''
+:'''Kaalgrontiid:''' ''"You cannot turn the tide of prophecy, mortals!"''
+
+As he descends to fight you face-to-face:
+:'''Kaalgrontiid:''' ''"I will deal with you with claw and tail!"''
+:'''Kaalgrontiid:''' ''"Persistent fleas! Die beneath my claws!"''
+
+As he nears defeat:
+:'''Kaalgrontiid:''' ''"No … this is not the end …!"''
+
+Kaalgrontiid disintegrates when he dies.
+{{NewLine}}
+
+==Dragon Rage Trailer==
+In the [https://www.youtube.com/watch?v=RDHC2LSFxvk Dragon Rage] trailer, Kaalgrontiid says the following:
+
+:''"We are free my brothers. Free to ravage this realm, to finish what we started... so long ago."''
+:''"We shall take from this land, what is rightfully ours."''
+:''"No mortal can oppose us."''
+:''"And let all those who dare... die."''
+:''"Now is the hour of our fury, and the beginning of our reign."''
+:''"Nothing can defeat... a Rage of Dragons!"''
+
+==Notes==
+* He is seen in the cinematic teaser trailer for ''[[ON:Elsweyr|The Elder Scrolls Online: Elsweyr]]''.
+* His name is translated directly as Champion-Bind-Time, or ''"Champion of the Bound Time"'' according to [[ON:Cadwell|Cadwell]].
+** It was spelled as "Kellegraantiid" on some parts of the official website, which may have been a working name that was changed later on.
+
+==Books==
+*{{Book Link|Khunzar-ri and the Demons}}
+*{{Book Link|Dragons: A Report for the Queen}}
+*{{Book Link|Euraxia's Personal Journal}}
+
+==Gallery==
+<gallery>
+File:ON-creature-Kaalgrontiid 02.jpg|Kaalgrontiid empowered by the Core
+File:ON-render-Dragon.jpg|[[Online:Renders/Elsweyr|Promotional render]] of Kaalgrontiid
+File:ON-render-Dragon 03.jpg|Promotional render
+File:ON-render-Halls of Colossus.jpg|Promotional still of the dragons escaping the halls
+File:ON-render-Kaalgrontiid.jpg|[[Online:Renders/Dragonhold|Promotional render]]
+File:ON-misc-Anniversary Art.jpg|Artwork commemorating ESO's 10th anniversary
+File:ON-wallpaper-10th Anniversary Illustration-1920 x 1080.jpg|Depicted in a wallpaper commemorating ESO's 10th anniversary (bottom center, silhouetted)
+File:ON-wallpaper-10 Years of Adventure-1920 x 1080.jpg|Depicted in a wallpaper commemorating ESO's 10th anniversary
+</gallery>

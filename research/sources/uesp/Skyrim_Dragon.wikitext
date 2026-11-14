@@ -1,0 +1,564 @@
+{{Trail|Creatures}}{{Featured Article}}
+[[File:SR-creature-Dragon.jpg|thumb|right|A frost dragon]]
+
+'''Dragons''' ('''drah-gkon''' and '''dov-rha''' to the ancient [[Skyrim:Nord|Nords]], or '''dov''' in [[Lore: Dragon Language|their native language]]) are large flying reptilian creatures that are encountered in [[Skyrim:Skyrim|Skyrim]]. They are immortal and highly intelligent, have an affinity for magic, and were once even worshipped by the ancient Nordic people. Temples dedicated to dragon worship were built across the province of Skyrim, but now only a few artifacts relating to the [[Skyrim:Dragon Cult|Dragon Cult]] remain, such as [[Skyrim:Dragon Claw|dragon claws]] and [[Skyrim:Dragon Priest Mask|Dragon Priest Masks]]. Once thought long dead, dragons are now beginning to return and are a major part of Skyrim's [[Skyrim:Main Quest|main quest]].
+{{TOCleft}}
+There are several encounters with dragons during the main quest, though randomly generated dragons also [[Skyrim:World Interactions#Dragon Attack|appear]] in the wild after the completion of [[Skyrim:Dragon Rising|Dragon Rising]], unless [[Skyrim:A Blade in the Dark|A Blade in the Dark]] is active. Although the majority of dragon encounters will involve only a single creature, in rare cases it is possible to come across two or more of them at a time, especially after fast-traveling. All [[Skyrim:Dragon Lairs|dragon lairs]] contain [[Skyrim:Word Wall|word walls]] and are indicated by a dragon's head icon on the map.
+
+Dragons are also often encountered soon after fast-traveling to a relatively wide open location, within smaller towns like [[Skyrim:Riverwood|Riverwood]] and [[Skyrim:Rorikstead|Rorikstead]], or even inside large walled cities like [[Skyrim:Whiterun|Whiterun]] and [[Skyrim:Markarth|Markarth]].
+
+Dragons are fearsome opponents in combat and are some of the most dangerous creatures in all of [[Lore:Tamriel|Tamriel]]. As your level increases, more difficult types of dragons will appear, ranging from a basic dragon at the lowest levels up to a mighty legendary dragon at the highest. Encounters with dragons in the wild are heralded by a loud roar; the dragon will often fly very close to you if it has spotted you, causing a palpable rush of air, almost as if the dragon is deliberately trying to provoke you. Not all dragons are automatically hostile to you, however. Some will simply circle overhead for a while without engaging in combat; if you ignore it long enough, the event will end and the dragon will fly off.
+
+Dragons are highly intelligent and can use the power of the Thu'um (also known as "The Voice" or [[Skyrim:Dragon Shouts|Dragon Shouts]]) to attack their enemies, using short phrases of words of power to cause a variety of effects. It is said that combat with dragons is actually a debate; as the dragon [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] explains, ''"There is no distinction between debate and combat to a dragon. Tinvaak los grah. For us it is one and the same."''
+
+All dragons have either frost- or fire-based breath attacks and will use them while airborne and while on the ground. The damage inflicted by this attack can be decreased with the appropriate elemental resistance, magic resistance, and wards. During combat, dragons will occasionally land on the ground to briefly engage in melee with you or any NPCs or other creatures in the area before taking flight again. Dragons may also perch on rooftops or other features, such as word walls, attacking creatures below them while keeping out of reach of melee attacks. The [[Skyrim:Dragonrend|Dragonrend]] shout can be used to force a flying dragon to land for a short time. Once a dragon is at about half of its health, it will either land on the ground (often with a clumsy crash) and not take flight for the rest of the battle or, rarely, flee combat altogether, depriving you of a dragon soul to absorb.
+
+[[File:SR-creature-Blood Dragon Attack.jpg|thumb|A Blood Dragon]]
+While a dragon's breath is a formidable attack in its own right, dragons also have a devastatingly powerful bite. It is important to keep your health high when close to a dragon on the ground. If your health drops below a certain threshold and you are close to the dragon's head, the dragon may kill you with an action sequence: it will lunge forward and grip you in its jaws, lift you in the air, swing you from side to side, and then throw your corpse to the ground. Staying to one side of the dragon while it is on the ground can help keep you clear of its bite and breath, but the dragon will still be able to lash at you with its wings or tail. You can try using trees and other landscape features to gain a cover advantage, but the game may not register all forms of cover and the dragon may still be able to attack through them, so choose your hiding places carefully.
+
+Dragons will attack nearby creatures of any kind, from [[Skyrim:Mudcrab|mudcrabs]] to [[Skyrim:Giant|giants]], but not other dragons. You can use this to your advantage by engaging a dragon where other creatures are nearby, especially if the dragon has already selected alternate prey, using the distraction as an opportunity to move in for the attack. Dragons will even target other creatures while engaging you in combat, so fighting alongside [[Skyrim:Followers|followers]] and other NPCs or creatures makes surviving a dragon assault much more feasible, since damage can be absorbed by others. However, the presence of other creatures does not guarantee the dragon will attack them instead of you, even if it was already fighting them when you arrived.
+
+When you slay a dragon in combat, the body of the beast will be engulfed in flames, and you, being the [[Skyrim:Dovahkiin|Dovahkiin]], will absorb its soul. After the flames subside, you can loot the dragon's bare skeleton for its [[Skyrim:Dragon Bone|bones]], [[Skyrim:Dragon Scales|scales]], and other miscellaneous treasure. The scales and bones make formidable [[Skyrim:Dragon Armor|armor]]. With the ''[[Skyrim:Dawnguard|Dawnguard]]'' [[Skyrim:Add-ons|add-on]], you can also craft and temper [[Skyrim:Dragonbone|Dragonbone weapons]] from the bones. Dragon souls can be saved and used to unlock Dragon Shouts and, with the completion of the ''[[Skyrim:Dragonborn|Dragonborn]]'' questline, reset [[Skyrim:Skill Perks|skill perks]].
+
+==Appearance and Types==
+Dragons have long, slender extremities covered in scales, and large, thin, leathery wings. Their feet are tipped with three sharp talons and one vestigial digit known as a dewclaw, which is evident in their [[Lore:Dragon Alphabet|written language]]. Dragons have horns and spiked ridges along their backs and are several times larger than any human or elf. They have two hind legs but no forearms, so they use their wings to crawl when they are forced to traverse along the ground.
+
+===Abilities===
+In addition to the special abilities listed below, all dragons have a special [[Skyrim:Dragonskin (perk)|Dragonskin]] perk, which negates 50% of all damage from any attacker except you, the Dovahkiin. Except for basic Dragons and the Skeletal Dragon, all dragons also have an ability called "Dragon Bite", which grants them a constant [[Skyrim:Fortify Unarmed Damage|Fortify Unarmed Damage]] effect. Dragons are immune to [[Skyrim:Paralysis|paralysis]] and cannot be [[Skyrim:Soul Trap (effect)|soul trapped]].
+
+Dragons have their own unique "dragon" versions of the [[Skyrim:Fire Breath|Fire Breath]], [[Skyrim:Frost Breath|Frost Breath]], [[Skyrim:Unrelenting Force|Unrelenting Force]], and [[Skyrim:Drain Vitality|Drain Vitality]]{{DG}} shouts, and their [[Skyrim:Fireball|Fireball]] and [[Skyrim:Ice Storm|Ice Storm]] spells are treated like shouts as well. The base damage for all the dragons detailed below is 25 (with the exception of the Skeletal Dragon), and their tail swipe attacks will stagger all enemies in a large area.
+
+The sections below detail the attributes and abilities of each of the various types of dragons. The types of dragons that spawn in the wild will depend on your level, but regardless of your level, dragons' combat abilities and their centrality to the game's plot effectively make them game bosses. Note that although the different varieties of dragon normally begin to appear at the player level indicated, it is possible, though rare, to encounter a more powerful dragon at a much lower level.
+
+===Dragon===
+Basic '''Dragons''' are considered the easiest type of dragon to fight, although they can prove challenging early in the game. They come in three different colors and can have either fire- or frost-based attacks. They will spawn at any level once you have completed the quest [[Skyrim:Dragon Rising|Dragon Rising]].
+[[File:SR-creature-Dragon 02.jpg|thumb|right|A typical Dragon encountered early in the game]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]]!! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage|Wings}}</small> !!width=50| <small>{{Hover|Base Damage x 1.5|Bite, Tail}}</small> !!width=180px| Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]]
+|-
+|rowspan=2|Brown
+|Fire
+|{{ID|0001CA03}}<br>{{ID|000F8115}}
+|align=center|10
+|align=center|905
+|align=center|150
+|align=center|130
+|align=center|25
+|align=center|37
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|20 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|25 pts}})</small>
+|50
+|{{FC|Red|-25}}
+|-
+|Frost
+|{{ID|000F80FA}}<br>{{ID|000F8116}}
+|align=center|10
+|align=center|905
+|align=center|150
+|align=center|130
+|align=center|25
+|align=center|37
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|20 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|25 pts}})</small>
+|{{FC|Red|-25}}
+|50
+|-
+|White
+|Fire
+|{{ID|0008BC7F}}<br>{{ID|000E8710}}
+|align=center|10
+|align=center|905
+|align=center|150
+|align=center|130
+|align=center|25
+|align=center|37
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|20 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|25 pts}})</small>
+|50
+|{{FC|Red|-25}}
+|-
+|Bronze
+|Fire
+|{{ID|0008BC7E}}
+|align=center|10
+|align=center|905
+|align=center|150
+|align=center|130
+|align=center|25
+|align=center|37
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|20 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|25 pts}})</small>
+|50
+|{{FC|Red|-25}}
+|}
+{{NewLine}}
+
+===Blood Dragon===
+'''Blood Dragons''' are entirely green in color, can breathe either fire or frost, and are slightly tougher than basic dragons. These dragons have sail-like fins on their backs and on either side of their tails, and a bony ridge along their foreheads. Blood Dragons begin to appear in leveled lists at level 18.
+[[File:SR-creature-Blood Dragon.jpg|thumb|right|A Blood Dragon]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 25|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage +25) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|rowspan=2|Green
+|Fire
+|{{ID|000F80FD}}<br>{{ID|000F8117}}
+|align=center|20
+|align=center|1421
+|align=center|150
+|align=center|164
+|align=center|50
+|align=center|75
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|30 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|40 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|50
+|{{FC|Red|-25}}
+|25
+|-
+||Frost
+|{{ID|000F77F8}}<br>{{ID|000F8118}}
+|align=center|20
+|align=center|1421
+|align=center|150
+|align=center|164
+|align=center|50
+|align=center|75
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|30 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|40 pts}})</small>
+|{{FC|Red|-25}}
+|50
+|25
+|}
+{{NewLine}}
+
+===Skeletal Dragon===
+The '''[[Skyrim:Skeletal Dragon|Skeletal Dragon]]''' is a unique dragon found only in [[Skyrim:Labyrinthian|Labyrinthian]] that is made up entirely of bone, with no scales or flesh, and cannot fly. It breathes frost, but has no resistance to frost or weakness to fire; instead, it has weakness to magic (100 pts). The Skeletal Dragon has no soul to absorb and, unlike living dragons, drops only dragon bones when killed. The Skeletal Dragon's base damage is 50, and its bite attack multiplies this damage by 2 instead of 1.5.
+[[File:SR-creature-Skeletal Dragon.jpg|thumb|right|The Skeletal Dragon breathes a blast of frost]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=30| <small>{{Hover|Base Damage|Wings}}</small> !!width=30| <small>{{Hover|Base Damage x 1.5|Tail}}</small> !!width=30| <small>{{Hover|Base Damage x 2|Bite}}</small>!!width=180px|Shouts !! [[File:MagicIcon small.png|Resist Magic|link=Skyrim:Resist Magic]]
+|-
+|''None''
+|Frost
+|{{ID|0009192C}}
+|align=center|20
+|align=center|500
+|align=center|150
+|align=center|100
+|align=center|50
+|align=center|75
+|align=center|100
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|30 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-100}}
+|}
+{{NewLine}}
+
+===Frost Dragon===
+'''Frost Dragons''' are colored white and grey and have very large, black spikes along their back. They have a frost-based breath attack. These dragons are a little tougher than Blood dragons and have significantly more health. Frost Dragons begin to appear in leveled lists at level 27.
+[[File:SR-creature-Frost Dragon.jpg|thumb|right|A Frost Dragon Shouts their's ice wall spell]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 75|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 75) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|White
+|Frost
+|{{ID|000351C3}}<br>{{ID|000F8119}}
+|align=center|30
+|align=center|1860
+|align=center|150
+|align=center|197
+|align=center|100
+|align=center|150
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|50 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|55 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-25}}
+|50
+|75
+|}
+{{NewLine}}
+
+===Elder Dragon===
+All '''Elder Dragons''' are bronze in color and are significantly tougher than the previous types, both in melee and breath attacks. Their wings have a unique two-tone pattern, with bronze at the top and a lighter green lower down. They can breathe either fire or frost, and begin appearing in leveled lists at level 36.
+[[File:SR-creature-Elder Dragon.jpg|thumb|right|An Elder Dragon]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 125|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 125) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-Elder Dragon
+|rowspan=2|Bronze 
+|Fire
+|{{ID|000F811B}}<br>{{ID|000F8103}}
+|align=center|40
+|align=center|2255
+|align=center|150
+|align=center|230
+|align=center|150
+|align=center|225
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|60 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|75 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|50
+|{{FC|Red|-25}}
+|125
+|-
+|Frost
+|{{ID|000F811A}}<br>{{ID|000F8102}}
+|align=center|40
+|align=center|2255
+|align=center|150
+|align=center|230
+|align=center|150
+|align=center|225
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|60 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|75 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-25}}
+|50
+|125
+|}
+{{NewLine}}
+
+===Ancient Dragon===
+'''Ancient Dragons''' are covered with coppery red and black scales, with almost no ridges or spikes on their backs, and are capable of breathing either fire or frost. The Ancient Dragon's "Dragon Bite" adds a massive 175 points of damage to their attacks, making them remarkably deadly both in the air and on the ground. Until ''Dawnguard'' was released, they were the strongest non-unique dragons encountered in the game. Ancient Dragons begin to appear in leveled lists at level 45.
+[[File:SR-creature-Ancient Dragon.jpg|thumb|right|An Ancient Dragon scorches the air with its Fire Breath]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 175|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 175) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|rowspan=2|Red
+|Fire
+|{{ID|000F811C}}<br>{{ID|000F811D}}
+|align=center|50
+|align=center|3071
+|align=center|150
+|align=center|264
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|100 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|200 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|50
+|{{FC|Red|-25}}
+|175
+|-
+|Frost
+|{{ID|000F811E}}<br>{{ID|000F811F}}
+|align=center|50
+|align=center|3071
+|align=center|150
+|align=center|264
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|100 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|200 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-25}}
+|50
+|175
+|}
+{{NewLine}}
+
+==={{Anchor|Serpentine Dragon}}{{DB}}===
+'''Serpentine Dragons''' are found only on [[Skyrim:Solstheim|Solstheim]] and can breathe frost or fire. Their appearance is unique compared to other dragons, most notably their blue hue, lack of scutes, and oversized bottom jaws which give them a distinctive underbite. They are formidable foes, possessing slightly greater strength than an Ancient Dragon. There is one named Serpentine Dragon, [[Skyrim:Sahrotaar|Sahrotaar]], whom [[Skyrim:Miraak (person)|Miraak]] uses as his mount. Serpentine Dragons begin to appear in leveled lists at level 55 if ''Dragonborn'' is installed.
+[[File:SR-creature-Serpentine Dragon.jpg|thumb|A Serpentine Dragon]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 175|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 175) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|rowspan=2|Blue 
+|Fire
+|{{ID|xx036134}}
+|align=center|58
+|align=center|3565
+|align=center|150
+|align=center|290
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|125 pts}})</small>
+*[[Skyrim:Fireball|Fireball]] <small>({{Hover|Health|200 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|50
+|{{FC|Red|-25}}
+|175
+|-
+|Frost
+|{{ID|xx036133}}
+|align=center|58
+|align=center|3565
+|align=center|150
+|align=center|290
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|125 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Ice Storm|Ice Storm]] <small>({{Hover|Health and Stamina|200 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-25}}
+|50
+|175
+|}
+{{NewLine}}
+
+==={{Anchor|Revered Dragon}}{{DG}}===
+'''Revered Dragons''' are orange-scaled dragons that have long, flat bodies and broad tails. In addition to their Fire Breath, they can use a dragon version of the Drain Vitality shout, which lets them rapidly drain a victim's health, magicka, and stamina. Revered Dragons begin to appear in leveled lists at level 59 if ''Dawnguard'' is installed.
+[[File:SR-creature-Revered Dragon.jpg|thumb|right|A Revered Dragon using its Drain Vitality shout]]
+{| class="wikitable"
+! Color !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 175|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 175) x 1.5|Bite, Tail}}</small> !!width=180px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|Orange
+|Fire
+|{{ID|xx008431}}<br>{{ID|xx008432}}
+|align=center|62
+|align=center|3511
+|align=center|150
+|align=center|304
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Drain Vitality|Drain Vitality]] <small>({{Hover|Health, Magicka, and Stamina|5 pts}}/sec. for 20 sec.)</small>
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|100 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|50
+|{{FC|Red|-25}}
+|175
+|}
+{{NewLine}}
+
+==={{Anchor|Legendary Dragon}}{{DG}}===
+'''Legendary Dragons''' have striped black and purple scales, large curved horns, unusually long claws on their white-and-purple wings, and what appear to be compound eyes. Like the Revered Dragons, they can use Drain Vitality as well as the traditional Fire or Frost Breath. Legendary Dragons begin to appear in leveled lists at level 78 if ''Dawnguard'' is installed.
+[[File:SR-creature-Legendary Dragon.jpg|thumb|right|A Legendary Dragon]]
+{| class="wikitable"
+! Colors !! Breath !! [[Skyrim:Form ID|IDs]] !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !!width=50| <small>{{Hover|Base Damage + 175|Wings}}</small> !!width=50| <small>{{Hover|(Base Damage + 175) x 1.5|Bite, Tail}}</small> !!width=220px|Shouts !! [[File:FireIcon small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon small.png|Resist Frost|link=Skyrim:Resist Frost]] !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]]
+|-
+|rowspan=2|Purple and black 
+|Fire
+|{{ID|xx00C5F5}}<br>{{ID|xx00C5FE}}
+|align=center|75
+|align=center|4163
+|align=center|150
+|align=center|347
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Drain Vitality|Drain Vitality]] <small>({{Hover|Health, Magicka, and Stamina|7 pts}}/sec. for 20 sec.)</small>
+*[[Skyrim:Fire Breath|Fire Breath]] <small>({{Hover|Health|125 pts}})</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|75
+|{{FC|Red|-25}}
+|175
+|-
+|Frost
+|{{ID|xx00C5FD}}<br>{{ID|xx00C5FF}}
+|align=center|75
+|align=center|4163
+|align=center|150
+|align=center|347
+|align=center|200
+|align=center|300
+|
+*[[Skyrim:Drain Vitality|Drain Vitality]] <small>({{Hover|Health, Magicka, and Stamina|7 pts}}/sec. for 20 sec.)</small>
+*[[Skyrim:Frost Breath|Frost Breath]] <small>({{Hover|Health and Stamina|150 pts}}, [[Skyrim:Slow|Slow]])</small>
+*[[Skyrim:Unrelenting Force|Unrelenting Force]]
+|{{FC|Red|-25}}
+|75
+|175
+|}
+{{NewLine}}
+{{SkyrimBox/End}}
+
+==Locations==
+===Generic Dragons===
+Generic dragons of the types listed above can be encountered at [[Skyrim:Dragon Lairs|Dragon Lairs]], [[Skyrim:Dragon Mounds|Dragon Mounds]] and during [[Skyrim:World Interactions#Hostile Encounters|Hostile Encounters]].
+
+===Named Dragons===
+{|class="wikitable"
+!width=90| Name !!width=150px| Dragon Language !! Notes
+|-
+|'''[[Skyrim:Alduin|Alduin]]
+|align=center| {{DragonFont|ALDUIN|3}}<br><small>"Destroyer Devour Master"</small>
+|The firstborn of [[Lore:Akatosh|Akatosh]], elder brother of Paarthurnax, and self-proclaimed aspect of Akatosh. Also known as "The World-Eater" and "Bane of Kings".
+|-
+|'''[[Skyrim:Durnehviir (dragon)|Durnehviir]]'''{{DG}}
+|align=center|{{DragonFont|DURNEHViiR|3}}<br><small>"Curse Never Dying"</small>
+|An undead dragon the [[Lore:Ideal Masters|Ideal Masters]] tricked into guarding the [[Skyrim:Soul Cairn|Soul Cairn]] for eternity. He can be summoned after defeating him and learning his shout.
+|-
+|'''[[Skyrim:Krosulhah|Krosulhah]]'''{{DB}}
+|align=center|{{DragonFont|KROSULHah|3}}<br><small>"Sorcerer Day Mind"</small>
+|Found outside of [[Skyrim:Nchardak|Nchardak]] on the island of [[Skyrim:Solstheim|Solstheim]] during [[Skyrim:The Gardener of Men|The Gardener of Men]].
+|-
+|'''[[Skyrim:Kruziikrel|Kruziikrel]]'''{{DB}}
+|align=center|{{DragonFont|KRUZiiKREL|3}}<br><small>"Ancient Domination"</small>
+|In the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]], encountered during the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]].
+|-
+|'''[[Skyrim:Mirmulnir|Mirmulnir]]'''
+|align=center|{{DragonFont|MIRMULNIR|3}}<br><small>"Allegiance Strong Hunt"</small>
+|The first living dragon you will fight in Skyrim, at the [[Skyrim:Western Watchtower|Western Watchtower]] near [[Skyrim:Whiterun|Whiterun]]. There had been no previous record of his death, and he may have actually survived in hiding all this time until Alduin's return.
+|-
+|'''[[Skyrim:Naaslaarum|Naaslaarum]]'''{{DG}}
+|align=center|{{DragonFont|NaaSLaaRUM|3}}<br/><small>"Tooth Water Twin"</small>
+|One of two dragons encountered in a frozen lake in the [[Skyrim:Forgotten Vale|Forgotten Vale]]. They are fought simultaneously and can dive under the frozen lake to ambush you.
+|-
+|'''[[Skyrim:Nahagliiv|Nahagliiv]]'''
+|align=center|{{DragonFont|NAHAGLiiV|3}}<br><small>"Fury Burn Wither"</small>
+|Buried in a mound west of [[Skyrim:Rorikstead|Rorikstead]] {{Map Link|x=-91120|y=4255|zoom=17}}. Resurrected after escorting Esbern in [[Skyrim:Alduin's Wall|Alduin's Wall]].
+|-
+|'''[[Skyrim:Odahviing|Odahviing]]'''
+|align=center|{{DragonFont|ODAHViiNG|3}}<br><small>"Snow Hunter Wing"</small>
+|Was the right-hand to Alduin, records date by interrogation of captured Dragon Cultists during Crusade. Buried in a mound in the southeast of Skyrim, near [[Skyrim:Riften|Riften]]. After completing the main quest, Odahviing can be summoned by using a dragon shout called "[[Skyrim:Call Dragon|Call Dragon]]".
+|-
+|'''[[Skyrim:Paarthurnax (dragon)|Paarthurnax]]'''
+|align=center|{{DragonFont|PaaRTHURNAX|3}}<br><small>"Ambition Overlord Cruelty"</small>
+|The legendary lieutenant of Alduin in the [[Lore:Dragon War|Dragon War]]. He is now known to reside on the [[Skyrim:Throat of the World|Throat of the World]] under the protection of the [[Skyrim:Greybeards|Greybeards]] of [[Skyrim:High Hrothgar|High Hrothgar]].
+|-
+|'''[[Skyrim:Relonikiv|Relonikiv]]'''{{DB}}
+|align=center|{{DragonFont|RELONIKIV|3}}<br><small>"Domination Enlightenment"</small>
+|In the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]], encountered during the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]].
+|-
+|'''[[Skyrim:Sahloknir|Sahloknir]]'''
+|align=center|{{DragonFont|SAHLOKNIR|3}}<br><small>"Phantom Sky Hunt"</small>
+|East of [[Skyrim:Kynesgrove|Kynesgrove]] {{Map Link|x=146095|y=13652|zoom=17}}, encountered during [[Skyrim:A Blade in the Dark|A Blade in the Dark]].
+|-
+|'''[[Skyrim:Sahrotaar|Sahrotaar]]'''{{DB}}
+|align=center|{{DragonFont|SAHROTaaR|3}}<br><small>"Mighty Servant"</small>
+|In the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]], encountered during the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]].
+|-
+|'''[[Skyrim:Viinturuth|Viinturuth]]'''
+|align=center|{{DragonFont|ViiNTURUTH|3}}<br><small>"Shine Hammer Rage"</small>
+|Buried near [[Skyrim:Lake Yorgrim|Lake Yorgrim]] {{Map Link|x=100493|y=39494|zoom=17}}. Death dating back to Dragon War era. Resurrected after [[Skyrim:The Throat of the World|The Throat of the World]].
+|-
+|'''[[Skyrim:Voslaarum|Voslaarum]]'''{{DG}}
+|align=center|{{DragonFont|VOSLaaRUM|3}}<br/><small>"Claw Water Twin"</small>
+|One of two dragons encountered in a frozen lake in the [[Skyrim:Forgotten Vale|Forgotten Vale]]. They are fought simultaneously and can dive under the frozen lake to ambush you.
+|-
+|'''[[Skyrim:Vuljotnaak|Vuljotnaak]]'''
+|align=center|{{DragonFont|VULJOTNaaK|3}}<br><small>"Dark Maw Eat"</small>
+|Buried in a mound northeast of [[Skyrim:Sunderstone Gorge|Sunderstone Gorge]] and southwest of [[Skyrim:Sleeping Tree Camp|Sleeping Tree Camp]] {{Map Link|x=-50010|y=-30385|zoom=17}}. Death dating back to Dragon War or just after. Resurrected at the start of [[Skyrim:Diplomatic Immunity|Diplomatic Immunity]].
+|-
+|'''[[Skyrim:Vulthuryol|Vulthuryol]]'''
+|align=center|{{DragonFont|VULTHURYOL|3}}<br><small>"Dark Overlord Fire"</small>
+|A dragon encountered underground, in [[Skyrim:Blackreach|Blackreach]].
+|}
+
+==Loot==
+[[File:SR-creature-Dragon Dead.jpg|thumb|right|A mighty dragon lies dead]]
+The standard loot for dragons is listed below; revered and legendary dragons give additional loot.
+* 100–318 gold, depending on level and chance
+* 1 or 3 dragon scales (average 2.5)
+* 1 or 3 dragon bones (average 2.5)
+** 1 @ 100% chance, 2 more @ 75% chance
+* 25% chance of a piece of armor
+** 33% unenchanted [[Skyrim:Light Armor (item)|light armor]]
+** 33% unenchanted [[Skyrim:Heavy Armor (item)|heavy armor]]
+** 22% enchanted light armor
+** 11% enchanted heavy armor
+* 25% chance of a weapon
+** 50% unenchanted [[Skyrim:One-Handed Weapons|one-handed]] weapon
+** 25% unenchanted [[Skyrim:Two-Handed Weapons|two-handed]] weapon
+** 25% [[Skyrim:Generic Magic Weapons|enchanted weapon]] (any type)
+* 25% chance of a [[Skyrim:Gems|gem]]
+
+==Hearthfire==
+The ''[[Skyrim:Hearthfire|Hearthfire]]'' [[Skyrim:Add-ons|add-on]] lets you build a dragon skull statue on a large base in the [[Skyrim:Trophy Room|trophy room]] addition of any homestead. The materials needed are:
+{|class="wikitable" valign="middle"
+!colspan=2|Dragon Skull
+|-
+|width=50%|
+:
+* [[Skyrim:Dragon Bone|Dragon Bone]]
+|width=1px style="padding:0"|[[File:SR-trophy-Dragon Skull.jpg|frameless|175px]]
+|}
+
+==Dragon Riding{{DB}}==
+With the ''[[Skyrim:Dragonborn|Dragonborn]]'' [[Skyrim:Add-ons|add-on]], you have the ability to [[Skyrim:Dragon Riding|ride specific dragons]] after obtaining all three words of the [[Skyrim:Bend Will|Bend Will]] dragon shout. After shouting at the desired dragon, it will land and you will be able to get on its back, and it will engage in flight. You give the dragon instructions, rather than directly controlling the dragon. There are a few dragons that you are unable to ride.
+
+==Achievements==
+[[Skyrim:Achievements|Achievements]] related to dragons are:
+* {{achievement|Dragon Soul (achievement)}}
+* {{achievement|Dragon Hunter}}
+* {{achievement|Legend}}
+** Since Legendary Dragons only begin to appear in regular leveled lists at level 78, this achievement will have to wait until late in a playthrough.
+* {{achievement|Dragonrider|name=Dragonrider{{DB}}}}
+
+==Related Quests==
+*{{Quest Link|Bounty: Dragon}}
+*{{Quest Link|Dragon Hunting}}
+*{{Quest Link|Dragon Research}}
+*{{Quest Link|Dragon Seekers}}
+
+==Notes==
+* Although shouts need to be spoken for their power to manifest, dragons seem to only roar when using most shouts.
+* Outside of the main quest, the most reliable way to find dragons to fight is to perform the radiant quests [[Skyrim:Dragon Seekers|Dragon Seekers]] or [[Skyrim:Dragon Hunting|Dragon Hunting]]. They are repeatable, and your destination is guaranteed to spawn a dragon. [[Skyrim:Dragon Seekers|Dragon Seekers]] is available if you have completed the [[Skyrim:Companions|Companions]] questline and [[Skyrim:Dragon Rising|Dragon Rising]], and [[Skyrim:Dragon Hunting|Dragon Hunting]] is available if you have completed [[Skyrim:Rebuilding the Blades|Rebuilding the Blades]] and are on friendly terms with the Blades.
+* While [[Skyrim:A Blade in the Dark|A Blade in the Dark]] is active, dragon locations will be limited to dragon lairs, and random dragon encounters are disabled.
+*Although [[Skyrim:Arngeir|Arngeir]] says that dragons have the same ability as the [[Skyrim:Dovahkiin|Dovahkiin]] to absorb a slain dragon's soul, receive its knowledge, and use this to master a new shout, it never happens during gameplay. This is presumably because there is no occasion when one dragon fights or kills another, unless you have summoned or mastered one: and on such an occasion, you are present to absorb the dragon soul, whether you want or need it or not.
+**He does, however, say that dragons have always been able to shout since the dawn of time, a dragon's ability to shout in the Dragon Language is intrinsic to their very being, and the latter comes naturally to them as breathing or speaking.
+*If you instantly kill a dragon while it rests on a word wall, or is completing an animation such as taking flight, the dragon will finish its animation (it will take flight if it is resting), before landing (or crashing) to die. This is due to the longer animation sequences associated with dragons due to their size.
+*Legendary Dragons will occasionally seem to taunt you by announcing their presence before attacking. {{vn|section=Legendary_Dragons_taunting_player}}
+*The [[Skyrim:Wabbajack|Wabbajack]] will not transform a dragon, but can be used as a constant source of destructive blasts.
+*If ''[[Skyrim:Dragonborn|Dragonborn]]'' is installed and the quest [[Skyrim:The Temple of Miraak|The Temple of Miraak]] has been completed though the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]] has not been finished, [[Skyrim:Miraak (person)|Miraak]] may appear and absorb the dragon soul before you can. He will always appear for the first dragon you defeat and will have a 25% chance to appear after that. He can appear on Solstheim, and in Skyrim as well.
+*Dragon's souls cannot be [[Skyrim:Soul Trap (effect)|trapped]]; only consumed.
+*Dragons are immune to all [[Skyrim:Illusion|Illusion]] spells and effects cast at them.
+*Dragons have extremely high [[Skyrim:Sneak|Sneak]] ability, which allows them to significantly counter most forms of stealth, including invisibility and muffle, though they're not technically immune to these effects, meaning it is still possible to sneak around a dragon, just much harder than normal.
+*Revered and Legendary dragons use Durnehviir's voice when using the Drain Vitality shout.
+
+==Bugs==
+[[File:SR-creature-Dragon LOD Bug.jpg|thumb|right|A dragon with the LOD texture bug]]
+{{Bug|You will occasionally fail to absorb a dragon's soul after killing one. This issue can possibly result from fast traveling, mounting a horse, looting a container, or engaging an NPC in dialogue the moment the dragon dies.|confirmed=1|USKP|1.0}}
+**{{Pc22}} A workaround is to use a console command: <code>player.modav dragonsouls 1</code>
+**This bug usually occurs with dragons that have spawned from [[Skyrim:Dragon Lairs|dragon lairs]] after you first visit them.
+{{Bug|Dragons and draugr are considered enemies, even though dragon priests are allies to both.|USKP|1.2|fixdetail=Dragons and draugr are no longer hostile to one another.}}
+{{Bug|There is a missing level 27 fire dragon in the leveled list lchardragonany even though they exist and should have been ON the list at level 27 since all other levels have them.|USKP|2.1.2}}
+{{Bug|The level 27 fire dragon mentioned above is also absent from the leveled list dlc2lchardragonany even though they exist and also should have been on the list at level 27 for the same reason.|UDBP|2.1.2}}
+{{Bug|The 3rd tier fire dragon is incorrectly based on a 4th tier template which causes them to spawn as level 40 rather than the correct level 30 they should be.|USLEEP|3.0.1}}
+{{Bug|Dragons may be capable of reporting [[Skyrim:Crime|crimes]] against you.|USSEP|4.3.7}}
+{{Bug|Dragons will occasionally lunge through cover such as boulders, sarcophagi, and trees.|confirmed=1}}
+{{Bug|If you have the [[Skyrim:Disintegrate|Disintegrate]] perk and you disintegrate a dragon with a Shock spell, the ashes may disappear into the world terrain (or just be very hard to find). You will still absorb the dragon soul, but will miss out on the dragon bones and scales as well as the other leveled loot.|confirmed=1}}
+{{Bug|If there are no open spaces nearby, wounded dragons (or those under the effects of Dragonrend) will sometimes be forced to crash-land and skid through solid objects, and often teleport wildly and/or end up at odd angles.|confirmed=1}}
+{{Bug|Casting most spells on a dead dragon's skeleton may move it incredible distances.|confirmed=1}}
+{{Bug|Right after a dragon dies, you can walk inside its corpse and view its skeleton before it disintegrates.|confirmed=1}}
+{{Bug|Dragons may fly improperly through objects after you exit an interior.|OSP|1.1}}
+{{Bug|Dragons may not properly give you their souls upon death. Dragon corpses also may not clean up properly.|OSP|1.2}}
+{{Bug|You may see some dragons flying backwards. These dragons are not affected by Dragonrend and never land, so they can only be killed by arrows and spells. This bug was introduced with Patch 1.2.|confirmed=1|OSP|1.3}}
+{{Bug|Dragon landings can occasionally cause the game to crash.|OSP|1.7}}
+{{Bug|After [[Skyrim:Dragonslayer|Dragonslayer]] is finished, the instance of random dragon attacks after fast traveling is supposed to be reduced, but isn't.|OSP|1.9}}
+{{Bug|During [[Skyrim:Battle for Whiterun|Battle for Whiterun]], a dragon may attack the city, complicating matters even further.|OSP|1.9}}
+{{Bug|Miraak may sometimes not be present if he steals dragon souls.|OSSEP|1.6.1130}}
+{{Bug|Sometimes after leaving a building or fast traveling, dragon skeletons will spawn and fall from the sky, without you fighting them at all.|confirmed=1}}
+**In some cases this is a result of the way the game saves data. When returning to an area where a dragon has been killed, after the cell has been unloaded from the buffer but before the corpse would have expired, the corpse is respawned in the air (as if a live dragon) and allowed to fall again.
+{{Bug|Dragons may spawn with their distant skin model instead of their close-up model, and will appear blocky with blurred skin.|confirmed=1}}
+**Saving and reloading will correct this.
+{{Bug|On the PC, some have experienced a glitch when performing one-handed weapon "finishing moves" on dragons in which the animation will be off-center. In most cases, it will appear as though the character is dangling off the right side of the dragon's head when the finisher animation occurs.|confirmed=1}}
+{{Bug|Dragons can occasionally become invisible for no apparent reason, although NPCs will still attack them.|confirmed=1}}
+{{Bug|When you visit a dragon lair, the dragon may be in front of the word wall stuck in the ground. This renders the dragon unkillable and it will not attack you.|confirmed=1}}
+{{Bug|Using [[Skyrim:Storm Call|Storm Call]] to kill a dragon that's still flying may make it continuously fly in circles and become unkillable.|confirmed=1}}
+{{Bug|If you fast travel after killing a flying dragon, the dragon may appear in that area.|confirmed=1}}
+{{Bug|Sometimes dragons are unlootable.|confirmed=1}}
+{{Bug|Dragons landing on stairs can get stuck since each step is its own surface and they cannot fit on a single step. This causes them to be stuck until the forced landing sequence, and in this case they simply jump up and crash back down.|confirmed=1}}
+{{Bug|On rare occasions, a dragon soul will be absorbed before the dragon is dead, leaving an invulnerable skeletal dragon.|section=Soul absorbtion from alive dragon|confirmed=1}}
+{{Bug|Sometimes, a dragon may get stuck in a circle flight and will be unable to land or hover. They also become immune to Dragonrend, you can see the shout effect hitting them, but they won't land. They can only be killed by arrows or spells, and in some cases they will continue to fly in circles after their health is reduced to 0.|confirmed=1}}
+**Entering a building and going back outside fixes this.
+**{{Pc22}} Select the dragon in the [[Skyrim:Console|console]] and then type <code>evp</code>. The dragon will usually break out of the loop and land, but it can take a couple of tries sometimes.
+{{Bug| When the game tries to reload a dragon corpse that was previously unloaded it may fail to do so correctly and end up dropping the corpse in a default location as a fail-safe, which is usually somewhere near you. The corpse will then proceed to reload in whatever default location it can find as you move to other areas. This can lead to dragon corpses spawning in odd places such as in front of [[Skyrim:Dragonsreach|Dragonsreach]] without any apparent explanation.|confirmed=1}}
+{{Bug| When you visit a Dragon Lair, the dragon may not attack you or become aggressive unless you attack them first.|confirmed=1}}
+{{Bug| If you apply magicka draining effects such as Sparks to a dragon as it shouts, and the dragon runs out of magicka mid-shout, it will fail to shout and will continue to fail until you stop draining it. Despite this, dragons who have no magicka are still able to shout, as long as magicka is not being actively drained from them. This is likely due to a Combat AI bug, as shouts do not consume magicka.|confirmed=1}}
+
+==See Also==
+For more information on the dragons of the ''Elder Scrolls'' universe, see the [[Lore:Dragon|lore article]].
+* [[Lore:Dragon Alphabet|Dragon Alphabet]]
+* [[Lore:Dragon Language|Dragon Language]]
+* [[Skyrim:Dragon Riding|Dragon Riding]]
+
+===Books===
+* {{Book Link|Atlas of Dragons|ns_base=Skyrim}}
+* {{Book Link|The Dragon War|ns_base=Skyrim}}
+* {{Book Link|There Be Dragons|ns_base=Skyrim}}
+
+[[Category:Skyrim-Creatures]][[Category:Skyrim-Creatures-All]][[Category:Skyrim-Creatures-Monsters]][[Category:Skyrim-Creatures-Monsters-Dragon]] [[Category:Skyrim-Souls-Dragon]]

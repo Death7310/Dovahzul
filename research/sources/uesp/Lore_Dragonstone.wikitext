@@ -1,0 +1,23 @@
+<noinclude>{{Lore Artifacts Trail}}[[File:SR-item-Dragonstone (map).jpg|thumb|left|Dragonstone]]{{Quote Box|''Here lie our<br>Fallen lords<br>until power of<br>ALDUIN restore''|Message behind the stone}}</noinclude>
+The [[Lore:Dragonstone|Dragonstone]] is a stone tablet that depicts a map of [[Lore:Skyrim|Skyrim]], marked with the locations of [[Lore:Dragon|Dragon]] burial mounds. It was crafted following the [[Lore:Dragon War|Dragon War]] and was meant to document the burial of the Dragon-Lords in Skyrim for when [[Lore:Alduin|Alduin]] returned.{{Ref|name=SRText|[[Skyrim:Dragonstone#Dragonstone Text|Dragonstone]] quest item in ''[[Skyrim:Skyrim|Skyrim]]''}} It was created in the days that followed Alduin's defeat in the Dragon War. It was protected by the Keeper of the Dragonstone, a [[Lore:Draugr|Draugr]], in his tomb at [[Lore:Bleak Falls Barrow|Bleak Falls Barrow]].{{Ref|name=SRWordWall|[[Skyrim:Unrelenting Force#Word Wall Translation|Unrelenting Force]] word wall in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+
+The Dragonstone was kept in secret in the ruined temple until it was tracked in {{Year|4E 201}} by [[Lore:Delphine|Delphine]], a member of the [[Lore:Blades|Blades]] that went into hiding. She was able to rendezvous the information to her associate, the court-wizard of [[Lore:Whiterun|Whiterun]], [[Lore:Farengar Secret-Fire|Farengar Secret-Fire]], who sent the [[Lore:Last Dragonborn|Last Dragonborn]] to acquire the tablet from the temple. They were successful, besting the Keeper and delivering the stone to Whiterun. With the tablet, Delphine copied the map with rubbings to track the resurrections of the Dragons occurring courtesy of Alduin's prophesized return.{{Ref|name=SRBleak|[[Skyrim:Bleak Falls Barrow (quest)|Bleak Falls Barrow]] story quest in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:MER-art-Skyrim Limited Edition Dragonstone Replica.jpg|Dragonstone Replica
+File:SR-item-Dragonstone (text).jpg|The text behind the stone
+File:SR-achievement-Bleak Falls Barrow.png|Dragonstone iconography (Skyrim achievements)
+File:SR-icon-misc-MapOfDragonBurials.png|Rubbings of the map
+File:SR-place-Bleak Falls Barrow.jpg|Bleak Falls Barrow
+</gallery>
+
+==See Also==
+*{{GSI|Skyrim:Dragonstone|Merchandise:Skyrim Limited Edition Dragonstone Replica}}
+*The [[Lore:Wrathstone|Wrathstone]], another stone tablet detailing the location of dragons
+
+==References==
+<references/>
+</noinclude>

@@ -1,0 +1,132 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=Gideon Dragontongue
+|reward=211.31.111.4
+|rewardChecked=Kiz
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=[[Skyrim:Balgruuf the Greater|Jarl Balgruuf the Greater]]
+|Reward=Word for the [[Skyrim:Unrelenting Force|Unrelenting Force]] shout,<br>Word for the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]] shout
+|Disp=
+|Rep=
+|Prev=[[Skyrim:Dragon Rising|Dragon Rising]]
+|Conc=[[Skyrim:Climb the Steps|Climb the Steps]]
+|Next=[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]<br>[[Skyrim:Dragonborn (quest)|Dragonborn]] (Requires Level 25 to encounter cultists in World Encounters only)
+|Loc=[[Skyrim:Ivarstead|Ivarstead]], [[Skyrim:High Hrothgar|High Hrothgar]]
+|Image=SR-quest-The Way of the Voice.jpg
+|ImgDesc=Master Borri teaching "Wuld"
+|description=Meet the [[Skyrim:Greybeards|Greybeards]].
+|ID=MQ105
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+#Go to [[Skyrim:Ivarstead|Ivarstead]].
+#Climb the 7,000 Steps.
+#Speak to the Greybeards at [[SR:High Hrothgar|High Hrothgar]].
+
+==Detailed Walkthrough==
+
+===Ivarstead===
+
+After you're finished in [[Skyrim:Whiterun|Whiterun]], you'll want to head to [[Skyrim:Ivarstead|Ivarstead]], as it is located at the foot of the 7,000 Steps leading up to [[Skyrim:High_Hrothgar|High Hrothgar]]. Once you get there and get close to the bridge, you'll hear a conversation. Talk to one of the men, [[SR:Klimmek|Klimmek]], and learn about what dangers are lurking ahead. You can take an [[Skyrim:Climb_the_Steps|optional quest]] from him to deliver supplies to the Greybeards. You may also ask people there to tell you some information about High Hrothgar:
+{|class="wikitable sortable"
+! Name
+! Response 
+|-
+|'''[[Skyrim:Wilhelm|Wilhelm]]'''||''"The Greybeards are a solitary lot. I don't think they've ever ventured outside their monastery. We get the occasional pilgrim passing through here on their way to the summit, but almost all of them have returned disappointed."''
+|-
+|'''[[Skyrim:Klimmek|Klimmek]]'''||''"I've been to the monastery many times, but I've never even laid eyes on one of the Greybeards. Not that I'd care to. Being masters of the Thu'um, they could kill you by uttering a single word. Well, not that they would. They seem peaceful, but I wouldn't want to provoke them. "''
+|-
+|'''[[Skyrim:Bassianus Axius|Bassianus Axius]]'''||''"Klimmek brings food supplies up to them once every few weeks when the weather permits it. Other than that, they seem like a quiet lot. Don't really know too much about them."''
+|-
+|'''[[Skyrim:Boti|Boti]]'''||''"It's frightening living below their monastery. Sometimes I swear I can hear strange noises rolling down from up there. It sounds like thunder, but there's never any rain. What do you make of that?"''
+|-
+|'''[[Skyrim:Temba Wide-Arm|{{Nowrap|Temba Wide-Arm}}]]'''||''"The Greybeards stay away from me, and I stay away from them. Suits me just fine."''
+|-
+|'''[[Skyrim:Gwilin|Gwilin]]'''||''"Always thought it was odd that there's a layer of thick clouds covering the peak of the mountain above the monastery. Not sure what's up there, but I bet the Greybeards know."''
+|-
+|'''[[Skyrim:Jofthor|Jofthor]]'''||''"They call the path to the monastery the 7,000 Steps. Can you imagine? I'm not certain if I could even make it to the top without collapsing from exhaustion."''
+|-
+|'''[[Skyrim:Fastred|Fastred]]'''||''"The Greybeards are a strange bunch. I heard they live their entire life without uttering a single word; can you even imagine?"''
+|-
+|'''[[Skyrim:Lynly Star-Sung|Lynly Star-Sung]]'''||''"I've always fancied a journey up the 7,000 Steps to the monastery. Anything to break the boredom of living in this town. I envy you."''
+|}
+
+===The 7,000 Steps===
+
+When you start on the trail up, you'll run across various leveled wildlife and monsters, and a couple of pilgrims, [[Skyrim:Barknar|Barknar]] and [[Skyrim:Karita (warrior)|Karita]]. You will also find various etched stone tablets ("emblems") giving you information on the history of the [[Skyrim:dragon|dragon]]s and the [[Lore:Way of the Voice|Way of the Voice]].
+
+There is an iron ore vein hidden near the third emblem shrine. Once the third shrine is in view climb the small hill to your right. It is at the top of the hill hidden from view of the main walking path. 
+
+Shortly after the fourth emblem where you meet Karita, at a point where the steps are sandwiched between two cliffs, there is a [[Skyrim:troll|frost troll]] that will jump from the top of one cliff if it sees you (though sometimes it may be found further up the path). For low-level characters, this can be a difficult fight. It can be avoided altogether by sneaking past it at night or scaling the cliffs nearby.
+
+====Combat Strategies====
+#Frost trolls, like any other type of troll, have a weakness to fire. Thus, handy combat strategies include using weapons which have a fire enchantment, using fire-based destruction spells, and [[Skyrim:Conjure Flame Atronach|summoning a flame atronach]]. The Shout [[Skyrim:Fire Breath|Fire Breath]] could also be used, as a word for it can be gained early on in the [[Skyrim:Companions|Companions]] questline. If you are a [[Skyrim:Dark Elf|Dunmer]], your [[Skyrim:Ancestor's Wrath|Ancestors Wrath]] power will also work.
+#Trolls can deal a substantial amount of damage, but most of it can be avoided by tactically falling back when one sees the troll raising his arms or preparing a power attack. If you need to heal, you can sprint away; the troll will not generally outrun you. Similarly, using a shield to block the Troll's attacks can also be effective, but does depend highly on timing.
+#It is possible to scale the rocks just before the troll, allowing you to use ranged attacks to safely eliminate it. However, the troll may regenerate its health faster than you can damage it. Using a bow with a fire enchantment or ranged destruction spells such as [[Skyrim:Firebolt|Firebolt]] would give an advantage.
+#If you are careful, it can be killed by long distance arrows from the entrance to the ravine it lives in. Go into stealth mode, stand at the entrance to the ravine, all to the right, and shoot at the troll when you can just see it on top of the cliff. If done properly, the troll may shift left or right a little, but will not come after you; the x2 sneak attack bonus (x3 with the perk) should allow you to kill it quickly. However, if it falls off the cliff, this will not work anymore.
+#You can lure the troll up to High Hrothgar, and the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]] shout will briefly help you move faster. If the troll follows you into the monastery, the Greybeards will defeat it very quickly.
+#If you retreat down the stairs, [[Skyrim:Karita (warrior)|Karita]], who is meditating at the tablet, will help defeat the troll.
+
+====Avoiding the Fight====
+#It is easily possible to simply run past the Troll, as it moves rather slowly.
+#[[Skyrim:Nord|Nords]] can use their racial power [[Skyrim:Battle Cry|Battle Cry]] to make the troll flee for 30 seconds, giving you enough time to run to High Hrothgar. Similarly, a [[Skyrim:Wood Elf|Bosmer]] can use [[Skyrim:Command Animal|Command Animal]] to calm the troll. You can also use [[Skyrim:Animal Allegiance|Animal Allegiance]] to calm the troll.
+#You can use [[Skyrim:Unrelenting Force|Unrelenting Force]] at the troll, then sprint away before the stun effect wears off.
+#You can scale the rocks to the left of the ravine, and you'll never be detected at all.
+
+===The Greybeards===
+[[File:SR-quest-The Way of the Voice2.jpg|right|thumb|High Hrothgar]]
+After finally arriving at High Hrothgar, you'll be greeted by [[Skyrim:Arngeir|Master Arngeir]], who speaks to you on behalf of the other [[Skyrim:Greybeards|Greybeards]] (whose voices are too powerful for conversation). After proving you are the Dragonborn by using the [[SR:Unrelenting Force|Unrelenting Force]] shout, they welcome you to their monastery and instruct you on how to use the dragon shouts, or Thu'um.
+
+To further your training in the ways of the Thu'um, you will be taught the second word to the [[Skyrim: Unrelenting Force|Unrelenting Force]] shout, ''Ro'', and asked to practice it three times on [[Skyrim:Phantom Form|ethereal targets]] that the Greybeards summon. Arngeir comments on how quickly you learn, then takes you outside for the next lesson. They teach you another word for [[Skyrim: Whirlwind Sprint|Whirlwind Sprint]]. You'll be asked to practice it by using the shout to get through the gate [[Skyrim:Borri|Master Borri]] opens before it closes. When you're finished, Arngeir will send you on the last test: retrieving [[Skyrim:the Horn of Jurgen Windcaller|the Horn of Jurgen Windcaller]]. Upon completion of this quest, you will gain access to the [[Skyrim:Dragonborn (quest)|main quest]] of the [[Skyrim:Dragonborn|Dragonborn]] expansion.
+
+===Achievements===
+One [[Skyrim:Achievements|achievement]] is unlocked when you complete this quest:
+* {{achievement|The Way of the Voice (achievement)|descr=no}}
+
+== Notes ==
+*During the quest, [[SR:Ulfric Stormcloak|Ulfric Stormcloak]] and [[SR:Galmar Stone-Fist|Galmar Stone-Fist]] have additional dialogs talking about Greybeards.
+*If you activate and read all ten plaques along the 7,000 Steps, you'll receive the blessing [[Skyrim:Voice of the Sky|Voice of the Sky]] that causes wildlife to neither flee nor attack you for 24 hours.
+*There appear to be only around 700 steps, but many may have been worn down or covered in snow over time.
+*If you consider steps as paces rather than stairs, there are around 2000 steps (when using the walking animation).
+*[[General:Todd Howard|Todd Howard]] jokingly mentioned in an interview that he would count all the steps leading up to High Hrothgar to make sure it's 7,000.
+*With a [[Skyrim:Horse|horse]] and a little cunning, you can skip both the long trip to Ivarstead and climbing the 7,000 Steps altogether. Starting at the [[Skyrim:Whiterun_Stormcloak_Camp|Whiterun Stormcloak Camp]], you can ride almost straight up the mountain, bypassing the dangerous creatures and the tedious long climb with only moderate difficulty.
+*If you bypass Ivarstead and the two pilgrims on the way up in this way, Karita will never be encountered, since she is set to disappear from the game once the player reaches High Hrothgar. Barknar will still be there at his position, on the way down, and so will Klimmek in Ivarstead, with his quest to deliver the goods. Unfortunately, the Frost Troll will also be there - although of course, fast-travelling directly from High Hrothgar avoids it (and all the above).
+*The shout the Greybeards use to create the attack targets for learning Ro is [[Skyrim:Phantom_Form|Fiik Lo Sah]], Mirror Deceive Phantom. It is not attainable by the player except through console codes.
+*When you are asked to run through the gate before it closes using your new Whirlwind Sprint shout, you can make it through the gate in time using a regular sprint.
+*Arngeir's dialogue about Whirlwind Sprint is slightly different if you already know a word of the shout. If you have learned part of the shout through word walls, you will receive the second or third part of the shout instead.
+
+== Bugs ==
+{{Bug|If you enter High Hrothgar from the back door (where you perform the shout "whirlwind sprint"), the Greybeards may not congregate in the hall and the quest will not progress (stuck on "speak to Arngeir"). Exit from the front door and re-enter before speaking to [[Skyrim:Arngeir|Master Arngeir]] to progress.|USKP|1.2.4}}
+{{Bug|Borri doesn't speak the "Kest" word for Whirlwind Sprint when teaching you it due to the dialogue checking the wrong condition value.|USSEP|4.3.8}}
+{{Bug|The Greybeards may attack you after you use an Unrelenting Force on them.|confirmed=1}}
+{{Bug|If you leave High Hrothgar after being presented the word ''Ro'', but before learning (absorbing) the word on the floor, you may not be able to learn the word when you return. This can also happen in very rare cases even if you do not leave (more likely to happen later in the game if you have put off doing the main quest). This can break the main quest. There is no workaround for this other than reloading a previous save from before the word is presented to you.|confirmed=1}}
+{{Bug|If you interrupt Einarth while he's casting ''Ro'' on the floor by talking to him or shouting at him, it may not appear.}}
+** Save and re-load the game, and he should resume the casting.
+{{Bug|When asked to demonstrate the Voice, the spectres may not appear.|confirmed=1}}
+** Open your inventory and close it again and the spectre should appear.
+{{Bug|When asked to demonstrate the Voice, spectre appear endlessly without progessing to the next quest stage. Use console command ''setstage 90''.|confirmed=1}}
+{{Bug|In demonstrating Whirlwind Sprint, [[Skyrim:Wulfgar|Master Wulfgar]] may inadvertently send himself flying off the mountain.}}
+{{Bug|If you interrupt Borri in the courtyard, just before, or as you are told to approach him so that he can impart his understanding of the Whirlwind Sprint shout. The quest can bug, and no matter how long you wait, or prompt him - He will just make the motion/animation movement, but he will not impart the 'understanding.' Leaving you stuck (This bug has only been reported happening when you have Serana with you. Which might be relevant as it seems to prompt her audio response as if you talked to her).}}
+** The easiest way to resolve this is simply to load the autosave from when you entered the courtyard.
+{{Bug|It is possible to complete this quest, including successfully completing Demonstrate your "Whirlwind Sprint" Shout, while leaving Arngeir and Borri stuck in the courtyard as if you still need to demonstrate your Whirlwind Sprint Shout even though The Horn of Jurgen Windcaller has started.  If you succeed in the objective to demonstrate the Whirlwind Sprint Shout but Borri uses the Shout that opens the gate again, this bug may have activated.  Closing the gate may prompt Arngeir to ask you to try again.  Once you have successfully passed through the open gate, that should clear up the script and get Arngeir and Borri back on track.  If the gate is closed but this bug is active, try opening and closing the gate.|vn=1}}
+
+==Quest Stages==
+{{Journal Entries
+|8||{{Quest Objective|10|Speak to the Greybeards}}
+|10||The Greybeards have summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. They seem to have learned of the mysterious power that I gained when I killed the dragon outside Whiterun.
+{{Quest Objective|10|Speak to the Greybeards}}
+|30||The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. I spoke to Arngeir, one of the Greybeards, who believes that I am "Dragonborn", which means I am especially gifted in the use of the Voice. They have offered to help me learn to use my new abilities.
+{{Quest Objective|20|Demonstrate your "Unrelenting Force" Shout}}
+|50||{{Quest Objective|25|Speak to Arngeir}}
+|58||{{Quest Objective|30|Learn the Word of Power from Einarth}}
+|80||{{Quest Objective|40|Demonstrate your "Unrelenting Force" Shout (<Global&#61;MQ105TargetsHit>/3)}}
+|100||{{Quest Objective|50|Learn the Word of Power from Borri}}
+|120||{{Quest Objective|60|Demonstrate your "Whirlwind Sprint" Shout}}
+|140||{{Quest Objective|70|Speak to Arngeir for further training}}
+|160|fin|The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. Their leader, Arngeir, recognized me as "Dragonborn", and taught me more about my new Voice powers. After passing several tests, they sent me on one final trial, retrieving the legendary Horn of Jurgen Windcaller.
+|missing=0, 1, 5, 12, 15, 20, 25, 55, 56, 59, 60, 70, 75, 76, 82, 85, 90, 103, 105, 110, 115, 125, 127, 130, 150, 180, 190, 200, 220, 240, 242, 245, 250, 255, 260, 265, 270, 280, 282, 284, 288, 290, 300
+}}
+{{Skyrim Quest Stages Notes}}
+{{Quest Footer|Prev=[[Skyrim:Dragon Rising|Dragon Rising]]|Next=[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

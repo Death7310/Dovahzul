@@ -1,0 +1,29 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=Merethic Era
+|resurrection=4E 201
+|resurrectionLoc=Rorikstead
+|death3=4E 201
+|loc=Skyrim
+|appears=[[SR:Nahagliiv|Skyrim]], {{Card|Nahagliiv|Legends}}
+|image=SR-creature-Nahagliiv.jpg
+}}</noinclude>
+[[Lore:Nahagliiv|Nahagliiv]] was a [[Lore:Dragon|dragon]] whose name means "Fury Burn Wither" in the [[Lore:Dragon Language|Dragon Language]].
+
+Nahagliiv was among the dragons to die during the [[Lore:Dragon War|Dragon War]] era, with his remains being gathered by the [[Lore:Dragon Cult|Dragon Cult]] and buried in a dragon mound west of [[Lore:Rorikstead|Rorikstead]]. By {{Year|2E 373}}, local tales still named him as the dragon buried near the town, and the [[Lore:Blades|Blades]] recorded him in their atlas of dragons as being deceased by report.{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}}
+
+Upon his return, Alduin began the process of resurrecting the many dead dragons buried throughout [[Lore:Skyrim|Skyrim]] in ancient times by the Dragon Cult. Nahagliiv made a reappearance approximately before the reformed Blades unsealed [[Lore:Sky Haven Temple|Sky Haven Temple]],{{ref|name=Rat|[[SR:A Cornered Rat|A Cornered Rat]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} and attempted to terrorize the town of Rorikstead. The [[Lore:Hero|Last Dragonborn]] slew Nahagliiv and absorbed his soul. Having had his soul devoured by another dovah, Nahagliiv was killed permanently and cannot be raised again.{{ref|name=Skyrim|Events of ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+
+==Gallery==
+<gallery>
+File:SR-creature-Nahagliiv 02.jpg|Nahagliiv at his burial mound
+File:LG-cardart-Nahagliiv 02.jpg|Nahagliiv (Legends)
+</gallery>
+
+==See Also==
+* For game-specific information, see the [[Skyrim:Nahagliiv|Skyrim]]  and {{Card|Nahagliiv|Legends}} articles.
+
+==References==
+<references/></noinclude>

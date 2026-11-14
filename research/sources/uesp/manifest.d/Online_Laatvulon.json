@@ -1,0 +1,39 @@
+{
+  "title": "Online:Laatvulon",
+  "revid": 3606496,
+  "timestamp": "2026-08-07T05:05:48Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3606496&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "026c007cd111ca14bca96c06d71341e4b7f655918112da654726bb330b16100b",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 301382,
+  "ns": 144,
+  "parentid": 3387842,
+  "requested_title": "Online:Laatvulon",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Online:Laatvulon",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3606496",
+  "sha1": "9d54fbfd9ec4321b61ca2afb220143e519880fe6",
+  "sha1_matches_mediawiki": true,
+  "bytes": 11771,
+  "chars": 11767,
+  "lines": 204,
+  "saved_as": "research/sources/uesp/Online_Laatvulon.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Other+Minerals|Online:Dragon|Online:The+Dragon|Online:Nahfahlaar|Online:Laatvulon|Online:Kaalgrontiid|Online:Nahviintaas|Online:Bahlokdaan|Online:Mulaamnir|Online:Joorahmaar|Online:Lokkestiiz|Online:Yolnahkriin",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:43Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

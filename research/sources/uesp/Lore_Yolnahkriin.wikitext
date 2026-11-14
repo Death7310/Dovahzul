@@ -1,0 +1,50 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=2E 582
+|deathLoc=Sunspire
+|loc=Anequina
+|appears=[[Online:Yolnahkriin|ESO]]
+|image=ON-creature-Yolnahkriin.jpg
+|imgdesc=circa {{Year|2E 582}}}}</noinclude>
+<noinclude>{{Quote Box|style=float:none; max-width:none|''"Your ashes will be scattered to the farthest corners of the world."''|Yolnahkriin}}
+</noinclude>
+[[Lore:Yolnahkriin|Yolnahkriin]] was a powerful red [[Lore:Dragon|Dragon]] who emerged in [[Lore:Anequina|Anequina]] in {{Year|2E 582}}, following the release of the great dragon [[Lore:Kaalgrontiid|Kaalgrontiid]] and his dragon followers from the [[Lore:Halls of Colossus|Halls of Colossus]].{{ref|name=ESOTHOC|Events of [[ON:The Halls of Colossus|The Halls of Colossus]] in [[ON:Online|ESO]]}}. He and the dragon {{Lore Link|Lokkestiiz}} followed the golden dragon [[Lore:Nahviintaas|Nahviintaas]], to pose as the returned [[Lore:Gods|gods]] of the [[Lore:Khajiit|Khajiit]], [[Lore:Alkosh|Alkosh]] and the [[Lore:Moons|moons]] [[Lore:Secunda|Jone]] and [[Lore:Masser|Jode]], and take over the temple of [[Lore:Sunspire|Sunspire]], where they enacted a plan to attempt to expand its [[Lore:Time Wound|Time Wound]] with the [[Lore:Thu'um|Thu'um]] in the hopes of causing a [[Lore:Dragon Break|Dragon Break]] to rewrite time and restore draconic rule. Yolnahkriin posed as the incarnation of Jode.{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{ref|[[ON:Sunspire Dragonbreak|Sunspire Dragonbreak]] achievement in [[ESO:Online|ESO]]}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}<noinclude>
+{{NewLeft}}
+
+==History==
+[[File:ON-render-Ja'zennji Siir Style.jpg|Yolnahkriin confronting adventurers in the caldera|thumb|left]][[File:ON-creature-Yolnahkriin (Infinite Archive).jpg|The Maligraphy of Yolnahkriin within the Infinite Archive|thumb|right]]
+Little is known of his earlier history. It is possible he originates from [[Lore:Akavir|Akavir]], as it has been said to be the homeland of red Dragons.{{ref|{{Cite Book|Mysterious Akavir}}}}{{ref|name=PGE1Cyro|{{Cite Book|Pocket Guide to the Empire, 1st Edition/Cyrodiil}}}}
+
+In 2E 582, ancient Dragons had appeared in Northern [[Lore:Elsweyr|Elsweyr]], reaping the land, following the release of the great dragon Kaalgrontiid and his dragon followers from the Halls of Colossus.{{ref|name=ESOTHOC|Events of [[ON:The Halls of Colossus|The Halls of Colossus]] in [[ON:Online|ESO]]}} The golden dragon, Nahviintaas approached Sunspire with his contemporaries, Lokkestiiz and Yolnahkriin. They posed as Alkosh, Jone, and Jode respectively. Azin-jo, the Moon-Bishop in charge of Sunspire, openly accepted them and preached across Anequina about the return of "Alkosh." A wave of new followers came and rebuilt Sunspire as more adepts preached the return of "Alkosh" across Northern Elsweyr.{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} 
+
+However, the dragon's true goal was to use the [[Lore:Thu'um|Thu'um]] to tear the Time Wound wider in order to cause a [[Lore:Dragon Break|Dragon Break]] which they intended to use to "reclaim all that is and will be" and restore the "natural order" by "correcting the mortal mistake".{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{ref|[[ON:Sunspire Dragonbreak|Sunspire Dragonbreak]] achievement in [[ESO:Online|ESO]]}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} While posing as gods the dragons would use their Voice to imbue their deceived followers with [[Lore:Elements|elemental]] power, transforming them into creatures composed simultaneously of ice and flame while also making them thralls of the dragon's will.{{Ref|name=ESOMojha|[[Online:Mojha|Mojha]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOJoneJode|[[Online:The Blessings of Jone and Jode|The Blessings of Jone and Jode]] text in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOIceFire|[[Online:Sunspire Ice-Fire|Sunspire Ice-Fire]] description in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The dragon's presence would also have an effect on the environment and conditions of the mountain, the dragon Yolnahkriin resided in the caldera, where his presence is said to have "stoked the sleeping mountain's fire", while the dragon Lokkestiiz resided in a windy frost covered overlook.{{Ref|name=ESOMojha|[[Online:Mojha|Mojha]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}                   
+
+This news brought the attention of the [[Lore:Undaunted|Undaunted]], who were sent to investigate. Yolnahkriin confronted the adventurers in the caldera, where he'd exhibit mastery of the elements of fire and magma, showering the whole area in stone melting flame and summoning many [[Lore:Iron Atronach|Iron Atronachs]] and [[Lore:Flame Atronach|Flame Atronachs]] to aid him.{{Ref|name=ESOYolnahkriin|[[Online:Yolnahkriin|Yolnahkriin]]'s abilities in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The Undaunted ultimately defeated the fake Jone and Jode before they confronted Nahviintaas at the summit and the time-wound. Though he would utilize the power of the Time Wound to manipulate time, claiming his faithful had no need to fear death as he could restore them and they'd serve him eternally, and that he could make his foes relive their deaths over and over, the fake Alkosh was ultimately killed as well, and Sunspire was fully liberated from draconic control.{{Ref|name=ESONahviintaas|[[Online:Nahviintaas|Nahviintaas]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} With the years he had left, Moon-Bishop Azin-jo vowed to restore this temple and because of his folly, he felt that it was his task alone to bear.{{Ref|name=ESOAzin}} But regardless, some priests stayed in Sunspire.{{Ref|name=ESONahviintaas|[[Online:Nahviintaas|Nahviintaas]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} 
+
+As his soul was not devoured by another dovah, Yolnahkriin was not killed permanently and can be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+The significance of Yolnahkriin allowed him to be documented within the [[Lore:Infinite Archive|Infinite Archive]] in [[Lore:Apocrypha|Apocrypha]]. There, copies of various entities were subsequently created as [[Lore:Maligraphy|maligraphies]], creatures composed of vivified ink manifested by stories from books, and served as mindless extensions of the [[Lore:Daedric Lord|Daedric Lord]] [[Lore:Tho'at Replicanum|Tho'at Replicanum]]. A maligraphy copy of Yolnahkriin was formed, which was destroyed by an adventurer or two who were aided by augmentations directly from [[Lore:Hermaeus Mora|Hermaeus Mora]].{{ref|name=LAIA|{{Cite Book|Loremaster's Archive - Infinite Archive}}}}{{ref|name=MM|[[ON:Master Malkhest|Master Malkhest]]'s dialogue in [[ESO:Online|ESO]]: ''[[Online:Necrom (Chapter)|Necrom]]''}}{{Ref|name=Enemies|[[Online:Laatvulon (Infinite Archive)|Laatvulon]] boss in [[ON:Infinite Archive|Infinite Archive]] in [[Online:Online|ESO]]}}
+{{NewLine}}
+
+==Gallery==
+<gallery>
+File:ON-render-Sunspire.jpg|Yolnahkriin breathing fire on an adventurer
+File:ON-creature-Yolnahkriin 02.jpg|Yolnahkriin prior to combat
+File:ON-creature-Yolnahkriin 03.jpg|thumb|right|Yolnahkriin with Hard Mode activated
+File:ON-creature-Yolnahkriin 04.jpg|Yolnahkriin prepares to rain fire down upon the battlefield
+File:ON-concept-Yolnahkriin Mesh.jpg|Meshes for Yolnahkriin
+File:ON-concept-Yolnahkriin Render.jpg|Render of Yolnahkriin
+File:Masser full.jpg|Jode
+</gallery>
+{{NewLine}}
+==Notes==
+*Yolnahkriin's name means '''Fire-Vengeance''' (Yol-Nahkriin) or '''Fire-Fury-Slaughter''' (Yol-Nah-Kriin) in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}
+{{NewLine}}
+
+==See Also==
+*{{GSI|Online:Yolnahkriin}}
+
+==References==
+<references/></noinclude>

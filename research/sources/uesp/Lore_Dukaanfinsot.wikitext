@@ -1,0 +1,15 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Skyrim
+|image=ON-item-Dukaanfinsot's Skull.jpg
+|imgdesc='s Skull
+}}[[File:ON-place-Fallowstone Hall.jpg|thumb|left|Fallowstone Hall]]</noinclude>
+[[Lore:Dukaanfinsot|Dukaanfinsot]] was a [[Lore:Dragon|dragon]] whose name meant "Dishonor-The-White" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=DL|{{Cite Book|Dragon Language: Myth no More}}}}{{ref|name=SOS|{{Cite Book|Songs of Skyrim|ns_base=Skyrim}}}}{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}
+
+His enormous skull was a trophy from the time of the [[Lore:Dragon War|Dragon War]]. As of {{Year|2E 582}} his skull was displayed in [[Lore:Fallowstone Hall|Fallowstone Hall]] alongside other items of importance for either the Five Hundred [[Lore:Companions|Companions]] or the Fallowstone Companions.{{ref|name=FH|[[ON:Fallowstone Hall|Fallowstone Hall]]'s appearance and plaques in [[ON:Online|ESO]]}}
+
+It is unknown whether Dukaanfinsot's soul was devoured by another dovah or not, and as such it is unknown whether or not Dukaanfinsot was killed permanently.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLeft}} 
+==References==
+<references/>

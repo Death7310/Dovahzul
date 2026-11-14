@@ -1,0 +1,13 @@
+<includeonly><cleanspace>
+{{#define:dragontext|{{#replace:{{#replace:{{#replace:{{#replace:{{#replace:{{#replace:{{#replace:{{#replace:{{#replace:{{{1|}}}|aa|1}}|ei|2}}|ii|3}}|ah|4}}|uu|5}}|ur|6}}|ir|7}}|oo|8}}|ey|9}}}}
+{{#define:size|{{#switch:{{{2|6}}}
+|0=xx-small
+|1=x-small
+|2=small
+|3|=medium
+|4=large
+|5=x-large
+|6=xx-large
+|{{{2}}}px}}}}
+{{#define:titletext|{{#replace:{{{3|{{{1|}}}}}}|<br>|&nbsp;}}}}
+</cleanspace><span style="line-height:1.0; font-family:DragonscriptRegular; font-size:{{{size}}}" title="{{{titletext}}}">{{{dragontext}}}</span></includeonly><noinclude>{{/Doc}}</noinclude>

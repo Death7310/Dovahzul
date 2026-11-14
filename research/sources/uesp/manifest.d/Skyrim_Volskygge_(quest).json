@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Volskygge (quest)",
+  "revid": 3529831,
+  "timestamp": "2026-03-26T18:59:58Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3529831&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "df92cec34b75bb1ea01385a6343d0d24916afe3a30d541e3a88b17f9ad72ad56",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 140437,
+  "ns": 134,
+  "parentid": 3258549,
+  "requested_title": "Skyrim:Volskygge (quest)",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Volskygge_(quest)",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3529831",
+  "sha1": "49f6677ed2417ed4cf6e6af6d4c2aa1a97f266ce",
+  "sha1_matches_mediawiki": true,
+  "bytes": 12366,
+  "chars": 12366,
+  "lines": 109,
+  "saved_as": "research/sources/uesp/Skyrim_Volskygge_(quest).wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Season+Unending|Skyrim:The+Fallen|Skyrim:The+World-Eater%27s+Eyrie|Skyrim:Sovngarde+%28quest%29|Skyrim:Dragonslayer|Skyrim:Paarthurnax+%28quest%29|Skyrim:Beyond+Death|Skyrim:Durnehviir+%28quest%29|Skyrim:The+Temple+of+Miraak|Skyrim:At+the+Summit+of+Apocrypha|Skyrim:The+Staff+of+Magnus|Skyrim:Volskygge+%28quest%29",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:30Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

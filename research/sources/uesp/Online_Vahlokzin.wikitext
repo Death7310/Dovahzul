@@ -1,0 +1,62 @@
+{{Online NPC Summary
+|image=ON-creature-Vahlokzin.jpg
+|imgdesc=Vahlokzin with Sai Sahan attacking
+|loc=[[ON:Vahlokzin's Lair|Vahlokzin's Lair]]
+|race=Dragon
+|creature=1
+|health=17,439,212
+|difficulty=3
+|reaction=Hostile
+|faction=
+|drops=[[ON:Dragon's Blood|Dragon's Blood]] or [[ON:Dragon's Bile|Dragon's Bile]]<br>Radiant Northern Elsweyr overland set item<br />Dragon's Pellet<br />Grand Repair Kit<br />[[ON:Tomato Garlic Chutney|Tomato Garlic Chutney]]
+}}
+'''Vahlokzin''' is a grey [[ON:Dragon|dragon]] who has made his lair in [[ON:Vahlokzin's Lair|a dormant volcano]] near the coast of [[ON:Southern Elsweyr|Southern Elsweyr]]. He stole the [[Lore:Horn of Ja'darri|Horn of Ja'darri]], willingly given by his brother, from the [[ON:Dragonguard|Dragonguard]]. He is able to use his roars to stir [[ON:Kwama|kwama]] into a violent frenzy which overwhelmed and killed the [[ON:Dragonguard Remains|Dragonguard soldiers]] sent to retrieve the horn and still act as his defenders.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Horn of Ja'darri}}
+
+==Skills and Abilities==
+At the start of battle, Vahlokzin remains perched and cannot be targeted and will instead summon kwama swarms to fight you. Once they are defeated, Sai Sahan sounds the Horn of Ja'darri, depleting half of Vahlokzin's health and causing him to tumble down into the arena, where he will be forced to attack you personally.
+
+;Bite: A basic melee attack.
+;Bursting Fireball: A basic ranged attack
+;Wing Thrash: Standing near his wings causes Vahlokzin to swat at you with them, inflicting damage and knocking you away, and also releasing several swirling flames, indicated by moving AoEs.
+;Unrelenting Force: Vahlokzin shouts in an area in front of him, indicated by a conical [[ON:AoE|AoE]], dealing damage and knocking you away. This can be blocked.
+;Fire Breath: Vahlokzin performs a fire shout, dealing heavy flame damage. This attack has no AoE indicator.
+;Burning: Burning effect from his fire attacks.
+;Retreat: After a time of being grounded, Vahlokzin takes flight once more and returns to his perch and roars, summoning another wave of kwama. However, this time he will assist them by pelting the arena with fireballs, indicated by circular AoEs. Sai Sahan will then use Horn again, taking another heavy chunk of health off, leaving Vahlokzin at 5% health.
+
+==Quest-Related Events==
+When moving through the lair, Vahlokzin will taunt you and Sai as you progress and find [[ON:Dragonguard Remains|Dragonguard Remains]]:
+:'''Vahlokzin:''' ''"Visitors? I have not entertained guests in untold centuries."''
+:'''[[ON:Sai Sahan|Sai Sahan]]:''' ''"You hide in the shadows, beast. Come fight us in the light!"''
+:'''Vahlokzin:''' ''"You sound just like the Dragonguard who last graced these halls."''
+
+:'''Sai Sahan:''' ''"The Dragonguard who sought the Horn of Ja'darri in ages past. May your light burn eternal, old warrior."''
+:'''Vahlokzin:''' ''"You seek the horn of my cowardly brother? Pathetic. Like the Dragonguard before you, death will be your only reward!"''
+:'''Sai Sahan:''' ''"The Horn of Ja'darri? Is that the horn of Vahlokzin's brother?"''
+
+:'''Vahlokzin:''' ''"These pitiful Dragonguard found only death in Vahlokzin's lair!"''
+:'''Sai Sahan:''' ''"Stay alert. I fear the beast lays a trap for us."''
+
+Once you reach the end of the kwama-infested ruins, Vahlokzin will fly through a hole in the cavern roof and roar, causing the kwama to frenzy and attack you.
+[[File:ON-creature-Vahlokzin 02.jpg|right|thumb|Perched on a temple wall]]
+After you retrieve the Horn from the summit, Vahlokin will arrive to stop you.
+:'''Sai Sahan:''' ''"We have reclaimed the Horn of Ja'darri!"''
+:'''Vahlokzin:''' ''"A Dragon's horn, willingly given. Pity I don't share my brother's sentiment."''
+:'''Sai Sahan:''' ''"The beast attacks! To arms!"''
+
+During combat:
+:'''Vahlokzin:''' ''"Stir, wretched kwama! Kill those who dare defy me!"''
+:'''Vahlokzin:''' ''"No, the horn is mine!"''
+
+{{NewLine}}
+==Notes==
+* Vahlokzin can either be translated from [[Lore:Dragon Language|Dragon Language]] as ''Spring-Rise/Sky-Honor (vah-lok-zin)'', or ''Guardian-Honor (vahlok-zin)''. Later during [[Online:The Dragon's Lair|The Dragon's Lair]], [[Online:Nahfahlaar|Nahfahlaar]] stresses his name as Vah-lok-zin, hinting that it's the former meaning.
+* He shares the same gray model as generic flame dragons in [[ON:Northern Elsweyr|Northern Elsweyr]].
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

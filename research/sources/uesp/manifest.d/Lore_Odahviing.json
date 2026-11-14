@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Odahviing",
+  "revid": 3395160,
+  "timestamp": "2025-07-21T16:21:23Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3395160&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "1cf5ec3d413b7afbfdc851f641b74d673f18ba2f3f50fe372dbfde6fdd55631d",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 139848,
+  "ns": 130,
+  "parentid": 3395159,
+  "requested_title": "Lore:Odahviing",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Odahviing",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3395160",
+  "sha1": "48c5f7f396e84ab7c4f55df9d391e10d99eb1e6f",
+  "sha1_matches_mediawiki": true,
+  "bytes": 3566,
+  "chars": 3566,
+  "lines": 32,
+  "saved_as": "research/sources/uesp/Lore_Odahviing.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Easter+Eggs|Skyrim:Unobtainable+Items|Skyrim:Anniversary+Edition|Lore:Dragon|Lore:Alduin|Lore:Paarthurnax|Lore:Odahviing|Lore:Durnehviir|Lore:Mirmulnir|Lore:Sahloknir|Lore:Nahagliiv|Lore:Viinturuth",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:31Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

@@ -1,0 +1,32 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Light]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Morokei.jpg
+|weight=4
+|rating=5
+|value=637
+|warmth=18
+|type=[[Skyrim:Light Armor|Light]] [[Skyrim:Helmet|Helmet]]
+|enchant=''Magicka regenerates 100% faster:''
+*[[Skyrim:Regenerate Magicka|Regenerate Magicka]], 100 points
+|artifacttype=Unique Item
+|objectid=00061c8b
+|editorid=ArmorDragonPriestMaskMoonstoneHelmet
+|tempering=[[Skyrim:Refined Moonstone|Refined Moonstone]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Morokei (item)|Morokei]] is a moonstone [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] gained by killing [[Skyrim:Morokei (creature)|Morokei]] within [[Skyrim:Labyrinthian|Labyrinthian]]. The mask's enchantment doubles [[Skyrim:Regenerate Magicka|magicka regeneration]]. It can be [[Skyrim:Workbench|improved]] with [[Skyrim:Refined Moonstone|refined moonstone]].<includeonly>
+
+For more information, see the [[Skyrim:Morokei (item)|Morokei]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Notes==
+* Placing Morokei on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses that it gained from tempering.
+* Morokei has the second lowest armor rating of the masks, only slightly higher than that of the [[Skyrim:Wooden Mask|Wooden Mask]].
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning that they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* Morokei means "Glorious" in the [[Lore:Dragon Language|dragon language]].
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}}, and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a [[Skyrim:Special Holder|special holder]] for this item.
+
+==Bugs==
+{{Bug|Morokei has an incorrect enchantment assigned: instead of its unique enchantment that doubles [[Skyrim:Regenerate Magicka|magicka regeneration]] and [[Skyrim:Fortify Shouts|fortifies shouts by 20%]], its in-game enchantment is the same as all [[Skyrim:Generic Magic Apparel#of Recovery|<Apparel> of Recovery]].|USKP|1.1}}
+
+{{Skyrim Dragon Priests}}</noinclude>

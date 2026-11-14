@@ -1,0 +1,39 @@
+{
+  "title": "Online:Nahfahlaar",
+  "revid": 3506351,
+  "timestamp": "2026-02-19T19:59:54Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3506351&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "d114b57ec65758581b668c0f59f4b1134a7a8f09d93372e43b4e1636f70add57",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 297683,
+  "ns": 144,
+  "parentid": 3500775,
+  "requested_title": "Online:Nahfahlaar",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Online:Nahfahlaar",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3506351",
+  "sha1": "280c0048b3e03bd06d65d6a3da337dbf0c8c1d6f",
+  "sha1_matches_mediawiki": true,
+  "bytes": 33817,
+  "chars": 33799,
+  "lines": 385,
+  "saved_as": "research/sources/uesp/Online_Nahfahlaar.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Other+Minerals|Online:Dragon|Online:The+Dragon|Online:Nahfahlaar|Online:Laatvulon|Online:Kaalgrontiid|Online:Nahviintaas|Online:Bahlokdaan|Online:Mulaamnir|Online:Joorahmaar|Online:Lokkestiiz|Online:Yolnahkriin",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:43Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

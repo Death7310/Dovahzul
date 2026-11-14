@@ -1,0 +1,63 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Kaalgrontiid
+|image=ON-creature-Kaalgrontiid 03.jpg
+|imgdesc=empowered by aeonstone
+|birth=Dawn Era
+|birthLoc=
+|death=2E 582
+|deathLoc=Dragonhold
+|reignStart=
+|reignEnd=
+|prev=
+|next=
+|loc=Halls of Colossus
+|loc2=Elsweyr
+|appears=[[Online:Kaalgrontiid|ESO]], [[Legends:Kaalgrontiid|Legends]]
+}}{{TOCright}}</noinclude>
+[[Lore:Kaalgrontiid|Kaalgrontiid]], who is known as the "emerald sovereign of wrath and terror",{{ref|name=ONCRR|[[Online:Dragonhold (The Dark Aeon)|Dragonhold (The Dark Aeon)]] in [[Online:Online|ESO]]}} was a [[Lore:Dragon|Dragon]] whose name means "Champion of the Bound Time" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=ESOCadwell|[[Online:Cadwell|Cadwell]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} He sought after the lunar power of the [[Lore:Moons|moons]] to become the '''Dark Aeon''', a New Moon to become the new [[Lore:Dark Moon|third moon]],{{ref|name=ESOAbnur|[[Online:Abnur Tharn|Abnur Tharn]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} all in hopes to become the equal of [[Lore:Akatosh|Akatosh]], the Dragon God of Time.{{ref|name=ESOKaalgrontiid|[[Online:Kaalgrontiid|Kaalgrontiid]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}<noinclude>
+
+==History==
+===Late Merethic Era===
+Kaalgrontiid is believed by some to originate from Alduin's rage in [[Lore:Atmora|Atmora]] and [[Lore:Skyrim|Skyrim]], having been driven to split off from the bulk of his kin in the north in order to sate his own pride and ambition.  This behavior is considered normal for dragons, who are naturally driven to seek mastery.{{Ref|name=LADragons|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}
+
+When [[Lore:Elsweyr|Elsweyr]] was composed of sixteen kingdoms, he and his rage of [[Lore:Dragon|dragons]] came to dominate the land and above all, consume the Moon's lunar power. Kaalgrontiid in particular hoped that with the Moon's power, he would become Akatosh's equal.{{ref|name=ESOKaalgrontiid|[[Online:Kaalgrontiid|Kaalgrontiid]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} To stop them, The Khajiit hero [[Lore:Khunzar-ri|Khunzar-ri]] recruited four companions, {{Lore Link|Nurarion the Perfect}}, [[Lore:Flinthild Demon-Hunter|Flinthild Demon-Hunter]], [[Lore:Anequina Sharp-Tongue|Anequina Sharp-Tongue]], and [[Lore:Cadwell|Cadwell the Betrayer]].{{Ref|name=KatD|{{Cite Book|Khunzar-ri and the Demons}}}} When fighting them proved to be futile, Cadwell suggested that it may be best to convince the dragons that they were now a willing part of their plans. In preparation, Anequina [[Lore:Shadow Dance|attuned]] to {{Lore Link|Shadow Dance Temple}}, incited the moons to align to form an eclipse, allowing the {{Lore Link|Moon Gate of Anequina}} to open a portal the Plane of [[Lore:Jode|Jode]], where the object the dragons desired, [[Lore:Jode's Core|Jode's Core]], rested. The dragons' ambitions would be their undoing, as the dragons accessed the [[Lore:Plane of Jode|Plane of Jode]], but Khunzar-ri convinced them to not simply absorb the power of the core like they originally intended, but instead store their energy within it in the guise that they would combine the lunar power with their own.{{ref|name=ESOCadwell}}{{ref|name=ESOKhamira|[[Online:Khamira|Khamira]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The gamble worked, and the dragons were weakened enough for them to retreat back into the wilderness.{{Ref|name=KatD}} To finish the job, Khunzar-ri once again convinced the dragons to play a part of his scheme. He managed to lure them into the [[Lore:Halls of Colossus|Halls of Colossus]], where he managed to seal them away. The Dragons were obscured as "demons" in legends, and become the fabled "Demon Weapon". Their power was then coveted by many people.{{Ref|name=KatD}}
+
+===Second Era===
+[[File:ON-render-Halls of Colossus.jpg|Kaalgrontiid released from the Halls of Colossus|thumb|left]]
+After the retrieval of the fabled [[Lore:Wrathstone|Wrathstone]] in {{Year|2E 582}}, the Imperial battlemage [[Lore:Abnur Tharn|Abnur Tharn]] inadvertently unleashed the Dragons from their containment from the Halls of Colossus, thus allowing them to continue in their quest for the lunar power of [[Lore:Jode's Core|Jode's Core]].{{ref|name=ESOTHOC|Events of [[ON:The Halls of Colossus|The Halls of Colossus]] in [[ON:Online|ESO]]}} The Dragons allied themselves with the forces of [[Lore:Euraxia Tharn|Euraxia Tharn]], who was led to believe that the Dragons were complacent with being used as tools. The Dragons were quick to cross Euraxia when she was no longer of use to them, and was left without their aid against the forces of Elsweyr Defense Force, which was allied with the [[Lore:The Vestige|Vestige]].{{ref|name=ESOTQ|Events of [[ON:Two Queens|Two Queens]] in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} This turn of events resulted in her death and the return of [[Lore:Rimmen|Rimmen]] to Khajiiti control.{{ref|name=ESOTQ}} With Euraxia's forces lacking a leader, they allied themselves with the Dragons in fear of their wrath.{{ref|name=ESOTFO|Events of [[ON:The Final Order|The Final Order]] in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The Dragons were eventually able to force their way into the Plane of Jode where Kaalgrontiid began consuming the core's power.{{ref|name=ESOJC|Events of [[ON:Jode's Core (quest)|Jode's Core]] in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} With the help of the Vestige, the descendant of queen Anequina, [[Lore:Khamira|Khamira]], was able to banish Kaalgrontiid from the plane and into the void before he was able to fully absorb the lunar power.{{ref|name=ESOJC}}Having still managed to absorb incredible power, consisting primarily of the lifeforce of his fellow dragons sealed within the Core as well as a lesser amount of lunar energy, before his banishment, Kaalgrontiid managed to eventually make his way back to [[Lore:Nirn|Nirn]]{{ref|name=Nahf|[[ON:Nahfahlaar|Nahfahlaar]]'s dialogue during of [[ON:New Moon Rising|New Moon Rising]] in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}{{ref|name=ESOAbnur|[[Online:Abnur Tharn|Abnur Tharn]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}.
+
+While recuperating from his loss, Kaalgrontiid's lieutenant Laatvulon was tasked with creating a cult in his master's name. He exploited the Khajiit, who were distraught over events such as the devastation caused by the [[Lore:Planemeld|Planemeld]], further exacerbated by the Dragons ravaging Elsweyr.{{Ref|name=NCAR|{{Cite Book|New Cult or Ancient Religion?}}}} Seeing the god-like power of the dragons and feeling as though their own gods had been negligent, they looked to appease the dragons for protection instead of opposing them. As a result, the New Moon Cult was created, and Laatvulon chose the Khajiit Ra'khajin as his [[Lore:Dragon Priest|Dragon Priest]]. With the promise that the cult would ascend alongside their masters and that Ra'khajin would have the glory of becoming their spiritual leader as the [[Lore:Mane|Mane]], Kaalgrontiid gained a valuable asset in manpower for his operations.{{ref|name=ESOZayri|[[Online:Trial Master Zayri|Trial Master Zayri]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}
+
+Kaalgrontiid was eventually able to regain his composure and made his way into Pellitine, finding that his underling Laatvulon had failed him. Kaalgrontiid took command of the remnants of the New Moon Cult and ordered them to do his bidding.{{ref|name=ESOAbnur}} Kaalgrontiid planned to siphon the energy he obtained from Jode's Core through a giant cluster of [[Lore:Aeonstone|Aeonstone]], hoping that he would become empowered.{{ref|name=ESOAbnur}} These stones would then be used to empower Dragons and collected on the island of [[Lore:Dragonhold|Dragonhold]].{{ref|name=ESOAbnur}}{{ref|name=ESODA|Events of [[ON:The Dark Aeon|The Dark Aeon]] in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} Eventually, the island's massive collection of aeonstone was utilized by Kaalgrontiid in hopes of ascending to godhood and fulfilling the [[Lore:Prophecy of the New Moon|Prophecy of the New Moon]].{{ref|name=ESOAbnur}}{{ref|name=ESODA}} If Kaalgrontiid were to succeed, he would fulfill an ancient prophecy and become the Dark Aeon, becoming the third moon. The creation of this New Moon "presages a time of darkness and the birth of a new supreme being",{{ref|name=ESOAbnur}} and it would ultimately threaten to unravel the tapestry of time itself.{{ref|name=ESOJ|[[ON:Ja'darri|Ja'darri]]'s dialogue in [[ON:Dragonhold|ESO]]}}
+
+To prevent anyone from disrupting his plans, Kaalgrontiid utilized the energy of the Aeonstone to create an aegis, a massive and impenetrable ward, around the ancient fortress of Dragonhold.{{ref|name=ESOAbnur}}{{ref|name=ESODA}} and The Dark Aeon also began corrupting those near Dragonhold, turning them into crystalline beings.{{ref|name=ESODA}} Through the combined efforts of [[Lore:Nahfahlaar|Nahfahlaar]], the reformed [[Lore:Dragonguard|Dragonguard]], and Queen [[Lore:Khamira|Khamira]]'s forces, Kaalgrontiid was slain, and his rage of dragons were defeated. {{ref|name=ESONMR|Events of [[ON:New Moon Rising|New Moon Rising]] in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:ON-creature-Kaalgrontiid.jpg|Kaalgrontiid
+File:ON-creature-Kaalgrontiid 02.jpg|Kaalgrontiid empowered by Jode's Core
+File:LG-cardart-Kaalgrontiid.jpg|Kaalgrontiid (Legends)
+File:ON-render-Dragon 03.jpg|Kaalgrontiid in promotional art
+File:ON-trailer-Elsweyr Global Reveal Trailer 6.jpg|Kaalgrontiid as he appeared in the Elsweyr Global Release Trailer
+File:ON-trailer-Elsweyr Global Reveal Trailer 5.jpg|Kaalgrontiid as he appeared in the Elsweyr Global Release Trailer
+File:ON-trailer-Dragonhold Trailer 01.jpg|Kaalgrontiid as he appeared in the Dragonhold Trailer
+File:ON-concept-Scalebreaker 02.jpg|Kaalgrontiid attacking a city
+File:ON-item-Dark Aeon.png|Tapestry depicting the Prophecy of the Dark Aeon
+File:ON-item-Dark Aeon 02.png|Tapestry depicting the fulfilment of the Prophecy
+File:ON-misc-Anniversary Art.jpg|Artwork featuring Kaalgrontiid (bottom right) 
+File:ON-wallpaper-10 Years of Adventure-3840 x 2160.jpg|Artwork featuring Kaalgrontiid (top left)
+File:MER-statue-Kaalgrontiid Dragon Statue.jpg|Statue of Kaalgrontiid
+</gallery>
+
+==Notes==
+*Some scholars have speculated that a dragon's soul, once severed from its body, may become spread thinly across the world, effectively dissolving over time, or return to its point of origin to join [[Lore:Akatosh|Akatosh]]. As Kaalgrontiid's body was destroyed upon death before any other dragon absorbed his soul, this may help explain his ultimate fate.{{Ref|name=LADragons|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}
+
+==See Also==
+*{{GSI|Online:Kaalgrontiid|Legends:Kaalgrontiid}}
+
+==References==
+<references/>{{Lore Antagonists}}{{Lore Khajiit Religion}}
+</noinclude>

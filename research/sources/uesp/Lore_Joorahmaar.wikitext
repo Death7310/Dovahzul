@@ -1,0 +1,23 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Joorahmaar
+|image=ON-creature-Joorahmaar 02.jpg
+|birth=Dawn Era
+|death=2E 582
+|deathLoc=Dragonhold
+|loc=[[Lore:Pellitine|Pellitine]], [[Lore:Elsweyr|Elsweyr]]
+|appears=[[Online:Joorahmaar|ESO]]
+}}[[File:ON-quest-Order of the New Moon 02.jpg|thumb|left|Joorahmaar together with Paarbahlot and Laatvulon]]</noinclude>
+[[Lore:Joorahmaar|Joorahmaar]] is a [[Lore:Dragon|dragon]] whose name means "Mortal Hunter Terror" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=SOS|{{Cite Book|Dragon Language: Myth no More}}}}{{ref|name=A|[[Skyrim:Alduin|Alduin]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+Little is known of Joorahmaar's past. In {{Year|2E 582}}, together with [[Lore:Paarbahlot|Paarbahlot]], he ventured to the New Moon Fortress in [[Lore:Pellitine|Pellitine]] to meet with [[Lore:Laatvulon|Laatvulon]].{{Ref|name=Paarbahlot|[[ON:Paarbahlot|Paarbahlot]] in [[ON:Online|ESO]]}}{{Ref|name=Joorahmaar|[[ON:Joorahmaar|Joorahmaar]]'s dialogue in [[ON:Online|ESO]]}} During the meeting, Laatvulon promised power to both Joorahmaar and Paarbahlot,{{Ref|name=OONM|Events of [[ON:Order of the New Moon|Order of the New Moon]] in [[ON:Online|ESO]]}}{{Ref|name=Laatvulon|[[ON:Laatvulon|Laatvulon]]'s dialogue in [[ON:Online|ESO]]}} and ordered the recruits of the [[Lore:Order of the New Moon|Order of the New Moon]] to offer them their power with the use of the [[Lore:Aeonstone|aeonstone]]. The ritual was interrupted by the members of [[Lore:Sai Sahan|Sai Sahan]]'s reformed [[Lore:Dragonguard|Dragonguard]]. Following the disruption of the ritual, Paarbahlot, together with Joorahmaar, left the fortress of the New Moon Cult.{{Ref|name=OONM}} 
+
+Although Paarbahlot's allegiances and status as of then were unknown, Joorahmaar was later seen assisting Laatvulon in the [[Lore:Dragonhold|Dragonhold]]. He was ordering the cultists of the New Moon to continue to feed the ritual sites for Laatvulon. [[Lore:Abnur Tharn|Abnur Tharn]] wounded the dragon and later a [[Lore:The Vestige|member]] of the Dragonguard killed him.{{Ref|name=TDA|Events of [[ON:The Dark Aeon|The Dark Aeon]] in [[ON:Online|ESO]]}}{{ref|name=AT|[[ON:Abnur Tharn|Abnur Tharn]]'s dialogue in [[ON:Online|ESO]]}} As his soul was not devoured by another dovah, Joorahmaar was not killed permanently and can be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+The data about the dragon Joorahmaar, documented within [[Lore:Hermaeus Mora|Hermaeus Mora]]'s [[Lore:Infinite Archive|Infinite Archive]] was shrouded in ambiguity. Various accounts describe conflicting details about the dragon's abilities, with some stating that Joorahmaar breathed fire, while others claim that he emitted clouds of poisonous smoke.{{Ref|name=MJ|{{Cite Book|Malkhest's Journal}}}}<noinclude>{{NewLeft}}
+==See Also==
+{{GSI|ESO:Joorahmaar}}
+
+==References==
+<references/>

@@ -1,0 +1,52 @@
+{{Mod Header|Dawnguard}}{{Shout Summary
+|id=xx0030d2
+|icon=SR-icon-shout-Marked for Death.png
+|quote=Durnehviir! Hear my Voice and come forth from the Soul Cairn. I summon you in my time of need.
+|word1=Dur
+|wordid1=xx0030d4
+|cooldown1=5
+|info1=No Effect
+|location1=[[Skyrim:Soul Cairn|Soul Cairn]] (all words learned together after [[Skyrim:Beyond Death|Beyond Death]])
+|word2=NEH
+|wordid2=xx0030d6
+|cooldown2=5
+|info2=No Effect
+|word3=ViiR
+|wordid3=xx0030d7
+|cooldown3=300
+|info3=Summons [[Skyrim:Durnehviir (dragon)|Durnehviir]]
+|mod=DG
+|transword1=Curse
+|transword2=Never
+|transword3=Dying
+|spellid1=000fead2
+|spellid2=000fead2
+|spellid3=xx0030d5
+}}[[Category:Skyrim-Dawnguard]] [[Category:Skyrim-Dawnguard-Magic]] [[File:SR-quest-Durnehviir.jpg|thumb|left|Summoning Durnehviir]]
+'''Summon Durnehviir''' is a [[Skyrim:Dragon Shouts|dragon shout]] that summons [[Skyrim:Durnehviir (dragon)|Durnehviir]], an undead dragon, from the [[Skyrim:Soul Cairn|Soul Cairn]]. Unlike the [[Skyrim:Call Dragon|Call Dragon]] shout, the Summon Durnehviir shout works like a Conjuration spell. You have to aim it at the ground and have enough space around the point of summoning for the shout to succeed. This also means that you can summon him within certain enclosed areas such as caves as long as there is enough room. The first three times he is summoned, he will teach you a word for the [[Skyrim:Soul Tear|Soul Tear]] shout. After the third time, he will only mention how excited he is to be free of the Soul Cairn.
+
+When not in combat, he flies overhead. In combat, he uses Frost Breath, Drain Vitality, and a [[Skyrim:Soul_Cairn_Summon|unique shout]] that summons a [[Skyrim:Boneman|Boneman]], a [[Skyrim:Mistman|Mistman]], and a [[Skyrim:Wrathman|Wrathman]] from the Soul Cairn to attack the target. He will follow you from above and will land only to engage enemies. In small spaces, he may land or never take off.
+
+First summon: ''"Ah! The free air of Vus at long last! As promised, I now teach you the first word of Soul Tearing: "Rii" - the essence of your enemy's life force."''
+
+Second summon: ''"I can feel my strength returning each time I am set free from that prison! Hear now the second word of Soul Tearing: "Vaaz" - meaning to tear your enemy's soul from its living vessel."''
+
+Third summon: ''"You have kept your side of the bargain, now let me fulfill mine. Feel the last word of Soul Tearing within yourself: "Zol" - the unlife that results when a soul is imprisoned in dead flesh."''
+
+After learning all words: ''"The skies of Keizaal are mine again!"'' or ''"You give me freedom from the enslavement of the Ideal Masters. Thank you."'' or ''"I rejoice in my freedom, if only for a moment."''
+
+{{NewLeft}}
+==Notes==
+* While it is possible to summon him indoors, there is a high chance he will get stuck and subsequently unsummon himself. This will not reset your shout cooldown, and therefore is not recommended, given the 300 second cooldown.
+* Durnehviir, as the shout name suggests, is considered a summoned creature, and will be replaced if you summon anything else, unless you possess the [[Skyrim:Twin Souls|Twin Souls]] perk.
+* It is possible to maintain Durnehviir and [[Skyrim:Odahviing|Odahviing]] at the same time.
+* You must spend three dragon souls to fully learn this shout in order to summon him. He will not appear when using only one or two words. 
+* It is possible to use the shout inside of the Soul Cairn, and he will act as if he was summoned outside of the Soul Cairn.
+* Because Summon Durnehviir acts like a Conjuration spell, your character's name will appear over him like other summons: "[Player name]'s Durnehviir".
+
+==Bugs==
+{{Bug|Being affected by a [[Skyrim:Spell_Absorption|Spell Absorption]] effect can cause the summon attempt to fail.|confirmed=1}}
+{{Bug|The summon may not work properly in the Forgotten Vale. In the worst case he may unsummon immediately upon appearing, leaving you with a 300 second cooldown.|confirmed=1}}
+
+{{Stub|Magic}}
+{{Skyrim Shouts}}

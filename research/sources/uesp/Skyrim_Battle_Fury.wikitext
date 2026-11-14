@@ -1,0 +1,45 @@
+{{Trail|Dragon Shouts}}{{Mod Header|Dragonborn}}{{Shout Summary
+|id=xx02ad09
+|icon=SR-icon-shout-Dragonrend.png
+|quote=Your Thu'um enchants your nearby allies' weapons, allowing them to attack faster.
+|word1=MID
+|wordid1=xx0200e4
+|cooldown1=20
+|info1=Battle Fury, 1.3 points within 25 feet for 60 seconds
+|location1=All three words are found in [[Skyrim:Vahlok's Tomb|Vahlok's Tomb]]
+|word2=Vur
+|wordid2=xx0200e5
+|cooldown2=30
+|info2=Battle Fury, 1.5 points within 25 feet for 120 seconds
+|word3=SHaaN
+|wordid3=xx0200e6
+|cooldown3=40
+|info3=Battle Fury, 1.7 points within 25 feet for 180 seconds
+|mod=DB
+|transword1=Loyal
+|transword2=Valor
+|transword3=Inspire
+|spellid1=xx0200c6
+|spellid2=xx02ad0a
+|spellid3=xx02ad0b
+}}
+'''Battle Fury''' is a [[Skyrim:Dragon Shouts|dragon shout]] added by the [[Skyrim:Dragonborn|Dragonborn]] expansion that improves the fighting ability of allies by speeding up their attacks, similar to the [[Skyrim:Elemental Fury|Elemental Fury]] shout's effect on you.
+
+== Related Quests ==
+*{{Quest Link|Lost Legacy}}
+
+== Notes ==
+*Like Elemental Fury, if this shout is used on an ally whose weapon is already enchanted, it has no effect.
+
+{{NewLine}}
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=HET NOK FaaL VahLOK WO<br>KRON POGaaS MORO Fah<br>OK UNSLaaD {{FC|blue|MID}} ROK aaV<br>DILON VOTH LOT ZIN
+|translation1=Here lies the [[Skyrim:Vahlok the Jailor|Guardian]] who<br>Gained much glory. For<br>His eternal {{FC|blue|loyalty}}, he joined<br>(the) dead with great honor
+|wordwall2=QETHSEGOL VahRUKIV {{FC|blue|Vur}} DO FaaL<br>VahLOK NONVUL aaR SE DOVah<br>WEN DEZ LOST Wah QahNaaR<br>TahRODiiS MiraaK
+|translation2=(This) stone commemorates (the) {{FC|blue|valor}} of the<br>Guardian, noble servant of (the) Dragons,<br>Whose fate (it) was to vanquish<br>Treacherous [[Skyrim:Miraak (person)|Miraak]]
+|wordwall3=NONVUL BRON MahFAERaaK<br>DahMaaN SahROT VahLOK WEN<br>LOT ahKRIN {{FC|blue|SHaaN}} Ney MUZ<br>ahRK DOVah
+|translation3=Noble Nord, forever<br>Remember (the) mighty Guardian whose<br>great courage {{FC|blue|inspired}} both men<br>and dragon
+}}
+
+{{Skyrim Shouts}}

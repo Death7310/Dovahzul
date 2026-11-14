@@ -1,0 +1,36 @@
+{{NPC Summary
+|essential=yes
+|loc=[[Skyrim:High Hrothgar|High Hrothgar]]
+|race=Elder
+|gender=Male
+|level=100
+|class=Priest
+|faction={{Faction|CrimeFactionGreybeard}}; {{Faction|Faction for not using casual idles}}; {{Faction|FavorExcludedFaction}}; {{Faction|Greybeards}}; {{Faction|WIAdditem03ExclusionFaction}}
+|refid=000886B6
+|baseid=0002C6CA
+|image=SR-npc-Wulfgar.jpg
+|imgdesc=Wulfgar
+|skills='''[[Skyrim:Enchanting|Enchanting]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Speech|Speech]]''', [[Skyrim:Alchemy|Alchemy]], [[Skyrim:Conjuration|Conjuration]], [[Skyrim:Smithing|Smithing]]
+|aggress=Unaggressive
+|moral=No Crime
+|health=875
+|magicka=50
+|stamina=710
+|voicetype=Unique
+}}
+'''Wulfgar''', an [[Skyrim:Elder|elderly]] [[Skyrim:Priest|priest]], is one of the reclusive [[Skyrim:Greybeards|Greybeards]] living at the monastery at [[Skyrim:High Hrothgar|High Hrothgar]], and one of your initial tutors in the [[Lore:Way of the Voice|Way of the Voice]]. Wulfgar will react when interacted with, greeting you with a muttered ''"Dovahkiin"'' and causing the surroundings to rumble in doing so.
+
+He wears a set of [[Skyrim:Greybeard's Robes|Greybeard's robes]] with the matching [[Skyrim:Greybeard's Hood|hood]] and [[Skyrim:Greybeard's Boots|boots]]. He carries a [[Skyrim:Wooden Bowl|wooden bowl]], a [[Skyrim:Knife (item)|knife]] and a [[Skyrim:Fork (item)|fork]], a [[Skyrim:Quill|quill]], a [[Skyrim:Roll of Paper|roll of paper]], a [[Skyrim:Nirnroot|nirnroot]], a [[Skyrim:Potato|potato]], a [[Skyrim:Venison Chop|venison chop]], a jar of [[Skyrim:Honey|honey]], a [[Skyrim:Goat Cheese Wedge|goat cheese wedge]], and a piece of [[Skyrim:Bread|bread]].
+
+Wulfgar knows the following shouts: [[Skyrim:Disarm|Disarm]], [[Skyrim:Dismay|Dismay]], [[Skyrim:Elemental Fury|Elemental Fury]], [[Skyrim:Fire Breath|Fire Breath]], [[Skyrim:Frost Breath|Frost Breath]], [[Skyrim:Ice Form|Ice Form]], [[Skyrim:Unrelenting Force|Unrelenting Force]], and [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]].
+
+{{NewLeft}}
+== Related Quests ==
+*{{Quest Link|The Way of the Voice}}
+*{{Quest Link|The Horn of Jurgen Windcaller}}
+*{{Quest Link|The Throat of the World}}
+*{{Quest Link|Elder Knowledge}}
+*{{Quest Link|Paarthurnax (quest)}}
+
+== Notes ==
+* Wulfgar is one of only two NPCs in Skyrim that are level 100, the other NPC being the Greybeard [[Skyrim:Borri|Borri]].

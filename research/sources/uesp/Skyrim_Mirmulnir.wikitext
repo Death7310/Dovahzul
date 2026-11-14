@@ -1,0 +1,78 @@
+{{Creature Summary
+|loc=[[Skyrim:Western Watchtower|Western Watchtower]]
+|refid=0005A6CA
+|baseid=0001CA05
+|species=Dragon
+|soul=Dragon
+|type=Monsters
+|gender=Male
+|level={{hover|Values: 10, 20, 30, 40, 50|Radiant (10-50)}}
+|class=Dragon
+|health={{hover|Values: 905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}; {{Faction|FavorExcludedFaction}}; {{Faction|MQ104DragonFaction}}
+|image=SR-creature-Mirmulnir.jpg
+|imgdesc=Mirmulnir
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 130, 164, 197, 230, 264|130-264}}
+|leveled=1
+}} __NOTOC__
+'''Mirmulnir''' is likely the second [[Skyrim:Dragon|dragon]] you will encounter in Skyrim, after [[Skyrim:Alduin|Alduin]]. The dragon appears during the quest [[Skyrim:Dragon Rising|Dragon Rising]] at the [[Skyrim:Western Watchtower|Western Watchtower]]. He can be a challenging enemy if your level is low and you have only melee weapons. If you are heavily injured you can go inside the watchtower to heal yourself while resting, or stay there and do nothing while the guards attack him. Using lightning or ice magic on him would be wise since he is resistant only to fire. As with other dragons, after Mirmulnir is killed you can take from his corpse [[Skyrim:Dragon Scales|dragon scales]] and [[Skyrim:Dragon Bone|dragon bones]], as well as random treasure and several [[#Notes|unique]] pieces of Whiterun guard armor.
+
+Mirmulnir's name can be broken down into Mir Mul Nir, literally 'Allegiance Strong Hunt'.
+
+The type of dragon that Mirmulnir is depends on your level.
+{{NewLeft}}
+==Related Quests==
+* {{Quest Link|Dragon Rising}}
+
+==Notes==
+* The ''[[Skyrim:Atlas of Dragons|Atlas of Dragons]]'' lists Mirmulnir as being "Known to Live", meaning not likely revived by Alduin. Instead, he may have come out of hiding to again serve Alduin.
+* Mirmulnir carries a random number of Whiterun guard outfit parts, which have a [[Skyrim:Permanent Items|special property]]: if sold to a merchant, they will persist in the merchant's inventory even after it resets.
+*In general, it appears that unless you are under level 10 when you meet him, Mirmulnir will spawn at one level *higher* than the normal highest type of dragon for the player's level.  In other words, though no dragons will spawn before him, once you've met him, it will be several levels before you actually get to meet another dragon as strong as him.
+** At levels 1-9, he is basically identical to a standard "Dragon".
+** At levels 10-17, he has the stats of a "Blood Dragon", although Blood Dragons normally cannot start appearing until player level 18.
+** At levels 18-26, he has the stats of a "Frost Dragon", which normally can't appear till player level 27. (This even changes his breath and spell type from fire to frost.)
+** At levels 27-35, he has the stats of an "Elder Dragon", which normally can't appear till player level 36.
+** At level 36+, he has the stats of an "Ancient Dragon", which normally can't appear until player level 45.
+* Version 4.3.3 of the [[Skyrim Mod:Unofficial Skyrim Special Edition Patch|Unofficial Skyrim Special Edition Patch]] replaces the "Dohvakiin! No!!" recording with the French version.
+
+==Leveled List==
+{| class=wikitable style="text-align:center;"
+! Player Level !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !! {{Damage Icon}} !! Shouts
+|-
+! <span style="font-size:large">1-9</span>
+| 10 || 905 || 150 || 130 || 0 ||style="text-align:left;"|
+*Fire Breath
+*Fire Ball
+|-
+! <span style="font-size:large">10-17</span>
+|20 || 1421 || 150 || 164 || 25 ||style="text-align:left;"|
+*Fire Breath
+*Fire Ball
+*Unrelenting Force
+|-
+! <span style="font-size:large">18-26</span>
+|30 || 1860 || 150 || 197 || 75 ||style="text-align:left;"|
+*Frost Breath
+*Ice Storm
+*Unrelenting Force
+|-
+! <span style="font-size:large">27-35</span>
+| 40 || 2255 || 150 || 230 || 125 ||style="text-align:left;"|
+*Fire Breath
+*Fire Ball
+*Unrelenting Force
+|-
+! <span style="font-size:large">36+</span>
+| 50 || 3071 || 150 || 264 || 175 ||style="text-align:left;"|
+*Fire Breath
+*Fire Ball
+*Unrelenting Force
+|}
+
+==Bugs==
+{{Bug|[[File:Flag UK.png|22px]] With subtitles enabled, it is possible to see Mirmulnir say ''"Dovahkiin! No!!"'' while he dies. As the dialogue has no audio files in the English version of the game, you would only be aware of this via subtitles. Mirmulnir may also say other things during the fight such as ''"You are brave. {{hover|Worthy enemy.|Balaan hokoron.}} Your defeat brings me honor."'', ''"{{hover|Beautiful battle.|Brit grah.}} I had forgotten what fine sport you mortals can provide!"'' and ''"{{sic|Thurri|Thuri}} {{hover|My lord will feast on your souls in Sovngarde!|du hin sille ko [[Skyrim:Sovngarde (place)|Sovngarde]]!}}"''}}
+**The [[Skyrim Mod:Unofficial Skyrim Patch|Unofficial Skyrim Patch]], version 1.2.5, adds in a custom voiceover for this line.
+{{Skyrim Dragons}}

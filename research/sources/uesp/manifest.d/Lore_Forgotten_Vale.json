@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Forgotten Vale",
+  "revid": 3495882,
+  "timestamp": "2026-02-03T19:20:57Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3495882&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "378f1fd9a3b91b84b9425de17bad9121f74d53e337b2da41b9fa8868a0ec88eb",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 155865,
+  "ns": 130,
+  "parentid": 3495664,
+  "requested_title": "Lore:Forgotten Vale",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Forgotten_Vale",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3495882",
+  "sha1": "82bb4e4e5e99c0f0c9e71b7004ec1eb59a6c9999",
+  "sha1_matches_mediawiki": true,
+  "bytes": 19950,
+  "chars": 19947,
+  "lines": 102,
+  "saved_as": "research/sources/uesp/Lore_Forgotten_Vale.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Nordic|Lore:Elder+Scrolls|Lore:Rorikstead|Lore:Granite+Hill|Lore:Old+Hroldan|Lore:Ivarstead|Lore:Whiterun|Lore:Northwind+Mine|Lore:Forgotten+Vale|Lore:Ja%27darri|Lore:Fa-Nuit-Hen|Lore:Scaleborn",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:42Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

@@ -1,0 +1,34 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Heavy]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Nahkriin.jpg
+|weight=9
+|rating=23
+|value=2173
+|warmth=18
+|type=[[Skyrim:Heavy Armor|Heavy]] [[Skyrim:Helmet|Helmet]]
+|enchant=''+50 Magicka, and Destruction and Restoration spells cost 20% less:''
+* [[Skyrim:Fortify Magicka|Fortify Magicka]], 50 pts
+* [[Skyrim:Fortify Destruction|Fortify Destruction]], cost 20% less
+* [[Skyrim:Fortify Restoration|Fortify Restoration]], cost 20% less
+|artifacttype=Artifact
+|objectid=00061ca5
+|editorid=ArmorDragonPriestMaskEbonyHelmet
+|tempering=[[Skyrim:Ebony Ingot|Ebony Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Nahkriin (item)|Nahkriin]] is an ebony [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] obtained by killing the eponymous [[Skyrim:Nahkriin (creature)|Nahkriin]], who is encountered during the [[Skyrim:Main Quest|main quest]] at [[Skyrim:Skuldafn|Skuldafn]]. It is imbued with an enchantment that grants the wearer a [[Skyrim:Fortify Magicka|Fortify Magicka]] effect that gives the wearer an additional fifty points of [[Skyrim:Magicka|magicka]]. The enchantment also decreases the cost of spells in the [[Skyrim:Destruction|Destruction]] and [[Skyrim:Restoration|Restoration]] schools by twenty percent, due to its [[Skyrim:Fortify Destruction|Fortify Destruction]] and [[Skyrim:Fortify Restoration|Fortify Restoration]] effect. It can be [[Skyrim:Workbench|tempered]] with [[Skyrim:Ebony Ingot|ebony ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Nahkriin (item)|Nahkriin]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The World-Eater's Eyrie}}
+
+==Notes==
+* Nahkriin can only be obtained when in [[Skyrim:Skuldafn Temple|Skuldafn]] as part of the main quest. If you fail to retrieve it, you will not get a second chance to obtain it.
+* Placing Nahkriin on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses it gained from tempering.
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* Nahkriin means "Vengeance" in the [[Lore:Dragon Language|dragon tongue]].
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a special holder for this item.
+
+{{Skyrim Dragon Priests}}</noinclude>

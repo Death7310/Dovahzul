@@ -1,0 +1,34 @@
+<noinclude>{{Lore Places Trail}}
+{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|region=The Rift
+|settlement=Ivarstead
+|image=SR-place-Ivarstead 02.jpg
+|imgdesc=Ivarstead circa {{Year|4E 201}}
+|appears=[[Skyrim:Ivarstead|Skyrim]], [[Online:Ivarstead|ESO]]
+}}[[File:ON-place-Ivarstead.jpg|right|thumb|Ivarstead circa {{Year|2E 582}}]]</noinclude>
+[[Lore:Ivarstead|Ivarstead]] (also known as '''Hillgrund's Steading'''){{ref|name=HOJG|{{Cite Book|Holdings of Jarl Gjalund}}}} is a small milling town, situated at the eastern base of the [[Lore:Throat of the World|Throat of the World]], on the western edge of [[Lore:The Rift|the Rift]], built on the western shore of [[Lore:Lake Geir|Lake Geir]]. Pilgrims and travelers often pass through, as the town is located at the beginning of the 7,000 Steps to [[Lore:High Hrothgar|High Hrothgar]]. Northeast of Ivarstead lies the Nordic ruin known as Shroud Hearth Barrow.<noinclude>
+{{NewLeft}}
+==History==
+===First Era===
+During the reign of Jarl Gjalund of [[Lore:Whiterun|Whiterun]], it was part of Whiterun Hold and exported grain, mead, and honey.{{ref|name=HOJG}}
+During the reign of High King [[Lore:Harald|Harald]], Archmage [[Lore:Geirmund|Geirmund]] dueled the criminal [[Lore:Gauldur|Sigdis Gauldurson]] in a field by this town. Both were slain, and both were interred in [[Skyrim:Geirmund's Hall|Geirmund's Hall]], on a small island in Lake Geir, east of the town.{{ref|name=DVN|{{Cite Book|Daynas Valen's Notes}}}}
+
+===Second Era===
+Ivarstead was a quiet town during {{Year|2E 582}}, inhabited primarily by farmers, fishermen and general laborers.{{ref|[[Online:Akvid Gray-Sky|Akvid Gray-Sky]]'s dialogue in [[Online:Online|ESO]]}} The town also had its own town guard.{{ref|[[Online:Constable Gerrunn|Constable Gerrunn]] in [[Online:Online|ESO]]}} During this period, however, a necromancer by the name of Jakalor captured the townspeople, and used them for his experiments. He was stopped by the [[Lore:Hero#Soulless_One|Vestige]], who saved the town from destruction.{{ref|[[Online:Shroud Hearth Barrow (quest)|Shroud Hearth Barrow]] quest in [[Online:Online|ESO]]}}{{ref|[[Online:Brendar|Brendar]]'s dialogue in [[Online:Online|ESO]]}} In the same period, Nilwen, a Bosmer criminal, tricked travelers to their deaths by claiming Cracktooth, a giant who lived nearby, was merely a Goblin. The Vestige killed the giant, which put an end to her scheme.{{ref|[[Online:Fierce Beasts of Ivarstead|Fierce Beasts of Ivarstead]] quest in [[Online:Online|ESO]]}} In this Era, Ivarstead was a common place for pilgrims, before they would ascend the 7,000 Steps.{{ref|[[Online:Where the Frostheart Grows|Where the Frostheart Grows]] quest in [[Online:Online|ESO]]}}
+===Fourth Era===
+Ivarstead in {{Year|4E 201}} was in decline; due to a decrease in visitors caused by people moving to [[Lore:Riften|Riften]], encouraged by the supposed haunting of Shroud Hearth Barrow.{{ref|name=WJ|{{Cite Book|Wyndelius's Journal|ns_base=Skyrim}}}} When the Last Dragonborn investigated, the haunting was revealed to be the scheme of a Dunmer treasure-hunter, trying to scare the townspeople away so he could search the Barrow. He was killed by the Last Dragonborn, who informed the town that there was no ghost.{{ref|[[Skyrim:Lifting the Shroud|Lifting the Shroud]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} The town's sawmill owner also had problems, with [[Lore:Bear|bears]] in the area ruining lumber by scratching it to bits, and offered a hefty sum to anyone who would thin out the bear population. {{ref|[[Skyrim:Grin and Bear It|Grin and Bear It]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} A Nord known as Klimmek made deliveries of supplies to the Greybeards from time to time; but was growing hesitant to climb the steps in his old age, and asked the Dragonborn to make the delivery for him.{{Ref|name=CvS|[[Skyrim:Climb the Steps|Climb the Steps]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} A local love triangle would also be resolved as the Dragonborn undertook quests for the Temple of Mara, which included Klimmek, Fastred, and Bassianus Axius, but it's unknown who ultimately won Fastred's heart.
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:SR-place-Shroud Hearth Barrow.jpg|Shroud Hearth Barrow (Skyrim)
+File:ON-place-Shroud Hearth Barrow.jpg|Shroud Hearth Barrow (ESO)
+File:SR-icon-misc-SapphireDragonClaw.png|The Sapphire Claw for Shroud Hearth Barrow
+</gallery>
+==See Also==
+* {{GSI|Skyrim:Ivarstead|Online:Ivarstead}}
+
+==References==
+<references/></noinclude>

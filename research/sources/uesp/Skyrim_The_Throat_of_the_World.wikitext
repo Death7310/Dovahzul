@@ -1,0 +1,93 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=Beezer1029
+|reward=Vvardfell
+|rewardChecked=Beezer1029
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=[[SR:Delphine|Delphine]]
+|Reward=One unlocked word of power for the [[Skyrim:Fire Breath|Fire Breath]] shout and the whole [[Skyrim:Clear Skies|Clear Skies]] shout
+|Disp=
+|Rep=
+|Prev=[[Skyrim:Alduin's Wall|Alduin's Wall]]
+|Conc=
+|Next=[[Skyrim:Elder Knowledge|Elder Knowledge]]<br>[[Skyrim:Repairing the Phial|Repairing the Phial]] (finish [[Skyrim:The White Phial (quest)|The White Phial]] first)
+|Loc=[[SR:High Hrothgar|High Hrothgar]], [[SR:Throat of the World|Throat of the World]]
+|Image=SR-quest-The Throat of the World.jpg
+|ImgDesc=Paarthurnax
+|description=Receive a lesson from [[Skyrim:Paarthurnax (dragon)|Paarthurnax]].
+|ID=MQ204
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+# Talk to [[Skyrim:Paarthurnax (dragon)|Paarthurnax]].
+# Learn the Word of Power from Paarthurnax.
+# Use your "[[Skyrim:Fire Breath|Fire Breath]]" [[Skyrim:Dragon Shouts|shout]] on Paarthurnax.
+# Talk to Paarthurnax.
+
+==Detailed Walkthrough==
+===Dragonrend===
+[[File:SR-npc-Arngeir 05.jpg|thumb|right|Learning the Clear Skies shout]]
+With the information about [[Skyrim:Alduin|Alduin]]'s defeat learned at Sky Haven Temple, travel to [[Skyrim:High Hrothgar|High Hrothgar]] to meet with the [[Skyrim:Greybeards|Greybeards]].
+
+When you arrive, you will first need to turn over the [[SR:Horn of Jurgen Windcaller|Horn of Jurgen Windcaller]] and learn the final Word for [[SR:Unrelenting Force|Unrelenting Force]] [[SR:The Horn of Jurgen Windcaller|if you have not yet done so]]. Once you have, tell [[Skyrim:Arngeir|Arngeir]] that you need to learn the [[Skyrim:Dragon Shouts|shout]] used to defeat Alduin. He will be quite shocked and ask where you learned about such a shout. While the Greybeards and the [[Skyrim:Blades|Blades]] do not have a history of cooperation, if you refuse to tell Arngeir where you came across the information, he will not help you. You can either tell him that you learned it from [[Skyrim:Alduin's Wall|Alduin's Wall]] or that you were talking to the Blades. In either case, he will be strongly offended and will be reluctant to help. Depending on your response, [[Skyrim:Einarth|Einarth]] may chastise Arngeir for his impertinence by saying, ''"Arngeir. Rek/Rok los Dovahkiin, Strundu'ul. Rek/Rok fen tinvaak [[Skyrim:Paarthurnax (dragon)|Paarthurnax]]."'' meaning, ''"Arngeir. She/He is Dovahkiin, Stormcrown. She/He will speak (with) Paarthurnax"''.
+
+Regardless, Arngeir eventually offers a hasty apology, saying the decision to help or not help you is not ultimately his. He tells you that the shout used to end Alduin's reign of terror is called [[Skyrim:Dragonrend|Dragonrend]]. However, Arngeir cannot teach it to you because he does not know it and the origins have been lost. If asked, Arngeir will explain that the shout was created during the terrifying reign of the dragons and is a shout of pure evil, embodying all the cruelty, fear, and horror of the time. If you want to learn this shout, you must speak with Paarthurnax, the leader of their order. Further questioning reveals that Paarthurnax lives in seclusion at the peak of the Throat of the World and surpasses all of the Greybeards in the [[Lore:Way of the Voice|Way of the Voice]].
+
+Arngeir will offer to help you reach Paarthurnax and leads you out into the courtyard where you will be taught all three words of the shout [[Skyrim:Clear Skies|Clear Skies]]. You are now ready to attempt the trek up to the summit of the [[Skyrim:Throat of the World|Throat of the World]]. The path up is blocked by [[Skyrim:Traps#Magical Wind|magical winds]] dealing severe [[Skyrim:Frost Damage|frost damage]], even with [[Skyrim:Resist Frost|resist frost]] effects. Use the shout Arngeir gave you to clear away the damaging mists.
+===Paarthurnax===
+When you reach the summit, a dragon approaches. However, resist the urge to attack, as the dragon will land and address you: ''"Drem Yol Lok. Greetings, wunduniik. I am Paarthurnax. Who are you? What brings you to my strunmah ... my mountain?"'' After you explain your objective, Paarthurnax will respond: ''"Drem. Patience. There are formalities that must be observed, at the first meeting of two of the dov. By long tradition, the elder speaks first. Hear my Thu'um! Feel it in your bones. Match it, if you are [[Skyrim:Dovahkiin|Dovahkiin]]!"'' He will then shoot a bout of flame onto a wall and encourage you to participate in "tinvaak" (loosely translated, "conversation").
+
+Inspect the word he left behind to learn a new Shout, and Paarthurnax will grant you his knowledge of it, saying ''"A gift, Dovahkiin. Yol. Understand Fire as the dov do. Now, show me what you can do. Greet me not as mortal, but as dovah!"'' Use this new shout on Paarthurnax. He will agree with the opinions voiced by Greybeards that "the dragonblood runs strong in you", even if you are a "joor" (mortal), and offer to answer your questions.
+
+After the formalities, ask Paarthurnax about [[Skyrim:Dragonrend|Dragonrend]]. He will admit that he was expecting this, as "Alduin and Dovahkiin return together". Though he doesn't know the shout, he believes it could be learned by returning to the beginning of the "Tiid-Ahraan", the Time-Wound on the Throat of the World. An [[Lore:Elder Scrolls|Elder Scroll]], or "Kel" is needed to activate the portal and allow you to view the first Tongues using the Thu'um to defeat Alduin. As the quest ends, the dragon admits he has no idea where to find an Elder Scroll. Your quest log suggests you talk to Arngeir or [[Skyrim:Esbern|Esbern]] for more information.
+
+==Notes==
+* If you have already acquired an Elder Scroll by completing the [[Skyrim:Discerning the Transmundane|Discerning the Transmundane]] quest, Paarthurnax urges you to the Time-Wound, and the quest [[Skyrim:Alduin's Bane|Alduin's Bane]] will begin immediately.
+* You can use the [[Skyrim:Become Ethereal|Become Ethereal]] shout to stroll through the mists except for the first cloud; passage through it requires [[Skyrim:Clear Skies|Clear Skies]].
+* If you unlock the word yourself at just the right time, before Paarthurnax gives you his "understanding", he will teach you the second word for Fire Breath instead of the first (or the third if you started out knowing the second). 
+* Paarthurnax will say that he is teaching you Yol, no matter which Word the wall actually teaches you.
+* You can climb to the very top without going through the temple and the barriers, though Paarthurnax will not be present.
+* [[Skyrim:Viinturuth|Viinturuth]] will be resurrected by [[Skyrim:Alduin|Alduin]] once this quest is completed, at the [[Skyrim:Dragon Mounds|mound]] northwest of [[Skyrim:Anga's Mill|Anga's Mill]] and near [[Skyrim:Lake Yorgrim|Lake Yorgrim]].
+
+* Choose the optional dialogue and say you want to learn about: 
+:{| class="wikitable"
+!Word!!Translation!!Effect Name!!Description!!Notes
+|-
+!Fus
+|force||[[Skyrim:Force Without Effort|Force Without Effort]]||You stagger 25% less and foes stagger 25% more.||Augments power attacks and [[Skyrim:Unrelenting Force|Unrelenting Force]] shout.
+|-
+!Feim
+|fade||[[Skyrim:Eternal Spirit|Eternal Spirit]]||While Ethereal, you recover health 25% faster.||Only active and visible on Active Effects menu when using [[Skyrim:Become Ethereal|Become Ethereal]] shout.
+|-
+!Yol
+|fire||[[Skyrim:The Fire Within|The Fire Within]]||[[Skyrim:Fire Breath|Fire Breath]] shout deals 25% more damage.||
+|}
+:These increase the respective shout capabilities. You can only have one active at a time.
+
+==Bugs==
+{{Bug|You may be unable to learn the [[Skyrim:Clear Skies|Clear Skies]] shout.|OSP|1.9.26.0.8}}
+** Reloading a save from before talking to [[Skyrim:Arngeir|Arngeir]] then following him outside immediately will usually fix the problem. Sometimes you need to watch him whisper to words on the ground to ensure they stay lit. 
+{{Bug|If you leave before shouting Fire Breath, your shouts' cooldowns will recharge completely every few seconds. This exploit allows you to use powerful shouts very frequently, which will have an unbalancing effect on the game.|confirmed=1}}
+{{Bug|As you talk to Paarthurnax, he may fly up high, above the mountain, and begin circling. You may continue your conversation, though you cannot hear him, so it is advised you turn subtitles on. This does not otherwise impede the progress of the quest.|confirmed=1}}
+{{Bug|The word wall may not activate properly. If you come back later, the word may be highlighted, but you can no longer learn the word from it.|confirmed=1}}
+** {{Pc22}} In the [[Skyrim:Console|Console]], enter <code>teachword 20e17</code> to unlock the first word. If you already have one or two words of Fire Breath, use <code>20e18</code> or <code>20e19</code>, respectively.
+
+==Quest Stages==
+{{Journal Entries
+|10||With Esbern's help, I've deciphered Alduin's Wall in Sky Haven Temple. It revealed that Alduin was defeated in ancient times by a Shout of some kind. Maybe the Greybeards can teach me this Shout, or at least tell me how I can learn it.
+{{Quest Objective|10|Talk to Arngeir}}
+|60||With Esbern's help, I've deciphered Alduin's Wall in Sky Haven Temple. It revealed that Alduin was defeated in ancient times by a Shout of some kind. Arngeir knew the name of the Shout, "Dragonrend", but could not teach it to me. However, he has agreed to show me the way to reach Paarthurnax, the Greybeards' leader, who lives at the top of the Throat of the World. Arngeir says that Paarthurnax is the only one who may know this Dragonrend Shout.
+|70||{{Quest Objective|20|Learn the "Clear Skies" Shout}}
+|83||{{Quest Objective|25|Use the "Clear Skies" Shout to open the path}}
+|90||{{Quest Objective|30|Talk to Paarthurnax}}
+|100||With Esbern's help, I've deciphered Alduin's Wall in Sky Haven Temple. It revealed that Alduin was defeated in ancient times by a Shout of some kind. Arngeir sent me to talk to Paarthurnax, who he said was the only one who might know this Dragonrend Shout. It turns out that Paarthurnax is actually a dragon.
+|120||{{Quest Objective|40|Learn the Word of Power from Paarthurnax}}
+|135||{{Quest Objective|50|Use your "Fire Breath" Shout on Paarthurnax}}
+|140||{{Quest Objective|60|Talk to Paarthurnax}}
+|200|fin|With Esbern's help, I've deciphered Alduin's Wall in Sky Haven Temple. It revealed that Alduin was defeated in ancient times by a Shout of some kind. Arngeir sent me to talk to Paarthurnax, the Greybeards' leader, who turned out to be a dragon. Paarthurnax didn't know the Dragonrend Shout, but believes that there's a way for me to learn it from the ancient heroes who used it against Alduin.
+|missing=0, 1, 20, 30, 35, 40, 50, 55, 65, 66, 67, 71, 72, 80, 81, 82, 85, 86, 95, 110, 125, 130, 150, 180, 190, 195, 205, 210, 220
+}}
+{{Skyrim Quest Stages Notes}}
+{{Quest Footer|Prev=[[Skyrim:Alduin's Wall|Alduin's Wall]]|Next=[[Skyrim:Elder Knowledge|Elder Knowledge]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

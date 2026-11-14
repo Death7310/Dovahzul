@@ -1,0 +1,31 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets Heavy]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Hevnoraak.jpg
+|weight=9
+|rating=23
+|value=891
+|warmth=18
+|type=[[Skyrim:Heavy Armor|Heavy]] [[Skyrim:Helmet|Helmet]]
+|enchant=''Immune to disease and poison:''
+* [[Skyrim:Resist Disease|Resist Disease]], 100 pts
+* [[Skyrim:Resist Poison|Resist Poison]], 100 pts
+|artifacttype=Artifact
+|objectid=00061cc1
+|editorid=ArmorDragonPriestMaskIronHelmet
+|tempering=[[Skyrim:Iron Ingot|Iron Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Hevnoraak (item)|Hevnoraak]] is an iron [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] gained by killing [[Skyrim:Hevnoraak (creature)|Hevnoraak]] within the [[Skyrim:Nordic Ruins|Nordic Ruin]] of [[Skyrim:Valthume|Valthume]]. The enchantment provides poison and disease immunity for all diseases and poisons except for ones that ignore disease and poison resistance. It can be [[Skyrim:Workbench|improved]] with [[Skyrim:Iron Ingot|iron ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Hevnoraak (item)|Hevnoraak]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Notes==
+* Placing Hevnoraak on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses that it gained from tempering.
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning that they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* Hevno means "brutal" in the [[Lore:Dragon Language|dragon language]].
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a special holder for this item.
+*As with other equipment which provides disease immunity, Hevnoraak will protect against all diseases except those contracted by traps, as [[Skyrim:Resist Disease|detailed here]].
+*Despite both the Resist Disease and Resist Poison enchantments being bright green in color (when viewed from the inventory, on other pieces), the enchantment color of Hevnoraak is red.
+
+{{Skyrim Dragon Priests}}</noinclude>

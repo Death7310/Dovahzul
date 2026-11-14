@@ -1,0 +1,29 @@
+{{Mod Header|Dragonborn}}{{About|the shout added by Dragonborn|the spell|Skyrim:Ice Storm}}
+{{Shout Summary
+|id=xx03612c
+|quote=N/A
+|word1=N/A
+|wordid1=000252c3
+|spellid1=0010c4de
+|cooldown1=5
+|info1=Ice Storm: 200 pts for 1 sec in 15 ft
+|location1=N/A
+|word2=N/A
+|wordid2=000252c4
+|spellid2=0010c4de
+|cooldown2=5
+|info2=Ice Storm: 200 pts for 1 sec in 15 ft
+|word3=N/A
+|wordid3=000252c5
+|spellid3=xx03612d
+|cooldown3=5
+|info3=Ice Storm: 225 pts for 1 sec in 15 ft
+|mod=DB
+|transword1=N/A
+|transword2=N/A
+|transword3=N/A
+}}
+'''Ice Storm''' is an exclusive [[Skyrim:Dragon Shouts|shout]] only used in combat by [[Skyrim:Sahrotaar|Sahrotaar]] during [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]]. It deals [[Skyrim:Frost Damage|frost damage]] in an area.
+
+
+{{Skyrim Shouts}}

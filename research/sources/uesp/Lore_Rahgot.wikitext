@@ -1,0 +1,41 @@
+<noinclude>__NOTOC__ {{about|the dragon priest|the mask|Lore:Rahgot (artifact)}} {{Lore People Summary
+|race=[[Lore:Nord|Proto&#8209;Nord]]{{Intnote|race}}
+|racecat=Nord
+|gender=Male
+|appears=[[Skyrim:Rahgot (creature)|Skyrim]]
+|birth=Merethic Era
+|undeath=Merethic Era
+|loc=Forelhost
+|death3=4E 201
+|death3Loc=Forelhost
+|image=SR-creature-Rahgot.jpg
+}}[[Category:Lore-People-Atmoran]]</noinclude>
+[[Lore:Rahgot|Rahgot]], whose name means "Rage" in the [[Lore:Dragon Language|Dragon language]], was an ancient [[Lore:Dragon Priest|Dragon Priest]] of [[Lore:Skyrim|Skyrim]]. He led the last remnants of the [[Lore:Dragon Cult|Dragon Cult]] from the secluded monastery of [[Lore:Forelhost|Forelhost]] high in the [[Lore:Jerall Mountains|Jerall Mountains]] until {{Year|1E 140}}.{{ref|name=SSJ|{{Cite Book|Skorm Snow-Strider's Journal}}}} As a Dragon Priest, he was a powerful mage, also able to wield the [[Lore:Thu'um|Thu'um]] in battle.{{Ref|name=TGATT|{{Cite Book|The Guardian and the Traitor}}}} After the defeat of [[Lore:Alduin|Alduin]] during the [[Lore:Dragon War|Dragon War]], the ruling Dragon Priests were overthrown. Several sects of the Dragon Cult adapted and survived by going into hiding all across Skyrim. Many held the belief that Alduin would one day return and resurrect the faithful.{{ref|name=TDW|{{Cite Book|The Dragon War}}}} Rahgot and his cultists were one such sect, and until that day they chose to bide their time within Forelhost.{{ref|name=FRN|{{Cite Book|Note (Forelhost Refectory)|ns_base=SR}}}}<noinclude>
+
+In late {{Year|1E 139}} a legion of King [[Lore:Harald|Harald]]'s soldiers, commanded by {{Lore Link|Skorm Snow-Strider}}, discovered Rahgot's hidden stronghold. Recognizing the potential threat, they laid siege to it for several weeks. Once the main gate had been breached, Rahgot and his followers retreated into the interior of the monastery and collapsed the main stairway to block access to the refectory.{{ref|name=SSJ}}
+
+Rahgot devised a plan to survive the attack. Several cultists would commit suicide in the front chamber in hope that if Skorm and his men eventually did break through the main door, the sight of the mass suicide would deter them from clearing the rubble blocking the refectory and discovering the remaining survivors and Rahgot himself.{{ref|name=AN|{{Cite Book|ns_base=SR|Alchemist's Note}}}} He ordered his alchemists to make large amounts of [[Lore:Deathbell|deathbell]] poison for his followers to ingest{{ref|name=O|{{Cite Book|ns_base=SR|Orders}}}}{{ref|name=Skyrim|[[Skyrim:Siege on the Dragon Cult|Events]] of ''[[Skyrim:Skyrim|Skyrim]]''}} and also poisoned their own water supply.{{ref|name=FCN|{{Cite Book|ns_base=SR|Note (Forelhost Crypt)}}}} Dissent was dealt with brutally; when Rahgot's head alchemist questioned his orders for mass suicide,{{ref|name=AN}} she was murdered.{{ref|name=RR|{{Cite Book|ns_base=SR|Rahgot's Reply}}}}{{ref|name=Skyrim}}
+
+The mass suicide was eventually carried out. Rahgot ordered the burial of the children's bodies{{ref|name=O}} and the remaining cultists died in their beds after taking the poison or slitting their wrists. When Skorm took the fortress, he saw the aftermath and proceeded no further.{{ref|name=Skyrim}}{{ref|name=SSJ}} Rahgot survived and was later encased in a sarcophagus within the refectory.{{ref|name=Skyrim}} The upper courtyard door was sealed with a magic barrier, sustained by the sacrifice of his followers.{{ref|name=SSJ}}
+
+In {{Year|4E 201}}, the [[Lore:Hero|Last Dragonborn]] discovered the tomb of Rahgot during an assignment to recover [[Lore:Dragon Priest Masks#Rahgot|his powerful mask]]. Rahgot awoke from his ancient slumber and battled with the Dragonborn, but was ultimately defeated.{{ref|name=Skyrim}}
+
+{{NewLine}}
+== Gallery ==
+<gallery>
+File:SR-item-Rahgot.jpg|Rahgot's Mask
+File:SR-quest-Siege on the Dragon Cult.jpg|Rahgot awakens
+File:SR-place-Forelhost.jpg|Forelhost (Skyrim)
+File:ON-place-Forelhost.jpg|Forelhost (ESO)
+</gallery>
+
+==Notes==
+*{{LNote|race|†|The inhabitants of Skyrim during the Dragon War were variously labeled Nords{{ref|name=Paarthurnax|[[SR:Paarthurnax (dragon)|Paarthrunax]]'s dialogue in ''[[SR:Skyrim|Skyrim]]''}} and Atmorans.{{ref|name=FSL2|{{Cite Book|First Servant's Letter, Page 2|ns_base=ESO}}}} The truth may lie somewhere in-between; while the two are considered distinct races,{{ref|name=TOoC|{{Cite Book|The Origin of Cyrus!|ns_base=Books}}}} the men living in the transition period between the terms' respective usage have been considered 'proto-Nords'.{{ref|name=FC|{{Cite Book|Frontier, Conquest}}}}{{ref|name=EGTS|{{Cite Book|EGT|Skyrim}}}}{{ref|name=HighKingSunstone|[[ESO:Bleakrock Isle Antiquities#High King Sunstone|High King Sunstone]] antiquity codex entry in [[ESO:Online|ESO]]}}}}
+
+==See Also==
+* For game-specific information see the [[Skyrim:Rahgot (creature)|Skyrim]] article.
+===Books===
+*{{Book Link|Skorm Snow-Strider's Journal}}
+
+==References==
+<references/></noinclude>

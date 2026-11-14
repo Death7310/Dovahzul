@@ -1,0 +1,21 @@
+{{Trail|Dragon Shouts}}
+{{Cleanup|All data and use info needed}}
+__NOTOC__
+[[File:SR-npc-Afflicted Refugee 02.jpg|thumb|left|Several [[Skyrim:Afflicted|Afflicted]] using the Vile Vapor shout]]
+'''Vile Vapor''' is an exclusive [[Skyrim:Dragon Shouts|shout]] used in combat by the [[Skyrim:Afflicted|Afflicted]] during [[Skyrim:The_Only_Cure|The Only Cure]]. [[Skyrim:Dawnguard|Dawnguard]] adds the [[Skyrim:Reaper|Reaper]]{{DG}}, who also has this ability.
+
+When provoked, both the Afflicted and the Reaper will vomit poisonous fog at you, which does lingering health damage. The "wind up" of the ability is rather slow, and as a result it is quite easy to dodge, even if surrounded by them. Unless you are playing on difficulty levels Expert or higher, the poison damage also is low (only 40 points), which can be negated with [[Skyrim:Cure Poison|cure poison]] potions or custom potions through alchemy and items enchanted with [[Skyrim:Resist Poison|poison resistance]], worn before exposure.
+
+This shout is unavailable to the player and cannot be obtained in any way over the course of the game without the use of console commands.
+
+{| class="wikitable"
+!colspan=3|Vile Vapor {{ID|00059327|par=1}}
+|-
+!Word ID !!Effects !!Recharge
+|-
+|000252C3 || Poison Spray, 20 points for 2 seconds || 99 seconds
+|-
+|000252C3 || Poison Spray, 20 points for 2 seconds || 99 seconds
+|-
+|000252C3 || Poison Spray, 20 points for 2 seconds || 5 seconds
+|}

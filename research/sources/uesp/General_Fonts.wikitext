@@ -1,0 +1,111 @@
+{{trail}}{{TOCright}}
+This page documents the '''fonts''' in The Elder Scrolls and any relevant technical information about them.
+==Fonts==
+The following are some examples of prominent [[wikipedia:Computer font|typefaces]] throughout The Elder Scrolls.
+{| class="wikitable sortable" {{AL|C}}
+!Font
+!class="unsortable"|Also Known As
+!Appearances
+!Use
+|-{{HE|Magic Cards}}
+|[[File:GEN-font-Magic Cards.svg|x50px|Magic Cards]]||Magic_Cards_Regular||data-sort-value=1994|The Elder Scrolls, [[Morrowind:Morrowind|Morrowind]]||Logo, UI
+|-{{HE|Helvetica Black}}
+|[[File:GEN-font-Helvetica Black.svg|x50px|Helvetica Black]]||||data-sort-value=1994|[[General:Bethesda|Bethesda]] logos||Logo
+|-{{HE|Square 721 Extended}}
+|[[File:GEN-font-Square 721 Extended.svg|x50px|Square 721 Extended]]||||data-sort-value=1994|[[General:Bethesda Game Studios|Bethesda Game Studios]] logo, [[Skyrim Mod:Creation Kit|Creation Kit]] logo||Logo
+|-{{HE|Dorovar Carolus}}
+|[[File:GEN-font-Dorovar Carolus.svg|x50px|Dorovar Carolus]]||||data-sort-value=1994|[[Arena:Arena|Arena]], [[Daggerfall:Daggerfall|Daggerfall]]||Box Art, [[Books:Arena Player's Guide|Arena Player's Guide]]
+|-{{HE|Abaddon}}
+|[[File:GEN-font-Abaddon.svg|x50px|Abaddon]]||||data-sort-value=1997|[[Battlespire:Battlespire|Battlespire]]||Box Art
+|-{{HE|PentaGram's Malefissent}}
+|[[File:GEN-font-PentaGram's Malefissent.svg|x50px|PentaGram's Malefissent]]||||data-sort-value=1997|[[Battlespire:Battlespire|Battlespire]]||Box Art
+|-{{HE|Spirit ITC Italic}}
+|[[File:GEN-font-Spirit ITC Italic.svg|x50px|Spirit ITC Italic]]||||data-sort-value=1998|[[Redguard:Redguard|Redguard]]||GUI, Launcher
+|-{{HE|Daedric}}
+|[[File:GEN-font-Daedric.svg|x50px|Daedric]]||daedric_font||data-sort-value=2002|[[Morrowind:Morrowind|Morrowind]], [[Oblivion:Oblivion|Oblivion]], [[Skyrim:Skyrim|Skyrim]]||[[Lore:Daedric_Alphabet|Daedric Alphabet]]
+|-{{HE|Century Gothic}}
+|[[File:GEN-font-Century Gothic.svg|x50px|Century Gothic]]||century_gothic_font_regular<br>century_gothic_big||data-sort-value=2002|[[Morrowind:Morrowind|Morrowind]]||[[Morrowind:Console|Console]]
+|-{{HE|Kingthings Petrock}}
+|[[File:GEN-font-Kingthings Petrock.svg|x50px|Kingthings Petrock]]||kingthings_regular||data-sort-value=2006|[[Oblivion:Oblivion|Oblivion]]||GUI
+|-{{HE|Hesperides}}
+|[[File:GEN-font-Hesperides.svg|x50px|Hesperides]]||handwritten||data-sort-value=2006|[[Oblivion:Oblivion|Oblivion]]||[[Oblivion:Books|Books]]
+|-{{HE|Tahoma Bold}}
+|[[File:GEN-font-Tahoma Bold.svg|x50px|Tahoma Bold]]||tahoma_bold_small||data-sort-value=2006|[[Oblivion:Oblivion|Oblivion]]||GUI
+|-{{HE|Bradley}}
+|[[File:GEN-font-Bradley.svg|x50px|Bradley]]||Bradley Pro Regular, Bradley Gratis||data-sort-value=2006|[[Oblivion:Oblivion|Oblivion]]||Signs
+|-{{HE|Futura Condensed Light}}
+|[[File:GEN-font-Futura Condensed Light.svg|x50px|Futura Condensed Light]]||Futura CondensedLight||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||GUI
+|-{{HE|Futura Condensed Medium}}
+|[[File:GEN-font-Futura Condensed Medium.svg|x50px|Futura Condensed Medium]]||Futura Condensed||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||GUI
+|-{{HE|Futura Condensed Bold}}
+|[[File:GEN-font-Futura Condensed Bold.svg|x50px|Futura Condensed Bold]]||Futura Condensed||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||GUI
+|-{{HE|Cyrodiil}}
+|[[File:GEN-font-Cyrodiil.svg|x50px|Cyrodiil]]||SkyrimBooks_Gaelic||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Skyrim:Books|Books]]
+|-{{HE|Viner Hand ITC}}
+|[[File:GEN-font-Viner Hand ITC.svg|x50px|Viner Hand ITC]]||SkyrimBooks_Handwritten_Bold||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Skyrim:Books|Books]]
+|-{{HE|Arial}}
+|[[File:GEN-font-Arial.svg|x50px|Arial]]||||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Skyrim:Console|Console]]
+|-{{HE|Dragon_script}}
+|[[File:GEN-font-Dragon_script.svg|x50px|Dragon_script]]||Dragon_script||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Lore:Dragon_Language|Dragon Language]]
+|-{{HE|Dwemer}}
+|[[File:GEN-font-Dwemer.svg|x50px|Dwemer]]||Dwemer||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Lore:Dwemer Language|Dwemer Language]]
+|-{{HE|Falmer}}
+|[[File:GEN-font-Falmer.svg|x50px|Falmer]]||Falmer||data-sort-value=2011|[[Skyrim:Skyrim|Skyrim]]||[[Lore:Falmer Language|Falmer Language]]
+|-{{HE|Univers 55}}
+|[[File:GEN-font-Univers 55.svg|x50px|Univers 55]]||||data-sort-value=2014|[[Online:Online|ESO]]||{{huh}}
+|-{{HE|Univers 57 Condensed}}
+|[[File:GEN-font-Univers 57 Condensed.svg|x50px|Univers 57 Condensed]]||||data-sort-value=2014|[[Online:Online|ESO]]||GUI
+|-{{HE|Univers 67 Condensed Bold}}
+|[[File:GEN-font-Univers 67 Condensed Bold.svg|x50px|Univers 67 Condensed Bold]]||||data-sort-value=2014|[[Online:Online|ESO]]||GUI
+|-{{HE|ESO Cartographer}}
+|[[File:GEN-font-ESO Cartographer.svg|x50px|ESO Cartographer]]||||data-sort-value=2014|[[Online:Online|ESO]]||{{huh}}
+|-{{HE|Trajan Pro}}
+|[[File:GEN-font-Trajan Pro.svg|x50px|Trajan Pro]]||||data-sort-value=2014|[[Online:Online|ESO]]||Carved stone plaques
+|-{{HE|League Gothic}}
+|[[File:GEN-font-League Gothic.svg|x50px|League Gothic]]||||data-sort-value=2014|[[Online:Online|ESO]]||{{huh}}
+|-{{HE|Fontin Sans}}
+|[[File:GEN-font-Fontin Sans.svg|x50px|Fontin Sans]]||||data-sort-value=2014|[[Online:Online|ESO]]||{{huh}}
+|-{{HE|Arial Narrow}}
+|[[File:GEN-font-Arial Narrow.svg|x50px|Arial Narrow]]||||data-sort-value=2014|[[Online:Online|ESO]]||{{huh}}
+|-{{HE|Rubik Medium}}
+|[[File:GEN-font-Rubik Medium.svg|x50px|Rubik Medium]]||||data-sort-value=2017|[[Legends:Legends|Legends]]||Card Text
+|-{{HE|Merriweather}}
+|[[File:GEN-font-Merriweather.svg|x50px|Merriweather]]||||data-sort-value=2017|[[Legends:Legends|Legends]]||{{huh}}
+|-{{HE|Ubuntu}}
+|[[File:GEN-font-Ubuntu.svg|x50px|Ubuntu]]||||data-sort-value=2017|[[Legends:Legends|Legends]]||Card Numbers
+|-{{HE|Adobe Garamond Pro Bold}}
+|[[File:GEN-font-Adobe Garamond Pro Bold.svg|x50px|Adobe Garamond Pro Bold]]||||data-sort-value=2020|[[Blades:Blades|Blades]]||GUI
+|-{{HE|D-Din Condensed Bold}}
+|[[File:GEN-font-D-Din Condensed Bold.svg|x50px|D-Din Condensed Bold]]||||data-sort-value=2020|[[Blades:Blades|Blades]]||GUI
+|-{{HE|Liberation Sans}}
+|[[File:GEN-font-Liberation Sans.svg|x50px|Liberation Sans]]||||data-sort-value=2020|[[Blades:Blades|Blades]]||{{huh}}
+|}
+
+===Other===
+{| class="wikitable" {{AL|C}}
+!Font
+!Appearances
+!Use
+|-{{HE|Dragon Alphabet}}
+|[[File:GEN-font-Dragon_Alphabet.svg|x50px|Dragon Alphabet]]||[https://www.thuum.org/downloads.php#font Thuum.org]||[[Lore:Dragon_Language|Dragon Language]]
+|-{{HE|Morris Roman Black}}
+|[[File:GEN-font-Morris_Roman_Black.svg|x50px|Morris Roman Black]]||[[Tes2Mod:Daggerfall_Unity|Daggerfall Unity]]||GUI
+|}
+
+==File Formats==
+===Arena===
+Arena uses <code>.dat</code> files to store font information. [[Arena:Files#Misc_Utilities|ArenaFont within ArenaSuite]] is a good tool to view and edit.
+===Daggerfall===
+Daggerfall uses <code>.fnt</code> files to store font information, but not like the conventional use of the format. Daggerfall Font Editor is a good tool to view and edit the fonts.
+===Morrowind===
+Morrowind uses <code>.tex</code> and <code>.fnt</code> files to store font information. The <code>.tex</code> image file stores all of the characters, while the <code>.fnt</code>file—unconventionally—stores the position, size, and other various information of each character in the image. FontReader is a good tool to view and save the fonts.
+
+===Oblivion===
+Similarly to Morrowind, Oblivion uses <code>.tex</code> and <code>.fnt</code> files within [[Oblivion Mod:BSA File Format|<code>Oblivion - Misc.bsa</code>]] to store font information. The <code>.tex</code> image file stores all of the characters, while the <code>.fnt</code> file—unconventionally—stores the position, size, and other various information of each character in the image. Bethesda Archive Extractor is a good tool to open the <code>.bsa</code>, and Oblivion Font Editor is a good tool to view and save the fonts.
+
+===Skyrim===
+Skyrim's fonts are compiled within <code>.swf</code>s within [[Skyrim Mod:Archive File Format|<code>Skyrim - Interface.bsa</code>]]. Bethesda Archive Extractor is a good tool to open the <code>.bsa</code> and JPEXS is a good tool to decompile an <code>.swf</code> and export a font as a <code>.ttf</code>.
+
+==See Also==
+*The following fonts are available for download: [[:File:DwemerSR.zip|Dwemer]], [[:File:Obliviontt.zip|Daedric]], [[:File:DragonTES.zip|Dragon]] and [[:File:FalmerFont.zip|Falmer]].
+*[[Lore:Linguistics]]

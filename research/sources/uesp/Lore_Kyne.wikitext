@@ -1,0 +1,52 @@
+<noinclude>{{Lore Gods Trail}}__NOTOC__{{Quote Box|''Mother of Men, who steels us with her icy breath<br>Warrior-Wife, who sanctifies every axe-edge<br>Goddess of the Storm, who gifted us with voice<br>Bless us, Kyne; may we serve you with every word''|[[Lore:Shrine inscription|Shrine inscription]]}}[[File:SR-concept-Hawk Mural.jpg|Stone Depiction of the Hawk|thumb|left]]</noinclude>
+[[Lore:Kyne|Kyne]], or '''Kaan''' in the [[Lore:Dragon Language|dragon language]], is the [[Lore:Nord|Nord]]ic goddess of the Storm, widow of [[Lore:Shor|Shor]], the Blessed Warrior-Wife,{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{rp|354}}{{Ref|name=KC|[[Legends:Cleric of Kyne|Cleric of Kyne]]'s dialogue in ''[[Legends:Legends|Legends]]''}} and a favored god of warriors.{{Ref|name=VOF|{{Cite Book|Varieties of Faith...}}}}{{Ref|name=Froki|[[Skyrim:Froki Whetted-Blade|Froki Whetted-Blade]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} She is one of the Hearth Gods, and is considered the chief deity of the Nordic pantheon.{{Ref|name=DATN|{{Cite Book|Divines and the Nords}}}} As the goddess of the Storm, she is strongly associated with wind and rain, and is thought to control both forces, even when they bring misery.{{Ref|name=TSOP|{{Cite Book|The Song of Pelinal}}}}{{Ref|name=SOTR19|{{Cite Book|Songs of the Return, Vol 19}}}}<noinclude> 
+
+She is often called the '''Mother of Men and beasts''',{{Ref|name=Froki}}{{Ref|name=TESVSPOGG}}{{rp|354}} as Nords believe the sky exhaled onto the land at the [[Lore:Throat of the World|Throat of the World]] to form them.{{Ref|name=VOF}}{{Ref|name=Froki}}{{Ref|name=COTS|{{Cite Book|Children of the Sky}}}}{{Ref|name=PGE1S|{{Cite Book|PGE|1|Skyrim}}}} She is also called the '''Kiss at the End''', because Nords generally believe that she leads their dead to [[Lore:Sovngarde|Sovngarde]].{{ref|name=GOSMON|{{Cite Book|Goddess of Storm, Mother of Nords}}}} Ancient Nords were also known to call her '''Sister Hawk'''.{{ref|[[Skyrim:Alduin's Bane|Alduin's Bane]] quest dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLeft}}
+===Mother of Nords===
+Nords still refer to themselves as "the Sons and Daughters of Kyne".{{Ref|name=Decree|{{Cite Book|Decree of Monument|ns_base=Skyrim}}}} Some consider her to be the leader of the Nordic pantheon of [[Lore:Divines|Divines]].{{ref|name=GOSMON}} Kyne and [[Lore:Kynareth|Kynareth]] are considered by followers of the [[Lore:Nine Divines|Nine Divines]] to be one and the same, though more ardent supporters of the Old Ways among the Nords dismiss Kynareth as a "pale shadow".{{Ref|name=Froki}} While Nords also acknowledge [[Lore:Mara|Mara]], the "Mother-Goddess" of the [[Lore:Empire|Empire]], they view her only as Kyne's handmaiden.{{Ref|name=VOF}} The trees near [[Lore:Kynesgrove|Kynesgrove]] (or Kyne's Grove) are thought to be sacred to her.{{Ref|name=events|Events of ''[[Skyrim:Skyrim|Skyrim]]''}} The ancient Nords believed servants of Kyne found eternal rest in the {{Lore Link|Forest of Dreams}}, such as Hela, a "friend to all beasts".{{Ref|name=SRKyne|[[Skyrim:Kyne's Peace#Word Wall Translations|Kyne's Peace]] first word wall in [[Skyrim:Skyrim|''Skyrim'']]}} [[Lore:Kyne's Aegis|Kyne's Aegis]] is an island found in the icy waters of the [[Lore:Sea of Ghosts|Sea of Ghosts]].
+
+===Goddess of Storm===
+[[File:ON-concept-Kyne shrine.png|Shrine to Kyne|left|thumb]][[File:ON-crown store-Fountain, Kyne's Radiance.jpg|Kyne's Radiance Fountain in Markarth|right|thumb]]
+Nords believe she first taught them how to wield the [[Lore:Thu'um|thu'um]], or Storm Voice, though some sources claim she did so through her "daughters",{{Ref|name=VOF}}{{Ref|name=TESVSPOGG}}{{rp|330}} while others claim she did so in tandem with [[Lore:Paarthurnax|Paarthurnax]].{{Ref|name=Hrothgar|[[Skyrim:High Hrothgar|The Etched Tablets of High Hrothgar]]}} Appropriately, "Kaan" is a Word of Power, which can be used to soothe wild beasts, who are also believed to be her creation.{{Ref|name=Froki}} Many great Tongues are considered to be blessed by Kyne, such as [[Lore:Wulfharth|Wulfharth]], the Storm of Kyne, and [[Lore:Morihaus|Morihaus]], the "Bull of Kyne".{{Ref|name=TAH|{{Cite Book|The Arcturian Heresy}}}}{{Ref|name=FSOKW|{{Cite Book|Five Songs of King Wulfharth}}}}{{Ref|[[Oblivion:The Prophet|The Prophet]]'s dialogue in ''[[Oblivion:Oblivion|Oblivion]]: [[Oblivion:Knights of the Nine|Knights of the Nine]]''}} Both have been called sons of Kyne and the Breath of Kyne.{{Ref|name=TSOP}}{{Ref|name=FSOKW}}{{Ref|name=SATD|{{Cite Book|Shezarr and the Divines}}}} Some ancient legends speak of the goddess's personal intervention at important moments in [[Lore:Skyrim|Skyrim]]'s history.{{Ref|name=FSOKW}}{{Ref|name=SOTR24|{{Cite Book|Songs of the Return, vol 24}}}} Others suggest she was involved in granting the [[Lore:Amulet of Kings|Amulet of Kings]] to [[Lore:Alessia|St. Alessia]].{{Ref|name=TSOP}} On one occasion Kyne intervened and cleansed and forgave Keeper Ormi who turned into a [[Lore:Hagraven|hagraven]], after her son Sahun revealed himself to still be alive and prayed for her.{{Ref|name=ESOFKH|Events of [[ON:For Kyne's Honor|For Kyne's Honor]] in [[ON:Online|ESO]]}}
+
+The ancient Nords associated her with the [[Lore:Hawk|hawk]].{{Ref|name=Felldir|[[Skyrim:Felldir the Old|Felldir the Old]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} Bas-reliefs and totemic representations depicting Kyne can be found in various Nordic ruins throughout [[Lore:Skyrim|Skyrim]].{{Ref|name=TDW|{{Cite Book|The Dragon War}}}}{{Ref|name=events}} [[Lore:Kyne's Tears|Kyne's Tear]]s are a rare plant whose delicate flowers are said to have magical properties, particularly involving purification.{{Ref|name=HT|{{Cite Book|Hidden Tears}}}}{{ref|Item description of [[ON:Coldharbour Quest Items#Kyne's Tears|Kyne's Tears]]}} The plant is said to grow where the tears of the goddess Kyne fall to the earth.{{Ref|name=KT|{{Cite Book|Kyne's Tears}}}} 
+
+The [[Lore:Fryse Hags|Fryse Hags]] of [[Lore:Solstheim|Solstheim]] are known to venerate Kyne,{{ref|name=Reinhardt|[[Bloodmoon:Reinhardt Red-Spear|Reinhardt Red-Spear]]'s dialogue in ''[[Morrowind:Morrowind|Morrowind]]: [[Bloodmoon:Bloodmoon|Bloodmoon]]''}} and the [[Lore:Greybeards|Greybeards]] claim to act in her name on the rare occasions that they speak.{{Ref|[[Skyrim:The Horn of Jurgen Windcaller|Proclamation of the Greybeards]] in ''[[Skyrim:Skyrim|Skyrim]]''}} The [[Lore:Keepers of the Grove|Keepers of the Grove]] are part of a holy order dedicated to Kyne, serving as the tenders of the Shrine of Kynesgrove in the eponymous city.{{ref|name=KOTG|{{Cite Book|Keepers of the Grove (book)}}}}
+
+[[Lore:Aurora|Auroras]] are sometimes referred to as "Kyne's lights".{{ref|name=EGTSkyrim|{{Cite Book|EGT|Skyrim}}}} Fountains imbued to emit magical auroras were dedicated to the goddess.{{Ref|name=Crown|[[Online:Fountain, Kyne's Radiance|Fountain, Kyne's Radiance]] in [[Online:Online|ESO]]}}
+
+The [[Lore:Reachmen|Reachmen]] [[Lore:Dreadhorn Clan|Dreadhorn Clan]] is known for their use of shamanistic Kyne magic.{{ref|name=ESOLiveFALK|group=UOL|[[General:ESO Live - Tour of Falkreath Hold‎|ESO Live - Tour of Falkreath Hold‎]]}}
+{{NewLeft}}
+
+==Aspects==
+*[[Lore:Khenarthi|Khenarthi]]
+*[[Lore:Kynareth|Kynareth]]
+*[[Lore:Tava|Tava]]
+
+==Gallery==
+<gallery>
+File:ON-place-Shrine to Kyne.jpg|A shrine to Kyne<br>(ESO)
+File:ON-place-Shrine of Kyne.jpg|A shrine of Kyne in Coldharbour<br>(ESO)
+File:SR-item-The Gauldur Amulet.jpg|A token of Kyne<br>(Skyrim)
+File:ON-node-Kyne's Tears.jpg|Kyne's Tears<br>(ESO)
+File:ON-texture-NordTempleBannerKyne.png|Nordic temple banner of Kyne<br>(ESO)
+File:ON-furnishing-Kyne's Aegis Banner, Hanging.jpg|Kyne's Aegis banner<br>(ESO)
+File:ON-statue-Kyne Relief.png|Carving of Kyne<br>(ESO)
+File:SR-item-Hawk Totem.jpg|Hawk totem<br>(Skyrim)
+File:ON-place-Labyrinthian Totam 02.png|Hawk totem<br>(ESO)
+File:SR-creature-Guardian Troll Spirit.jpg|One of Kyne's [[Lore:Guardian Spirit|Guardian Spirit]] champions<br>(Skyrim)
+File:ON-mount-Stormsurge Howler.jpg|A Stormsurge Howler, said to have been crafted by Kyne<br>(ESO)
+File:ON-crown store-Kyne's Fury.jpg|Mortals imbued with Kyne's wrath<br>(ESO)
+</gallery>
+
+==See Also==
+* {{Book Link|Divines and the Nords}}
+* {{Book Link|Goddess of Storm, Mother of Nords}}
+* {{Book Link|Hymn to Kyne}}
+* {{Book Link|Kyne's Tears}}
+* {{Book Link|Varieties of Faith: The Nords}}
+
+==References==
+<references/>{{UOL}}
+<references group=UOL/>{{Lore Nord Religion}}{{Lore Reachman Religion}}</noinclude>

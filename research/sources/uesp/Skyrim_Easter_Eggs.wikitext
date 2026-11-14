@@ -1,0 +1,204 @@
+{{protection|semi|move}}{{Featured Article}}
+{{Trail}}
+{{notice|This page is for Easter eggs only. Easter eggs include inside jokes, pop culture references, and any similar reference to something ''outside the Elder Scrolls games''. For other points of interest, like [[Skyrim:Unfinished Quests|unfinished quests]], or [[Skyrim:Elder Scrolls Historical References|references to other games in the ''Elder Scrolls'' series]], please see the appropriate pages.}}
+
+'''Easter eggs''' are secrets that the developers put in the game to give people a laugh when they find them. [[Skyrim:Skyrim|Skyrim]] has a large number of such jokes. Easter eggs differ from in-game references in that they have been intentionally hidden from the player and are unusual with regards to their surroundings.
+
+'''Cultural references''' are objects, characters, or events in the game that refer to a specific element of popular culture; they differ from Easter eggs in that they are usually integrated into the game world, and strong parallels can be drawn between the in-game event and the specific work being referenced. Cultural references also include allusions to elements of real-world culture, such as historical events and folklore.
+
+If you think you have found an Easter egg or reference, please post your idea on this article's [[Skyrim talk:Easter Eggs|talk page]] before adding it to this article.
+
+==Easter Eggs==
+===Aiming for the Bucket===
+* A room in the main area of [[Skyrim:Fort Dunstad|Fort Dunstad]] appears to be a latrine. In this room, on a stone shelf beside one of the "toilets" is a [[Skyrim:Potion of True Shot|Potion of True Shot]], a possible joke by the game's developers about aiming during urination.
+
+===Erik the Slayer===
+* The character [[Skyrim:Erik|Erik]] is based on [[General:Erik West|Erik West]], who was known as "ImmoktheSlayer" online and who died of cancer in May 2011. The Make-a-Wish Foundation arranged for Erik to visit Bethesda Softwork's offices during the development of the game, leading to the subsequent creation of the character as a tribute.{{ref|RoyStaff, Matthew K. [https://www.salemnews.com/news/local_news/stricken-by-cancer-teen-never-stopped-smiling/article_1b934673-edf9-5272-906e-c097a0225c63.html Stricken by cancer, teen never stopped smiling — Salem News] (2011-05-23). [https://web.archive.org/web/20160414195047/https://www.salemnews.com/news/local_news/stricken-by-cancer-teen-never-stopped-smiling/article_1b934673-edf9-5272-906e-c097a0225c63.html Archived] from the original on 2016-04-14.}}
+
+===The Lusty Riekling{{DB}}===
+* In [[Skyrim:Benkongerike|Benkongerike]] there is a riekling hut tucked away all by itself. It is full of dozens of copies of ''[[Skyrim:The Lusty Argonian Maid|The Lusty Argonian Maid]]'' and multiple bundles of linen cloth. ''The Lusty Argonian Maid'', a pornographic play, and the linen cloths, which are similar to tissues or any other device used to clean up a mess, are both closely associated with masturbation. There is also a telekinesis spell tome hidden under the books, and in Skyrim, telekinesis is used to make items come to you...
+
+===Moving Statues===
+* When entering [[Skyrim:Sovngarde (place)|Sovngarde]] during the main quest, several of the statues lining the stone steps that lead down from the portal to [[Skyrim:Skuldafn|Skuldafn]] will rotate as you descend.
+
+==Cultural References==
+__NOTOC__
+{| id="toc" class="toc vtop noprint" style="margin:0 auto"
+! style="text-align:center; padding:0 1em;" | A-D
+! style="text-align:center; padding:0 1em;" | F-L
+! style="text-align:center; padding:0 1em;" | L-R
+! style="text-align:center; padding:0 1em;" | S-W
+|-
+| style="padding:0.5em 1em;" | [[#Alice in Wonderland|Alice in Wonderland]]<br>[[#Annie|Annie]]<br>[[#Arthurian Lore|Arthurian Lore]]<br>[[#Azaran the Cruel|Azaran the Cruel]]<br>[[#CastlevaniaDG|Castlevania]]<br>[[#Celtic MythologyDG|Celtic Mythology]]<br>[[#Charon's Obol|Charon's Obol]]<br>[[#Choose Your Own Adventure|Choose Your Own Adventure]]<br>[[#Chris Kluwe|Chris Kluwe]]<br>[[#Cicero|Cicero]]<br>[[#CuSith and GarmrDG|CuSith and Garmr]]<br>[[#Dungeons and Dragons|Dungeons and Dragons]]
+| style="padding:0.5em 1em;" | [[#Fafhrd and the Gray Mouser|Fafhrd and the Gray Mouser]]<br>[[#Fishy Stick|Fishy Stick]]<br>[[#Galaxy Quest|Galaxy Quest]]<br>[[#GhostbustersDG|Ghostbusters]]<br>[[#The Hangover|The Hangover]]<br>[[#How to Win Friends and Influence People|How to Win Friends and Influence People]]<br>[[#Hunt the Wumpus|Hunt the Wumpus]]<br>[[#Icelandic Folklore|Icelandic Folklore]]<br>[[#Indiana Jones|Indiana Jones]]<br>[[#Interview with the Vampire|Interview with the Vampire]]<br>[[#The Legend of Sleepy Hollow|The Legend of Sleepy Hollow]]<br>[[#The Legend of Zelda|The Legend of Zelda]]
+| style="padding:0.5em 1em;" | [[#Love Potion No. 9|Love Potion No. 9]]<br>[[#Minecraft|Minecraft]]<br>[[#The Mourning Bride|The Mourning Bride]]<br>[[#Norse Mythology|Norse Mythology]]<br>[[#Novembers DoomDG|Novembers Doom]]<br>[[#Number of the Beast|Number of the Beast]]<br>[[#Pac-Man|Pac-Man]]<br>[[#Pied Piper of Hamelin|Pied Piper of Hamelin]]<br>[[#Poltergeist|Poltergeist]]<br>[[#The Princess Bride|The Princess Bride]]<br>[[#Red Dwarf|Red Dwarf]]<br>[[#Rocky IV|Rocky IV]]
+| style="padding:0.5em 1em;" | [[#Stopping by Woods on a Snowy Evening|Stopping by Woods on a Snowy Evening]]<br>[[#Shawshank Redemption|Shawshank Redemption]]<br>[[#Star Trek|Star Trek]]<br>[[#Star Wars|Star Wars]]<br>[[#Swedish Metal|Swedish Metal]]<br>[[#The Retching Netch|The Retching Netch]]<br>[[#The Sallow Regent|The Sallow Regent]]<br>[[#Three Billy Goats Gruff|Three Billy Goats Gruff]]<br>[[#William Shakespeare|William Shakespeare]]<br>[[#William Blake|William Blake]]<br>[[#William Tell|William Tell]]
+|}
+
+===Alice in Wonderland===
+* During the quest [[Skyrim:The Mind of Madness|The Mind of Madness]], you will encounter [[Skyrim:Sheogorath|Sheogorath]] and [[Skyrim:Pelagius the Mad|Pelagius the Mad]] having a tea party in the middle of a forest. This is a reference to Lewis Carroll's ''[[wikipedia:Alice in Wonderland|Alice's Adventures in Wonderland]]''.
+
+===Annie===
+* During the quest [[Skyrim:Innocence Lost|Innocence Lost]], when you enter the orphanage, you will hear [[Skyrim:Grelod the Kind|Grelod the Kind]] shout at the children ''"What do you say?"'', to which they respond ''"We love you Grelod, thank you for your kindness!"''. This is very similar to the musical "[[wikipedia:Annie (musical)|Annie]]", in which the orphans were frequently asked ''"WHAT DO YOU SAY?"'' and the response was always ''"We love you Miss Hannigan."''
+[[File:SR-easter egg-Lady of the Lake.jpg|thumb|right]]
+===Arthurian Lore===
+* Northeast of [[Skyrim:Bleakwind Basin|Bleakwind Basin]], protruding from an [[Skyrim:Unmarked Places#Smaller Places of Interest|unmarked small pool]] is a skeletal arm holding a sword. [[Skyrim:The Lady Stone|The Lady Stone]] is also located on a small island in the middle of a lake. These are references to [[wikipedia:Lady_of_the_Lake|The Lady of the Lake]] in Arthurian lore.
+* Just outside of [[Skyrim:Rebel's Cairn|Rebel's Cairn]], northwest of [[Skyrim:Rorikstead|Rorikstead]], you will find a sword in a stone, a well-known icon in Arthurian lore.
+* After starting the [[Skyrim:Ill Met By Moonlight|Ill Met By Moonlight]] quest, you will hunt down a [[wikipedia:White_stag#Myth_and_legend|white stag]], which is found in many Arthurian stories, symbolizing adventure and the hunt.
+
+===Azaran the Cruel===
+*The [[Skyrim:Word Wall|Word Wall]] for the third word of the [[Skyrim:Become Ethereal|Become Ethereal]] shout "Gron" contains a passage in the [[Lore:Dragon Language|Dragon language]], which when translated mentions the name "Azaran the Cruel". [https://thief.fandom.com/wiki/Azaran_the_Cruel Azaran the Cruel] is a character from the ''[[wikipedia:Thief (series)|Thief]]'' series of video games, mentioned in the game ''[[wikipedia:Thief II|Thief II]]''. This is likely an intended reference when considering that the Bethesda video game designer [[wikipedia:Emil Pagliarulo|Emil Pagliarulo]] notably worked on the ''Thief'' games before joining Bethesda in 2002.
+
+===Castlevania{{DG}}===
+* In the room to the left of the grand hall of [[Skyrim:Volkihar Keep|Volkihar Keep]], there is a display case containing a [[Skyrim:Hagraven Claw|hagraven's claw]], a [[Skyrim:Eye of Sabre Cat|sabre cat's eye]], a [[Skyrim:Daedra Heart|daedra's heart]], a [[Skyrim:Food#Dog Meat|dog's ribcage]], and a gold ring. This is a nod to [[wikipedia:Castlevania II: Simon's Quest|Castlevania II]], in which Simon Belmont must collect and destroy the nail, eyeball, heart, ring, and ribcage of Dracula to defeat him.
+[[File:SR-easter egg-Castlevania.jpg|thumb|right|What a horrible night to have a curse...]]
+
+===Celtic Mythology{{DG}}===
+* Two [[Skyrim:Husky|huskies]], [[Skyrim:Bran|Bran]] and [[Skyrim:Sceolang|Sceolang]], are present in [[Skyrim:Fort Dawnguard|Fort Dawnguard]]. In Celtic mythology, the hunter-warrior [[Wikipedia:Fionn mac Cumhaill|Fionn mac Cumhaill]] (Finn McCool) had two previously human hounds sharing these same names.
+
+===Charon's Obol===
+* In [[Skyrim:Shalidor's Maze|Shalidor's Maze]], opening one of the shutters within the maze reveals a [[:File:SR-easter_egg-Shalidor's Maze.jpg|severed head with a gold coin]] in its mouth. This is a reference to [[Wikipedia:Charon%27s_obol|Charon's Obol]], the ancient Greek and Roman custom of placing a coin in the mouth of the deceased prior to burial.
+
+===Choose Your Own Adventure===
+* ''[[Skyrim:Kolb & the Dragon|Kolb & the Dragon]]'' is a book written in the style of [[wikipedia:Choose Your Own Adventure|Choose Your Own Adventure]].
+
+===Chris Kluwe===
+* A character named Kluwe "''who went by Loate when hiding his face''" appears as a member of Ysgramor's Five Hundred Companions in the book [[Skyrim:Songs of the Return, Vol 7|Songs of the Return, Volume 7]]. This is a reference to ex-Minnesota Vikings punter [[wikipedia:Chris Kluwe|Chris Kluwe]], who played World of Warcraft for several years as a troll rogue named Loate. 
+
+===Cicero===
+* In the Dark Brotherhood quest line, you will encounter an assassin named [[Skyrim:Cicero|Cicero]]. This is likely a reference towards the Roman philosopher and statesman [[wikipedia:Cicero|Cicero]], who was a close friend of [[wikipedia:Gaius Cassius Longinus|Cassius]], one of the assassins of Caesar, and openly endorsed the assassination after it had passed.
+* Additionally, the historical Cicero continually opposed Rome's transition from Republic to Empire, and was an enemy of Caesar's eventual successor Marc Antony, regularly attacking him in speeches. He was proscribed as an enemy of the state by the authoritarian [[wikipedia:Second Triumvirate|Second Triumvirate]] (which Marc Antony was a part of) and executed. This roughly mirrors the fate of in-game Cicero, who opposes the corruption of the Dark Brotherhood's traditional organization structure under the personalistic leadership of Astrid, who orders his death after he attacks her to "save" the Brotherhood.
+
+===CuSith and Garmr{{DG}}===
+*The [[Skyrim:Death Hound|death hounds]] [[Skyrim:CuSith|CuSith]] and [[Skyrim:Garmr|Garmr]] are references to [[wikipedia:Cù Sìth|Cù Sìth]] and [[wikipedia:Garmr|Garmr]], two legendary dogs from Scottish and Norse mythology, respectively.
+[[File:SR-quest-Liar's Retreat 03.jpg|thumb|right|Rahd's body next to Longhammer]]
+
+===Dungeons and Dragons===
+* If you go back up the road from [[Skyrim:Riverwood|Riverwood]] to where you exited the cave after the prologue, there is a cave called [[Skyrim:Embershard Mine|Embershard Mine]]. This refers to the popular [[wikipedia:Dungeons and Dragons|Dungeons and Dragons]] podcast that Mike Krahulik, Jerry Holkins, Scott Kurtz, and Wil Wheaton played in to showcase the new fourth edition of the game. In it, Scott Kurtz's character, Binwin Bronzebottom, refers to how his dwarven father stopped drinking because the Embershard family of dwarves stole their mine. A [[Skyrim:Tattered Journal (Embershard Mine)|note]] found on a skeleton refers to the same, but with a [[Skyrim:Nord|Nordic]], not dwarven, theme. 
+*In the cave [[Skyrim:Liar's Retreat|Liar's Retreat]], you will find a [[Skyrim:Breton|Breton]] named [[Skyrim:Rahd|Rahd]], dead on an altar, who is referred to at one point as "Longhammer" (and carries a [[Skyrim:The Longhammer|weapon]] by the same name). This is a reference to the 4th session of the D&D group Acquisitions Incorporated played by the members of Penny Arcade, PVP, and Wil Wheaton, in which Wheaton's character is rescued from hell along with an NPC named Rad Longhammer.
+
+===Fafhrd and the Gray Mouser===
+* In [[Skyrim:The Ratway|the Ratway]], the first enemies you meet are a sneaky-looking fellow and a barbarian type called [[Skyrim:Drahff|Drahff]] and [[Skyrim:Hewnon Black-Skeever|Hewnon Black-Skeever]]. This references the adventures of Fritz Leiber's "Fafhrd and the Gray Mouser". Drahff is an anagram of Fafhrd, "Black-Skeever" is a play on "Gray Mouser", and Hewnon is an anagram of Nehwon, the world in which Fafhrd and the Gray Mouser live.
+
+===Fishy Stick===
+* When near [[Skyrim:Sheogorath|Sheogorath]], he will sometimes say ''"Do you mind? I'm busy doing the fishstick. It's a very delicate state of mind!"'' This is a reference to the [[General:Fishy Stick|Fishy Stick]] meme which began on Bethesda's [http://forums.bethsoft.com/forum/13-the-elder-scrolls/ Official Forums] and went on to become a running gag in TES games.
+
+===Galaxy Quest===
+* When you first enter the [[Skyrim:The Frozen Hearth|Frozen Hearth]] in Winterhold, the innkeeper will complain to [[Skyrim:Nelacar|Nelacar]] about conducting experiments at the inn&mdash;''"Like some horrible monster was turned inside out, and then exploded."''&mdash;a line very similar to one from the movie [http://www.imdb.com/title/tt0177789/quotes?qt=qt0424466 Galaxy Quest].
+
+===Ghostbusters{{DG}}===
+* While in the [[Skyrim:Soul Cairn|Soul Cairn]], some souls will say ''"Death is but a door, time is but a window. I'll be back."'' These are the last words of Vigo the Carpathian, a character voiced by [[Skyrim:Voice Actors#Max von Sydow|Max von Sydow]], before his brutal death in [[wikipedia:Ghostbusters II|''Ghostbusters II'']].
+
+===The Hangover=== 
+* The quest [[Skyrim:A Night To Remember|A Night To Remember]] is an homage to the movie [[wikipedia:The Hangover|The Hangover]]. In the quest, you travel around [[Skyrim:Skyrim|Skyrim]] looking for your drinking buddy [[Skyrim:Sam Guevenne|Sam]] and cleaning up all the problems you created while you were drunk.
+
+===How to Win Friends and Influence People===
+* The miscellaneous objective to help hold citizens as a step towards becoming a [[Skyrim:Thane|thane]] is referred to in the game's files as [[Skyrim:Making Friends and Influencing People|Making Friends and Influencing People]], a reference to [[wikipedia:Dale Carnegie|Dale Carnegie]]'s bestselling self-help book [[wikipedia:How_to_Win_Friends_and_Influence_People|How to Win Friends and Influence People]]. These files can only be viewed on PC with the [[Skyrim:Console|console]] or the [[Skyrim Mod:Creation Kit|Creation Kit]].
+
+===Hunt the Wumpus===
+* The possible follower [[Skyrim:Belrand|Belrand]] occasionally mentions a game he played as a child, "Seek the Wumpus", derived from the classic computer game [[wikipedia:Hunt the Wumpus|Hunt the Wumpus]].
+
+===Icelandic Folklore===
+* The runic wheel on the second page of the [[Skyrim:Oghma Infinium|Oghma Infinium]] is based on the [[wikipedia:Vegvísir|Vegvísir]], an Icelandic magical sigil circa 17th century.
+
+===Indiana Jones===
+* When [[Skyrim:Athis|Athis]] is asked why he joined the [[Skyrim:Companions|Companions]], his response is ''"Fortune and glory, friend. Fortune and glory."'' This is a reference to a very similar line from ''[[wikipedia:Indiana Jones and the Temple of Doom|Indiana Jones and the Temple of Doom]]''.
+
+===Interview with the Vampire===
+* In the Dark Brotherhood, there is a vampire named [[Skyrim:Babette|Babette]]. In Anne Rice's novel ''[[wikipedia:Interview with the Vampire|Interview with the Vampire]]'', Babette is the protagonist's first love interest. The body of a young girl, however, is a reference to Claudia, the protagonist's "daughter", who was over 70 years old in the body of a 5 year old.
+[[File:SR-easter egg-Legend of Sleepy Hollow.jpg|thumb|right|The Headless Horseman]]
+
+===The Legend of Sleepy Hollow===
+* During the night, you may encounter a [[Skyrim:Headless Horseman|Headless Horseman]], a reference to Washington Irving's "[[wikipedia:The Legend of Sleepy Hollow|The Legend of Sleepy Hollow]]".
+
+===The Legend of Zelda===
+* During the quest [[Skyrim:Proving_Honor|Proving Honor]], the Companion [[Skyrim:Farkas|Farkas]] says to you ''"It's a secret to everybody."'', a phrase popularized by ''[[wikipedia:The Legend of Zelda|The Legend of Zelda]]'' video games.
+
+===Love Potion No. 9===
+* In the quest [[Skyrim:Salt for Arcadia|Salt for Arcadia]], you will deliver [[Skyrim:Frost Salts|frost salts]] to the alchemist [[Skyrim:Arcadia|Arcadia]], who says she intends to use it to create a love elixir. This is a nod to the 1992 movie [[wikipedia:Love Potion No. 9 (film)|Love Potion No. 9]], where the love potion at issue turned out to be concentrated salt.
+
+===Minecraft===
+* At the top of the [[Skyrim:Throat of the World|Throat of the World]], you can find a [[Skyrim:Notched Pickaxe|Notched Pickaxe]] that provides a bonus to [[Skyrim:Smithing|Smithing]]. The name (Notch is the nickname of the creator of Minecraft), the tool (the pickaxe is a commonly used tool in Minecraft), and the bonus (a major part of Minecraft is to create your own equipment) are all references to Minecraft.
+
+===The Mourning Bride===
+* A line of text found on the Dragon Wall containing the second word of the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint shout]] states that "Oblivion hath no Fury like [a] shield maiden scorned." This is a play on the adage "[[wiktionary:hell hath no fury like a woman scorned|Hell hath no fury like a woman scorned]]", which was coined by William Congreve in his play [[wikipedia:The Mourning Bride|''The Mourning Bride''.]]
+
+===Norse Mythology===
+* In the quest [[Skyrim:Promises to Keep|Promises to Keep]], you are able to get a [[Skyrim:Frost's Identity Papers|birth certificate]] mentioning Sleipnir, the great grandsire (grandfather) of [[Skyrim:Frost|Frost]]. [[wikipedia:Sleipnir|Sleipnir]] is the eight-legged horse of Odin in Norse mythology. Frost's sire is [[wikipedia:Grani|Grane]], another horse of Norse mythology (Grani in the myths). Grani is a descendant of Sleipnir, and is named by Sigurd due to Odin's advice. Frost's great damsire is Loka, which is possibly a reference to [[wikipedia:Loki|Loki]] the god, who was Sleipnir's mother. 
+
+===Novembers Doom{{DG}}===
+* Several of the souls in the Soul Cairn will say ''"I live in a dark world, where no light shines through. I carry this burden with every step I take."'' These are lyrics from the song ''Dark World Burden'' by death metal band [[wikipedia:Novembers Doom|Novembers Doom]].
+* The souls may also say ''"Only those who have suffered long can find the light within the shadows"'', which are lyrics from ''The Pale Haunt Departure''.
+
+===Number of the Beast===
+* In the quest [[Skyrim:The_Cure_for_Madness|The Cure for Madness]], [[Skyrim:Astrid|Astrid]]'s horse [[Skyrim:Shadowmere|Shadowmere]] resurrects from a pool of murky water. When this happens, a journal entry reading "Behold Shadowmere" is presented. The relevant quest stage for this entry is 666 and is clearly referring to "the number of the beast", a common association in mainstream Satanism/demonism as well as in popular culture. It should be noted that quest stages can only be observed on the PC version through the [[Skyrim:Console|console]] or [[Skyrim Mod:Creation Kit|Creation Kit]].
+[[File:SR-easter egg-Pac-Man.jpg|thumb|right|Nom nom nom!]]
+
+===Pac-Man===
+* In [[Skyrim:Endon|Endon's]] [[Skyrim:Endon's House|house]] in [[Skyrim:Markarth|Markarth]], there is a shelf where [[Skyrim:Garlic|garlic]], [[Skyrim:Glow Dust|glow dust]], sliced goat cheese, and a [[Skyrim:Slaughterfish Egg|slaughterfish egg]] are arranged to resemble [[wikipedia:Pac-Man|Pac-Man]] eating several pac-dots.
+
+===Pied Piper of Hamelin===
+* In the quest [[Skyrim:Dampened Spirits|Dampened Spirits]], you encounter a not-quite-sane mage named [[Skyrim:Hamelyn|Hamelyn]], whose journal describes how he has created an army of [[Skyrim:Skeever|skeevers]]. This is a reference to the famous story of the [[wikipedia:Pied Piper|Pied Piper of Hamelin]]. 
+
+===Poltergeist===
+* In the quest [[Skyrim:The House of Horrors|The House of Horrors]], when you become locked in the abandoned house in Markarth and the poltergeist activity starts, there are a load of chairs stacked in a precarious manner on a table. This is probably a reference to the famous scene in the 1982 movie [[wikipedia:Poltergeist (1982 film)|Poltergeist]], where the entities haunting the family's house do exactly the same thing.
+
+===The Princess Bride===
+* During combat, [[Skyrim:Brynjolf|Brynjolf]] may exclaim ''"So it's to the pain then!"'' This is a reference to Westley's famous threat to Prince Humperdinck in ''[[wikipedia:The Princess Bride (film)|The Princess Bride]]''.
+
+===Red Dwarf===
+* In the quest [[Skyrim:The Mind of Madness|The Mind of Madness]], Pelagius' [[Skyrim:Confidence (NPC)|Confidence]] and [[Skyrim:Anger|Anger]] are manifest as actual beings fighting each other, and Paranoia is one section of Pelagius' mind that must be overcome. The conflict between Confidence and Anger is similar to an early episode of the British sci-fi comedy [[wikipedia:Red Dwarf|Red Dwarf]], when during the episode "Confidence and Paranoia", Dave Lister contracts a mutated disease and his Confidence and Paranoia are made into human form as an effect of his illness, during which time they strive to undermine and eventually kill one another.
+
+===Rocky IV===
+* A generic piece of dialogue sometimes uttered by male drunks and bandits during a fight is ''"Remember... hit the one in the middle!"'' This is the advice given by Paulie in [[wikipedia:Rocky IV|''Rocky IV'']] to help Rocky overcome [[wikipedia:Diplopia|double vision]], which can be caused by both drunkenness and head trauma.
+
+===Stopping by Woods on a Snowy Evening===
+* The quest title [[Skyrim:Promises to Keep|Promises to Keep]] is a line from the poem [[wikipedia:Stopping by Woods on a Snowy Evening|Stopping by Woods on a Snowy Evening]], and the quest-related horse "[[Skyrim:Frost|Frost]]" is an homage to the poem's author, Robert Frost.
+
+===Shawshank Redemption===
+* You can talk to [[Skyrim:Enthir|Enthir]] at the [[Skyrim:College of Winterhold (place)|College of Winterhold]] and say ''"I understand you're an elf who knows how to get things."'' This is a reference to the 1994 film adaption of Stephen King's ''[[wikipedia:The Shawshank Redemption|The Shawshank Redemption]]''.
+
+===Star Trek===
+* An NPC called [[Skyrim:Temba Wide-Arm|Temba Wide-Arm]] is a reference to a line in a [[wikipedia:Star Trek: The Next Generation|Star Trek: The Next Generation]] episode called "[[wikipedia:Darmok|Darmok]]", where an alien who only speaks in allegories repeatedly says ''"Temba, his arms wide."'' She is a [[Skyrim:Nord|Nord]] residing at the [[Skyrim:Ivarstead|Ivarstead]] sawmill.
+* In the book ''[[Skyrim:Great Harbingers|Great Harbingers]]'', [[Lore:Cirroc the Lofty|Cirroc the Lofty]] is listed as the first Harbinger of the Companions to be an outsider. The name alludes to [[wikipedia:Cirroc Lofton|Cirroc Lofton]], the actor that played Jake Sisko in the television series [[wikipedia:Star Trek: Deep Space Nine|Star Trek: Deep Space Nine]].
+* When speaking to [[Skyrim:Urag gro-Shub|Urag gro-Shub]] (the librarian at the [[Skyrim:College of Winterhold (place)|College of Winterhold]]), he will eventually say ''"But at the same time, all of it is true. Even the falsehoods. Especially the falsehoods."'' This is very likely an homage to [http://youtu.be/t02v9EUHs30?t=2m this] exchange between Garak and Bashir in Star Trek: Deep Space Nine.
+[[File:SR-easter egg-Star Wars.jpg|thumb|right]]
+
+===Star Wars===
+* If you venture into [[Skyrim:Bleakcoast Cave|Bleakcoast Cave]], you will find inside some interesting things. The first is a [[Skyrim:Troll#Frost_Troll|frost troll]]; once you have found and killed the frost troll, nearby will be a skeleton hanging upside down from the ceiling with a [[Skyrim:Weapons#Greatswords|sword]] on the ground. This is a reference to ''[[wikipedia:The Empire Strikes Back|Star Wars Episode V: The Empire Strikes Back]]'', in which [[wikipedia:Luke Skywalker|Luke Skywalker]] finds himself trapped by a [[wikipedia:List of Star_Wars creatures#Wampa|Wampa]] in a cave and uses [[wikipedia:The Force|The Force]] to reach for his [[wikipedia:Lightsaber|lightsaber]]. A similar reference appeared in the Morrowind expansion [[Bloodmoon:Easter Eggs#The Empire Strikes Back...|Bloodmoon]].
+*In the book [[Skyrim:Fishing Mastery, v5|Fishing Mastery v5]], Swims-In-Deep-Water claims that "there is always a bigger fish", referencing an often quoted line from the character [[wikipedia:Qui-Gon Jinn|Quin-Gon Jinn]] in ''[[wikipedia:Star Wars: Episode I – The Phantom Menace|Star Wars: Episode I – The Phantom Menace]]'', though the saying itself existed before this.
+
+===Swedish Metal===
+* During the quest [[Skyrim:Darkness Returns|Darkness Returns]], you can recover [[Skyrim:Nystrom's Journal|Nystrom's journal]], detailing a plot by two individuals to try and infiltrate the dungeon and its priests. The two are Nystrom and Anders, a reference to Anders Nystrom, guitarist and songwriter from Swedish metal band [[wikipedia:Katatonia|Katatonia]].
+** The unknown phrases in the last paragraph (''"He also mumbled some nonsensical phrases like 'night is the new day' and how he was the 'ghost of the sun.' I have no idea what these cryptic sentiments mean, but hopefully during tomorrow's ritual, Anders and I will put everything we've learned to the test."'') are references to multiple Katatonia albums and songs&mdash;the most obvious being the album ''Night is the New Day'' and the song "Ghost of the Sun" from the album ''Viva Emptiness''.
+** When completing this quest, you will jump into a hole. In the hole is a skeleton containing [[Skyrim:Anders's Message|Anders's message]].
+
+=== {{Anchor|The Retching Netch}}{{DB}}===
+* When prompted, [[Skyrim:Geldis Sadri|Geldis Sadri]] will tell the player the story of how his cornerclub, [[Skyrim:The Retching Netch|The Retching Netch]], was named. This story is a reference to a similar story of a drunken outburst in the 1996 film [[Wikipedia:Twister_(1996_film)|''Twister'']]: ''"So he strolls up to the twister and says 'Have a drink!' and he chucks the bottle into the twister and it never hits the ground!"''
+
+=== {{Anchor|The Sallow Regent}}{{DB}}===
+* In [[Skyrim:White Ridge Barrow|White Ridge Barrow]], a book named ''[[Skyrim:Black Book: The Sallow Regent (book)|The Sallow Regent]]'' rests on a stone pedestal. According to its author [[General:Shane Liesegang|Shane Liesegang]], it is a reference to the fictional play ''[[Wikipedia:The king in yellow|The King in Yellow]]'', which was used as a recurring motif in a collection of short stories published by [[Wikipedia:Robert_W._Chambers|Robert W. Chambers]] in 1895, and later incorporated into the [[Wikipedia:Cthulhu_Mythos|Cthulhu Mythos]]. The fictional author's name for that book, "Hawfip the Crafter", is a play on [[Wikipedia:H. P. Lovecraft|Howard Philips Lovecraft]].
+
+===Three Billy Goats Gruff===
+* Directly south of [[Skyrim:Markarth|Markarth]], near [[Skyrim:Purewater Run|Purewater Run]], there is a stone bridge near a waterfall. If it is your first time there, you will see three goats; upon looking under the bridge, you will find a dead troll. This is a reference to the children's story "[[wikipedia:Three Billy Goats Gruff|Three Billy Goats Gruff]]". A similar reference was [[Oblivion:Easter Eggs#Literature|also found in Oblivion]].
+
+===William Shakespeare===
+* [[Lore:Peryite|Peryite]], the [[Lore:Daedric Princes|Daedric Prince]] of plague and pestilence, has a [[Skyrim:Shrine to Peryite|shrine]] dedicated to him on a cliff in the wilderness of [[Skyrim:The Reach|the Reach]]. In an alcove at the base of the cliff to the southeast, two corpses can be found with poisons and a dagger lying between them, a reference to William Shakespeare's ''[[wikipedia:Romeo and Juliet|Romeo and Juliet]]'' (and to the famous line in Act 3, scene 1, 90–92).
+* The name of the quest [[Skyrim:Ill Met By Moonlight|Ill Met By Moonlight]] is directly taken from the line ''"Ill met by moonlight, proud Titania.''", spoken by the fairy king Oberon in Act 2 of ''[[wikipedia:A Midsummer Night's Dream|A Midsummer Night's Dream.]]''
+
+===William Blake===
+* During the quest [[Skyrim:Unfathomable Depths|Unfathomable Depths]], you will encounter a dead Argonian named [[Skyrim:Watches-The-Roots|Watches-The-Roots]] in [[Skyrim:Avanchnzel|Avanchnzel]]. In William Blake's ''[[wikipedia:The Marriage of Heaven and Hell|The Marriage of Heaven and Hell]]'', one of the "Proverbs of Hell" states ''"The rat, the mouse, the fox, the rabbet; '''watch the roots'''; the lion, the tyger, the horse, the elephant, watch the fruits."'' In addition, the text of ''The Marriage of Heaven and Hell'' specifically deals with ancient and forbidden knowledge; the reward for the quest is a permanent bonus to smithing, titled "Ancient Knowledge". Blake describes hanging over a pit of spiders in his work said to be a vision of Hell, suggesting the skeleton over the pit in Avanchnzel with four spiders at the bottom may represent Blake.
+[[File:SR-easter egg-William Tell.jpg|thumb|right]]
+
+===William Tell===
+* In [[Skyrim:Swindler's Den|Swindler's Den]] is an archery training dummy with an apple perched on its "head", a nod to the famous story of [[wikipedia:William Tell|William Tell]], the master crossbowman who was forced to shoot an apple off his son's head.
+{{NewLine}}
+
+==See Also==
+* [[Skyrim:M'aiq the Liar|M'aiq the Liar]], the recurring character whose comments are references to events and features of the game (both new and removed), jokes, and Easter eggs.
+* '''{{forums|Skyrim-General Subforum|subpage=viewforum.php?f=38}}''' — A place on the UESP [[UESPWiki:Forums|forums]] where you can discuss Easter eggs related to Skyrim
+
+==References==
+<references/>
+{{Easter Eggs}}
+[[Category:Easter Eggs]]

@@ -1,0 +1,659 @@
+{{Trail|Interviews}}{{AMA|plural=1}}{{Real Summary
+|title=Welcome to the Elsweyr & Update 22 AUA
+|image=GEN-misc-Elsweyr & Update 22 AUA.jpg
+|date=June 3, 2019
+|link=https://www.reddit.com/r/elderscrollsonline/comments/bwdb0r/welcome_to_the_elsweyr_update_22_aua/
+|interviewee=Brian Wheeler (ZOS_BrianWheeler)<br>Gina Bruno (ZOS_GinaBruno)<br>[[General:Leamon Tuttle|Leamon Tuttle]] (ZOS_LeamonTuttle)<br>[[General:Matt Firor|Matt Firor]] (ZOS_MattF)<br>Rich Lambert (ZOS_RichLambert)
+|interviewer=[https://www.reddit.com/r/elderscrollsonline/ r/elderscrollsonline]
+|host=[[wikipedia:Reddit|Reddit]]
+|medium=Online
+|format=Forum
+}}
+Posted by '''u/ZOS_GinaBruno''':<br>
+EDIT: It's now 3pm, and we're going to wrap up. Thank you to everyone who came out today! We'll continuing answering a few more questions later today as time allows, but for now, off to more meetings and creating awesome things. Elsweyr hype!
+
+Hello everyone, and welcome to a special AUA celebrating The Elder Scrolls Online: Elsweyr!
+
+We recently launched Elsweyr and Update 22 on PC/Mac on May 20, and will be having our worldwide launch on Xbox One and PlayStation 4 tomorrow, June 4. Along with adding the beautiful zone of Elsweyr, we also added the new Necromancer class and Sunspire Trial as part of the Chapter, and have a number of exciting base game features in Update 22 including the new Volundrung weapon in Cyrodiil and the Guild Finder system, among many other things.
+
+I'm [[General:Gina Bruno|Gina]], one of the Community Managers for ESO. Joining me today for this AUA are:
+
+*{{InsLink|Matt Firor}}, Game Director
+
+*{{InsLink|Rich Lambert|future=1}}, Creative Director
+
+*{{InsLink|Brian Wheeler|future=1}}, Lead Combat & PvP Designer
+
+*{{InsLink|Leamon Tuttle}}, Loremaster
+
+We'll be here answering your questions until 3:00pm EDT. Go ahead and post your questions now if you have them - we'll start answering shortly.
+
+And here's your proof, minus Leamon, who came in late today. {{InsLink|:File:GEN-misc-Elsweyr & Update 22 AUA.jpg|https://imgur.com/a/ejF7W4W}}
+----
+'''dominoid73 (Stickied comment)''':
+The ZOS AUA has ended. Thanks to Gina, Matt, Rich, Brian and Leamon for the great answers and the community engagement.
+----
+'''Dralvok (edited)''': For our loremaster, Leamon Tuttle.
+#What furstock does our playable khajiit belong to? I am under the impression that they are cathay, as they most closely resemble the npcs that claim they are of that variety, such as Narama-ko. (Picture of said Khajiit provided here [[:File:ON-npc-Narama-ko.jpg|https://images.uesp.net/b/b4/ON-npc-Narama-ko.jpg]])
+#Are there any discernable differences between the furstocks of the -raht and non raht varieties?
+#Is a romantic relationship between furstocks that are most distinct from each other, such as an Alfiq and a humanoid Khajiit, frowned upon in Khajiit society? Could they produce a child out of such a relationship?
+#Can we expect to see the new furstocks added to base game content, especially in older zones in Elsweyr such as Reaper's March and Khenarthi's Roost?
+:'''ZOS_LeamonTuttle''':
+:#You're right -- in ESO, players take on the role of a Cathay.
+:#Raht furstock Khajiit tend to be larger than non-raht.
+:#Different furstocks can and do engage in romantic pairings, though some are more physically challenging than others.
+:#As far as I'm aware, we don't have any plans to "backfill" previously released content with the various furstocks.
+----
+'''tennomorph''': When Elsweyr is released, will Summerset be available to buy with crowns, and if so how much? Thanks
+:'''ZOS_RichLambert''': Yep, Summerset will be DLC and will be purchasable for crowns. (3500, just like Morrowind)
+----
+'''NerubianAssassin (edited)''': Hi Matt! Firstly, congratulations on the new Chapter, I had a blast playing it!
+My question is related to new game systems, specifically new weapons.
+#Since the beginning I've always wanted to use spears as a weapon type, are there any plans to add them as a new skill line to ESO? Like a hybrid weapon that could be used either as a 2-handed spear, or as a 1-handed spear/shield.
+#What about other highly requested skill lines such as another magicka weapon (e.g. one hand/rune as seen in the classic Elder Scrolls games)?
+'''EDIT:''' Bonus question, are there any plans to implement a more challenging overworld for veteran players (e.g. a difficulty toggle like Battle Spirit where you'd get debuff like 50% more damage taken and 50% less healing and damage done in exchange for a chance for mobs to drop zone furnishings and/or other rare items). It is disappointing to see solo quest bosses being hyped up as super powerful, then dying in 10 seconds.
+:'''ZOS_MattF (edited)''': Hello! We have no plans on implementing spears, but we have talked off and on about cool ways to do the one hand magic/one hand weapon thing. That's not on our roadmap anywhere, but we have been brainstorming.
+
+:There are so many cool things we could do! Seriously, we love these ideas too, but it all comes down to a matter of time and priorities.
+
+:EDIT: to respond to your edit. Yes, we've talked about this, in fact we tried to get that into the game as part of One Tamriel, but we just couldn't get it done. So we have ideas on how to have difficulty settings for overland content, but it's not currently planned. It's a great idea.
+----
+'''IllusiveManJr''': Congratulations on the launch of Elsweyr! I'm greatly enjoying the expansion so far.
+Was it challenging designing the zone in the sense of its varying elevations and canyons/tall hills everywhere?
+:'''ZOS_RichLambert''': Any time we go to build a new zone, there are always challenges - the team always tries to one up themselves. :)
+
+:For Elsweyr, one of our biggest challenges was making each of the biomes look unique and different... especially in the desert. In addition, making sure the zone was easy to navigate is something we spent a lot of time on. As you note, there's canyons and tall hills everywhere in the zone, so this was a big challenge!
+----
+'''WeCannotStopHere''': Any plans to fix necromancer skills? Blastbones in particular. Both the damage being lower than it should, as well as terrible AI pathing and movement in general.
+
+The pummeling Goliath ultimate is really over performing. Is there any plan to look at this skill?
+
+Volundrung: Is there any chance that the weapon will be made not available to be picked up by the alliance which has emperor? It tends to destroy maps at times.
+:'''ZOS_BrianWheeler''': We are looking at Blastbones to make it more reliable, survivable (from the pet's perspective), and adjusting it's leap logic. We are also looking at the Goliath's bash.
+----
+'''LucasLindburger''': Hello, thank you for doing this AUA. I recently started playing ESO again and have been having so much fun with everything that's been added. Thank you all for your hard work, dedication and time! My question is: Where would you like to see the game go from here (Elsweyr)?
+:'''ZOS_MattF''': We have a roadmap that goes out for a long time, so we obviously know where we're going next year, and I'm not going to spoil that - but I will call out what an awesome privilege it is to work on the Elder Scrolls, which is the perfect IP to do games like this. There is no end of amazing stories to tell and lands to explore.
+----
+'''LukosCreyden''': What classes do you main? Do you ever play together?
+
+Also, hello and thank you for doing this AUA :)
+:'''ZOS_GinaBruno''': I've been enjoying my stam Warden for a while now, and we do sometimes play together! I tend to play late at night after normal people go to bed, though.
+::'''LukosCreyden''': That's cool, y'all should stream yourselves running a vet dungeon or trial together sometime!
+:::'''ZOS_GinaBruno''': Funny you say that, we're likely doing a Sunspire run on our next ESO Live!
+::::'''Valway''': Veteran Hardmode?
+:::::'''ZOS_GinaBruno''': You've seen me play. We only have an hour.
+:'''ZOS_BrianWheeler''': Templar mostly but the Necro is encroaching on that territory... The gang does play together in PVP and PVE!
+:'''ZOS_RichLambert''': I have 2 of each class... a stam and magicka version. If I had to pick just one to be my "main", it would probably have to be my stamina templar.
+
+:...and yes we play quite a bit together. :)
+:'''ZOS_MattF''': I have taken all classes to at least 50 on various servers, but my current mains are a Stamblade and a Stamplar. My nightblade is the same character I've played since launch, although I've respecced her more than a few times. I'm currently working on starting a Necromancer on a live server.
+----
+'''snailsfart''': Hi everyone,
+
+Re: [https://www.elderscrollsonline.com/en-us/news/post/56373 Crown Store Showcase – June 2019] / Alfiq Banker & Merchant
+
+Will there be a way for people who already have the old banker and merchant to upgrade to the Alfiq ones rather having to purchase at full price?
+:'''ZOS_RichLambert''': There is no upgrade feature or program for the banker/merchant.
+::'''Chlorobule''': Since we're on this subject: will the Alfiq Banker and Merchant be part of the Crown Store all year-round like our current ones, or will they be limited and come and go ?
+:::'''ZOS_GinaBruno''': The Alfiq Banker and Merchant are not limited time offers, and will remain on the store similar to the current Assistants.
+----
+'''BrokenGlassesGaming''': Hi there! Are there any plans at all to increase server capacity on top of the revamp to the LFG tool?
+:'''ZOS_MattF''': We added a ton of capacity a month or so ago to PC EU and PC (We were able to disable the EU login queues when we did this), I don't foresee us needing more capacity, although that could change based on increased player demand. We're definitely keeping an eye on things.
+::'''Dedimos''': Hey Matt, could you please read community responses in this thread ([https://forums.elderscrollsonline.com/en/discussion/467936/pc-eu-server-update-april-11/p21 https://forums.elderscrollsonline.com/en/discussion/467936/pc-eu-server-update-april-11/p21]) and think again what you wrote there? What I see there, is massive feedback about PC EU performance, which is in some players opinions - worse - than pre-upgrade. Thanks
+:::'''ZOS_MattF (edited)''': There is a difference between adding capacity and addressing performance issues - they are tangentially related, but no the same thing. I'll type up a longer response to this overall message (I have been working on this already) and will post as a response to the overall AMA. Thanks for the nudge.
+
+:::Update: posted
+::::'''Dedimos''': Thanks for response, I know differences. Some issues are client bottleneck related, some others are related to server capacity - PC EU players became impatient - they wait for any kind of information on whats going on, and what they can expect, even some kind of ETA, even long one, could tune down collective concern. Players would be happy to see improved communication on topics that most of veteran players care about. Cheers
+:::::'''ZOS_MattF''': Amen - we need to be better about communicating, especially with these long-term projects.
+----
+'''horsewitnoname''': Hey guys thanks for doing this.
+
+This update was amazing and brought me back to the game after almost two years away. Really incredible what you've done!
+
+One big difference between the big MMO's that gets brought up a decent amount here is difficulty -specifically regarding veteran trials.
+
+How do you guys gauge difficulty when creating a new trial like vSS? Does the team decide early on how difficult you want the trial to be? Do you try to make each trial more difficult than the last or do you want each trial to feel unique, even if that means sacrificing difficulty?
+:'''ZOS_RichLambert''': Our philosophy has definitely changed over the years when it comes to accessibility and difficulty in both dungeons and trials. We're pretty happy with where we are right now:
+:*Normal is very accessible
+:*Veteran gives most players a challenge
+:*Veteran Hardmode - hard modes on bosses are tuned to be the hardest content in the game. As this is more of an opt-in avenue, we figure if players really want the challenge, its up to them.
+----
+'''shredsticks''': Hey thanks for they AUA! Elsweyr is amazing! Are there any plans in the future to expand the housing limit?
+:'''ZOS_RichLambert''': The furnishing cap is in place for performance reasons... we can't increase the cap currently as we have to ensure a stable experience for everyone.
+
+:Once we get some of the performance improvements we have planned implemented, we can revisit those limits.
+::'''envie42''': Not sure if you guys check replies later after the AUA is over, but I just wanted to thank you for all of the great housing options. As a new player who just returned to the game, I'm astounded at the amount of creative housing choices you've added. I would like to suggest more medium range housing options for the 'freeform' builder if possible. What I mean is, open spaces like Earthtear Cavern and the Coldharbor one, but on a smaller, more 'personal' space level rather than grande/notable. I'd like to build my own house in one open area... rather than be restricted to outdoor garden and 'indoor' houses with rooms. Earthtear is gorgeous but a bit large for what one player might want. Absolutely stunning though, really great work by all your artsists, thank you so much!
+:::'''ZOS_RichLambert''': we def check back... and I'll pass the feedback on to the team!
+----
+'''wantondevious''': Can you please fix the quality of life Mac bugs please? Spinning toons, Not quitting cleanly, Hanging Machines (sleeping laptop w game running, sometimes just Safari+Windowed Mode).
+:'''ZOS_RichLambert''': Will follow up with the team on these issues!
+:'''ZOS_GinaBruno''': Sounds like all these issues are known and being worked on.
+----
+'''Viscereality''': Congratulations on Elsweyr, it's very fun and I love the Necromancer.
+
+Something I've always wished for and knew it would never really take priority, is the question if there will ever be a polishing or revamp pass done on older armor items? Floating shoulders, oversized or incorrectly placed helmets (Seriously go look at any hood on a female character, you can nearly see the top of their head from the front!)
+
+Appearance is a pretty massively important aspect to games now, and the collection system is fantastic, but also showcases the weaker designed or older equipment that doesn't really hold up anymore.
+:'''ZOS_RichLambert''': This is definitely one of those things we have to be careful with doing, especially when players have devoted a ton of effort in collecting the sets. We've updated a few older sets in the past, and got a lot of feedback from players saying they liked the old versions better.
+----
+'''sozo108''': Are there any plans to implement account wide achievements? The new class is awesome, but I really don't want to play it or other characters much if they don't help my overall account achievement score when I've got so much progress on my main toon.
+:'''ZOS_RichLambert''': We don't currently have any plans to implement account wide achievements.
+----
+'''mghromme''': Hi there, do you have a favorite vista or scenic point in the new chapter? I'm joining on ps4 tomorrow, looking forward to it!
+:'''ZOS_LeamonTuttle''': For me, just walking around Rimmen is tremendous. The world-builders really outdid themselves there. Also, the Azurah Gate in the Ashen Scar is probably one of my favorite assets in the entire game.
+:'''ZOS_RichLambert''': I'm kinda partial to wandering around the Stitches... I love the canyon and the verticality.
+----
+'''horsewitnoname''': So considering the way gear sets are being introduced with each update, do you foresee any changes coming to the way gear is introduced into the game? Theoretically, it won't be too long until we have tons of sets in the game with the vast majority not being used for anything.
+
+Have you guys had any discussions internally about what to do as this starts to become a problem?
+
+What's your design philosophy when creating new sets for each update? Would love to learn more about the process that goes into it!
+
+Thanks for the awesome update!
+:'''ZOS_BrianWheeler''': When creating new sets we look at what's in the game already and what niche's we can fill with new gear. We also take into consideration the location where new sets are attained to tune the gear to that type of content but still keep it relevant in other portions of the game for various builds. The themes of the area also taken into account so gear is usually named after locations or bosses/key NPCs.
+----
+'''SilverIce58 (edited)''':
+#Will the Tonenaka Shrine be opened up later on, bc when you click on it it says "the Tonenaka shrine is sealed" which alludes to that it might be able to be opened later.
+#In terms of making regular bosses (public dgn/delve bosses) more challenging, have you guys thought about giving them more hp?
+#And finally, who's each of your favorite Daedric Princes?
+:'''ZOS_LeamonTuttle''':
+:3. I love Mehrunes Dagon and Hermaeus Mora, personally.
+:'''ZOS_RichLambert''': For question 2, balance is a tricky thing - what is tuned correctly for one group of players, is impossible for the other. We also have to keep in mind that not all players are at max level or have the top end gear.
+
+:It's something we're constantly evaluating though, and we'll keep it in mind for the future.
+----
+'''Hyascinthe (edited)''': Mr. Tuttle, thank you for making such an incredible contribution to the writing in ESO. I absolutely loved the dialogue with Sotha Sil!
+
+As a massive fan of Ayleids, especially King Anumaril, will we be seeing more lore of them in the future? More writings from Turjhane Fyrre, perhaps?
+:'''ZOS_LeamonTuttle''': Anything's possible! I'm a huge Alessian Slave Rebellion fan, so I'm always excited to dig into Ayleid history. In our Summerset release, we did include a nod to Anumaril in the Psijic questline (related to the Staff of Towers). I guess we'll see as time goes on. :)
+----
+'''CheerKaila''': Hello! Show your characters, please :)
+:'''ZOS_RichLambert''': I post my character screenshots all the time (along with all kinds of other silly things) on twitter. Feel free to follow the adventures there!
+
+:slashlurk is me there.
+----
+'''code65536''': What are your plans to address the ever-increasing power gap between players and the content difficulty gap that arises from this power gap?
+:'''ZOS_RichLambert''': We are talking about the combat systems overall and evaluating how all the parts within it interact. (level, skills, CP, item sets, food/buffs...etc) We don't have any short term changes planned, but its something we are definitely investigating.
+----
+'''Sakegari''': Hi i just want to say its best mmo made by human hand.
+
+Is there any play to change werewolf appearance to match werewolf behemoth memento?
+:'''ZOS_RichLambert''': We don't have plans to change the current werewolf appearance for players.
+----
+'''ALittleBitOfMatthew''': For the Directors:
+
+Any hints on what you are planning to bring to the game beyond the Year of the Dragon in terms of chapters or expansions? If I paid enough attention, I'm pretty sure that the end of the Razum-Dar quest is teasing stories to come.
+
+For the loremaster, Leamon Tuttle:
+
+I absolutely loved the Main Quest for Elsweyr, and I truly believed the writing team outdid themselves this time, but the climax of the story has left me intrigued and so I'd like to ask about it.
+
+Is the ending of the Main Quest, with the portal to the Plane of Jode and the Khajiit living there amidst temples and constructions anyway inspired by out-of-game ideas about "Moon Colonies"?
+
+Thank you!
+:'''ZOS_RichLambert''': Not going to give out any specific hints on where we are going next after this Season of the Dragon... but I will say its going to be awesome!
+----
+'''Coldfreeze-Zero''': Listen this is my most important question: Is the Lunar Moth ever going to be a pet? I crave the cute fluffy thing, I need it to flutter after me.
+
+Secondly: Rich, I met you on Elfia a couple of weeks ago, which really made my day. The book you signed has a place of honor, once again thank you. Also thank you all for making one of my favourite games of all time, in terms of dlc and add-ons I always refer to how you handle your content as to other games. Keep being awesome and here's to another 5 years.
+:'''ZOS_RichLambert''': I honestly don't know about a moth pet... I will follow-up with the team.
+
+:...and I had such a great time at Elfia! It was amazing to meet everyone and talk about ESO!
+----
+'''ViVYer''': 'Ello! Lemme just say I really appreciate the work y'all have put into this game. It's a masterpiece - my de-facto favourite game as of making this post. And congratulations on the release of Elsweyr! Can't wait for the release of Pellitine or whatever else you have in store for us!<br>
+Anyway... for the one-and-only, Loremaster Lemon Turtle:
+#What are your thoughts on the more obscure aspects of lore, like Michael Kirkbride's writings and forum roleplays?
+#Will the game be expanding on the lore of Augurs? Please?
+#How come the Dragons imprisoned in the Halls of Colossus don't speak Dovahzul between intervals, like Paarthurnax or Odahviing do?
+:'''ZOS_LeamonTuttle''':
+:#Are you kidding? I love obscure lore! I'm a big fan of the 36 Lessons, and I love reading reddit apocrypha, etc. TES is an amazing franchise, and it's always exciting to see enthusiastic fans participating in its continued growth.
+:#In terms of Augurs, there are a few. The Augur of the Obscure is likely taking up room on your shelf. You can talk to him any time! As for the Augur of Dunlain, I can't say for sure.
+:#Using Dov words in conversation isn't compulsory for Dragons. Knowing Kaal, he probably doesn't think you're worthy of hearing such regal words!
+----
+'''G0DS_DEMON''': Splitting of Imperial City/Sewers from Cyrodiil: 2 part question...
+#Did they or are they planning to add more ways to gain ap in Imperial City/Sewers ?? Cyrodiil was many different ways, but Imperial City/Sewers only has flipping flags and killing enemy alliance players.
+#Does Imperial City/Sewers have leader boards and an Emperor equivalent like Cyrodiil ??
+:'''ZOS_BrianWheeler''': 1- We are currently not planning on adding more methods to gain AP in Imperial City, but we are looking at methods of encouraging more PVP fights. 2 - There are currently no leaderboards for Imperial City as you cannot Home that campaign.
+----
+'''jtzako''': Will you change the controller user Jump back to the way it was before? Elsweyr update caused it to jump when you release the button rather than when you press it. This makes jumping even more annoying since it adds a bit of delay to it.
+:'''ZOS_MattF''': This is the first I've heard of this, and I primarily play on PC with a controller - I'll look into it.
+----
+'''DiscipleOfMelandru''': What do you prioritize in the game when it comes to time and resources?
+:'''ZOS_RichLambert''': In terms of my personal playtime in game, or what we prioritize in terms of what the team is working on?
+::'''DiscipleOfMelandru''': Thank you for the answer.
+
+::I was interested in the second part. In an earlier question you mention that you're not able to implement certain skill liens at the moment because of time and priorities, which made me curious as to what those other priorities are at the moment.
+:::'''ZOS_RichLambert''': One of the hardest challenges with development is the realities of not having infinite time, people or money. We have to constantly reevaluate and prioritize work efforts.
+
+:::Without going into specifics, we try to find a balance between performance/stability, retention efforts (bug fixing, balance, quality of life improvements...etc) and new features/content.
+----
+'''Delongest_tv''': vMA leader boards are broken and scores are being removed from the all time leader board. This is going on for multiple releases now. Is the team aware? Is there a cause? When will it be fixed? Makes pushing all time scores pointless.
+:'''ZOS_GinaBruno''': We are aware and have been looking into this. At this time, it seems like the scores just aren't appearing and you should still get your reward.
+----
+'''Grundlage''': Hi team -- thanks so much for the work you're poured into this game over the years!
+
+One thing I think many of us loved about Necromancer was how many in-class options it has for stamina builds. When you play a stamina Necromancer it really feels like a full-fledged Necromancer experience.
+
+This makes it all the more painful to think about my stamina sorcerer and stamina templar, who have numerous abilities (passive and active) that have MAGICKA ONLY written all over them. Honestly it sometimes feels like stamsorc and stamplar are the same class except one is purple-ish and the other is gold, since they both rely on the same weapon skills and don't have many class skills to mix in (my stamsorc only uses one actual sorcerer ability!)
+
+Is there any plan to revisit base game classes to give their stamina versions more class identity and have them be less fully reliant on weapon skills?
+:'''ZOS_BrianWheeler''': We look at classes measuring them against each other along with the Necromancer\Warden in terms of delivering an experience that feels appropriate to the Class theme. The Necromancer and Warden opened up the possibility of more stamina based abilities that still fulfill the theme of those classes which we are aware the original four classes don't have just yet.
+----
+'''ALittleBitOfMatthew''': Also, this is a stupid question but I can't resist myself.
+
+Do Ohmes-Raht have cat ears or elf ears?
+:'''ZOS_LeamonTuttle''': What's the difference? They're both pointy. :P
+----
+'''Jorgesarrada''': First of all, I'd like to thank all the ZOS team for delivering what I think to be the best content I've ever played in the ESO. THANK YOU!
+
+Now, are we going to get the Bard's College DLC to see the light of the day? Or at least a personality? This has been my top 1 wish after Elsweyr and I very much noticed you get to deliver exactly what the community wants (Summerset, Jewel Crafting, Elsweyr, Necromancers, dragons).
+
+I must say that while facing daedric entities, dragons and such, we would pretty much enjoy a content similar to the Thieves Guild and the Dark Brotherhood. All and all the TES games are rich and diverse not only because we get to save the day but because we feel immersed by doing secondary stuff and helping the troubled individuals around Tamriel
+
+Once more, thank you! You are my favorite team!
+:'''ZOS_RichLambert''': No spoilers or hints for what's coming in the future. :)
+::'''Jorgesarrada''': But could you say if the Bard's College DLC has ever been mentioned in your secret reunions? Is it a thing?
+:::'''ZOS_RichLambert''': maybe?
+----
+'''Atharaon''': Hi all!
+
+So my questions are:
+#When ESO was first released, I noticed that Khenarthi was changed from female to male, and there are a couple of other references to the "God of Wind" rather than Goddess. This is interesting as I wondered if having a male wind gods has any roots in Elven theology. Does ESO: Elsweyr expand upon this at all, or can you tell us if it is common in Elsweyr to see Khenarthi as male as well as female?
+#In terms of QOL changes, do you guys have any plans to make it possible to rename our houses not only on the collections menu, but also on the load screens? It would surely be great to see the custom names (and even descriptions, if possible!) upon loading, rather than generic titles like "Exorcised Coven Cottage" or "Captain Margaux Place."
+#Finally, is there any chance that the Loremaster's Q&A might return? I'd sure like the chance to ask some questions regarding Summerset lore! :)
+:'''ZOS_LeamonTuttle''': Divines tend to be associated with a particular gender, but of course they aren't limited by those concepts. You're right that Khenarthi, Kyne, Kynareth, etc is typically presented as female, but some people might balk at that restriction.
+----
+'''RSAzorean''': Hi! Love the new chapter, dragons, zone and the free is awesome! Can't wait to unlock the rest.
+#The necromancer brought a lot of stamina morphs. Any ideia to implement this on vanilla classes (specially the scor, only 2 stamina morphs)
+#Dragons! I was a bit worried and you announced dragons for Elsweyr because of the lore. But in the end worked pretty fine and loved the lore behind the Khajiiti and Sir Caldwell <3
+2.1) But why dragons? What made you guys decide the story would be about dragons this time?
+
+2.2) Open world dragons. I seem to only been finding 2 types of dragons, a red one and a blue one, and both with fire attributes. Any plans to add more types of dragons like ice and lighting (not counting SS trial)? Or they are already out there and I have been unlucky?
+
+3) The new Khajiiti merchant and banker ( love them <3) will they cost the same (5000 crowns) as the old ones? If so, people with previous banker and merchant will receive a discount on this new assistants?
+
+4) The new recipes are so much cheaper to craft than the old ones. Any idea to change the cost of old recipes? (Plz don't change the new ones :-P)
+
+4) So when are we going to Southern Elsweyr? :-P
+
+Thank you for the great game 👌
+:'''ZOS_RichLambert''': Lots of questions.... here's some quick answers:
+
+:1 - Wheeler touched on this a bit earlier... but this is something we will evaluate in the future.
+
+:2.1 - Dragons because they are one of the most iconic creatures in Elder Scrolls lore. Also, because they are big and badass!
+
+:2.2 - Maybe? (no spoilers hehe)
+
+:3 - I answered this one a bit earlier, but no... there's no discount.
+
+:4 - There are no plans that I'm aware of to change the costs.
+
+:4 (2nd one) - That's a good question! :)
+----
+'''Valagash''': Hi guys, can you check EU Server right now please. Guild Chat doesn´t work anymore and whisper takes up to 2-3min to show. Thank you
+:'''ZOS_GinaBruno''': Yep, we're on it. Thanks!
+----
+'''Onarm''': Thanks for doing this AMA! My big questions I guess.
+
+*Any love for the Mag morphs for weapons ideas? I see you mention something like 1h and Magic ( which I also want ), but even something like a quick pass of the weapon morphs and adding some Mag variants seems like a good way to encourage more hybrid playstyles. Especially with how many weapon morphs are so subpar.
+*Any plans for old class overhauls? Necro and Warden both have issues, but also feel focused in a way the older classes aren't. I think many people want to see old animations/abilities overhauled to give the classes more individuality. As a Sorc my mobility has become more and more common with each patch for example.
+*Any plans to adjust or change the tank meta? I feel like Sorc tank just needs that one more thing to be a competitive MT in Vet Trials rather then something that needs to be fought for tooth and nail. It's frustrating that still in 2019 it's "DK or bust.".
+
+And I guess question for the fun of it. If you could live in any part of Tamriel in any Era, what would be the combo?
+:'''ZOS_BrianWheeler''': Currently there are no plans for Mag Morphs on non Magic Weapon Skill lines but we are looking into the concept of Hybridization viability.
+
+:We are aware of the desire to update our original four classes in each role of DPS/Tanking/Healing (support) within their Class Skill lines and are looking into methods of doing so.
+----
+'''MLG_Obardo''':<br>
+1.) There are several motifs in the game that are not available to the player. Refrabricated comes to mind as a rather infamous example, will we ever see any of these motifs that are already out there, but not available?
+
+2.) We've had several expansions and DLC in Tamriel now and several of them have teased a Daedric realm. Are there current plans for a Daedric realm to appear in a more concrete way...say a Q2 or Q4 release. ;)
+
+3.) Have you ever considered adding a new playable race, and what has prevented that from coming about? (For example we have seen Maomer are not necessarily all jerks in Summerset)
+
+4.) Vampires have a relatively passive skill line compared to the Werewolf. Might we see some changes or additions to the vampires in the next couple years? Think about doing a dungeon attacking those vampires in Skyrim that pull you from the ice in Skyrim...you know you want to do something with that!
+
+Thanks for doing this. If one of the questions is off limits please feel free to skip it! Idk what y'all are allowed to talk about but I bet future plans may be one of those taboo things.
+:'''ZOS_RichLambert''':
+:1 - Motifs: there's always that possibility. We are constantly building new things.
+
+:2 - The daedric princes are always constantly meddling with Nirn. Who knows what might happen in the future!
+
+:3 - It comes up a lot internally. Performance is generally what holds that back. (loads of new animations, which increases memory..etc)
+
+:4 - You never know what might happen in the future!
+----
+'''NachtkindFX''': I have a few questions, too :)
+
+a) Is it planned to make our lore book collection account wide?
+
+b) When do you think will we get a new group finder and will you add new features in this step?
+
+c) Why do some Khajiit in Elsweyr understand the concept or I and we and do not use "this one"?
+
+d) When is the next ESO live?
+
+e) Will you show us the next DLCs at E3?
+:'''ZOS_GinaBruno''': I can answer letter d! We're planning for the next ESO Live to be this Friday, and talking about doing a Sunspire run with some devs and players. Should be a good time (or at the very least, entertaining).
+----
+'''DragoneerFA''': When playing in your off time, what one moment in-game surprised you the most? RNG strike in your favor? Did the plot of a side quest move you in ways you didn't expect? Another player did that left you going "Huh, I didn't think anyone would end up doing that."
+:'''ZOS_BrianWheeler''': Anytime the RNG gods bless me with the right trait and weight of a piece of armor/weapon I am pleased...
+:'''ZOS_RichLambert''': I play through all the quests many times before they make it to live and i'm still always amazed at just how much different they feel when the final VO is in. It makes all the difference in the world!
+----
+'''miniinimini''': What is your opinion about botting? I still see bots in the game. Is it so hard to ban them or make it not worth the effort? Or do you guys just don't care?
+:'''ZOS_MattF''': Bots are violation of our Terms Of Service and we hate them as much as you. When you see them please open a customer support ticket with a location of where the botting activity was taking place, and they will take appropriate action.
+----
+'''Jorgesarcos''': Hey guys! congrats on an awesome chapter, im really enjoying it so far :)
+
+
+My question is, now that there is a necromancer class will there ever be a zombie pet we can carry around? asking because it only makes sense and because i have a White Walker toon that needs a Whig lol
+
+
+And as a bonus question and having brought GoT here, the new music has some "Battle of Winterfell" feeling to it and im loving it, do you guys get inspiration from the show? or had included anything mildly related or inspired by it?
+:'''ZOS_LeamonTuttle''': As far as the music is concerned, that's a question for our lead composer, Brad Derrick. He's been cranking out an amazing soundtrack since well before GoT, though. :) (I love the Elsweyr music too.)
+----
+'''[deleted]''': Casual gamer here, Never played ESO before. With all of the expansions, especially this new one. it seems like a little late to jump on. As someone who would only play a few times a week, why should I get ESO when it seems so daunting?
+:'''ZOS_BrianWheeler''': ESO is very easy to get into and rewards you for anytime you spend in it whether it's questing, crafting, exploring, pve or pvp. Your character will always advance in some form or another whether it's combat or crafting oriented! There's always something to do!
+----
+'''SmokeCocks''': Hello, thank you for coming here to answer question.
+
+My question is, why haven't you fixed Necro's blastbones and skull tooltips / damage yet?
+
+and
+
+What reasonable steps are you guys willing to take to make magicka builds more on par with stamina builds? There seems to be a clear line in the sand on which does more damage and you can bet your money on any given stam build doing better than their counterpart magicka based build.
+:'''ZOS_BrianWheeler''': With Elsweyr we started an Ability Audit to apply standards on abilities which has resulted in some builds being more on par with each other in regards to DPS/Tanking/Healing (supportive) roles. We are still doing this Audit across the Weapon/Guild/World lines which will result in more shifts to the norm out there. From there, we'll be looking at the game as a whole in shaping the methods which players can perform DPS/Tanking/Healing (support) roles.
+::'''SmokeCocks''': When can players expect these Audits to take place? Are we to expect our current meta to be what we've got until the next big update (5.1)?
+
+::Or is it possible to get these in a regularly scheduled maintenance / patch?
+:::'''ZOS_GinaBruno''': As Wheeler mentioned, the audit started with Update 22 with class abilities. The audit on weapon/guild/world lines are being worked on now for the next update.
+----
+'''CE-Nex''': First off, I just have to say that Elsweyr is gorgeous and I really appreciate the amazing job you guys did! I really didn't think you'd be able to match the stunning aesthetics of Summerset, but you did that and more. Totally blew my mind! Thoroughly enjoying the game. That being said, I'm a lore head so my questions are for Mr.Tuttle, ''sorry everyone else''.
+
+1) Moon Bishop Sizena describes a vision of a man with two heads climbing the stars to hold the moons in darkness. Is this foreshadowing of the eventual rise and apotheosis of Tiber Septim, who Vivec describes as the Twin-Headed Ruling King?
+
+2) According to the book, ''Where Were You When the Dragon Broke?'', the Amulet of Kings is said to house an oversoul of emperors from the past dynasties that the Elder Council consults every now and then. Is this true? And if it is, does Abnur Tharn know how to speak with the past Dragonborn?
+
+I have a million other question but that would lead to a full interview...so I will suffice with these to and a very sincere expression of gratitude. You've brought joy to my gaming life with ESO, so thank you very much!
+:'''ZOS_LeamonTuttle''': Haha! These are spectacular (and very specific) questions, that I can't answer without upending the relationship between you and the unreliable narrator. I'm sure you'll find a million theories on the teslore reddit and elsewhere.
+----
+'''_Kambo_''': A couple of Lore questions for our Loremaster.
+
+As I've learned recently, it seems all of the events in the game from Orsinium to Elsweyr occur in 2E 583. But according to lore in-game, the event in which Euraxia Tharn conquered Rimmen was known as the Frostfall Coup, implying that it happened in the month of Frostfall. Multiple character claim Euraxia conquered Rimmen 6 years prior to the events of Elsweyr, and the Coup happened in 2E 576. That would, in a literal sense, place the current year in 582, which doesn't make sense with information that's already been established. Does this mean that the events of Elsweyr occur prior to Frostfall of 583, which is why they're still saying the Coup happened 6 years prior?
+
+And lastly, are there any plans to officially move the timeline forward into 2E 584?
+:'''ZOS_LeamonTuttle''': So, time in-game is personal to you. Given that multiple players can play content in any order, we've resisted the push to advance to 2E 583. For that reason, we assume that all events of ESO take place in 2E 582.
+----
+'''Omn1''': Do you guys have any plans to add a tutorial selector at some point? As it stands, it's entirely possible for a player to not even know that the game's original main quest exists, since the content finder doesn't point to it at all; it seems sad, at least from the perspective that all the folks' hard work on it might flat-out never be seen by new players.
+:'''ZOS_RichLambert''': We've built a number of tutorials over the years, and each one gets better than the next. One of the reasons why we don't have a selector atm is because we always want to ensure the best experience possible for a new player.
+
+:That being said, it has come up a few times over the years. We are definitely aware of the desire.
+----
+'''ZOS_MattF''': Hello! I suspect we'll get questions about performance more than a few times today, so I prepared a description of what we have going on to address performance concerns - on a number of fronts.
+
+Even though there is very little new information here, we definitely could be doing a better job of keeping everyone appraised of how things are going while we are in process. We will be better messengers in the future keeping everyone up to date on longer-term fixes and updates.
+
+First, server capacity. As we all know, we had server capacity issues a few months back, especially on the PC EU servers. We were forced to temporarily cap the number of concurrent users on PC EU and put up a queuing system to enforce it. We got the new capacity online for PC EU in a week, and added that same capacity for PC NA (which was very close to experiencing the same problems). We took the queuing system down, and we can now support the concurrency demand we are seeing.
+
+Second, the looking for group system. As we posted last week, we are working on a 100% revamp of this system, which is mostly used for Dungeon and Battleground queuing. We have a version done that we are testing in-house, although it will be a while before it goes live. We want to make sure that the solution we have scales correctly and will support the now massive numbers of players that are using the system. We are planning for revamped LFG system to be in Update 24, depending on how testing is going. Until then, we will continue with the only solution we have (which we posted about last week in the LFG update) - cap the number of players in the queue. We know it is extremely frustrating to not be able to queue for dungeons and BGs and get "cannot join queue" when you try, but at least now once you get into a queue successfully, you should be able to join the dungeon or BG.
+
+Third: overall performance. Rich talked about this in his end of year message six months ago: we are currently implementing sweeping optimization and memory management client architecture changes that should improve client performance and especially client stability. These optimizations will be most noticeable on lower-spec PCs, base Xbox, and base PS4, but overall everyone should notice better stability and performance. This is scheduled for Update 24. Additionally, we have another set of optimizations scheduled for Q1 next year that will reduce the client "footprint" requirements and should speed up loading times.
+
+Fourth: Longer term, we are in the beginning stages of combat system performance improvements that should improve overall game performance in Cyrodiil and Trials. Stay tuned for updates on this.
+
+Obviously if anything else crops up, we'll investigate. I know that it can seem like it takes an inordinate amount of time to address performance problems, but we need to take our time and make sure that we don't introduce new issues while we do this. Thanks for your patience, and we will keep you updated.
+----
+'''_Karget_''': Can Daedra breastfeed?
+:'''ZOS_MattF''': Give it a go and let us know how it works out.
+----
+'''sozo108''': Are there any plans to add more "Hide" options to the Outfit System? Specifically it would be awesome to hide shoulders.
+:'''ZOS_RichLambert''': Noted and we've heard lots of feedback about wanting to hide more slot options.
+----
+'''Thalmor_Justicar (edited)''': Hi all, thanks for doing this AMA!
+
+I've got some general questions for you and some lore questions for Leamon Tuttle:
+#What new dragon shouts were added with this expansion?
+#I saw in another comment that you don't plan to "backfill" previously released content in regards to using khajiit furstocks, however does that mean we can expect future content to include the different khajiit furstocks?
+#With the Wrathstone release, you added an interior to a previously sealed off dungeon (from the Dark Brotherhood release, Garlas Malatar), does this mean we can potentially be seeing dungeons added to previous chapters/DLCs which have areas that have sealed off interiors?
+#What lead to the decision to have all Tsaesci in the chapter having covered faces?
+#In the 1st Pocket Guide to The Empire, it states that the last remaining Tsaesci form an army and mount an attack on Cyrodiil to try and retake it, however Elsweyr tells us that there are only 5 Tsaesci left (6 if you include the world boss), and they are hiding within the Tonenaka temple. Is this just unreliable narrator/imperial bias? Or are there actually a lot more Tsaesci still hanging around in Elsweyr?
+#Are the senches present in the Elsweyr tutorial actually khajiit? As seen here [[:File:ON-npc-Star Haven Adept 05.jpg|https://en.uesp.net/wiki/File:ON-npc-Star_Haven_Adept_05.jpg]]
+#There was a theory posted in r/teslore subreddit a while back, (link below) which argues that the Wrathstone lore and its relation to the Halls of Colossus was inspired from some dialogue as far back as Arena. In game dialogue (cited below) asks the champion to retrieve a stone tablet said to be the key to deciphering a part of the Elder Scrolls, the part that shows the location of the Halls of Colossus. Was this intentional or was it just a happy coincidence?
+
+[https://www.reddit.com/r/teslore/comments/av0jud/halls_of_colossus_wrathstone_spoilers/ https://www.imperial-library.info/content/halls-colossus]
+
+EDIT: Bonus small additional question, is it possible to have the Harborage map icons for alliances you're not in turn white on the local map when you discover them in the world? Pre One Tamriel you were able to discover the relative Harborages in other alliances and turn the icon for it white when discovered, although now you can't do that since you are locked out of Harborages from other alliances. It's a small thing, but an annoying one.
+:'''ZOS_LeamonTuttle''':
+:#Dragons in ESO use a variety of shouts. A ton of them are new! Sorry, that's probably not particularly satisfying, but I don't have the scripts with me :P
+:#Anything's possible. Given the morphology of the Ohmes, you may have already met one and not even noticed.
+:#passing that on to someone else.
+:#The nature of the Tsaesci (and Akavir generally) is shrouded in mystery. We tend to walk very carefully around that sort of thing.
+----
+'''mistresskrahe''': Hey guys! This Q@A is so cool. I don't know if anyone else has asked this I'm sorry if they have... but my question is this... do you guys have any plan of revamping the base game with better textures and making it as pretty as the DLC? Cause some of the base zones are starting to show their age. They're still pretty, but I feel they could use a little bit of a facelift.
+:'''ZOS_MattF''': We would love to be able to do this, but it would require a lot more time than we have right now. Once in a while, we will go back and fix something that we feel is particularly egregious, but that is rare. At least you get to see how we have progressed with our environments and storytelling over time, although I will say that some of my favorite moments and locations in the game are from the base game (Rivenspire, especially).
+----
+'''ObviouslyNotASith (edited)''':
+#Is Lyranth coming back?
+#Do you have any plans with Meridia and/or Darien Gautier?
+#What was it like writing Sotha Sil? You made him one of the best characters in the game if you ask me.
+#With what happens to Veya in Summerset, will we see Naryu again?
+#Since this year is all about Elsweyr I take it that the next expansion will either be about the rest of Hammerfell(unless you are forbidden from using that), the rest of Skyrim or possibly other realms. Will you continue to explore other realms? I think it would be interesting to explore realms like Moonshadow, more of Quagmire, more of the Coloured rooms or any other Daedric realm.
+#Last two questions. Do you have any plans on bringing back the Tusked Dragon Priest Mask due to Elsweyr being about dragons and the Dragon Priest costume recently coming back? I missed out on the Telvanni Wizard-Lord robes, by any chance are you planning on bringing it back again for the next Morrowind anniversary?
+
+Love the game. I love what you did with Sotha Sil. The team did great work with character designs like Mephala, younger Vivec, Sotha Sil, the dragons and other characters. I look forward to playing a Breton necromancer after I finish my Nord Warden and my Altmer sorcerer. I've already mentioned Sotha Sil but I also love the writing of Abnur Tharn, Cadwell, Naryu, Razum-Dar, the Vanos siblings, Laurent and Stibbons and many other characters.
+:'''ZOS_RichLambert''': not going to spoil any future plans we have, but i did want to comment on the fact that you seem to love a lot of the same characters we all do :)
+----
+'''Vercingetorix07''': Are there plans within the next 3 months to revisit the Necromancer toolkit to address issues found during the PTS?
+
+Some of the major issues:
+
+*Blastbones pathing/delay
+*Lack of Major Sorcery in toolkit
+*Corpse Targeting not consistent/effective in both PvE and PvP
+*Sustain issues, especially on mag builds
+*Beckoning Armor's "pull" is too slow/situational to be effective
+:'''ZOS_BrianWheeler''': We are looking into those issues with the Necromancer as well as a few others. We'll have some updates about those when they're ready and tested.
+----
+'''thebratqueen''':
+#Keeping vague to avoid spoilers, how far in advance did you plan all the aspects of Cadwell's story? Was his part in the Elsweyr quest something that was always known even back at game launch?
+#We know you all are aware of the need to fix ESO's status on "Can you pet the dog?" Related, what is the progress on providing us the option to hug the Cadwell? =)
+
+Loving Elsweyr btw. Thanks for the great new content on every level.
+:'''ZOS_RichLambert''': For all of our characters, we try to plan out their backstory as much as possible. For Cadwell specifically, his story and character has been adjusted over the years.
+
+:Little known fact - right up until almost launch, Cadwell wasn't actually Soulshriven. He was an imp-like being. We ended up changing him because it fit better with the overall story.
+----
+'''MLG_Obardo''': I don't know if I'm breaking the law here but I'll ask some more questions. A little more safe to answer :)
+
+1.) What are some funny bugs that you've seen that didn't make it to live? Any terrifying bugs?
+
+2.) What is a challenge that you encounter in your job that the playerbase isn't aware of?
+
+3.) What's a location that we have never seen that you would love to see visualized in your game? I would personally love to somehow visit the realm of Jygallag...(psst, 800 years between Greymarches seems long enough to me personally)
+
+4.) What's a quest that you personally worked on and are still happy with how all of it came together?
+
+5.) '''@Lore Master''' What's your favorite piece of completely original lore that you created and where do I go to experience it?
+:'''ZOS_LeamonTuttle''':<br>
+:5. I'd say there's no such thing as "''completely'' original lore" in TES at this point. All of us are part of a legacy that stretches back decades--running a relay race where developers pass their contributions on to the next group of devs and so on. Everything we do here builds on that legacy, so I'm always super cognizant of how big this thing is, and how I'm standing on the shoulders of tons and tons of talented developers. I wish I could identify something for you, but I feel like all the content I've contributed to has a pretty firm foundation in preexisting lore. A lot of the work we did in Clockwork City was based on more limited sources, but even so, I'd like to think all of it fit within the boundaries of established TES fiction.
+::'''MLG_Obardo''': That's fair. Either way, your contribution in CWC is one of my favorite meaningful dialogue pieces I've ever had in any TES game. I'm on Xbox so I don't know how Elsweyr goes, but I want you to know, those candid lore conversations are very much enjoyed and I hope to see it's like in the future.
+:::'''ZOS_LeamonTuttle''': Thanks, man. I'm really glad you're enjoying it.
+----
+'''TinyClayMan''': Hello! For the Loremaster, Leamon Tuttle: will we see more of Dwemer lore, the more theoretical and obscure parts of it? Or at least a hint on where Yagrum currently is.
+:'''ZOS_LeamonTuttle''': I can't say anything for certain, but the Dwarves are a huge part of Tamrielic history, so it's a good bet we'll see more from them eventually. No promises, though!
+----
+'''TropicalDoggo''': Trial finder when?
+:'''ZOS_RichLambert''': How about we get 4 players into dungeons reliably first. ;)
+----
+'''Weshii''': Hello! To any of you who want to answer: What is it that makes The Elder Scrolls so unique and appealing to you? I.E. lore wise, gameplay wise, open-ended nature, etc.
+
+I've realized the series holds a very special place in my heart, it really stands above other games and even other worlds not found in games (books/movies). As people who are very actively involved in the creation of the iteration with the biggest scope to date, I thought it would be interesting to hear what particular aspect of it was that x-factor for you.
+:'''ZOS_LeamonTuttle (edited)''': Obviously I'm a big fan of the lore. I've mentioned in other interviews that I'm not really a fantasy guy. I play D&D, and I've read LOTR and stuff, but traditional fantasy tropes never really got their hooks into me. TES is the exception because it's just so broad, and mysterious, and weird. Argonians, Tribunal Lore, The Dwemer, the relationship between Dragons and words and time, etc. It's just amazing, and it's a huge honor to get a chance to participate in its continued growth.
+:'''ZOS_RichLambert''': One of the things I love the most about Elder Scrolls is the lore is told from multiple perspectives... there isn't a single source of truth. That makes it feel much more believable and authentic.
+----
+'''McLego''': For Leamon Tuttle:
+
+Are there any senche Khajiit in the Elsweyr chapter (as opposed to senche-rahts)? During the tutorial there are Star Haven Adepts who appear to be sentient senches.
+:'''ZOS_LeamonTuttle''': We allow players to interact with Senche-Raht. The zone is full of senche-tigers as well, which are not actually Khajiit.
+----
+'''zvavi''':
+#Ok, since server capacity is not a problem anymore, do you have any plans upgrading your network providers? During high peak a lot of people are getting very high ping, regardless of their placement. The capacity maybe went higher, but the connection still cant hold that many people. Do you plan on doing anything about it?
+#It is probably connected to the first question, but a lot of dlc dungeons are bugged. Very bugged. And most of the bugs happen during, you guessed it, peak times. Examples:
+*Aoes not in the place the red zones are in #today vMoS and vFV
+*vault protector still lets lasers go through him
+*today i had a new bug, in the 4th boss in vFV (the one with the atronach) when the atronach danced, his aoe was all over the place, and moving as well (his red and safe zone was spinning, literally, and even if u stood in safe, it killed u)
+*Wayrest sewers. crypt of hearts 2. I am sure I dont even need to say the bugs here.
+*The one i hate the most is in vSP when last boss starts bugging and releasing mechanics during random poisons and one after the other, with no break between them. If this is intended, i stand corrected.
+#I dont pvp, but gonna give some love to pvp people. Any plans on giving them some ping reducing love? I am pretty sure it is connected to first question as well.
+:'''ZOS_GinaBruno''': Regarding the dungeon bugs, I passed those along to the team to make sure they're aware of them.
+----
+'''Randomguyioi''': Mr. Tuttle, as an avid lore fan, I do really appreciate ESO for how it delves into deeper aspects of the world we don't normally see much of. With your work on Sotha Sil, the current year of the Dragon and the expanded Dwemer lore, will we see a possibly in depth comparison or clash between the Thu'um and Tonal Architecture in a later bit of content. Be it DLC, loremasters archives, or so on?
+
+Sorry if this is too spolier heavy to answer, and thanks for reading.:)
+:'''ZOS_LeamonTuttle''': This is a great question. We've messed with Tonal magic a few times (in Gnisis for one) and obviously, we're exploring the Thu'um a bit with Dragons. In terms of explicit comparisons or explorations of their relationship to one another, I guess we'll have to see if any Tamrielic scholars have anything to say about it in future releases.
+----
+'''paradoxpancake''': My question is for Wheeler: Does he have any opinions on the current Stam meta in PvP? Are there any classes that he has an eye on for a balance pass. Any classes that he can share insight that might be overperforming or that he believes are underperforming.
+
+Maybe it's a perception issue, but Stam is everywhere this patch.
+:'''ZOS_BrianWheeler''': We have recently added some changes to Race against Time to get a bit more Magicka mobility out there, but we are aware of the differences between Stam vs. Mag out there in PVP. We also know about the "heavy armor meta" and are looking into solutions to offer more competitive Medium and Light armor players in PVP.
+----
+'''DiscipleOfMelandru''': There are certain books/messages that you are unable to read/find after completing certain quests/stages of quests, do you have any plans of fixing this? I know it's a minor thing, but as someone who is a completionist, it's painful to know you've missed out on a few of these because you didn't read them during the right stage of the quest.
+:'''ZOS_RichLambert''': We try to fix them as we find them. I thought we fixed all the ones from the previous lists. Do you have a list of books that are still inaccessible?
+----
+'''From-The-Depths''': Hi there. I'm looking forward to elsweyr tomorrow on xbox but I have to ask theres a current bug that when you press B to back out of the map or menu you cast whatever skill is on that button. It's been this way since the last major patch. And as a person planning to start a necromancer I'd rather not end up casting illegal summons in town unintentionally. So I'd really appreciate if this is going to be fixed both me and my wife experience this on two separate consoles too. Many thanks
+:'''ZOS_RichLambert''': will pass along to the team to investigate!
+----
+'''Nexerous''': So in Summerset, we got a brief glimpse of the Fields of Regret (Clavicus Vile's realm) when we were trying to stop Nocturnal from becoming omnipresent. I absolutely loved his appearance in the Summerset expansion, and I think you really nailed his look.
+
+My question is, will we ever see more of his realm down the road, perhaps as a zone in future content?
+
+Clavicus Vile is my favorite Daedra Lord, and seeing his Oblivion plane in its full glory has been a big dream of mine.
+
+Thanks!
+:'''ZOS_LeamonTuttle''': Anything's possible!
+----
+'''macbeezy_''': I'm probably late, but when can we expect to hear about the next update for Season of the Dragon?
+:'''ZOS_RichLambert''': you might hear some exciting things at E3 next week. ;)
+----
+'''T3RM1NALxL4NC3''': Is ZOS planning to do anymore IRL community events, specifically in the DC area?
+:'''ZOS_GinaBruno''': We recently held an event during PAX East up in Boston, and will be in LA next week for BE3 and E3. We've also held events in Dallas during QuakeCon, in Seattle during PAX West, and throughout California during TwitchCon (depending where they have it each year). We have talked about doing an event around the DC/Baltimore metro area since this is where we're based. We'll try to make it happen!
+----
+'''WarDoctor42''': Will we expect to see anything ESO related at E3
+:'''ZOS_GinaBruno''': Yep! We'll have hands-on stations setup at E3, and will be part of the presentation during BE3 as well (Sunday @ 8:30pm EDT)
+----
+'''Mandingo-ButtPirate''': So I have a question on future abilities revamping. I know recently they looked at each skill and changed them based of various things but it seems like they glossed over a hand full that still have extremely low pick/usage. Is there anything on the roadmap that addresses this?
+:'''ZOS_BrianWheeler''': We will be looking at abilities from the perspective of their effectiveness in various roles, and that could result in less chosen morphs or abilities being addressed in the future.
+----
+'''twwilde''': First off, thanks for all the work you guys do, the game is great and Elsweyr has been a lot of fun!
+
+My question: how do you guys identify new potential classes? Warden and Necromancer both fulfilled long standing Elder Scrolls themes (nature magic and death magic), so does the development team start by looking at new classes from a lore perspective? Also, both of the post-launch classes seem to have skill tress that very strongly hew to a specific role (dps, healer, tank), much moreso than the launch classes. Is this the template you guys intend to use going further? Or may we see new classes that more clearly favor one role over the others (Templar/healer, dragonknight/tank, Nightblades and Sorcerer/dps)?
+:'''ZOS_BrianWheeler''': We look at a player fantasy we want to offer in classical terms and then see how it fits into Elder Scrolls Lore. The Necromancer fulfilled the fantasy of being a badass that controls the undead and uses those powers to vanquish their foes or aid their allies! We also look into how that is satisfying in the DPS/Tanking/Healing (Support) roles and find out if there's a nice they can fill that other classes do not.
+----
+'''The_White_Guar (edited)''': Hey, ZOS gang, happy to see you here! Great work on Elsweyr!
+
+I have a few questions for y'all, so I'll break 'email up here...
+
+For u/ZOS_LeamonTuttle, how often would you say do you and the rest of the writers intentionally weave "unrelated" topics into whatever the current focus is? What does that process look like? Is it planned in advance or kind of impromptu and then worked in later?
+
+For u/ZOS_GinaBruno, is there anything in the works for more community outreach opportunities, such as with the old Loremaster's Archives or the "Name our Mage" event? Are there ideas you're considering or might you be open to suggestions from community members?
+
+For u/ZOS_MattF, if you could put anything, feature, class, race, whatever, into ESO and time and money were no issue, what would you want to see added?
+
+And for all of you at once: how often would you say you all take cues or inspiration from the community at large? How much of this inspiration results in tangible changes or updates to the game?
+
+Thank you so much!
+:'''ZOS_LeamonTuttle''': Not sure what you mean by "unrelated topics"?
+::'''The_White_Guar''': Well for example Murkmire is all about Argonians, but then you guys brought in a little Ayleid lore and there was even a reference to the Aldudagga - things that aren't necessarily related on the surface to the main topic at hand. Does that help?
+:::'''ZOS_LeamonTuttle''': Yeah. We try to tell stories that can only be told in that setting, but as you know, there's always a ton of overlap. What happens in Cyrodiil historically always affects what happens in surrounding provinces. The histories of each of these zones are always linked to the events around them, so there will always be some natural bleed there. I wouldn't say we start by saying "let's cover these topics." It just tends to be an organic thing that is part of the creative process.
+----
+'''throwawayTANKPLAR''': Hey ya'll! Thank you for being here. Two questions for you:
+#The recent (and excellent) Guild Trader update changed the entire economy on PS4 for the better. Is there another previously-PC-only/add-on influenced update on the horizon that us console players can look forward to apart from the Guild Finder?
+#Is there a specific update coming this year that will focus on Cyrodil performance? The 30-day CP campaign feels like a coin-toss at every single emp keep assault/defense with one side killing afk'ers in the middle of large assaults. It's so anti-climactic, even when you're the one getting to kill the blue-screen'd brethren.
+
+Those QoL/performance improvements are the real catalyst with older players returning and giving this game another chance.
+
+And again, as Day 1 console player, I cannot emphasize how much I enjoy ESO. You guys do a wonderful job and it's always moving in the right direction. Keep up the great work!
+:'''ZOS_RichLambert''': For your first question... yes! (Though I'm not saying exactly what just yet hehe)
+
+:As for the second, Matt noted above somewhere about a number of the perf things we're working on. Performance in general is something we want to improve, especially in high traffic areas.
+----
+'''hoeppy (edited)''': I've played ESO on and off over the years since release, but never really got into it as my primary MMO. This changed earlier this year, got into raiding for the first time and I'm enjoying it so far.
+
+One thing that I feel lacking compared to other MMOs I've played is raid encounter complexity.
+
+Some fights you can say after about 10% you've seen the entire fight because they don't have progressing mechanics for the most part. Some come with a execute burn, some have the same transitional phase repeating every X%, but that's about it when it comes to diversity.
+
+Most recent example is Sunspire. It looks really great, but with all dragons being immovable and follow the same flow (damage -> flight phase -> repeat) boss fights are rather disappointing. Like the magma pool mechanic could have been used as a soft enrage over the entire duration of the fight that continues to limit the encounter area more and more. Putting some responsibility on boss and add positioning so you're not wasting unecessary space. The way pools are spawned feels somewhat random as well. The frontal breath of Yolnakhriin itself could have been used to melt off the armor from iron servants leaving pools, etc.
+
+
+
+'''So my question is''': Is the current level of encounter complexity what we can expect going forward? What is your goal for encounter design usually? The only fights with comparable complexity to some other games are probably mini trials with all adds engaged.
+:'''ZOS_RichLambert''': Over time, we've learned a lot and encounters have progressed in terms of mechanics and difficulty. There's a pretty massive difference between say HRC and Sunspire or MoL. Even at the dungeon level you see a pretty massive difference.
+
+:We're constantly evolving and learning, you can expect new encounters to do the same.
+----
+'''[deleted] (edited)''': Hi,
+
+Why is Sotha Sil the best character?
+
+EDIT: Are we going to see some more Daedric Princes anytime soon? Such as Sheogorath/Jyg?
+:'''ZOS_LeamonTuttle''': I love Seht too. We must both be fans of robots, determinism, and existential dread. As for Princes, there's always a chance they'll pop up here and there. Maybe even in Elsweyr.
+----
+'''Chillreave''': Firstly, congrats on Elsweyr (I just now found out I spell it wrong all the time. Whoops)
+
+A few questions: My favorite lore in the game revolves around the Argonians, but every time we find something out there's yet more questions. Are there any plans for a third Argonian focused zone (or chapter, dare I dream) or is that too far out for any specific details?
+
+I remember reading data mining a while back about spellcrafting as a possible new skill. Did that get scrapped, or is that still being worked on?
+:'''ZOS_LeamonTuttle''': I love the Argonians too! Anything's possible in terms of where we go next, but yeah, we can't really say where that roadmap will take us. And remember, more questions is no bad thing. Like the Arognians say, "Nothing causes more strife than the desire for certainty."
+----
+'''BelowAveragejo3gam3r''': I love the new emphasis on emotes (largely through the crown store) to express your personality or communicate in game. What is the design team's favorite emote(s) and when do you find yourself using them?
+:'''ZOS_RichLambert''': My personal favorite is still "teatime"... there are many scenarios that I use it in hehe.
+----
+'''clricha''': As someone who has never played ESO before, how easy is it to get started and start doing things with a group?
+
+
+
+My buddy convinced to finally buy this for PS4, but I dont think I'll be able to do much with him since he's been playing the same toon for years and is lightyears ahead.
+:'''ZOS_RichLambert''': It's super easy to jump into ESO! One of the biggest and best differences between ESO and other games is that you can always play with friends. It doesn't matter your level, you can always group up and play together regardless of level or alliance choice.
+
+:In addition, our community is phenomenal... you will always find friendly folks out there willing to answer questions and help you learn.
+----
+'''Gabe_The_Dog (edited)''':
+#Do you guys plan on possibly redoing weapon trees ever? Some skills feel forced to take, such as Momentum in the Two Handed tree. The skill doesnt feel fun to use, instead its either used as a spammable heal, or a buff for damage. Lots of bow builds take 2H backbar for example just to pop Momentum for the increase on bow damage. Wouldn't it feel better and be better for the health of the combat system to make skill choice matter rather than the current system of take Momentum for damage buff and never actually use your 2Hand? I'm using 2Hand as the example, but you can find this with most weapon trees, either a skill that seems like its to good not to take, or some skills that are just beyond useless to take in *most* cases (Such as Hidden Blade in Dual Wield tree).
+#Are there any plans to update the vampire skill line ever? It feels like something worth picking up for most classes due to the passive skills, but the skill line overall feels like something you take and never worry about again as the best stuff comes from the passive. The active skills, while they are taken by some builds, seem to fall short over all in the sense that most of the time people would rather take active skills from other trees instead.
+
+Thanks if you answer this. Really enjoying the new xpac so far!
+:'''ZOS_RichLambert''': Will pass the feedback on to the team!
+
+:Also note - the vampire skill line is on our radar. :)
+----
+'''Ronburgundy2099''': I've been wanting to get into eso for a while now what advice would you give a newcomer?
+:'''ZOS_RichLambert''': Just take your time and enjoy the journey. Tamriel is an amazing place to explore!
+
+Also, don't be afraid to ask questions... our community is awesome and loves to help.
+----
+'''War_Psyence''': I'm late to the party, but I'm still dropping by to say thank you to u/ZOS_LeamonTuttle for Sotha Sil. Exceptionally well-written character. The dialogue was absolutely amazing. Everyone else, thank you for the wonderful game that ESO is. It's probably my second favorite game in the franchise (Morrowind will always be #1). I'm a long-term player and I'm more than glad to see it growing bigger and bigger.
+:'''ZOS_LeamonTuttle''': Sotha Sil was a huge team effort, but thanks a lot. :) Really glad you're enjoying the game!
+----
+'''Puggalina''': Oh nooooo I missed it! I wanted to ask about a donkey pet :( Can we have one please?!
+:'''ZOS_RichLambert''': Passed the feedback along!
+----
+'''rook785''': What is your take so far on the success or failure of faction locks?
+:'''ZOS_BrianWheeler''': We are still monitoring the effects of the Alliance Lock and Imperial City adjustments. With Console launching tomorrow, we'll have more data to look into.
+----
+'''Strong_Mode (edited)''': when is dx12 support and multithreaded cpu optimizations coming?
+
+how do you feel about how healing is done in this game? according to esologs (praise the lord for it) somewhere between 80-90% of all healing done is overhealing. most healers just bring buff/debuff sets to raids to prop up the dps proper. ive seen the idea of an alteration staff tossed around that would act entirely as a buff/debuff weapon. this could open a fun new playstyle and maybe have some balance changed where healers actually heal
+
+how about general combat where everyones dps revolves around a bunch of aoes and dots with a little bit coming from a spammable. its incredibly frustrating to drop your aoes on the ground and have the boss walk, or in the case of vas and vcr, literally teleport out fit and fly away. has there ever been any discussion about a more direct damage oriented playstyle for pve where you can still do comparable damage? currently for stam if you dont keep volley or caltrops down or the boss refuses to stay in it you lose about 20-30% of your dps
+:'''ZOS_BrianWheeler''': ESOlogs has been a great tool to look at performance of effective healing vs. over-healing and something we are looking into for future adjustments. We want the role of being a Healer/Support character to be rewarding as well as offering a path to mastering that playstyle which we are looking into.
+----
+'''harmisol (edited)''': Any chance for server upgrades? ( for pc).
+
+[https://gyazo.com/f8611f214f80c1c4f1f6731272bceccf https://gyazo.com/f8611f214f80c1c4f1f6731272bceccf]
+
+Tho haveing [https://forums.elderscrollsonline.com/en/discussion/467936/pc-eu-server-update-april-11 https://forums.elderscrollsonline.com/en/discussion/467936/pc-eu-server-update-april-11] as a topic open and not respondeing, (where Zos promised to be more active,) is quite a joke from your end. Preformance gamewise is still dreadfull as in ea day afther 17.00 Gmt+1 The dungeonfinder doesnt work and is quite screwing up the game, not only for me but for many many many many and many others, the 'upgrades' that should have bin done feels like there is no change at all.
+Are you guys even looking at it or is it all a ongoing april fools joke?
+:'''ZOS_MattF''': [https://www.reddit.com/r/elderscrollsonline/comments/bwdb0r/welcome_to_the_elsweyr_update_22_aua/epwuxj0 https://www.reddit.com/r/elderscrollsonline/comments/bwdb0r/welcome_to_the_elsweyr_update_22_aua/epwuxj0]
+:I posted an update on overall performance at the link above.

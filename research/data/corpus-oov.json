@@ -1,0 +1,3854 @@
+{
+ "meta": {
+  "generator": "tools/ingest/build_oov.py",
+  "inputs": {
+   "lexicon": {
+    "file": "research/data/canon-lexicon.json",
+    "page": "Lore:Dragon Language",
+    "revid": 3619598
+   },
+   "corpus": {
+    "file": "research/data/canon-corpus.json",
+    "texts": 704
+   },
+   "shouts": "research/data/canon-shouts.json"
+  },
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "attribution": "Text from the Unofficial Elder Scrolls Pages (UESP), https://en.uesp.net/ ; each record names its page and revision id.",
+  "method": [
+   "Tokens: the dovahzul field of every corpus record, lower-cased, cut into runs of letters; an apostrophe inside a word stays, a hyphen separates tokens. Dialogue records contribute only their dragon-language segments.",
+   "Headwords: every spelling in entries[].word_forms of the lexicon, lower-cased; 'Kel(le)' counts as kel and kelle; 'Vo...' counts as vo.",
+   "explained_by_documented_rules: tokens that are not headwords but follow a pattern stated in the Grammar section of Lore:Dragon Language (plural, possessive, our, perfect) or are two to four headwords written together (compound). A compound reading is mechanical and can be a coincidence, above all when it uses two-letter headwords; such parts are listed under short_parts.",
+   "oov: every other token, with one class each. Names stay in oov even when a compound reading exists. possible_compound_readings lists up to five ways to cut the token into headwords (best first: fewest two-letter parts, then fewest parts); these are mechanical and the wiki's own analysis, where it has one, is in basis.",
+   "A compound made only of two-letter headwords is not accepted as an explanation (tu + um for 'tuum'): such tokens stay in oov.",
+   "count = occurrences over all records; count_in_unique_texts leaves out records marked duplicate_of. texts = ids of all records the token occurs in."
+  ],
+  "classes": {
+   "name": "A proper name: a dragon, dragon priest or place name listed in the Names section of the dictionary page, a name the corpus records with a wiki-stated meaning, or a word that the wiki's English translation of the same text carries over unchanged (people and places named on word walls).",
+   "spelling variant or error": "Differs from a headword, or from another corpus token that is explained, by one letter, one swapped pair, a dropped apostrophe or a doubled letter; or the wiki itself marks it {{sic}}. Usually a typo in the game text or on the wiki, or another official spelling.",
+   "inflected or derived form (pattern not in the grammar section)": "A headword plus an ending that the dictionary page's Grammar section does not describe but that the corpus attests, e.g. the possessive -ii (Thu'umii 'his Voice').",
+   "likely lexicon omission (meaning stated on the wiki)": "Not a headword and not derivable from one, but a wiki page states a meaning for it: a hover gloss on a one-word segment, a word-by-word shout meaning, a phrase entry on the dictionary page, or a sentence on a name page.",
+   "word of another language inside dragon text": "English (or other) wording that stands inside an official dragon-language text.",
+   "unclassified": "No test decides it. Either a lexicon omission whose meaning the wiki only gives inside a longer translation, or an error."
+  },
+  "class_order": "manual reading; marked {{sic}} by the wiki; name (dictionary Names/Locations, corpus name record, or carried into the English of the same text); headword without apostrophe; one letter from a headword with the same stated meaning; headword + an ending of one letter, or of two or three letters when no headword is one letter away; one letter from a rule-explained token; one letter from a headword and no stated meaning; meaning stated on the wiki; unclassified",
+  "manual_readings": {
+   "di": {
+    "class": "spelling variant or error",
+    "evidence": "Skyrim:Alduin prints 'Di kiirre fen alok.' with the hover gloss 'My children will rise.'; the headword for 'my' is Dii."
+   },
+   "dovah's": {
+    "class": "word of another language inside dragon text",
+    "evidence": "English possessive 's on the headword Dovah, in the official ESO style name \"Dovah's Du'ul\" (Online:Dovah's Du'ul Style)."
+   },
+   "kfir": {
+    "class": "spelling variant or error",
+    "evidence": "Blades:Shulkunaak writes 'Kfir voth ahkrin'; Blades:Facing the Dragon gives the same line as 'Krif voth ahkrin' (Krif 'Fight' is a headword)."
+   },
+   "men": {
+    "class": "unclassified",
+    "evidence": "Skyrim:Anniversary Edition quotes the cover text 'Naal Thuum Zeim Men Eruvos' with the wiki's reading '(by shout through many years)'; 'men' stands where 'many' stands in that reading, but the page states no word-by-word meaning. The headword for 'many' on the dictionary page is Pogaan."
+   },
+   "mere": {
+    "class": "unclassified",
+    "evidence": "Skyrim:Paarthurnax (dragon): 'Ni liivrah hin mere. True, this is not the final krongah - victory.' The wiki glosses no word of the sentence; Liiv 'Wither' and Hin 'Your' are headwords, 'mere' is not."
+   },
+   "moron": {
+    "class": "spelling variant or error",
+    "evidence": "Lore:Dragon Language: Myth no More, passage 1, prints 'moron au' where the wall itself (Skyrim:Aura Whisper, wall 2) reads MORO NAU ('glory on'): a word-division slip in the book text as the wiki gives it. The 'au' that follows it counts as the headword Au in this file."
+   },
+   "ri": {
+    "class": "spelling variant or error",
+    "evidence": "SkyrimVSE:Combat spells the Soul Tear shout 'Ri Vaaz Zoll'; the Skyrim shout page has Rii Vaaz Zol."
+   },
+   "tuum": {
+    "class": "unclassified",
+    "evidence": "Skyrim:High Hrothgar gives the banner text 'THUUM TUUM' and says the banners cannot be translated completely. Tu 'Hammer' + Um 'Twin' is a possible cut but nothing on the wiki supports it."
+   },
+   "zil": {
+    "class": "spelling variant or error",
+    "evidence": "Skyrim:Alduin prints 'zil gro dovah ulse!' in one place and 'ziil gro dovah ulse!' in another; Ziil is the headword."
+   },
+   "zoll": {
+    "class": "spelling variant or error",
+    "evidence": "SkyrimVSE:Combat spells the Soul Tear shout 'Ri Vaaz Zoll'; the Skyrim shout page has Rii Vaaz Zol."
+   }
+  },
+  "counts": {
+   "tokens_in_corpus": 4305,
+   "distinct_tokens": 800,
+   "distinct_headword_tokens": 604,
+   "distinct_explained_by_documented_rules": 39,
+   "distinct_oov": 157,
+   "token_occurrences": {
+    "headwords": 3869,
+    "explained_by_documented_rules": 72,
+    "oov": 364
+   },
+   "oov_by_class": {
+    "name": 118,
+    "spelling variant or error": 17,
+    "inflected or derived form (pattern not in the grammar section)": 13,
+    "likely lexicon omission (meaning stated on the wiki)": 5,
+    "word of another language inside dragon text": 1,
+    "unclassified": 3
+   },
+   "lexicon_headword_forms": 672,
+   "lexicon_headword_forms_never_seen_in_corpus": 68
+  },
+  "headwords_not_in_corpus_note": "headwords_not_in_corpus lists the lexicon spellings that never occur as a token of their own in the corpus. Some occur only inside a longer token (ahmul in ahmulii, hadrim in hadrimme); the rest are attested only by the source the dictionary page cites for them.",
+  "caveats": [
+   "Classes are best readings made by fixed tests plus a short manual list; they are not rulings on the language. 'name' in particular is decided by the English text of the same record and can be wrong for a word the translator chose to leave untranslated.",
+   "A token counted as a headword can still be a different word that happens to be spelled the same (the lexicon lists several homographs).",
+   "The corpus keeps the wiki's spelling, so wiki typos appear as tokens."
+  ]
+ },
+ "oov": [
+  {
+   "token": "alduin",
+   "as_written": [
+    "ALDUIN",
+    "Alduin"
+   ],
+   "count": 25,
+   "count_in_unique_texts": 20,
+   "texts": [
+    "song-dragon-poem-1",
+    "song-of-the-dragonborn-songs-of-skyrim-1",
+    "song-of-the-dragonborn-songs-of-skyrim-revised-1",
+    "song-dragon-skull-parchment-1",
+    "dlg-skyrim-alduin-3",
+    "dlg-skyrim-alduin-8",
+    "dlg-skyrim-alduin-21",
+    "dlg-skyrim-alduin-30",
+    "dlg-skyrim-dragonslayer-1",
+    "dlg-skyrim-gormlaith-golden-hilt-1",
+    "dlg-skyrim-odahviing-3",
+    "dlg-skyrim-odahviing-4",
+    "dlg-skyrim-paarthurnax-dragon-20",
+    "dlg-skyrim-paarthurnax-dragon-59",
+    "dlg-skyrim-viinturuth-1",
+    "name-lore-alduin-1",
+    "name-skyrim-alduin-1",
+    "name-skyrim-dragon-table-1",
+    "inscription-dragonstone-lore-1",
+    "inscription-dragonstone-skyrim-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Destroyer-Devour-Master'",
+   "possible_compound_readings": [
+    [
+     "al",
+     "du",
+     "in"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Destroyer Devour Master' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "sovngarde",
+   "as_written": [
+    "SOVNGARDE",
+    "Sovngarde"
+   ],
+   "count": 16,
+   "count_in_unique_texts": 10,
+   "texts": [
+    "ww-become-ethereal-3",
+    "ww-dismay-1",
+    "ww-slow-time-3",
+    "ww-storm-call-1",
+    "ww-storm-call-2",
+    "wwlore-gron-1",
+    "wwlore-faas-1",
+    "wwlore-ul-1",
+    "wwlore-strun-1",
+    "wwlore-bah-1",
+    "ww-e3-2011-1",
+    "dlg-skyrim-alduin-16",
+    "dlg-skyrim-alduin-18",
+    "dlg-skyrim-draugr-8",
+    "dlg-skyrim-mirmulnir-3",
+    "dlg-skyrim-sahloknir-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-become-ethereal-3)"
+  },
+  {
+   "token": "miraak",
+   "as_written": [
+    "MiraaK",
+    "Miraak"
+   ],
+   "count": 12,
+   "count_in_unique_texts": 8,
+   "texts": [
+    "ww-battle-fury-2",
+    "ww-dragon-aspect-1",
+    "ww-dragon-aspect-2",
+    "ww-dragon-aspect-3",
+    "wwlore-vur-1",
+    "wwlore-mul-1",
+    "wwlore-qah-1",
+    "wwlore-diiv-1",
+    "name-legends-card-lore-1",
+    "name-lore-miraak-1",
+    "name-skyrim-miraak-person-1",
+    "name-dragon-priest-mask-6"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Legends:Card Lore: 'Allegiance Guide'",
+   "one_letter_from_headwords": [
+    "Miiraak",
+    "Miiraad, Miraad",
+    "Piraak"
+   ],
+   "possible_compound_readings": [
+    [
+     "mir",
+     "aak"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Allegiance Guide' on Legends:Card Lore",
+    "'Allegiance Guide' on Lore:Miraak",
+    "'allegiance guide' on Skyrim:Miraak (person)",
+    "'Allegiance Guide' on Lore:Dragon Priest Masks"
+   ]
+  },
+  {
+   "token": "sahloknir",
+   "as_written": [
+    "Sahloknir",
+    "SAHLOKNIR"
+   ],
+   "count": 7,
+   "count_in_unique_texts": 5,
+   "texts": [
+    "dlg-skyrim-a-blade-in-the-dark-1",
+    "dlg-skyrim-a-blade-in-the-dark-3",
+    "dlg-skyrim-alduin-7",
+    "dlg-skyrim-alduin-9",
+    "dlg-skyrim-alduin-10",
+    "name-lore-sahloknir-1",
+    "name-skyrim-dragon-table-11"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Phantom-Sky-Hunt'",
+   "possible_compound_readings": [
+    [
+     "sah",
+     "lok",
+     "nir"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Phantom Sky Hunter' on Lore:Sahloknir",
+    "'Phantom Sky Hunt' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "odahviing",
+   "as_written": [
+    "Odahviing",
+    "ODAHViiNG"
+   ],
+   "count": 6,
+   "count_in_unique_texts": 6,
+   "texts": [
+    "dlg-skyrim-odahviing-22",
+    "name-legends-card-lore-2",
+    "name-lore-odahviing-1",
+    "name-online-elder-scrolls-historical-references-1",
+    "name-skyrim-odahviing-1",
+    "name-skyrim-dragon-table-8"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Snow-Hunter-Wing'",
+   "possible_compound_readings": [
+    [
+     "od",
+     "ah",
+     "viing"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Snow Hunter Wing' on Legends:Card Lore",
+    "'Winged Snow Hunter | Snow Hunter Wing' on Lore:Odahviing",
+    "'Snow-Hunter-Wing' on Online:Elder Scrolls Historical References",
+    "'Snow-Hunter-Wing' on Skyrim:Odahviing"
+   ]
+  },
+  {
+   "token": "paarthurnax",
+   "as_written": [
+    "Paarthurnax",
+    "PaaRTHURNAX"
+   ],
+   "count": 6,
+   "count_in_unique_texts": 6,
+   "texts": [
+    "dlg-skyrim-arngeir-5",
+    "dlg-skyrim-einarth-1",
+    "dlg-skyrim-einarth-2",
+    "name-lore-paarthurnax-1",
+    "name-skyrim-paarthurnax-dragon-1",
+    "name-skyrim-dragon-table-9"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Ambition-Overlord-Cruelty'",
+   "possible_compound_readings": [
+    [
+     "paar",
+     "thur",
+     "nax"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Ambition Overlord Cruelty' on Lore:Paarthurnax",
+    "'Ambition Overlord Cruelty' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "thuum",
+   "as_written": [
+    "THuuM",
+    "Thuum",
+    "THUUM"
+   ],
+   "count": 6,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "ww-throw-voice-1",
+    "ww-throw-voice-2",
+    "wwlore-zul-mey-gut-1",
+    "wwlore-zul-1",
+    "inscription-anniversary-edition-cover-1",
+    "inscription-high-hrothgar-banner-2"
+   ],
+   "class": "spelling variant or error",
+   "basis": "the headword Thu'um written without its apostrophe (rune text has no sign for it)"
+  },
+  {
+   "token": "ulse",
+   "as_written": [
+    "ulse",
+    "Ulse"
+   ],
+   "count": 5,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "dlg-legends-alduin-1",
+    "dlg-skyrim-a-blade-in-the-dark-1",
+    "dlg-skyrim-alduin-1",
+    "dlg-skyrim-alduin-7",
+    "inscription-anniversary-edition-cover-1"
+   ],
+   "class": "likely lexicon omission (meaning stated on the wiki)",
+   "basis": "in the phrase 'Ziil gro dovah ulse!' on Lore:Dragon Language (Your soul is bound to me for eternity!)",
+   "possible_compound_readings": [
+    [
+     "ul",
+     "se"
+    ]
+   ]
+  },
+  {
+   "token": "ahmulii",
+   "as_written": [
+    "ahMULii"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "ww-drain-vitality-2",
+    "ww-whirlwind-sprint-3",
+    "wwlore-lah-1",
+    "wwlore-kest-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Ahmul + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "modir",
+   "as_written": [
+    "MODIR"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "ww-throw-voice-1",
+    "ww-throw-voice-2",
+    "wwlore-zul-mey-gut-1",
+    "wwlore-zul-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-throw-voice-1)"
+  },
+  {
+   "token": "oskar",
+   "as_written": [
+    "OSKAR"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "ww-throw-voice-1",
+    "ww-throw-voice-2",
+    "wwlore-zul-mey-gut-1",
+    "wwlore-zul-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-throw-voice-1)"
+  },
+  {
+   "token": "relonikiv",
+   "as_written": [
+    "Relonikiv",
+    "RELONIKIV"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "dlg-skyrim-miraak-person-2",
+    "name-lore-relonikiv-1",
+    "name-skyrim-relonikiv-1",
+    "name-skyrim-dragon-table-10"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Dominate-Enlightenment'",
+   "possible_compound_readings": [
+    [
+     "rel",
+     "onikiv"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Dominate-Enlightenment' on Lore:Relonikiv",
+    "'Domination Enlightenment' on Skyrim:Relonikiv",
+    "'Domination Enlightenment' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "sahrotaar",
+   "as_written": [
+    "Sahrotaar",
+    "SAHROTaaR"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "dlg-skyrim-miraak-person-3",
+    "name-lore-sahrotaar-1",
+    "name-skyrim-sahrotaar-1",
+    "name-skyrim-dragon-table-12"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Mighty-Servant/Slave (Sahrot-Aar) or Phantom-Word-Servant/Slave (Sah-Rot-Aar)'",
+   "possible_compound_readings": [
+    [
+     "sahrot",
+     "aar"
+    ],
+    [
+     "sah",
+     "rot",
+     "aar"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Mighty Servant | Mighty Slave | Phantom Word Slave | Phantom Word Servant' on Lore:Sahrotaar",
+    "'Mighty Servant | Phantom Word Servant' on Skyrim:Sahrotaar",
+    "'Mighty Servant' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "zeymahii",
+   "as_written": [
+    "ZeyMahii"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "ww-throw-voice-1",
+    "ww-throw-voice-2",
+    "wwlore-zul-mey-gut-1",
+    "wwlore-zul-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Zeymah + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "aesa",
+   "as_written": [
+    "AESA",
+    "Aesa"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-fire-breath-2",
+    "wwlore-toor-1",
+    "ww-myth-no-more-5"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-fire-breath-2)"
+  },
+  {
+   "token": "ahzidal",
+   "as_written": [
+    "Ahzidal"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-ahzidal-1",
+    "name-skyrim-ahzidal-creature-1",
+    "name-dragon-priest-mask-1"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Lore:Ahzidal: 'the Embittered Destroyer | Bitter Destroyer'",
+   "possible_compound_readings": [
+    [
+     "ahzid",
+     "al"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'the Embittered Destroyer | Bitter Destroyer' on Lore:Ahzidal",
+    "'the Embittered Destroyer | Bitter Destroyer' on Skyrim:Ahzidal (creature)",
+    "'The Embittered Destroyer | literally: Bitter Destroyer' on Lore:Dragon Priest Masks"
+   ]
+  },
+  {
+   "token": "arngeir",
+   "as_written": [
+    "Arngeir"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "dlg-skyrim-arngeir-5",
+    "dlg-skyrim-einarth-1",
+    "dlg-skyrim-einarth-2"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (dlg-skyrim-arngeir-5)"
+  },
+  {
+   "token": "heimverlund",
+   "as_written": [
+    "HeiMVERLUND"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-storm-call-1",
+    "wwlore-strun-1",
+    "ww-e3-2011-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-storm-call-1)"
+  },
+  {
+   "token": "iglif",
+   "as_written": [
+    "IGLIF",
+    "Iglif"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-ice-form-1",
+    "wwlore-iiz-1",
+    "ww-myth-no-more-2"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-ice-form-1)"
+  },
+  {
+   "token": "korvag",
+   "as_written": [
+    "KORVAG"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-disarm-3",
+    "wwlore-viik-1",
+    "wwplace-korvag-crag-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-disarm-3)"
+  },
+  {
+   "token": "krosulhah",
+   "as_written": [
+    "Krosulhah",
+    "KROSULHah"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-krosulhah-1",
+    "name-skyrim-krosulhah-1",
+    "name-skyrim-dragon-table-3"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Sorcerer-Day-Mind'",
+   "possible_compound_readings": [
+    [
+     "kro",
+     "sul",
+     "hah"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Sorcerer-Day-Mind' on Lore:Krosulhah",
+    "'Sorcerer Day Mind' on Skyrim:Krosulhah",
+    "'Sorcerer Day Mind' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "kruziikrel",
+   "as_written": [
+    "Kruziikrel",
+    "KRUZiiKREL"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-kruziikrel-1",
+    "name-skyrim-kruziikrel-1",
+    "name-skyrim-dragon-table-4"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Ancient-Dominate'",
+   "possible_compound_readings": [
+    [
+     "kruziik",
+     "rel"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Dominate-Enlightenment' on Lore:Kruziikrel",
+    "'Ancient Domination' on Skyrim:Kruziikrel",
+    "'Ancient Domination' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "mirmulnir",
+   "as_written": [
+    "Mirmulnir",
+    "MIRMULNIR"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-mirmulnir-1",
+    "name-skyrim-mirmulnir-1",
+    "name-skyrim-dragon-table-5"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Allegiance-Strong-Hunt'",
+   "possible_compound_readings": [
+    [
+     "mir",
+     "mul",
+     "nir"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Allegiance Strong Hunt | Loyal Mortal Hunter' on Lore:Mirmulnir",
+    "'Allegiance Strong Hunt' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "naaslaarum",
+   "as_written": [
+    "Naaslaarum",
+    "NaaSLaaRUM"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-naaslaarum-1",
+    "name-skyrim-naaslaarum-1",
+    "name-skyrim-dragon-table-6"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Tooth-Water-Twin'",
+   "possible_compound_readings": [
+    [
+     "naas",
+     "laar",
+     "um"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Tooth-Water-Twin' on Lore:Naaslaarum",
+    "'Tooth Water Twin' on Skyrim:Naaslaarum",
+    "'Tooth Water Twin' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "nahagliiv",
+   "as_written": [
+    "Nahagliiv",
+    "NAHAGLiiV"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-nahagliiv-1",
+    "name-skyrim-nahagliiv-1",
+    "name-skyrim-dragon-table-7"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Fury-Burn-Wither'",
+   "possible_compound_readings": [
+    [
+     "nah",
+     "ag",
+     "liiv"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Fury Burn Wither' on Lore:Nahagliiv",
+    "'Fury Burn Wither' on Skyrim:Nahagliiv",
+    "'Fury Burn Wither' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "ri",
+   "as_written": [
+    "Ri"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "shouttext-skyrim-vse-19",
+    "shouttext-skyrim-vse-20",
+    "shouttext-skyrim-vse-21"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: SkyrimVSE:Combat spells the Soul Tear shout 'Ri Vaaz Zoll'; the Skyrim shout page has Rii Vaaz Zol."
+  },
+  {
+   "token": "skorji",
+   "as_written": [
+    "SKORJI",
+    "Skorji"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-marked-for-death-2",
+    "wwlore-lun-1",
+    "ww-myth-no-more-3"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-marked-for-death-2)"
+  },
+  {
+   "token": "thohild",
+   "as_written": [
+    "THOHILD",
+    "Thohild"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-fire-breath-2",
+    "wwlore-toor-1",
+    "ww-myth-no-more-5"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-fire-breath-2)"
+  },
+  {
+   "token": "viinturuth",
+   "as_written": [
+    "Viinturuth",
+    "ViiNTURUTH"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-viinturuth-1",
+    "name-skyrim-viinturuth-1",
+    "name-skyrim-dragon-table-13"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Shine-Hammer-Rage'",
+   "possible_compound_readings": [
+    [
+     "viin",
+     "tu",
+     "ruth"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Shine-Hammer-Rage' on Lore:Viinturuth",
+    "'Shine Hammer Rage' on Skyrim:Viinturuth",
+    "'Shine Hammer Rage' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "voslaarum",
+   "as_written": [
+    "Voslaarum",
+    "VOSLaaRUM"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-voslaarum-1",
+    "name-skyrim-voslaarum-1",
+    "name-skyrim-dragon-table-14"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Claw-Water-Twin'",
+   "possible_compound_readings": [
+    [
+     "vos",
+     "laar",
+     "um"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Claw-Water-Twin' on Lore:Voslaarum",
+    "'Claw Water Twin' on Skyrim:Voslaarum",
+    "'Claw Water Twin' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "vulthuryol",
+   "as_written": [
+    "Vulthuryol",
+    "VULTHURYOL"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "name-lore-vulthuryol-1",
+    "name-skyrim-vulthuryol-1",
+    "name-skyrim-dragon-table-16"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Dark-Overlord-Fire'",
+   "possible_compound_readings": [
+    [
+     "vul",
+     "thur",
+     "yol"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Dark-Overlord-Fire' on Lore:Vulthuryol",
+    "'Dark Overlord Fire' on Skyrim:Vulthuryol",
+    "'Dark Overlord Fire' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "vundeheim",
+   "as_written": [
+    "VUNDEHeiM"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-storm-call-3",
+    "wwlore-qo-1",
+    "wwplace-vundeheim-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-storm-call-3)"
+  },
+  {
+   "token": "yngnavar",
+   "as_written": [
+    "YNGNAVAR",
+    "Yngnavar"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "ww-aura-whisper-2",
+    "wwlore-yah-1",
+    "ww-myth-no-more-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-aura-whisper-2)"
+  },
+  {
+   "token": "aaban",
+   "as_written": [
+    "aaBAN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-2",
+    "wwlore-klo-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-slow-time-2)"
+  },
+  {
+   "token": "aahrk",
+   "as_written": [
+    "Aahrk"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "song-of-the-dragonborn-songs-of-skyrim-1",
+    "song-of-the-dragonborn-songs-of-skyrim-revised-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Ahrk"
+  },
+  {
+   "token": "aarii",
+   "as_written": [
+    "aaRii"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-animal-allegiance-2",
+    "wwlore-mir-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Aar + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "ahroldan",
+   "as_written": [
+    "Ahroldan",
+    "AHROLDAN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-old-hroldan-1",
+    "name-holdings-of-jarl-gjalund-4"
+   ],
+   "class": "name",
+   "basis": "listed in the Locations list of Lore:Dragon Language with the meaning 'Old Hroldan'",
+   "meanings_stated_on_the_wiki": [
+    "'Old Hroldan' on Lore:Old Hroldan",
+    "'H'roldan' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "ahrolsedovah",
+   "as_written": [
+    "Ahrolsedovah",
+    "AHROLSEDOVAH"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-whiterun-1",
+    "name-holdings-of-jarl-gjalund-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Locations list of Lore:Dragon Language with the meaning 'Hill-of-Dragons'",
+   "possible_compound_readings": [
+    [
+     "ahrol",
+     "se",
+     "dovah"
+    ],
+    [
+     "ahrol",
+     "se",
+     "dov",
+     "ah"
+    ],
+    [
+     "ahrol",
+     "se",
+     "do",
+     "vah"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Hill-of-Dragon' on Lore:Whiterun",
+    "'Hill of Dragon' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "ahtiir",
+   "as_written": [
+    "ahTiiR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-dragon-aspect-2",
+    "wwlore-qah-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Ahtiid"
+  },
+  {
+   "token": "alikr",
+   "as_written": [
+    "ALIKR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-2",
+    "wwlore-klo-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-slow-time-2)"
+  },
+  {
+   "token": "anurassa",
+   "as_written": [
+    "ANURASSA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-frost-breath-2",
+    "wwlore-krah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-frost-breath-2)"
+  },
+  {
+   "token": "arnvid",
+   "as_written": [
+    "ARNVID"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-drain-vitality-3",
+    "wwlore-haas-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-drain-vitality-3)"
+  },
+  {
+   "token": "azaran",
+   "as_written": [
+    "AZARAN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-become-ethereal-3",
+    "wwlore-gron-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-become-ethereal-3)"
+  },
+  {
+   "token": "bekkhild",
+   "as_written": [
+    "BEKKHILD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-whirlwind-sprint-3",
+    "wwlore-kest-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-whirlwind-sprint-3)"
+  },
+  {
+   "token": "bhar",
+   "as_written": [
+    "BHAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-bend-will-1",
+    "wwlore-gol-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-bend-will-1)"
+  },
+  {
+   "token": "bormahii",
+   "as_written": [
+    "BORMahii"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-become-ethereal-2",
+    "wwlore-zii-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Bormah + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "bormahil",
+   "as_written": [
+    "BORMahIL"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-1",
+    "wwlore-tiid-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Bormah + 'il'"
+  },
+  {
+   "token": "bromjunaar",
+   "as_written": [
+    "Bromjunaar",
+    "BROMJUNaaR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-skyrim-bromjunaar-sanctuary-1",
+    "name-holdings-of-jarl-gjalund-5"
+   ],
+   "class": "name",
+   "basis": "listed in the Locations list of Lore:Dragon Language with the meaning 'North-King-Slave (Direct Translation)'",
+   "possible_compound_readings": [
+    [
+     "brom",
+     "junaar"
+    ],
+    [
+     "brom",
+     "jun",
+     "aar"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Light of the Northern Servants | North Kingdom' on Skyrim:Bromjunaar Sanctuary",
+    "'North King Servant' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "brothi",
+   "as_written": [
+    "BROTHI"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-disarm-2",
+    "wwlore-haal-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-disarm-2)"
+  },
+  {
+   "token": "dunkreath",
+   "as_written": [
+    "DUNKREATH"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-1",
+    "wwlore-tiid-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-slow-time-1)"
+  },
+  {
+   "token": "durnehviir",
+   "as_written": [
+    "Durnehviir",
+    "DURNEHViiR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-durnehviir-1",
+    "name-skyrim-dragon-table-2"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Curse-Never-Dying'",
+   "possible_compound_readings": [
+    [
+     "dur",
+     "neh",
+     "viir"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Curse-Never-Dying' on Lore:Durnehviir",
+    "'Curse Never Dying' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "eyolf",
+   "as_written": [
+    "EYOLF"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-whirlwind-sprint-3",
+    "wwlore-kest-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-whirlwind-sprint-3)"
+  },
+  {
+   "token": "fjolmod",
+   "as_written": [
+    "FJOLMOD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-elemental-fury-1",
+    "wwlore-su-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-elemental-fury-1)"
+  },
+  {
+   "token": "freda",
+   "as_written": [
+    "FREDA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-aura-whisper-1",
+    "wwlore-laas-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-aura-whisper-1)"
+  },
+  {
+   "token": "hela",
+   "as_written": [
+    "HELA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-kyne-s-peace-1",
+    "wwlore-kaan-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-kyne-s-peace-1)"
+  },
+  {
+   "token": "herfodr",
+   "as_written": [
+    "HERFODR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-fire-breath-3",
+    "wwlore-shul-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-fire-breath-3)"
+  },
+  {
+   "token": "hrefna",
+   "as_written": [
+    "HREFNA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-frost-breath-3",
+    "wwlore-diin-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-frost-breath-3)"
+  },
+  {
+   "token": "hrodmir",
+   "as_written": [
+    "HRODMir"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-cyclone-3",
+    "wwlore-nos-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-cyclone-3)"
+  },
+  {
+   "token": "hrothmar",
+   "as_written": [
+    "HROTHMAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-storm-call-2",
+    "wwlore-bah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-storm-call-2)"
+  },
+  {
+   "token": "hungunthar",
+   "as_written": [
+    "HUNGUNTHAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-1",
+    "wwlore-tiid-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-slow-time-1)"
+  },
+  {
+   "token": "jafnhar",
+   "as_written": [
+    "JAFNHAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-fire-breath-1",
+    "wwlore-yol-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-fire-breath-1)"
+  },
+  {
+   "token": "joorahmaar",
+   "as_written": [
+    "Joorahmaar"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-joorahmaar-1",
+    "name-online-joorahmaar-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Mortal-Hunter-Terror'",
+   "possible_compound_readings": [
+    [
+     "joor",
+     "ah",
+     "maar"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Mortal Hunter Terror' on Lore:Joorahmaar",
+    "'Mortal Hunter Terror' on Online:Joorahmaar"
+   ]
+  },
+  {
+   "token": "judii",
+   "as_written": [
+    "JUDii"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-frost-breath-3",
+    "wwlore-diin-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Jud + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "krivaan",
+   "as_written": [
+    "KRIVaaN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-cyclone-3",
+    "wwlore-nos-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Kriaan, Kriivaan"
+  },
+  {
+   "token": "kulii",
+   "as_written": [
+    "KULii"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-disarm-2",
+    "wwlore-haal-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Kul + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "laatvulon",
+   "as_written": [
+    "Laatvulon"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-laatvulon-1",
+    "name-online-laatvulon-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Last-Night (Laat-Vulon) or Last-Dawn-Fist (Laat-Vu-Lon) or Last-Dark-Spirit (Laat-Vul-On)'",
+   "possible_compound_readings": [
+    [
+     "laat",
+     "vulon"
+    ],
+    [
+     "laat",
+     "vul",
+     "on"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Last-Night' on Lore:Laatvulon",
+    "'Last-Dark-Spirit | Last-Night' on Online:Laatvulon"
+   ]
+  },
+  {
+   "token": "laknir",
+   "as_written": [
+    "LAKNIR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-animal-allegiance-2",
+    "wwlore-mir-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-animal-allegiance-2)"
+  },
+  {
+   "token": "lanal",
+   "as_written": [
+    "LANAL"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-ice-form-3",
+    "wwlore-nus-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-ice-form-3)"
+  },
+  {
+   "token": "lodunost",
+   "as_written": [
+    "LODUNOST"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-fire-breath-1",
+    "wwlore-yol-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Deceive-Devour-??? (Lo-Du-Nost) or Deceive-Grace-??? (Lo-Dun-Ost)'"
+  },
+  {
+   "token": "lokkestiiz",
+   "as_written": [
+    "Lokkestiiz"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-lokkestiiz-1",
+    "name-online-lokkestiiz-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Sky-Tempest-Ice'",
+   "possible_compound_readings": [
+    [
+     "lok",
+     "kest",
+     "iiz"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Sky-Tempest-Ice' on Lore:Lokkestiiz",
+    "'Sky Tempest Ice' on Online:Lokkestiiz"
+   ]
+  },
+  {
+   "token": "lunerio",
+   "as_written": [
+    "LUNERIO"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-frost-breath-1",
+    "wwlore-fo-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-frost-breath-1)"
+  },
+  {
+   "token": "lungerd",
+   "as_written": [
+    "LUNGERD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-drain-vitality-2",
+    "wwlore-lah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-drain-vitality-2)"
+  },
+  {
+   "token": "maarselok",
+   "as_written": [
+    "Maarselok"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-maarselok-1",
+    "name-online-maarselok-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Terror-Of-Sky'",
+   "possible_compound_readings": [
+    [
+     "maar",
+     "se",
+     "lok"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Terror-of-Sky' on Lore:Maarselok",
+    "'Terror-Of-Sky' on Online:Maarselok"
+   ]
+  },
+  {
+   "token": "monii",
+   "as_written": [
+    "MONii"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-marked-for-death-3",
+    "wwlore-aus-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Mon + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "mulaamnir",
+   "as_written": [
+    "Mulaamnir"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-mulaamnir-1",
+    "name-online-mulaamnir-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Strong-Serve-Hunt'",
+   "possible_compound_readings": [
+    [
+     "mul",
+     "aam",
+     "nir"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Strong-Serve-Hunt' on Lore:Mulaamnir",
+    "'Strong-Serve-Hunt' on Online:Mulaamnir"
+   ]
+  },
+  {
+   "token": "nafni",
+   "as_written": [
+    "NAFNI"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-become-ethereal-2",
+    "wwlore-zii-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-become-ethereal-2)"
+  },
+  {
+   "token": "nahviintaas",
+   "as_written": [
+    "Nahviintaas"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-nahviintaas-1",
+    "name-online-nahviintaas-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Fury-Shining'",
+   "possible_compound_readings": [
+    [
+     "nah",
+     "viintaas"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Fury-Shining' on Lore:Nahviintaas",
+    "'Fury-Shining' on Online:Nahviintaas"
+   ]
+  },
+  {
+   "token": "neivaan",
+   "as_written": [
+    "NeiVaaN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-throw-voice-4",
+    "wwlore-gut-1"
+   ],
+   "class": "name",
+   "basis": "the wiki's English for the same text (ww-throw-voice-4) has the name 'Nievaan', one letter different"
+  },
+  {
+   "token": "noomi",
+   "as_written": [
+    "NOOMI"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-marked-for-death-3",
+    "wwlore-aus-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-marked-for-death-3)"
+  },
+  {
+   "token": "oblivion",
+   "as_written": [
+    "OBLIVION"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-whirlwind-sprint-2",
+    "wwlore-nah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-whirlwind-sprint-2)"
+  },
+  {
+   "token": "odrav",
+   "as_written": [
+    "ODRAV"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-disarm-2",
+    "wwlore-haal-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-disarm-2)"
+  },
+  {
+   "token": "omluth",
+   "as_written": [
+    "OMLUTH"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-throw-voice-3",
+    "wwlore-mey-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-throw-voice-3)"
+  },
+  {
+   "token": "paarbahlot",
+   "as_written": [
+    "Paarbahlot"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-paarbahlot-1",
+    "name-online-paarbahlot-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Ambition-Wrath-Great'",
+   "possible_compound_readings": [
+    [
+     "paar",
+     "bah",
+     "lot"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Ambition-Wrath-Great' on Lore:Paarbahlot",
+    "'Ambition-Wrath-Great' on Online:Paarbahlot"
+   ]
+  },
+  {
+   "token": "rognvald",
+   "as_written": [
+    "ROGNVALD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-become-ethereal-2",
+    "wwlore-zii-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-become-ethereal-2)"
+  },
+  {
+   "token": "romerius",
+   "as_written": [
+    "ROMERIUS"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-dismay-2",
+    "wwlore-ru-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-dismay-2)"
+  },
+  {
+   "token": "rorikhofkah",
+   "as_written": [
+    "Rorikhofkah",
+    "RORIKHOFKAH"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-rorikstead-1",
+    "name-holdings-of-jarl-gjalund-2"
+   ],
+   "class": "name",
+   "basis": "listed in the Locations list of Lore:Dragon Language with the meaning 'Rorik's Steading'",
+   "meanings_stated_on_the_wiki": [
+    "'Rorikstead' on Lore:Rorikstead",
+    "'Rorik's Steading' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "sarvirra",
+   "as_written": [
+    "SARVIRRA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-animal-allegiance-1",
+    "wwlore-raan-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-animal-allegiance-1)"
+  },
+  {
+   "token": "sigruuf",
+   "as_written": [
+    "SIGRuuF"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-ice-form-3",
+    "wwlore-nus-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-ice-form-3)"
+  },
+  {
+   "token": "svolo",
+   "as_written": [
+    "SVOLO"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-drain-vitality-1",
+    "wwlore-gaan-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-drain-vitality-1)"
+  },
+  {
+   "token": "thjodrek",
+   "as_written": [
+    "THJODREK"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-elemental-fury-2",
+    "wwlore-grah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-elemental-fury-2)"
+  },
+  {
+   "token": "thorgrima",
+   "as_written": [
+    "THORGRIMA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-drain-vitality-2",
+    "wwlore-lah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-drain-vitality-2)"
+  },
+  {
+   "token": "thoringar",
+   "as_written": [
+    "THORINGAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-marked-for-death-3",
+    "wwlore-aus-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-marked-for-death-3)"
+  },
+  {
+   "token": "thurvokun",
+   "as_written": [
+    "Thurvokun"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-thurvokun-1",
+    "name-online-thurvokun-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Overlord-Shadow'",
+   "possible_compound_readings": [
+    [
+     "thur",
+     "vokun"
+    ],
+    [
+     "thur",
+     "vo",
+     "kun"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Overlord-Shadow' on Lore:Thurvokun",
+    "'Overlord-Opposite-Moonlight | Overlord Shadow' on Online:Thurvokun"
+   ]
+  },
+  {
+   "token": "uderfrykte",
+   "as_written": [
+    "UDERFRYKTE"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-throw-voice-3",
+    "wwlore-mey-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-throw-voice-3)"
+  },
+  {
+   "token": "ulfeidr",
+   "as_written": [
+    "ULFeiDR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-animal-allegiance-3",
+    "wwlore-tah-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-animal-allegiance-3)"
+  },
+  {
+   "token": "undveld",
+   "as_written": [
+    "UNDVELD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-aura-whisper-3",
+    "wwlore-nir-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-aura-whisper-3)"
+  },
+  {
+   "token": "unlaad",
+   "as_written": [
+    "UNLaaD"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-cyclone-1",
+    "wwlore-ven-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Unslaad, Unahzaal"
+  },
+  {
+   "token": "vakeeza",
+   "as_written": [
+    "VAKEEZA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-animal-allegiance-2",
+    "wwlore-mir-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-animal-allegiance-2)"
+  },
+  {
+   "token": "valkrys",
+   "as_written": [
+    "VALKRYS"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-kyne-s-peace-3",
+    "wwlore-ov-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-kyne-s-peace-3)"
+  },
+  {
+   "token": "vegunthar",
+   "as_written": [
+    "VEGUNTHAR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-slow-time-1",
+    "wwlore-tiid-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-slow-time-1)"
+  },
+  {
+   "token": "vulgrum",
+   "as_written": [
+    "VULGRUM"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-cyclone-1",
+    "wwlore-ven-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-cyclone-1)"
+  },
+  {
+   "token": "vuljotnaak",
+   "as_written": [
+    "Vuljotnaak",
+    "VULJOTNaaK"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-vuljotnaak-1",
+    "name-skyrim-dragon-table-15"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Dark-Maw-Eat'",
+   "possible_compound_readings": [
+    [
+     "vul",
+     "jot",
+     "naak"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Dark Maw Eat' on Lore:Vuljotnaak",
+    "'Dark Maw Eat' on Skyrim:Dragon"
+   ]
+  },
+  {
+   "token": "wulfin",
+   "as_written": [
+    "WULFIN"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-frost-breath-3",
+    "wwlore-diin-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-frost-breath-3)"
+  },
+  {
+   "token": "wynjolf",
+   "as_written": [
+    "WYNJOLF"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-whirlwind-sprint-1",
+    "wwlore-wuld-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-whirlwind-sprint-1)"
+  },
+  {
+   "token": "yahgrondu",
+   "as_written": [
+    "Yahgrondu"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-yahgrondu-1",
+    "name-online-yahgrondu-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Seek-Bind-Devour'",
+   "possible_compound_readings": [
+    [
+     "yah",
+     "gron",
+     "du"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Seek-Bind-Devour' on Lore:Yahgrondu",
+    "'Seek-Bind-Devour' on Online:Yahgrondu"
+   ]
+  },
+  {
+   "token": "yolnahkriin",
+   "as_written": [
+    "Yolnahkriin"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-lore-yolnahkriin-1",
+    "name-online-yolnahkriin-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Fire-Vengeance (Yol-Nahkriin) or Fire-Fury-Slaughter (Yol-Nah-Kriin)'",
+   "possible_compound_readings": [
+    [
+     "yol",
+     "nahkriin"
+    ],
+    [
+     "yol",
+     "nah",
+     "kriin"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Fire-Vengeance | Fire-Fury-Slaughter' on Lore:Yolnahkriin",
+    "'Fire-Fury-Slay' on Online:Yolnahkriin"
+   ]
+  },
+  {
+   "token": "yrsa",
+   "as_written": [
+    "YRSA"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-elemental-fury-3",
+    "wwlore-dun-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-elemental-fury-3)"
+  },
+  {
+   "token": "ysmir",
+   "as_written": [
+    "Ysmir"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-greybeards-chant-1",
+    "dlg-greybeards-chant-2"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (dlg-greybeards-chant-1)"
+  },
+  {
+   "token": "zahkriisos",
+   "as_written": [
+    "Zahkriisos"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "name-skyrim-zahkriisos-creature-1",
+    "name-dragon-priest-mask-11"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Skyrim:Zahkriisos (creature): 'sword blood'",
+   "possible_compound_readings": [
+    [
+     "zahkrii",
+     "sos"
+    ],
+    [
+     "zah",
+     "krii",
+     "sos"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'sword blood' on Skyrim:Zahkriisos (creature)",
+    "'Sword-Blood' on Lore:Dragon Priest Masks"
+   ]
+  },
+  {
+   "token": "ahbiilok",
+   "as_written": [
+    "Ahbiilok"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-ahbiilok-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Hunter-Blue-Sky'",
+   "possible_compound_readings": [
+    [
+     "ah",
+     "bii",
+     "lok"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Hunter-Blue-Sky' on Lore:Ahbiilok"
+   ]
+  },
+  {
+   "token": "akatosh",
+   "as_written": [
+    "Akatosh"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-44"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (dlg-skyrim-paarthurnax-dragon-44)"
+  },
+  {
+   "token": "amusan",
+   "as_written": [
+    "AMUSAN"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-phantom-form-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-phantom-form-1)"
+  },
+  {
+   "token": "bahlokdaan",
+   "as_written": [
+    "Bahlokdaan"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-bahlokdaan-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Wrath-Sky-Doom (Bah-Lok-Daan) or Hunger-Doom (Bahlok-Daan)'",
+   "possible_compound_readings": [
+    [
+     "bahlok",
+     "daan"
+    ],
+    [
+     "bah",
+     "lok",
+     "daan"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Hunger-Doom | Wrath-Sky-Doom' on Online:Bahlokdaan"
+   ]
+  },
+  {
+   "token": "boziikkodstrun",
+   "as_written": [
+    "Boziikkodstrun"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-boziikkodstrun-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Boldly-Wield-Storm'",
+   "possible_compound_readings": [
+    [
+     "boziik",
+     "kod",
+     "strun"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Boldly-Wield-Storm' on Lore:Boziikkodstrun"
+   ]
+  },
+  {
+   "token": "bruniike",
+   "as_written": [
+    "bruniike"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-53"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Bruniik(ke) + 'e'; reads as a plural without the doubled letter (the plural rule would give bruniikke)",
+   "one_letter_from_headwords": [
+    "Bruniik(ke)",
+    "Bruniik(ke)"
+   ]
+  },
+  {
+   "token": "di",
+   "as_written": [
+    "Di"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-27"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: Skyrim:Alduin prints 'Di kiirre fen alok.' with the hover gloss 'My children will rise.'; the headword for 'my' is Dii."
+  },
+  {
+   "token": "dova",
+   "as_written": [
+    "Dova"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "word-gloss-game-informer-3"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword Dovah, and the wiki states the same meaning for it: 'dragon' on General:Skyrim’s Dragon Shouts",
+   "meanings_stated_on_the_wiki": [
+    "'dragon' on General:Skyrim’s Dragon Shouts"
+   ]
+  },
+  {
+   "token": "dovah's",
+   "as_written": [
+    "Dovah's"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-dovah-s-du-ul-style-1"
+   ],
+   "class": "word of another language inside dragon text",
+   "basis": "Reviewer's reading: English possessive 's on the headword Dovah, in the official ESO style name \"Dovah's Du'ul\" (Online:Dovah's Du'ul Style)."
+  },
+  {
+   "token": "dukaanfinsot",
+   "as_written": [
+    "Dukaanfinsot"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-dukaanfinsot-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Dishonor-The-White'",
+   "possible_compound_readings": [
+    [
+     "dukaan",
+     "fin",
+     "sot"
+    ],
+    [
+     "du",
+     "kaan",
+     "fin",
+     "sot"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Dishonor-The-White' on Lore:Dukaanfinsot"
+   ]
+  },
+  {
+   "token": "dwiindovah",
+   "as_written": [
+    "Dwiindovah"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-blue-dragon-imp-1"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Online:Blue Dragon Imp: 'Steel Dragon'",
+   "possible_compound_readings": [
+    [
+     "dwiin",
+     "dovah"
+    ],
+    [
+     "dwiin",
+     "dov",
+     "ah"
+    ],
+    [
+     "dwiin",
+     "do",
+     "vah"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Steel Dragon' on Online:Blue Dragon Imp"
+   ]
+  },
+  {
+   "token": "fadonne",
+   "as_written": [
+    "fadonne"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-39"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from fahdonne, which the documented rules explain"
+  },
+  {
+   "token": "fez",
+   "as_written": [
+    "fez"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-online-nahfahlaar-16"
+   ],
+   "class": "likely lexicon omission (meaning stated on the wiki)",
+   "basis": "in the phrase 'Vomindok fez' on Lore:Dragon Language (\"An Unexpected Outcome\" (literally: Unknown _))"
+  },
+  {
+   "token": "grahkrindrog",
+   "as_written": [
+    "Grahkrindrog"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-grahkrindrog-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Battle-Courageous-Lord'",
+   "possible_compound_readings": [
+    [
+     "grah",
+     "krin",
+     "drog"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Battle-Courageous-Lord' on Lore:Grahkrindrog"
+   ]
+  },
+  {
+   "token": "hillgrundhofkah",
+   "as_written": [
+    "HILLGRUNDHOFKAH"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-holdings-of-jarl-gjalund-8"
+   ],
+   "class": "name",
+   "basis": "listed in the Locations list of Lore:Dragon Language with the meaning 'Hillgrund's Steading'",
+   "meanings_stated_on_the_wiki": [
+    "'Hillgrund's Steading' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "hinde",
+   "as_written": [
+    "hinde"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-11"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Hind + 'e'; reads as a plural without the doubled letter (the plural rule would give hindde)",
+   "one_letter_from_headwords": [
+    "Hind"
+   ]
+  },
+  {
+   "token": "kaalgrontiid",
+   "as_written": [
+    "Kaalgrontiid"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-kaalgrontiid-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Champion-Bind-Time'",
+   "possible_compound_readings": [
+    [
+     "kaal",
+     "gron",
+     "tiid"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Champion of the Bound Time' on Lore:Kaalgrontiid"
+   ]
+  },
+  {
+   "token": "kfir",
+   "as_written": [
+    "Kfir"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-blades-shulkunaak-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: Blades:Shulkunaak writes 'Kfir voth ahkrin'; Blades:Facing the Dragon gives the same line as 'Krif voth ahkrin' (Krif 'Fight' is a headword)."
+  },
+  {
+   "token": "korvanjund",
+   "as_written": [
+    "KORVANJUND"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-holdings-of-jarl-gjalund-6"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (name-holdings-of-jarl-gjalund-6)",
+   "meanings_stated_on_the_wiki": [
+    "'Korvanjund' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "krahjotdaan",
+   "as_written": [
+    "Krahjotdaan"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-krahjotdaan-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Cold-Maw-Doom'",
+   "possible_compound_readings": [
+    [
+     "krah",
+     "jot",
+     "daan"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Cold Maw Doom' on Lore:Krahjotdaan"
+   ]
+  },
+  {
+   "token": "krahnoviir",
+   "as_written": [
+    "Krahnoviir"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-krahnoviir-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Cold-???-Dying'",
+   "meanings_stated_on_the_wiki": [
+    "'Cold-[?]-Dying' on Online:Krahnoviir"
+   ]
+  },
+  {
+   "token": "krongah",
+   "as_written": [
+    "krongah"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-50"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Krongrah"
+  },
+  {
+   "token": "men",
+   "as_written": [
+    "Men"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "inscription-anniversary-edition-cover-1"
+   ],
+   "class": "unclassified",
+   "basis": "Reviewer's reading: Skyrim:Anniversary Edition quotes the cover text 'Naal Thuum Zeim Men Eruvos' with the wiki's reading '(by shout through many years)'; 'men' stands where 'many' stands in that reading, but the page states no word-by-word meaning. The headword for 'many' on the dictionary page is Pogaan."
+  },
+  {
+   "token": "mere",
+   "as_written": [
+    "mere"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-50"
+   ],
+   "class": "unclassified",
+   "basis": "Reviewer's reading: Skyrim:Paarthurnax (dragon): 'Ni liivrah hin mere. True, this is not the final krongah - victory.' The wiki glosses no word of the sentence; Liiv 'Wither' and Hin 'Your' are headwords, 'mere' is not."
+  },
+  {
+   "token": "moron",
+   "as_written": [
+    "moron"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-myth-no-more-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: Lore:Dragon Language: Myth no More, passage 1, prints 'moron au' where the wall itself (Skyrim:Aura Whisper, wall 2) reads MORO NAU ('glory on'): a word-division slip in the book text as the wiki gives it. The 'au' that follows it counts as the headword Au in this file."
+  },
+  {
+   "token": "nahfahlaar",
+   "as_written": [
+    "Nahfahlaar"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-nahfahlaar-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Fury-For-Water'",
+   "possible_compound_readings": [
+    [
+     "nah",
+     "fah",
+     "laar"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Fury-For-Water' on Lore:Nahfahlaar"
+   ]
+  },
+  {
+   "token": "nihn",
+   "as_written": [
+    "Nihn"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "shouttext-summon-strangler-1"
+   ],
+   "class": "likely lexicon omission (meaning stated on the wiki)",
+   "basis": "shout word 'Nihn' = 'Poison' (Summon Strangler, Online:Dragon)",
+   "one_letter_from_headwords": [
+    "Niin"
+   ]
+  },
+  {
+   "token": "pookdovah",
+   "as_written": [
+    "Pookdovah"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-green-dragon-imp-1"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Online:Green Dragon Imp: 'Stink Dragon'",
+   "possible_compound_readings": [
+    [
+     "pook",
+     "dovah"
+    ],
+    [
+     "pook",
+     "dov",
+     "ah"
+    ],
+    [
+     "pook",
+     "do",
+     "vah"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Stink Dragon' on Online:Green Dragon Imp"
+   ]
+  },
+  {
+   "token": "qahnaraan",
+   "as_written": [
+    "qahnaraan"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-dragonslayer-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Qahnaaran"
+  },
+  {
+   "token": "sahrotnax",
+   "as_written": [
+    "Sahrotnax"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-sahrotnax-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Mighty-Cruelty (Sahrot-Nax) or Phantom-Word-Cruelty (Sah-Rot-Nax)'",
+   "possible_compound_readings": [
+    [
+     "sahrot",
+     "nax"
+    ],
+    [
+     "sah",
+     "rot",
+     "nax"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'either Phantom-Word-Cruelty (sah-rot-nax), or Mighty-Cruelty (sahrot-nax)' on Online:Sahrotnax"
+   ]
+  },
+  {
+   "token": "shulkunaak",
+   "as_written": [
+    "Shulkunaak"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-blades-shulkunaak-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Sun-Moonlight-Guide'",
+   "possible_compound_readings": [
+    [
+     "shul",
+     "kun",
+     "aak"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Sun-Moonlight-Eat | Sun-Moonlight-Guide' on Blades:Shulkunaak"
+   ]
+  },
+  {
+   "token": "siglif",
+   "as_written": [
+    "SIGLIF"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-phantom-form-3"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (ww-phantom-form-3)"
+  },
+  {
+   "token": "skuldafn",
+   "as_written": [
+    "Skuldafn"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-skuldafn-1"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (dlg-skyrim-skuldafn-1)"
+  },
+  {
+   "token": "thu'umii",
+   "as_written": [
+    "Thu'umii"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-dragonslayer-1"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Thu'um + 'ii'; the wiki's translations render such forms as possessives (his, her), while the Grammar section names only + i"
+  },
+  {
+   "token": "tiiraaz",
+   "as_written": [
+    "tiiraaz"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-64"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Tiiraz"
+  },
+  {
+   "token": "toshrakhat",
+   "as_written": [
+    "Toshrakhat"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-ja-darri-1"
+   ],
+   "class": "name",
+   "basis": "named in the prose of the Names section of Lore:Dragon Language as a dragon name granted to a mortal"
+  },
+  {
+   "token": "tuum",
+   "as_written": [
+    "TUUM"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "inscription-high-hrothgar-banner-2"
+   ],
+   "class": "unclassified",
+   "basis": "Reviewer's reading: Skyrim:High Hrothgar gives the banner text 'THUUM TUUM' and says the banners cannot be translated completely. Tu 'Hammer' + Um 'Twin' is a possible cut but nothing on the wiki supports it.",
+   "possible_compound_readings": [
+    [
+     "tu",
+     "um"
+    ]
+   ]
+  },
+  {
+   "token": "uznahgar",
+   "as_written": [
+    "Uznahgar"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-50"
+   ],
+   "class": "spelling variant or error",
+   "basis": "one letter away from the headword(s) Uznahgaar"
+  },
+  {
+   "token": "vahlokzin",
+   "as_written": [
+    "Vahlokzin"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-vahlokzin-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Spring-Rise/Sky-Honor (Vah-Lok-Zin) or Guardian-Honor (Vahlok-Zin)'",
+   "possible_compound_readings": [
+    [
+     "vahlok",
+     "zin"
+    ],
+    [
+     "vah",
+     "lok",
+     "zin"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Spring-Rise/Sky-Honor (vah-lok-zin) | Guardian-Honor (vahlok-zin)' on Online:Vahlokzin"
+   ]
+  },
+  {
+   "token": "vithrelnaak",
+   "as_written": [
+    "Vithrelnaak"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-lore-vithrelnaak-1"
+   ],
+   "class": "name",
+   "basis": "listed in the Names section of Lore:Dragon Language with the meaning 'Serpent-Domination-Eat'",
+   "possible_compound_readings": [
+    [
+     "vith",
+     "rel",
+     "naak"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Serpent-Domination-Eat' on Lore:Vithrelnaak"
+   ]
+  },
+  {
+   "token": "vokriiha",
+   "as_written": [
+    "vokriiha"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-8"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Vokri, Vokrii + 'ha'"
+  },
+  {
+   "token": "volunruud",
+   "as_written": [
+    "VOLUNRuuD"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-holdings-of-jarl-gjalund-7"
+   ],
+   "class": "name",
+   "basis": "carried over unchanged into the wiki's English for the same text (name-holdings-of-jarl-gjalund-7)",
+   "meanings_stated_on_the_wiki": [
+    "'Volunruud' on Lore:Holdings of Jarl Gjalund"
+   ]
+  },
+  {
+   "token": "vu",
+   "as_written": [
+    "VU"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-phantom-form-3"
+   ],
+   "class": "likely lexicon omission (meaning stated on the wiki)",
+   "basis": "segment 'Vu' = 'Dawn' in the analysis of the name Laatvulon (Laat-Vu-Lon) on Lore:Dragon Language"
+  },
+  {
+   "token": "yoltoor",
+   "as_written": [
+    "Yoltoor"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "name-online-yoltoor-dovah-fly-1"
+   ],
+   "class": "name",
+   "basis": "name with a wiki-stated meaning on Online:Yoltoor Dovah-Fly: 'Yol (Fire) + Toor (Inferno)'",
+   "possible_compound_readings": [
+    [
+     "yol",
+     "toor"
+    ]
+   ],
+   "meanings_stated_on_the_wiki": [
+    "'Yol (Fire) + Toor (Inferno)' on Online:Yoltoor Dovah-Fly"
+   ]
+  },
+  {
+   "token": "zaamiil",
+   "as_written": [
+    "zaamiil"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-dragon-riding-13"
+   ],
+   "class": "inflected or derived form (pattern not in the grammar section)",
+   "basis": "headword Zaam + 'iil'"
+  },
+  {
+   "token": "zey",
+   "as_written": [
+    "Zey"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "shouttext-zey-qeth-lok-1"
+   ],
+   "class": "likely lexicon omission (meaning stated on the wiki)",
+   "basis": "shout word 'Zey' = 'Brother' (Zey Qeth Lok, Online:Dragon)"
+  },
+  {
+   "token": "zil",
+   "as_written": [
+    "zil"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-1"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: Skyrim:Alduin prints 'zil gro dovah ulse!' in one place and 'ziil gro dovah ulse!' in another; Ziil is the headword."
+  },
+  {
+   "token": "zoll",
+   "as_written": [
+    "Zoll"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "shouttext-skyrim-vse-21"
+   ],
+   "class": "spelling variant or error",
+   "basis": "Reviewer's reading: SkyrimVSE:Combat spells the Soul Tear shout 'Ri Vaaz Zoll'; the Skyrim shout page has Rii Vaaz Zol."
+  }
+ ],
+ "explained_by_documented_rules": [
+  {
+   "token": "thuri",
+   "as_written": [
+    "thuri",
+    "Thuri"
+   ],
+   "count": 12,
+   "count_in_unique_texts": 12,
+   "texts": [
+    "dlg-skyrim-alduin-3",
+    "dlg-skyrim-alduin-8",
+    "dlg-skyrim-dragon-riding-2",
+    "dlg-skyrim-dragon-riding-3",
+    "dlg-skyrim-dragon-riding-8",
+    "dlg-skyrim-dragon-riding-10",
+    "dlg-skyrim-krosulhah-2",
+    "dlg-skyrim-odahviing-20",
+    "dlg-skyrim-odahviing-21",
+    "dlg-skyrim-sahrotaar-1",
+    "dlg-skyrim-sahrotaar-7",
+    "dlg-skyrim-viinturuth-1"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "thur",
+    "headwords": [
+     "Thur"
+    ]
+   }
+  },
+  {
+   "token": "bormahu",
+   "as_written": [
+    "Bormahu"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "dlg-online-nahfahlaar-13",
+    "dlg-skyrim-paarthurnax-dragon-60",
+    "dlg-skyrim-paarthurnax-dragon-62",
+    "name-lore-akatosh-1"
+   ],
+   "reading": {
+    "rule": "our: + u",
+    "stem": "bormah",
+    "headwords": [
+     "Bormah"
+    ]
+   }
+  },
+  {
+   "token": "sille",
+   "as_written": [
+    "sille"
+   ],
+   "count": 4,
+   "count_in_unique_texts": 4,
+   "texts": [
+    "dlg-skyrim-alduin-16",
+    "dlg-skyrim-alduin-31",
+    "dlg-skyrim-mirmulnir-3",
+    "dlg-skyrim-sahloknir-1"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "sil",
+    "headwords": [
+     "Sil"
+    ]
+   }
+  },
+  {
+   "token": "meyye",
+   "as_written": [
+    "Meyye",
+    "meyye"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "dlg-skyrim-alduin-11",
+    "dlg-skyrim-odahviing-4",
+    "dlg-skyrim-paarthurnax-dragon-38"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "mey",
+    "headwords": [
+     "Mey"
+    ]
+   }
+  },
+  {
+   "token": "suleyki",
+   "as_written": [
+    "Suleyki",
+    "suleyki"
+   ],
+   "count": 3,
+   "count_in_unique_texts": 3,
+   "texts": [
+    "dlg-online-laatvulon-4",
+    "dlg-skyrim-alduin-15",
+    "dlg-skyrim-alduin-31"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "suleyk",
+    "headwords": [
+     "Suleyk"
+    ]
+   }
+  },
+  {
+   "token": "atmorasewuth",
+   "as_written": [
+    "Atmorasewuth"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-greybeards-chant-1",
+    "dlg-greybeards-chant-2"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "atmora",
+     "se",
+     "wuth"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "bahloki",
+   "as_written": [
+    "bahloki",
+    "Bahloki"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "dlg-skyrim-alduin-5",
+    "dlg-skyrim-alduin-14"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "bahlok",
+    "headwords": [
+     "Bahlok"
+    ]
+   }
+  },
+  {
+   "token": "boaan",
+   "as_written": [
+    "boaan",
+    "Boaan"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "dlg-skyrim-alduin-4",
+    "dlg-skyrim-alduin-8"
+   ],
+   "reading": {
+    "rule": "perfect: + aan",
+    "stem": "bo",
+    "headwords": [
+     "Bo"
+    ]
+   }
+  },
+  {
+   "token": "dovahsebrom",
+   "as_written": [
+    "Dovahsebrom"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-greybeards-chant-1",
+    "dlg-greybeards-chant-2"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "dovah",
+     "se",
+     "brom"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "drogge",
+   "as_written": [
+    "DROGGE"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "inscription-dragonstone-lore-1",
+    "inscription-dragonstone-skyrim-1"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "drog",
+    "headwords": [
+     "Drog"
+    ]
+   }
+  },
+  {
+   "token": "rahgron",
+   "as_written": [
+    "RahGRON"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-whirlwind-sprint-1",
+    "wwlore-wuld-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "rah",
+     "gron"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "rotmulaagge",
+   "as_written": [
+    "Rotmulaagge"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "dlg-skyrim-krosulhah-5",
+    "dlg-skyrim-sahrotaar-4"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "rotmulaag",
+    "headwords": [
+     "Rotmulaag"
+    ]
+   }
+  },
+  {
+   "token": "sadonvum",
+   "as_written": [
+    "SADONVUM"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-throw-voice-2",
+    "wwlore-zul-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "sadon",
+     "vum"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "suleykaar",
+   "as_written": [
+    "SULeyKaaR"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "ww-dragon-aspect-1",
+    "wwlore-mul-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "suleyk",
+     "aar"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "thu'umu",
+   "as_written": [
+    "Thu'umu"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-greybeards-chant-1",
+    "dlg-greybeards-chant-2"
+   ],
+   "reading": {
+    "rule": "our: + u",
+    "stem": "thu'um",
+    "headwords": [
+     "Thu'um"
+    ]
+   }
+  },
+  {
+   "token": "wundunne",
+   "as_written": [
+    "wundunne"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "dlg-online-nahfahlaar-15",
+    "dlg-skyrim-odahviing-20"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "wundun",
+    "headwords": [
+     "Wundun"
+    ]
+   }
+  },
+  {
+   "token": "zini",
+   "as_written": [
+    "zini"
+   ],
+   "count": 2,
+   "count_in_unique_texts": 2,
+   "texts": [
+    "dlg-skyrim-odahviing-15",
+    "dlg-skyrim-odahviing-18"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "zin",
+    "headwords": [
+     "Zin"
+    ]
+   }
+  },
+  {
+   "token": "aanne",
+   "as_written": [
+    "aanne"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-11"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "aan",
+    "headwords": [
+     "Aan"
+    ]
+   }
+  },
+  {
+   "token": "dovahhe",
+   "as_written": [
+    "dovahhe"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-70"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "dovah",
+    "headwords": [
+     "Dovah"
+    ]
+   }
+  },
+  {
+   "token": "fahdonne",
+   "as_written": [
+    "fahdonne"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-21"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "fahdon",
+    "headwords": [
+     "Fahdon"
+    ]
+   }
+  },
+  {
+   "token": "gaaffesejul",
+   "as_written": [
+    "gaaffesejul"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-33"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "gaaffe",
+     "se",
+     "jul"
+    ],
+    "inflected_parts": [
+     "gaaffe"
+    ],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "hadrimme",
+   "as_written": [
+    "hadrimme"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-22"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "hadrim",
+    "headwords": [
+     "Hadrim, Hahdrim"
+    ]
+   }
+  },
+  {
+   "token": "hunne",
+   "as_written": [
+    "hunne"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-40"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "hun",
+    "headwords": [
+     "Hun"
+    ]
+   }
+  },
+  {
+   "token": "kaali",
+   "as_written": [
+    "kaali"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-9"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "kaal",
+    "headwords": [
+     "Kaal"
+    ]
+   }
+  },
+  {
+   "token": "kiirre",
+   "as_written": [
+    "kiirre"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-27"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "kiir",
+    "headwords": [
+     "Kiir"
+    ]
+   }
+  },
+  {
+   "token": "krentiid",
+   "as_written": [
+    "krentiid"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-online-nahfahlaar-14"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "kren",
+     "tiid"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "middovahhe",
+   "as_written": [
+    "middovahhe"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-odahviing-5"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "middovah",
+    "headwords": [
+     "Middovah"
+    ]
+   }
+  },
+  {
+   "token": "mulaagi",
+   "as_written": [
+    "Mulaagi"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-alduin-19"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "mulaag",
+    "headwords": [
+     "Mulaag"
+    ]
+   }
+  },
+  {
+   "token": "nifaas",
+   "as_written": [
+    "nifaas"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "proverb-flying-gods-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "ni",
+     "faas"
+    ],
+    "inflected_parts": [],
+    "short_parts": [
+     "ni"
+    ]
+   }
+  },
+  {
+   "token": "ruthi",
+   "as_written": [
+    "ruthi"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-odahviing-15"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "ruth",
+    "headwords": [
+     "Ruth"
+    ]
+   }
+  },
+  {
+   "token": "sossedov",
+   "as_written": [
+    "Sossedov"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-17"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "sos",
+     "se",
+     "dov"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "tiidi",
+   "as_written": [
+    "Tiidi"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-dragon-riding-12"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "tiid",
+    "headwords": [
+     "Tiid"
+    ]
+   }
+  },
+  {
+   "token": "viiki",
+   "as_written": [
+    "viiki"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-odahviing-2"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "viik",
+    "headwords": [
+     "Viik"
+    ]
+   }
+  },
+  {
+   "token": "volaanne",
+   "as_written": [
+    "volaanne"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-online-laatvulon-2"
+   ],
+   "reading": {
+    "rule": "plural: last letter doubled + e",
+    "stem": "volaan",
+    "headwords": [
+     "Volaan"
+    ]
+   }
+  },
+  {
+   "token": "vomir",
+   "as_written": [
+    "vomir"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-dragonslayer-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "vo",
+     "mir"
+    ],
+    "inflected_parts": [],
+    "short_parts": [
+     "vo"
+    ]
+   }
+  },
+  {
+   "token": "vosaraan",
+   "as_written": [
+    "vosaraan"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-47"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "vo",
+     "saraan"
+    ],
+    "inflected_parts": [],
+    "short_parts": [
+     "vo"
+    ]
+   }
+  },
+  {
+   "token": "wiixseroth",
+   "as_written": [
+    "wiixseroth"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "proverb-flying-gods-1"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "wiix",
+     "se",
+     "roth"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "wuldsetiid",
+   "as_written": [
+    "Wuldsetiid"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-31"
+   ],
+   "reading": {
+    "rule": "compound: headwords written together",
+    "parts": [
+     "wuld",
+     "se",
+     "tiid"
+    ],
+    "inflected_parts": [],
+    "short_parts": []
+   }
+  },
+  {
+   "token": "zeymahi",
+   "as_written": [
+    "Zeymahi"
+   ],
+   "count": 1,
+   "count_in_unique_texts": 1,
+   "texts": [
+    "dlg-skyrim-paarthurnax-dragon-60"
+   ],
+   "reading": {
+    "rule": "possessive: + i",
+    "stem": "zeymah",
+    "headwords": [
+     "Zeymah"
+    ]
+   }
+  }
+ ],
+ "headwords_not_in_corpus": [
+  "ahmul",
+  "ahtiid",
+  "am",
+  "atmora",
+  "bel",
+  "bii",
+  "briinah",
+  "bruniikke",
+  "deyto",
+  "dok",
+  "fahlah",
+  "fel",
+  "gahvon",
+  "golz",
+  "graag",
+  "gram",
+  "gruth",
+  "hadrim",
+  "hofkah",
+  "inhus",
+  "jer",
+  "juntiid",
+  "kip",
+  "krasnovaar",
+  "kriivaan",
+  "kriivah",
+  "kro",
+  "kulaan",
+  "lon",
+  "middovah",
+  "midrot",
+  "mindok",
+  "mindol",
+  "mon",
+  "monah",
+  "naaktiid",
+  "naar",
+  "naas",
+  "nikriin",
+  "nil",
+  "oth",
+  "pel",
+  "pelaan",
+  "qahnaaran",
+  "raal",
+  "rath",
+  "reyth",
+  "ros",
+  "ruth",
+  "thaarn",
+  "tosh",
+  "tovinaan",
+  "tovit",
+  "um",
+  "unraak",
+  "veydo",
+  "viint",
+  "vindahlheim",
+  "vokri",
+  "vonuz",
+  "vos",
+  "vum",
+  "vun",
+  "wahl",
+  "zaamhus",
+  "zein",
+  "zind",
+  "zorox"
+ ]
+}

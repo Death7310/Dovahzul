@@ -1,0 +1,234 @@
+{{Creature Summary
+|lorepage=Dragon Priest
+|loc=[[Skyrim:Nordic Ruins|Nordic Ruins]]
+|species=Dragon Priest
+|type=Undead
+|image=SR-creature-Dragon Priest.jpg
+|imgdesc=A Dragon Priest
+|baseid=
+|class=Dragon Priest
+|refid=
+|level=50
+|soul=Grand
+|health=1490
+|magicka=545
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|leveled=1
+}}
+'''Dragon Priests''' were once the loyal servants of the ancient [[Skyrim:Dragon|dragons]] of [[Lore:Skyrim|Skyrim]]. They ruled over countless armies of men in their gods' names. They are now found residing in coffins throughout [[Skyrim:Nordic Ruins|areas]] of prominent dragon worship. If their sleep is disturbed, the Dragon Priest will burst out of its coffin with considerable force and prepare to destroy whomsoever intruded upon their resting place. 
+
+In combat, Dragon Priests are incredibly dangerous and can kill even high-level players quite quickly. They will constantly backpedal at a high speed, making it difficult to land any melee strikes until the Dragon Priest is driven into a corner. While moving, they will attack with various staves and destructive spells, making for an effective opponent both offensively and defensively.
+
+Dragon Priests are at the high end of the leveled list of possible [[Skyrim:Draugr|draugr]]-type spawns (see [[Skyrim:Leveling#Effects of Leveling|effects of leveling]] for a description of how creatures are generated according to the player-character's level). Because of this, other radiant named bosses, such as [[Skyrim:Curalmil|Curalmil]] and [[Skyrim:Red Eagle|Red Eagle]], may also appear as Dragon Priests if at a high enough level. These enemies will not carry an enchanted mask, however.
+
+When one is close enough to a Dragon Priest sarcophagus, it will burst open forcefully. All random Dragon Priests' sarcophagi are horizontal, so that the lid bursts vertically. When a Dragon Priest is killed, it falls to the ground and almost immediately turns into a pile of ash. The clothing remains intact and is still searchable for loot.
+{{TOClimit|2}}{{NewLeft}}
+==Abilities==
+{| class=wikitable width=100%
+! Creature ([[Skyrim:Form ID|ID]])
+!colspan=2| Spells
+!colspan=2| Perks
+! Abilities
+|-
+| '''Dragon Priest''' {{ID|00023A93|par=1}}
+|
+*[[Skyrim:Conjure Storm Atronach|Conjure Storm Atronach]]
+*[[Skyrim:Dread Zombie|Dread Zombie]]
+* Three additional Destruction spells out of leveled lists (see [[Skyrim:Leveled Lists#Destruction Area Spells|this page]])
+|rowspan=4|
+* [[Skyrim:Command Daedra|Command Daedra]]
+* [[Skyrim:Ebonyflesh|Ebonyflesh]]
+* [[Skyrim:Greater Ward|Greater Ward]]
+|
+*[[Skyrim:Augmented Flames|Augmented Flames]] (rank 2)
+*[[Skyrim:Augmented Frost|Augmented Frost]] (rank 2)
+*[[Skyrim:Augmented Shock|Augmented Shock]] (rank 2)
+|rowspan=4|
+*[[Skyrim:Atromancy|Atromancy]]
+*[[Skyrim:Magic Resistance|Magic Resistance (rank 1)]] (10% [[Skyrim:Resist Magic|Resist Magic]])
+*[[Skyrim:Mage Armor|Mage Armor]] (rank 2)
+*[[Skyrim:Necromancy|Necromancy]]
+*[[Skyrim:Recovery|Recovery]] (rank 2) (50% [[Skyrim:Regenerate Magicka|Regenerate Magicka]])
+*[[Skyrim:Regeneration|Regeneration]]
+*[[Skyrim:Respite|Respite]]
+*[[Skyrim:Stability|Stability]]
+*[[Skyrim:Ward Absorb|Ward Absorb]]
+|rowspan=4|
+* [[Skyrim:Waterwalking|Waterwalking]]
+* 100% [[Skyrim:Resist Poison|Resist Poison]]
+|-
+| '''{{hover|Fire Variant|{{Anchor|Dragon Priest|EncDragonPriestFire}}}}''' {{ID|0002025A|par=1}}
+|
+*[[Skyrim:Conjure Flame Atronach|Conjure Flame Atronach]]
+*[[Skyrim:Fireball|Fireball]]
+*[[Skyrim:Flame Cloak|Flame Cloak]]
+*[[Skyrim:Incinerate|Incinerate]]
+|
+*[[Skyrim:Augmented Flames|Augmented Flames]] (rank 2)
+|-
+| '''{{hover|Frost Variant|{{Anchor|Dragon Priest|EncDragonPriestFrost}}}}''' {{ID|0002025B|par=1}}
+|
+*[[Skyrim:Conjure Frost Atronach|Conjure Frost Atronach]]
+*[[Skyrim:Frost Cloak|Frost Cloak]]
+*[[Skyrim:Ice Storm|Ice Storm]]
+*[[Skyrim:Icy Spear|Icy Spear]]
+|
+*[[Skyrim:Augmented Frost|Augmented Frost]] (rank 2)
+|-
+| '''{{hover|Shock Variant|{{Anchor|Dragon Priest|EncDragonPriestShock}}}}''' {{ID|0002025C|par=1}}
+|
+*[[Skyrim:Chain Lightning|Chain Lightning]]
+*[[Skyrim:Conjure Storm Atronach|Conjure Storm Atronach]]
+*[[Skyrim:Lightning Cloak|Lightning Cloak]]
+*[[Skyrim:Thunderbolt|Thunderbolt]]
+|
+*[[Skyrim:Augmented Shock|Augmented Shock]] (rank 2)
+|}
+
+{|
+|'''Unique Dragon Priests''':  
+
+*'''In Skyrim''': {{LinkList|Hevnoraak (creature)|Krosis (creature)|Morokei (creature)|Nahkriin (creature)|Otar the Mad|Rahgot (creature)|Vokun (creature)|Volsung (creature)|sep=&#32;&#124;&#32;|ns_base=Skyrim}}
+*'''In Solstheim{{DB}}''': {{LinkList|Ahzidal (creature)|Dukaan (creature)|Miraak (person)|Vahlok the Jailor|Zahkriisos (creature)|sep=&#32;&#124;&#32;}}
+|}
+{{NewLeft}}
+'''Konahrik'''
+[[File:SR-npc-Spectral_Dragon_Priest.jpg|thumb|left|Spectral Dragon Priest summoned by Konahrik]]
+The mask [[Skyrim:Konahrik|Konahrik]], which can only be acquired after recovering the other 9 Dragon Priest masks (8 named masks plus the [[Skyrim:Wooden Mask|Wooden Mask]]) from the base game, has the ability to summon a spectral Dragon Priest that will fight for you for 60 seconds.
+{{NewLine}}
+
+==Named Dragon Priests==
+{{SkyrimBox/Start|text-color=black|main-color=#FBEFD5}}
+There are eight named Dragon Priest bosses in the province of Skyrim, each of which wear an [[Skyrim:Dragon Priest Mask|eponymous mask]] with a powerful effect. Each of the eight is challenging in their own way and has access to powerful spells, staves, and certain dragon shouts. Some, but not all, of these Dragon Priests are associated with particular quests. The [[Skyrim:Dragonborn|Dragonborn]] expansion adds five new named Dragon Priests, four of which carry unique enchanted masks (the exception being [[Skyrim:Vahlok the Jailor|Vahlok the Jailor]]).
+
+===In Skyrim===
+{{NewLeft}}
+====Hevnoraak====
+[[File:SR-creature-Hevnoraak.jpg|thumb|Hevnoraak attacking|left]] [[File:SR-item-Hevnoraak.jpg|thumb|The mask of Hevnoraak|right]] Hevnoraak is encountered in [[Skyrim:Valthume|Valthume]] as the final boss in the [[Skyrim:Evil in Waiting|Evil in Waiting]] quest. Hevnoraak is sealed away by [[Skyrim:Valdar|Valdar]], who uses all his power to keep the ancient evil at bay. 
+
+
+For more information on the creature, see [[Skyrim:Hevnoraak (creature)|this]] article. <br>
+For more information on the item of the same name, see [[Skyrim:Hevnoraak (item)|this]] article.
+{{NewLeft}}
+
+====Krosis====
+[[File:SR-creature-Krosis.jpg|thumb|Krosis in a magical blizzard|left]] [[File:SR-item-Krosis.jpg|thumb|The mask of Krosis|right]] Krosis is located at the clifftop [[Skyrim:Dragon Lairs|dragon lair]] aptly named [[Skyrim:Shearpoint|Shearpoint]]. He is located just in front of the [[Skyrim:Word Wall|word wall]] that reveals every word of the [[Skyrim:Throw Voice|Throw Voice]] [[Skyrim:Dragon Shouts|dragon shout]]. If you have completed [[Skyrim:Dragon Rising|Dragon Rising]], a leveled [[Skyrim:Dragon|dragon]] will spawn here as well. 
+
+
+For more information on the creature, see [[Skyrim:Krosis (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Krosis (item)|this]] article.
+{{NewLeft}}
+
+====Morokei====
+[[File:SR-creature-Morokei.jpg|thumb|Morokei wielding the [[Skyrim:Staff of Magnus|Staff of Magnus]]|left]] [[File:SR-item-Morokei.jpg|thumb|The mask of Morokei|right]] Morokei is encountered in the ancient ruins of [[Skyrim:Labyrinthian|Labyrinthian]], which can only be accessed during the [[Skyrim:The Staff of Magnus|related quest]]. Morokei is a formidable opponent as he bears the [[Skyrim:Staff of Magnus|Staff of Magnus]]. 
+
+
+For more information on the creature, see [[Skyrim:Morokei (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Morokei (item)|this]] article.
+{{NewLeft}}
+
+====Nahkriin====
+[[File:SR-creature-Nahkriin.jpg|thumb|Nahkriin, moving away from the portal to [[Skyrim:Sovngarde (place)|Sovngarde]]|left]] [[File:SR-item-Nahkriin.jpg|thumb|The mask of Nahkriin|right]] Nahkriin is encountered guarding [[Skyrim:Alduin|Alduin's]] portal to [[Skyrim:Sovngarde (place)|Sovngarde]] on the top of [[Skyrim:Skuldafn|Skuldafn]] during the quest [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]]. He wields the [[Skyrim:Dragon Priest Staff (Nahkriin)|staff]] needed for opening the portal.
+
+
+For more information on the creature, see [[Skyrim:Nahkriin (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Nahkriin (item)|this]] article.
+{{NewLeft}}
+
+====Otar the Mad====
+[[File:SR-creature-Otar the Mad.jpg|thumb|Otar the Mad defending his resting place|left]] [[File:SR-item-Otar.jpg|thumb|The mask of Otar the Mad|right]] Otar the Mad is encountered in the Nordic ruin of [[Skyrim:Ragnvald|Ragnvald]], which is just north of [[Skyrim:Markarth|Markarth]], during the [[Skyrim:Ragnvald (quest)|related quest]]. He is found guarding a [[Skyrim:Word Wall|word wall]] which reveals one word of the [[Skyrim:Kyne's Peace|Kyne's Peace]] [[Skyrim:Dragon Shouts|dragon shout]]. To access his sarcophagus, you must defeat his two keepers, [[Skyrim:Guardian Torsten|Torsten]] and [[SKyrim:Guardian Saerek|Saerek]], each of whom have Skull Keys which are used to unblock Otar's sarcophagus.
+
+
+For more information on the creature, see [[Skyrim:Otar the Mad|this]] article. <br>
+For more information on the item, see [[Skyrim:Otar|this]] article.
+{{NewLeft}}
+
+====Rahgot====
+[[File:SR-creature-Rahgot.jpg|thumb|Rahgot cloaked in flames|left]] [[File:SR-item-Rahgot.jpg|thumb|The mask of Rahgot|right]] Rahgot is located in the southeastern ruin of [[Skyrim:Forelhost|Forelhost]] during the quest [[Skyrim:Siege on the Dragon Cult|Siege on the Dragon Cult]]. He is partially protected by four common variants of leveled [[Skyrim:Draugr|draugr]].
+
+
+For more information on the creature, see [[Skyrim:Rahgot (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Rahgot (item)|this]] article.
+{{NewLeft}}
+
+====Vokun====
+[[File:SR-creature-Vokun.jpg|thumb|Vokun with magic seeping out of his ancient robes|left]] [[File:SR-item-Vokun.jpg|thumb|The mask of Vokun|right]] Vokun is encountered in the Nordic ruins of [[Skyrim:High_Gate_Ruins|High Gate Ruins]], in [[Skyrim:The Pale|the Pale]], during the quest [[Skyrim:A Scroll For Anska|A Scroll For Anska]]. He is found guarding an ancient [[Skyrim:Word Wall|word wall]] for the [[Skyrim:Storm Call|Storm Call]] [[Skyrim:Dragon Shouts|dragon shout]]. The battle is made slightly less challenging because [[Skyrim:Anska|Anska]] will fight him, even if the player doesn't.
+
+
+For more information on the creature, see [[Skyrim:Vokun (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Vokun (item)|this]] article.
+{{NewLeft}}
+
+====Volsung====
+[[File:SR-creature-Volsung.jpg|thumb|Volsung standing before a Word Wall|left]] [[File:SR-item-Volsung.jpg|thumb|The mask of Volsung|right]] Volsung is found on the exterior peak of [[Skyrim:Volskygge|Volskygge]], in northwestern Skyrim, during the [[Skyrim:Volskygge (quest)|related quest]]. He is found guarding a [[Skyrim:Word Wall|word wall]] which teaches one of the words for the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]] [[Skyrim:Dragon Shouts|dragon shout]]. It is possible to skip the entire dungeon of Volskygge and just ride up the mountain on a horse; however the quest directs otherwise.
+
+
+For more information on the creature, see [[Skyrim:Volsung (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Volsung (item)|this]] article.
+{{NewLeft}}
+
+===In Solstheim{{DB}}===
+====Ahzidal====
+[[File:SR-creature-Ahzidal.jpg|thumb|left|Ahzidal surrounded by his kills]] [[File:SR-item-Ahzidal.jpg|thumb|right|The mask carried by Ahzidal]]
+Ahzidal is found entombed in [[Skyrim:Kolbjorn Barrow|Kolbjorn Barrow]], which can only be accessed through the quest [[Skyrim:Unearthed|Unearthed]]. He is awoken and fed the souls of hired [[Skyrim:Miner|miners]] by the subliminally enthralled [[Skyrim:Ralis Sedarys|Ralis Sedarys]]. 
+
+For more information on the creature, see [[Skyrim:Ahzidal (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Ahzidal (item)|this]] article.
+{{NewLeft}}
+
+====Dukaan====
+[[File:SR-creature-Dukaan.jpg|thumb|left|Dukaan wreathed in frost magic]] [[File:SR-item-Dukaan.jpg|thumb|right|The mask carried by Dukaan]]
+Dukaan is entombed within [[Skyrim:White Ridge Sanctum|White Ridge Sanctum]], guarding the ancient power of the [[Skyrim:Cyclone|Cyclone]] [[Skyrim:Word Wall|word wall]]. 
+
+For more information on the creature, see [[Skyrim:Dukaan (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Dukaan (item)|this]] article.
+{{NewLeft}}
+
+====Miraak====
+[[File:SR-npc-Miraak 02.jpg|thumb|left|Miraak in Apocrypha]] [[File:SR-item-Miraak.jpg|thumb|right|The mask carried by Miraak]]
+Miraak is the primary antagonist in the [[Skyrim:Dragonborn|Dragonborn]] expansion. He was a Dragon Priest when the dragons ruled Tamriel and sought to be free of them. He is mainly seen in [[Lore:Hermaeus Mora|Hermaeus Mora]]'s daedric realm of [[Lore:Apocrypha|Apocrypha]]. He is also Dragonborn, giving him the ability to devour the soul of a dragon and eliminate the chance of it ever returning. Technically, Miraak is an NPC rather than a Dragon Priest creature.
+
+For more information on the NPC, see [[Skyrim:Miraak (person)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Miraak (item)|this]] article.
+{{NewLeft}}
+
+====Vahlok the Jailor====
+[[File:SR-creature-Vahlok the Jailor.jpg|thumb|left|Vahlok the Jailor preparing to attack]]
+Vahlok the Jailor is encountered in [[Skyrim:Vahlok's Tomb|Vahlok's Tomb]] during the quest [[Skyrim:Lost Legacy|Lost Legacy]]. He was tasked with watching the traitorous [[Skyrim:Miraak (person)|Miraak]], after discovering Miraak's secret plot against their masters. Vahlok is the only named Dragon Priest who does not have an eponymous mask.
+
+For more information, see [[Skyrim:Vahlok the Jailor|this]] article.
+{{NewLeft}}
+
+====Zahkriisos====
+[[File:SR-creature-Zahkriisos.jpg|thumb|left|Zahkriisos using his deadly spells]] [[File:SR-item-Zahkriisos.jpg|thumb|right|The mask of Zahkriisos]]
+Zahkriisos is encountered in [[Skyrim:Raven Rock Mine|Raven Rock Mine]] during the quest [[Skyrim:The Final Descent|The Final Descent]]. He has the ability to summon [[Skyrim:Seeker|Seekers]] from the daedric realm of [[Lore:Apocrypha|Apocrypha]], and excels in [[Skyrim:Destruction|Destruction]] magic, particularly lightning-based spells. Having [[Skyrim:Resist Shock|Resist Shock]] potions is highly recommended when battling Zahkriisos, as they will greatly reduce the damage inflicted by these spells.
+
+For more information on the creature, see [[Skyrim:Zahkriisos (creature)|this]] article.<br>
+For more information on the item of the same name, see [[Skyrim:Zahkriisos (item)|this]] article.
+{{NewLine}}
+{{SkyrimBox/End}}
+{{NewLeft}}
+
+==Bromjunaar Sanctuary==
+[[File:SR-interior-Bromjunaar Sanctuary.jpg|thumb|The Mask pedestals inside the Sanctuary]] In the center of ground-level [[Skyrim:Labyrinthian|Labyrinthian]] lies a small weathered dome. Within is a weathered altar with pedestals for each of the eight Dragon Priest masks. Next to the altar is a [[Skyrim:Wooden Mask|wooden mask]] beside a skeleton. When it is equipped, and the player is inside the dome, the player will be transported back to a time when it was in its prime. When all eight of the unique Dragon Priest masks have been collected, the player can place them all on their respective pedestals. Doing this will reveal the ninth, most powerful, and final mask: [[Skyrim:Konahrik|Konahrik]].
+
+For more information, see the [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] article.
+
+{{NewLine}}
+
+==Notes==
+[[File:SR-creature-Dragon Priest Dead.jpg|thumb|right|A dead Dragon Priest]]
+*All Dragon Priests turn to ash upon death, the sole exception being Miraak, who turns into a skeleton instead.
+*In terms of stats, [[Skyrim:Malkoran's Shade|Malkoran's Shade]] is considered to be a Dragon Priest, although its level is only 26 and its health is only 300.
+*Some named [[Skyrim:Draugr|Draugr]], most notably [[Skyrim:Red Eagle|Red Eagle]], [[Skyrim:Warlord Gathrik|Warlord Gathrik]], and [[Skyrim:Yngol's Shade|Yngol's Shade]], may appear as Dragon Priests at higher levels. This is determined by the [[Skyrim:Radiant|radiant]] system.
+*The only location in the game where a Dragon Priest will reliably respawn is [[Skyrim:Forelhost|Forelhost]], after killing Rahgot. Each time the ruin respawns, a new generic Dragon Priest will spawn in Rahgot's place.
+
+==Bugs==
+{{Bug|Dragons and draugr are considered enemies, even though dragon priests are allies to both.|USKP|1.2|fixdetail=Dragons and draugr are no longer hostile to one another.}}
+{{Bug|Although Red Eagle, Warlord Gathrik, and Yngol can all spawn as Dragon Priests at higher levels, the backstories behind these characters makes this extremely unlikely to have been the case. Plus, in the case of Warlord Gathrik, spawning him as a dragon priest will break the quest at [[Skyrim:Ironbind Barrow|Ironbind Barrow]].|USKP|1.3.2}}
+
+==See Also==
+{{Bullet Link|[[SR:Ayleid Lich|Ayleid Lich]]{{CC|The Cause}}}}
+{{Bullet Link|[[SR:Ancient Deathpriest|Ancient Deathpriest]]{{CC|Necromantic Grimoire}}}}

@@ -1,0 +1,106 @@
+{{Trail2|Hints}}{{Mod Header|Dragonborn}}{{#addtotrail:[[Skyrim:Dragon|Dragon]]|separator=' / '}}[[Category:Skyrim-Dragonborn-Hints]][[File:SR-activity-Dragon Riding.jpg|thumb|Riding a dragon]]
+
+'''Dragon riding''' is a new gameplay mechanic added by the [[Skyrim:Dragonborn|Dragonborn]] [[Skyrim:Add-ons|add-on]]. In order to ride a [[Skyrim:Dragon|dragon]], you must acquire all three words of the [[Skyrim:Bend Will|Bend Will]] shout and use it on a dragon. The dragon will then land and allow you to climb onto its back and ride it. You cannot directly control the dragon while riding, but can give it certain instructions. Unlocking the third word of the Bend Will shout starts [[Skyrim:At the Summit of Apocrypha|the final quest]] of the Dragonborn [[Skyrim:Dragonborn Quests#Main Quest|main questline]], in which you're likely to ride your [[Skyrim:Sahrotaar|first dragon]]. After you do this, a help section will be added in the menu for dragon riding.
+
+You can lock on to a single enemy which causes the dragon to attack that target. The dragon will then use a standard aerial attack pattern and can be assisted by you via shouts and spells. Area of effect spells or summons cannot be used while riding a dragon. The use of weapons (such as bows and melee weapons) are mostly limited as well.
+
+To fast travel to different areas, simply select the location on your map as you normally would. In terms of in-game time, fast traveling on a dragon is almost immediate. Once given the command to land, the dragon will return to ground level where you can dismount. The dragon will then either aid you in combat, attack you, or simply leave. You cannot fast travel on a dragon to a different worldspace. This means you cannot travel to and from walled cities, or between [[Skyrim:Solstheim|Solstheim]] and [[Skyrim:Skyrim|Skyrim]].
+
+==Commands==
+It's impossible to directly control the dragon while riding, but they will follow the following commands:
+*'''Lock Target:''' Lock onto any potential targets on sight, hostile or non-hostile. If you give this order while a target is already locked, you can unlock from the previous target.
+*'''Switch Target:''' Switch target from all locked ones and decide which one to attack. The health bar of the target will be shown on your screen. You can order your dragon to do so even in combat. Any target in sight can be chosen in this way, regardless of whether it has been found before.
+*'''Attack:''' Attack the chosen target. Your dragon will keep attacking the target with its own means until the target dies. You can cancel the attack by switching to another target.
+*'''Land:''' Find a potential area to land and dismount your dragon. You can order your dragon to do so even in combat. If you give this order again before landing successfully, the previous landing command will be canceled and you can fly with your dragon back to the sky.
+
+Detailed key set information can be found [[Skyrim:Controls#Dragon RidingDB|here]].
+
+== Combat ==
+During combat, you are allowed to give your dragon commands. If you have given it an attack command and locked onto a target, it will attack the target until its attack has successfully hit the target or until the dragon is called off. It might take some time for the dragon to actually kill the target, as it will continuously circle until it is in the correct position to attack. If the target moves too fast or finds cover, the dragon may be unable to attack; in this case, it will fall back and continue to circle until the target is vulnerable. If there are several enemies around, the dragon will first dispatch its primary target, then select another automatically.
+
+If the dragon you're riding takes too much damage during combat, it can be killed; if this happens, you will plummet to the earth and most likely die. Should your dragon be struck by the [[Skyrim:Unrelenting Force|Unrelenting Force]]‎ shout, you may get knocked off, which will probably also result in your death.
+
+While riding a dragon, you can only use certain spells and shouts. You are limited mainly to Destruction, Restoration, and Alteration spells while mounted. When casting, you need to pay attention to the effective range of your spells and other factors such as the landscape. The dragon has a fast movement speed, so you must remember that it may be hard to actually hit the enemies.
+
+The following is a list of spells and dragon shouts which may be cast from the back of a dragon:
+{| class="wikitable vtop"
+!{{ALT}} | [[Skyrim:Alteration#Spells|Alteration]]
+!{{CON}} | [[Skyrim:Conjuration#Spells|Conjuration]]
+!{{DES}} | [[Skyrim:Destruction#Spells|Destruction]]
+!{{ILL}} | [[Skyrim:Illusion#Spells|Illusion]]
+!{{RES}} | [[Skyrim:Restoration#Spells|Restoration]]
+![[Skyrim:Dragon Shouts|Dragon Shouts]]
+|-
+|
+{{LinkList|[[Skyrim:Ash Shell|Ash Shell]]{{DB}}|Candlelight|Ebonyflesh|Equilibrium|Ironflesh|Magelight|Oakflesh|Paralyze (spell)|Stoneflesh|sep=<br>|ns_base=Skyrim}}
+|
+{{LinkList|Banish Daedra|Expel Daedra|Soul Trap (spell)|sep=<br>|ns_base=Skyrim}}
+|
+{{LinkList|Arniel's Convection|Chain Lightning|Fireball|Firebolt|Flames|[[Skyrim:Freeze|Freeze]]{{DB}}|Frostbite|Ice Spike|Ice Storm|Icy Spear|[[Skyrim:Ignite|Ignite]]{{DB}}|Incinerate|Lightning Bolt|Sparks|Thunderbolt|sep=<br>|ns_base=Skyrim}}
+|
+{{LinkList|Calm|Courage|Fear (spell)|Frenzy (spell)|Fury|Pacify (spell)|Rally (spell)|Rout|sep=<br>|ns_base=Skyrim}}
+|
+{{LinkList|Close Wounds|Fast Healing|Grand Healing|Greater Ward|Healing|Lesser Ward|Repel Lesser Undead|Repel Undead|Steadfast Ward|[[Skyrim:Sun Fire|Sun Fire]]{{DG}}|Turn Greater Undead|Turn Lesser Undead|Turn Undead (spell)|[[Skyrim:Vampire's Bane|Vampire's Bane]]{{DG}}|sep=<br>|ns_base=Skyrim}}
+|
+[[Skyrim:Bend Will|Bend Will]]{{DB}}<br> [[Skyrim:Cyclone|Cyclone]]{{DB}}<br>{{LinkList|Disarm|Dismay|Dragonrend|[[Skyrim:Drain Vitality|Drain Vitality]]{{DG}}|Fire Breath|Frost Breath|Ice Form|Marked for Death|[[Skyrim:Soul Tear|Soul Tear]]{{DG}}|Unrelenting Force|sep=<br>|ns_base=Skyrim}}
+|}
+* Other spells can be equipped while riding a dragon for the first time after loading a save, however, they cannot be used and the game will remind you '''"You cannot cast that type of spell while riding a dragon."'''
+
+==Dragon Speech==
+When mounted, dragons will give various responses to your commands.
+*Bend Will is used
+**''"{{Hover|I shall serve|Zu'u fent aam}}. I am at your command."''
+**''"Hail, {{Hover|my lord|thuri}}. Shall we fly together?"''
+**''"How can I serve you, thuri?"''
+*General Response
+**''"As you command."''
+**''"Yes, thuri."''
+*Attack Command
+**''"{{Hover|We will fight|Mu fen krif}}."''
+**''"At once. {{Hover|I will destroy it|Zu'u fen al}}."''
+*No targets available
+**''"{{Hover|Peace|Drem}}. There is no prey here."''
+**''"I sense nothing nearby."''
+**''"{{Hover|I'm sorry|Krosis}}, the land below us is empty of prey."''
+**''"{{Hover|I'm sorry, my lord|Krosis, thuri}}. That is impossible."''
+*Land Command
+**''"As you command. {{Hover|We will return to the ground|Mu daal wah golt}}.
+**''"I will look for a spot to land."''
+**''"Yes, Thuri. {{Hover|To the ground|Wah golt}}. I will land at once."''
+*Landing Command Canceled
+**''"{{Hover|To fly is better|Bo Pruzaan}}. Better to fly."''
+*Dragon Dismounted
+**''"I must leave you now."''
+**''"I have served you for long enough. {{Hover|My time of service is ended|Tiidi do ahmik oblaan}}."''
+**''"{{Hover|I am not your slave|Zu'u ni zaamiil}}. You cannot command me forever."''
+**''"{{Hover|Service End|Ahmik oblaan}}. My service to you is over."''
+
+==Achievements==
+One [[Skyrim:Achievements|achievement]] is related to dragon riding:
+* {{achievement|Dragonrider|link=1}}
+
+==Notes==
+*[[Skyrim:Sahloknir|Sahloknir]] and [[Skyrim:Durnehviir (dragon)|Durnehviir]] are unaffected by the Bend Will shout, and therefore cannot be ridden.
+* Dragon taming is only allowed in the worldspaces of Skyrim, Solstheim, and Apocrypha. Because of this, [[Skyrim:Alduin|Alduin]], [[Skyrim:Vulthuryol|Vulthuryol]], and the [[Skyrim:Skeletal_Dragon|skeletal dragon]] encountered in [[Skyrim:Labyrinthian|Labyrinthian]] cannot be ridden.
+* The Throat of the World is listed as a bad location for dragon taming and so [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] cannot be ridden. [[Skyrim:Odahviing|Odahviing]] can be tamed and ridden there though.
+* Your horse will follow you if you fast travel on a dragon to a different location.
+*If a hostile dragon is encountered, the tamed dragon will proceed to fight it and will continue to climb higher into the sky until one of the dragons is reduced to 30% health and flies down to crash land.
+*If you order a dragon you are riding to kill an NPC, you incur a bounty for the death.
+*In [[Skyrim:Survival Mode|Survival Mode]], dragon riding is the only way to use fast travel besides carriages and boats.
+*If you engage another dragon while riding one, the battle will be almost entirely airborne, at least until one or both dragons reaches a certain threshold of health (usually half, or sometimes lower). You will also end up ''very'' high in the sky; higher than normal when battling a dragon from the ground.
+
+==Bugs==
+{{Bug|When riding a dragon, if the dragon flies through a mountain, you may disappear and the game may crash.|confirmed=1}}
+{{Bug|Sometimes after dismounting a dragon you will permanently be stuck with the camera view the same as if you were still riding the dragon.|vn=1}}
+**Reload a save before riding the dragon to fix this.
+**Reading an Elder Scroll may also fix this.
+{{Bug|When you mount a dragon you may stay while the dragon flies off without you.|confirmed=1}}
+**{{Pc22}} The "Dragonborn.bsa" file edits the "skeleton.nif" file for dragons. Deleting any ''extra'' "skeleton.nif" file for dragons which may exist may resolve the issue. If this won't help or you don't have any "skeleton.nif" in your meshes/actors/dragon path try to remove some of .bsa from your skyrim/data path from other mods related with dragons (like FDR - Burning Skyes (100% conflict was detected)).
+{{Bug|When climbing onto the dragon, you may appear to climb into the dragon, rendering it unflyable.|confirmed=1}}
+**Getting off and then getting back on the dragon may resolve this.
+{{Bug|While in flight, your dragon and everything around you may slow down to a near walking speed.|confirmed=1}}
+{{Bug|If a dragon you are riding flies outside the world boundaries you will get stuck in mid air, but still be able to do all the things you can normally do while riding a dragon. Reloading a previous save will fix this.|vn=1}}
+{{Bug|When you mount a dragon after taming it, your character may stand with arms and legs wide upon the dragon where your character is supposed to sit.|confirmed=1}}
+{{Bug|When mounting a dragon from an elevated level, you may mount 'empty space' above the dragon and rapidly rise upwards for a few moments, usually resulting in a fatal fall shortly after.|vn=1}}
+{{Bug|If using Bend Will on a dragon and he is killed while speaking to you, he will begin to turn to ash and give you a soul, but still be alive and rideable.|confirmed=1}}
+{{Bug|Though you are supposed to be able to use certain spells from the Dragon's back, you may be unable to, no matter which or how many Dragons you ride.|vn=0}}

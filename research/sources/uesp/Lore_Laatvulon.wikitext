@@ -1,0 +1,42 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=2E 582
+|deathLoc=Doomstone Keep
+|loc=Pellitine
+|appears=[[Online:Laatvulon|ESO]]
+|image=ON-creature-Laatvulon.jpg
+|imgdesc=circa {{Year|2E 582}}}}{{Quote Box|style=float:none; max-width:none|''A cruel race, these dragons. They would rather rule over ashes than allow us to remain free.''|General Renmus, speaking of Laatvulon}}</noinclude>
+[[Lore:Laatvulon|Laatvulon]], known also as the '''Demon from the East'''{{ref|name=ESODemon|[[Online:Ja'darri|Ja'darri]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} and the '''Black Beast''',{{ref|name=ESOBeast|[[Lore:Sai Sahan|Sai Sahan]]'s dialogue in [[Online:The Dragonguard|ESO: The Dragonguard]]}} was a black [[Lore:Dragon|Dragon]]. His name means ''Last-Night'' in the [[Lore:Dragon Language|Dragon language]];{{Ref|name=TIL|[https://www.imperial-library.info/content/lang-dragon Official Bethesda Dragon dictionary] from Imperial Library}} it is a name that conjures a foreboding sense of finality, such as "final darkness," appropriate considering the [[Lore:Prophecy of the New Moon|prophetic possibility]] he might have paved the way to unleash "a New Moon filled with darkness."{{ref|name=Jadarri|[[Lore:Ja'darri|Ja'darri]]'s dialogue during [[ON:The Dragonguard|The Dragonguard]] in [[ON:Online|ESO]]: ''[[ON:Dragonhold|Dragonhold]]''}}<noinclude>
+{{NewLeft}}
+
+==History==
+[[File:ON-tapestry-The Dragonguard 04.jpg|Laatvulon being sealed by the Dragonguard|thumb|left]]
+===Demon from the East===
+While Laatvulon's exact place of origin is unknown, given his title of "Demon from the East" and his nature as a black Dragon,{{ref|name=ESODemon}} it is possible he originates from the eastern continent of [[Lore:Akavir|Akavir]], where black and red Dragons are said to originate from.{{ref|{{Cite Book|Mysterious Akavir}}}} Additionally, he had an ancient rivalry with [[Lore:Nahfahlaar|Nahfahlaar]], a red Dragon.{{ref|name=ESONahfahlaar|[[Online:Nahfahlaar|Nahfahlaar]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}
+
+In ancient times, the great Khajiit hero [[Lore:Ja'darri|Ja'darri]] allied with the [[Lore:Dragonguard|Dragonguard]] to defeat Laatvulon. Ja'darri had obtained the [[Lore:Mask of Alkosh|Mask of Alkosh]] and petitioned the Dragon Nahfahlaar to empower it so that she could defeat the Black Beast, but he refused.
+
+Nahfahlaar did however give Ja'darri one of his [[Lore:Horn of Ja'darri|horns]] to aid in her battle against his oldest foe. The dragonhorn was effective, but not enough to kill Laatvulon. Ja'darri and the Dragonguard would ultimately succeed in imprisoning Laatvulon in the caverns beneath [[Lore:Doomstone Keep|Doomstone Keep]] in [[Lore:Elsweyr|Elsweyr]], but it cost Ja'darri her life. {{ref|name=ESONah|[[ON:Nahfahlaar|Nahfahlaar]]'s dialogue during [[ON:The Dragonguard|The Dragonguard]] in [[ON:Online|ESO]]: ''[[ON:Dragonhold|Dragonhold]]''}}{{ref|name=BotB|{{Cite Book|Battle of the Black Beast}}}}{{ref|name=Jadarri}}.
+
+===Rage of Dragons===
+[[File:LO-book-Dragons in the Second Era.jpg|Laatvulon facing a champion surrounded by the aura of the Mask of Alkosh|thumb|right]]
+During the [[Lore:Three Banners War|Three Banners War]], Laatvulon escaped from his prison beneath Doomstone Keep, although it was unclear how this occurred.{{ref|name=ESONah}} His escape coincided with the inadvertent release of his master, [[Lore:Kaalgrontiid|Kaalgrontiid]], from the [[Lore:Halls of Colossus|Halls of Colossus]]. Laatvulon sought to carry out his master's plan of bringing on the Dark Aeon, intending for Kaalgrontiid to become Akatosh's equal. To this end, Laatvulon created a [[Lore:Khajiit|Khajiiti]] dragon cult, the New Moon Cult, whose ranks were bolstered by many of the vulnerable Khajiit from the region, such as those who were affected by the Knahaten Flu.
+
+Nahfahlaar later dueled Laatvulon near the city of Senchal in southern Elsweyr, but was overpowered due to Laatvulon's newfound power. The reformed Dragonguard and the [[Lore:Vestige|Vestige]] sought Nahfahlaar aid to defeat Laatvulon. This time Nahfahlaar agreed to empower the Mask of Alkosh, which granted the Vestige the power to defeat Laatvulon.{{ref|name=TD|Events of [[ON:The Dragonguard|The Dragonguard]] quest in [[ON:Online|ESO]]: ''[[ON:Dragonhold|Dragonhold]]''}}
+
+The significance of Laatvulon allowed him to be documented within the [[Lore:Infinite Archive|Infinite Archive]] in [[Lore:Apocrypha|Apocrypha]]. There, copies of various entities were subsequently created as [[Lore:Maligraphy|maligraphies]], creatures composed of vivified ink manifested by stories from books, and served as mindless extensions of the [[Lore:Daedric Lord|Daedric Lord]] [[Lore:Tho'at Replicanum|Tho'at Replicanum]]. A maligraphy copy of Laatvulon was formed, which was destroyed by an adventurer or two who were aided by augmentations directly from [[Lore:Hermaeus Mora|Hermaeus Mora]].{{ref|name=LAIA|{{Cite Book|Loremaster's Archive - Infinite Archive}}}}{{ref|name=MM|[[ON:Master Malkhest|Master Malkhest]]'s dialogue in [[ESO:Online|ESO]]: ''[[Online:Necrom (Chapter)|Necrom]]''}}{{Ref|name=Enemies|[[Online:Laatvulon (Infinite Archive)|Laatvulon]] boss in [[ON:Infinite Archive|Infinite Archive]] in [[Online:Online|ESO]]}}
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:ON-render-Laatvulon.jpg|The reformed Dragonguard confronts Laatvulon
+File:ON-tapestry-The Dragonguard.jpg|Ja'darri and the ancient Dragonguard confronting the Black Beast
+</gallery>
+
+==See Also==
+*{{GSI|Online:Laatvulon}}
+
+==References==
+<references/>{{Lore Antagonists}}</noinclude>

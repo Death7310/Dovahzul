@@ -1,0 +1,46 @@
+{{Mod Header|Dawnguard}}
+{{Shout Summary
+|id=xx007cb6
+|icon=SR-icon-shout-Kyne's Peace.png
+|quote=Your Thu'um cuts through flesh and shatters soul, commanding the will of the fallen.
+|word1=Rii
+|wordid1=xx007cb7
+|cooldown1=5
+|info1=Slight push
+|location1=[[Skyrim:Durnehviir (dragon)|Durnehviir]] teaches you a word each time you summon him from the [[Skyrim:Soul Cairn|Soul Cairn]].
+|word2=VaaZ
+|wordid2=xx007cb8
+|cooldown2=5
+|info2=Slight push
+|word3=ZOL
+|wordid3=xx007cb9
+|cooldown3=90
+|info3=[[Skyrim:Soul Trap (effect)|Soul Trap]] for 2 secs on enemy, drain health 300 pts and reanimate body upon death for 1 minute. 
+|mod=DG
+|transword1=Essence
+|transword2=Tear
+|transword3=Zombie
+|spellid1=xx015716
+|spellid2=xx015715
+|spellid3=xx0038bd
+}}[[Category:Skyrim-Dawnguard]] [[Category:Skyrim-Dawnguard-Magic]]
+
+'''Soul Tear''' is a [[Skyrim:Dragon Shouts|dragon shout]] that is added with the [[Skyrim:Dawnguard|Dawnguard]] [[Skyrim:Add-ons|add-on]]. At full strength, it casts [[Skyrim:Soul Trap (effect)|soul trap]] upon foes, drains their health for 300 points on impact, and if the target is below level 100 and dies within 2 seconds, it captures their soul and [[Skyrim:Reanimate|resurrects]] the corpse to fight for you for 1 minute.
+*The shout affects only the first target it impacts.
+*The Reanimation works on most creatures (akin to the [[Skyrim:The_Ritual_Stone|Ritual standing stone]] effect) such as [[Skyrim:Mammoth|mammoths]] and [[Skyrim:Giant|giants]]. They abide by standard [[Skyrim:Conjuration|Conjuration]] summon rules and perks, as well as the standard one summon (two with [[Skyrim:Twin Souls|Twin Souls]]) limit. Upon death or time expiration, the thrall will crumble into a pile of ash.
+
+Shouting one or two words will push objects a slight distance away.
+
+== Achievements ==
+One [[Skyrim:Achievements|achievement]] is unlocked when you learn all three words of this shout:
+* {{achievement|Soul Tear (achievement)|descr=no}}
+
+== Notes ==
+* You can learn all three parts of the shout quickly by summoning [[Skyrim:Durnehviir (dragon)|Durnehviir]], listening to him, waiting two hours, and then repeating until all three words are learned.
+* Because Soul Tear regenerates very quickly when you use the shout's first two words, it can be used to knock back opponents more frequently than [[Skyrim:Unrelenting Force|Unrelenting Force]], which has a longer cooldown for its first two words.
+* Although [[Skyrim:Dragons|dragons]] are immune to being soul trapped and resurrected by this shout, the 300 health point drain will still hit them.
+
+==Bugs==
+{{Bug|The Shout may aim itself in any direction there is a living target (even behind your character), rather than the area you Shouted at, potentially killing weaker followers and angering more robust ones.|vn=1}}
+
+{{Skyrim Shouts}}

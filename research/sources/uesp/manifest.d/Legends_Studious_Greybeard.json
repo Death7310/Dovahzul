@@ -1,0 +1,39 @@
+{
+  "title": "Legends:Studious Greybeard",
+  "revid": 3134164,
+  "timestamp": "2024-08-31T03:18:31Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3134164&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "71046833dcd2fca3f7367ad00a81d15acd675a11318744fb55f5cc48e82e505f",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 233487,
+  "ns": 150,
+  "parentid": 3128202,
+  "requested_title": "Legends:Studious Greybeard",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Legends:Studious_Greybeard",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3134164",
+  "sha1": "b74b22be4347adfbeace9547cbf8a5456818c96e",
+  "sha1_matches_mediawiki": true,
+  "bytes": 601,
+  "chars": 601,
+  "lines": 25,
+  "saved_as": "research/sources/uesp/Legends_Studious_Greybeard.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Online:Captive+%28Weaver%27s+Nest%29|Lore:Ysgramor|Lore:Akatosh|Lore:Labyrinthian|Skyrim:Hermaeus+Mora|Skyrim:Elisif+the+Fair|Legends:Nahkriin%2C+Dragon+Priest|Skyrim:Nahkriin|Online:Valdur|Legends:Studious+Greybeard|Lore:Arngeir|Online:Yolnahkriin+%28Infinite+Archive%29",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T06:10:50Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

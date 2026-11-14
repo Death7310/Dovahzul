@@ -1,0 +1,30 @@
+<noinclude>{{cleanup-lpp|writtenby=Legoless}}{{Lore Places Trail}}
+{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|settlement=Granite Hill
+|image=AR-place-Granitehall.jpg
+|imgdesc=Granitehall
+|appears=[[Arena:Granitehall|Arena]], [[Skyrim:Dragon Mounds#Great Henge Resurrection|Skyrim]]
+}}{{TOCright}}</noinclude>
+[[Lore:Granite Hill|Granite Hill]] ('''Quethsegol Ahrol''' in the [[Lore:Dragon Language|Dragon Language]],{{ref|name=HoJG|{{Cite Book|Holdings of Jarl Gjalund}}}} literally ''[[Lore:Earthbones|Bone-of-earth]] Hill''){{ref|name=TESVSPOGG}} is a region located east of [[Lore:Sungard|Sungard]] and far north of the town of [[Lore:Falkreath|Falkreath]]. The town of '''Granitehall''' takes its name from the region.{{Ref|name=Arena|[[Arena:Granitehall|Granitehall]] location and rumors in ''[[Arena:Arena|Arena]]''}} 
+
+It is neighbored by several settlements, including Karthwasten Hall in the northwest, and [[Lore:North Keep|North Keep]] in the southeast.{{Ref|name=MapArena|[[:File:AR-map-Skyrim towns.png|Map of Skyrim – ''The Elder Scrolls: Arena'']]}}<noinclude>
+{{NewLeft}}
+==History==
+[[File:SR-creature-Vuljotnaak.jpg|thumb|right|Vuljotnaak at the Great Henge]]
+Granite Hill was historically a notable settlement, having been in existence since the time of the [[Lore:Dragon Cult|Dragon Cult]].{{ref|name=AoD|{{Cite Book|Atlas of Dragons}}}} During the reign of {{Lore Link|Jarl Gjalund}} of [[Lore:Whiterun|Whiterun]], it was part of [[Lore:Whiterun Hold|Whiterun Hold]] and consisted of three farms and an inn, and held a weekly market.{{ref|name=HoJG}} At some point the region came under the administration of [[Lore:Falkreath Hold|Falkreath Hold]].
+
+During the [[Lore:Imperial Simulacrum|Imperial Simulacrum]] in the late [[Lore:Third Era|Third Era]], the town of Granitehall was an active settlement, being ruled by Duke Fenrald. It had a rivalry with [[Lore:Oakwood|Oakwood]] and [[Lore:Karthwasten Hall|Karthwasten Hall]].{{Ref|name=Arena}} 
+
+By {{Year|4E 201}}, Granite Hill continued to pay taxes to Falkreath and had its own emissary.{{ref|[[Skyrim:Nenya|Nenya]]'s dialogue in ''[[SR:Skyrim|Skyrim]]''}} The dragon [[Lore:Vuljotnaak|Vuljotnaak]], who was buried near Granite Hill,{{ref|name=AoD}} was resurrected by [[Lore:Alduin|Alduin]] upon his return.{{ref|Events of ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLeft}}
+
+==Notes==
+*Granite Hill was originally slated to be implemented into ''[[Skyrim:Skyrim|Skyrim]]'', but was cut before release. However, the area in-game still appears under the name "Granite Hill" when looking at the map near [[Skyrim:Fort Sungard|Fort Sungard]], where the Great Henge Resurrection dragon mound is found.{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}
+
+==See Also==
+*{{GSI|Arena:Granitehall|Skyrim:Dragon Mounds#Great Henge Resurrection}}
+
+==References==
+<references/></noinclude>

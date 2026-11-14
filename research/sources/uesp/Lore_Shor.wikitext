@@ -1,0 +1,61 @@
+<noinclude>__NOTOC__{{Lore Gods Trail}}[[File:SR-concept-Fox Mural.jpg|Stone depiction of "the Fox"|right|thumb]]</noinclude>
+[[Lore:Shor|Shor]] is the [[Lore:Nord|Nordic]] version of [[Lore:Lorkhan|Lorkhan]]. He sided with [[Lore:Man|men]] after the creation of the world. Foreign gods (i.e., [[Lore:Mer|elven]] ones) conspired against him to bring about his defeat, dooming him to the "underworld", with his death remembered as bringing about the current world.{{Ref|name=DatN|{{Cite Book|Divines and the Nords}}}} [[Lore:Atmora|Atmora]]n myths depict him as a bloodthirsty warrior king who repeatedly led the Nords to victory over their [[Lore:Aldmer|Aldmeri]] oppressors. Before his doom, Shor, sometimes also called the '''Children's God''', was chief of the gods.{{ref|name=VOF|{{Cite Book|Varieties of Faith...}}}} Dead gods such as Shor and [[Lore:Tsun|Tsun]] don't need temples,{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{rp|330}} for they have the biggest one of all; a vast hall of drinking and revelry known as the Hall of Valor (Shor's Hall).{{Ref|name=TESVSPOGG}}{{rp|150}} It is believed Shor can be found at [[Lore:Sovngarde|Sovngarde]], an [[Lore:Aetherius|Aetherial]] utopia he built which is open in the afterlife to all Nords who prove their mettle or die valiantly in battle.{{ref|name=SAR|{{Cite Book|Sovngarde, a Reexamination}}}} Though dead, ancient Nordic legends speak of Shor's ghost being "sung" back into the world at momentous occasions in Nordic history.{{ref|name=FSOKW|{{Cite Book|Five Songs of King Wulfharth}}}} Shor is also associated with the '''Fox''', one of the ancient [[Lore:Atmora|Atmoran]] animal totems.{{Ref|name=DatN}}{{Ref|name=FAHM|{{Cite Book|Fragmentae Abyssum Hermaeus Morus}}}}{{ref|name=FurnAnvil|[[Online:Ebony Fox Totem|Ebony Fox Totem]] antiquity codex entry in [[Online:Online|ESO]]}}<noinclude>
+{{NewLine}}
+==History==
+[[File:SR-item-Shor's Throne.jpg|thumb|right|Shor's Throne in the Hall of Valor]]
+There are many ancient Nordic legends of Shor and his compatriots. [[Lore:Kyne|Kyne]] was his wife and later his widow, [[Lore:Stuhn|Stuhn]] was one of his Shield-thanes, and [[Lore:Tsun|Tsun]] died protecting him.{{ref|name=VOF}} They say he fought [[Lore:Alduin|Alduin]] on the spirit plane at the beginning of time.{{ref|name=FSOKW}} They also accept "Lorkhan" as the elven name for Shor; the two are widely regarded as the same entity,{{ref|name=VOF}}{{ref|name=FSOKW}}{{ref|name=TTOD|{{Cite Book|The Tale of Dro'Zira}}}} as is Shezarr (though the reputation of the "Missing Sibling" of the [[Lore:Eight Divines|Eight Divines]] was watered-down a bit to be less offensive to elven cultures and those they had influenced).{{ref|name=SATD|{{Cite Book|Shezarr and the Divines}}}} Shor's also referred to as an "aspect" of Lorkhan.{{ref|name=WAS|{{Cite Book|Wind and Sand}}}}
+
+The Nords believe the chief of the gods had been killed by elven giants in ancient times, and they ripped out Shor's [[Lore:Heart of Lorkhan|Heart]] and used it as a standard to strike fear into the Nords. This worked until [[Lore:Ysgramor|Ysgramor]] "Shouted Some Sense" and the Nords fought back again. Knowing that they were going to lose eventually, the Elven giants hid the Heart of Shor so that the Nords might never have their god back.{{ref|name=FSOKW}} According to the Nordic tales Shor created the realm of Sovngarde with his [[Lore:Clever Magic|clever magic]] in the ancient times, before he faded from their world.{{ref|name=TRTS|{{Cite Book|The Road to Sovngarde}}}}
+
+===Old Knocker===
+According to [[Lore:Imperial|Imperial]] scholars, the Nords believe their old enemy from Atmora, [[Lore:Orkey|Orkey]], fooled them and used foul magic to reduce the Nordic lifespan to six years. Through unknown means, Shor showed up and removed the curse, throwing most of it onto the nearby [[Lore:Orc|Orc]]s.{{ref|name=VOF}}
+
+Nordic legend goes into greater detail. During the reign of High King [[Lore:Wulfharth|Wulfharth]] in the [[Lore:First Era|First Era]], Orkey summoned Alduin, and nearly every Nord was "eaten down" to six years old by the Time-Eater. The boy Wulfharth pleaded to Shor for help. Shor's ghost then once again fought Alduin on the spirit plane, and he won. Orkey's folk, the Orcs, were ruined. It was by watching this battle in the sky that Wulfharth learned a new use of the [[Lore:Thu'um|thu'um]] which allowed him to save his people.{{ref|name=FSOKW}}
+
+===Red Mountain===
+:''"I do not wreak vengeance on the [[Lore:Dwemer|Dwarves]] for the reasons that the [[Lore:Tribunal|Tribunal]] might believe I do. Nevertheless, it is true that they will die by my hand, and any whoever should side with them."'' — Shor{{ref|name=FSOKW}}
+
+During the [[Lore:War of the First Council|War of the First Council]] around {{Year|1E 700}}, the Nords learned from the [[Lore:Chimer|Chimer]] [[Lore:Dagoth Ur|Dagoth Ur]] that the rediscovered Heart of Shor was at the center of that dispute between the Dwemer and the Chimer. The Tongues sang Shor's ghost into the world again, and he gathered an army as he did of old. Then he sucked in the long-strewn ashes of King Wulfharth and remade him to serve as a general. But the Devil of Dagoth petitioned to be that general, too, emphasizing his service in bringing the Nords the information. So Shor kept them both as generals and marched on [[Lore:Resdayn|Resdayn]].{{ref|name=FSOKW}}
+
+The Nordic legends differ on what occurred at the [[Lore:Battle of Red Mountain|Battle of Red Mountain]] which followed. One story is that the whole thing was a ruse, and as soon as Shor's army arrived at [[Lore:Red Mountain|Red Mountain]], the Chimer and Dwemer joined together to attack them. Their sorcerers lifted the mountain and threw it onto Shor, trapping him underneath Red Mountain until the end of time.{{ref|name=FSOKW}}
+
+The other, "secret" version of the tale is that Shor's Heart really was at the mountain.{{ref|name=FSOKW}} At Shor's urging, his generals collected more troops of all kinds, even forging an alliance with [[Lore:Orc|Orc]]s. Many Nords could not bring themselves to ally with their traditional enemies, even in the face of Red Mountain, and were close to desertion, but an impassioned speech from Wulfharth about the importance of Shor and this war kept Shor's army together. Shor got his Heart back briefly during the battle, but he needed time, and his opponents set upon him wielding [[Lore:Kagrenac's Tools|Kagrenac's Tools]]. In the ensuing melee, Shor was wounded by the Dwemer King [[Lore:Dumac|Dumac]], who was killed by Dagoth Ur, who was then struck down by Dumac's rage-filled friend, the Chimer Hortator [[Lore:Nerevar|Nerevar]]. Shor mortally wounded Nerevar, but Nerevar's trickery allowed him to cut out Shor's Heart, defeating the chief of the gods once again.{{ref|name=FSOKW}}
+
+===Legacy===
+Many important figures throughout history have been attributed with some relationship with Shor. Saint [[Lore:Alessia|Alessia]] was called the wife of Shor.{{ref|name=Remanada|{{Cite Book|Remanada}}}} When Nords saw [[Lore:Pelinal Whitestrake|Pelinal Whitestrake]] during the [[Lore:Alessian Slave Rebellion|Alessian Slave Rebellion]], covered with elven blood after the first Pogrom, they said that Shor had returned, but Pelinal just spat at their feet for profaning Shor's name.{{ref|name=TSOP4|{{Cite Book|The Song of Pelinal, v 4}}}} The unusual success of High King [[Lore:Gellir|Gellir]] in conquering various Dwemeri city-states in [[Lore:Skyrim|Skyrim]] during the First Era was attributed to the blessings of Shor.{{ref|name=TAW|{{Cite Book|The Aetherium Wars}}}} The zealotry of King Wulfharth earned him the moniker "Shor's Tongue".{{ref|name=FSOKW}}
+
+In the dark days after the fall of [[Lore:Saarthal|Saarthal]], Shor was demonized by the elven rulers in [[Lore:Breton|Breton]]y, where he became known as [[Lore:Sheor|Sheor]], the Bad Man.{{ref|name=VOF}}
+
+===Known Expressions===
+*By Shor's shiny arse{{ref|name=Stromgruf|[[Online:Stromgruf the Steady|Stromgruf the Steady]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Morrowind|Morrowind]]''}}
+*Shor's bones!{{Ref|name=ASD4|{{Cite Book|Ancient Scrolls of the Dwemer IV}}}}
+*Shor's Crown!{{Ref|[[Skyrim:Sigrid|Sigrid]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+
+==Artifacts==
+===Bow of the Fox===
+{{Lore:Bow of the Fox}}
+==Gallery==
+<gallery>
+File:ON-mount-Shor's Fox.jpg|Shor's Fox, a gargantuan breed named after the Nord god
+File:ON-furnishing-Ebony Fox Totem 02.jpg|Ebony Fox Totem
+File:SR-item-Fox Totem.jpg|Fox totem
+File:ON-creature-Aspect of the Fox.jpg|Ternion Aspect of the Fox
+</gallery>
+
+==Notes==
+* [[Lore:Shor-El|Shor-El]], who was part of the oversoul of the [[Lore:Amulet of Kings|Amulet of Kings]], is said to have claimed that Cyrodiil became an egg during the famous thousand-year [[Lore:Dragon Break|Dragon Break]] of the First Era.{{ref|name=WWYDB|{{Cite Book|Where Were You ... Dragon Broke}}}}
+* A small mining community in Skyrim is called [[Lore:Shor's Stone|Shor's Stone]].{{ref|name=TN2|{{Cite Book|The Nightingales Vol. 2}}}}
+*[[Lore:Arnand the Fox|Arnand the Fox]] is a figure equated with the likes of Zurin Arctus and Pelinal,{{ref|name=WWYDB}} who was also known as Hans the Fox, which was the name of a literal fox said to be one of the [[Lore:Companions|Five Hundred Companions]].{{ref|group=UOL|{{Cite Book|The Five Hundred Mighty Companions or Thereabouts of Ysgramor the Returned|ns_base=General}}}}
+*Saint [[Lore:Alessia|Alessia]] is sometimes referred to as Shor's wife.{{ref|name=Remanada|{{Cite Book|Remanada}}}}
+
+==See Also==
+* {{Book Link|Five Songs of King Wulfharth}}
+* {{Book Link|The Monomyth}}
+* {{Book Link|Sovngarde, a Reexamination}}
+* {{Book Link|Varieties of Faith...}}
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>{{Lore Nord Religion}}</noinclude>

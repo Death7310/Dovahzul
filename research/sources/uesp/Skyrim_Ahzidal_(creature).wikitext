@@ -1,0 +1,45 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[Skyrim:Kolbjorn Barrow|Kolbjorn Barrow]]
+|refid=xx0179B8
+|baseid=xx0248E9
+|image=SR-creature-Ahzidal.jpg
+|imgdesc=Ahzidal
+|soul=Grand
+|faction={{Faction|allied apocrypha creatures}}; {{Faction|Dragon Priest Faction|ns_base=Skyrim}}
+|level=60
+|perks=[[Skyrim:Magic Resistance|Magic Resistance]] (Rank 1), [[Skyrim:Stability|Stability]], [[Skyrim:Augmented Flames|Augmented Flames]] (Rank 2), [[Skyrim:Atromancy|Atromancy]], [[Skyrim:Regeneration|Regeneration]], [[Skyrim:Respite|Respite]], [[Skyrim:Ward Absorb|Ward Absorb]], [[Skyrim:Recovery|Recovery]] (Rank 2), [[Skyrim:Twin Souls|Twin Souls]], [[Skyrim:Mage Armor|Mage Armor]] (Rank 3)
+|drops=*[[Skyrim:Bone Meal|Bone Meal]] {{small|(1 &times; 100%)}}
+*[[Skyrim:Gold|Gold]] {{small|(50-250 &times; 100%)}}
+*[[Skyrim:Ahzidal (item)|Acolyte Priest Mask]] {{small|(1 &times; 100%)}}
+|class=Dragon Priest
+|health=2000
+|magicka=595
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+|attack=*'''Fire Stream
+**[[SR:Fire Damage|Fire Damage]], 100 pts
+*[[Skyrim:Greater Ward|Greater Ward]]
+*[[Skyrim:Ebonyflesh|Ebonyflesh]]
+*[[Skyrim:Revenant|Revenant]]
+*[[Skyrim:Raise Zombie|Raise Zombie]]
+*[[Skyrim:Flame Cloak|Flame Cloak]]
+*Conjure Flame Dancer
+|abilities=*[[SR:Resist Poison|Resist Poison]], 100 pts
+*[[SR:Waterwalking|Waterwalking]]
+*Immune to [[SR:Paralysis|Paralysis]]
+}}
+'''Ahzidal''' is a [[Skyrim:Dragon Priest|dragon priest]] entombed within [[Skyrim:Kolbjorn Barrow|Kolbjorn Barrow]] in [[Skyrim:Solstheim|Solstheim]]. He carries an [[Skyrim:Ahzidal (item)|eponymous mask]].
+
+He specializes in fire-based magic, able to cast: [[Skyrim:Greater Ward|Greater Ward]], [[Skyrim:Ebonyflesh|Ebonyflesh]], [[Skyrim:Revenant|Revenant]], [[Skyrim:Raise Zombie|Raise Zombie]], [[Skyrim:Flame Cloak|Flame Cloak]], and Fire Stream, a unique spell similar to the [[Skyrim:Fire Breath|Fire Breath]] shout. His heavy armor set includes [[Skyrim:Ahzidal's Armor of Retribution|Ahzidal's Armor of Retribution]], [[Skyrim:Ahzidal's Boots of Waterwalking|Ahzidal's Boots of Waterwalking]], [[Skyrim:Ahzidal's Gauntlets of Warding|Ahzidal's Gauntlets of Warding]], [[Skyrim:Ahzidal's Helm of Vision|Ahzidal's Helm of Vision]], and his mask.
+
+For more information, see the [[Lore:Ahzidal|lore page]].
+
+{{NewLeft}}
+
+== Related Quests ==
+* {{Quest Link|Unearthed}}
+== Notes ==
+* Ahzidal means "the Embittered Destroyer" (or literally "Bitter Destroyer") in the [[Lore:Dragon Language|Dragon language]].
+{{Skyrim Dragon Priests}}

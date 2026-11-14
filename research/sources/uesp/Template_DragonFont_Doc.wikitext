@@ -1,0 +1,20 @@
+==Summary==
+This template causes text to be displayed in the [[Lore:Dragon Alphabet|Dragon Font]] on the page. The font is included in the CSS as webfont, therefore the client doesn't have to install the font.
+
+==Parameters==
+{{Parameters
+|1|required|Text to display using the Dragon font. Use '''upper-case''' letters for single-symbol characters. Use '''lower-case''' or numbers, as listed, when one symbol in the dragon language is two letters in the Latin alphabet.<pre style="width:4em">
+1 = aa
+2 = ei
+3 = ii
+4 = ah
+5 = uu
+6 = ur
+7 = ir
+8 = oo
+9 = ey</pre>
+|2|optional|Font size. Note that values from 0-6 will roughly duplicate sizes for the {{Tag|font|open}} tag, while larger values will be understood as pixel height. (Default: 6 or xx-large.)
+|size|optional|Font size. As above, but this is a straight CSS size and must include units. Overrides the second parameter if both are specified.
+|3|optional|Mouseover text. Defaults to the text in parameter 1 with the &lt;br&gt; tags replaced with spaces. Note that mouseover text cannot contain markup.}}
+
+<includeonly>[[Category:Language Templates]]</includeonly><noinclude>[[Category:Template Documentation]]</noinclude>

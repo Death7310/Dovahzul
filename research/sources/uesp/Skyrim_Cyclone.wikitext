@@ -1,0 +1,52 @@
+{{Trail|Dragon Shouts}}{{Mod Header|Dragonborn}}{{Shout Summary
+|id=xx0200c0
+|icon=SR-icon-shout-White.png
+|quote=Your Thu'um creates a whirling cyclone that sows chaos among your enemies.
+|word1=VEN
+|wordid1=xx0200c2
+|cooldown1=30
+|info1=Small cyclone, inflicts 50 damage, tosses enemies and objects into the air.
+|location1=[[Skyrim:Benkongerike|Benkongerike]]
+|word2=GaaR
+|wordid2=xx0200c3
+|cooldown2=45
+|info2=Medium cyclone, inflicts 75 damage, increased area of effect and range.
+|location2=[[Skyrim:Kolbjorn Barrow|Kolbjorn Barrow]]
+|word3=NOS
+|wordid3=xx0200c4
+|cooldown3=60
+|info3=Large cyclone, inflicts 100 damage, further increased area of effect and range.
+|location3=[[Skyrim:White Ridge Sanctum|White Ridge Sanctum]]
+|mod=DB
+|transword1=Wind
+|transword2=Unleash
+|transword3=Strike
+|spellid1=xx0200bc
+|spellid2=xx0200be
+|spellid3=xx0200c1
+}}
+'''Cyclone''' is a [[Skyrim:Dragon Shouts|dragon shout]] added by the [[Skyrim:Dragonborn|Dragonborn]] expansion. When used, the shout fires out a small cyclone that throws enemies, even large enemies like giants, into the air causing moderate damage. The more powerful the shout, the more damage the cyclone does and the farther range it has.
+
+
+==Notes==
+* Even a single word of Cyclone can turn the tide of a battle, as it takes enemies a couple of seconds to get up from the ground after being thrown, similar to a one second [[Skyrim:Paralysis|Paralysis]] effect.
+* Cyclone can act similar to Unrelenting Force, if enemies are near drops or steep hills when the Shout is used, though Cyclone affects a wider area than Unrelenting Force, and deals more initial damage from the enemies being tossed into the air.
+*If an enemy is immune to being ragdolled (like [[Skyrim:Mammoth|mammoths]] or [[Skyrim:Horse|horses]]), the Shout will only stagger them, not toss them into the air.
+*Cyclone can be Shouted into the sky to affect Dragons, but it only deals damage and inflicts minor stagger.
+*The first word for Cyclone is also used by [[Skyrim:Alduin|Alduin]] for his "Soul Snare" Shout in Sovngarde.
+*Although this Shout acts similar to Unrelenting Force (throwing enemies off their feet), Unrelenting Force propels them away from you, while Cyclone tosses them in the direction they were going: if they were charging you, they will be tossed forward, and if they were fleeing, they will be thrown away from your direction.
+*While it doesn't toss them into the air, Cyclone still staggers Dwarven Spiders and Spheres and deals the appropriate damage, though it doesn't even stagger the Centurions at all (though it still deals damage).
+*When enemies are damaged by this Shout, the effect shares the same appearance as if they are being harmed by Frost magic, though they aren't (it is a non-magical damage).
+
+{{NewLine}}
+
+==Word Wall Translations==
+{{WordWall
+|wordwall1=QETHSEGOL VahRUKIV VULGRUM FIN<br>ZahKRii KO FIN {{FC|blue|VEN}} SOVRahZUN<br>WEN MORO LOST MALTiiD<br>NUZ KO VahRUKT UNLaaD
+|translation1=(This) stone commemorates Vulgrum the<br>Sword in the {{FC|blue|wind}}, (the) mercenary<br>Whose glory was short<br>But in memory eternal.
+|wordwall2=NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMAH KENDOV KRIF<br>OK KOSIL VOKUL NUZ JUN {{FC|blue|GaaR}}<br>NiiN NAU OK HOKORON
+|translation2=Noble Nord, remember these words<br>Of the Hoar-Father: (a) warrior fights<br>his inner evils, but (a) king {{FC|blue|unleashes}}<br>them on his enemies.
+|wordwall3=QETHSEGOL VahRUKIV HRODMir FIN<br>KRENT WO SOV Pah OK ERUVOS ahRK<br>FARaaN Wah {{FC|blue|NOS}} TUM KRIVaaN<br>DO OK ZeyMah
+|translation3=(This) stone commemorates Hrodmir the<br>Broken, who spent all his years and<br>wealth to {{FC|blue|strike}} down (the) killer<br>of his brother.
+}}
+{{Skyrim Shouts}}

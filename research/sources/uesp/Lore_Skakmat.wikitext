@@ -1,0 +1,29 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male{{ref|name=Ted|group=UOL}}
+|loc=High Rock
+|appears=[[Daggerfall:Skakmat|Daggerfall]]
+|image=DF-npc-Skakmat (face).png
+|imgdesc=the Dragon
+}}
+</noinclude>
+[[Lore:Skakmat|Skakmat]] is a [[Lore:Dragon|Dragon]] who lived in [[Lore:High Rock|High Rock]] during the [[Lore:Third Era|Third Era]], serving as the [[Lore:Familiar|familiar]] of the renowned mystic [[Lore:Nulfaga|Nulfaga]], the Dowager Queen of [[Lore:Daggerfall (kingdom)|Daggerfall]].{{ref|name=DFCN|[[Books:The Daggerfall Chronicles|''The Daggerfall Chronicles'' Narrative]]}}{{ref|name=EWR|{{Cite Book|Etiquette With Rulers}}}} During the [[Lore:War of Betony|War of Betony]], Nulfaga foresaw doom for Daggerfall and her son, King [[Lore:Lysandus|Lysandus]]. After he continued to ignore her warnings, the sorceress retired to [[Lore:Shedungent|Castle Shedungent]], leaving Skakmat behind to report on happenings in the kingdom.{{ref|name=DFCN}}{{ref|name=NWOB|{{Cite Book|The War of Betony (Newgate)}}}}{{ref|name=FWOB|{{Cite Book|The War of Betony (Fav'te)}}}}
+
+Nulfaga's departure did cause Lysandus to reconsider the war, but an attempt at peace failed and the kingdoms of Daggerfall and [[Lore:Sentinel (kingdom)|Sentinel]] set up for a climactic battle at [[Lore:Cryngaine Field|Cryngaine Field]].{{ref|name=DFCN}}{{ref|name=NWOB}}{{ref|name=FWOB}} The fighting had just begun when a sudden, unnatural fog descended upon the field of battle.{{ref|name=DFCN}}{{ref|name=NWOB}}{{ref|name=FWOB}} While historians have attributed this phenomenon to "foul [[Lore:Daedric|daedric]] magical tricks"{{ref|name=FWOB}} it was actually created by Skakmat, under Nulfaga's orders, as one final attempt to halt the battle and spare her son from death.{{ref|name=DFCN}} The fog blinded the combatants, and when it lifted King Lysandus was found dead, shot by an archer.{{ref|name=NWOB}}{{ref|name=FWOB}} In reality, the "king" was an impersonator, shot by Daggerfall's Prince [[Lore:Gothryd|Gothryd]] in a successful attempt to feign his father's death.{{ref|name=DFCN}} Ironically, when Nulfaga received word of Lysandus' death at the battle, it drove her mad.{{ref|[[Daggerfall:Concern for Nulfaga|Concern for Nulfaga]] quest in ''[[Daggerfall:Daggerfall|Daggerfall]]''}}<noinclude>
+
+==Notes==
+*Skakmat is never mentioned in any of the games. It exists as a character in the data files of ''[[Daggerfall:Daggerfall|TES II: Daggerfall]]'', and its role in the War of Betony is mentioned in ''[[Books:The Daggerfall Chronicles|The Daggerfall Chronicles]]''.
+*According to an interview with developer [[General:Ted Peterson|Ted Peterson]], it was originally planned that you would befriend Skakmat and he would show you the way to Nulfaga's home, Shedungent.{{ref|name=Ted|group=UOL|{{TIL|Interview with Ted Peterson (2019)|interview-ted-peterson-2019}}, The Imperial Library}}
+*Mark Jones claims to have had modeled a dragon on his website, but had promptly lost those files.{{Fact}} Mark Jones also stated that release constraints forced Skakmat to be removed from the final release of ''Daggerfall'':
+:* ''There was going to be a big ol' realtime 3D dragon. It was all animated and textured and ready to go. Some things had to be dropped though to get it out the door before the next millenium! There a still a few textures left on the CD if you poke around a bit. Damn, I loved that dragon...''{{ref|name=MarkJonesUsenet|group=UOL|[[https://usenetarchives.com/view.php?id=alt.games.daggerfall&mid=PDM4Mjg4NzlGLjlFRUFGNDk3QGVyb2xzLmNvbT4%3D Mark Jones on Usenet Archives thread ALT.GAMES.DAGGERFALL]]}}
+*Skakmat's appearance in ''Daggerfall'' predates the creation of the [[Lore:Dragon Language|Dragon language]] for ''[[SR:Skyrim|The Elder Scrolls V: Skyrim]]''. Having not been mentioned since ''Daggerfall'', it is unknown if Skakmat can be considered his true name; as such, the name "Skakmat" has no known translation in the Dragon language and contains only two syllables, rather than the usual three found in most Dragon names.
+*In 2017, Julian LeFay has stated that while he has only a very vague memory of working on this dragon, he did enjoy the name as Skakmat is danish for "[https://da.wikipedia.org/wiki/Skakmat checkmate]"{{ref|name=RedditAMA|''[[General:Julian Jensen AMA|Ask Me Anything: I'm Julian Jensen, programmer, designer and "Father of the Elder Scrolls"]]''}}
+
+==See Also==
+*{{GSI|Daggerfall:Skakmat}}
+
+==References==
+<references/>
+
+{{UOL}}
+<references group=UOL/></noinclude>

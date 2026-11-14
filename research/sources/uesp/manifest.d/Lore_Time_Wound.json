@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Time Wound",
+  "revid": 3487567,
+  "timestamp": "2026-01-20T13:24:54Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3487567&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "f2f224a1aa2854afbda4bd1f6edaa622c785d25f33371d843c95107d95155434",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 348766,
+  "ns": 130,
+  "parentid": 3387331,
+  "requested_title": "Lore:Time Wound",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Time_Wound",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3487567",
+  "sha1": "d7f494020a1fb00e8ef47ced04da24f4497814b3",
+  "sha1_matches_mediawiki": true,
+  "bytes": 5839,
+  "chars": 5839,
+  "lines": 29,
+  "saved_as": "research/sources/uesp/Lore_Time_Wound.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Dragonborn|Lore:Last+Dragonborn|Lore:Way+of+the+Voice|Lore:Time+Wound|Lore:Throat+of+the+World|Lore:Kyne|Lore:Shor|Lore:Sun|Lore:Elements|Lore:Draugr|Lore:Companions|Lore:Nord",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:40Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

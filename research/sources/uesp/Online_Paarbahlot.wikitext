@@ -1,0 +1,33 @@
+{{Mod Header|Dragonhold}}{{Online NPC Summary
+|image=ON-creature-Paarbahlot.jpg
+|imgdesc=Paarbahlot
+|loc=[[ON:New Moon Fortress|New Moon Fortress]]
+|race=Dragon
+|creature=1
+|reaction=Friendly
+|faction={{Faction|Order of the New Moon (faction)}}
+}}
+'''Paarbahlot''' is a feldgrau-green [[ON:Dragon|dragon]] that has allied himself with [[ON:Laatvulon|Laatvulon]]. He will be present when [[ON:Joorahmaar|Joorahmaar]] is discussing the promise of power with Laatvulon, and will fly off with Joorahmaar when you disrupt the aeonstone ritual.
+{{NewLeft}}
+==Related Quests==
+* {{Quest Link|Order of the New Moon}}
+
+==Quest-Related Events==
+===Order of the New Moon===
+Paarbahlot is first seen in [[ON:New Moon Fortress|New Moon Fortress]]. He is part of the meeting with Laatvulon and Joorahmaar and listens to the conversation.
+:'''Joorahmaar:''' ''"You promised us power, Laatvulon."''
+:'''Laatvulon:''' ''"And you shall have it, my brother."''
+:'''Laatvulon:''' ''"The New Moon will rise above, and all who obey shall rise with it!"''
+:'''Laatvulon:''' ''"Relinquish your strength to the aeonstone! Offer your power to our noble cause!"''
+
+When you disrupt the ritual, Paarbahlot flies off.
+
+==Notes==
+* He doesn't have a nameplate. The only way to discern his name is from subtitles.
+* He shares the same model as [[ON:Bahlokdaan|Bahlokdaan]].
+* His name means "Ambition-Wrath-Great" in [[Lore:Dragon Language|Dragon Language]].
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

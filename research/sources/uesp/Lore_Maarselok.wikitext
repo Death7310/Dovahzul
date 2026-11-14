@@ -1,0 +1,52 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=2E 582
+|deathLoc=Tenmar
+|loc=Tenmar
+|appears=[[Online:Maarselok|ESO]]
+|image=ON-creature-Maarselok 04.jpg
+|imgdesc=circa {{Year|2E 582}}}}</noinclude>
+<noinclude>{{Quote Box|style=float:none; max-width:none|''Every moment you hesitate, my influence creeps farther.''|Maarselok}}
+</noinclude>
+[[Lore:Maarselok|Maarselok]] (whose name means "Terror-of-Sky" in the [[Lore:Dragon Language|Dragon Language]]), also known as the '''Dread Blue Dragon of the Tenmar Jungle''',{{Ref|name=MSM|[[ON:Maarselok Slayer Mammoth|Maarselok Slayer Mammoth]] mount description in [[Online:Online|ESO]]}} was a powerful azure [[Lore:Dragon|Dragon]] who emerged in the [[Lore:Tenmar|Tenmar jungle]] in {{Year|2E 582}}, having awoken from his resting place deep beneath the mountains of eastern [[Lore:Grahtwood|Grahtwood]] with the release of the great dragon [[Lore:Kaalgrontiid|Kaalgrontiid]] and his dragon followers from the [[Lore:Halls of Colossus|Halls of Colossus]]. He used his [[Lore:Thu'um|Thu'um]] to unleash a corruptive plague called the [[Lore:Azure Blight|Azure Blight]], it rapidly spread through the jungle, corrupting the life within and bringing it under the dragon's thrall, and threatened all of Grahtwood, and even the [[Lore:Elden Root|Elden Root]] tree, [[Lore:Towers|Green-Sap]], and the [[Lore:The Green|Green]] itself.{{Ref|name=LoMESO|[[Online:Lair of Maarselok|Lair of Maarselok]]'s description in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}}{{Ref|name=Allanwen|[[Online:Allanwen|Allanwen]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}}{{Ref|name=AZQ|[[Online:The Azure Blight|Azure Blight]] quest in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}} Maarselok's ultimate goal was to use his blight to take control of the [[Lore:Changeling|Changeling]] high priestess of [[Lore:Shagrath|Shagrath]], [[Lore:Selene|Selene]], and combine her power with his own, which he believed would give him the ability to shape the world to his liking. According to Selene, Maarselok sought to mold the world to his liking, and was depraved even by dragon standards.{{Ref|name=Selene|[[Online:Selene|Selene]]'s dialogue during [[Online:The Azure Blight|The Azure Blight]] in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}}<noinclude><noinclude>
+{{NewLeft}}
+
+==History==
+[[File:ON-render-Scalebreaker Maarselok.jpg|Maarselok confronting adventurers in his lair|thumb|left]][[File:ON-render-Selene 02.jpg|Selene, who Maarselok sought to control so he could combine her power with his own|thumb|right]]
+In 2E 582, ancient Dragons had appeared in Northern [[Lore:Elsweyr|Elsweyr]], reaping the land, following the release of the great dragon Kaalgrontiid and his dragon followers from the Halls of Colossus.{{ref|name=ESOTHOC|[[ON:The Halls of Colossus|The Halls of Colossus]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The azure dragon Maarselok was awoken by the release of his brethren and took roost in a secluded mountain within the Tenmar Jungle. When Maarselok arrived in his new home, his [[Lore:Thu'um|words]] boomed throughout the valley and the surrounding wilds started to take on an unnatural aspect. This was the beginning of the [[Lore:Magic|arcane]] disease known as the Azure Blight, which rapidly spread through the jungle.{{Ref|name=LoMESO}}{{Ref|name=Allanwen}}{{Ref|name=AZQ}} During his stay on the mountain, Maarselok would occasionally venture out to look for something, the Changeling Selene whose power he sought to combine with his own, believing it'd give him the ability to shape the world to his liking.{{Ref|name=Selene}}{{Ref|name=LogTwo|{{Cite Book|Maarselok Reconnaissance Log Two}}}}{{Ref|name=LogThree|{{Cite Book|Maarselok Reconnaissance Log Three}}}}
+
+Borne through the air by swarms of infected insects,{{ref|name=Observations|{{Cite Book|Observations on Tenmar Valley}}}} the Azure Blight soon came to threaten Elden Root  and the Green themselves.{{Ref|name=AZQ}}{{Ref|name=Allanwen}}{{Ref|name=LoMESO}} Alarmed by the disease spreading through the land, King [[Lore:Aeradan Camoran|Aeradan Camoran]] sent a [[Lore:Bosmer|Bosmeri]] army to slay the dragon, however, unprepared for the nature of what they were about to face, the force was quickly overcome. Creatures infected with the Azure Blight rushed out of the corrupted jungle and drove the Bosmer force into the infected area before setting up an enirclement to prevent them from leaving. Surrounded on all sides by the Azure Blight, the Bosmer soon fell to the infection and became the dragon's thralls themselves.{{Ref|name=LoMESO}}{{Ref|name=Allanwen}}{{Ref|name=Gadnalon|[[Online:Gadnalon|Gadnalon]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}}{{Ref|name=LogFour|{{Cite Book|Maarselok Reconnaissance Log Four}}}}{{Ref|name=No|{{Cite Book|ns_base=ON|No! No! No!}}}}
+
+Fearful of losing more of his soldiers, King Camoran sent two emissaries, Allanwen and Gadnalon, to the region to treat with the Changeling Selene, and enlist her aid in stopping Maarselok and protecting [[Lore:Valenwood|Valenwood]] from his poison. The pair also enlisted the aid of a group of [[Lore:Undaunted|Undaunted]] adventurers to deal with the situation. The group soon encountered Selene, who had been imprisoned and soul bound by the [[Lore:Mages Guild|Mages Guild]] warlock Carindon. Carindon was convinced to loosen his hold so the group could treat with Selene, forcing them to subdue her again after she took on a different form and attacked. The party braved the infested lair of Maarselok, did combat with his blighted thralls and living masses of disease, the Azureblight Infestors, and destroyed the Azureblight Cancroid, a corrupted mass formed by the blight which oozed and spread the disease further, the heart of the mountain's corruption.{{Ref|name=LoMESO}}{{Ref|name=Allanwen}}{{Ref|name=Gadnalon}}{{Ref|name=Selene}}{{Ref|name=AZQ}}{{Ref|name=Cancroid|[[Online:Azureblight Cancroid|Azureblight Cancroid]] in [[Online:Online|ESO]]}}
+[[File:ON-render-Maarselok.jpg|Maarselok confronting adventurers in his lair|thumb|right]]
+The group repelled the dragon multiple times during the ascent and, aided by Selene, whose purifying glyphs cleansed the dragon's corruption and helped repel the dragon, eventually confronted Maarselok on the mountain's summit. Maarselok was a formidable foe, and used his blight to take control of Selene and infest the adventurers themselves using seeds of Azureblight. However Selene managed to struggle against his hold and cleanse the corruption with her own powers, and eventually Maarselok fell.{{Ref|name=Selene}}{{Ref|name=AZQ}}{{Ref|name=Maarselok|[[Online:Maarselok|Maarselok]] encounters in [[Online:Online|ESO]]: ''[[Online:Scalebreaker|Scalebreaker]]''}}
+
+Carindon, whose actions had violated an accord between the Mages Guild and Selene, was captured to await disciplinary action by guild Arch-Mage [[Lore:Vanus Galerion|Vanus Galerion]] himself. Selene escaped and would go on to work to cleanse the Azure Blight, which had persisted past the dragon's death, from the land.{{Ref|name=Allanwen}}{{Ref|name=AZQ}}{{Ref|name=Selene}}
+ 
+As his soul was not devoured by another dovah, Maarselok was not killed permanently and can be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+
+==Azure Blight==
+{{Lore:Azure Blight}}
+
+==Gallery==
+<gallery>
+File:ON-wallpaper-The Elder Scrolls Online Scalebreaker-2880x2560.jpg|ESO Wallpaper featuring the dragon Maarselok (upper left)
+File:ON-render-Lair of Maarselok 02.jpg|Maarselok flying above the corrupted mountain
+File:ON-render-Scalebreaker.jpg|Maarselok surrounded by blighted life
+File:ON-creature-Azureblight Cancroid.jpg|The Azureblight Cancroid, a source of corruption
+File:ON-npc-Azureblight Vitiate.jpg|Azureblught Vitiate, a Bosmer enthralled by Maarselok
+File:ON-creature-Azureblight Wyrm.jpg|An Azureblight Wyrm, an elemental wyrm formed of Azureblight
+</gallery>
+
+==Notes==
+*Maarselok's Azureblight has some similarities to the [[Lore:The Blight|Ash Blight]] of [[Lore:Dagoth Ur|Dagoth Ur]], both being arcane diseases linked to [[Lore:Aedra|Aedric]] forces that rot and take control of those they infect and place them under the mental control of their creator. Those blighted by Dagoth Ur were in mental contact with him, whereas the Azure Blight infected, living or dead, were described as becoming "one with Maarselok" by Selene.{{ref|name=Dreamer|[[Morrowind:Dreamer (NPC)|Dreamer]] dialogue in ''[[MW:Morrowind|Morrowind]]''}}{{ref|name=YakumH|[[MW:Yakum Hairshashishi|Yakum Hairshashishi]] on the topic of '''Soul sickness''' in ''[[MW:Morrowind|Morrowind]]''}}{{Ref|name=Dagoth|[[MW:Dagoth Ur (god)|Dagoth Ur]]'s dialogue in ''[[MW:Morrowind|Morrowind]]''}}{{Ref|name=Selene}}
+{{NewLine}}
+
+==See Also==
+*{{GSI|Online:Maarselok}}
+
+==References==
+<references/></noinclude>

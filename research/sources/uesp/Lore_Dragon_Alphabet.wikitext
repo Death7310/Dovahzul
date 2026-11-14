@@ -1,0 +1,260 @@
+{{Trail|Linguistics}}
+The '''Dragon Alphabet''' is the alphabet used for the [[Lore:Dragon Language|Dragon Language]]. Text  written in the Dragon Alphabet is found on walls in ancient dungeons and on burial grounds in the form of [[Lore:Word Walls|Word Walls]].{{Ref|name=DLMNM|{{Cite Book|Dragon Language: Myth no More}}}} The alphabet consists of 34 symbols: 25 that map directly to letters in the Latin alphabet, and nine that represent pairs of letters. There is a symbol for every letter in the Latin alphabet.
+
+The shape of the letters is constrained by their need to be written using three large talons and a vestigial fourth digit called the dewclaw. Thus, all of the character symbols consist of a maximum of three scratches occasionally punctuated with a dot from the dewclaw.{{ref|name=SDS|group=UOL|[http://www.gameinformer.com/b/features/archive/2011/01/20/skyrim-s-dragon-shouts.aspx?PostPageIndex&#61;3 Skyrim's Dragon Shouts], GameInformer, January 20, 2011}}
+
+{| class="wikitable"
+!A
+!AA
+!AH
+!B
+!D
+!E
+!EI
+!EY
+!F
+!G
+!H
+!I
+!II
+!IR
+!J
+!K
+!L
+|-
+|{{DragonFont|A}}
+|{{DragonFont|1}}
+|{{DragonFont|4}}
+|{{DragonFont|B}}
+|{{DragonFont|D}}
+|{{DragonFont|E}}
+|{{DragonFont|2}}
+|{{DragonFont|9}}
+|{{DragonFont|F}}
+|{{DragonFont|G}}
+|{{DragonFont|H}}
+|{{DragonFont|I}}
+|{{DragonFont|3}}
+|{{DragonFont|7}}
+|{{DragonFont|J}}
+|{{DragonFont|K}}
+|{{DragonFont|L}}
+|-
+| height="2px" colspan=17| 
+|-
+!M
+!N
+!O
+!OO
+!P
+!Q
+!R
+!S
+!T
+!U
+!UU
+!UR
+!V
+!W
+!X
+!Y
+!Z
+|-
+|{{DragonFont|M}}
+|{{DragonFont|N}}
+|{{DragonFont|O}}
+|{{DragonFont|8}}
+|{{DragonFont|P}}
+|{{DragonFont|Q}}
+|{{DragonFont|R}}
+|{{DragonFont|S}}
+|{{DragonFont|T}}
+|{{DragonFont|U}}
+|{{DragonFont|5}}
+|{{DragonFont|6}}
+|{{DragonFont|V}}
+|{{DragonFont|W}}
+|{{DragonFont|X}}
+|{{DragonFont|Y}}
+|{{DragonFont|Z}}
+|}
+
+The letter "C" does not usually appear, due to the fact that the letter is unused in the Dragon Language. See [[#Legends Card Packs|Legends Card Packs]] below for details.
+The character "0" is a part of the Dragon Alphabet Font. It goes unused as there is no associated letter.
+
+{| class="wikitable"
+!C
+!"0"
+|-
+|{{DragonFont|C}}
+|{{DragonFont|0}}
+|}
+
+== Examples ==
+=== Song of the Dragonborn ===
+The first text in the Dragon Alphabet appeared in a [http://www.gameinformer.com/b/news/archive/2011/01/06/february-cover-revealedesv-the-elder-scrolls-v-skyrim.aspx ''Game Informer'' post] about their February 2011 edition, along with a post about [http://www.gameinformer.com/b/news/archive/2011/01/06/translating-the-cover.aspx translating the cover]. The original article contained the following samples of Dragon text:
+
+{|class=wikitable {{AL|C}}
+!Dragon alphabet
+!Latin alphabet
+!Translation
+|-
+|{{DragonFont|DOVahKiiN DOVahKiiN|5}}
+|DOVahKiiN DOVahKiiN
+|Dragonborn Dragonborn
+|-
+|{{DragonFont|NaaL OK ZIN LOS VahRiiN|5}}
+|NaaL OK ZIN LOS VahRiiN
+|By his honor is sworn
+|-
+|{{DragonFont|Wah DeiN VOKUL MahFAERaaK ahST VaaL|5}}
+|Wah DeiN VOKUL MahFAERaaK ahST VaaL
+|To keep evil forever at bay
+|-
+|{{DragonFont|ahRK FIN NOROK PaaL GRaaN|5}}
+|ahRK FIN NOROK PaaL GRaaN
+|And the fiercest foes rout
+|-
+|{{DragonFont|FOD NUST HON ZINDRO ZaaN|5}}
+|FOD NUST HON ZINDRO ZaaN
+|When they hear triumph's shout
+|-
+|{{DragonFont|DOVahKiiN Fah HIN KOGaaN MU DRaaL|5}}
+|DOVahKiiN Fah HIN KOGaaN MU DRaaL
+|Dragonborn for your blessing we pray
+|-
+| height="2px" colspan=3| 
+|-
+|{{DragonFont|ahRK FIN KEL LOST PRODah|5}}
+|ahRK FIN KEL LOST PRODah
+|And the scrolls have foretold
+|-
+|{{DragonFont|DO VED ViiNG KO FIN KRah|5}}
+|DO VED ViiNG KO FIN KRah
+|Of black wings in the cold
+|-
+|{{DragonFont|TOL FOD ZeyMah WIN KeiN MeyZ FUNDeiN|5}}
+|TOL FOD ZeyMah WIN KeiN MeyZ FUNDeiN
+|That when brothers wage war come unfurled
+|-
+|{{DragonFont|ALDUIN FeyN DO JUN|5}}
+|ALDUIN FeyN DO JUN
+|[[Lore:Alduin|Alduin]] bane of kings
+|-
+|{{DragonFont|KRUZiiK VOKUN STaaDNAU|5}}
+|KRUZiiK VOKUN STaaDNAU
+|Ancient shadow unbound
+|-
+|{{DragonFont|VOTH aaN BahLOK Wah DiiVON FIN LeiN|5}}
+|VOTH aaN BahLOK Wah DiiVON FIN LeiN
+|With a hunger to swallow the world
+|}
+
+Coincidentally, this poem is also the song that is heard throughout the game when the player enters combat with a dragon or if the player lets the game run on the main menu without selecting an option.
+
+Originally known as "Dragon Poem", it was revealed through the in-game book ''[[Skyrim:Songs_of_Skyrim|Songs of Skyrim]]'' that this is only a portion of a longer work. Loading Screen text name the work ''Song of the Dragonborn''. The full version, in both English and the Dragon Tongue, can be found in ''Songs of Skyrim''.
+
+=== E3 Word Wall ===
+[[File:Lore-dragon-Dragon Text.jpg|thumb|The Word Wall at E3 2011|right]]
+At [[wikipedia:Electronic Entertainment Expo 2011|E3 2011]], Bethesda's booth displayed a Word Wall (right) which contained the following sample of Dragon text:
+{|class=wikitable {{AL|C}}
+!Dragon alphabet
+!Latin alphabet
+!Translation
+|-
+|{{DragonFont|ahRK OND DRey|5}}
+|ahRK OND DRey
+|And lo, did
+|-
+|{{DragonFont|SahROT|5}}
+|SahROT
+|Mighty
+|-
+|{{DragonFont|HeiMVERLUND|5}}
+|HeiMVERLUND
+|Heimverlund
+|-
+|{{DragonFont|MeyZ NOL HEVNO|5}}
+|MeyZ NOL HEVNO
+|come from the brutal
+|-
+|{{DragonFont|BROM MED STRUN|5}}
+|BROM MED STRUN
+|North, like a storm
+|-
+|{{DragonFont|DO UZNahGaaR|5}}
+|DO UZNahGaaR
+|Of unbridled
+|-
+|{{DragonFont|NahKRiiN NOL|5}}
+|NahKRiiN NOL
+|Vengeance from
+|-
+|{{DragonFont|SOVNGARDE|5}}
+|SOVNGARDE
+|Sovngarde
+|-
+|{{DragonFont|NIMaaR|5}}
+|NIMaaR
+|Itself
+|}
+
+*"[[Lore:Sovngarde|Sovngarde]]" is the Nordic idea of the afterlife, a part of [[Lore:Aetherius|Aetherius]].
+*The same text appears on the dragon wall statue included with the collector's edition of the game.
+*This is also the text for the first Word Wall for the shout [[Skyrim:Storm Call|Storm Call]].
+
+=== Dragonstone ===
+[[File:SR-item-Dragonstone (text).jpg|thumb|right|Dragonstone]]
+A [[Lore:Dragonstone|Dragonstone]] found in [[Lore:Bleak Falls Barrow|Bleak Falls Barrow]] has the following inscription:
+
+{|class=wikitable {{AL|C}}
+!Dragon alphabet
+!Latin alphabet
+!Translation
+|-
+|{{DragonFont|HET NOK UN|5}}
+|HET NOK UN
+|Here lie our
+|-
+|{{DragonFont|MAHLaaN DROGGE|5}}
+|MAHLaaN DROGGE
+|Fallen lords
+|-
+| height="2px" colspan=3| 
+|-
+|{{DragonFont|ERei SULeyK SE|5}}
+|ERei SULeyK SE
+|Until power of
+|-
+|{{DragonFont|ALDUIN VOKRii|5}}
+|ALDUIN VOKRii
+|Alduin revives
+|}
+
+===Legends Card Packs===
+[[File:LG-misc-Skyrim Legendary Pack.jpg|thumb|right|Skyrim Legendary card pack]]
+[[LG:Heroes of Skyrim|Heroes of Skyrim]] Legendary card packs in [[Legends:Legends|''The Elder Scrolls: Legends'']] feature the Dragon Alphabet, but it is used to replace English characters rather than words in the Dragon Language. Legendary packs display the following phrases:
+{|class=wikitable {{AL|C}}
+!Dragon alphabet
+!Latin alphabet
+|-
+|{{DragonFont|WALK IN THE PA OF THE LEGENDS|5}}
+|WALK IN THE PA[TH] OF THE LEGENDS
+|-
+|{{DragonFont|UNLEASH THE STRENGTH OF LEGENDS AND CONQUER ALL|5}}
+|UNLEASH THE STRENGTH OF LEGENDS AND CONQUER ALL
+|-
+|{{DragonFont|THE POWER OF LEGENDS AWAITS YOU|5}}
+|THE POWER OF LEGENDS AWAITS YOU
+|}
+This is the only instance of the letter "C" in the Dragon Alphabet.
+
+==Dragon Alphabet Font==
+A [[:File:SR-Dragon_script.zip|Dragon font]] containing all known characters is available for download.
+
+==References==
+{{reflist}}
+{{UOL}}
+{{reflist|group="UOL"}}
+
+{{Lore Linguistics}}

@@ -1,0 +1,152 @@
+{{Basic NPC Summary
+|image=BL-creature-Shulkunaak 03.jpg
+|imgdesc=Shulkunaak
+|race=Dragon
+|gender=Male
+|faction=
+}}{{TOCright}}
+'''Shulkunaak''' is a red Dragon who can be found in a cave complex, he will give you information regarding the Sorcerer-king [[Blades:Celemaril|Celemaril]]. He is encountered during the quest [[Blades:Facing the Dragon|Facing the Dragon]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Facing the Dragon}}
+
+==Quest-Related Events==
+:''"Who dares disturb my peace? Speak, volaan. Your life hangs in the balance."''
+::'''I am <Player Name>, and I seek your wisdom.'''
+::''"You came here alone? That was very brave, or very stupid."''
+
+:::'''I'm not afraid of you.'''
+:::''"Stupidity it is, then. If it is death you seek, I will give it to you."''
+
+:::'''I trust your good judgment with my life.'''
+:::''"Ahkrin - bravery - may impress your peers. All it will earn you here is a quick death."''
+
+::'''I am <Player Name>, and I don't fear you!'''
+::''"Do you think it wise to provoke me, here in my own lair?"''
+:::'''I see no other option for a coward like you.'''
+:::''"Do not think you can provoke me that easily. But I admire your bravado."''
+
+:::'''I am told dragons appreciate confidence.'''
+:::''"Your ahkrin - bravery - has earned my respect. But that will not save your life."''
+
+Both will lead to:
+:''"But first, tell me. Why did you come all the way here to die?"''
+:'''The Sorcerer-king Celemaril has returned.'''
+
+You can choose to continue talking to Shulkunaak to gain the information, or begin a fight for it.
+
+{|cellpadding="10" cellspacing="10" width="100%"
+|-
+! Talk to Shulkunaak
+|-
+|style="border: dotted 1px black;"|
+
+:''"So the rumors are true. Krosis sul! I hoped this day would never come. You seek my help, then."''
+
+:'''You're the only one who can help.'''
+
+:''"Very well. Celemaril must not achieve his goals. The world cannot be destroyed just yet.<br>Know this: the Sorcerer-King is immortal. Simply destroying his physical form will not kill him."''
+
+:'''So, he cannot be defeated?'''
+
+:''"You need to bind his spirit first. But that will not be easy to accomplish."''
+
+:'''What do we need?'''
+
+:''"Have you already found the [[BL:Elder Scroll|Elder Scroll]]?"''
+
+:'''We have.'''
+
+:''"The Kel, the Elder Scroll, can affect all possible futures. you must bind the Sorcerer-King to the one where he fails to escape.<br>You will also need the incantation that was used to bind his spirit in ancient times.<br>Defeat Celemaril in combat. A pure heart must read the incantation while wearing his lost crown.<br>Celemaril's ancient crown is another matter. I do not know where it may now be found."''
+
+:'''That's it?'''
+
+:''"Yes. That should not be too hard for you, kendov."''
+
+:'''Thank you for your help, great Shulkunaak.'''
+
+:''"Do not thank me yet. Now you must prove yourself worthy to face the Sorcerer-King."''
+
+:'''It doesn't have to be this way.'''
+
+:''"There is no evading your duty, Blade."''
+
+:'''Me, a Blade?!'''/'''Is it that obvious?'''
+
+:''"Zu'u ni mey. I did not survive this long without knowing a Blade when I see one.<br>Have the Blades forgotten their sworn duty as dragonslayers? I assure you, I have not."''
+
+::'''I don't care, this is unfair.'''
+
+:::''"Fairness is irrelevant. Either you are a <man/woman> of honor, and you fight.<br>Or you are not honorable, and I kill you.<br>Now honor your comrades, and fight me! Aav grah!"''
+
+::::'''Very well.'''
+
+:::::''"I knew you were a <man/woman> of honor. Aav grah!"''
+
+
+::'''Not if I kill you first.'''
+
+:::''"Aav grah! Let us test ourselves against each other, <Player Name>!"''
+
+Once enough damage has been dealt to Shulkunaak the following dialogue will begin:
+
+:''"Enough. You have proven your worth.<br>Drem wah hi. Go in peace, Blade."''
+
+:'''You have my gratitude, and that of my town.'''
+
+:''"None of that will matter until you use it to stop Celemaril. Kfir voth ahkrin."''
+|}
+ 
+{|cellpadding="10" cellspacing="10" width="100%"
+|-
+! Fight Shulkunaak
+|-
+|style="border: dotted 1px black;"|
+:''"So the rumors are true. Krosis sul! I hoped this day would never come. You seek my help, then."''
+
+:'''Yes, and you'll tell me, or else!'''
+
+:''"You choose death, then. Ol hi hind. So be it."''
+
+Once enough damage has been dealt to Shulkunaak the following dialogue will begin:
+
+:''"You have defeated me. I am gronsezin - honor-bound - to tell you what you need to know."''
+
+:'''Tell me what we need to defeat the Sorcerer-king.'''
+
+:''"I will tell you what you need to know.<br>Know this: the Sorcerer-King is immortal. Simply destroying his physical form will not kill him."''
+
+:'''So, he cannot be defeated?'''
+
+:''"You need to bind his spirit first. But that will not be easy to accomplish."''
+
+:'''What do we need?'''
+
+:''"Have you already found the Elder Scroll?"''
+
+:'''We have.'''
+
+:''"The Kel, the Elder Scroll, can affect all possible futures. you must bind the Sorcerer-King to the one where he fails to escape.<br>You will also need the incantation that was used to bind his spirit in ancient times.<br>Defeat Celemaril in combat. A pure heart must read the incantation while wearing his lost crown.<br>Celemaril's ancient crown is another matter. I do not know where it may now be found."''
+
+:'''That's it?'''
+
+:''"I have told you everything I know. The rest is up to you."''
+|}
+==Notes==
+*Shulkunaak was originally orange, but was changed to maroon in a later patch.
+* ''Shulkunaak'' may translate to "Sun-Moonlight-Eat" (Shul-Kun-Naak) or "Sun-Moonlight-Guide" (Shul-Kun-Aak) in  the [[Lore:Dragon Language|Dragon Language]].
+
+
+==Gallery==
+<gallery>
+File:BL-quest-Facing the Dragon 02.png|The cutscene that plays as you approach Shulkunaak
+File:BL-quest-Facing the Dragon 03.png|The cutscene that plays as you approach Shulkunaak
+File:BL-creature-Shulkunaak 05.png|Shulkunaak in conversation
+File:BL-creature-Shulkunaak 06.png|Shulkunaak's bite
+File:BL-quest-Facing the Dragon 05.png|Shulkunaak going back to sleep after combat
+File:BL-creature-Shulkunaak 04.png|Shulkunaak asleep
+File:BL-creature-Shulkunaak.jpg|Shulkunaak
+File:BL-creature-Shulkunaak 02.jpg|Shulkunaak's original appearance
+File:BL-concept-Dragon Room.jpg|[[Blades:Concept Art|Concept art]]
+</gallery>

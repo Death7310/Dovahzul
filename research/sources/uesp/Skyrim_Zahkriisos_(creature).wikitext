@@ -1,0 +1,38 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[Skyrim:Raven Rock Mine|Raven Rock Mine]] 
+|baseid=xx0248E8
+|refid=xx01FA42
+|image=SR-creature-Zahkriisos.jpg
+|imgdesc=Zahkriisos
+|soul=Grand
+|faction={{Faction|allied apocrypha creatures}}; {{Faction|Dragon Priest Faction|ns_base=Skyrim}}
+|level=PC&times;1 (range=25-60)
+|perks=[[Skyrim:Stability|Stability]], [[Skyrim:Augmented Shock|Augmented Shock]], [[Skyrim:Atromancy|Atromancy]], [[Skyrim:Regeneration|Regeneration]], [[Skyrim:Respite|Respite]], [[Skyrim:Ward Absorb|Ward Absorb]], [[Skyrim:Recovery|Recovery]], [[Skyrim:Mage Armor|Mage Armor]], [[Skyrim:Magic Resistance|Magic Resistance]],
+|drops=[[Skyrim:Bone Meal|Bone Meal]], [[Skyrim:Gold|Gold]], [[Skyrim:Zahkriisos (item)|Zahkriisos]]
+|class=Dragon Priest
+|health={{hover|1400+level&times;10|1650-2000}}
+|magicka={{hover|195+level&times;5|320-495}}
+|stamina=0
+|skills= '''[[Skyrim:Destruction|Destruction]]''', [[Skyrim:Restoration|Restoration]], [[Skyrim:Conjuration|Conjuration]], [[Skyrim:Sneak|Sneak]], [[Skyrim:Alteration|Alteration]]
+}}
+'''Zahkriisos ''' is a [[Skyrim:Dragon Priest|dragon priest]] found within [[Skyrim:Raven Rock Mine|Raven Rock Mine]]. He is found in the final chamber, and serves as the final boss of the quest [[Skyrim:The Final Descent|The Final Descent]].
+
+In addition to being able to [[Skyrim:Conjure Seeker|conjure]] [[Skyrim:Seeker|Seekers]] from [[Skyrim:Apocrypha|Apocrypha]], Zahkriisos excels at lightning-based magic, so much so that at a high enough level, he can single-cast [[Skyrim:Lightning Storm|Lightning Storm]]—a master-level spell—along with [[Skyrim:Thunderbolt|Thunderbolt]]. He also knows the spells [[Skyrim:Greater Ward|Greater Ward]] and [[Skyrim:Ebonyflesh|Ebonyflesh]]. 
+
+Upon death, Zahkriisos drops his [[Skyrim:Zahkriisos (item)|eponymous mask]].
+
+{{NewLeft}}
+
+== Related Quests ==
+* {{Quest Link|The Final Descent}}
+
+== Notes ==
+* Zahkriisos literally means "sword blood" in the [[Lore:Dragon Language|dragon language]], though a more sensible translation might be "bloody sword", possibly a reference to the [[Skyrim:Bloodskal Blade|unique blade]] required to access his tomb.
+* Zahkriisos is the lowest level dragon priest in the game, with a minimum level of only 25. All other dragon priests (apart from Miraak) are level 50, or 60. However, he scales with the player's level up to level 60.
+
+==Bugs==
+{{Bug|Zahkriisos may not attack when he floats up and out of the pool in the final chamber with the Word Wall, instead only backpedaling when approached and attacked. This can make a potentially difficult fight very easy.|confirmed=1}}
+
+{{Skyrim Dragon Priests}}

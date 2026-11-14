@@ -1,0 +1,68 @@
+{{Shout Summary
+|id=00032921
+|icon=SR-icon-shout-White.png
+|quote=The Thu'um imbues your arms with the speed of wind, allowing for faster weapon strikes.
+|word1=SU
+|wordid1=0003291d
+|cooldown1=30
+|info1=Elemental Fury, 1.3 pts for 15 secs
+|location1=[[Skyrim:Dragontooth Crater|Dragontooth Crater]]
+|word2=GRah
+|wordid2=0003291e
+|cooldown2=40
+|info2=Elemental Fury, 1.5 pts for 15 secs
+|location2=[[Skyrim:Shriekwind Bastion|Shriekwind Bastion]]
+|word3=DUN
+|wordid3=0003291f
+|cooldown3=50
+|info3=Elemental Fury, 1.7 pts for 15 secs
+|location3=[[Skyrim:Statue to Meridia|Statue to Meridia]] (just uphill to the northeast)
+|transword1=Air
+|transword2=battle
+|transword3=grace
+|spellid1=0002c595
+|spellid2=0009cd4e
+|spellid3=0009cd4f
+}} __NOTOC__
+'''Elemental Fury''' is a [[Skyrim:Dragon Shouts|dragon shout]] that increases the speed of weapon swings and damage for a short time. It does not work on enchanted or bound weapons. It also does not affect bows, enchanted or otherwise. It has no effects on unarmed combat.
+
+{{NewLeft}}
+==Possible Uses==
+* Eliminating the speed penalty for slow-swinging weapons.
+* Making dual-wielded strikes incredibly fast.
+* Using it with a pickaxe to manually [[Skyrim:Mining|mine]] ores quickly. This includes [[Skyrim:Shellbug|Shellbugs]] in the [[Skyrim:Forgotten Vale|Forgotten Vale]] and [[Skyrim:Heart Stone Deposit|Heart Stone Deposits]] on [[Skyrim:Solstheim|Solstheim]]; the latter also includes [[Skyrim:Stalhrim|Stalhrim]] if you have an Ancient Nordic Pickaxe.
+* Faster weapon skill training against unkillable targets.
+* While dual wielding, you can still enchant the right hand weapon, since it is the left hand that governs the speed of double attacks and double power attacks.
+{{NewLine}}
+
+==Word Wall Translations==
+{{WordWall
+|wordwall1=HET NOK FJOLMOD BeiN-{{FC|blue|SU}} WO<br>PooK OL POGaaS NAU GOL OL<br>OK KOPRaaN DREH NU KO GOLT
+|translation1=Here lies Fjolmod Foul-{{FC|blue|Air}} who<br>stank as much on earth as<br>his body does now in (the) ground.
+|wordwall2=QETHSEGOL VahRUKIV KRIL<br>THJODREK WO Dir ZOHUNGaaR<br>KO {{FC|blue|GRah}} DO VITH OKaaZ
+|translation2=(This) stone commemorates (the) brave<br>Thjodrek who died heroically<br>in (the) {{FC|blue|battle}} of (the) Serpent Sea.
+|wordwall3=QETHSEGOL VahRUKIV PaaZ<br>KULaaS YRSA WO ENSOSIN<br>Pah DO TaaZOKaaN VOTH<br>EK {{FC|blue|DUN}} ahRK BRii
+|translation3=(This) stone commemorates (the) fair<br>Princess Yrsa who bewitched<br>all of Tamriel with<br>her {{FC|blue|grace}} and beauty.}}
+
+==Notes==
+* If you attempt to use this shout without a weapon drawn, a "You must have a weapon drawn" message will appear on the top left of the screen.
+* You can use higher weapon speeds almost continuously, having only 3-second breaks. By using only the first word combined with an [[Skyrim:Amulet of Talos|Amulet of Talos]] and a [[Skyrim:Blessing of Talos|Blessing of Talos]], the recharge time is lowered to 18 seconds, while the effect duration is 15 seconds.
+** As a [[Skyrim:Necromage (perk)|Necromage]] [[Skyrim:Vampirism|vampire]], all three words of Elemental Fury can be cast nearly continuously. The duration of the effect increases to 23 seconds, while the recharge time is only 25 seconds.
+* If [[Skyrim:Survival Mode|Survival Mode]] is active, this shout can help negate the weapon attack speed penalty you'll get at higher [[Skyrim:Hunger|Hunger]] levels.
+
+==Bugs==
+{{Bug|When combined with [[Skyrim:Dual Flurry|Dual Flurry]], the calculation stacking these effects is broken—the resulting speed is the sum of what the total speed with just Dual Flurry would be, plus what the total speed with just Elemental Fury would be. The result with both at maximum is &times;3.05, where it would be &times;2.295 if they were multiplicative, and &times;2.05 if they were additive.|confirmed=1|trackerid=22447}}
+{{Bug|The strong wind sound effect produced by this shout will often start to loop indefinitely.|USKP|1.3.2}}
+** Possible fixes:
+*** Revert to an earlier save. 
+*** If Alduin's Bane along the main questline has not been completed yet, doing so should fix this issue. Reading the Elder Scroll at the Time Wound and returning from the vision of the past or getting hit by the meteors is what fixes it.
+*** On the PC, the [[Skyrim:Console|console]] command <code>sexchange</code> can remove the sound effect. However, it appears that the sound will return every time you load a save, requiring use of the <code>sexchange</code> every time you load a save.
+{{Bug|When performing a dual wield power attack with both hands simultaneously, the game only checks if Elemental Fury is active on the left hand. By equipping an enchanted item on your right hand and an unenchanted item on your left hand, you can somewhat bypass Elemental Fury's restriction on use with enchanted weapons.|USKP|1.3.2}}
+{{Bug|When at the word wall near Meridia's Shrine, you may be unable to collect the shout.|confirmed=1}}
+**Saving, exiting, and re-loading will fix this issue.
+**Fast traveling to another location and entering an interior will fix this issue.
+{{Bug|Casting the shout while wielding an unenchanted bow and then switching to two one-handed weapons (even if they are both enchanted) results in being able to swing both weapons incredibly fast. This can even be seen with the first rank of the shout, going from a mediocre increase when cast normally to at least twice as many attacks every second.|USKP|1.3.2}}
+{{Bug|Dropping a weapon after using this shout will sometimes cause the Elemental Fury enchantment to remain on the weapon permanently, though the haste effect will not be permanent. The weapon can then be disenchanted and the Elemental Fury enchantment applied to another weapon. This enchantment does damage and has infinite charges.}}
+**This bug can be fixed if the shout is cast while an unenchanted bow is equipped then the player equips the affected weapon. After the shout wears off the weapon should return to being unenchanted with no visual effects.
+
+{{Skyrim Shouts}}

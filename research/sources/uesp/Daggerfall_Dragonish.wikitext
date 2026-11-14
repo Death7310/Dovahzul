@@ -1,0 +1,36 @@
+{{Trail|Skills}}
+{{TOCleft}}
+Some monsters can be pacified without resorting to spells and swords. However, the character must be able to speak the creature's language. '''Dragonish''' is the language [[Daggerfall:Skills|skill]] that allows you to speak to [[Daggerfall:Dragonling|draconic creatures]].
+
+Dragonish's governing attribute is [[Daggerfall:Intelligence|Intelligence]].
+{{NewLine}}
+
+==Description==
+<onlyinclude>''"Dragon is a language skill checked whenever one attempts to speak with a dragon."'' The skill check occurs when coming within range of a Dragonling. If successful, the creature will be non-hostile (will not attack unless provoked).</onlyinclude>
+
+==Classes==
+The following [[Daggerfall:Classes|classes]] have Dragonish as a skill:
+*'''Primary Skill'''
+**''None''
+
+*'''Major Skill'''
+**''None''
+
+*'''Minor Skill'''
+**[[Daggerfall:Classes#Mage|Mage]]
+**[[Daggerfall:Classes#Sorcerer|Sorcerer]]
+
+==Factions==
+The following [[Daggerfall:Factions|factions]] have Dragonish as a required skill:
+*All [[Daggerfall:Knightly Orders|Knightly Orders]]
+*[[Daggerfall:Akatosh Chantry|The Akatosh Chantry]]
+*[[Daggerfall:Temple of Kynareth|The Temple of Kynareth]]
+
+==Training==
+Dragonish [[Daggerfall:Training|training]] is offered by the following factions:
+*[[Daggerfall:Mages Guild|Mages Guild]]
+*[[Daggerfall:Akatosh Chantry|The Akatosh Chantry]]
+*[[Daggerfall:Temple of Kynareth|The Temple of Kynareth]]
+
+{{Daggerfall Skills}}
+[[Category:Daggerfall-Skills]]

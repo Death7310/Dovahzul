@@ -1,0 +1,7 @@
+{{Mod Header|Elsweyr}}
+{{Game Book
+|loc=*[[ON:Sandswirl Manor|Sandswirl Manor]], large eastern building within the compound {{Map Link|153720}}
+|icon=ON-icon-book-Generic 123.png
+|id=5628
+|collection=Anequina Archives
+}}

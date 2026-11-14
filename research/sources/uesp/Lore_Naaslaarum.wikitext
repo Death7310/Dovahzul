@@ -1,0 +1,30 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Naaslaarum
+|image=SR-creature-Naaslaarum.jpg
+|birth=Dawn Era
+|death3=4E 201
+|death3Loc=Forgotten Vale
+|loc=Forgotten Vale
+|appears=[[Skyrim:Naaslaarum|Skyrim]], [[Legends:Revered Guardian|Legends]]
+}}[[File:MER-art-Twin Dragons.jpg|thumb|left|Twin Dragons, Naaslaarum and Voslaarum]]</noinclude>
+[[Lore:Naaslaarum|Naaslaarum]] was a [[Lore:Dragon|dragon]] whose name meant "Tooth-Water-Twin" in the [[Lore:Dragon Language|Dragon Language]].{{Ref|name=TIL|[https://www.imperial-library.info/content/lang-dragon Official Bethesda Dragon dictionary] from Imperial Library}}
+
+Naaslaarum and [[Lore:Voslaarum|Voslaarum]] were revered twin dragons, who lived beneath the Frozen Lake within the [[Lore:Forgotten Vale|Forgotten Vale]]. They were most likely killed at some point and resurrected by [[Lore:Alduin|Alduin]] upon his return,{{ref|Based on the dragons not being present before the [[Skyrim:Dragon Rising|Dragon Rising]] quest}} although it is possible that they survived until {{Year|4E 201}}.{{Ref|name=Lake}}{{Ref|name=FV|[[Skyrim:Forgotten Vale|Forgotten Vale]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=PRIMA}}<noinclude>{{rp|545, 999}}</noinclude>
+
+At some point, in {{Year|4E 201}}, when the [[Lore:Last Dragonborn|Last Dragonborn]] ventured to the Forgotten Vale, Naaslaarum and Voslaarum were resting beneath the ice of the lake and guarding a [[Lore:Word Walls|Word Wall]]. They fought against the hero but were ultimately defeated and slain.{{ref|name=Lake|[[SR:Naaslaarum|Naaslaarum]]'s location and battle in ''[[SR:Skyrim|Skyrim]]''}}{{Ref|name=FV}}{{ref|name=PRIMA|[[Books:The Elder Scrolls V: Skyrim: Prima Official Game Guide#Legendary Edition|The Elder Scrolls V: Skyrim Legendary Prima Official Game Guide]]}}<noinclude>{{rp|545, 999}}</noinclude>
+
+Having had his soul devoured by another dovah, Naaslaarum was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+{{NewLeft}} 
+
+==Gallery==
+<gallery>
+File:LG-cardart-Revered Guardian.png|Naaslaarum in Legends
+</gallery>
+
+==See Also==
+*{{GSI|Skyrim:Naaslaarum|Legends:Revered Guardian}}
+
+==References==
+<references/>

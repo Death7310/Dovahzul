@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Hevnoraak (item)",
+  "revid": 3463435,
+  "timestamp": "2025-12-02T13:39:51Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3463435&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "bb591f937ce6ea29e31acb1718df8909adbe492b43bb95b3e2a74f0ab5f9014e",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 101577,
+  "ns": 134,
+  "parentid": 3261051,
+  "requested_title": "Skyrim:Hevnoraak (item)",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Hevnoraak_(item)",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3463435",
+  "sha1": "9e4b98fa7489d0234485445ce440602ae2ff6861",
+  "sha1_matches_mediawiki": true,
+  "bytes": 2485,
+  "chars": 2485,
+  "lines": 31,
+  "saved_as": "research/sources/uesp/Skyrim_Hevnoraak_(item).wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Otar+the+Mad|Skyrim:Rahgot+%28creature%29|Skyrim:Vahlok+the+Jailor|Skyrim:Vokun+%28creature%29|Skyrim:Volsung+%28creature%29|Skyrim:Zahkriisos+%28creature%29|Skyrim:Hevnoraak+%28item%29|Skyrim:Krosis+%28item%29|Skyrim:Morokei+%28item%29|Skyrim:Nahkriin+%28item%29|Skyrim:Vokun+%28item%29|Skyrim:Volsung+%28item%29",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:39Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

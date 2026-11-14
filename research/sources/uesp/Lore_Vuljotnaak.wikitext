@@ -1,0 +1,21 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death3=4E 201
+|resurrection=4E 201
+|loc=Skyrim
+|appears=[[SR:Vuljotnaak|Skyrim]]
+|image=SR-creature-Vuljotnaak.jpg
+}}</noinclude>
+[[Lore:Vuljotnaak|Vuljotnaak]] was a green [[Lore:Dragon|dragon]] whose name means "Dark Maw Eat" in the [[Lore:Dragon Language|Dragon Language]].
+
+The circumstances surrounding his death are contradictory and not well understood. The [[Lore:Dragonguard|Dragonguard]] dated his death to during or just after the [[Lore:Dragon War|Dragon War]] of the [[Lore:Merethic Era|Merethic Era]], according to ancient documents recovered from the [[Lore:Dragon Cult|Dragon Cult]]. However, engravings found on an [[Lore:Akavir|Akavir]]i burial mask depict Vuljotnaak being "devoured" by a hissing serpent (likely a [[Lore:Tsaesci (race)|Tsaesci]]),{{ref|name=ESOCADBM|The description of [[Online:Contraband A#Ancient Dragonguard Burial Mask|Ancient Dragonguard Burial Mask]] in [[Online:Online|ESO]]}} which would place his death sometime after {{Year|1E 2703}}. Despite what this depiction would imply, his soul was not devoured by a [[Lore:Dragonborn|Dragonborn]]. Instead, like many dragons, his remains were retrieved by members of the Dragon Cult, and he was buried in a dragon mound near the settlement of [[Lore:Granite Hill|Granite Hill]] in [[Lore:Skyrim|Skyrim]]. The location of his grave was later documented by the [[Lore:Blades|Blades]] in {{Year|2E 373}}.{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}}
+
+In {{Year|4E 201}}, Vuljotnaak was returned to life by [[Lore:Alduin|Alduin]]. He was later killed by the [[Lore:Hero|Last Dragonborn]] and his soul was consumed, preventing him from ever again being resurrected.{{ref|name=Skyrim|Events of ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+
+==See Also==
+* For game-specific information, see the [[Skyrim:Vuljotnaak|Skyrim article]].
+
+==References==
+<references/></noinclude>

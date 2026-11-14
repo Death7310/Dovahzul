@@ -1,0 +1,23 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|loc=Tamriel
+|loc2=Coldharbour
+|birth=Dawn Era
+|deathLoc=Coldharbour
+}}[[File:LG-cardart-Daedric Titan.png|thumb|left|A Daedric Titan]]</noinclude>
+[[Lore:Boziikkodstrun|Boziikkodstrun]] (meaning "Boldly-Wield-Storm" in the [[Lore:Dragon Language|Dragon Language]]) was a [[Lore:Dragon|dragon]] whose skeleton was used by [[Lore:Molag Bal|Molag Bal]] to serve as the basis for the first [[Lore:Daedric Titan|Daedric Titan]].
+
+In the [[Lore:Merethic Era|Merethic Era]], dragons ruled [[Lore:Tamriel|Tamriel]] and sought domination over all mortals. Their reign ended following the [[Lore:Dragon War|Dragon War]] when [[Lore:Alduin|Alduin]] was banished, and those who were not slain were driven into hiding. It was then that Boziikkodstrun exerted his nigh-divine will in an attempt to fly beyond the borders of the [[Lore:Mundus|Mundus]]. Although he failed, Boziikkodstrun's effort drew the attention of Molag Bal, who recognized that the Dragons had conquered much of [[Lore:Nirn|Nirn]]. He approached the dragon and offered him a place of honor and privilege in [[Lore:Coldharbour|Coldharbour]], and in his weakened state Boziikkodstrun accepted.
+
+Bal subsequently opened a portal, granting Boziikkodstrun passage into Coldharbour. Immediately upon his arrival, Boziikkodstrun was bound in chains of cold ebon iron and imprisoned in the depths of the {{Lore Link|Tower of Lies}}. Hoping to learn the secrets of his race's dominion over mortals, Molag Bal had Boziikkodstrun tortured and interrogated. Boziikkodstrun was tormented for ages, but was indignant at his host's foul treatment of him; thus, he refused to speak in his native [[Lore:Dragon Language|language]] as the Daedric Prince requested. Frustrated by his defiance, Bal punished the Dragon by slowly eating the flesh from his bones. When only Boziikkodstrun's skeleton remained, the Prince declared that he would create his own dragons, which would be mightier than those of Nirn.
+
+Boziikkodstrun's skeleton was taken to the [[Lore:Vile Laboratory|Vile Laboratory]], where it was infused with the blood-of-darkness in order to reawaken it as a [[Lore:Vestige (creature)|Vestige]]. It can be assumed that this process was similar to the creation of the [[Lore:Soul Shriven|Soul Shriven]], mortals who have their [[Lore:Souls|soul]] substituted with the [[Lore:Vestige (soul)|vestige]] of a [[Lore:Daedra|Daedra]]. Bal had the skeleton adjusted to his specifications, then it was submerged in the {{Lore Link|Azure Chasm}} to allow it to reform in [[Lore:Azure Plasm|creatia]].
+
+Within a nanaeon, the first Daedric Titan arose from the chasm and bounded nimbly up {{Lore Link|the Endless Stair}}. It was soon determined to be a powerful new addition to Molag Bal's war-slaves. Many more Daedric Titans were made in Boziikkodstrun's image, and were released upon Tamriel during the [[Lore:Planemeld|Planemeld]] in the [[Lore:Second Era|Second Era]].{{ref|{{Cite Book|Daedra Dossier: The Titans}}}}<noinclude>
+
+==Notes==
+*The first Daedric Titans were said to have been released upon Tamriel for the first time during the Planemeld. This would match the story of Boziikkodstrun's corruption, which describes him bounding up {{Lore Link|the Endless Stair}}, a structure which was rumored to have been created by the [[Lore:Mad Architect|Mad Architect]] some time between {{Year|2E 578}} and {{Year|2E 582}}.{{ref|[[Online:The Endless Stair|The Endless Stair loading screen]] in [[Online:Online|ESO]]}}{{fact}} However, this timeline is contradicted by the appearance of Titans on Tamriel at earlier points in history.{{ref|name="HoZ"|{{Cite Book|Heart of Zandadunoz}}}}{{ref|[[ON:Aetherion|Aetherion]] in [[ESO:Online|ESO]]}}
+
+==References==
+<references/></noinclude>

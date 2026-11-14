@@ -1,0 +1,38 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=2E 582
+|deathLoc=Sunspire
+|loc=Anequina
+|appears=[[Online:Lokkestiiz|ESO]]
+|image=ON-creature-Lokkestiiz.jpg
+|imgdesc=circa {{Year|2E 582}}}}</noinclude>
+<noinclude>{{Quote Box|style=float:none; max-width:none|''"Gnats who think themselves wolves. Ah, what folly."''|Lokkestiiz}}
+</noinclude>
+[[Lore:Lokkestiiz|Lokkestiiz]] was a powerful white [[Lore:Dragon|Dragon]] whose name means '''Sky-Tempest-Ice''' in the [[Lore:Dragon Language|Dragon Language]],{{ref|name=Odahviing|[[Skyrim:Odahviing|Odahviing]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}} who emerged in [[Lore:Anequina|Anequina]] in {{Year|2E 582}}, following the release of the great Dragon [[Lore:Kaalgrontiid|Kaalgrontiid]] and his Dragon followers from the [[Lore:Halls of Colossus|Halls of Colossus]].{{ref|name=ESOTHOC|Events of [[ON:The Halls of Colossus|The Halls of Colossus]] in [[ON:Online|ESO]]}} He and the dragon [[Lore:Yolnahkriin|Yolnahkriin]] followed the golden dragon [[Lore:Nahviintaas|Nahviintaas]], to pose as the returned [[Lore:Gods|gods]] of the [[Lore:Khajiit|Khajiit]], [[Lore:Alkosh|Alkosh]] and the [[Lore:Moons|moons]] [[Lore:Secunda|Jone]] and [[Lore:Masser|Jode]], and take over the temple of [[Lore:Sunspire|Sunspire]], where they enacted a plan to attempt to expand its [[Lore:Time Wound|Time Wound]] with the [[Lore:Thu'um|Thu'um]] in the hopes of causing a [[Lore:Dragon Break|Dragon Break]] to rewrite time and restore draconic rule. Lokkestiiz posed as the incarnation of Jone.{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{ref|[[ON:Sunspire Dragonbreak|Sunspire Dragonbreak]] achievement in [[ESO:Online|ESO]]}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}<noinclude>
+{{NewLeft}}
+
+==History==
+[[File:ON-render-Lokkestiiz.jpg|Lokkestiiz in his lair at Sunspire|thumb|left]]
+In 2E 582, ancient Dragons had appeared in Northern [[Lore:Elsweyr|Elsweyr]], reaping the land, following the release of the great dragon Kaalgrontiid and his dragon followers from the Halls of Colossus.{{ref|name=ESOTHOC|Events of [[ON:The Halls of Colossus|The Halls of Colossus]] in [[ON:Online|ESO]]}} The golden dragon, Nahviintaas approached Sunspire with his contemporaries, Lokkestiiz and Yolnahkriin. They posed as Alkosh, Jone, and Jode respectively. Azin-jo, the Moon-Bishop in charge of Sunspire, openly accepted them and preached across Anequina about the return of "Alkosh." A wave of new followers came and rebuilt Sunspire as more adepts preached the return of "Alkosh" across Northern Elsweyr.{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} 
+
+However, the dragon's true goal was to use the [[Lore:Thu'um|Thu'um]] to tear the Time Wound wider in order to cause a [[Lore:Dragon Break|Dragon Break]] which they intended to use to "reclaim all that is and will be" and restore the "natural order" by "correcting the mortal mistake".{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{ref|[[ON:Sunspire Dragonbreak|Sunspire Dragonbreak]] achievement in [[ESO:Online|ESO]]}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} While posing as gods the dragons would use their Voice to imbue their deceived followers with [[Lore:Elements|elemental]] power, transforming them into creatures composed simultaneously of ice and flame while also making them thralls of the dragon's will.{{Ref|name=ESOMojha|[[Online:Mojha|Mojha]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAzin|[[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOJoneJode|[[Online:The Blessings of Jone and Jode|The Blessings of Jone and Jode]] text in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOIceFire|[[Online:Sunspire Ice-Fire|Sunspire Ice-Fire]] description in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The dragon's presence would also have an effect on the environment and conditions of the mountain, the dragon Yolnahkriin resided in the caldera, where his presence is said to have "stoked the sleeping mountain's fire", while the dragon Lokkestiiz resided in a windy frost covered overlook.{{Ref|name=ESOMojha|[[Online:Mojha|Mojha]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}                   
+
+This news brought the attention of the [[Lore:Undaunted|Undaunted]], who were sent to investigate. Lokkestiiz confronted the adventurers on a windy frost covered overlook, where he'd exhibit mastery of the elements of ice and lightning, showering the area in his electric breath and frost breath and summoning many [[Lore:Storm Atronach|Storm Atronachs]] and [[Lore:Frost Atronach|Frost Atronachs]] to aid him.{{Ref|name=ESOLokkestiiz|[[Online:Lokkestiiz|Lokkestiiz]]'s abilities in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} The Undaunted ultimately defeated the fake Jone and Jode before they confronted Nahviintaas at the summit and the time-wound. Though he would utilize the power of the Time Wound to manipulate time, claiming his faithful had no need to fear death as he could restore them and they'd serve him eternally, and that he could make his foes relive their deaths over and over, the fake Alkosh was ultimately killed as well, and Sunspire was fully liberated from draconic control.{{Ref|name=ESONahviintaas|[[Online:Nahviintaas|Nahviintaas]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} With the years he had left, Moon-Bishop Azin-jo vowed to restore this temple and because of his folly, he felt that it was his task alone to bear.{{Ref|name=ESOAzin}} But regardless, some priests stayed in Sunspire.{{Ref|name=ESONahviintaas|[[Online:Nahviintaas|Nahviintaas]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}}{{Ref|name=ESOAlkosh|[[Online:The Return of Alkosh|The Return of Alkosh]] quest in [[Online:Online|ESO]]: ''[[Online:Elsweyr|Elsweyr]]''}} 
+
+As his soul was not devoured by another dovah, Lokkestiiz was not killed permanently and can be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+
+==Gallery==
+<gallery>
+File:ON-render-Lokkestiiz 02.jpg|Lokkestiiz in his lair
+File:ON-creature-Lokkestiiz 03.jpg|Lokkestiiz breathing lightning
+File:ON-creature-Lokkestiiz 02.jpg|Lokkestiiz landing
+File:Secunda full.jpg|Jone
+</gallery>
+==See Also==
+*{{GSI|Online:Lokkestiiz}}
+
+==References==
+<references/></noinclude>

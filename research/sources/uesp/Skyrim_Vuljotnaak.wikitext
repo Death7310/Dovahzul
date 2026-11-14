@@ -1,0 +1,41 @@
+{{Creature Summary
+|loc=Northeast of [[Skyrim:Sunderstone Gorge|Sunderstone Gorge]] {{Map Link|x=-50010|y=-30385|zoom=17}}
+|soul=Dragon
+|refid=000FDBAF
+|baseid=000FE430
+|type=Monsters
+|species=Dragon
+|drops=[[Skyrim:Dragon#Loot|Dragon Loot]]
+|level={{hover|Values: 10, 20, 30, 40, 50|Radiant (10-50)}}
+|health={{hover|Values: 905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|image=SR-creature-Vuljotnaak 02.jpg
+|imgdesc=Vuljotnaak roaring
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|class=Dragon
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 130, 164, 197, 230, 264|130-264}}
+|leveled=1
+}} [[File:SR-creature-Vuljotnaak.jpg|thumb|right|Vuljotnaak at his dragon mound]]
+'''Vuljotnaak''' is a [[Skyrim:Dragon|dragon]] which can be found flying around its [[Skyrim:Dragon Mounds|burial site]]. Although not marked, the site can be found northeast of [[Skyrim:Sunderstone Gorge|Sunderstone Gorge]] and southwest of [[Skyrim:Sleeping Tree Camp|Sleeping Tree Camp]] after your first confrontation with [[Skyrim:Alduin|Alduin]]. He has been observed using either [[Skyrim:Frost Breath|frost]] or [[Skyrim:Fire Breath|fire breath]] as means of offense.
+
+If the mound is visited after starting "Diplomatic Immunity" but before starting "A Cornered Rat", you can witness Alduin resurrecting and speaking with Vuljotnaak before the latter attacks you. 
+
+Vul Jot Naak means "Dark Maw Eat" in the [[Lore:Dragon Language|dragon language]].
+{{NewLeft}}
+
+==Notes==
+*He has the same dialogue as other named dragons who have yet to be resurrected from a burial mound by [[Skyrim:Alduin|Alduin]]. ("Speak, if you have aught to say worth the listening.")
+*During the time that [[Skyrim:Diplomatic Immunity|Diplomatic Immunity]] is an active quest (after being briefed by Delphine of her plan), you can see Vuljotnaak being resurrected by Alduin.
+*It is mentioned in the book ''[[Skyrim:Atlas of Dragons|Atlas of Dragons]]'' that Vuljotnaak was killed during or soon after the Dragon War.
+*It is possible to find Vuljotnaak resurrected but simply slumbering in his mound.
+*The level of Vuljotnaak is set when you talk to Delphine in Sleeping Giant Inn after Sahloknir is killed in A Blade in the Dark.
+*According to Alduin's own pronunciation, the "j" in Vuljotnaak's name is pronounced the same as in "Jon" and "J'zargo", instead of the consonant sound in "Bromjunaar"and "jarl". 
+
+<!-- Instructions: If this NPC is related to any quests, uncomment this section and replace "Quest Name" with the quest's name--><!--
+== Related Quests ==
+* {{Quest Link|Quest Name}}
+-->
+
+{{Skyrim Dragons}}

@@ -1,0 +1,37 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|name=Krosis
+|race=[[Lore:Nord|Proto&#8209;Nord]]{{Intnote|race}}
+|racecat=Nord
+|image=SR-creature-Krosis.jpg
+|gender=Male
+|title=Dragon Priest
+|birth=Merethic Era
+|undeath=Merethic Era
+|loc=Shearpoint
+|death3=4E 201
+|death3Loc=Shearpoint
+|appears=[[Skyrim:Krosis (creature)|Skyrim]]}}[[Category:Lore-People-Atmoran]]</noinclude>
+[[Lore:Krosis|Krosis]] was a high ranking member of the [[Lore:Dragon Cult|Dragon Cult]], and a [[Lore:Dragon Priest|Dragon Priest]] in the [[Lore:Merethic Era|Merethic Era]].{{ref|name=The Dragon War}}{{Ref|name=TDOM}} After his demise, Krosis was entombed atop [[Lore:Shearpoint|Shearpoint]], and was reawakened from his slumber in the [[Lore:Fourth Era|Fourth Era]].{{ref|name=SRKrosis}} As a Dragon Priest, he was a powerful mage, also able to wield the [[Lore:Thu'um|Thu'um]] in battle.{{Ref|name=TGATT|{{Cite Book|The Guardian and the Traitor}}}}<noinclude>
+
+==History==
+[[File:SR-item-Krosis.jpg|Krosis's mask (Skyrim)|thumb|left]]
+Little is known of the past of Krosis. During the Merethic Era, Krosis ascended through the ranks of the Dragon Cult and achieved a high-ranking position within the organization, attaining the esteemed status of a Dragon Priest.{{ref|name=SRKrosis|[[Skyrim:Krosis (creature)|Krosis]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=The Dragon War|{{Cite Book|The Dragon War}}}} Like his fellow priests, he achieved [[Lore:Lich|lichdom]] by receiving eternal worship from his [[Lore:Draugr|draugr]] servants.{{ref|name=ATD|{{Cite Book|Amongst the Draugr}}}}{{ref|name=SRValdar|[[Skyrim:Valdar|Valdar]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} It is said that due to his high rank, his dragon overlord bestowed upon him a magical [[Lore:Dragon Priest Masks#Krosis|iron mask]],{{ref|name=SRLoad|[[SR:Loading Screens|Skyrim loading screens]]}}{{ref|[[ON:Jorvuld Davaux|Jorvuld Davaux]]'s dialogue in [[ESO:Online|ESO]]}} which bestowed enhanced abilities in alchemy, archery, and lockpicking upon its wearer.{{ref|name=KrosisMask|[[Skyrim: Krosis (item)|Krosis' Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+During the [[Lore:Dragon War|Dragon War]], the ancient Nords rebelled against the dragons and successfully defeated the Dragon Cult. The specific details of Krosis' involvement in the war remain unknown, but he was eventually entombed at the peak of [[Lore:Shearpoint|Shearpoint]], a mountain located in the [[Lore:The Pale|Pale]] hold.{{ref|name=The Dragon War}}{{Ref|name=TDOM|{{Cite Book|The Danger of Morokei}}}}{{ref|name=SRKrosis}}
+
+Circa {{Year|4E 201}}, the [[Lore:Last Dragonborn|Last Dragonborn]] journeyed to the summit of Shearpoint. There, they encountered awakened Krosis, engaging in a fierce battle that ultimately led to the dragon priest's defeat and demise. The Dragonborn emerged victorious, claiming the mask as their own.{{NewLine}}
+
+==Gallery==
+<gallery>
+File:MER-art-Loot Crate Krosis Mask Replica.png|Krosis mask replica
+</gallery>
+
+==Notes==
+*{{LNote|race|†|The inhabitants of Skyrim during the Dragon War were variously labeled Nords{{ref|name=Paarthurnax|[[SR:Paarthurnax (dragon)|Paarthrunax]]'s dialogue in ''[[SR:Skyrim|Skyrim]]''}} and Atmorans.{{ref|name=FSL2|{{Cite Book|First Servant's Letter, Page 2|ns_base=ESO}}}} The truth may lie somewhere in-between; while the two are considered distinct races,{{ref|name=TOoC|{{Cite Book|The Origin of Cyrus!|ns_base=Books}}}} the men living in the transition period between the terms' respective usage have been considered 'proto-Nords'.{{ref|name=FC|{{Cite Book|Frontier, Conquest}}}}{{ref|name=EGTS|{{Cite Book|EGT|Skyrim}}}}{{ref|name=HighKingSunstone|[[ESO:Bleakrock Isle Antiquities#High King Sunstone|High King Sunstone]] antiquity codex entry in [[ESO:Online|ESO]]}}}}
+* Krosis's name means '''Sorrow''' in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=DL|{{Cite Book|Dragon Language: Myth no More}}}}{{ref|name=Draugr|[[Skyrim:Draugr|Draugr]] dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Paarthurnax}}
+
+==See Also==
+{{GSI|Skyrim:Krosis}}
+
+==References==
+<references/></noinclude>

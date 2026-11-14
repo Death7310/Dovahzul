@@ -1,0 +1,18 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Paarbahlot
+|image=ON-creature-Paarbahlot.jpg
+|birth=Dawn Era
+|loc=[[Lore:Pellitine|Pellitine]], [[Lore:Elsweyr|Elsweyr]]
+|appears=[[Online:Paarbahlot|ESO]]
+}}[[File:ON-quest-Order of the New Moon 02.jpg|thumb|left|Paarbahlot together with Joorahmaar and Laatvulon]]</noinclude>
+[[Lore:Paarbahlot|Paarbahlot]] is a [[Lore:Dragon|dragon]] whose name means "Ambition-Wrath-Great" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=SOS|{{Cite Book|Songs of Skyrim|ns_base=Skyrim}}}}{{ref|name=P|[[Skyrim:Paarthurnax (dragon)|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} He is a green dragon, similar to Bahlokdaan.
+
+Little is known of Paarbahlot's past. In {{Year|2E 582}}, together with [[Lore:Joorahmaar|Joorahmaar]], he ventured to the New Moon Fortress in [[Lore:Pellitine|Pellitine]] to meet with [[Lore:Laatvulon|Laatvulon]].{{Ref|name=Paarbahlot|[[ON:Paarbahlot|Paarbahlot]] in [[ON:Online|ESO]]}}{{Ref|name=Joorahmaar|[[ON:Joorahmaar|Joorahmaar]]'s dialogue in [[ON:Online|ESO]]}} During the meeting, Laatvulon promised power to both Joorahmaar and Paarbahlot,{{Ref|name=OONM|Events of [[ON:Order of the New Moon|Order of the New Moon]] in [[ON:Online|ESO]]}}{{Ref|name=Laatvulon|[[ON:Laatvulon|Laatvulon]]'s dialogue in [[ON:Online|ESO]]}} and ordered the recruits of the [[Lore:Order of the New Moon|Order of the New Moon]] to offer them their power with the use of the [[Lore:Aeonstone|aeonstone]]. The ritual was interrupted by the members of [[Lore:Sai Sahan|Sai Sahan]]'s reformed [[Lore:Dragonguard|Dragonguard]]. Following the disruption of the ritual, Paarbahlot, together with Joorahmaar, left the fortress of the New Moon Cult.{{Ref|name=OONM}} Although Joorahmaar was later seen assisting Laatvulon in the [[Lore:Dragonhold|Dragonhold]], Paarbahlot's allegiances and status as of then were unknown.{{Ref|name=TDA|Events of [[ON:The Dark Aeon|The Dark Aeon]] in [[ON:Online|ESO]]}}<noinclude>{{NewLeft}}
+
+==See Also==
+{{GSI|ESO:Paarbahlot}}
+
+==References==
+<references/>

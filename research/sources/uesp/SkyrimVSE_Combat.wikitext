@@ -1,0 +1,590 @@
+{{Trail}}
+{{Incomplete|needs information on skill progression past level 22 and text specific to spells}}
+This page describes in detail how '''combat''' works in ''[[SkyrimVSE:Skyrim Very Special Edition|Skyrim Very Special Edition]]''. It includes information about skill progression, a list of all weapons, spells, and shouts in the game, and text used when attacking and killing enemies with them.
+
+There are three skills: [[#Arms|Arms]], [[#Magic|Magic]], and [[#Shout|Shout]].
+{{TOClimit|2}}
+
+==Skills==
+Each Skill gains 1 XP each time it is used in Combat. After a certain number of uses, the Skill advances to the next level. 
+{| class="wikitable"
+! Skill Level !! XP to Next Level
+|-
+| 1 || 1
+|-
+| 2 || 1
+|-
+| 3 || 3
+|-
+| 4 || 4
+|-
+| 5 || 5
+|-
+| 6 || 6
+|-
+| 7 || 6
+|-
+| 8 || 7
+|-
+| 9 || 8
+|-
+| 10 || 9
+|-
+| 11 || 9
+|-
+| 12 || 10
+|-
+| 13 || 12
+|-
+| 14 || 11
+|-
+| 15 || 13
+|-
+| 16 || 14
+|-
+| 17 || 14
+|-
+| 18 || 15
+|-
+| 19 || 16
+|-
+| 20 || 17
+|-
+| 21 || 18
+|-
+| 22 || 19
+|}
+
+===Arms===
+:''"Your skill with arms has increased to Level <Level>."''
+When you level up the Arms skill, after defeating an enemy, you loot a new melee weapon from them. None of these descriptors have any effect on your attacks. The Weapon will sometimes not have an Enchantment. Your attack descriptions will match the weapon type you have equipped. As an example, you may see ''"Your Dagger pierces the Adoring Fan."''
+
+*''"You ignore the useless junk in the <Enemy>'s inventory and find a <Quality> <Material> <Type> <Enchantment>. Oooh, shiny!"''
+*''"You loot the <Enemy>'s remains, find a <Quality> <Material> <Type> <Enchantment>, and cast aside your old weapon."''
+
+=====Weapons=====
+*Battleaxe
+:'''Attack''': "chops", "hacks", "rends"
+:'''Kill''': "cleaves", "decapitates", "terminates"
+*Dagger
+:'''Attack''': "cuts", "pierces", "slashes", "slices", "stabs"
+:'''Kill''': "eviscerates", "pierces the chest of", "slices into"
+*Greatsword
+:'''Attack''': "carves", "cleaves", "slashes", "strikes"
+:'''Kill''': "brutally slashes", "decapitates", "viciously cleaves"
+*Mace
+:'''Attack''': "bashes", "pounds", "pummels", "sunders"
+:'''Kill''': "thoroughly pounds", "utterly crushes"
+*Sword
+:'''Attack''': "carves", "pierces", "slashes", "strikes"
+:'''Kill''': "cuts deeply into", "digs into", "impales"
+*War Axe
+:'''Attack''': "chops", "hacks", "rends", "slashes"
+:'''Kill''': "slashes deeply into", "viciously rends"
+
+=====Descriptors=====
+{| class="wikitable vtop"
+!Qualities
+!Materials
+!Enchantments
+|-
+|
+*Epic
+*Fine
+*Flawless
+*Legendary
+*Superior
+|
+*Iron
+*Steel
+*Orcish
+*Dwarven
+|
+*of Arcing
+*of Burning
+*of Embers
+*of Flames
+*of Scorching
+*of Shocks
+*of Thunderbolts
+|}
+
+
+=====Weapon Progression=====
+The arms level is the earliest observed level where the specified weapon may be acquired. At most one weapon is acquired per level.
+
+{| class="wikitable"
+! Arms Level !! Weapon
+|-
+|1 || Dagger
+|-
+|3 || Flawless Iron Battleaxe
+|-
+|3 || Superior Iron Greatsword
+|-
+|6 || Legendary Iron Dagger of Sparks
+|-
+|6 || Legendary Iron War Axe
+|-
+|7 || Legendary Iron Battleaxe of Embers
+|-
+|7 || Legendary Iron Greatsword of Sparks
+|-
+|10 || Fine Steel Sword
+|-
+|10 || Steel Greatsword
+|-
+|10 || Steel Sword
+|-
+|11 || Fine Steel War Axe
+|-
+|11 || Superior Steel Sword
+|-
+|11 || Superior Steel War Axe
+|-
+|13 || Flawless Steel Dagger
+|-
+|13 || Flawless Steel Mace
+|-
+|15 || Legendary Steel Dagger
+|-
+|16 || Legendary Steel Greatsword of Embers
+|-
+|17 || Legendary Steel Mace of Burning
+|-
+|17 || Legendary Steel Sword of Arcing
+|-
+|17 || Legendary Steel War Axe of Burning
+|-
+|18 || Legendary Steel Battleaxe of Shocks
+|-
+|18 || Legendary Steel Dagger of Scorching
+|-
+|19 || Fine Orcish Battleaxe
+|-
+|19 || Orcish Battleaxe
+|-
+|19 || Orcish Sword
+|-
+|20 || Fine Orcish Dagger
+|-
+|20 || Fine Orcish Mace
+|-
+|20 || Superior Orcish Dagger
+|-
+|21 || Superior Orcish Battleaxe
+|-
+|21 || Superior Orcish Mace
+|-
+|22 || Epic Orcish Battleaxe
+|-
+|22 || Epic Orcish War Axe
+|-
+|24 || Legendary Orcish Mace
+|-
+|24 || Legendary Orcish War Axe of Arcing
+|-
+|25 || Legendary Orcish Battleaxe of Burning
+|-
+|25 || Legendary Orcish Dagger of Arcing
+|-
+|26 || Legendary Orcish Battleaxe of Scorching
+|-
+|26 || Legendary Orcish Mace of Thunderbolts
+|-
+|27 || Legendary Orcish Greatsword of Thunderbolts
+|-
+|28 || Dwarven Greatsword
+|-
+|28 || Dwarven Sword
+|-
+|29 || Fine Dwarven Sword
+|-
+|30 || Superior Dwarven Dagger
+|-
+|31 || Flawless Dwarven Battleaxe
+|-
+|31 || Flawless Dwarven Mace
+|-
+|33 || Legendary Dwarven Dagger
+|-
+|33 || Legendary Dwarven Sword
+|-
+|34 || Legendary Dwarven Battleaxe of Arcing
+|-
+|34 || Legendary Dwarven Dagger of Arcing
+|-
+|35 || Legendary Dwarven Dagger of Shocks
+|-
+|36 || Legendary Dwarven Battleaxe of Thunderbolts
+|-
+|36 || Legendary Dwarven Mace of Thunderbolts
+|-
+|38 || Fine Nordh War Axe
+|-
+|39 || Superior Nordh Dagger
+|-
+|40 || Flawless Nordh Sword
+|-
+|41 || Epic Nordh Dagger
+|-
+|42 || Legendary Nordh Sword of Shocks
+|-
+|43 || Legendary Nordh Battleaxe of Shocks
+|-
+|43 || Legendary Nordh Mace of Thunderbolts
+|-
+|45 || Elven Sword
+|-
+|45 || Legendary Nordh War Axe
+|-
+|46 || Fine Elven Battleaxe
+|-
+|47 || Fine Elven Greatsword
+|-
+|47 || Superior Elven Dagger
+|-
+|50 || Epic Elven Dagger
+|-
+|51 || Legendary Elven Dagger
+|-
+|51 || Legendary Elven Sword of Scorching
+|-
+|52 || Legendary Elven Mace of Shocks
+|-
+|52 || Legendary Elven Sword of Flames
+|-
+|57 || Superior Glass War Axe
+|-
+|58 || Epic Glass War Axe
+|-
+|59 || Epic Glass Dagger
+|-
+|59 || Legendary Glass War Axe
+|-
+|60 || Legendary Glass Greatsword
+|-
+|62 || Legendary Glass Dagger of Flames
+|-
+|62 || Legendary Glass Sword of Flames
+|-
+|62 || Legendary Glass War Axe of Flames
+|-
+|63 || Legendary Glass Mace
+|-
+|63 || Legendary Glass Sword
+|-
+|64 || Fine Stalhrim Mace
+|-
+|64 || Fine Stalhrim War Axe
+|-
+|65 || Fine Stalhrim Greatsword
+|-
+|65 || Superior Stalhrim Greatsword
+|-
+|66 || Superior Stalhrim Dagger
+|-
+|66 || Superior Stalhrim War Axe
+|-
+|67 || Flawless Stalhrim Dagger
+|-
+|68 || Epic Stalhrim Battleaxe
+|-
+|68 || Legendary Stalhrim War Axe
+|-
+|69 || Legendary Stalhrim Battleaxe
+|-
+|69 || Legendary Stalhrim Dagger
+|-
+|70 || Legendary Stalhrim Sword of Thunderbolts
+|-
+|71 || Legendary Stalhrim Sword
+|-
+|72 || Legendary Stalhrim Battleaxe of Storms
+|-
+|72 || Legendary Stalhrim Dagger of Storms
+|-
+|73 || Ebony Sword
+|-
+|73 || Ebony War Axe
+|-
+|75 || Flawless Ebony Dagger
+|-
+|75 || Superior Ebony Greatsword
+|-
+|76 || Epic Ebony Dagger
+|-
+|77 || Epic Ebony War Axe
+|-
+|78 || Legendary Ebony Dagger
+|-
+|78 || Legendary Ebony Mace of Thunderbolts
+|-
+|79 || Legendary Ebony Greatsword
+|-
+|80 || Legendary Ebony War Axe
+|-
+|80 || Legendary Ebony War Axe of the Inferno
+|-
+|81 || Daedric Sword
+|-
+|81 || Legendary Ebony War Axe of Storms
+|-
+|82 || Daedric Greatsword
+|-
+|82 || Fine Daedric Greatsword
+|-
+|83 || Superior Daedric Dagger
+|-
+|85 || Epic Daedric War Axe
+|-
+|85 || Flawless Daedric Mace
+|-
+|86 || Legendary Daedric Mace
+|-
+|87 || Legendary Daedric Greatsword of Flames
+|-
+|89 || Legendary Daedric Battleaxe of Storms
+|-
+|89 || Legendary Daedric War Axe
+|-
+|90 || Legendary Daedric Sword of Storms
+|-
+|92 || Fine Dragonbone Dagger
+|-
+|92 || Superior Dragonbone War Axe
+|-
+|93 || Flawless Dragonbone Battleaxe
+|-
+|93 || Flawless Dragonbone Dagger
+|-
+|94 || Flawless Dragonbone Greatsword
+|-
+|95 || Legendary Dragonbone War Axe
+|-
+|96 || Legendary Dragonbone Battleaxe
+|-
+|97 || Legendary Dragonbone Mace
+|-
+|98 || Legendary Dragonbone Sword
+|-
+|99 || UNDEFINED UNDEFINED UNDEFINED UNDEFINED UNDEFINED
+|}
+
+===Magic===
+:''"Your Magicka swells with arcane power. Your Magic Skill has increased to Level <Level>."''
+When you choose to use your Magic skill, you will randomly cast one of your known spells. As you level up, you add new spells to your spell list.
+
+=====Spell Progression=====
+The spell level is the earliest observed level where the specified spell is available.
+
+{| class="wikitable"
+! Spell Level !! Spell
+|-
+|1 || Flames
+|-
+|2 || Frostbite
+|-
+|3 || Raised Zombie
+|-
+|4 || Sparks
+|-
+|5 || Conjured Familiar
+|-
+|10 || Lightning Bolt
+|-
+|10 || Firebolt
+|-
+|10 || Ice Spike
+|-
+|15 || Bound Sword
+|-
+|20 || Lightning Rune
+|-
+|20 || Frost Rune
+|-
+|20 || Fire Rune
+|-
+|25 || Bound Bow
+|-
+|30 || Ice Storm
+|-
+|30 || Fireball
+|-
+|30 || Chain Lightning
+|-
+|45 || Conjured Storm Atronach
+|-
+|50 || Flame Cloak
+|-
+|50 || Frost Cloak
+|-
+|50 || Lightning Cloak
+|-
+|55 || Whirlwind Cloak
+|-
+|60 || Incinerate
+|-
+|60 || Thunderbolt
+|-
+|60 || Icy Spear
+|-
+|65 || Flaming Familiar
+|-
+|70 || Wall of Storms
+|-
+|75 || Spectral Arrow
+|-
+|80 || Fire Storm
+|-
+|80 || Lightning Storm
+|-
+|80 || Blizzard
+|-
+|99 || Summoned Arniel's Shade
+|}
+
+===Shout===
+:''"Your Thu'um grows mighty! Your Shout Skill has increased to Level <Level>."''
+:''"Your Shout Skill has increased to Level <Level>. You now command <Shout>."''
+As you level, your Shouts level up, and you learn new Shouts. When using the Shout skill, you will randomly use one of the shouts you know at that level.
+
+=====Unrelenting Force=====
+:'''Attack''':
+:*"Unrelenting Force smashes into your foe."
+:*"Your mighty shout slams the <Enemy> into the dirt."
+:*"Your mighty Thu'um crashes into your foe."
+:*"Your Unrelenting Force throws the <Enemy> back, staggering it."
+:*"Your Unrelenting Force tosses the <Enemy> into the air. [he/she/it] crashes to the ground."
+:'''Kill''':
+:*"The <Enemy> croaks one last breath, defeated. Your shout echoes all the way to Sovngarde."
+:*"The <Enemy> never gets back up. That's what you get for messing with the Dovahkiin."
+:*"The <Enemy> struggles to get up, briefly, then expires. Good riddance."
+
+=====Fire Breath=====
+:'''Attack''':
+:*"Fire Breath bellows from you, searing the <Enemy>."
+:*"Your Fire Breath burns the <Enemy>."
+:*"Your shout becomes fire, scorching the <Enemy>."
+:'''Kill''':
+:*"[he/she/it] bursts into flames, then collapses defeated."
+:*"[he/she/it] crumbles into a smoldering pile. That takes care of that."
+:*"[he/she/it] {{sic|just|is just|description=missing word}} a pile of foul-smelling ash now."
+
+=====Frost Breath=====
+:'''Attack''':
+:*"Frost breath rushes forth towards the <Enemy>."
+:*"Your breath is an icy gale which cuts into the <Enemy>."
+:*"Your icy breath chills the <Enemy> to the bone."
+:*"Your shout is a frozen wind. It slams into the <Enemy>."
+:'''Kill''':
+:*"[he/she/it]'s frozen solid, a threat no more."
+:*"sealing [him/her/it] in ice."
+:*"transforming [him/her/it] into a pillar of solid ice."
+:*"You freeze [him/her/it] solid with an expression of disappointment on [his/her/its] face for all eternity."
+
+=====Cyclone=====
+:'''Attack''':
+:*"A tornado of deadly wind rushes from you into the <Enemy>."
+:*"Your Cyclone throws the <Enemy> upwards."
+:*"Your voice {{sic|is|description=extra word}} crashes into the <Enemy> like a cyclone."
+:'''Kill''':
+:*"[he/she/it] thrashes in the wind and slams back to the ground, defeated."
+:*"Your {{sic|might|mighty}} voice is so strong that the <Enemy> ragdolls forever."
+
+=====Drain Vitality=====
+:'''Attack''':
+:*"Drain Vitality saps the strength of the <Enemy>."
+:*"Your Drain Vitality sucks the very essence from your foe."
+:*"Your voice is a torrent of vicious magical energy. It collides with the <Enemy>."
+:'''Kill''':
+:*"The malignant power of your Thu'um overwhelms [him/her/it]. [he/she/it] is no more."
+
+=====Shout Progression=====
+The shout level is the level at which the specified shout is learned. When using the Shout skill, you will randomly use one of the shouts you know.
+
+{| class="wikitable"
+! Shout Level !! Shout
+|-
+|1 || Fus!
+|-
+|3 || Fus Roh!
+|-
+|6 || Fus Roh Dah!
+|-
+|8 || Yol!
+|-
+|10 || Yol Toor!
+|-
+|13 || Yol Toor Shul!
+|-
+|15 || Fo!
+|-
+|17 || Fo Krah!
+|-
+|20 || Fo Krah Diin!
+|-
+|22 || Ven!
+|-
+|24 || Ven Gaar!
+|-
+|27 || Ven Gaar Nos!
+|-
+|29 || Gaan!
+|-
+|31 || Gaan Lah!
+|-
+|34 || Gaan Lah Haas!
+|-
+|36 || Strun!
+|-
+|38 || Strun Bah!
+|-
+|41 || Strun Bah Qo!
+|-
+|43 || Ri!
+|-
+|45 || Ri Vaaz!
+|-
+|48 || Ri Vaaz Zoll!
+|-
+|50 || Od!
+|-
+|60 || Od Ah!
+|-
+|70 || Od Ah Viing!
+|-
+|80 || Hun!
+|-
+|90 || Hun Kaal!
+|-
+|99 || Hun Kaal Zoor!
+|}
+
+==Flee==
+These are the messages that appear when you attempt to flee. You cannot flee from a boss battle.
+
+===Success===
+If you succeed, you move on to choosing the next path.
+*''"The mighty dragonborn manages to scamper off successfully."''
+*''"The mighty dragonborn runs from his fight. You won't be relaying this tale to the bards any time soon."''
+*''"You flee successfully. All's well that ends well, you suppose."''
+*''"You make your escape and live to fight another day."''
+*''"You make your escape, unscathed."''
+*''"You scamper off with your tail between your legs. No need to mention this to anyone."''
+*''"You successfully turn tail and run away with your dignity intact. Mostly intact."''
+
+===Failure===
+If your attempt fails, you receive damage.
+*''"As you turn to make your escape, you trip over a rock. The <Enemy> attacks before you can make your escape."''
+*''"Skyrim's chosen one runs away, but the <Enemy> attacks before you can make your escape."''
+*''"The mighty Dovahkiin turns tail and runs, but the <Enemy> attacks before you can make your escape."''
+*''"You attempt a tactical retreat, but the <Enemy> attacks before you can make your escape."''
+*''"Your clean getaway leaves much to be desired. The <Enemy> attacks before you can make your escape."''
+*''"Your clumsy attempt to escape fails. The <Enemy> attacks before you can make your escape."''
+
+===Boss===
+Although you cannot flee from a boss, you do not take any damage for trying the option.
+*''"No true hero of Skyrim would flee in the face of a boss battle."''
+*''"There is no turning back now. You must face this final threat."''
+*''"You consider fleeing, then remember that you are Dovahkiin. And that you really want that quest reward."''

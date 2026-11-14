@@ -1,0 +1,49 @@
+{{NPC Summary
+|essential=yes
+|loc=[[Skyrim:High Hrothgar|High Hrothgar]]
+|race=Elder
+|gender=Male
+|level=90
+|class=Priest
+|faction={{Faction|CrimeFactionGreybeard}}; {{Faction|Faction for not using casual idles}}; {{Faction|FavorExcludedFaction}}; {{Faction|Greybeards}}; {{Faction|WIAdditem03ExclusionFaction}}
+|refid=000886B5
+|baseid=0002C6CC
+|image=SR-npc-Einarth.jpg
+|imgdesc=Einarth
+|skills='''[[Skyrim:Enchanting|Enchanting]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Speech|Speech]]''', [[Skyrim:Alchemy|Alchemy]], [[Skyrim:Conjuration|Conjuration]], [[Skyrim:Smithing|Smithing]]
+|aggress=Unaggressive
+|moral=No Crime
+|health=792
+|magicka=50
+|stamina=643
+|voicetype=Unique
+}}
+'''Einarth''', an [[Skyrim:Elder|elderly]] [[Skyrim:Priest|priest]], is one of the [[Skyrim:Greybeards|Greybeards]] living at [[Skyrim:High Hrothgar|High Hrothgar]]. He will teach you the second [[SR:Word of Power|word]] of the Unrelenting Force shout. 
+
+Einarth wears a set of [[SR:Greybeard's Robes|Greybeard's robes]] with the matching [[SR:Greybeard's Hood|hood]] and [[SR:Greybeard's Boots|boots]]. He carries a copy of the book ''[[SR:Dwemer History and Culture|Dwemer History and Culture]]'', a bottle of [[SR:Black-Briar Reserve|Black-Briar Reserve]], a [[SR:Horker Tusk|horker tusk]], one sample of [[SR:Juniper Berries|juniper berries]], and three [[SR:Leather Strips|leather strips]].
+
+He knows the following shouts: [[SR:Disarm|Disarm]], [[SR:Dismay|Dismay]], [[SR:Elemental Fury|Elemental Fury]], [[SR:Fire Breath|Fire Breath]], [[SR:Frost Breath|Frost Breath]], [[SR:Ice Form|Ice Form]], [[SR:Unrelenting Force|Unrelenting Force]], and [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]].
+
+{{NewLeft}}
+== Related Quests ==
+*{{Quest Link|The Way of the Voice}}
+*{{Quest Link|The Horn of Jurgen Windcaller}}
+*{{Quest Link|The Throat of the World}}
+*{{Quest Link|Elder Knowledge}}
+*{{Quest Link|Paarthurnax (quest)}}
+==Quest-Related Dialogue==
+===The Throat of the World===
+Einarth can be heard lecturing [[Skyrim:Arngeir|Arngeir]] when the latter refuses to help you in your quest to learn the [[Skyrim:Dragonrend|Dragonrend]] shout, saying: 
+
+{|class=hiddentable
+|width=50%|<center>'''The Last Dragonborn is male:'''</center>
+|width=50%|<center>'''The Last Dragonborn is female:'''</center>
+|-
+|
+:''"{{hover|Arngeir. He is Dragonborn, Stormcrown. He will speak [with] Paarthurnax.|Arngeir. Rok los Dovahkiin, Strundu'ul. Rok fen tinvaak Paarthurnax.}}"'
+|
+:''"{{hover|Arngeir. She is Dragonborn, Stormcrown. She will speak [with] Paarthurnax.|Arngeir. Rek los Dovahkiin, Strundu'ul. Rek fen tinvaak Paarthurnax.}}"'
+|}
+
+==Notes==
+* Of the Greybeards, Einarth has the lowest level of 90. [[Skyrim:Wulfgar|Wulfgar]] and [[Skyrim:Borri|Borri]] are at level 100, while Arngeir is level 150.

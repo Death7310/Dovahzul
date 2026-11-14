@@ -1,0 +1,37 @@
+{
+  "title": "Lore:Dragon Language",
+  "revid": 3619598,
+  "timestamp": "2026-08-24T09:44:44Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=parse&format=json&formatversion=2&oldid=3619598&prop=wikitext|revid",
+  "sha256": "c9732e0198e4ee5d8d66675ea0b50da6e86ee4653d3768a9c7d2e48499808509",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "license_deed_url": "http://creativecommons.org/licenses/by-sa/2.5/",
+  "license_page_revid": 3529700,
+  "pageid": 91075,
+  "parentid": 3619597,
+  "requested_title": "Lore:Dragon_Language",
+  "page_url": "https://en.uesp.net/wiki/Lore:Dragon_Language",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3619598",
+  "sha1": "1bace3e6a84f99b6031990f15e93736ae370ac4d",
+  "sha1_matches_mediawiki": true,
+  "bytes": 44455,
+  "chars": 44436,
+  "lines": 1018,
+  "saved_as": "research/sources/uesp/Lore_Dragon_Language.wikitext",
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3619598&rvprop=ids|timestamp|sha1|size",
+    "https://en.uesp.net/w/api.php?action=parse&format=json&formatversion=2&oldid=3619598&prop=wikitext|revid",
+    "https://en.uesp.net/w/api.php?action=query&format=json&meta=siteinfo&siprop=rightsinfo|general",
+    "https://en.uesp.net/w/api.php?action=parse&format=json&formatversion=2&page=UESPWiki:Copyright_and_Ownership&prop=wikitext|revid"
+  ],
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:45:03Z",
+  "fetched_by": "tools/ingest/fetch_lexicon.py"
+}

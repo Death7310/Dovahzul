@@ -1,0 +1,37 @@
+{{Mod Header|Dawnguard}}
+{{Creature Summary
+|loc=[[Skyrim:Forgotten Vale|Forgotten Vale]]
+|soul=Dragon
+|refid=xx0038F0
+|baseid=xx010E99
+|type=Monsters
+|species=Dragon
+|level={{hover|Values: 10, 20, 40, 50, 62|Radiant (10-62)}}
+|health={{hover|Values: 905, 1421, 2255, 3071, 3511|905-3511}}
+|magicka=150
+|image=SR-creature-Voslaarum.jpg
+|imgdesc=Voslaarum
+|class=Dragon
+|stamina={{hover|Values: 130, 164, 230, 264, 304|130-304}}
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|leveled=1
+|mod=[[Skyrim:Dawnguard|Dawnguard]]
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+}} [[Category:Skyrim-Dawnguard]] [[Category:Skyrim-Dawnguard-Creatures]]
+'''Voslaarum''' is a named [[Skyrim:Dragon|dragon]] in [[Skyrim:Forgotten Vale|Forgotten Vale]]. It guards a [[Skyrim:Word Wall|word wall]] for [[Skyrim:Drain Vitality|Drain Vitality]], along with [[Skyrim:Naaslaarum|Naaslaarum]].
+
+Like all living dragons, Naaslaarum and Voslaarum will not spawn until after [[SR:Dragon Rising|Dragon Rising]] is completed, to prevent early access to [[SR:Dragon Shouts|shouts]].
+
+If it is completed, they will be lurking in the water of the frozen lake near the Portal of Resolution, right under the ice, where you can only see them by diving. When you approach them, wittingly or not, they will both burst out through the ice and attack you.
+{{NewLeft}}
+==Notes==
+* "Voslaarum" literally translates to "Claw Water Twin".
+
+== Bugs ==
+{{Bug|Voslaarum and Naaslaarum still may not appear even if you have completed Dragon Rising.|confirmed=1|dlc=DG}}
+{{Bug|Voslaarum may end up in slow motion after diving into the ice and exiting again, causing the dragon to fly incredibly slow.|confirmed=1}}
+**This can sometimes be fixed by using [[Skyrim:Dragonrend|Dragonrend]] on him, forcing him to land.
+
+
+{{Skyrim Dragons}}

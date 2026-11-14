@@ -1,0 +1,39 @@
+{
+  "title": "Online:Joorahmaar",
+  "revid": 3500459,
+  "timestamp": "2026-02-12T20:52:34Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3500459&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "b8883c834ab1d70fb707b7d13363135d0fcea4bc7889bb8c9f865c7b944d52dd",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 301370,
+  "ns": 144,
+  "parentid": 3385588,
+  "requested_title": "Online:Joorahmaar",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Online:Joorahmaar",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3500459",
+  "sha1": "215c368a7c22f2e2b5a8ab7d00191934963dff89",
+  "sha1_matches_mediawiki": true,
+  "bytes": 4137,
+  "chars": 4129,
+  "lines": 77,
+  "saved_as": "research/sources/uesp/Online_Joorahmaar.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Other+Minerals|Online:Dragon|Online:The+Dragon|Online:Nahfahlaar|Online:Laatvulon|Online:Kaalgrontiid|Online:Nahviintaas|Online:Bahlokdaan|Online:Mulaamnir|Online:Joorahmaar|Online:Lokkestiiz|Online:Yolnahkriin",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:43Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

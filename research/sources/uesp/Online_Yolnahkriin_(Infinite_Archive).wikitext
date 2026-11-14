@@ -1,0 +1,25 @@
+{{Online NPC Summary
+|image=ON-creature-Yolnahkriin (Infinite Archive).jpg
+|imgdesc=Yolnahkriin
+|race=Dragon
+|creature=1
+|loc=[[ON:Infinite Archive|Infinite Archive]]
+|health=Arc 2: {{huh|1,956,000|rounded}}
+|difficulty=3
+|reaction=Hostile
+}}
+'''Yolnahkriin''' is a red [[ON:Dragon|dragon]] who may be encountered in the [[ON:Infinite Archive|Infinite Archive]]. His original [[ON:Yolnahkriin|manifestation]] is found in [[ON:Sunspire|Sunspire]]. He is one of the more difficult bosses in the Archive, as he has several attacks that can kill you instantly, generally by knocking you off the platform.
+{{NewLine}}
+
+==Skills and Abilities==
+;Bite: Yolnahkriin bites whoever he's targeting. This can kill you instantly if you're not [[ON:Block|Block]]ing it.
+;Flame Aura: If you are too close to Yolnahkriin (read: underneath him), you will be consumed by raging fire. It's not as bad as the Sunspire version, and given the number of ways he can knock you off the platform, it might be advisable to stay close and endure it. The radius of damage from the aura is a bit smaller than it appears.
+;Fire Breath: Yolnahkriin breathes fire in a narrow sweeping cone, dealing moderate [[ON:Flame Damage|Flame Damage]]. Best avoided by rolling through the cone opposite the direction of the sweep to minimize your time in the fire, but you can also avoid it by getting beside or behind him.
+;Focused Fire: Yolnahkriin will set down an orange AOE in a wide cone in front of him. It is more survivable than his Sunspire counterpart, but your best bet is to get out of range to the side or behind him.
+;Fus ro dah: Yolnahkriin shouts, causing [[ON:Knockback|Knockback]] in a medium cone in front of him. This can knock you off the platform, killing you instantly, so you should try to get behind or beside him as soon as you hear the first syllable of this shout. You can also survive by Blocking if you don't have enough time to get out of range.
+;{{huh|Not sure what this one is called}}: Yolnahkriin will fly into the air and breathe fire in a large circular AOE which covers almost the entire platform in very heavy Flame Damage. Only the very edges of the platform are safe from this. Simultaneously, several [[Online:Fire Atronach|Fire Atronach]]s will spawn from the fire.
+;Wing Thrash: This can also easily knock you off the platform, so it's best to stay in front of him unless he's doing one of his breath attacks.
+
+{{stub|Creature}}
+
+[[Category:Online-Creatures-Infinite Archive]]

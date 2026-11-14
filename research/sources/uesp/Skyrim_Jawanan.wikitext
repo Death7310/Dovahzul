@@ -1,0 +1,68 @@
+{{NPC Summary
+|essential=
+|store=[[Skyrim:Fletcher (place)|Fletcher]]
+|city=[[Skyrim:Solitude|Solitude]]
+|race=Redguard
+|gender=Male
+|class=[[Skyrim:Fletcher (class)|Fletcher]]
+|faction={{Faction|CrimeFactionHaafingar}}; {{Faction|SolitudeFletcherFaction}}; {{Faction|TownSolitudeFaction}}
+|refid=000198B2
+|baseid=0001328E
+|image=SR-npc-Jawanan.jpg
+|imgdesc=Jawanan
+|skills=[[Skyrim:Archery|Archery]], [[Skyrim:One-handed|One-handed]]
+|aggress=Unaggressive
+|level=4
+|moral=No Crime
+|buys=[[Skyrim:Armor|Armor]], [[Skyrim:Arrows|Arrows]], [[Skyrim:Tools|Tools]], [[Skyrim:Weapons|Weapons]]
+|gold=750 (+1000 [[Skyrim:Master Trader|Master Trader]]) ''(see [[Skyrim:Fletcher (place)#Bugs|store's bugs]])''
+|sells=See [[Skyrim:Fletcher (place)#Standard Merchandise|Fletcher]]
+|mercnote=<sup>{{hover|Jawanan only provides merchant services if Fihada dies|§}}</sup>
+|health=72
+|magicka=65
+|stamina=58
+|voicetype=MaleBrute
+}}
+'''Jawanan''' is a [[Skyrim:Redguard|Redguard]] [[Skyrim:Fletcher (class)|fletcher]]. He will only appear as the vendor in the [[Skyrim:Fletcher (place)|Fletcher]] shop in [[Skyrim:Solitude|Solitude]] if [[Skyrim:Fihada|Fihada]], the original owner, dies.
+
+Jawanan wears a set of farm [[Skyrim:Clothes#000209a6|clothes]], a pair of [[Skyrim:Boots#000209a5|boots]], and a [[Skyrim:Hat#000209aa|hat]]. He is equipped with an [[Skyrim:Iron Dagger|iron dagger]], and carries a [[Skyrim:Key to Solitude Fletcher|key]] to the store, as well as a selection of [[Skyrim:Leveled Lists#Common|common loot and gold]].
+{{NewLeft}}
+==Dialogue==
+He will greet you by saying: 
+:''"Ah, yet another new face. I'm from [[Lore:Hammerfell|Hammerfell]], you see. I can hardly keep track of all the people I've been meeting."''
+:''"Always good to see a fellow traveler. I hope you've found the roads relatively safe. Free from dragons, at the very least..."'' 
+:''"Fletching suits me. It's difficult, and sometimes tedious. But a well made arrow strikes forth like the fury of a god."''
+:''"If you're looking for any archery or fletching supplies, you should see [[Skyrim:Fihada|Fihada]]. I'm just the apprentice."'' 
+
+:'''You're a long way from home, then.'''
+:''"Aye, but I'll be here in Solitude for longer still. Fihada's skill as a fletcher drew me to this place. I wanted to learn. And there is still much of Skyrim I wish to see. I hear there is a city, [[Skyrim:Windhelm|Wind-Helm]], that is nearly white with... What do you call it? Ah yes! Snow. And far to the west lies a ruin. [[Skyrim:Volskygge|Volskygge]]. Inside, there is said to be a wall, black as night. And it speaks! In the ancient Dragon tongue! There are wonders in this place I never dreamed imaginable."'' 
+:'''I've been traveling all over. Even been to Helgen...'''
+:''"Where [[Skyrim:Alduin|the Dragon]] [[Skyrim:Unbound|attacked]]? We've heard rumors of death and... and fire from the skies. But no real news."'' 
+:'''The rumors are all true.'''
+:''"Then we should soon be selling arrows by the bushel. A sword is no good against a dragon."''
+
+Should you bid farewell to him:
+:''"Stop back anytime."''
+:''"Good to talk to a fellow traveler."''
+
+===Conversations===
+He will sometimes talk to Fihada:
+
+'''Fihada''': ''"How's it coming there, Jawanan?"''<br>
+'''Jawanan''': ''"Slow, but looking good, sir."''<br>
+'''Fihada''': ''"Slow's the only way to do it! Work too hard and you'll warp the wood."''
+
+'''Jawanan''': ''"Fihada, where did you learn how to make bows so well?"''<br>
+'''Fihada''': ''"The same place I learned my charm and quick wits: I used to be an Imperial ranger, my boy!"''<br>
+'''Jawanan''': ''"Wish I could learn some of that charm. I'm just good with bows, not people."''<br>
+'''Fihada''': ''"You'd make a better Imperial ranger than me. I may have charmed the locals, but my fellow soldiers hated my waggling tongue."''
+
+When in the Winking Skeever he can be overheard attempting to flirt:
+
+:'''Jawanan:''' ''"So, um, mind if I buy you a drink?"''
+:'''Vivienne Onis:''' ''"Not if you were the last man in the Empire."''
+
+:'''Jawanan:''' ''"So, um, mind if I buy you a drink?"''
+:'''Erdi:''' ''"Aw, that's so sweet of you! Thanks!"''
+
+{{NewLeft}}

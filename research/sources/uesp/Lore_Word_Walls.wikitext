@@ -1,0 +1,910 @@
+{{Trail|Magic}}{{#addtotrail:[[Lore:Appendices|Appendices]]|separator=' / '}}__NOTOC__
+[[File:LG-cardart-Word Wall.jpg|thumb|left|Word Wall (Legends)]][[File:ON-place-Lendoran Ruin 02.jpg|thumb|right|Word Wall (ESO)]]
+{{Quote Box|style=float:none; max-width:none|''You have learned so much already, Dragonborn. Growing your gift too quickly would be dangerous. But there are many Words of Power in Skyrim, carved in the Dragon tongue. Even from here, we can feel the Thu'um resonate from them. Finding these lost Words would be a sufficient test, to temper your abilities with experience. Ask when you are ready to search.''|[[Lore:Arngeir|Arngeir]]{{Ref|name=Arngeir}}}}</noinclude>
+[[Lore:Word Walls|Word Walls]], known in the [[Lore:Dragon Language|Dragon Language]] as '''Qethsegol''',{{Ref|name=DLMNM|{{Cite Book|Dragon Language: Myth no More}}}} were ancient [[Lore:Nord|Nordic]] [[Lore:Statues|monuments]] inscribed with [[Lore:Dragon Alphabet|draconic runes]], typically erected at significant landmarks to commemorate notable events or individuals, or to convey philosophical maxims.{{Ref|name=SWW}}{{Ref|name=LWW|[[Legends:Word Wall|Word Wall]] in ''[[Legends:Legends|Legends]]''}} Some served as [[Lore:Death/Nord|memorials to the dead]], while others may have honored the Nords' ancient [[Lore:Dragon|Dragon]] overlords from the times of the [[Lore:Dragon Cult|Dragon Cult]].{{ref|name=CTA|Official description of ''[[Call to Arms:Releases#2021|Word Wall]]'' in ''[[Call to Arms:Call to Arms|Call to Arms]]''}} 
+
+The walls served as sources of power that could be absorbed by [[Lore:Dragonborn|Dragonborn]] to hasten their learning of the Voice,{{Ref|name=LFAF|{{Cite Book|ns_base=Skyrim|Letter from a Friend}}}}{{Ref|name=Shout|[[Skyrim:Shout - learn about word wall|Shout - learn about word wall]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=PRIMA|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{rp|47}}  as the  [[Lore:Thu'um|thu'um]] resonated within the carved words. This resonance also allowed powerful [[Lore:Tongues|Tongues]], such as [[Lore:Greybeards|Greybeard]] [[Lore:Arngeir|Arngeir]], to sense and divine their locations from great distances by perceiving the echo of a Word of Power.{{ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=TWOP|[[Skyrim:The Words of Power|The Words of Power]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+While most Word Walls were located within the mainland of [[Lore:Skyrim|Skyrim]] and the isle of [[Lore:Solstheim|Solstheim]], some could also be found in other realms, such as [[Lore:Sovngarde|Sovngarde]], [[Lore:Apocrypha|Apocrypha]] or the [[Lore:Soul Cairn|Soul Cairn]].{{Ref|name=SWW|[[Skyrim:Word Wall|Word Walls]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+Many Word Walls and their secrets were jealously guarded by [[Lore:Dragon Priest|Dragon Priests]].{{Ref|name=MorbiusTwitter|[[General:Twitter_Archive#@Modiphius|Modiphius: Call to Arms - ''Domain of the Dragon Priest'' Bundle]]}}{{Ref|name=DP|[[Skyrim:Dragon Priest|Dragon Priests]] in ''[[Skyrim:Skyrim|Skyrim]]''}} The walls and the words inscribed upon them were also subjects of study for scholars and historians, such as Tharstan,{{ref|name=Tharstan|[[Skyrim:Tharstan|Tharstan]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} and Hela Thrice-Versed, the author of ''Dragon Language: Myth No More'', known for her work on translating the ancient tongue.{{Ref|name=DLMNM|{{Cite Book|Dragon Language: Myth no More}}}} In {{Year|4E 201}}, during [[Lore:Alduin|Alduin's]] return, the [[Lore:Last Dragonborn|Last Dragonborn]] visited many Word Walls to gain the knowledge and power necessary to defeat the draconic god.{{Ref|name=Shout}}{{Ref|name=TWOP}}
+
+==Known Word Walls==
+[[File:SR-place-Broken Word Wall.jpg|The broken word wall at the Throat of the World|thumb|left]][[File:SR-place-Sovngarde 02.jpg|A ruined word wall in Sovngarde|thumb|right]]
+{{Quote Box|style=float:none; max-width:none|''Spread throughout Skyrim, in ancient dungeons, burial grounds, and other secluded places, there are walls. Black, ominous walls on which is written a script so old, so unknown, none who had encountered it could even begin its translation. ''|''[[Lore:Dragon Language: Myth no More|Dragon Language: Myth no More]]'' by Hela Thrice-Versed{{Ref|name=DLMNM}}}}
+Word Walls were found in numerous locations across Skyrim and beyond.{{Ref|name=SWW}}
+
+They could be found in ancient Nordic tombs and ruins, including [[Lore:Bleak Falls Barrow|Bleak Falls Barrow]], [[Lore:Dead Men's Respite|Dead Men's Respite]], [[Lore:Volskygge|Volskygge]], [[Lore:Skuldafn|Skuldafn]], [[Lore:Forelhost|Forelhost]], [[Lore:Hag's End|Hag's End]], [[Lore:High Gate Ruins|High Gate Ruins]], [[Lore:Saarthal|Saarthal]], [[Lore:Korvanjund|Korvanjund]], [[Lore:Ragnvald|Ragnvald]], [[Lore:Rennveig's Fast|Rannveig's Fast]], [[Lore:Shroud Hearth Barrow|Shroud Hearth Barrow]], [[Lore:Frostmere Crypt|Frostmere Crypt]], [[Lore:Dustman's Cairn|Dustman's Cairn]], [[Lore:Folgunthur|Folgunthur]], [[Lore:Ironbind Barrow|Ironbind Barrow]], [[Lore:Shriekwind Bastion|Shriekwind Bastion]], [[Lore:Labyrinthian|Shalidor's Maze and the Labyrinthian]], [[Lore:Snow Veil Sanctum|Snow Veil Sanctum]], [[Lore:Dead Crone Rock|Dead Crone Rock]], [[Lore:Angarvunde|Angarvunde]], [[Lore:Ysgramor's Tomb|Ysgramor's Tomb]], [[Lore:Silverdrift Lair|Silverdrift Lair]], [[Lore:Valthume|Valthume]], [[Lore:Volunruud|Volunruud]], [[Lore:Ustengrav|Ustengrav]], and [[Lore:Arcwind Point|Arcwind Point]] on the mainland, as well as [[Lore:Kolbjorn Barrow|Kolbjorn Barrow]], [[Lore:White Ridge Barrow|White Ridge Barrow]], [[Lore:Vahlok's Tomb|Vahlok's Tomb]], and the [[Lore:Temple of Miraak|Temple of Miraak]] on the isle of Solstheim.{{Ref|name=SWW}}
+
+Dragons were known to dwell near Word Walls such as those at [[Lore:Autumnwatch Tower|Autumnwatch Tower]], [[Lore:Shearpoint|Shearpoint]], [[Lore:Bonestrewn Crest|Bonestrewn Crest]], [[Lore:Mount Anthor|Mount Anthor]], [[Lore:Skyborn Altar|Skyborn Altar]], [[Lore:Ancient's Ascent|Ancient's Ascent]], [[Lore:Dragontooth Crater|Dragontooth Crater]], [[Lore:Lost Tongue Overlook|Lost Tongue Overlook]], [[Lore:Northwind Summit|Northwind Summit]], [[Lore:Eldersblood Peak|Eldersblood Peak]] on the mainland, and [[Lore:Saering's Watch|Saering's Watch]] on Solstheim. A Word Wall could also be found atop the [[Lore:Throat of the World|Throat of the World]]. Several cavernous locations such as [[Lore:Sunderstone Gorge|Sunderstone Gorge]], [[Lore:Forsaken Cave|Forsaken Cave]], [[Lore:Dimhollow Crypt|Dimhollow Crypt]] on the mainland, and [[Lore:Benkongerike|Benkongerike]] and [[Lore:Raven Rock|Raven Rock]] Mine on the Solstheim island contained Word Walls as well.{{Ref|name=SWW}}
+
+Some were located in places associated with cults or factions devoted to other deities, for example the near the statue of Meridia at [[Lore:Kilkreath Temple|Kilkreath Temple]] or the [[Lore:Dark Brotherhood|Dark Brotherhood]] Sanctuary in [[Lore:Falkreath Hold|Falkreath Hold]]. Other walls were erected by Nords in places of cultural significance to different cultures, such as the [[Lore:Snow Elf|Snow Elven]] [[Lore:Forgotten Vale|Forgotten Vale]] or the [[Lore:Reachfolk|Reachfolk's]] [[Lore:Lost Valley Redoubt|Lost Valley Redoubt]].{{Ref|name=SWW}}
+
+[[File:SR-word wall-Soul Cairn.jpg|Soul Cairn Word Wall|thumb|left]][[File:CTA-scenery-Word Wall.png|A word Wall (Call to Arms)|thumb|right|class=backdrop]]
+
+Some Word Walls were located in other realms beyond [[Lore:Nirn|Nirn]], within [[Lore:Aetherius|Aetherius]] and [[Lore:Oblivion|Oblivion]], including Sovngarde, the Soul Cairn, and sections of Apocrypha accessed through the [[Lore:Black Books|Black Book]] of ''[[Lore:Black Book: Waking Dreams|Waking Dreams]]''.{{Ref|name=SWW}}
+
+The stones were erected to commemorate a wide range of figures. Among them was Sarvirra, the brave horse who fell in battle; Vakeeza, a humble servant of Laknir Little-Hammer, who raised a stone in his servant's honor; and Ulfeidr, a she-wolf known as a slayer of both men and beasts. Other stones honored Freda, protector of children; Yngnavar Ghost-Bear, who sought glory upon the Battlefield of Sorrows but instead met death and dishonor; Bhar the Stubborn, who pursued enlightenment and failed; and Vulgrum, the Sword in the Wind, a mercenary whose glory was brief, though his memory endured.{{Ref|name=SWW}}
+
+Other memorials recorded the lives of Hrodmir the Broken, who devoted his life to avenging his brother, and Odrav Anvil-Hand, who brought great honor to Clan Red-Mountain and whose stone was raised by his father, Brothi. Another one honored Undveld, the fearless archer remembered as lord of the [[Lore:Great Hunt|Great Hunt]]. Other inscriptions commemorated [[Lore:Vahlok|Vahlok]] the Guardian, and Rognvald, who was honored by his child, Nafni, with an inscription upon a Word Wall. One such Word Wall also marked the resting place of Azaran the Cruel, a necromancer who attempted and failed to bind the heroes of Sovngarde to the mortal plane.{{Ref|name=SWW}}
+
+Other stones memorialized Bard Romerius, who died while fleeing goblins; Svolo, who possessed the strength to slay a dragon but not the stamina to fell many foes; the doomed Elven children of the Autumn Field; and the fallen Sisterhood of the White Rose. Some stones also bore inscriptions honoring [[Lore:Miraak|Miraak]], the First Dragonborn. Another stone was devoted to Thorgrima, Keeper of the Crimson Fire and lord of magicka, honored by his wife, Lungerd. Other memorials commemorated Arnvid the Unbound, a veteran of the War of the Pines; Fjolmod Foul-Air, remembered for his notorious stench; Thjodrek the Brave, who died heroically at the Battle of the Serpent Sea; Princess Yrsa, celebrated for her beauty; and Jafnhar, a child-king who perished after being burned by the dragon [[Lore:Lodunost|Lodunost]].{{Ref|name=SWW}}
+
+[[File:SR-concept-6877473899.jpg|thumb|left|A Word Wall (Concept Art)]]
+
+Another stone was raised by Aesa in honor of her sister, Thohild the Inferno, whose passion was said to burn as fiercely as the Red Forge. Yet another memorial commemorated Herfodr Sun-Slayer, a mighty warlord of the Valley of Broken Dreams. Bard Lunerio was also honored, his golden music said to have frozen into silence beneath the night sky. Anurassa, a beautiful Khajiit whose warmth was believed to endure even beyond death was also honored with a Word Wall, and so was Queen Hrefna Raven-Hair, honored by her loyal subject Wulfin. Iglif Ice-Blood, who succumbed to disease was commemorated as well. One stone was raised by Sigruuf in memory of his sister Lanal, whose beauty was likened to a statue carved from living ivory.{{Ref|name=SWW}}
+
+Word Walls also commemorated Hela, friend to all beasts and servant of [[Lore:Kyne|Kyne]]; Valkrys, a shield-maiden who fought with great courage but fell after placing her trust in the power of a borrowed sword; and Skorji Leech-Fingers, a treacherous thief whose head was taken by the very axe he sought to steal. Other stones commemorated Noomi, daughter of Thoringar, who met her end beneath the arrows of [[Lore:Orcs|Orcs]], and Wynjolf the Whirlwind, renowned for his battles against them. Hungunthar Time-Eater, slayer of the Kings of the East and conqueror of Dunkreath, was honored by his son, Vegunthar. Another memorial was raised for Aaban, a warlord of the [[Lore:Alik'r|Alik'r]] sands who fell in Skyrim. One stone was dedicated to the warriors of the Black Regiment, whose souls were said to march upon the plains of Sovngarde for all eternity. Heimverlund the Mighty of the Brutal North, Hrothmar Wrath-Wolf of the Savage Plains and the villagers of doomed Vundeheim, who were burned alive by the Lightning of Unending Sorrow were also honored with Word Walls.{{ref|name=SWW}} One stone was raised by [[Lore:Modir the Far|Modir the Far]] in memory of his brother, Oskar the Fool,{{Ref|name=Throw Voice1}} while another honored the Keeper of the [[Lore:Dragonstone|Dragonstone]]. Yet another Word Wall was erected by Bekkhild in honor of her husband, Eyolf, whose ship was lost in a dark tempest upon the Sea of Tears.{{Ref|name=SWW}} One stone honored Nievaan, an Argonian who wandered far from his homeland and died with honor in service to the [[Lore:Companions|Companions]]. Another commemorated Omluth the Fool, who met his end after attempting to feed a savage creature.{{Ref|name=Throw Voice2|group=UOL}}
+
+In addition to memorials, many of the maxims attributed to [[Lore:Hoar Father|Hoar Father]] were also inscribed upon the stones.{{Ref|name=SWW}}
+{{NewLeft}}
+
+==Known Inscriptions==
+===Raan===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV Key<br>SARVIRRA ZOK KRIN RaaN<br>ALUN Wah FONaaR ODUS FROD<br>ahRK OFAN OK SIL Fah OK DROG''|1}}
+|
+QETHSEGOL VahRUKIV Key<br>SARVIRRA ZOK KRIN RaaN<br>ALUN Wah FONaaR ODUS FROD<br>ahRK OFAN OK SIL Fah OK DROG
+|
+(This) stone commemorates (the) horse<br>Sarvirra, (the) most courageous animal<br>ever to charge (the) snowy battlefields,<br>and give his life for his lord.{{Ref|name=SWW}} 
+|}
+===Mir===
+[[File:SR-word wall-Ysgramor's Tomb.jpg|thumb|right|Word Wall in Ysgramor's Tomb]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''LAKNIR MAL-TU WahLaaN QETHSEGOL<br>aaRii VahRUKT BONaaR VAKEEZA<br>WO VaaT Mir Wah JUN DO KeiZaaL<br>ahRK Dir KO SADON GRAVuuN''|1}}
+|
+LAKNIR MAL-TU WahLaaN QETHSEGOL<br>aaRii VahRUKT BONaaR VAKEEZA<br>WO VaaT Mir Wah JUN DO KeiZaaL<br>ahRK Dir KO SADON GRAVuuN
+|
+Laknir Little-Hammer erected (this) stone<br>in memory of his servant, humble Vakeeza,<br>who swore allegiance to (the) kings of Skyrim,<br>and died in gray autumn.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Tah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET DiR BRUNiiK REK-GROHiiK<br>ULFeiDR KRiiD MUZ ahRK SUNVaaR<br>BRUNiiK KINBOK SahQON Tah''|1}}
+|
+HET DiR BRUNiiK REK-GROHiiK<br>ULFeiDR KRiiD MUZ ahRK SUNVaaR<br>BRUNiiK KINBOK SahQON Tah
+|
+Here died (the) savage she-wolf<br>Ulfeidr, slayer (of) men and beasts,<br>(and) savage leader (of the) Crimson Pack.{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Laas===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NAU DaaR REVAK GOLT DRey FREDA<br>ZahRahMiiK EK LaaS FUL TOL EK<br>POGaaN KiiR FILOK ahRK OSOS<br>SUL QahNaaR EK HOKORON''|1}}
+|
+NAU DaaR REVAK GOLT DRey FREDA<br>ZahRahMiiK EK LaaS FUL TOL EK<br>POGaaN KiiR FILOK ahRK OSOS<br>SUL QahNaaR EK HOKORON
+|
+On this sacred ground did Freda<br>sacrifice her life, so that her<br>many children (might) escape, and some<br>day vanquish her enemies.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Yah===
+[[File:SR-word wall-Valthume.jpg|thumb|right|Word Wall in Valthume]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK YNGNAVAR GaaF-KODaaV<br>WO DRey Yah MORO NAU FROD<br>DO KROSIS NUZ SINON<br>SiiV DINOK ahRK DUKaaN''|1}}
+|
+HET NOK YNGNAVAR GaaF-KODaaV<br>WO DRey Yah MORO NAU FROD<br>DO KROSIS NUZ SINON<br>SiiV DINOK ahRK DUKaaN 
+|
+Here lies Yngnavar Ghost-Bear,<br>who did seek glory on (the) Battlefield<br>of Sorrows, but instead<br>found death and dishonor.{{Ref|name=SWW}}{{Ref|name=DLMNM}} 
+|}
+{{NewLine}}
+===Nir===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah FaaSNU RONaaN<br>UNDVELD aaR<br>KRiiD GROHiiK ahRK DROG<br>DO LOT Nir''|1}}
+|
+HET Mah FaaSNU RONaaN<br>UNDVELD aaR<br>KRiiD GROHiiK ahRK DROG<br>DO LOT Nir
+|
+Here fell (the) fearless archer<br>Undveld, servant,<br>slayer (of) wolves, and lord<br>of (the) Great Hunt.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Mid===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK FaaL VahLOK WO<br>KRON POGaaS MORO Fah<br>OK UNSLaaD MID ROK aaV<br>DILON VOTH LOT ZIN''|1}}
+|
+HET NOK FaaL VahLOK WO<br>KRON POGaaS MORO Fah<br>OK UNSLaaD MID ROK aaV<br>DILON VOTH LOT ZIN
+|
+Here lies the Guardian who<br>Gained much glory. For<br>His eternal loyalty, he joined<br>(the) dead with great honor{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Vur===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV Vur DO FaaL<br>VahLOK NONVUL aaR SE DOVah<br>WEN DEZ LOST Wah QahNaaR<br>TahRODiiS MiraaK''|1}}
+|
+QETHSEGOL VahRUKIV Vur DO FaaL<br>VahLOK NONVUL aaR SE DOVah<br>WEN DEZ LOST Wah QahNaaR<br>TahRODiiS MiraaK
+|
+(This) stone commemorates (the) valor of the<br>Guardian, noble servant of (the) Dragons,<br>Whose fate (it) was to vanquish<br>Treacherous Miraak{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Shaan===
+[[File:SR-npc-Tharstan 02.jpg|thumb|right|Scholar Tharstan examining the Word Wall in Vahlok's Tomb]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON MahFAERaaK<br>DahMaaN SahROT VahLOK WEN<br>LOT ahKRIN SHaaN Ney MUZ<br>ahRK DOVah''|1}}
+|
+NONVUL BRON MahFAERaaK<br>DahMaaN SahROT VahLOK WEN<br>LOT ahKRIN SHaaN Ney MUZ<br>ahRK DOVah
+|
+Noble Nord, forever<br>Remember (the) mighty Guardian whose<br>great courage inspired both men<br>and dragon{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Feim===
+[[File:SR-word wall-Ironbind Barrow.jpg|thumb|right|Word Wall within Ironbind Barrow]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah-Nii LOS HeyV DO ENOOK<br>MUN Wah LahNey VOTH ahKRIN ahRK ZIN<br>LEH ROK FeiM VODahMIN KOTIN VULOM''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah-Nii LOS HeyV DO ENOOK<br>MUN Wah LahNey VOTH ahKRIN ahRK ZIN<br>LEH ROK FeiM VODahMIN KOTIN VULOM
+|
+Noble Nords remember these words (of) the<br>hoar father - It is duty of each<br>man to live with courage and honor<br>lest he fade unremembered into darkness.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Zii===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NAFNI WahLaaN QETHSEGOL BORMahii<br>VahRUKT ROGNVALD WEN Zii FEN<br>MahFAERaaK aaK OK BROD<br>ahRK FOLooK OK HOKORON''|1}}
+|
+NAFNI WahLaaN QETHSEGOL BORMahii<br>VahRUKT ROGNVALD WEN Zii FEN<br>MahFAERaaK aaK OK BROD<br>ahRK FOLooK OK HOKORON 
+|
+Nafni raised (this) stone<br>in memory of his father Rognvald, whose spirit will<br>forever guide his clan<br>and haunt his enemies.{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Gron===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK BeiN NahGahDINOK<br>AZARAN FaaL MUNAX WO UNT<br>Wah GRON KRILOT DILON DO<br>SOVNGARDE Wah LeiN DO JUL ahRK FUNT''|1}}
+|
+HET NOK BeiN NahGahDINOK<br>AZARAN FaaL MUNAX WO UNT<br>Wah GRON KRILOT DILON DO<br>SOVNGARDE Wah LeiN DO JUL ahRK FUNT
+|
+Here lies foul Necromancer<br>Azaran the Cruel, who tried<br>to bind (the) valiant dead of<br>Sovngarde to (the) world of man and failed.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Gol===
+[[File:SR-place-Saering's Watch 02.jpg|thumb|right|The Word Wall at Saering's Watch]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV BHAR FIN<br>GOLah WO PRaaL HET MULHaaN<br>OL GOL SARaaN ONIKIV NUNON<br>Wah MeyZ WUTH SINON DO ONIK''|1}}
+|
+QETHSEGOL VahRUKIV BHAR FIN<br>GOLah WO PRaaL HET MULHaaN<br>OL GOL SARaaN ONIKIV NUNON<br>Wah MeyZ WUTH SINON DO ONIK
+|
+(This) stone commemorates Bhar the<br>Stubborn who sat here still<br>as Earth awaiting enlightenment, only<br>to become old instead of wise.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Ven===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV VULGRUM FIN<br>ZahKRii KO FIN VEN SOVRahZUN<br>WEN MORO LOST MALTiiD<br>NUZ KO VahRUKT UNLaaD''|1}}
+|
+QETHSEGOL VahRUKIV VULGRUM FIN<br>ZahKRii KO FIN VEN SOVRahZUN<br>WEN MORO LOST MALTiiD<br>NUZ KO VahRUKT UNLaaD
+|
+(This) stone commemorates Vulgrum the<br>Sword in the wind, (the) mercenary<br>Whose glory was short<br>But in memory eternal.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Gaar===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMAH KENDOV KRIF<br>OK KOSIL VOKUL NUZ JUN GaaR<br>NiiN NAU OK HOKORON''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMAH KENDOV KRIF<br>OK KOSIL VOKUL NUZ JUN GaaR<br>NiiN NAU OK HOKORON
+|
+Noble Nord, remember these words<br>Of the Hoar-Father: (a) warrior fights<br>his inner evils, but (a) king unleashes<br>them on his enemies.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Nos===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV HRODMir FIN<br>KRENT WO SOV Pah OK ERUVOS ahRK<br>FARaaN Wah NOS TUM KRIVaaN<br>DO OK ZeyMah''|1}}
+|
+QETHSEGOL VahRUKIV HRODMir FIN<br>KRENT WO SOV Pah OK ERUVOS ahRK<br>FARaaN Wah NOS TUM KRIVaaN<br>DO OK ZeyMah
+|
+(This) stone commemorates Hrodmir the<br>Broken, who spent all his years and<br>wealth to strike down (the) killer<br>of his brother.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Zun===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR<br>ROT DO FIN FODiiZ BORMah<br>PRUZaaN ZUN KO KeiZaaL LOS<br>HahDRIM DO DWiiN-SIL KENDOV''|1}}
+|
+NONVUL BRON DahMaaN DaaR<br>ROT DO FIN FODiiZ BORMah<br>PRUZaaN ZUN KO KeiZaaL LOS<br>HahDRIM DO DWiiN-SIL KENDOV
+|
+Noble Nords remember these<br>words of the hoar father:<br>(the) best weapon of Skyrim is<br>(the) mind of (a) steel-souled warrior.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Haal===
+[[File:SR-place-Eldersblood Peak.jpg|thumb|right|Eldersblood Peak Word Wall]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''BROTHI WahLaaN QETHSEGOL KULii<br>VahRUKT ODRAV KeyN-HaaL<br>WO DRUN POGaaS ZIN Wah<br>BROD SahQO-STRUNMah''|1}}
+|
+BROTHI WahLaaN QETHSEGOL KULii<br>VahRUKT ODRAV KeyN-HaaL<br>WO DRUN POGaaS ZIN Wah<br>BROD SahQO-STRUNMah
+|
+Brothi raised (this) stone in memory of his son<br>Odrav Anvil-Hand<br>(who) brought much honor to<br>Clan Red-Mountain{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Viik===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV<br>ahZID ViiK DO BRiiNahMaaR<br>DO SOT PeyT NaaKO Wah FIN<br>LaaT NaaL UFiiK DO KORVAG KOL''|1}}
+|
+QETHSEGOL VahRUKIV<br>ahZID ViiK DO BRiiNahMaaR<br>DO SOT PeyT NaaKO Wah FIN<br>LaaT NaaL UFiiK DO KORVAG KOL
+|
+(This) stone commemorates<br>(the) bitter defeat of (the) Sisterhood<br>of the White Rose, eaten to<br>(the) last by the trolls of Korvag Crag.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Faas===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah FaaS NI BRENDON DO<br>DINOK Fah ROK LOS QOLaaS DO MORO<br>ahRK HIN aaK Wah LOT SOVNGARDE''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah FaaS NI BRENDON DO<br>DINOK Fah ROK LOS QOLaaS DO MORO<br>ahRK HIN aaK Wah LOT SOVNGARDE
+|
+Noble Nord, remember these words of the<br>hoar father: Fear not (the) specter of<br>death, for he is (the) herald of glory<br>and your guide to great Sovngarde.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Ru===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO SONaaN<br>ROMERIUS WO UNT RU NOL OSOS<br>GOGIL NUZ MOTMah''|1}}
+|
+HET NOK KOPRaaN DO SONaaN<br>ROMERIUS WO UNT RU NOL OSOS<br>GOGIL NUZ MOTMah
+|
+Here lies (the) body of Bard<br>Romerius who tried (to) run from some<br>Goblins but slipped{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Maar===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV DaaNIK<br>FahLiiL KiiR DO GRAVuuN FROD<br>WO BOVUL KO MaaR NOL KINZON<br>ZahKRii DO KRUZiiK HOKORON''|1}}
+|
+QETHSEGOL VahRUKIV DaaNIK<br>FahLiiL KiiR DO GRAVuuN FROD<br>WO BOVUL KO MaaR NOL KINZON<br>ZahKRii DO KRUZiiK HOKORON
+|
+(This) stone commemorates (the) doomed<br>Elf children of (the) Autumn Field<br>Who fled in terror from (the) sharp<br>Swords of (the) ancient enemy{{Ref|name=SWW}}{{Ref|name=DLMNM}}
+|}
+{{NewLine}}
+===Mul===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''Pah WERID MOROKei MiraaK<br>ZOK SULeyKaaR DO Pah<br>SONaaK WEN MUL BOLaaV<br>NaaL FahLUaaN DO JUL''|1}}
+|
+Pah WERID MOROKei MiraaK<br>ZOK SULeyKaaR DO Pah<br>SONaaK WEN MUL BOLaaV<br>NaaL FahLUaaN DO JUL
+|
+All praise glorious Miraak<br>Most power(ful) servant of all<br>Dragon Priests, whose strength (was) granted<br>by (the) gardener of mankind{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Qah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET ONT KRiiST MiraaK WO ahTiiR<br>OK SahVOT OL Qah SPaaN NaaL<br>DeyRA Fah OK UNSLaaD MIDUN''|1}}
+|
+HET ONT KRiiST MiraaK WO ahTiiR<br>OK SahVOT OL Qah SPaaN NaaL<br>DeyRA Fah OK UNSLaaD MIDUN
+|
+Here once stood Miraak who wore<br>His faith as armor, shield(ed) by<br>Daedra for his eternal loyalty{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Diiv===
+[[File:SR-word wall-Apocrypha.jpg|thumb|right|A Word Wall in Apocrypha]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV LOT MiraaK<br>SONaaK DO LOT ONIKaaN aaR<br>DO FaaL DiiV ahRK HOKORON DO JUL''|1}}
+|
+QETHSEGOL VahRUKIV LOT MiraaK<br>SONaaK DO LOT ONIKaaN aaR<br>DO FaaL DiiV ahRK HOKORON DO JUL
+|
+(This) stone commemorates great Miraak:<br>Dragon Priest of great wisdom, servant<br>of the wyrm, and enemy of mankind{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Gaan===
+[[File:SR-place-Forgotten Vale Word Wall.jpg|The word wall in the Forgotten Vale|thumb|right]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO SVOLO<br>WO PIRaaK MULaaG Wah KRiiN<br>DOVah NUZ NI GaaN Wah<br>KRiiN POGaaN''|1}}
+|
+HET NOK KOPRaaN DO SVOLO<br>WO PIRaaK MULaaG Wah KRiiN<br>DOVah NUZ NI GaaN Wah<br>KRiiN POGaaN
+|
+Here lies (the) body of Svolo,<br>Who possessed strength to kill a<br>Dragon but not (the) stamina to<br>kill many{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Lah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''LUNGERD WahLaaN QETHSEGOL<br>ahMULii VahRUKT THORGRIMA<br>DeiNMaaR DO SahQON YOLOS<br>ahRK DROG DO Lah''|1}}
+|
+LUNGERD WahLaaN QETHSEGOL<br>ahMULii VahRUKT THORGRIMA<br>DeiNMaaR DO SahQON YOLOS<br>ahRK DROG DO Lah
+|
+Lungerd raised (this) stone<br>in her husband's memory (of) Thorgrima<br>Keeper of crimson fire<br>And lord of magicka{{Ref|name=SWW}}
+|}
+{{NewLine}}
+===Haas===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah ARNVID FaaL<br>STaaDNAU WEN HaaS DENOS<br>MINDIN KeiN DO GALIK KOLOS<br>ROK OFaaL DILOS AHRaaN''|1}}
+|
+HET Mah ARNVID FaaL<br>STaaDNAU WEN HaaS DENOS<br>MINDIN KeiN DO GALIK KOLOS<br>ROK OFaaL DILOS AHRaaN
+|
+Here fell Arnvid the<br>Unbound, whose health declined<br>after (the) War of (the) Pines<br>where he received (a) fatal wound.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Su===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK FJOLMOD BeiN-SU WO<br>PooK OL POGaaS NAU GOL OL<br>OK KOPRaaN DREH NU KO GOLT''|1}}
+|
+HET NOK FJOLMOD BeiN-SU WO<br>PooK OL POGaaS NAU GOL OL<br>OK KOPRaaN DREH NU KO GOLT
+|
+Here lies Fjolmod Foul-Air who<br>stank as much on earth as<br>his body does now in (the) ground.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Grah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV KRIL<br>THJODREK WO Dir ZOHUNGaaR<br>KO GRah DO VITH OKaaZ''|1}}
+|
+QETHSEGOL VahRUKIV KRIL<br>THJODREK WO Dir ZOHUNGaaR<br>KO GRah DO VITH OKaaZ
+|
+This) stone commemorates (the) brave<br>Thjodrek who died heroically<br>in (the) battle of (the) Serpent Sea.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Dun===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV PaaZ<br>KULaaS YRSA WO ENSOSIN<br>Pah DO TaaZOKaaN VOTH<br>EK DUN ahRK BRii''|1}}
+|
+QETHSEGOL VahRUKIV PaaZ<br>KULaaS YRSA WO ENSOSIN<br>Pah DO TaaZOKaaN VOTH<br>EK DUN ahRK BRii
+|
+(This) stone commemorates (the) fair<br>Princess Yrsa who bewitched<br>all of Tamriel with<br>her grace and beauty.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Yol===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV KiiR<br>JUN JAFNHAR WO LOS AG<br>NahLaaS NaaL YOL DO<br>LOT DOVah LODUNOST''|1}}
+|
+QETHSEGOL VahRUKIV KiiR<br>JUN JAFNHAR WO LOS AG<br>NahLaaS NaaL YOL DO<br>LOT DOVah LODUNOST
+|
+(This) stone commemorates (the) child<br>king Jafnhar who was burned<br>alive by (the) fire of<br>(the) great dragon Lodunost.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Toor===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''AESA WahLaaN QETHSEGOL<br>BRiiNahii VahRUKT THOHILD<br>FIN TooR WEN SMOLiiN AG<br>FRIN OL SahQO HeiM''|1}}
+|
+AESA WahLaaN QETHSEGOL<br>BRiiNahii VahRUKT THOHILD<br>FIN TooR WEN SMOLiiN AG<br>FRIN OL SahQO HeiM
+|
+Aesa raised (this) stone<br>for (her) sister, Thohild<br>the Inferno, whose passion burned<br>hot as (the) Red Forge.{{Ref|name=SWW}}{{Ref|name=DLMNM}}
+|}
+{{NewLine}}
+===Shul===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah HERFODR<br>SHUL-KRiiD SahROT<br>KONahRIK DO LUMNaaR<br>DO KRENT HahNU''|1}}
+|
+HET Mah HERFODR<br>SHUL-KRiiD SahROT<br>KONahRIK DO LUMNaaR<br>DO KRENT HahNU
+|
+Here fell Herfodr<br>Sun-Slayer, mighty<br>warlord of (the) Valley<br>of Broken Dreams.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Fo===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''Pah WERID SONaaN LUNERIO<br>WEN YUVON LOVaaS MeyZ<br>FO HET KO VULON''|1}}
+|
+Pah WERID SONaaN LUNERIO<br>WEN YUVON LOVaaS MeyZ<br>FO HET KO VULON
+|
+All praise Bard Lunerio<br>whose golden music became<br>frost here in (the) night.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Krah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK BRIT KaaZ ANURASSA<br>WEN FaaD NIS KOS EVENaaR<br>ORIN NaaL KRah DINOK''|1}}
+|
+HET NOK BRIT KaaZ ANURASSA<br>WEN FaaD NIS KOS EVENaaR<br>ORIN NaaL KRah DINOK
+|
+Here lies (the) beautiful Khajiit Anurassa<br>whose warmth cannot be extinguished<br>even by cold death.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Diin===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''WULFIN WahLaaN QETHSEGOL JUDii<br>VahRUKT HREFNA RUVaaK-OM<br>WEN MiiN DiiN SOS<br>DO NaaN JUL''|1}}
+|
+WULFIN WahLaaN QETHSEGOL JUDii<br>VahRUKT HREFNA RUVaaK-OM<br>WEN MiiN DiiN SOS
+|
+Wulfin raised (this) stone in memory of his queen<br>Hrefna Raven-Hair<br>whose eyes froze (the) blood<br>of any man.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Iiz===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO<br>IGLIF iiZ-SOS WO GRIND OK OBLaaN<br>NI KO MOROKei VUKeiN NUZ ahST<br>MUNAX HaaLVUT DO LiiV KRASaaR''|1}}
+|
+HET NOK KOPRaaN DO<br>IGLIF iiZ-SOS WO GRIND OK OBLaaN<br>NI KO MOROKei VUKeiN NUZ ahST<br>MUNAX HaaLVUT DO LiiV KRASaaR
+|
+Here lies (the) body of<br>Iglif Ice-Blood who met his end<br>not in glorious combat, but at<br>(the) cruel touch of (the) withering sickness{{Ref|name=SWW}}{{Ref|name=DLMNM}}
+|}
+{{NewLine}}
+===Slen===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT DO<br>FIN FODiiZ BORMah-ORIN PRUZaaN DWiiN<br>aaL KREH ahRK KREN NUZ SLEN DO<br>VahZah MUZ LOS SINDUGahVON''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT DO<br>FIN FODiiZ BORMah-ORIN PRUZaaN DWiiN<br>aaL KREH ahRK KREN NUZ SLEN DO<br>VahZah MUZ LOS SINDUGahVON
+|
+Noble Nords remember these words of<br>the hoar father: Even best steel<br>may bend and break, but flesh of<br>true men is unyielding.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Nus===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''SIGRuuF WahLaaN QETHSEGOL BRiiNahii<br>VahRUKT LANAL WEN BRIT LUFT LOS OL<br>KINZON ahRK SOT OL NUS DWiiROK<br>NOL NahLaaS OZINVey''|1}}
+|
+SIGRuuF WahLaaN QETHSEGOL BRiiNahii<br>VahRUKT LANAL WEN BRIT LUFT LOS OL<br>KINZON ahRK SOT OL NUS DWiiROK<br>NOL NahLaaS OZINVey
+|
+Sigruuf raised (this) stone for his sister's<br>memory, Lanal, whose beautiful face was as<br>sharp and white as a statue carved<br>from living ivory.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Kaan===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO HELA<br>FahDON Wah Pah SIVaaS<br>aaR DO KaaN aaL REK SiiV UNahZaaL<br>PRaaN KO FeyKRO DO HahNU''|1}}
+|
+HET NOK KOPRaaN DO HELA<br>FahDON Wah Pah SIVaaS<br>aaR DO KaaN aaL REK SiiV UNahZaaL<br>PRaaN KO FeyKRO DO HahNU
+|
+Here lies (the) body of Hela,<br>friend to all beasts,<br>servant of Kyne. May she find eternal<br>rest in the Forest of Dreams.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Drem===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMah DRaaL<br>NI Fah DREM Fah GRIK LOS<br>HIND DO SahLO ahRK NIVahRiiN''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT<br>DO FIN FODiiZ BORMah DRaaL<br>NI Fah DREM Fah GRIK LOS<br>HIND DO SahLO ahRK NIVahRiiN
+|
+Noble Nords remember these words<br>of the hoar father: Pray<br>not for peace, for such is<br>(the) wish of (the) weak and cowardly.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Ov===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah SPaaN VahDIN VALKRYS<br>WO KRIF VOTH ahKRIN NUZ<br>LOS FOLaaS Vah OV MULaaG<br>DO BODiiS TUZ''|1}}
+|
+HET Mah SPaaN VahDIN VALKRYS<br>WO KRIF VOTH ahKRIN NUZ<br>LOS FOLaaS Vah OV MULaaG<br>DO BODiiS TUZ
+|
+Here fell shield maiden Valkrys<br>who fought with courage, but<br>was wrong to trust (the) power<br>of (a) borrowed sword.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Krii===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR ROT DO<br>FIN FODiiZ BORMah Wah KRii KO<br>MOROKei KeiN LOS Wah ZIN GeiNMaaR Wah DIR<br>KO MOROKei KeiN LOS Wah ZIN Pah DO KeiZaaL''|1}}
+|
+NONVUL BRON DahMaaN DaaR ROT DO<br>FIN FODiiZ BORMah Wah KRii KO<br>MOROKei KeiN LOS Wah ZIN GeiNMaaR Wah DIR<br>KO MOROKei KeiN LOS Wah ZIN Pah DO KeiZaaL
+|
+Noble Nords remember these words of<br>the hoar father: To kill in<br>glorious war is to honor oneself, to die<br>in glorious war is to honor all of Skyrim.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Lun===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah TahRODiiS TAFiiR<br>SKORJI LUN-SINAK WEN KLOV<br>GOVey NaaL RINIK HahKUN ROK<br>TOGaaT Wah GahROT''|1}}
+|
+HET Mah TahRODiiS TAFiiR<br>SKORJI LUN-SINAK WEN KLOV<br>GOVey NaaL RINIK HahKUN ROK<br>TOGaaT Wah GahROT
+|
+Here fell (the) treacherous thief<br>Skorji Leech-Fingers, whose head<br>(was) removed by (the) very axe he<br>tried to steal.{{Ref|name=SWW}}{{Ref|name=DLMNM}}
+|}
+{{NewLine}}
+===Aus===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''THORINGAR WahLaaN QETHSEGOL<br>MONii VahRUKT NOOMI WEN<br>DEZ LOS Wah AUS NIN DO<br>POGaaN OGiiM RONaaZ''|1}}
+|
+THORINGAR WahLaaN QETHSEGOL<br>MONii VahRUKT NOOMI WEN<br>DEZ LOS Wah AUS NIN DO<br>POGaaN OGiiM RONaaZ
+|
+Thoringar raised (this) stone<br>for his daughter's memory, Noomi, whose<br>fate (it) was to suffer (the) sting of<br>many Orc arrows.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Tiid===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''VEGUNTHAR WahLaaN QETHSEGOL<br>BORMahIL VahRUKT HUNGUNTHAR<br>TiiD NaaK KRIaaN SE<br>JUNNESEJER KRONiiD SE DUNKREATH''|1}}
+|
+VEGUNTHAR WahLaaN QETHSEGOL<br>BORMahIL VahRUKT HUNGUNTHAR<br>TiiD NaaK KRIaaN SE<br>JUNNESEJER KRONiiD SE DUNKREATH
+|
+Vegunthar raised (this) stone<br>(in his) father's memory, Hungunthar<br>Time-Eater, slayer of<br>(the) Kings of the East, conqueror of Dunkreath.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Klo===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah SahROT<br>KONahRIK aaBAN<br>KiiN SE KLO SE ALIKR<br>PRaaN NU DENEK KeiZaaL''|1}}
+|
+HET Mah SahROT<br>KONahRIK aaBAN<br>KiiN SE KLO SE ALIKR<br>PRaaN NU DENEK KeiZaaL
+|
+Here fell mighty<br>Warlord Aaban<br>Child of (the) sands of Alik'r;<br>rest now in (the) soil (of) Skyrim.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Ul===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV<br>KENDOV SE VED RONAX WEN<br>SIL NU YORiiK PINDaaR SE SOVNGARDE<br>Pah UL''|1}}
+|
+QETHSEGOL VahRUKIV<br>KENDOV SE VED RONAX WEN<br>SIL NU YORiiK PINDaaR SE SOVNGARDE<br>Pah UL
+|
+(This) stone commemorates<br>(the) warriors of the black regiment whose<br>souls now march in the plains of Sovngarde<br>for all eternity.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Strun===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''ahRK OND DRey SahROT<br>HeiMVERLUND MeyZ NOL HEVNO<br>BROM MED STRUN DO UZNahGaaR<br>NahKRiiN NOL SOVNGARDE NIMaaR''|1}}
+|
+ahRK OND DRey SahROT<br>HeiMVERLUND MeyZ NOL HEVNO<br>BROM MED STRUN DO UZNahGaaR<br>NahKRiiN NOL SOVNGARDE NIMaaR
+|
+And lo, did mighty<br>Heimverlund come from the brutal<br>north, like a storm of unbridled<br>vengeance from Sovngarde itself.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Bah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah HROTHMAR Bah GROHiiK<br>DO BRUNiiK PINDaaR aaL OK SIL<br>ROVaaN SOVNGARDE MahFAERaaK''|1}}
+|
+HET Mah HROTHMAR Bah GROHiiK<br>DO BRUNiiK PINDaaR aaL OK SIL<br>ROVaaN SOVNGARDE MahFAERaaK
+|
+Here fell Hrothmar, Wrath Wolf,<br>from (the) savage plains; may his soul<br>wander Sovngarde forever.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Qo===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''QETHSEGOL VahRUKIV SahSUNaaR<br>DO DaaNIK VUNDEHeiM AG<br>NahLaaS NaaL QO DO<br>UNSLaaD KROSIS''|1}}
+|
+QETHSEGOL VahRUKIV SahSUNaaR<br>DO DaaNIK VUNDEHeiM AG<br>NahLaaS NaaL QO DO<br>UNSLaaD KROSIS
+|
+(This) stone commemorates (the) villagers<br>of doomed Vundeheim, burned<br>alive by (the) Lightning of<br>Unending Sorrow.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Zul, Mey, Gut===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''MODIR FIN GUT WahLaaN QETHSEGOL<br>ZeyMahii VahRUKT OSKAR<br>FIN Mey WEN ZUL LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD''|1}}
+|
+MODIR FIN SADONVUM WahLaaN<br>QETHSEGOL ZeyMahii VahRUKT OSKAR<br>WEN ZUL LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD
+|
+Modir the Far raised (this) stone<br>(in his) brother's memory, Oskar<br>the Fool, whose voice was weak and<br>not (the) mighty Shout of his clan.{{Ref|name=Throw Voice1}}{{intnote|nb1|[nb 1]}}
+|}
+{{NewLine}}
+===Zul===
+[[File:SR-place-Shearpoint.jpg|thumb|right|Shearpoint Word Wall]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''MODIR FIN SADONVUM WahLaaN<br>QETHSEGOL ZeyMahii VahRUKT OSKAR<br>WEN ZUL LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD''|1}}
+|
+MODIR FIN SADONVUM WahLaaN<br>QETHSEGOL ZeyMahii VahRUKT OSKAR<br>WEN ZUL LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD
+|
+Modir the Greybeard raised<br>(this) stone (in his) brother's memory, Oskar<br>whose voice was weak and<br>not (the) mighty Shout of his clan.{{Ref|name=Throw Voice2|group=UOL}}{{intnote|nb1|[nb 1]}}
+|}
+{{NewLine}}
+===Mey===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO OMLUTH FIN Mey<br>WO UNT WAH NAHKIP BRUNiiK<br>UDERFRYKTE SINON MeyZ KIPRaaN''|1}}
+|
+HET NOK KOPRaaN DO OMLUTH FIN Mey<br>WO UNT WAH NAHKIP BRUNiiK<br>UDERFRYKTE SINON MeyZ KIPRaaN
+|
+Here lies (the) body of Omluth the Fool,<br>who tried to feed (the) savage<br>Uderfrykte, but instead became (the) meal.{{Ref|name=Throw Voice2|group=UOL}}{{intnote|nb1|[nb 1]}} 
+|}
+{{NewLine}}
+===Gut===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET Mah SiiGONIS NeiVaaN<br>WO WUNDUN GUT NOL HOFKiiN<br>Dir VOTH ZIN KO<br>ahMIK DO ZeyMahZIN''|1}}
+|
+HET Mah SiiGONIS NeiVaaN<br>WO WUNDUN GUT NOL HOFKiiN<br>Dir VOTH ZIN KO<br>ahMIK DO ZeyMahZIN
+|
+Here fell (the) lizard Nievaan,<br>who wandered far from home<br>(and) died with honor (in)<br>service of (the) Companions.{{Ref|name=Throw Voice2|group=UOL}}{{intnote|nb1|[nb 1]}}
+|}
+{{NewLine}}
+===Fus===
+[[File:SR-word wall-Bleak Falls Barrow.jpg|thumb|right|Bleak Falls Barrow Word Wall]]
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK FaaL VahLOK<br>DeiNMaaR DO DOVahGOLZ<br>ahRK aaN FUS DO UNSLaaD<br>RahGOL ahRK VULOM''|1}}
+|
+HET NOK FaaL VahLOK<br>DeiNMaaR DO DOVahGOLZ<br>ahRK aaN FUS DO UNSLaaD<br>RahGOL ahRK VULOM
+|
+Here lies the guardian<br>Keeper of (the) dragonstone<br>And a force of unending<br>Rage and darkness{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Wuld===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''HET NOK KOPRaaN DO<br>WYNJOLF FaaL WULD WEN<br>ViiNTaaS TUZ Vey ZeiM LahVU<br>DO RahGRON OGiiM''|1}}
+|
+HET NOK KOPRaaN DO<br>WYNJOLF FaaL WULD WEN<br>ViiNTaaS TUZ Vey ZeiM LahVU<br>DO RahGRON OGiiM
+|
+Here lies [the] body of<br>Wynjolf the Whirlwind whose<br>shining blade cut through an army<br>of gods-bind Orcs.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Nah===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''NONVUL BRON DahMaaN DaaR<br>ROT DO FIN FODiiZ BORMah<br>OBLIVION LooST NID Nah MED<br>SPaaN VahDIN BeyN''|1}}
+|
+NONVUL BRON DahMaaN DaaR<br>ROT DO FIN FODiiZ BORMah<br>OBLIVION LooST NID Nah MED<br>SPaaN VahDIN BeyN
+|
+Noble Nord, remember these<br>words of the Hoar Father -<br>Oblivion hath no fury like<br>[a] shield maiden scorned.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+===Kest===
+{|class=hiddentable
+|width=33%|<center>'''Inscription:'''</center>
+|width=33%|<center>'''Transliteration:'''</center>
+|width=33%|<center>'''Translation:'''</center>
+|-
+|
+{{DragonFont|''BEKKHILD WahLaaN QETHSEGOL<br>ahMULii VahRUKT EYOLF WEN<br>VeySUN LOS SIZaaN KO VUL<br>KEST KO OKaaZ DO LUV''|1}}
+|
+BEKKHILD WahLaaN QETHSEGOL<br>ahMULii VahRUKT EYOLF WEN<br>VeySUN LOS SIZaaN KO VUL<br>KEST KO OKaaZ DO LUV 
+|
+Bekkhild raised [this] stone<br>[in her] husband's memory, Eyolf, whose<br>ship was lost in [a] dark,<br>tempest in [the] Sea of Tears.{{Ref|name=SWW}} 
+|}
+{{NewLine}}
+
+==Gallery==
+<gallery>
+File:SKY Dragon in-body Cave.png|Concept Art
+File:SKY Dragon in-body Exploration.png|Concept Art
+File:SKY Dragon in-body Script.png|Concept Art
+</gallery>
+
+==Notes==
+*{{LNote|nb1|1.|While the Throw Voice shout, like most other shouts, consists of three Words of Power, all three are obtained from the same Zul, Mey, Gut Word Wall. This was not the initial intention, as separate Zul, Mey, and Gut word walls exist with their inscriptions present in the game files, but they cannot be displayed during gameplay.{{Ref|name=Throw Voice1|[[Skyrim:Throw Voice|Throw Voice]] Zul, Mey, Gut word wall inscription in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=Throw Voice2|group=UOL|Unused [[Skyrim:Throw Voice|Throw Voice]] Zul, Mey, and Gut word wall inscriptions in ''[[Skyrim:Skyrim|Skyrim]]''}}}}
+
+==See Also==
+*{{GSI|Skyrim:Word Wall|Legends:Word Wall|Call to Arms:Releases#2021}}
+
+==References==
+<references/>{{UOL}}
+<references group=UOL/>
+{{Lore Appendices}}{{Lore Nord Culture}}{{Lore Nord Religion}}{{Lore Magic Footer}}
+</noinclude>

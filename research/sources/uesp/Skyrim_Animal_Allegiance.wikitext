@@ -1,0 +1,56 @@
+[[fr:Skyrim:Allégeance animale]]{{Shout Summary
+|id=0005fc77
+|icon=SR-icon-shout-White.png
+|quote=A Shout for help from the beasts of the wild, who come to fight in your defense.
+|word1=RaaN
+|wordid1=00060291
+|cooldown1=50
+|info1=Animal Allegiance for 30 seconds in 75 ft
+|location1=[[Skyrim:Ancient's Ascent|Ancient's Ascent]]
+|word2=Mir
+|wordid2=00060292
+|cooldown2=60
+|info2=Animal Allegiance for 45 seconds in 150 ft
+|location2=[[Skyrim:Angarvunde|Angarvunde]]
+|word3=Tah
+|wordid3=00060293
+|cooldown3=70
+|info3=Animal Allegiance for 60 seconds in 250 ft
+|location3=[[Skyrim:Ysgramor's Tomb|Ysgramor's Tomb]] (atop the hill, quest locked)
+|transword1=animal
+|transword2=allegiance
+|transword3=Pack
+|spellid1=0009e0cc
+|spellid2=0009e0cd
+|spellid3=0009e0ce
+}} __NOTOC__
+
+'''Animal Allegiance''' is a [[Skyrim:Dragon Shouts|dragon shout]] that causes nearby animals to fight for you.
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Angarvunde (quest)}}
+* {{Quest Link|Glory of the Dead}}
+
+==Possible Uses==
+*Evening the odds if outnumbered.
+*Forcing peaceful animals to stop so they can be killed while hunting.
+*Forcing [[Skyrim:chaurus|chaurus]] and [[Skyrim:Frostbite Spider|frostbite spiders]] to attack their [[Skyrim:Falmer|Falmer]] keepers.
+*Turning [[Skyrim:Mammoth|mammoths]] against their [[Skyrim:Giant|giants]].
+
+== Notes ==
+* When the shout is used and a follower is already actively fighting an animal, the animal will continue to fight your follower.
+* The shout penetrates doors and walls, so it can be used to start a fight between chaurus and Falmer in areas of caves that you have not yet accessed.
+* This shout cannot be used to directly counter a [[Skyrim:Spriggan|spriggan]]'s similar power after the spriggan has already cast it, as the original power takes precedence.
+* The word wall at [[Skyrim:Ysgramor's Tomb|Ysgramor's Tomb]] can be reached by [[Skyrim:Mountain Climbing|climbing the mountain]], bypassing the need to complete [[Skyrim:Glory of the Dead|Glory of the Dead]].
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=QETHSEGOL VahRUKIV Key<br>SARVIRRA ZOK KRIN {{FC|blue|RaaN}}<br>ALUN Wah FONaaR ODUS FROD<br>ahRK OFAN OK SIL Fah OK DROG
+|translation1=(This) stone commemorates (the) horse<br>Sarvirra, (the) most courageous {{FC|blue|animal}}<br>ever to charge (the) snowy battlefields,<br>and give his life for his lord.
+|wordwall2=LAKNIR MAL-TU WahLaaN QETHSEGOL<br>aaRii VahRUKT BONaaR VAKEEZA<br>WO VaaT {{FC|blue|Mir}} Wah JUN DO KeiZaaL<br>ahRK Dir KO SADON GRAVuuN
+|translation2=Laknir Little-Hammer erected (this) stone<br>in memory of his servant, humble Vakeeza,<br>who swore {{FC|blue|allegiance}} to (the) kings of Skyrim,<br>and died in gray autumn.
+|wordwall3=HET DiR BRUNiiK REK-GROHiiK<br>ULFeiDR KRiiD MUZ ahRK SUNVaaR<br>BRUNiiK KINBOK SahQON {{FC|blue|Tah}}
+|translation3=Here died (the) savage she-wolf<br>Ulfeidr, slayer (of) men and beasts,<br> (and) savage leader (of the) Crimson {{FC|blue|Pack}}.}}
+{{Skyrim Shouts}}

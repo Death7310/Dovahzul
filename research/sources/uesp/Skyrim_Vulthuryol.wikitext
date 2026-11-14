@@ -1,0 +1,31 @@
+{{Creature Summary
+|loc=[[Skyrim:Blackreach|Blackreach]]
+|soul=Dragon
+|refid=0007EAC5
+|baseid=0007EAC7
+|type=Monsters
+|species=Dragon
+|level=50
+|class=Dragon
+|health=3071
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|image=SR-creature-Vulthuryol.jpg
+|imgdesc=Vulthuryol
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|drops=
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina=264
+}}
+'''Vulthuryol''' is a [[Skyrim:Dragon|dragon]] found within [[Skyrim:Blackreach|Blackreach]]. He can be summoned by using [[Skyrim:Unrelenting Force|Unrelenting Force]] on the hanging yellow Dwemer gong within the Silent City. His name in the [[Lore:Dragon Language|dragon language]] means "Dark Overlord Fire".
+
+As soon as he is summoned, he will fly over the Dwemer fortress the orb hangs over, using his only [[Skyrim:Dragon Shouts|shout]], [[Skyrim:Fire Breath|Fire Breath]] (but not pointed to any enemy). He will then land outside of the fortress and will remain on the ground for the rest of the fight.
+{{NewLeft}}
+
+==Notes==
+* Vulthuryol cannot be tamed with [[Skyrim:Bend Will|Bend Will]]{{DB}} because Blackreach is not listed as a suitable worldspace for taming dragons. Even if tame, his scripting prevents him from flying because he would not properly collide with the world.
+* Because of his fixed level and health, he can be dangerous for low-level players.
+* Vulthuryol can also be summoned by [[Skyrim:NPCs|NPCs]] that can use shouts. You can [[Skyrim:Reanimate|reanimate]] one and then antagonize them so they will use a shout on the large orb.
+* If the quest [[Skyrim:Dragon_Rising|Dragon Rising]] is not completed in your journal, killing Vulthuryol before [[Skyrim:Mirmulnir|Mirmulnir]] will trigger the next stage of Dragon Rising, and random dragon encounters. 
+* If Vulthuryol doesn't appear, try hitting the orb from other angles: If you're standing on the ground and looking up at it, the three word version of Unrelenting Force is needed to summon him, but if you're up above the orb on the winding platforms, the one word version will summon him. You'll hear it when the shout hits it properly; a gong-like sound plays and then a short interval before the dragon appears.
+{{Skyrim Dragons}}

@@ -1,0 +1,66 @@
+{{Online NPC Summary
+|image=ON-npc-Legendary Companion.jpg
+|imgdesc=A Legendary Companion
+|loc=[[ON:Honrich Tower|Honrich Tower]]
+|race=Nord
+|gender=Female
+|health={{ESO Health|a}}
+|faction={{Faction|Companions (faction)}}
+|generic=1
+|follower=[[ON:Shattered Hopes|Shattered Hopes]]
+|condition=Spirit
+|reaction=Friendly
+}}
+'''Legendary Companions''' are the spirits of ancient [[ON:Nord|Nord]] [[ON:Companions (faction)|Companions]] that [[ON:Valdur|Valdur]] can allow you to take with you throughout [[ON:Honrich Tower|Honrich Tower]]. This Legendary Companion is a warrior who stood with the crew of the {{Lore Link|Kaal Kaaz}} in their final battle.
+
+Notably, these followers will continue to accompany players far from the quest location, meaning you can even encounter them on the streets of [[ON:Riften|Riften]].
+{{NewLine}}
+
+{{Online NPC Summary
+|image=ON-npc-Legendary Companion 02.jpg
+|imgdesc=A Legendary Companion
+|loc=[[ON:Honrich Tower|Honrich Tower]]
+|race=Nord
+|gender=Male
+|health={{ESO Health|a}}
+|faction={{Faction|Companions (faction)}}
+|generic=1
+|follower=[[ON:Shattered Hopes|Shattered Hopes]]
+|condition=Spirit
+|reaction=Friendly
+}}This '''Legendary Companion''' is a mage who stood against the might of [[Online:Red Mountain|Red Mountain]].
+{{NewLine}}
+
+{{Online NPC Summary
+|image=ON-npc-Legendary Companion 03.jpg
+|imgdesc=A Legendary Companion
+|loc=[[ON:Honrich Tower|Honrich Tower]]
+|race=Nord
+|gender=Female
+|health={{ESO Health|a}}
+|faction={{Faction|Companions (faction)}}
+|generic=1
+|follower=[[ON:Shattered Hopes|Shattered Hopes]]
+|condition=Spirit
+|reaction=Friendly
+}}This '''Legendary Companion''' is a healer who tended the crew of the {{Lore Link|Krilot Lok}}. She met her demise long ago facing the [[ON:Argonian|Argonians]] of [[ON:Black Marsh|Black Marsh]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Shattered Hopes}}
+
+==Quest-Related Events==
+As you close the portals, they'll comment:
+:'''Legendary Companion:''' ''"I can feel the chill touch of [[Online:Coldharbour|Coldharbour]] draining away. Well done."''
+
+:'''Legendary Companion:''' ''"Their focus wanes. Keep going."''
+
+:'''Legendary Companion:''' ''"Another portal closed."''
+<!--Instructions: Add any miscellaneous notes about the NPC here, with a bullet for each note.--><!--
+==Notes==
+* Add note here
+--><!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

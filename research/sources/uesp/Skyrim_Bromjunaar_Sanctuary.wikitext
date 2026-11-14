@@ -1,0 +1,38 @@
+{{Marker Icon|SR-mapicon-Nordic Ruin.png}}{{Place Summary
+|type=Nordic Ruin
+|zones=1
+|treasure=[[Skyrim:Konahrik|Konahrik]]<br>[[Skyrim:Wooden Mask|Wooden Mask]]
+|locationcode=LabyrinthianPriestSanctuary
+|region=Hjaalmarch
+|mapname=none
+|image=SR-place-Bromjunaar Sanctuary.jpg
+|imgdesc=Bromjunaar Sanctuary
+|description=A hidden location reached by equipping the [[Skyrim:Wooden Mask|wooden mask]] while inside a building in [[Skyrim:Labyrinthian|Labyrinthian]].
+}}
+{{NewLeft}}
+==Walkthrough==
+[[File:SR-interior-Bromjunaar Sanctuary 02.jpg|left|thumb|Ruined dragon priest mask holders]][[File:SR-interior-Bromjunaar Sanctuary.jpg|thumb|right|All nine dragon priest masks including the final one, [[Skyrim:Konahrik|Konahrik]]]]
+While scouring Labyrinthian, you might find a skeleton, some [[Skyrim:Hired Thug's Missive|notes]], and a wooden mask in one of the snowbound buildings in the area. The notes reveal that equipping the wooden mask while inside the central room of the building will transport you back in time, before the destruction and subsequent burial of the structure.
+
+Bromjunaar Sanctuary is an alternate version of the room with no conventional exit, representing its state in the distant past. It contains several empty [[Skyrim:Chest|chests]], [[Skyrim:Urn|urns]], and sets of shelves, as well as eight [[Skyrim:Dragon Priest|dragon priest]] busts upon which all eight [[Skyrim:Dragon Priest Mask|dragon priest masks]] found in the base game can be placed. The eight masks needed are: [[Skyrim:Hevnoraak (item)|Hevnoraak]], [[Skyrim:Krosis (item)|Krosis]], [[Skyrim:Morokei (item)|Morokei]], [[Skyrim:Nahkriin (item)|Nahkriin]], [[Skyrim:Otar|Otar]], [[Skyrim:Rahgot (item)|Rahgot]], [[Skyrim:Vokun (item)|Vokun]], and [[Skyrim:Volsung (item)|Volsung]]. Placing all eight masks on the statues at the same time will unlock [[Skyrim:Konahrik|Konahrik]], the powerful ninth mask. The other masks can be retrieved after being placed, but any improvements made to them through [[Skyrim:Smithing|smithing]] will have been removed once they were placed on the busts.
+
+To leave the sanctuary, simply unequip the wooden mask.
+
+{{NewLeft}}
+==Notes==
+* Equipping the wooden mask outside the central room of the building and then entering the room will not transport you to the sanctuary; you must equip the mask while inside the room.
+* If the wooden mask is dropped while in the sanctuary, it will be restored to your inventory when you return to Labyrinthian.
+* Items placed in the sanctuary don't reset, nor do most of the containers. The two urns by the static door, however, are not safe for storage.
+* If any of the other masks from the base game are sold to a merchant, it will become impossible to obtain Konahrik. However, PC players can use [[Skyrim:Console|console]] commands to obtain the mask.
+* [[Skyrim:Nahkriin (item)|Nahkriin]] can only be obtained when in [[Skyrim:Skuldafn Temple|Skuldafn]] as part of the main quest. If you fail to retrieve it at that time, you will not get a second chance to obtain it. However, PC players can use console commands to acquire Nahkriin, and thus, Konahrik, while all players can use the [[Skyrim:Glitches#Dead Loading|"dead loading" glitch]] to load/warp back to Skuldafn.
+* [[Skyrim:Morokei (item)|Morokei]] can only be obtained from a sealed area of Labyrinthian. Without glitches, it is not possible to unseal the area containing Morokei without joining the College of Winterhold and completing much of its questline. Normally it is obtained during the College of Winterhold quest [[Skyrim:The Staff of Magnus|The Staff of Magnus]], but it is possible to return later to Labyrinthian if the mask was left behind during the quest.
+* The sanctuary was originally intended to be a player home, but due to time restraints, this was not implemented by the developers. However, at least one of the game's designers hoped modders would add this feature.{{ref|group=UOL|name=JoelBurgess|1=[https://youtu.be/Pc42aYwcNDE?t=583 QuakeCon 2012 Panel - Talking Shop (09:46)]}}
+* Bromjunaar means either "Light of the Northern Servants" or "North Kingdom" in the [[Lore:Dragon Language|dragon language]].
+* The books ''[[Skyrim:Holdings of Jarl Gjalund|Holdings of Jarl Gjalund]]'' and ''[[Skyrim:A Minor Maze|A Minor Maze]]'' refer to Bromjunaar as an important settlement in the past.
+
+==Bugs==
+{{Bug|It is possible to get a horse into the room from which the sanctuary can be accessed, but equipping the wooden mask while on horseback causes the game to crash.|USKP|1.2}}
+
+==References==	
+<references/><references/>{{UOL}}
+<references group=UOL/>

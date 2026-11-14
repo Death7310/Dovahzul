@@ -1,0 +1,27 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[Skyrim:White Ridge Barrow|White Ridge Barrow]]
+|refid=xx02A8CE
+|baseid=xx0248E1
+|image=SR-creature-Dukaan.jpg
+|imgdesc=Dukaan attacking
+|soul=Grand
+|faction={{Faction|allied apocrypha creatures}}; {{Faction|Dragon Priest Faction|ns_base=Skyrim}}
+|level=60
+|perks=[[Skyrim:Magic Resistance|Magic Resistance]], [[Skyrim:Augmented Frost|Augmented Frost]], [[Skyrim:Atromancy|Atromancy]], [[Skyrim:Regeneration|Regeneration]], [[Skyrim:Respite|Respite]], [[Skyrim:Ward Absorb|Ward Absorb]], [[Skyrim:Recovery|Recovery]], [[Skyrim:Stability|Stability]], [[Skyrim:Mage Armor|Mage Armor]], [[Skyrim:Twin Souls|Twin Souls]]
+|class=Dragon Priest
+|drops=[[Skyrim:Bone Meal|Bone Meal]], [[Skyrim:Gold|Gold]]
+|health=2000
+|magicka=595
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Dukaan''' is a [[Skyrim:Dragon Priest|dragon priest]] entombed within [[Skyrim:White Ridge Sanctum|White Ridge Sanctum]] in [[Skyrim:Solstheim|Solstheim]]. He carries an [[Skyrim:Dukaan (item)|eponymous mask]].
+
+He is a frost-based dragon priest, able to cast [[Skyrim:Frost Cloak|Frost Cloak]] and a unique spell called [[Skyrim:Frost Stream|Frost Stream]], which is similar to the [[Skyrim:Frost Breath|Frost Breath]] shout. He also uses the spells [[Skyrim:Ebonyflesh|Ebonyflesh]], [[Skyrim:Greater Ward|Greater Ward]], and a unique version of the new spell [[Skyrim:Conjure Seeker|Conjure Seeker]], which specifically summons a [[Skyrim:High Seeker|high seeker]].
+
+{{NewLeft}}
+== Notes ==
+* Dukaan means "dishonor" in the [[Lore:Dragon Language|dragon language]].
+{{Skyrim Dragon Priests}}

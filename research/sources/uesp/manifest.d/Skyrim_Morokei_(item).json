@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Morokei (item)",
+  "revid": 3463441,
+  "timestamp": "2025-12-02T13:42:01Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3463441&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "bba0869288fe892ba303b6082fdab1f8c260b96f1e3bc0f255fdad2a4e4d6573",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 102414,
+  "ns": 134,
+  "parentid": 3366483,
+  "requested_title": "Skyrim:Morokei (item)",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Morokei_(item)",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3463441",
+  "sha1": "6e00731831594749f22956ee50a8ccb1a9d1637b",
+  "sha1_matches_mediawiki": true,
+  "bytes": 2511,
+  "chars": 2511,
+  "lines": 32,
+  "saved_as": "research/sources/uesp/Skyrim_Morokei_(item).wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Otar+the+Mad|Skyrim:Rahgot+%28creature%29|Skyrim:Vahlok+the+Jailor|Skyrim:Vokun+%28creature%29|Skyrim:Volsung+%28creature%29|Skyrim:Zahkriisos+%28creature%29|Skyrim:Hevnoraak+%28item%29|Skyrim:Krosis+%28item%29|Skyrim:Morokei+%28item%29|Skyrim:Nahkriin+%28item%29|Skyrim:Vokun+%28item%29|Skyrim:Volsung+%28item%29",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:39Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Template:WordWallExt",
+  "revid": 2934343,
+  "timestamp": "2024-02-22T00:36:07Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=2934343&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "0c84b24a64c2470933f632f0a3a190cc30c9b69daddad435e69b23c9c3a6ebd5",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 118781,
+  "ns": 10,
+  "parentid": 2646422,
+  "requested_title": "Template:WordWallExt",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Template:WordWallExt",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=2934343",
+  "sha1": "b33fdb25f5e17dccc8c777ceae3347f56002e2e1",
+  "sha1_matches_mediawiki": true,
+  "bytes": 671,
+  "chars": 671,
+  "lines": 14,
+  "saved_as": "research/sources/uesp/Template_WordWallExt.wikitext",
+  "groups": [
+    "templates"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Whirlwind+Sprint|Skyrim:Kinect+Commands|Skyrim:The+Words+of+Power|General:Skyrim%E2%80%99s+Dragon+Shouts|General:Fonts|Template:WordWallExt|Skyrim:Songs+of+Skyrim|Skyrim:Songs+of+Skyrim:+Revised|Lore:Songs+of+Skyrim:+Revised|Lore:Songs+of+Skyrim|Lore:Songs|Skyrim:Dragon+Language:+Myth+no+More",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:20Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

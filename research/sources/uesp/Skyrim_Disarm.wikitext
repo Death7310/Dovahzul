@@ -1,0 +1,61 @@
+{{Shout Summary
+|id=00070981
+|icon=SR-icon-shout-Force.png
+|quote=Shout defies steel, as you rip the weapon from an opponent's grasp.
+|word1=ZUN
+|wordid1=0005fb95
+|cooldown1=30
+|info1=Disarms enemies up to level 12
+|location1=[[Skyrim:Eldersblood Peak|Eldersblood Peak]]
+|word2=HaaL
+|wordid2=0005fb96
+|cooldown2=35
+|info2=Disarms enemies up to level 20
+|location2=[[Skyrim:Silverdrift Lair|Silverdrift Lair]]
+|word3=ViiK
+|wordid3=0005fb97
+|cooldown3=40
+|info3=Disarms enemies up to level 30
+|location3=[[Skyrim:Snow Veil Sanctum|Snow Veil Sanctum]] (quest locked)
+|transword1=weapon
+|transword2=Hand
+|transword3=defeat
+|spellid1=0008bb27
+|spellid2=0008bb28
+|spellid3=0008bb29
+}}__NOTOC__
+'''Disarm''' is a [[Skyrim:Dragon Shouts|shout]] that pulls the weapon out of an opponent's grasp.
+
+It is one of the more common shouts used by [[Skyrim:Draugr|draugr]], which can be quite an issue if you are wielding a unique weapon, as the weapon can easily be lost when thrown from your hand. All physical weapons are affected by this shout, from battleaxes to daggers, as well as any bows/crossbows. Staves are also affected by Disarm, even though they only can cast spells.
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Speaking With Silence}}
+
+==Possible Uses==
+*Denying enemies their weapons, impairing their ability to inflict damage.
+*Taking an enemy's unique weapon.
+*Taking an enemy's weapon if you have lost yours to this shout.
+
+== Notes ==
+* Bound weapons are not affected.
+* The left-hand weapon of a dual-wielding character will be placed in the inventory instead of being dropped.
+* It is not necessary to finish [[Skyrim:Speaking With Silence|Speaking With Silence]] to learn all three words, just start it.
+* Draugr stop using this shout after you reach level 31, as you are immune to it. However, draugr will sometimes use the shout on a lower-level follower.
+* It's possible to sheathe your weapon just as the Draugr begin to use this shout (when they stand up straight just before casting a Shout) and thus prevent your weapon from being disarmed. The "disarm sound" will still play when the shout hits you, but has no other effect because your weapon wasn't in your hand at the time of the shout.
+* This shout can also cost you the unique [[Skyrim:Steel_Battleaxe_of_Fiery_Souls|Steel Battleaxe of Fiery Souls]] in [[Skyrim:Ironbind_Barrow|Ironbind Barrow]], because [[Skyrim:Warlord_Gathrik|Warlord Gathrik]] will use this shout on [[Skyrim:Salma|Salma]], and when she is disarmed, she may grab the weapon from the back of his throne, and if you do not collect it from her before leaving the barrow, she will despawn with it.
+{{NewLine}}
+
+== Word Wall Translation ==
+{{WordWall
+|wordwall1=NONVUL BRON DahMaaN DaaR<br>ROT DO FIN FODiiZ BORMah<br>PRUZaaN {{FC|blue|ZUN}} KO KeiZaaL LOS<br>HahDRIM DO DWiiN-SIL KENDOV
+|translation1=Noble Nords remember these<br>words of the hoar father:<br>(the) best {{FC|blue|weapon}} of Skyrim is<br>(the) mind of (a) steel-souled warrior.
+|wordwall2=BROTHI WahLaaN QETHSEGOL KULii<br>VahRUKT ODRAV KeyN-{{FC|blue|HaaL}}<br>WO DRUN POGaaS ZIN Wah<br>BROD SahQO-STRUNMah
+|translation2=Brothi raised (this) stone in memory of his son<br>Odrav Anvil-{{FC|blue|Hand}}<br>(who) brought much honor to<br>Clan Red-Mountain
+|wordwall3=QETHSEGOL VahRUKIV<br>ahZID {{FC|blue|ViiK}} DO BRiiNahMaaR<br>DO SOT PeyT NaaKO Wah FIN<br>LaaT NaaL UFiiK DO KORVAG KOL
+|translation3=(This) stone commemorates<br>(the) bitter {{FC|blue|defeat}} of (the) Sisterhood<br>of the White Rose, eaten to<br>(the) last by the trolls of Korvag Crag.}}
+
+== Bugs ==
+{{Bug|Female Orcs use other different words when using the shout.|vn=1}}
+
+{{Skyrim Shouts}}

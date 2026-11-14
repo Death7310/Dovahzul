@@ -1,0 +1,61 @@
+{{Trail|Dragon Shouts}}{{Mod Header|Dragonborn}}{{Shout Summary
+|id=xx01df92
+|icon=SR-icon-shout-Dragon Aspect.png
+|quote=Once a day, take on the mighty aspect of a dragon, delivering colossal blows, with an armored hide, and more powerful shouts.
+|word1=MUL
+|wordid1=xx01df93
+|cooldown1=5
+|info1=+25 Armor rating, and power attacks do 25% more damage
+|location1=[[Skyrim:Apocrypha (Waking Dreams)|Apocrypha (Waking Dreams)]]
+|word2=Qah
+|wordid2=xx01df94
+|cooldown2=5
+|info2=+100 Armor rating (total), [[Skyrim:Ancient Dragonborn|Ancient Dragonborn]] summoned if health below 50%, +25% fire and frost resistance
+|location2=[[Skyrim:Raven Rock Mine|Raven Rock Mine]]
+|word3=DiiV
+|wordid3=xx01df95
+|cooldown3=5
+|info3=[[Skyrim:Fortify Shouts|Shout recharge time reduced]] by 20%
+|location3=[[Skyrim:Temple of Miraak|Temple of Miraak]]
+|mod=DB
+|transword1=Strength
+|transword2=Armor
+|transword3=Wyrm
+|spellid1=xx01df91
+|spellid2=xx01df96
+|spellid3=xx01df99
+}} __NOTOC__[[File:SR-spell-Dragon Aspect.jpg|thumb|left|Dragon Aspect]]
+'''Dragon Aspect''' is a [[Skyrim:Dragon Shouts|shout]] that improves your power attack damage, resistance to damage, and shout recharge time. When used, dragon-like traits will be physically applied to the one shouting in the form of a spectral armor. The first word makes this effect appear on only the arms, but is extended to the chest with the second word, and the head with the third word. All effects have a duration of 300 seconds. The effects will still remain active if you transform into a [[Skyrim:Vampire Lord|Vampire Lord]] or [[Skyrim:Werewolf|werewolf]], which can give both forms numerous, and otherwise unobtainable, benefits. If you have at least two words of the shout, an [[Skyrim:Ancient Dragonborn|Ancient Dragonborn]] is summoned to fight alongside you when your health drops below 50%. This shout is unique in that it can only be used once per day. 
+{{NewLeft}}
+==Achievements==
+One [[Skyrim:Achievements#Dragonborn|achievement]] is unlocked when you learn all three words of this shout:
+* {{achievement|Dragon Aspect (achievement)|descr=no}}
+
+{{NewLine}}[[File:SR-npc-Ancient Dragonborn.jpg|thumb|right|A summoned Ancient Dragonborn]]
+==Word Wall Translations==
+{{WordWall
+|wordwall1=Pah WERID MOROKei MiraaK<br>ZOK SULeyKaaR DO Pah<br>SONaaK WEN {{FC|blue|MUL}} BOLaaV<br>NaaL FahLUaaN DO JUL
+|translation1=All praise glorious [[Skyrim:Miraak (person)|Miraak]]<br>Most power(ful) servant of all<br>Dragon Priests, whose {{FC|blue|strength}} (was) granted<br>by (the) gardener of mankind
+|wordwall2=HET ONT KRiiST MiraaK WO ahTiiR<br>OK SahVOT OL {{FC|blue|Qah}} SPaaN NaaL<br>DeyRA Fah OK UNSLaaD MIDUN
+|translation2=Here once stood Miraak who wore<br>His faith as {{FC|blue|armor}}, shield(ed) by<br>Daedra for his eternal loyalty
+|wordwall3=QETHSEGOL VahRUKIV LOT MiraaK<br>SONaaK DO LOT ONIKaaN aaR<br>DO FaaL {{FC|blue|DiiV}} ahRK HOKORON DO JUL
+|translation3=(This) stone commemorates great Miraak:<br>Dragon Priest of great wisdom, servant<br>of the {{FC|blue|wyrm}}, and enemy of mankind
+}}
+
+==Notes==
+* The first word also increases the damage of unarmed power attacks.
+* Not mentioned in the description for the third tier shout is that several shouts have their magnitudes and/or durations amplified. In general, shouts with point values (i.e. [[Skyrim:Frost Breath|Frost Breath]]) are enhanced by 25%, while shouts with duration are enhanced by 50%. The one exception to this rule is [[Skyrim:Ice Form|Ice Form]], which is increased in duration by 25%.
+** Shouts which have neither magnitude nor duration affected: 
+***Shouts introduced with the Dawnguard or Dragonborn DLC ([[Skyrim:Battle Fury|Battle Fury]], [[Skyrim:Bend Will|Bend Will]], [[Skyrim:Cyclone|Cyclone]], [[Skyrim:Drain Vitality|Drain Vitality]], [[Skyrim:Soul Tear|Soul Tear]], and [[Skyrim:Summon Durnehviir|Summon Durnehviir]])
+***[[Skyrim:Call Dragon|Call Dragon]], [[Skyrim:Clear Skies|Clear Skies]], [[Skyrim:Dragonrend|Dragonrend]], [[Skyrim:Storm Call|Storm Call]], [[Skyrim:Throw Voice|Throw Voice]], [[Skyrim:Unrelenting Force|Unrelenting Force]], and [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]]
+* It is impossible to do enchanting when Dragon Aspect is active. If you attempt to enchant something, you receive the message, "Insufficient charge for enchantment".
+*If you use this shout against [[Skyrim:Miraak (person)|Miraak]] at the summit of [[Skyrim:Apocrypha|Apocrypha]], he might say: "So, you use my own Shout against me. You learn quickly."
+*If the Ancient Dragonborn appears, it will not replace any summons meaning it can be an additional third summon.
+
+==Bugs==
+{{Bug|The word walls in [[Skyrim:Apocrypha|Apocrypha]] and [[Skyrim:Raven Rock Mine|Raven Rock Mine]] may show two inscriptions on top of each other.|confirmed=1}}
+**{{pc22}} Turning off collision with the console command <code>tcl</code> while approaching the word walls may solve this.
+{{Bug|Sometimes if you are in a hold and you fall below 50% health with this shout still active, it will cause the Ancient Dragonborn to attack everyone in the hold.|confirmed=1}}
+{{Bug|In rare cases, activating Dragon Aspect then immediately activating the Vampire Lord power can make the visual effect of Dragon Aspect permanent.|confirmed=1}}
+{{Bug|In rare cases, activating Dragon Aspect can cause the sound effect to loop after the ability's timer runs out. To fix this reload the save prior to the effect ending.}}
+{{Skyrim Shouts}}

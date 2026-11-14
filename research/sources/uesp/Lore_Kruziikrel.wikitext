@@ -1,0 +1,22 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Apocrypha
+|appears=[[SR:Kruziikrel|Skyrim]]
+|image=SR-creature-Kruziikrel.jpg
+|death3=4E 201
+|death3Loc=Apocrypha
+}}[[File:SR-quest-At the Summit of Apocrypha 03.jpg|thumb|left|Miraak absorbing a dragon soul]]</noinclude>
+[[Lore:Kruziikrel|Kruziikrel]] was a [[Lore:Dragon|dragon]] whose name meant "Dominate-Enlightenment" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=PAR|[[Skyrim:Paarthurnax (dragon)|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=DLMNM|{{Cite Book|Dragon Language: Myth no More}}}}{{ref|name=SOS|{{Cite Book|ns_base=Skyrim|Songs of Skyrim}}}}
+
+Little is known about Kruziikrel's past. At a certain point in history, he swore allegiance to [[Lore:Miraak|Miraak]], though whether he did so willingly or was compelled through Miraak's mastery of [[Lore:Thu'um|Thu'um]] is unknown.{{Ref|name=ASA}}
+
+In {{Year|4E 201}}, the [[Lore:Hero|Last Dragonborn]] traveled to [[Lore:Apocrypha|Apocrypha]] to challenge Miraak. Through the use of the [[Lore:Thu'um|Thu'um]], they swayed a dragon [[Lore:Sahrotaar|Sahrotaar]] to betray Miraak. He helped them to reach the First Dragonborn on the summit of Apocrypha where the Last Dragonborn confronted Miraak. It was there where he called the mighty dragons [[Lore:Relonikiv|Relonikiv]] and Kruziikrel to aid him in the battle. During the fight Miraak absorbed Kruziikrel's soul to regain vitality, killing him in the process.{{Ref|name=ASA|Events of [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}{{ref|name=Miraak|[[Skyrim:Miraak (person)|Miraak]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}{{ref|name=PRIMA|[[Books:The Elder Scrolls V: Skyrim: Prima Official Game Guide#Legendary Edition|The Elder Scrolls V: Skyrim Legendary Prima Official Game Guide]]}}<noinclude>{{rp|604-605}}</noinclude> Having had his soul devoured by another dovah, Kruziikrel was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+{{NewLeft}} 
+
+==See Also==
+*{{GSI|Skyrim:Relonikiv}}
+
+==References==
+<references/>

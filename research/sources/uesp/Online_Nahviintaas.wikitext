@@ -1,0 +1,106 @@
+{{Mod Header|Elsweyr}}{{Online NPC Summary
+|image=ON-creature-Nahviintaas.jpg
+|imgdesc=Nahviintaas
+|race=Dragon
+|creature=1
+|loc=[[ON:Sunspire|Sunspire]], Courtyard, Sunspire Summit
+|health={{ESO Veteran|normal=27,266,052|veteran=93,144,776}}<br />{{ESO Veteran|veteran=116,430,968}} (Hard Mode)
+|difficulty=3
+|reaction=Hostile
+|faction=
+}}{{TOCright}}
+'''Nahviintaas''' is a golden [[ON:Dragon|dragon]] who has taken over the temple of the [[ON:Sunspire|Sunspire]] alongside his dragon followers by posing as the Dragon God [[Lore:Alkosh|Alkosh]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Return of Alkosh}}
+
+==Skills and Abilities==
+When Nahviintaas is engaged in combat, a ring of roaring flames surrounds the lunar platform where you are supposed to fight the false-god.
+;Summon Allies: At the start of the fight, Nahviintaas remains in the air and cannot be targeted. A group consisting of [[ON:Alkosh's Fate|Alkosh's Fates]], [[ON:Alkosh's Will|Alkosh's Wills]], [[ON:Fury of Alkosh|Furies of Alkosh]], and [[ON:Ruin of Alkosh|Ruins of Alkosh]] appear in the arena and must be defeated.
+;Molten Meteor: After the initial wave of adds are defeated, a set of three fire explosion go off in the center of the arena, increasing in size after each one, with the last being so large and powerful that you must hide behind the statues in the arena to avoid the damage. [[ON:Flame Atronach|Flame Atronachs]] start appearing at the same time as this ability.
+
+After all of the above has been performed, Nahviintaas finally lands into the arena where he becomes targetable.
+;Bite: A basic melee attack.
+;Fireball: A basic ranged attack.
+;Wing Thrash: Standing near Nahviintaas' wings can lead to him swatting you with them, dealing high damage and knocking you away, possibly off of the arena.
+;Fire Breath: Nahviintaas breathes fire in front of him, indicated by a conical [[ON:AoE|AoE]].
+;Flame Sweep: A wider version of Flame Breath, which is slower but covers the entire arena, and if this version hits you, you are stunned.
+;Head Swipe: Nahviintaas winds his head up before swinging it down in an arc motion, dealing damage and knocking you away.
+;Timeshift: At 90%/70%/50% health, three portals appear in the arena floor and three players must use them to be teleported in a separate reality where they must fight and defeat an [[ON:Eternal Servant|Eternal Servant]] within 90 seconds. Yellow magical swirls will appear sometimes in the arena and stepping on them grants additional time to defeat the enemy. If the Eternal Servant isn't defeated within the time limit, it will be transported into the main arena in an immune state and will wipe the party. While the three players are fighting in the other reality, the same kind of adds that appeared initially will attack the rest of the party.
+;Fly Off: At 80%/60%/40% health, Naahviintaas flies into the air and ceases to be targetable again, and the fight loops back to how it was initially, with the add waves and Molten Meteor.
+;Meteor Shower: Once Nahviintaas reaches 30% health, he starts using this new ability where meteors will fall on every single member of the party, and they must split up to avoid stacking meteors over each other. After the meteors have landed into the ground, they linger for some time, with a pulsing field of fire around them. In hard mode, the meteors last long enough that another wave of meteors can arrive while older ones are still present, which can start limiting available space in the arena.
+;Summon Atronachs: Flame Atronachs will continuously appear into the arena to assist Nahviintaas.
+;Flame Aura: A circular aura is present underneath Nahviintaas for the whole duration of the fight while he is grounded, inflicting constant damage if standing too close.
+
+==Quest-Related Events==
+[[File:ON-quest-The Return of Alkosh.jpg|Nahviintaas in the courtyard|thumb|right]]
+When you enter Sunspire's courtyard, Nahviintaas will greet you personally.
+:'''Navhiintaas:''' ''"More have come to serve. Good. Kneel before your god and I will give you purpose."''
+:'''Mojha:''' ''"It's a trick! He'll make slaves of you. Resist while you can!"''
+:'''Navhiintaas:''' ''"Faithless. Put them in their place, then put them to work."''
+:'''Alkosh's Supplicant:''' ''"Don't resist! Alkosh will punish you!"''
+:'''Mojha:''' ''"Fool! This is our chance for freedom!"''
+
+After this altercation, Nahviintaas swoops up, and the [[Online:Sunspire Mender|Sunspire Mender]]s, [[Online:Sunspire Archer|Sunspire Archer]]s, and the two [[Online:Alkosh's Roar|Alkosh's Roar]]s in the courtyard become hostile.
+
+Once you have slain [[ON:Lokkestiiz|Lokkestiiz]] and  [[ON:Yolnahkriin|Yolnahkriin]], and return to the temple grounds a furious [[Online:Moon-Bishop Azin-jo|Moon-Bishop Azin-jo]] will ask Alkosh to drive you out for being blasphemers.
+:'''Moon-Bishop Azin-jo''': ''"Glorious Alkosh! Your faithful are beset by these heretics! This one begs you to cast the wicked from this mountain once again."''
+:'''Nahviintaas''': ''"You had one task, cat: gather faithful to serve me. Instead you have brought me troubles."''
+:'''Moon-Bishop Azin-jo''': ''"Forgive Azin-jo! Spare your faithful from these heretics and this one will spread word of Alkosh's infinite mercy to every corner of the world!"''
+:'''Nahviintaas''': ''"Mercy? I have no use for mercy any longer. Kill them all."''
+
+After you fight off his deluded worshippers, a shaken Azin-jo will head into Nahviintaas' roost to plead with him a final time.
+:'''Moon-Bishop Azin-jo''': ''"Great Alkosh! Do not forsake us! I beg—"''
+:'''Nahviintaas''': ''"Daal Tiid Zaam!"''
+:'''Moon-Bishop Azin-jo''': ''"You are tearing the wound wider! Why?"''
+:'''Nahviintaas''': ''"To restore the natural order. To reclaim all that was and will be. To correct the mortal mistake."''
+:'''Moon-Bishop Azin-jo''': ''"You—you are no Divine!"''
+:'''Nahviintaas''': ''"I will remind you: Dragons are gods in the flesh."''
+
+As your group explores the rest of the trial, Nahviintaas can be seen high above at the Sunspire Summit, attempting to tear the [[Lore:Time Wound|Time Wound]] open.
+
+[[File:ON-creature-Nahviintaas_04.jpg|thumb|right|Nahviintaas, grounded]]
+When you arrive on the platform, Nahviintaas will be manipulating the Time Wound. He will then proceed to taunt you.
+;Idle Dialogue:
+:'''Nahviintaas''': ''"You think yourselves Dragon slayers. You'll soon learn that not all Dragons are created equal."''
+:'''Nahviintaas''': ''"If you will not give your lives to me, I will take them."''
+:'''Nahviintaas''': ''"Prideful whelps. You will be an example to others."''
+:'''Nahviintaas''': ''"You would make worthy slaves. Accept me as your god and I will overlook your rebelliousness."''
+:'''Nahviintaas''': ''"I would prefer your adoration, but I will accept your fear and awe."''
+{{huh|more}}
+
+;Summoning his Faithful:
+:'''Nahviintaas''': ''"Destroy the heretics and become my true faithful."''
+:'''Nahviintaas''': ''"Slaves! Your god grants you a chance to redeem your past failings."''
+:'''Nahviintaas''': ''"Make a future for yourselves. End these blasphemers."''
+:'''Nahviintaas''': ''"Return, faithful. Earn your right to live."''
+:'''Nahviintaas''': ''"Fear no death, for you already serve me eternally."''
+:'''Nahviintaas''': ''"Serve me now, as you served me then."''
+:'''Nahviintaas''': ''"These slaves are as limitless as time itself."''
+{{huh|more}}
+
+;Combat Dialogue:
+:'''Nahviintaas''': ''"You look as insignificant from down here as you did up there."''
+:'''Nahviintaas''': ''"Grovel before me!"''
+:'''Nahviintaas''': ''"Suffer my wrath firsthand."''
+{{huh|more}}
+
+;Group wipe:
+:'''Nahviintaas:''' ''"Mortals. How did you expect any other outcome?"''
+:'''Nahviintaas:''' ''"Now there will truly be a Dragon god of time."''
+:'''Nahviintaas:''' ''"With a few words I can relish your demise again and again."''
+:'''Nahviintaas:''' ''"The faithful will celebrate your failure for thousands of years to come."''
+:'''Nahviintaas:''' ''"This is the price of sacrilege."''
+
+==Notes==
+* His name translates to "Fury-Shining" in the [[Lore:Dragon Language|Dragon Language]].
+
+==Gallery==
+<gallery>
+File:ON-creature-Nahviintaas (Time Wound) 02.jpg|Nahviintaas tearing at the Time Wound
+File:ON-creature-Nahviintaas (flame breath).jpg|Nahviintaas breathing fire during flight
+File:ON-creature-Nahviintaas 03.jpg|Nahviintaas breathing a rain of fire
+File:ON-creature-Nahviintaas 05.jpg|Nahviintaas
+File:ON-quest-The Return of Alkosh 02.jpg|The final phase of the fight begins
+</gallery>

@@ -1,0 +1,259 @@
+{{Blades Quest Header
+|type=Main
+|q=e
+|loc=Cave
+|image=BL-quest-Facing the Dragon.jpg
+|imgdesc=Facing the Dragon
+|landmark=Dragon
+|description=Convince a dragon to give you information regarding the Sorcerer-King.
+|Giver=[[BL:Saashi|Saashi]]
+|Prev=[[BL:The Haunted Forest|The Haunted Forest]]
+|Next=[[Blades:The Treasure Hunter|The Treasure Hunter]]
+|Reward=[[Blades:Chests#Elder_Chest|{{Blades Quality|e|Elder Chest}}]], [[Blades:King's Sepulcher|King's Sepulcher]]
+|SuggLevel=19
+|XP=440
+|ID=MQ17
+|Journal=The Loremaster believes an ancient dragon could hold the key to defeating the Sorcerer-King... if I can convince him to tell us.
+|Secrets=1
+}}
+==Objectives==
+{{huh}}
+
+==Quick Walkthrough==
+#Ask the [[Blades:Shulkunaak|dragon]] about the Sorcerer-King.
+
+==Detailed Walkthrough==
+This quest is started after The Haunted Forest:
+
+====Saashi====
+:''Now that you have recovered the Elder Scroll, it is only a matter of time before the Sorcerer-King comes to take it back.''
+::'''It'll take some time before he's ready.'''
+:::''We need to move quickly. This town cannot withstand an undead assault.''
+:::''Saashi once met someone while traveling... They might know how to use the Elder Scroll against the Sorcerer-King.''<small> (see dialogue box below) </small>
+::'''What should we do next?'''
+:::''Saashi once met someone while traveling... They might know how to use the Elder Scroll against the Sorcerer-King.'' <small> (see dialogue box below) </small>
+
+All paths lead to
+:::''Saashi once met someone while traveling... They might know how to use the Elder Scroll against the Sorcerer-King.''
+:::''You might not be too keen on talking to him, though.''
+:::'''Why is that?'''
+:::''Well... he is a dragon. Shulkunaak. This one recognized his name in those runic inscriptions.''
+:::'''You met a dragon?'''
+:::''It is a long story. But Saashi promises to tell once this is all over.''
+:::''This one believes he can help figure it out. If he does not kill you first, that is.''
+::::'''All right, let's go then.'''
+:::::''Saashi will start packing.'' <small>(starts quest MQ17)</small>
+::::'''I need to think about it.'''
+:::::''This one understands, but... it may be our only hope at this point.''
+
+Should you decline and talk to Saashi again, she will insist again to talk to Shulkunaak:
+:''Shulkunaak helped bind the Sorcerer-King back when he was first defeated.''
+:''This one believes he can help figure it out. If he does not kill you first, that is.''
+::'''All right, let's go then.'''
+:::''Saashi will start packing.'' <small>(starts quest MQ17)</small>
+::'''I need to think about it.'''
+:::''This one understands, but... it may be our only hope at this point.''
+
+If you accept, and talk to Saashi again, she will say the following line:
+:''Saashi still thinks asking the dragon Shulkunaak is our best plan.''
+
+You are ready to continue the quest. Choose Facing the Dragon from the quest map and enter the dungeon.
+
+===Facing the Dragon===
+When you arrive at the cave, you will see Saashi who can be spoken to:
+
+:''The dragon Shulkunaak should be somewhere in this cave complex.''
+:''Just please, be respectful when you meet him. This one would be very sad if he ended up eating you.''
+
+If you speak to her again:
+:''Are you having second thoughts? We could always go back to town...''
+
+
+Head onwards through the cave, until eventually you will have to fight two [[Blades:Cave Spider|cave spiders]]. As you enter the large area with two cave bears, head to the right for the '''secret area''', the lever is on the cave wall and looks like a torch. This will open up the secret area behind a rock which contains healing food and a silver chest. 
+
+Once you have finished with the secret area, continue onwards and you will have to kill a giant cave spider and spider. You will reach a large opening with dragon skeletons strewn about, there are another two cave bears in here to deal with, however there is a chance of there being food in the form of mushrooms in this area. Going forwards, you will have to deal with another giant cave spider, before eventually reaching an opening with Shulkunaak. Speak to Shulkunaak. His dialogue tree is complex and revolves around raising or lowering an internal flag called (GenericQuestNPCFlag). Different options are available given more aggressive or more respectful paths:
+
+====Shulkunaak====
+:''Who dares disturb my peace? Speak, {{hover|intruder|volaan}}. Your life hangs in the balance.''
+::'''I am <Player Name>, and I seek your wisdom.'''
+::''You came here alone? That was very brave, or very stupid.''
+:::'''I'm not afraid of you.'''
+:::''{{hover|bravery|Ahkrin}} - bravery - may impress your peers. All it will earn you here is a quick death.''
+:::'''I trust your good judgement with my life.'''
+:::''Stupidity it is, then. If it is death you seek, I will give it to you.''
+::'''I am <Player Name>, and I don't fear you!'''
+::''Do you think it wise to provoke me, here in my own lair?''
+:::'''I see no other option for a coward like you.'''
+:::''Do not think you can provoke me that easily. But I admire your bravado.''
+:::'''I am told dragons appreciate confidence.'''
+:::''Your {{hover|bravery|ahkrin}} - bravery - has earned my respect. But that will not save your life.''
+
+Both will lead to:
+:''"But first, tell me. Why did you come all the way here to die?"''
+:'''The Sorcerer-king Celemaril has returned.'''
+
+You can choose to continue talking to Shulkunaak to gain the information, or begin a fight for it.
+
+{|cellpadding="10" cellspacing="10" width="100%"
+|-
+! Talk to Shulkunaak
+|-
+|style="border: dotted 1px black;"|
+
+:''So the rumors are true. {{hover|sorrow|Krosis}} {{hover|day|sul}}! I hoped this day would never come. You seek my help, then.''
+:'''You're the only one who can help.'''
+:''Very well. Celemaril must not achieve his goals. The world cannot be destroyed just yet. <small> (option only appears if you took the respectful path) </small>
+:''Know this: the Sorcerer-King is immortal. Simply destroying his physical form will not kill him.''
+:'''So, he cannot be defeated?'''
+:''You need to bind his spirit first. But that will not be easy to accomplish.''
+:'''What do we need?'''
+::''"Have you already found the [[BL:Elder Scroll|Elder Scroll]]?''
+::'''We have.'''
+:''The {{hover|Elder Scroll|Kel}}, the Elder Scroll, can affect all possible futures. you must bind the Sorcerer-King to the one where he fails to escape.<br>You will also need the incantation that was used to bind his spirit in ancient times.<br>Defeat Celemaril in combat. A pure heart must read the incantation while wearing his lost crown.<br>Celemaril's ancient crown is another matter. I do not know where it may now be found.''
+::'''That's it?'''
+::''Yes. That should not be too hard for you, {{hover|warrior|kendov}}.''
+::'''Thank you for your help, great Shulkunaak.'''
+::''Do not thank me yet. Now you must prove yourself worthy to face the Sorcerer-King.''
+::'''It doesn't have to be this way.'''
+::''There is no evading your duty, Blade.''
+::'''Me, a Blade?!'''/'''Is it that obvious?'''
+::''{{hover|I|Zu'u}} {{hover|not|ni}} {{hover|fool|mey}}. I did not survive this long without knowing a Blade when I see one.''  <small> (Saashi will learn the player is a Blade) </small>
+::''Have the Blades forgotten their sworn duty as dragonslayers? I assure you, I have not.''
+:::'''I don't care, this is unfair.'''
+::::''Fairness is irrelevant. Either you are a <man/woman> of honor, and you fight.<br>Or you are not honorable, and I kill you.<br>Now honor your comrades, and fight me! {{hover|Join|Aav}} {{hover|battle|grah}}!''
+:::::'''Very well.'''
+::::::''I knew you were a <man/woman> of honor. {{hover|Join|Aav}} {{hover|battle|grah}}!''
+:::'''Not if I kill you first.'''
+::::''Aav grah! Let us test ourselves against each other, <Player.Name>!''
+
+Once enough damage has been dealt to Shulkunaak the following dialogue will begin:
+
+::''Enough. You have proven your worth.<br>{{hover|Peace|Drem}} {{hover|to|wah}} {{hover|you|hi}}. Go in peace, Blade.''
+::'''You have my gratitude, and that of my town.'''
+::''None of that will matter until you use it to stop Celemaril. {{hover|Fight with courage|Krif voth ahkrin.}}''
+|}
+
+{|cellpadding="10" cellspacing="10" width="100%"
+|-
+! Fight Shulkunaak
+|-
+|style="border: dotted 1px black;"|
+:''So the rumors are true. {{hover|sorrow|Krosis}} {{hover|day|sul}}! I hoped this day would never come. You seek my help, then.''
+:'''Yes, and you'll tell me, or else!'''
+:''You choose death, then. {{hover|As|Ol}} {{hover|you|hi}} {{hover|wish|hind}}. So be it.''
+
+Once enough damage has been dealt to Shulkunaak the following dialogue will begin:
+:''Enough. You have proven your worth.''
+:''I will tell you what you need to know.''
+:''Know this: the Sorcerer-King is immortal. Simply destroying his physical form will not kill him.''
+:'''So, he cannot be defeated?'''
+:''You need to bind his spirit first. But that will not be easy to accomplish.''
+:'''What do we need?'''
+:''Have you already found the Elder Scroll?''
+:'''We have.'''
+:''The {{hover|Elder Scroll|Kel}}, the Elder Scroll, can affect all possible futures. You must bind the Sorcerer-King to the one where he fails to escape.''
+:''You will also need the incantation that was used to bind his spirit in ancient times.''
+:''Defeat Celemaril in combat. A pure heart must then read the incantation while wearing his lost crown.''
+:''Celemaril's ancient crown is another matter. I do not know where it may now be found.''
+:'''That's it?'''
+:''I have told you all I know. Go and prove yourself worthy of my forbearance.''
+|}
+
+Alternatively, had you chosen a passive aggressive path, where you kept being aggressive, but chose to talk to Shulkunaak, he will nonetheless demand you duel him first before imparting information:
+
+{|cellpadding="10" cellspacing="10" width="100%"
+|-
+! Talk to Shulkunaak
+|-
+|style="border: dotted 1px black;"|
+
+:''So the rumors are true. {{hover|sorrow|Krosis}} {{hover|day|sul}}! I hoped this day would never come. You seek my help, then.''
+:'''You're the only one who can help.'''
+:''I will tell you how to defeat him. Then you must prove you are a worthy foe.''
+:''Know this: the Sorcerer-King is immortal. Simply destroying his physical form will not kill him.''
+:'''So, he cannot be defeated?'''
+:''You need to bind his spirit first. But that will not be easy to accomplish.''
+:'''What do we need?'''
+::''I will tell you, if you can prove that you stand a chance against the might of the Sorcerer-King.''
+
+Once enough damage has been dealt to Shulkunaak the following dialogue will begin:
+:''You have defeated me. I am {{hover|honor-bound|gronsezin}} - honor-bound - to tell you what you need to know.''
+:'''Tell me what we need to defeat the Sorcerer-king.'''
+:''Have you already found the Elder Scroll?''
+:'''We have.'''
+:''The {{hover|Elder Scroll|Kel}}, the Elder Scroll, can affect all possible futures. You must bind the Sorcerer-King to the one where he fails to escape.''
+:''You will also need the incantation that was used to bind his spirit in ancient times.''
+:''Defeat Celemaril in combat. A pure heart must then read the incantation while wearing his lost crown.''
+:''Celemaril's ancient crown is another matter. I do not know where it may now be found.''
+:'''That's it?'''
+:''I have told you all I know. Go and prove yourself worthy of my forbearance.''
+|}
+
+Shulkunaak's bite deals both [[BL:Cleaving Damage|cleaving damage]] and [[BL:Shock Damage|shock damage]]. He knows one spell: Delayed Lightning Bolt.
+
+After you defeat Shulkunaak and finish his dialogue, he will go back to sleep. Talk to him again and he will say:
+:''I have told you everything I know. The rest is up to you.''
+
+If you take the left fork from where Shulkunaak is, you can find a silver chest. Go down the right path, eventually you will find Saashi at the other end, who will say:
+:''Hello! Saashi found another entrance to the cavern.''
+
+:''You've met the dragon, yes? And he did not kill you, this is good!'' <small> (if the encounter was amicable) </small>
+:''You have returned!'' <small> (if the encounter was aggressive) </small>
+::'''And I know how to beat the Sorcerer-King.'''
+:::''You do? That is wonderful! Oh, Saashi has so many questions!''
+:::'''I'll fill you in on the way back.'''
+:::''Yes, apologies. Saashi is excited. Let us return home.''
+::'''You sound surprised...'''
+:::''Surprised? Of... Of course not. Saashi is simply relieved to see <Player.Name> in one piece, and... well, relatively unburnt.''
+:::''So, how did it go? Did you kill the dragon? How big was he? Did he tell you how to defeat the Sorcerer-King?''
+:::'''Whoa, easy... I'll tell you all on the way back.'''
+:::''Yes, apologies. Saashi is excited. Let us return home.''
+
+Talk to Saashi again and she will say:
+:''Ready to go? Saashi cannot wait to hear all about the encounter with Shulkunaak!''
+
+===Back to Town===
+====Saashi====
+:''This one still cannot believe you were able to defeat Shulkunaak.''
+::'''Now we know how to bind the Sorcerer-King.'''
+:::''You are right, of course. At least now we have a fighting chance.''
+::'''I never thought I'd fight a real dragon.'''
+:::''Sad to think he might be the last of his kind, too.''
+
+If Saashi overheard Shulkunaak mention that the player is a Blade, she will have special dialogue added:
+:::''Also, this one *may* have overheard <Player.Name>'s conversation with Shulkunaak...''
+:::'''You did?'''
+:::''Saashi will keep your secret safe.''
+:::'''Thank you, I appreciate it.'''
+
+This segues directly to MQ18
+==Enemies==
+* [[Blades:Cave Spider|Cave Spiders]] x 3
+* [[Blades:Cave Bear|Cave Bears]] x 2
+* [[Blades:Giant Cave Spider|Giant Cave Spiders]] x 2
+* [[Blades:Shulkunaak|Shulkunaak]]
+
+==Notes==
+Instead of talking to Saashi in the cave behind Shulkunaak, you can backtrack to the beginning of the cave to find another copy of Saashi still here. Speaking to her at this location, she will skip the ''"Hello! Saashi found another entrance to the cavern."'' line.
+<!--
+==Bugs==
+Instructions: Add any bugs using the following format:
+{{Bug|Bug description}}
+** Workaround-->
+==Gallery==
+<gallery>
+BL-quest-Facing the Dragon 14.png|Entrance to Shulkunaak's lair
+BL-quest-Facing the Dragon 06.png|Saashi at the entrance
+BL-quest-Facing the Dragon 13.png|Cave spiders
+BL-quest-Facing the Dragon 08.png|Secret lever
+BL-quest-Facing the Dragon 09.png|Secret area
+BL-quest-Facing the Dragon 04.png|Secret chest
+BL-quest-Facing the Dragon 10.png|Cave bears patrol the area
+BL-quest-Facing the Dragon 12.png|Cave spiders lurk in the darkness
+BL-quest-Facing the Dragon 16.png|Shulkunaak's lair
+BL-quest-Facing the Dragon 17.png|Shulkunaak's lair
+BL-quest-Facing the Dragon 15.png|Waking up Shulkunaak
+BL-quest-Facing the Dragon 11.jpg|The chest behind Shulkunaak
+BL-quest-Facing the Dragon 07.png|Finding Saashi
+BL-quest-Facing the Dragon 18.png|Saashi debrief
+</gallery>

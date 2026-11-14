@@ -1,0 +1,31 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Light]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Krosis.jpg
+|weight=5
+|rating=21
+|value=1615
+|warmth=18
+|type=[[Skyrim:Light Armor|Light]] [[Skyrim:Helmet|Helmet]]
+|enchant=''Lockpicking, Archery, and Alchemy are 20% better:''
+* [[Skyrim:Fortify Lockpicking|Fortify Lockpicking]], 20% better
+* [[Skyrim:Fortify Archery|Fortify Archery]], 20% better
+* [[Skyrim:Fortify Alchemy|Fortify Alchemy]], 20% better
+|artifacttype=Artifact
+|objectid=00061cb9
+|editorid=ArmorDragonPriestMaskBronzeHelmet
+|tempering=[[Skyrim:Iron Ingot|Iron Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Krosis (item)|Krosis]] is a bronze [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] gained by killing the eponymous [[Skyrim:Krosis (creature)|Krosis]] upon [[Skyrim:Shearpoint|Shearpoint]], a [[Skyrim:Dragon Lairs|dragon lair]]. The mask's enchantment improves the user's [[Skyrim:Alchemy|Alchemy]], [[Skyrim:Archery|Archery]], and [[Skyrim:Lockpicking|Lockpicking]] skills by twenty points. It can be [[Skyrim:Workbench|improved]] with [[Skyrim:Iron Ingot|iron ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Krosis (item)|Krosis]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Notes==
+* Placing Krosis on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses it gained from tempering.
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* Krosis means "Sorrow" in the [[Lore:Dragon Language|dragon language]].
+* This is the only dragon priest mask that can be obtained through normal gameplay without the need for dungeon delving. [[SR:Volsung (item)|Volsung]] can also be obtained without dungeon delving, but doing so requires one to climb the side of a mountain.
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a [[Skyrim:Special Holder|Special Holder]] for this item.
+
+{{Skyrim Dragon Priests}}</noinclude>

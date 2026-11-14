@@ -1,0 +1,55 @@
+{{NPC Summary
+|essential=
+|city=[[Skyrim:Whiterun|Whiterun]]
+|loc=[[Skyrim:House of Clan Battle-Born|House of Clan Battle-Born]]
+|race=Elder
+|gender=Female
+|class=[[Skyrim:Warrior (class)|Warrior]]
+|faction={{Faction|CrimeFactionWhiterun}}; {{Faction|TownWhiterunFaction}}; {{Faction|Whiterun House Battle-Born Faction}}; {{Faction|WhiterunMarketShoppers}}
+|refid=0001A688
+|baseid=00013BB3
+|image=SR-npc-Bergritte_Battle-Born.jpg
+|imgdesc=Bergritte Battle-Born
+|class_details=[[Skyrim:CombatWarrior1H|CombatWarrior1H]]
+|skills=[[Skyrim:Heavy Armor|Heavy Armor]], [[Skyrim:One-handed|One-handed]]
+|aggress=Unaggressive
+|level=6
+|moral=No Crime
+|health=108
+|magicka=50
+|stamina=67
+|voicetype=FemaleOldGrumpy
+}}
+'''Bergritte Battle-Born''' is an [[Skyrim:Elder|elderly]] [[Skyrim:Nord|Nord]] living in the [[Skyrim:House of Clan Battle-Born|House of Clan Battle-Born]] in [[Skyrim:Whiterun|Whiterun]]. She is the wife of [[Skyrim:Olfrid Battle-Born|Olfrid Battle-Born]] and has two children, [[Skyrim:Jon Battle-Born|Jon]] and [[Skyrim:Alfhild Battle-Born|Alfhild]]. Alfhild is married to [[Skyrim:Idolaf Battle-Born|Idolaf]] and they have given Bergritte her first grandchild, [[Skyrim:Lars Battle-Born|Lars]].
+
+As family elder, she lives a relatively anonymous existence in Whiterun. She wakes up early at 6am and spends her morning in her favorite chair, eating and relaxing. At noon she heads over to the Gildergreen and listens to [[Skyrim:Heimskr|Heimskr]]'s ramblings until she goes down to the market at 3pm. At 6pm she returns to the house for some dinner before her bedtime at 8pm. 
+
+She wears a set of farmer [[Skyrim:Clothing#000209a6|clothes]] with a pair of [[Skyrim:Clothing#000209a5|boots]] and a [[Skyrim:Clothing#000209aa|hat]]. She carries the [[Skyrim:Key to House Battle-Born|house key]], an [[Skyrim:Iron Dagger|iron dagger]], and a selection of [[Skyrim:Leveled Lists#Common|common items and gold]]. 
+{{NewLeft}}
+==Dialogue==
+When approached, she will provide some random information, saying: 
+:''"There's a rift here in Skyrim, and can't neither magic nor the passin' of time make it right."''
+:''"Evgir Unslaad has come at last. The 'Season Unending.' War... without end."''
+:''"Can you believe those pathetic Gray-Manes still show their face in public?"''
+:''"There was love between our families. For generations. Now, there is only enmity."''
+:''"Do be careful, child. Skyrim is not as safe as it used to be."''
+:''"By the way, you might want to stop in at Warmaiden's. These days, folk need all the protection they can get."''
+
+If Whiterun was conquered by the [[Skyrim:Stormcloaks|Stormcloaks]] during [[Skyrim:Battle for Whiterun (Stormcloaks)|Battle for Whiterun]], she will hatefully add: 
+:''"It's a miracle these Stormcloaks haven't robbed us blind yet. I'm sure it's only a matter of time."''
+
+==Conversations==
+Bergritte suggests [[Skyrim:Lars Battle-Born|Lars]] go play outside:
+
+'''Bergritte:''' ''Lars, dear, why don't you go outside and play? It's a beautiful day.''<br>
+'''Lars:''' ''That's all right, grandmother. I like staying home with you.''<br>
+'''Bergritte:''' ''It's that Braith girl again, isn't it? Has she been bothering you again? I've a mind to speak with her mother.''<br>
+'''Lars:''' ''No! Please, grandmother, don't do that. I'm fine. Really. Can we just... not talk about this anymore?''<br>
+'''Bergritte:''' ''All right, dear.''<br>
+
+Bergritte and her daughter, [[Skyrim:Alfhild Battle-Born|Alfhild]], discussing reading material:
+
+'''Alfhild:''' ''So, what book should I read to you tonight?''<br>
+'''Bergritte:''' ''How about [[Skyrim:The Lusty Argonian Maid|"The Lusty Argonian Maid"]]?''<br>
+'''Alfhild:''' ''Mother!''<br>
+'''Bergritte:''' ''You've got no sense of humor, you know that? Why don't you pick up where you left off with [[Skyrim:The Real Barenziah|"The Real Barenziah"]].''

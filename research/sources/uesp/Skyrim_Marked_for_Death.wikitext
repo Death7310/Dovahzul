@@ -1,0 +1,64 @@
+{{Shout Summary
+|id=0007097c
+|icon=SR-icon-shout-Marked for Death.png
+|quote=Speak, and let your Voice herald doom, as an opponent's armor and lifeforce are weakened.
+|word1=KRii
+|wordid1=00060297
+|cooldown1=20
+|info1=[[Skyrim:Ravage Health|Damage Health]] 1 pt for 60 seconds
+Damage Armor 25 pts for 60 seconds
+|location1=[[Skyrim:Autumnwatch_Tower|Autumnwatch Tower]]
+|word2=LUN
+|wordid2=00060298
+|cooldown2=30
+|info2=Damage Health 2 pts for 60 seconds
+Damage Armor 50 pts for 60 seconds
+|location2=[[Skyrim:Dark Brotherhood Sanctuary|Dark Brotherhood Sanctuary]] (quest locked)
+|word3=AUS
+|wordid3=00060299
+|cooldown3=40
+|info3=Damage Health 3 pts for 60 seconds
+Damage Armor 75 pts for 60 seconds
+|location3=[[Skyrim:Forsaken Cave|Forsaken Cave]]
+|transword1=kill
+|transword2=Leech
+|transword3=suffer
+|spellid1=0001861f
+|spellid2=00018627
+|spellid3=0001862b
+}} __NOTOC__
+
+'''Marked for Death''' is a [[Skyrim:Dragon Shouts|shout]] that temporarily reduces an enemy's health and [[Skyrim:Armor Rating|armor rating]], making them more vulnerable to physical damage. Each word further decreases the target's armor rating by 25 points, which means they will take 3% extra physical damage per word. All three ranks have a duration of 60 seconds.
+
+This shout's effects can be mitigated or amplified by the target's [[SR:Resist Magic|magic resistance]].
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Destroy the Dark Brotherhood!}}
+* {{Quest Link|With Friends Like These...}}
+
+{{NewLine}}
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=NONVUL BRON DahMaaN DaaR ROT DO<br>FIN FODiiZ BORMah Wah {{FC|blue|KRii}} KO<br>MOROKei KeiN LOS Wah ZIN GeiNMaaR Wah DIR<br>KO MOROKei KeiN LOS Wah ZIN Pah DO KeiZaaL
+|translation1=Noble Nords remember these words of<br>the hoar father: To {{FC|blue|kill}} in<br>glorious war is to honor oneself, to die<br>in glorious war is to honor all of Skyrim.
+|wordwall2=HET Mah TahRODiiS TAFiiR<br>SKORJI {{FC|blue|LUN}}-SINAK WEN KLOV<br>GOVey NaaL RINIK HahKUN ROK<br>TOGaaT Wah GahROT
+|translation2=Here fell (the) treacherous thief<br>Skorji {{FC|blue|Leech}}-Fingers, whose head<br>(was) removed by (the) very axe he<br>tried to steal.
+|wordwall3=THORINGAR WahLaaN QETHSEGOL<br>MONii VahRUKT NOOMI WEN<br>DEZ LOS Wah {{FC|blue|AUS}} NIN DO<br>POGaaN OGiiM RONaaZ
+|translation3=Thoringar raised (this) stone<br>for his daughter's memory, Noomi, whose<br>fate (it) was to {{FC|blue|suffer}} (the) sting of<br>many Orc arrows.}}
+
+==Notes==
+* This shout can cause the target's armor rating to become negative, which results in them taking increased damage from all physical sources.
+* As with other shouts, [[Skyrim:Companion's Insight|Companion's Insight]] will protect followers from the effects of Marked for Death.
+
+==Bugs==
+{{Bug|The voice acting for this shout is incorrect; the character will say "Lun Lun" for the second rank and "Lun Lun Aus" for the third rank.|confirmed=1|USKP|2.0.0}}
+{{Bug|The word wall of "Krii" has some of the text cut off. Both the "R" in "ROKei" and the "M" in "MOROKei," though still legible, are only half letters. Based on its translation, it is probable that "ROKei" is actually "MOROKei" and the line that begins with "MOROKei" is actually "KO MOROKei."|confirmed=1}}
+{{Bug|The word wall in Forsaken Cave has been known to go through all cinematics, with the player getting a message saying they have learned the word. However the word does not become available for the player to unlock. Leaving the cave and returning does not allow the cinematic to re-run.|confirmed=1}}
+{{Bug|This shout may fail to stack with itself properly.|OSSEP|1.6.629}}
+{{Bug|The target's armor rating does not recover after the shout ends, and is damaged by 75 ''per second,'' rather than 75 total. This allows you to stack the shout multiple times on the same enemy to deal increasingly higher damage. Conversely, if the shout hits your follower or other NPCs, they will permanently take increased damage from physical attacks.|OSSEP|1.6.629.0.8|modnotes=The damage armor effect does not have the "Recover" flag.}}
+**{{pc22}} This bug is fixed by version 1.1 of the [[Skyrim Mod:Unofficial Skyrim Patch|Unofficial Skyrim Patch]].
+**{{pc22}} This can be fixed by opening the [[Skyrim:Console|console]], selecting the affected actor, and using the command <code>restoreav damageresist 9999999</code>.
+{{Bug|Learning [[Skyrim:Drain_Vitality|Drain Vitality]] before learning all three words of Marked for Death may cause Marked for Death to become glitched so no newer words may be learned.|UDGP|1.1.2}}
+{{Bug|Learning a word of Marked for Death after installing Dawnguard causes a glitched shout to appear in the Shouts menu. It is named Drain Vitality, but has all three words of Marked for Death. The recharge is 12,12,12 and the bugged description says "Drains 1 points of Health per second for 20 seconds. Drains 1 points of Magicka per second for 20 seconds. Drains 1 points of". Using the shout causes the effect listed, although no words are actually shouted by the character. See the bug section of the page [[Skyrim:Drain Vitality|Drain Vitality]] for fixes.|UDGP|1.1.2}}
+{{Skyrim Shouts}}

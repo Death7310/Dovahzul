@@ -1,0 +1,43 @@
+{{Trail|Factions}}__NOTOC__
+[[File:SR-npc-Greybeards.jpg|thumb|left|Greybeards in High Hrothgar, led by their Speaker, Arngeir]][[File:SR-quest-The Way of the Voice2.jpg|right|thumb|High Hrothgar]]
+The [[Skyrim:Greybeards|Greybeards]], an ancient and honored cult of monks, live at the ancient monastery of [[Skyrim:High Hrothgar|High Hrothgar]], high on the [[Skyrim:Throat of the World|Throat of the World]]. They are the most famous of the Tongues, or masters of the [[Skyrim:Thu'um|Voice]]. [[Skyrim:Jurgen Windcaller|Jurgen Windcaller]] founded the order in response to the Nord army's defeat at the [[Lore:Battle of Red Mountain|Battle of Red Mountain]], preaching a philosophy known as the Way of the Voice, a lifestyle of meditative study of the Voice which the Greybeards carry on to this day.
+
+Followers of the Way are expected to remain peaceful, with violence being considered a last resort, to be used only in times of "True Need". The coming of the [[Lore:Dragonborn|Dragonborn]] is considered such a time, so any violence committed by the Dragonborn will be overlooked. While the Greybeards accept almost all who show a talent for the Voice, few can handle the demands of their lifestyle. A prominent example of this is [[Skyrim:Ulfric Stormcloak|Ulfric Stormcloak]], who felt he could no longer live by the Way when the [[Lore:Great War|Great War]] came.
+
+When you enter High Hrothgar, you will find four Greybeard Elders living there: [[Skyrim:Arngeir|Arngeir]], [[Skyrim:Borri|Borri]], [[Skyrim:Wulfgar|Wulfgar]], and [[Skyrim:Einarth|Einarth]]. Arngeir, the eldest and most powerful, is the only elder who speaks more than a few words to you, explaining that the others are so powerful that if they were to utter more than a whisper, the force of their thu'um would destroy you. Arngeir may only speak because of his extensive training and age. Thus, the Greybeards spend most of their time in silence, which is only broken to revere the gods with [[Skyrim:Unrelenting Force|Unrelenting Force]] and [[Skyrim:Clear Skies|Clear Skies]] shouts directed at the sky.
+
+As part of the [[SR:Main Quest|Main Quest]], the Greybeards will tell you about themselves and the Way of the Voice. After a series of trials, they proclaim you [[Skyrim:Dovahkiin|Dragonborn]] and will begin to teach you to master your Voice. Once [[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]] is complete, the Greybeards will officially welcome you, at which point all of High Hrothgar's items become available to you. After the quest [[Skyrim:Alduin's Wall|Alduin's Wall]], they refer you to the grandmaster of their order, who lives at the summit of the mountain. The grandmaster is, in fact, an ancient dragon named [[Skyrim:Paarthurnax (dragon)|Paarthurnax]], who is willing to aid you in defeating [[Skyrim:Alduin|Alduin]].
+
+The Greybeards stand in opposition to the [[Skyrim:Blades|Blades]], whom they view as intolerant barbarians. If you side with the Blades following the [[SR:Main Quest|Main Quest]], the Greybeards will become borderline hostile towards you and refuse to help you find any more [[Skyrim:Words of Power|Words of Power]].
+
+{{FMI}}
+
+==Notes==
+* If you try to talk to another Greybeard besides Arngeir, their answer depends on your advancement in the main quest:
+** If you manage to enter High Hrothgar before they call you during [[Skyrim:Dragon Rising|Dragon Rising]] (by scaling the mountain and entering through the back door), they will simply give a neutral ''Hrm'' sound for an answer.
+** After starting [[Skyrim:The Way of the Voice|The Way of the Voice]], they will switch to a different, more welcoming ''Hrm'' sound. The first time they do this, Arngeir may explain that they do not speak.
+**After finishing [[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]], the ground will shake and rumble as they whisper "Dovahkiin". This happens after the Greybeards have acknowledged you as Dovahkiin in a formal ceremony.
+**If you kill Paarthurnax, they will switch back to the second ''Hrm'' sound.
+* If you don't return to Whiterun during Dragon Rising, the Greybeards will call you if you approach High Hrothgar. After 24 hours, they will call you no matter where you are, provided you're outdoors.
+** If you DO return to Whiterun immediately, the Greybeards will call you shortly after you get there.
+* If you bring [[Skyrim:Serana|Serana]]{{DG}} to High Hrothgar, she will kneel and meditate the same way as the Greybeards.
+* If attacked, all of the Greybeards use the [[Skyrim:Ice Form|Ice Form]] and [[SR:Fire Breath|Fire Breath]] shouts in retaliation.
+* The Greybeards do not attack a Stage 4 [[Skyrim:Vampirism|Vampire]].
+* The Greybeards will automatically attack if you transform into a [[Skyrim:Vampire Lord|Vampire Lord]]{{DG}}.
+
+==Bugs==
+{{Bug|When speaking to Einarth, Borri, or Wulfgar after The Horn of Jurgen Windcaller, the rumble as each one says "Dovahkiin" starts before the word is spoken.|USKP|1.2|It will now start AFTER the word is spoken.}}
+
+==Related Quests==
+====[[SR:Main Quest|Main Quest]]====
+*{{Quest Link|The Way of the Voice}}
+*{{Quest Link|The Horn of Jurgen Windcaller}}
+*{{Quest Link|The Throat of the World}}
+*{{Quest Link|Season Unending}}
+*{{Quest Link|Paarthurnax (quest)}}
+
+====[[SR:Miscellaneous Quests|Miscellaneous Quests]]====
+*{{Quest Link|Climb the Steps}}
+*{{Quest Link|The Words of Power}}
+
+{{Skyrim Factions}}

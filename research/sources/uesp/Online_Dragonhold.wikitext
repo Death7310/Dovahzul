@@ -1,0 +1,25 @@
+<noinclude>{{Trail|DLC}}{{Mod Header|Dragonhold|default=1}}</noinclude>{{About|the DLC|the place during The Dark Aeon|Dragonhold (The Dark Aeon)|the place during New Moon Rising|Dragonhold (New Moon Rising)}}
+:'''Dragonhold:''' ''The Season of the Dragon saga concludes with Dragonhold. Defend the people of Southern Elsweyr, restore the ancient Dragonguard order, and fight back against the Dragon menace. Your year-long adventure comes to its exciting finale here!''
+{{Online DLC Summary
+|title=Dragonhold
+|image=ON-cover-Dragonhold.jpg
+|store_icon=Dragonhold.png
+|price=2,000
+|quest=The Dragon's Lair
+|pc=October 21, 2019
+|xbox=November 5, 2019
+|ps4=November 5, 2019
+|promo=
+|notrail=yes}}
+'''Dragonhold''' contains the new zone of Southern Elsweyr, and concludes the year-long [[ON:Season of the Dragon|Season of the Dragon]] saga that started with Wrathstone DLC. Dragonhold is also available for purchase as part of the {{Crown Link|Dragonhold Collector's Bundle}} for {{ESO Crowns|4,000}}.
+
+The loyalty reward for Dragonhold is the [[ON:Topal Corsair Style|Topal Corsair Hat]] [[Online:Outfit System|Outfit]] [[Online:Styles|Style]].
+{{NewLeft}}
+===Features===
+*[[ON:Southern Elsweyr|Southern Elsweyr]], a new '''zone''' which consists of three unique biomes.
+*Meet Khajiiti pirates, fight the New Moon cultists and restore an ancient order of the Dragonguard.
+*New '''quests''', including a questline that ties up the Season of the Dragon.
+*Two new [[Online:Delves|'''delves''']], [[ON:Group Bosses|'''group bosses''']], and [[ON:Dragon Hunt|'''Dragon Hunts''']] featuring new dragons.
+*New armor sets, styles, [[Online:Furnishings|furnishing items]], and various collectibles such as the '''Pirate''' title.
+
+{{Online Products}}

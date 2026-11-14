@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Nahfahlaar",
+  "revid": 3656783,
+  "timestamp": "2026-10-20T06:52:11Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3656783&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "d87d63ad79a4de826ebbc8fff9dc5d8879192437539e8ec8e9b6d69bad9b1c6e",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 300404,
+  "ns": 130,
+  "parentid": 3594157,
+  "requested_title": "Lore:Nahfahlaar",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Nahfahlaar",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3656783",
+  "sha1": "ed060f46bcb8afd1470c155b6026dc28a0648ec1",
+  "sha1_matches_mediawiki": true,
+  "bytes": 13420,
+  "chars": 13420,
+  "lines": 69,
+  "saved_as": "research/sources/uesp/Lore_Nahfahlaar.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Nahfahlaar|Lore:Ahbiilok|Lore:Bahlokdaan|Lore:Boziikkodstrun|Lore:Dukaanfinsot|Lore:Joorahmaar|Lore:Kaalgrontiid|Lore:Krahnoviir|Lore:Laatvulon|Lore:Lodunost|Lore:Lokkestiiz|Lore:Maarselok",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:34Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

@@ -1,0 +1,47 @@
+{{Creature Summary
+|loc=[[Skyrim:Skuldafn|Skuldafn]]
+|refid=00013B66
+|baseid=000F849B
+|type=Undead
+|species=Dragon Priest
+|level=50
+|health=1490
+|magicka=545
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|image=SR-creature-Nahkriin.jpg
+|imgdesc=Nahkriin, in front of the portal to Sovngarde
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Flames|Augmented Flames]] (rank 2); [[Skyrim:Augmented Frost|Augmented Frost]] (rank 2); [[Skyrim:Augmented Shock|Augmented Shock]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Necromancy|Necromancy]]; [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Nahkriin''' is one of the eight high-ranked [[Skyrim:Dragon Priest|dragon priests]] in Skyrim, and is encountered in [[Skyrim:Skuldafn|Skuldafn]], a temple you visit during [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]].
+
+Nahkriin, like the other seven dragon priests, has a [[Skyrim:Nahkriin (item)|mask]] with considerable power, as it gives 50 more magicka points and a 20% reduction on spell cost for [[SR:Destruction|Destruction]] and [[SR:Restoration|Restoration]] spells. 
+
+Nahkriin wields a unique looking [[Skyrim:Dragon Priest Staff (Nahkriin)|staff]] with a powerful [[Skyrim:Wall of Storms|Wall of Storms]] attack. The staff must be used to open the portal to [[Skyrim:Sovngarde (place)|Sovngarde]].
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|The World-Eater's Eyrie}}
+
+==Dialogue==
+Upon noticing you, Nahkriin will say:
+:''"{{Hover|I (was) ordered by my lord to keep/guard this portal.|Zu'u uth}} {{Sic|nall|naal}} {{Sic|thurri|thuri}} {{Hover|I (was) ordered by my lord to keep/guard this portal.|dein daar miiraak.}}"''
+
+During combat, he will taunt you.
+:''"{{hover|(You) shall not escape.|Fent ni filok.}}"''
+
+:''"{{hover|Your life (is) mine.|Hin laas los dii.}}"''
+
+:''"{{hover|(You will) bleed for your disobedience.|Sosaal fah hin vothaarn.}}"''
+
+==Notes==
+*His name means "vengeance" in the [[Lore:Dragon Language|dragon language]].
+*If you want to obtain [[Skyrim:Konahrik|Konahrik]], make sure to grab Nahkriin's mask as soon as you defeat him. You cannot return at a later time to get it through any means.
+**PC players can use console commands to avoid fighting him but still acquire the mask.
+*He might sometimes not be at full health when reached. He appears to spawn with exactly 50% health (745). See the discussion page for more details.
+*Nahkriin also appeared as the {{Card|Nahkriin, Dragon Priest}} card in ''[[Legends:Legends|Legends]]''.
+*In order to keep his staff, you must kill him right after he removes his staff from dragon seal, take the staff from ash pile then enter Sovngarde before the portal is closed. Use 2 or 3 words of the Slow Time shout before attacking him for a better chance of success. 
+*It is possible to defeat him without allowing him to attack. When you first climb the stairs at the base of the portal, he is scripted to float up to the staff and take it. If you sprint and then hit him with Unrelenting Force, he staggers. You can then slip between him and the staff, and begin a rhythm of shield bashes, sidestepping to prevent his advance, attacks, and Unrelenting Force to slowly push him backwards and prevent him from reaching the staff. He will not attack or summon an atronach while he attempts to get to the staff. He can be looted and the portal entered afterwards as normal (but you will not be able to take the staff yourself).
+{{Skyrim Dragon Priests}}

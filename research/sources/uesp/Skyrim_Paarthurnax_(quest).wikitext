@@ -1,0 +1,96 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=Beezer1029
+|reward=Sheeprin
+|rewardChecked=Beezer1029
+}}</noinclude>{{About|the quest|the dragon|Paarthurnax (dragon)}}
+{{Quest Header
+|type=Main Quest
+|Giver=[[Skyrim:Esbern|Esbern]] or [[Skyrim:Delphine|Delphine]]
+|Reward=Free access to Sky Haven Temple restored
+|Disp= =3 ([[Skyrim:Delphine|Delphine]]) <br/> =3 ([[Skyrim:Esbern|Esbern]]) <br/> =-2 ([[Skyrim:Arngeir|Arngeir]])
+|Rep=
+|Prev=[[Skyrim:The Fallen|The Fallen]]
+|Conc=
+|Next=
+|Loc=[[SR:Sky Haven Temple|Sky Haven Temple]], [[SR:Throat of the World|Throat of the World]]
+|Image=SR-quest-Paarthurnax (quest).jpg
+|ImgDesc=Paarthurnax in combat
+|description=Deal with a [[Skyrim:Paarthurnax (dragon)|potential threat]].
+|ID=MQPaarthurnax
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+#(Optional) Talk to [[Skyrim:Esbern|Esbern]] or [[Skyrim:Delphine|Delphine]].
+#Kill [[Skyrim:Paarthurnax (dragon)|Paarthurnax]].
+#Return to Esbern or Delphine.
+#Tell them Paarthurnax is dead.  
+
+==Detailed Walkthrough==
+===Initiating the Quest===
+This quest may initiate in two ways:
+
+* '''At your discretion:''' After you complete [[Skyrim:Alduin's Bane|Alduin's Bane]] and defeat the World-Eater in combat, you may consult with Esbern to learn of [[Skyrim:Alduin|Alduin's]] whereabouts. This begins the quest. 
+* '''Automatically:''' If you have not yet spoken with Esbern or Delphine at [[Skyrim:Sky Haven Temple|Sky Haven Temple]], when the [[Skyrim:Season Unending|Season Unending]] conference is held, Delphine will approach you and start the quest automatically. Delphine does require you to give a reply. She issues a demand and says you two have nothing to talk about until you have carried out the deed, even though talking to her is still possible.
+
+===The Stakeholders===
+Delphine and Esbern have discovered that Paarthurnax is the Master of the [[Skyrim:Greybeards|Greybeards]] and an ancient enemy of the [[Skyrim:Blades|Blades]]. You can argue in Paarthurnax's defense, but both will reiterate the war crimes and atrocities committed by Paarthurnax. They will also claim that Paarthurnax helped Alduin enslave mortal ancestors and committed atrocities that were so severe, they are still remembered thousands of years later. In addition, Delphine thinks that Paarthurnax's betrayal of Alduin actually makes him worse, because it could mean that he might betray the Dragonborn in turn. They will tell you that their oaths as Blades prevents them from giving you any further help until you kill Paarthurnax.
+
+If you go to [[Skyrim:High Hrothgar|High Hrothgar]] and tell [[Skyrim:Arngeir|Arngeir]] that the Blades want Paarthurnax dead, he will tell you that Paarthurnax supported Alduin because all dragons were in league with Alduin at first, and that Paarthurnax could not help it. He will go on to say that Paarthurnax did eventually rebel against Alduin, and was instrumental in Alduin's first demise. You are given the option to tell him that Paarthurnax must die, that you are going to spare the dragon, or that you don't know what your decision will be. This will affect the conversation between Delphine and Arngeir if you are forced to negotiate a treaty in Season Unending.
+
+Alternatively, you can go to Paarthurnax at [[Skyrim:The Throat of the World|the Throat of the World]] and talk to him there. He acknowledges that all dragons thirst for dominance and that the Dragonborn shares this thirst, though he believes that he has overcome this predisposition through the sheer power of will and that he can be trusted.
+
+===The Choice===
+You do not need to give an explicit reply. If you choose not to carry out Delphine's order to kill Paarthurnax, the game withdraws this quest after the main questline is completed. It disappears from your quest log without any notice.
+
+Paarthurnax is an easy foe for those who are leveled sufficiently, comparable to the average [[Skyrim:Frost Dragon|Frost dragon]]. You will receive a dragon soul and the usual set of [[Skyrim:Dragon Bone|dragon bones]] and [[Skyrim:Dragon Scales|dragon scales]] upon defeating him.  Killing Paarthurnax will enrage Arngeir; if you return to [[SR:High Hrothgar|High Hrothgar]], he will angrily lecture you on your decision and even go so far as to threaten violence if you do not leave. After this, the other Greybeards will also fail to acknowledge you. On the other hand, the Blades will talk to you again. 
+
+*'''If Paarthurnax dies:'''
+**Arngeir retracts the Greybeards' hospitality, and it is no longer possible to ask him for the locations of [[Skyrim:Word Wall|word walls]].
+**Paarthurnax will no longer be around to provide meditation bonuses to certain [[Skyrim:Dragon Shouts|shouts]]. If you already have a bonus, it will not go away; you will just be unable to change it.
+**Taking anything from High Hrothgar will count as stealing once again.
+**The Blades will welcome you once again and support you on Dragon Hunting missions.
+**An extra cutscene involving Paarthurnax after Alduin's defeat will be absent.
+*'''If Paarthurnax lives:'''
+**Arngeir will still disclose the location of word walls.
+**Paarthurnax will still provide meditation bonuses for shout words.
+**Paarthurnax will appear for an extra cutscene after Alduin's defeat, wherein he details his plans to rein in the dragons and teach them to live peacefully, following the [[Lore:Way of the Voice|Way of the Voice]]. This does not make gameplay any different — some will attack, and some won't, unless you attack them. After this, the quest will disappear from the journal.
+**Taking anything from Sky Haven Temple will count as stealing.
+**Removing items from some containers in the [[Skyrim:Sleeping Giant Inn|Sleeping Giant Inn]] will count as stealing, and you will lose access to the free bed there.
+**If you have not brought three people to the Blades already, Delphine's recruitment quest will remain uncompleted, or will become unavailable if you have not started it. However, it is entirely possible to recruit three followers for Delphine before being given the quest to kill Paarthurnax.
+**If you have not already obtained the [[Skyrim:Esbern's Potion|potion]] from [[Skyrim:Dragon Research|Esbern's Dragon Research]], you will be unable to do so. In order to get the potion, you must do so between the quest [[Skyrim:Alduin's Wall|Alduin's Wall]] and reading the Elder Scroll step of Alduin's Bane.
+**If you want the [[Skyrim:Dragonslayer's Blessing|Dragonslayer's Blessing]], you'll be unable to get it. In order to get the blessing, you must do so between the quest Alduin's Wall and reading the Elder Scroll step of Alduin's Bane.
+**The only real consequence of ''not'' killing him is no longer having dialogue with both Delphine and Esbern, and thus no longer having the option to go on Dragon Hunts with your recruited Blades. They still, however, act like regular companions - but of course, can only accompany you one at a time, like any other companion, rather than all three at once on a specific dragon-hunt.
+
+==Reward==
+The Blades do not reward you upon your return after killing Paarthurnax. Most of the gains come from the varied loot you find when searching Paarthurnax upon his death. 
+
+==Notes==
+*Because Delphine and Esbern are always essential characters and cannot die it is not possible to kill them to protect Paarthurnax. However, it is not necessary.
+*While you can implicitly decline this quest and make it disappear from your active quests, you may still kill Paarthurnax at any later time. The quest will reappear in your journal and can be completed normally.
+*{{pc22}}If you accidentally killed Paarthurnax without creating a backup save but still want to talk to the Greybeards, try the following commands in the console and Arngeir will talk to you as if you were just back from killing Alduin:
+**<code>prid 3C57D resurrect</code> will resurrect Paarthurnax
+**<code>resetQuest MQPaarthurnax</code> will reset the quest that asked you to kill Paarthurnax
+*If you speak to Arngeir after finishing the quest, he will be furious and say ''"This is how you repay our trust? Paarthurnax's trust? His noble spirit... the wisdom of ages... his deep understanding of our existence... all gone, and for what? A mindless vendetta urged on you by a cabal of [[Lore:Akavir|Akaviri]] barbarians! Begone, before even my philosophy is tested beyond the breaking point. We are men of peace, and you are not."'' Talking to Arngeir after that will cause him to only say ''"We have nothing to say to each other. Paarthurnax's murder is beyond my powers of forgiveness."''
+
+==Bugs== 
+{{Bug|It is unclear why, but Paarthurnax's health will sometimes regenerate, making it impossible to kill him. At what point in the game the regeneration begins and ends remains to be determined.|confirmed=1}}
+**It is possible to bypass this bug by attacking Paarthurnax with [[Skyrim:Mehrunes_Razor|Mehrunes' Razor]]. 
+**Fast traveling away and back when Paarthurnax's health meter is empty may trigger Paarthurnax's death.
+**Ordering a follower to attack Paarthurnax may circumvent this bug.
+{{Bug|Often, Delphine will still allow you to recruit followers even after you have been told to kill Paarthurnax. Therefore, it is perfectly possible to complete that quest and not kill him.|confirmed=1}}
+{{Bug|If you trigger the quest to kill Paarthurnax after completing [[Skyrim:Sovngarde (quest)|Sovngarde]], the quest will be permanently stuck in your journal unless you kill Paarthurnax.|confirmed=1}}
+{{Bug|Even after killing Paarthurnax the miscellaneous quest "Talk to Esbern" may remain stuck in your journal.|confirmed=1}}
+{{Bug|It is possible that after killing Paarthurnax, you will be unable to turn the quest in to Delphine, even though the quest arrow is pointing above her. If this happens, use the console to type: setstage MQPaarthurnax 100}}
+
+==Quest Stages==
+{{Journal Entries
+|20||Delphine and Esbern have discovered that Paarthurnax was one of Alduin's chief allies during the ancient Dragon War. They refuse to give me any more help until I kill Paarthurnax.
+{{Quest Objective|10|Kill Paarthurnax}}
+|50||Delphine and Esbern have discovered that Paarthurnax was one of Alduin's chief allies during the ancient Dragon War. I killed him, as they requested.
+{{Quest Objective|20|Talk to Delphine}}
+|100|fin|
+|missing=10, 15, 30, 150
+}}
+{{Skyrim Quest Stages Notes}}

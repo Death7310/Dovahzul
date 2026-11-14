@@ -1,0 +1,31 @@
+{{Creature Summary
+|loc=[[Skyrim:Forelhost|Forelhost]]
+|refid=0007E4B9
+|baseid=00035351
+|type=Undead
+|species=Dragon Priest
+|level=50
+|health=1490
+|magicka=545
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|image=SR-creature-Rahgot.jpg
+|imgdesc=Rahgot
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Flames|Augmented Flames]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Rahgot''' is a high-ranked [[Skyrim:Dragon Priest|dragon priest]] whose sarcophagus is in [[Skyrim:Forelhost|Forelhost]], on the mountain peak south-southeast of [[Skyrim:Riften|Riften]]. He wields a [[Skyrim:Dragon Priest Staff (Rahgot)|dragon priest staff]], and carries his eponymous [[Skyrim:Rahgot_(item)|mask]].
+
+Rahgot led the last remnants of the [[Skyrim:Dragon Cult|Dragon Cult]] until a legion of King Harald's soldiers discovered his hidden stronghold. 
+
+For historical information, see the [[Lore:Rahgot|lore article]].
+
+Rahgot knows the following spells: [[Skyrim:Greater Ward|Greater Ward]], [[Skyrim:Conjure Flame Atronach|Conjure Flame Atronach]], [[Skyrim:Fireball|Fireball]], [[Skyrim:Ebonyflesh|Ebonyflesh]], [[Skyrim:Command Daedra|Command Daedra]], [[Skyrim:Incinerate|Incinerate]], and [[Skyrim:Flame Cloak|Flame Cloak]].
+{{NewLeft}}
+==Related Quests==
+*{{Quest Link|Siege on the Dragon Cult}}
+
+==Bugs==
+{{Bug|Multiple masks may be found on Rahgot's body.|USKP|1.3.3}}
+{{Skyrim Dragon Priests}}

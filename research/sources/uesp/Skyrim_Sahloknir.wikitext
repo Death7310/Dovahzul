@@ -1,0 +1,59 @@
+{{Creature Summary
+|loc=East of [[Skyrim:Kynesgrove|Kynesgrove]]
+|soul=Dragon
+|refid=00032D9F
+|baseid=00032D9B
+|type=Monsters
+|species=Dragon
+|level={{hover|Values: 10, 20, 30, 40, 50|Radiant (10-50)}}
+|health={{hover|Values: 905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|image=SR-creature-Sahloknir.jpg
+|imgdesc=Sahloknir
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|class=Dragon
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 130, 164, 197, 230, 264|130-264}}
+|leveled=1
+}}
+'''Sahloknir''' is a leveled [[Skyrim:Dragon|dragon]] brought back from the grave by [[Skyrim:Alduin|Alduin]] east of [[Skyrim:Kynesgrove|Kynesgrove]]. Depending on what type of dragon he is, he can breathe either [[Skyrim:Fire Breath|fire]] or [[Skyrim:Frost Breath|frost]].
+
+Sah Lok Nir translates to "Phantom Sky Hunt".
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|A Blade in the Dark}}
+
+==Dialogue==
+
+When you fight him during the quest [[Skyrim:A Blade in the Dark|A Blade in the Dark]] he will use the following lines in combat:
+
+*''"I am Sahloknir! Hear my Voice and despair!"''
+
+*''"{{sic|Thurri|Thuri}} {{hover|My lord (will) devour your souls in Sovngarde!|du hin sille ko Sovngarde!}}"''
+
+*''"Your Voice is strong ... for a mortal."''
+
+*''"{{sic|Dohaviin|Dovahkiin}}, your Voice is no match for mine!"''
+
+*''"My lord Alduin requires your death. I am glad to oblige him."''
+
+*''"My Voice has been silent for too long!"''
+
+*''"I see that mortals have become arrogant while I slept."''
+
+*''"It's to be a real fight, then. Good!"'' (if health is low)
+
+*''"Hiding will not save you!"'' (if you are trying to hide)
+
+If spoken to, he uses the same line of dialogue as other named dragons who have yet to be resurrected from a burial mound by [[Skyrim:Alduin|Alduin]]: ''"Speak, if you have aught to say worth the listening."''
+
+==Notes==
+*He is unaffected by the [[Skyrim:Bend Will|Bend Will]] shout and cannot be [[Skyrim:Dragon Riding|ridden]].
+*If [[Skyrim:Miraak|Miraak]] steals his soul during [[Skyrim:A Blade in the Dark|A Blade in the Dark]], [[Skyrim:Delphine|Delphine]] will still give you credit.
+
+==Bugs==
+{{Bug|He might only ever be a Frost Dragon, regardless of your level when you encounter him.|vn=0}}
+
+{{Skyrim Dragons}}

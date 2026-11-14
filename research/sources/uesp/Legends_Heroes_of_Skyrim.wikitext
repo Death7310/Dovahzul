@@ -1,0 +1,89 @@
+{{Mod Header|Heroes of Skyrim|icon=LG-icon-Heroes of Skyrim.png|shortcut={{LG Set|Heroes of Skyrim}}}}{{Legends Set Summary
+|settype=Expansion
+|image=LG-icon-Heroes of Skyrim.png
+|availability=June 28, 2017
+|mechanics=Battle, Beast Form, Shout
+|arena=No (since 5 April, 2018)
+|strength=25
+|intelligence=25
+|willpower=25
+|agility=25
+|endurance=25
+|neutral=19
+|dual=10
+|common=57
+|rare=45
+|epic=22
+|legendary=30
+}}
+[[File:LG-prerelease-Heroes of Skyrim Title.jpg|thumb|right|Heroes of Skyrim]]
+'''Heroes of Skyrim''' is the first card [[LG:expansions|expansion]] for [[Legends:Legends|Legends]]. It introduces new [[Legends:Packs|card packs]] separate from the [[LG:Core Set|Core Set]], which can be opened to earn 154 new cards themed after [[Skyrim:Skyrim|''The Elder Scrolls V: Skyrim'']]. The cards feature dragons, Shouts, the Companions, the College of Winterhold, the Civil War, and more. The expansion was released on June 28, 2017, a day earlier than announced.
+
+Upon logging in, players are given a [[Legends:Deck Packs|deck pack]] containing a [[Legends:Theme Decks|theme deck]] from the expansion. Playmat art and music have also been added, and the game's icon changed to a new image featuring the Dragonborn.
+
+Dragon cards are spread over all [[Legends:Attributes|attributes]] and reward being played together. New [[Legends:Shouts|shout]] [[Legends:Actions|actions]] upgrade other copies of themselves in decks, and Companion cards use the Beast Form ability to change into more powerful Lycanthropes.
+
+==Cards==
+Cards are distributed through the [[Legends:Attributes|Attributes]].
+
+===Strength===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Strength|obtainable=Yes}}
+
+===Intelligence===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Intelligence|obtainable=Yes}}
+
+===Willpower===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Willpower|obtainable=Yes}}
+
+===Agility===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Agility|obtainable=Yes}}
+
+===Endurance===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Endurance|obtainable=Yes}}
+
+===Neutral===
+{{Legends Table|availability=Heroes of Skyrim|attribute=Neutral|obtainable=Yes}}
+
+===Dual-Attribute===
+{| class="wikitable sortable" style="width:100%; border: 5px inset #d0bf9a;"
+!class=unsortable|
+!Name
+!Type (Subtype)
+!Attribute/Class
+!width=4%|[[File:LG-icon-Magicka.png|22px|Magicka]]
+!width=4%|[[File:LG-icon-Attack.png|22px|Power]]
+!width=4%|[[File:LG-icon-Defense.png|22px|Health]]
+!width=8%|[[File:LG-badge-Basic.png|32px|Rarity]]
+!Text
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Archer|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Assassin|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Battlemage|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Crusader|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Mage|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Monk|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Scout|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Sorcerer|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Spellsword|namespace=Legends}}
+{{#listsaved:Legends Card Data|availability=Heroes of Skyrim|class=Warrior|namespace=Legends}}
+|}
+
+===Created Cards===
+{{Legends Table|availability=Heroes of Skyrim|obtainable=Created}}
+
+==Gallery==
+<gallery>
+File:LG-icon-Heroes of Skyrim Play.png|Heroes of Skyrim game icon
+File:LG-misc-Skyrim Starter Pack.jpg|Skyrim Starter Pack
+File:LG-misc-Skyrim card pack.png|Heroes of Skyrim card pack
+File:LG-misc-Skyrim Legendary Pack.jpg|Heroes of Skyrim legendary card pack
+File:LG-misc-Skyrim Loading Icon.jpg|Skyrim loading icon
+File:LG-misc-Skyrim playmat 01.png|"Dragon" playmat art
+File:LG-misc-Skyrim playmat 02.png|"Mountain" playmat art
+File:LG-misc-Skyrim playmat 03.png|"Statues" playmat art
+</gallery>
+
+==Notes==
+* The Legendary Card Pack for Heroes of Skyrim contains words in the [[Lore:Dragon Alphabet|Dragon alphabet]] on it.  The circle around the logo in the center reads "WALK IN THE PATH OF THE LEGENDS" (only "PA" is visible, with the "TH" covered, but the full line appears in assets in the game files), and the text around the outside reads "UNLEASH THE STRENGTH OF LEGENDS AND CONQUER ALL" (giving us the first example of a C in the Dragon alphabet) and "THE POWER OF LEGENDS AWAITS YOU".
+*Heroes of Skyrim cards were added to ''[[Legends:Legends Asia|Legends Asia]]'' in July 2020.
+
+{{Legends Sets}}

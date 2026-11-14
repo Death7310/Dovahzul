@@ -1,0 +1,14 @@
+<noinclude>{{Lore Places Trail}}__NOTOC__{{Lore Place Summary
+|continent=Tamriel
+|type=Settlement
+|province=Skyrim
+|name=Vundeheim
+}}</noinclude>
+[[Lore:Vundeheim|Vundeheim]] was a village in [[Lore:Skyrim|Skyrim]] that was destroyed in ancient times. A [[Lore:Word Walls|Word Wall]] was erected to commemorate the doomed villagers that were burned alive by the Lightning of Unending Sorrow.{{Ref|name=WW|[[Skyrim:Word Wall#Storm Call|Storm Call Word Wall]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=SC|[[Skyrim:Storm Call|Storm Call]] shout in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLine}}
+==Word Wall==
+{{Quote Box|style=float:right;|''(This) stone commemorates (the) villagers<br>of doomed Vundeheim, burned<br>alive by (the) Lightning of<br>Unending Sorrow.''|Word Wall's translation{{Ref|name=SC}}}}
+{{DragonFont|''QETHSEGOL VahRUKIV SahSUNaaR<br>DO DaaNIK VUNDEHeiM AG<br>NahLaaS NaaL QO DO<br>UNSLaaD KROSIS.''|5}}{{Ref|name=SC}}
+{{NewLine}}
+==References==
+<references/>
+</noinclude>

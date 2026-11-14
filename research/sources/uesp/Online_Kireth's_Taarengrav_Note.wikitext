@@ -1,0 +1,7 @@
+{{Game Book
+|author=[[Online:Kireth Vanos|Kireth Vanos]]
+|icon=ON-icon-quest-Plans 01.png
+|id=1016
+|collection=Research Notes
+|loc=*In a tent, between [[ON:Taarengrav|Taarengrav]] and [[ON:Taarengrav Wayshrine|Taarengrav Wayshrine]], next to [[ON:Kireth_Vanos|Kireth Vanos]] {{Map Link|154786}}
+}}

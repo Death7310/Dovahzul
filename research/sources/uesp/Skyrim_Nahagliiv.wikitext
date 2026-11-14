@@ -1,0 +1,39 @@
+{{Creature Summary
+|loc=Near [[Skyrim:Rorikstead|Rorikstead]]
+|refid=000FDBB0
+|baseid=000FE431
+|type=Monsters
+|species=Dragon
+|soul=Dragon
+|level={{hover|Values: 10, 20, 30, 40, 50|Radiant (10-50)}}
+|health={{hover|Values: 905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|image=SR-creature-Nahagliiv 02.jpg
+|imgdesc=Nahagliiv near its dragon mound
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|class=Dragon
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 130, 164, 197, 230, 264|130-264}}
+|leveled=1
+}} [[File:SR-creature-Nahagliiv.jpg|thumb|right|Nahagliiv attacking Rorikstead]]
+'''Nahagliiv''' is a [[Skyrim:Dragon|dragon]] buried in a [[Skyrim:Dragon Mounds|dragon mound]] atop a hill, just southwest of [[Skyrim:Rorikstead|Rorikstead]]. He is one of several named dragons that [[SR:Alduin|Alduin]] resurrects throughout the course of the [[SR:Main Quest|main quest]].
+
+He will be resurrected by Alduin and appear in the skies near Rorikstead once the player reaches the stage 60 of [[Skyrim:Alduin's Wall|Alduin's Wall]], but will not attack the town until you arrive to face him.
+
+Nahagliiv's name translates to "Fury Burn Wither."
+
+<!-- Instructions: If this NPC is related to any quests, uncomment this section and replace "Quest Name" with the quest's name--><!--
+== Related Quests ==
+* {{Quest Link|Quest Name}}
+-->
+{{NewLeft}}
+
+==Notes==
+*Nahagliiv also appears as a {{Card|Nahagliiv|card}} in ''[[LG:Legends|Legends]]''.
+
+==Bugs==
+{{Bug|Nahagliiv may get stuck in the ground when Alduin summons him.}}
+** Get out of range of the dragon, then fast travel somewhere else. When you return, Nahagliiv should attack as normal; if not, fast travel further away.
+
+{{Skyrim Dragons}}

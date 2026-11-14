@@ -1,0 +1,14 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Unknown
+|death=1E 2871
+|deathLoc=Southern [[Lore:Jerall Mountains|Jerall Mountains]]
+|image=ON-icon-stolen-Fang.png
+|fullimgdesc=Krahjotdaan's fang
+}}</noinclude>
+[[Lore:Krahjotdaan|Krahjotdaan]] is a high [[Lore:Dragon|dragon]] whose name means "Cold Maw Doom" in the [[Lore:Dragon Language|Dragon Language]].
+
+Krahjotdaan was slain by the [[Lore:Dragonguard|Dragonguard]] in {{Year|1E 2871}}, in the southern [[Lore:Jerall Mountains|Jerall Mountains]] of [[Lore:Cyrodiil|Cyrodiil]]. The dragon's name was supposedly confirmed to the Dragonguard by its own account.{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}} A fang was taken from its corpse and inscribed to depict their defeat.{{ref|[[Online:Contraband F|Fang of Krahjotdaan]] contraband item in [[ON:Online|ESO]]}} Their death was later documented by the Dragonguard in {{Year|2E 373}}.{{ref|name=AOD}} Due to the nature of dragons, Krahjotdaan may not be truly dead and therefore could rise again.<noinclude>
+
+==References==
+<references/></noinclude>

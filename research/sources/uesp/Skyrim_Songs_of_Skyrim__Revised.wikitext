@@ -1,0 +1,9 @@
+{{Game Book
+|icon=SR-icon-book-BasicBook2.png
+|id=000F11D5
+|value=14
+|weight=1
+|type=List 3
+|loc=*[[Skyrim:Pelagia Farm|Pelagia Farm]], on the bookshelf immediately to the right of the front door
+|comment={{Bug|The book contains material only relevant after the main quest is over, but it can be found in leveled lists prior to the questline being finished.|USKP|1.2.5|nobullet=1}}
+}}

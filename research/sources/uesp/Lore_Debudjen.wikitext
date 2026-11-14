@@ -1,0 +1,20 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|loc=Wrothgarian Mountains
+|gender=Female
+|birth=Dawn Era
+}}</noinclude>
+[[Lore:Debudjen|Debudjen]] was a potentially fictional female [[Lore:Dragon|Dragon]] mentioned in the historical-fiction series, [[Lore:King Edward|King Edward]]. She was encountered by the [[Lore:Edward|titular character]] and his companions in a village of [[Lore:Dragon|dragon]]s in a high meadow near [[Lore:Raven Spring|Raven Spring]]. In the tale, the party accompanying Edward met [[Lore:Akatosh|Akatosh]] and her on Loredas the 5th of Mid Year. She was described as smaller than Akatosh and polite.{{Ref|name=KE|{{Cite Book|King Edward, Part XI}}}}<noinclude>
+==Notes==
+*Another female dragon, the esteemed peer of Akatosh [[Lore:Ma-Tylda|Ma-Tylda]] is introduced in King Edward series.{{Ref|name=KE}}
+*The French translation of the book ''[[Lore:A Child's Tamriel Bestiary|A Child's Tamriel Bestiary]]'' mentions [[Lore:Jill|Jills]],{{ref|name=ACTBFrench|[https://www.imperial-library.info/content/childs-tamriel-bestiary-french French translation] of {{Cite Book|A Child's Tamriel Bestiary}}}} which have been present in several unofficial texts,{{ref|name=500COTOYTR|group=UOL|[[General:The Five Hundred Mighty Companions or Thereabouts of Ysgramor the Returned|The Five Hundred Mighty Companions or Thereabouts of Ysgramor the Returned]]}}{{ref|name=NMI|group=UOL|[[General:Nu-Mantia Intercept|Nu-Mantia Intercept]]}}{{ref|name=MKA|group=UOL|[[General:Michael Kirkbride AMA|Michael Kirkbride AMA]]}} and defined as female Dragons responsible for repairing linear Time after a [[Lore:Dragon Break|Dragon Break]].{{ref|name=NHOTSIT|group=UOL|[[General:Nu-Hatta of the Sphinxmoth Inquiry Tree|Nu-Hatta of the Sphinxmoth Inquiry Tree]]}} As a female Dragon, Debudjen may be one of the Jills.
+
+==See Also==
+===Books===
+*{{Book Link|King Edward, Part XI}}
+
+==References==
+<references/>
+
+{{UOL}}
+<references group=UOL/></noinclude>

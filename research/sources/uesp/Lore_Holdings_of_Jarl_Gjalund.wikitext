@@ -1,0 +1,27 @@
+{{Lore Book
+|SR=1
+|author=[[Lore:Books by Author#Slafknir the Scribe|Slafknir the Scribe]]
+|description=An ancient list of settlements within Whiterun Hold
+}}
+<p align="center">
+Survey of the Holdings of Jarl Gjalund
+</p>
+
+As Witnessed by Slafknir the Scribe, so Sworn by the Old Gods and the New</font>
+
+{{Lore Link|Whiterun}} - {{DragonFont|AHROLSEDOVAH||AHROLSEDOVAH - ''Hill of Dragon''}} -  The {{Lore Link|Jarl}}'s Holding, with Plentiful Water and Pasturage. Home of {{Lore Link|Jorrvaskr}}, the Far-Famed Hall of the {{Lore Link|Companions}}.
+
+{{Lore Link|Rorikstead|Rorik's Steading}} - {{DragonFont|RORIKHOFKAH||RORIKHOFKAH - ''Rorik's Steading''}} - A Small Farmstead in the Western Plains. Grain, Leather, Horses.
+
+{{Lore Link|Granite Hill}} - {{DragonFont|QUETHSEGOL AHROL||QUETHSEGOL AHROL - ''Stone Hill''}} - Three Farms and an Inn, just North of the {{Lore Link|Falkreath}}. A Market is Held here Weekly.
+
+{{Lore Link|Old Hroldan|H'roldan}} - {{DragonFont|AHROLDAN||AHROLDAN - ''H'roldan''}} - A Spacious Wooden Hall and Pasturage, recently Seized from the {{Lore Link|Reachmen}}. {{Lore Link|Silver}} and {{Lore Link|Iron}} as Tribute from the Natives.
+
+{{Lore Link|Labyrinthian|Bromjunaar}} - {{DragonFont|BROMJUN1R||BROMJUNAAR - ''North King Servant''}}- An Old Settlement, much Reduced from Former Days. Lumber and Stone.
+
+{{Lore Link|Korvanjund}} - {{DragonFont|KORVANJUND||KORVANJUND - ''Korvanjund''}}- A Small Fortified Settlement. Hides and Meat.
+
+{{Lore Link|Volunruud}} - {{DragonFont|VOLUNR5D||VOLUNRUUD - ''Volunruud''}} - A Fortified Wooden Hall near {{Lore Link|Giants' Gap}}. Meat and Worked {{Lore Link|Ivory}}.
+
+{{Lore Link|Ivarstead|Hillgrund's Steading}} - {{DragonFont|HILLGRUNDHOFKAH||HILLGRUNDHOFKAH - ''Hillgrund's Steading''}} - A Large Farmstead Near the Base of the {{Lore Link|Throat of the World|Monahven}}. Grain, {{Lore Link|Mead}}, Honey.
+{{Book End}}

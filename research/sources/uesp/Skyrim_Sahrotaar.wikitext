@@ -1,0 +1,63 @@
+{{Mod Header|Dragonborn}}{{Creature Summary
+|loc=In the [[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]]
+|refid=xx031834
+|baseid=xx031CA5
+|type=Monsters
+|species=Dragon
+|level=58
+|class=Dragon
+|health=3565
+|magicka=150
+|faction={{Faction|Creature Faction|ns_base=Skyrim}}; {{Faction|Dragon Faction|ns_base=Skyrim}}; {{Faction|allied apocrypha creatures}}; {{Faction|Combat dialogue for dragons allied to Miraak}}; {{Faction|DLC2MQ02Faction}}
+|image=SR-creature-Sahrotaar.jpg
+|imgdesc=Sahrotaar
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|drops=[[Skyrim:Dragon#Loot|Dragon Loot]]
+|soul=Dragon
+|stamina=290
+}} 
+'''Sahrotaar''' is a unique [[Skyrim:Serpentine Dragon|serpentine dragon]] found inside the ''[[Skyrim:Black Book: Waking Dreams (book)|Black Book: Waking Dreams]]'' during the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]]. 
+
+His name might mean either "Mighty Servant" or "Phantom Word Servant" in the [[Lore:Dragon Language|dragon language]].
+
+Sahrotaar will appear after you learn the [[Skyrim:Dragon Aspect|Dragon Aspect]] shout, and it is then necessary to use the [[Skyrim:Bend Will|Bend Will]] shout on him to tame him and progress through the quest. 
+
+Sahrotaar knows the following shouts: [[Skyrim:Frost_Breath|Frost Breath]], [[Skyrim:Ice Storm (shout)|Ice Storm]], and [[Skyrim:Unrelenting_Force|Unrelenting Force]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|At the Summit of Apocrypha}}
+
+==Quest-Related Events==
+He shares several lines of dialogue with [[Skyrim:Krosulhah|Krosulhah]], as they are both in the faction "[[Skyrim:Combat dialogue for dragons allied to Miraak|Combat dialogue for dragons allied to Miraak]]":
+:''"My thuri Miraak is the only true Dovahkiin."''
+
+:''"{{hover|Courageous fool|Krin mey}}. You are a fool to challenge Miraak. His thu'um is supreme."''
+
+:''"Your death has been foretold."''
+
+:''"{{hover|Serve or die|Aam uv dir}}. Those that will not serve Miraak must die."''
+
+If you use [[Skyrim:Dragonrend|Dragonrend]] on Sahrotaar, he will comment on it:
+:''"{{hover|Foul Words of Power|Bein Rotmulaagge}}! What foul Words are these?
+
+:''"No dovah would stoop to such vile {{hover|treachery|tahrovin}}."''
+
+Once he has landed on the ground, he will say:
+:''"Now we will see whose thu'um is the stronger!"''
+
+:''"You are strong, Dovahkiin. {{hover|Very strong|Rinik mul}}. But not strong enough."''
+
+Upon taming him, he will say:
+:''"Hail, {{hover|my overlord|thuri}}. Your thu'um has the mastery. Climb aboard and I will carry you to [[Skyrim:Miraak (person)|Miraak]]."''
+
+At this point, the [[Skyrim:Dragon Riding|dragon riding]] tutorial is provided while riding him. He will warn you of Miraak's strength while carrying you:
+:''"Beware. Miraak is strong. He knew you would come here."''
+
+When you reach Miraak at the summit, he will chide Sahrotaar, saying, ''"Sahrotaar, are you so easily swayed?"'' At that point, a battle against Miraak ensues, and you can choose whether to fight him on Sahrotaar's back or on foot. When Miraak regenerates for the third time, Sahrotaar will meet his demise, as Miraak absorbs his soul.
+
+==Notes==
+*Sahrotaar also appears briefly during the quest [[Skyrim:The Temple of Miraak|The Temple of Miraak]], waiting for Miraak to mount him while talking to you.
+*Sahrotaar will be the third dragon that has its soul absorbed by Miraak during gameplay, providing Sahrotaar has not been killed beforehand.
+
+{{Skyrim Dragons}}

@@ -1,0 +1,84 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Nephele
+|checkedBy=Chezburgar
+|reward=Nephele
+|rewardChecked=
+}}</noinclude>{{Quest Header
+|type=Miscellaneous
+|addtrail=Radiant
+|Giver=[[Skyrim:Arngeir|Arngeir]] at [[Skyrim:High Hrothgar|High Hrothgar]]
+|Loc=
+|Reward=A [[Skyrim:Word of Power|Word of Power]]
+|Prev=[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]
+|Image=SR-quest-The Words of Power.jpg
+|Imgdesc=Words of Power, Way of Voice
+|description=Follow the [[Skyrim:Greybeards|Greybeards]]' advice to learn a [[Skyrim:Word of Power|Word of Power]] from a [[Skyrim:Word Wall|word wall]].
+|ID=FreeformHighHrothgarA
+|radiant=yes
+}}
+==Radiant Options==
+This quest can send you to ''almost'' any dungeon or dragon lair that contains a [[Skyrim:Word Wall|word wall]]. The list of possible values of <code>Dungeon</code> is:
+{{Hold List
+|eastmarch={{LinkList|Bonestrewn Crest|sep=<br>|ns_base=Skyrim}}
+|falkreath={{LinkList|Ancient's Ascent|Shriekwind Bastion|Sunderstone Gorge|sep=<br>|ns_base=Skyrim}}
+|haafingar={{LinkList|Kilkreath Ruins|Volskygge|sep=<br>|ns_base=Skyrim}}
+|hjaalmarch={{LinkList|Dead Men's Respite|Eldersblood Peak|Folgunthur|Skyborn Altar|sep=<br>|ns_base=Skyrim}}
+|pale={{LinkList|Forsaken Cave|High Gate Ruins|Shearpoint|Silverdrift Lair|Volunruud|sep=<br>|ns_base=Skyrim}}
+|reach={{LinkList|Dead Crone Rock|Dragontooth Crater|Hag's End|Lost Valley Redoubt|Ragnvald|Valthume|sep=<br>|ns_base=Skyrim}}
+|rift={{LinkList|Angarvunde|[[Skyrim:Arcwind_Point|Arcwind Point]] {{DG|1}}|Autumnwatch Tower|Forelhost|Lost Tongue Overlook|Northwind Summit|Shroud Hearth Barrow|sep=<br>|ns_base=Skyrim}}
+|whiterun={{LinkList|Dustman's Cairn|Rannveig's Fast|sep=<br>|ns_base=Skyrim}}
+|winterhold={{LinkList|Ironbind Barrow|Mount Anthor|sep=<br>|ns_base=Skyrim}}
+}}
+
+The list of word walls you will ''not'' be sent to includes the following, most of which have an associated quest. In addition to those listed here, no Dawnguard or Dragonborn word walls will ever be targeted by this quest except Arcwind Point.
+{| class="wikitable sortable"
+! Location !! Shout !! Quest
+|- 
+| [[Skyrim:Bleak Falls Barrow (place)|Bleak Falls Barrow]] || [[Skyrim:Unrelenting Force|Unrelenting Force]] || [[Skyrim:Bleak Falls Barrow (quest)|Bleak Falls Barrow]]<br>[[Skyrim:The Golden Claw|The Golden Claw]]
+|- 
+| [[Skyrim:Dark Brotherhood Sanctuary|Dark Brotherhood Sanctuary]] || [[Skyrim:Marked for Death|Marked for Death]] || [[Skyrim:With Friends Like These...|With Friends Like These...]]<br>[[Skyrim:Destroy the Dark Brotherhood!|Destroy the Dark Brotherhood!]]
+|- 
+| [[Skyrim:Frostmere Crypt|Frostmere Crypt]] || [[Skyrim:Ice Form|Ice Form]] || [[Skyrim:The Pale Lady|The Pale Lady]]
+|- 
+| [[Skyrim:Korvanjund|Korvanjund]] || [[Skyrim:Slow Time|Slow Time]] || The Jagged Crown ([[Skyrim:The Jagged Crown (Imperial)|Imperial]]/[[Skyrim:The Jagged Crown (Stormcloaks)|Stormcloaks]])
+|- 
+| [[Skyrim:Labyrinthian|Labyrinthian]] || [[Skyrim:Slow Time|Slow Time]] || [[Skyrim:The Staff of Magnus|The Staff of Magnus]]
+|- 
+| [[Skyrim:Saarthal|Saarthal]] || [[Skyrim:Ice Form|Ice Form]] || [[Skyrim:Under Saarthal|Under Saarthal]]
+|- 
+| [[Skyrim:Shalidor's Maze|Shalidor's Maze]] || [[Skyrim:Dismay|Dismay]] || None
+|- 
+| [[Skyrim:Skuldafn|Skuldafn]] || [[Skyrim:Storm Call|Storm Call]] || [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]]
+|- 
+| [[Skyrim:Snow Veil Sanctum|Snow Veil Sanctum]] || [[Skyrim:Disarm|Disarm]] || [[Skyrim:Speaking With Silence|Speaking With Silence]]
+|- 
+| [[Skyrim:Ustengrav|Ustengrav]] || [[Skyrim:Become Ethereal|Become Ethereal]] || [[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]
+|- 
+| [[Skyrim:Ysgramor's Tomb|Ysgramor's Tomb]] || [[Skyrim:Animal Allegiance|Animal Allegiance]] || [[SKyrim:Glory of the Dead|Glory of the Dead]]
+|}
+
+==Detailed Walkthrough==
+After completing [[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]], you can talk to [[Skyrim:Arngeir|Arngeir]] and tell him that you would like to learn more about the Voice.  He will respond:
+:''"You have learned so much already, Dragonborn. Growing your gift too quickly would be dangerous. But there are many Words of Power in Skyrim, carved in the Dragon tongue. Even from here, we can feel the Thu'um resonate from them.  Finding these lost Words would be a sufficient test, to temper your abilities with experience. Ask when you are ready to search."''
+
+Thereafter, you can ask him whether the Greybeards have located any words of power.  He has two possible replies:
+:''"There is only silence right now. Perhaps later we will hear one of the lost Words."''
+:''"We have felt the whisper of a Word. Give me your map, and I will show you where its echo can be found."''
+The latter response will cause the location of the word wall to be marked on your map, and you will be given a new quest objective.
+
+This quest can be repeated multiple times, and it can also be active simultaneously with the other word wall quest, [[Skyrim:Shout - learn about word wall|Shout - learn about word wall]]. Both quests can even point you to the same location as the other. However, if you choose to [[Skyrim:Paarthurnax (quest)|kill]] [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] for the [[Skyrim:Blades|Blades]], this quest is no longer available.
+
+==Notes==
+*If you have ''[[Skyrim:Dragonborn|Dragonborn]]'' installed, Arngeir won't help you learn any Words of Power on [[Skyrim:Solstheim|Solstheim]].
+
+==Bugs==
+{{Bug|If sent to [[Skyrim:Arcwind_Point|Arcwind Point]], finding the word wall may not mark the quest as completed in your journal. Arcwind Point may be given as a destination even when the word wall has already been found, preventing progress in the quest.|UDGP|1.1a|confirmed=1}}
+**{{pc22}} Using the command <code>SetStage FreeFormHighHrothgarA 20</code> will end the quest and allow you to acquire another quest normally. Setting Arcwind Point as cleared via <code>SetLocationCleared fd685 1</code> will prevent getting sent there again.
+{{Bug|If you learn a word from a different word wall from the one that Arngeir points you to before visiting the quest-marked one, the test may be prematurely logged complete. For instance, after being directed to [[Skyrim:Shearpoint|Shearpoint]] by Arngeir, visiting [[Skyrim:Lost_Tongue_Overlook|Lost Tongue Overlook]] instead can complete the quest.  This is another possible solution for the Arcwind Point bug mentioned above.|confirmed=1}}
+
+==Quest Stages==
+{{Journal Entries
+|10||{{Quest Objective|10|Find the Word of Power in <Alias&#61;Dungeon>}}
+|missing=20
+}}
+{{Skyrim Quest Stages Notes}}

@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Whiterun",
+  "revid": 3654603,
+  "timestamp": "2026-10-16T18:51:58Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3654603&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "207ae88b5fd84ba531db0b36787da7a644c3599deb49862a9792a65e92f852bf",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 26467,
+  "ns": 130,
+  "parentid": 3621416,
+  "requested_title": "Lore:Whiterun",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Whiterun",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3654603",
+  "sha1": "b57a46ba289965020983ee79cc35c1bce6af1140",
+  "sha1_matches_mediawiki": true,
+  "bytes": 31021,
+  "chars": 31009,
+  "lines": 184,
+  "saved_as": "research/sources/uesp/Lore_Whiterun.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Nordic|Lore:Elder+Scrolls|Lore:Rorikstead|Lore:Granite+Hill|Lore:Old+Hroldan|Lore:Ivarstead|Lore:Whiterun|Lore:Northwind+Mine|Lore:Forgotten+Vale|Lore:Ja%27darri|Lore:Fa-Nuit-Hen|Lore:Scaleborn",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:42Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

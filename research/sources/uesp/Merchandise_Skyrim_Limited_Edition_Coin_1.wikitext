@@ -1,0 +1,34 @@
+{{Merchandise Item Summary
+|image=MER-misc-Skyrim Limited Edition Coin 1.jpg
+|imgdesc=Skyrim Limited Edition Coin
+|merchcat=Miscellaneous
+|type=Collectible Coins
+|availability=
+|listing=[https://gear.bethesda.net/products/skyrim-limited-edition-coin Bethesda Gear Store]
+|manufacturer=
+|price=$15.00 USD
+|sizes=
+|measurements='''Diameter:''' 38mm (1.5 in)<br>'''Width:''' 0.3mm (.01 in)<br>'''Weight:''' 45 grams
+|status=Unavailable
+}}
+A limited edition coin inspired by ''Skyrim''. Only 9,995 of these coins were minted.<!-- The coin is corrosion resistant due to being made from zinc alloy.-->
+
+The head of the coin has the Dragonborn warrior embossed in the center, and Esbern's dialogue from the trailer on the border. ("But... there is one they fear. In their tongue... He is 'Dovahkiin' Dragonborn!") On the tail-side of the coin: Skyrim's logo is embossed in the center, and ornate knotwork adorns the border. The individual coin's mint number is printed on the bottom-right.
+<!--Store Description:
+SATISFY YOUR WILL TO POWER
+
+And your urge to collect treasure!
+
+Be among the few to keep this precious token. Dragonborn are scarce, and with only 9,995 worldwide, this coin is no exception.
+
+Every piece comes with its unique number, so yours is one of a kind.
+
+Put it on display. Those details deserve to be shown off.
+
+Or keep it in your pocket for good fortune. While you'll certainly enjoy feeling the satisfying weight of this coin, it's still small enough to carry around.
+
+Give it a toss. If you're leaving anything to chance, you might as well make it more interesting. Heads for Blades, tails for Greybeards?-->
+{{NewLeft}}
+
+==Material==
+*Zinc alloy with nickel plating

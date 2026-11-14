@@ -1,0 +1,56 @@
+{{Trail|Purchases/Decks|addcat1=Decks-Premade}}{{Legends Deck Summary
+|name=Paarthurnax's Roar (formerly Paarthurnax's Disciples)
+|type=theme deck
+|art=[[Legends:Paarthurnax|Paarthurnax]] (formerly [[Legends:Gladiator Arena|Gladiator Arena]])
+|release=[[Legends:Heroes of Skyrim|Heroes of Skyrim]]
+|price={{Legends Gold|500}} or USD $4.99/€4.99
+|deckcode=SPAGfvfdlfoijylRAEgulhoxaNAMmGrieSgsqylznSnXeIsaslhC
+|deckclass=Archer
+|theme=[[LG:Shouts|Shouts]] — [[LG:Decks#Deck Archetype|Midrange]]
+|agility=30
+|endurance=
+|intelligence=
+|strength=8
+|willpower=
+|neutral=10
+|dual=2
+|triple=
+|common=33
+|rare=12
+|epic=4
+|legendary=1
+|m0=
+|m1=9
+|m2=10
+|m3=16
+|m4=6
+|m5=1
+|m6=3
+|m7=4
+|m12=1
+}}
+
+{{Decklist|skipNotes=1
+|Drain Vitality|3
+|Rapid Shot|3
+|Word Wall|3
+|Archer's Gambit|2
+|Fighters Guild Recruit|3
+|Finish Off|2
+|Murkwater Witch|2
+|Thieves Guild Recruit|3
+|Nimble Ally|3
+|Shadowscale Partisan|3
+|Skooma Racketeer|2
+|Unrelenting Force|3
+|Young Dragonborn|3
+|Earthbone Spinner|1
+|Greybeard Mentor|3
+|Murkwater Shaman|1
+|Sightless Skulk|1
+|Leaflurker|1
+|Shearpoint Dragon|3
+|Dovah of the Voice|3
+|Duel Atop the World|1
+|Paarthurnax|1
+}}

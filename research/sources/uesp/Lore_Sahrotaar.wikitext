@@ -1,0 +1,22 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Apocrypha
+|appears=[[SR:Sahrotaar|Skyrim]]
+|image=SR-creature-Sahrotaar.jpg
+|death3=4E 201
+|death3Loc=Apocrypha
+}}[[File:MER-art-Sahrotaar And Miraak.webp|thumb|left|Sahrotaar and Miraak]]</noinclude>
+[[Lore:Sahrotaar|Sahrotaar]] was a serpentine [[Lore:Dragon|dragon]] whose name could mean "Mighty Servant", "Mighty Slave",{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=Odahviing}} "Phantom Word Slave" or "Phantom Word Servant"{{ref|name=Prima}}{{ref|name=PAR|[[Skyrim:Paarthurnax (dragon)|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Odahviing|[[Skyrim:Odahviing|Odahviing]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} in the [[Lore:Dragon Language|Dragon Language]].
+
+At a certain point in history, Sahrotaar swore allegiance to [[Lore:Miraak|Miraak]] and considered him the only true [[Lore:Dragonborn|Dovahkiin]].{{Ref|name=Sahrotaar|[[Skyrim:Sahrotaar|Sahrotaar]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} Miraak used Sahrotaar as his personal mount.{{ref|name=TTOM|Events of [[Skyrim:The Temple of Miraak|The Temple of Miraak]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+In {{Year|4E 201}}, the [[Lore:Hero|Last Dragonborn]] traveled to [[Lore:Apocrypha|Apocrypha]] to challenge Miraak. Through use of the [[Lore:Thu'um|Thu'um]], they swayed Sahrotaar to betray Miraak. He helped them to reach the First Dragonborn on the summit of Apocrypha where the Last Dragonborn confronted Sahrotaar's former master. During the fight Miraak absorbed Sahrotaar's soul to regain vitality, killing him in the process.{{Ref|name=ASA|Events of [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}{{ref|name=Miraak|[[Skyrim:Miraak (person)|Miraak]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} Having had his soul devoured by another dovah, Sahrotaar was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+{{NewLeft}} 
+
+==See Also==
+*{{GSI|Skyrim:Sahrotaar}}
+
+==References==
+<references/>

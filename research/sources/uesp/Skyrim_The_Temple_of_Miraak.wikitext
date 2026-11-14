@@ -1,0 +1,103 @@
+{{About|the quest|the location|Temple of Miraak}}{{Mod Header|Dragonborn}}<noinclude>{{Cleanup-srqrp
+|writtenBy=Krusty
+|checkedBy=Beezer1029
+|reward=Krusty
+|rewardChecked=Beezer1029
+}}</noinclude>{{Trail2|Dragonborn|Quests|link2=Dragonborn_Quests}}[[Category:Skyrim-Quests]]{{Quest Header
+|notrail=1
+|Giver=Automatic after completing [[Skyrim:Dragonborn (quest)|Dragonborn]]
+|Icon=SR-qico-Main 2.png
+|Reward=Word for the [[Skyrim:Dragon Aspect|Dragon Aspect]] shout, <br> The Black Book [[Skyrim:Black Book: Waking Dreams (book)|Waking Dreams]].
+|Prev=[[Skyrim:Dragonborn (quest)|Dragonborn]]
+|Next=[[Skyrim:The Fate of the Skaal|The Fate of the Skaal]]
+|Loc=[[Skyrim:Temple of Miraak|Temple of Miraak]]
+|Image=SR-quest-The Temple Of Miraak.jpg
+|ImgDesc=[[Skyrim:Temple of Miraak|Temple of Miraak]]
+|ID=DLC2MQ02
+|description= Uncover the source of [[Skyrim:Miraak (person)|Miraak]]'s power in the [[Skyrim:Temple of Miraak|Temple of Miraak]]. 
+|SuggLevel=30
+}}
+
+== Quick Walkthrough ==
+# Travel to the [[Skyrim:Temple of Miraak|Temple of Miraak]].
+# Find and talk to [[Skyrim:Frea|Frea]].
+# Enter the temple and travel through it.
+# Read the Black Book ''[[Skyrim:Black Book: Waking Dreams (book)|Waking Dreams]]'' at the end of the temple.
+
+== Detailed Walkthrough ==
+===Here in His Temple===
+When you reach the [[Skyrim:Temple of Miraak|Temple of Miraak]] you will find that the exterior is under construction by the enthralled people of Solstheim, all of them forced by [[Skyrim:Miraak (person)|Miraak]] to rebuild the temple. You may also notice that you are not the only unenslaved person around, as [[Skyrim:Skaal Village|Skaal]] resident, [[Skyrim:Frea|Frea]], will be attempting to contact the mindless builders. Enter the center of the structure and the quest will begin with Frea seeking you out. She explains that she is there to either free or avenge her people, revealing that the workers are from [[Skyrim:Skaal Village|her village]]. She is also knowledgeable about the return of Miraak and will offer you companionship to help defeat him. Her assistance starts with locating the entrance to the underground Temple. Soon afterward, a gate will open and two [[Skyrim:Cultist|cultists]] will come rushing out, revealing the entrance. Dispose of them and follow Frea into the temple.
+
+===Temple of Miraak===
+[[File:SR-quest-The Temple Of Miraak 02.jpg|thumb|right|[[Skyrim:Frea|Frea]] waits until the path is clear.]]
+Go through the first corridor and check the neighboring rooms for a few healing potions and a chest with minor loot. Proceed north until you reach a room with a [[Skyrim:Pressure Plate|pressure plate]] that triggers [[Skyrim:Dart Trap|darts]]. Two cultists will attack as well, but Frea will quickly show that she is a capable warrior and kill them on the spot. There is a restless [[Skyrim:Draugr|draugr]] in the upright sarcophagus on the left-hand raised section in this room. There is also a dead (lootable) [[Skyrim:Draugr|draugr]] in the sarcophagus on the right-hand side. These do not seem to emerge unless you climb onto the relevant raised section of floor. More pressure plates can be found in the next room, both of them triggering [[Skyrim:Battering Ram|battering rams]]. Avoid them and head west. Pull the lever to open the gate into what appears to be a torture-showroom, with several skeletons in cages and a throne that provides a good view of the mayhem. Frea will spot something near the throne but reckons it's impossible to reach. The task is of course left to you. Next to the broken stairs, jump onto the overturned pillar and from there, jump down to the platform and the throne. Claim the contents from the boss-leveled chest and jump back down. As you approach the bloody steps underneath the cages, a boss-leveled [[Skyrim:Draugr|draugr]] will break out of his sarcophagus and attack. When walking down the stairs, more cultists will show up. Finish the fights and continue forward. Activate the handle to gain access to the northeastern tunnel and fight the draugr who resides there. When you reach another pressure plate and a [[Skyrim:Swinging Blades|swinging blades]] trap, you will be attacked on all sides by leveled draugr. The path now splits, but both paths will land you in the same catacombs with quick access to a huge chamber protected by yet another pressure plate triggering [[Skyrim:Flame Spout Trap|flame spouts]]. In the chamber, quite a few swinging blades will activate. Frea will order you to solve the problem, and even make herself comfortable while she waits. The blades' area of effect is easily avoided by simply hugging the walls of the chamber, though you can also just dodge them, by waiting for a second of space to pass through unarmed quickly, or by using the shouts; [[Skyrim:Become Ethereal|Become Ethereal]], or [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]]. Stop the traps by activating the handle on the other side of the room and Frea will come walking up to you. Head through the door with her and face a closed iron gate. The adjacent window reveals a handle, so make your way there and activate it. There is also a chain in the room behind the gate that reveals a chamber with a chest. Behind the gate is another huge chamber, and several raised wooden bridges will fall into place when you enter. Two leveled draugr and a cultist will be waiting to the south. Dispose of them all and enter the [[Skyrim:Temple of Miraak Sanctum|Sanctum]].
+
+===Sanctum===
+[[File:SR-quest-The Temple Of Miraak 03.jpg|thumb|right|The Gatekeeper attacks.]]
+The path ahead is quite narrow and leads onto a bridge where you will encounter at least six [[Skyrim:Skeleton|skeletons]]. Next up are several draugr bursting out of their coffins, along with more pressure plates triggering battering rams. You will now be in the chamber you just crossed on the bridge. To the right is a passage leading to a room with several potions, coin purses, and two spell tomes: an apprentice level [[Skyrim:Alteration|Alteration]] and an apprentice level [[Skyrim:Conjuration|Conjuration]] spell tome. Take what you want and return to the huge room where you will encounter more draugr and cultists. Head around the pit in the center of the room and go west. Before long, you will hear the easily recognizable chant from a [[Skyrim:Word Wall|word wall]] in the room ahead. The room contains both the word wall and a provocative trophy, hung there by Miraak as a symbol of his superiority. While Frea comments on this, go and learn the first word for the [[Skyrim:Dragon Aspect|Dragon Aspect]] shout (or the second, if you have already learned the first word in Raven Rock Mine). This will cause numerous draugr to attack, including the unique [[Skyrim:Gatekeeper|Gatekeeper]]. After the battle, search the Gatekeeper for the [[Skyrim:Temple of Miraak Key|temple key]] then find his sarcophagus on the western wall and unlock the door behind it. It opens to a macabre dining table, the skeletal guests still in their seats. Behind the table is a tunnel leading to a larger dining area with a kitchen behind. When you reach the kitchen, Frea will realize it is a dead end and will order you to have a look around while she backtracks to the dining area. 
+
+The kitchen contains an [[Skyrim:Alchemy Lab|alchemy lab]], a few potions and ingredients, and most importantly, a path in the southeastern corner leading to a handle. When activated, a hidden door in the dining area will open up. In the next chamber, Frea will hint that there may be something in there that fills in the holes in the story of [[Skyrim:Miraak (person)|Miraak]], and will head into the next room and gaze at the statues. Similar to her actions back in the trapped room, she will ask you to activate the button while she waits at a safe distance. The handle removes the grate in the floor and reveals a wooden staircase going down. Head down and follow the path to another set of stairs. Proceed through two empty rooms until you find a handle lowering the rock wall. Continue down yet more stairs and open the door. A huge chamber will be revealed, guarded by draugr and skeletons, and booby-trapped with [[Skyrim:Tripwire|tripwires]] triggering [[Skyrim:Falling Boulders|falling boulders]]. Make your way to the top and face a boss-leveled draugr, being sure to loot the chest behind his sarcophagus. Activate the chain on the southern wall and follow the serpentine path until you reach your target, a pedestal holding a [[Skyrim:Black Book (book)|Black Book]], ''[[Skyrim:Black Book: Waking Dreams (book)|Waking Dreams]]''.
+
+===Waking Dreams===
+[[File:SR-quest-The Temple Of Miraak 04.jpg|thumb|right|''"Who are you to dare set foot here?"'']]
+When you read the Black Book, dark tentacles will reach out of the book's pages and grab you. You will be transported to a [[Skyrim:Apocrypha (Waking Dreams)|strange realm]] just in time to see [[Skyrim:Sahrotaar|a dragon]] arrive. Nearby are a few [[Skyrim:Seeker|seekers]] standing guard and Miraak himself. You will be unable to move and can do nothing but listen to Miraak's monologue: ''"Who are you to dare set foot here? Ahh... You are Dragonborn. I can feel it. And yet..."'' At this point his dialogue will differ depending on your progress of the main quest (see [[#Notes|notes]]). After the conditional comment he will continue, ''"You have no idea of the true power a Dragonborn can wield!"'' He will then demonstrate the Dragon Aspect shout. ''"Mul... Qah Diiv! This realm is beyond you. You have no power here. And it is only a matter of time before Solstheim is also mine. I already control the minds of its people. Soon they will finish building my temple, and I can return home."'' He will then turn to the four seekers and say: ''"Send him/her back where he/she came from. He/She can await my arrival with the rest of Tamriel."'' The seekers will then shower you with magic and while you slowly lose consciousness, you can see Miraak mount the dragon and fly away. Moments later, you will be back in the [[Skyrim:Temple of Miraak Sanctum|Sanctum]] and Frea will demand an explanation. As soon as she realizes the potential danger of the situation, she will suggest that you follow her to her village and talk to her father, [[Skyrim:Storn Crag-Strider|Storn Crag-Strider]]. This ends the quest and begins the next in line, [[Skyrim:The Fate of the Skaal|The Fate of the Skaal]].
+
+Since the Black Book is an inventory item, you may re-read it at any time, and explore it more thoroughly in Miraak's absence, all the way up to getting the second (or third) word of the Dragon Aspect shout: however you will not be able to unlock the final part of the book until the concluding part of the Main Quest, when you *must* return here.
+
+===Achievements===
+One [[Skyrim:Achievements#Dragonborn|achievement]] is unlocked when you complete this quest:
+* {{Achievement|The Temple of Miraak (achievement)|descr=no}}
+
+==Notes==
+* During your encounter with Miraak his dialogue will differ, based on your progress and how many dragons you have killed. This table shows the dialogue bits and the conditions: 
+:{|class=wikitable width=90%
+! Dialogue !! Conditions
+|-
+| ''"You have done little beyond killing a few dragons."''||Fewer than 10 dragons killed
+|-
+| ''"You have defeated dragons, yes, but still..."''||Between 10 and 25 dragons killed
+|-
+|''"You have slain a great many dragons, I see. And yet..."''||Over 25 dragons killed
+|-
+|''"So you have slain Alduin... Well done. I could have slain him myself, back when I walked the earth, but I chose a different path."''||Completed [[Skyrim:Dragonslayer|Dragonslayer]]
+|}
+
+*When you kill the very first dragon after completing this quest, Miraak will appear and steal the soul from you, as he will 25% of the time with other dragons you kill until the Dragonborn questline is completed. His appearances are scripted, and will occur regardless of if you are in Skyrim or on Solstheim. He is unable to be attacked or interacted with, as he will appear in an ethereal state and is a "ghost". The only option when encountering him is to just let him steal the soul from you. His first appearance is ''always'' guaranteed; afterwards he will only appear 25% of the time. There is one exception in some cases for the first dragon you kill; see the notes of the next quest for details.
+
+*This quest may be started after completing [[Skyrim:Dragon Rising|Dragon Rising]] by cleansing the [[Skyrim:Wind Stone|Wind Stone]], Talking to Storn afterwards will have him direct you to the temple, starting this quest and bypassing Dragonborn (quest) entirely.
+
+*If you sleep on Solstheim during Dragonborn, you may be transported to the Tree Stone at the Temple, which thus completes that quest and starts this one.
+
+==Bugs==
+{{Bug|Frea may randomly appear at locations throughout the temple, and may not follow you once the next quest has begun. If you dismiss your follower, or tell them to wait outside, and re-enter the temple, she should reappear near where you found the book. This seems to happen because the script that causes her to lead you out on the next quest only activates if you speak to her near that spot.|confirmed=1}}
+{{Bug|If you exit the temple before finishing your search, Frea's script will believe you left and therefore walk back to the entrance interior and will not follow you until you rejoin her there and pull out your weapons. She will then re-follow you back down and behave normally.|confirmed=0}}
+{{Bug|After reading the Black Book and being teleported to Apocrypha, Miraak may be cut off after the first line "The time comes soon when..." and you then are transported back to the Sanctum unable to move indefinitely. This can be fixed by saving in Apocrypha and then loading afterwards.|confirmed=1}}
+{{Bug|After reading the Black Book, completing the dialogue, and leaving, Frea will say her lines and walk back to Skaal Village but will never talk to Storn and the next quest will not begin.|confirmed=1}}
+{{Bug|The variable Miraak checks when determining how many dragons you have slain is never updated by the game, resulting in him always saying, ''"You have done little beyond killing a few dragons."'' unless you have slain Alduin.|UDBP|2.0.2|The dialogue is instead determined by how many dragon souls you have absorbed.}}
+{{Bug|Miraak's scene (DLC2MQ02MiraakApocryphaScene) has an incorrect gender check which blocks the response line for female player characters.|USLEEP|3.0.6}}
+{{Bug|Frea can be asked what the Tree Stone is. Unfortunately, there is an unnecessary restriction on the topic preventing it from being accessible in an interior.|USSEP|4.3.2}}
+{{Bug|The two Cultists outside the Temple may never despawn once the quest is finished. They may also respawn after some time and attack you again.|USSEP|4.3.8}}
+
+==Quest Stages==
+{{Journal Entries
+|5||After freeing the Skaal from the magic controlling them, Storn, the shaman, has asked me to seek out a member of their tribe who is still missing. I need to look to the temple near the center of Solstheim to find Frea and make sure she is safe.
+{{Quest Objective|5|Find Frea}}
+|10||I've found Miraak's temple on Solstheim. Now I need to find out why people are trying to kill me on his behalf.
+{{Quest Objective|10|Talk to Frea}}
+|20||{{Quest Objective|20|Defeat Miraak}}
+|25||I was successful in defeating Miraak after he attacked me, but he has disappeared. I should search his temple to learn more about what's going on here.
+{{Quest Objective|25|Explore the Temple}}
+|30||I've found Frea, a warrior from the Skaal Village on Solstheim. She is also searching the Temple of Miraak, looking for answers. We've agreed that we need to find where Miraak's power is coming from.
+{{Quest Objective|30|Find the source of Miraak's power}}
+|40||After delving through the Temple of Miraak, Frea and I have discovered a strange book deep within secret chambers. Frea believes it has a connection to what's happening on Solstheim. I should read it to learn what secrets it holds.
+{{Quest Objective|40|Read the Black Book}}
+|60||After searching the Temple of Miraak, Frea and I found a strange book. When I read it, I was transported to some other realm, where I learned that Miraak is still alive and plans to return to Solstheim. I need to tell Frea what I've seen.
+{{Quest Objective|60|Talk to Frea}}
+|200|fin|After finding Frea, and searching the Temple of Miraak, we discovered a strange book. When I read it, I was transported to some other realm and learned that Miraak is still alive and claims he'll return soon. Frea has suggested we take this information back to her village, and see what can be done to stop Miraak.
+|''Unknown''||{{Quest Objective|50|Approach Miraak}}
+[[Category:Skyrim-SRQRP-Unknown Objectives]]
+|missing=0, 22, 50
+}}
+{{Skyrim Quest Stages Notes}}
+
+{{Quest Footer|Prev=[[Skyrim:Dragonborn (quest)|Dragonborn]]|Next=[[Skyrim:The Fate of the Skaal|The Fate of the Skaal]]}}

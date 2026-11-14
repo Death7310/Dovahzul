@@ -1,0 +1,50 @@
+{{Mod Header|Elsweyr}}{{Online Collectible Summary
+|image=ON-pet-Green Dragon Imp
+|icon=ON-icon-pet-Green Dragon Imp
+|id=5721
+|description="Ha ha! Fooled you, didn't it? Looks just like a Baby [[Online:Dragon|Dragon]], doesn't it? Well, there are no such things, and you should know better. It's just an Illusion [[Online:Imp|Imp]] with a rather [[Lore:Peryite|Peryite]] look to it. Baby Dragon, really!" —[[Online:Abnur Tharn|Abnur Tharn]]
+|collectibletype=Pet
+|type=Flying Pet
+|nickname=Pookdovah
+|acquisition=[[Online:Dragon Rise|Dragon Rise]] Event
+|crate=
+|tier=
+|price={{ESO TB|750}}
+|date=
+}}The '''Green Dragon Imp''' was acquired as part of the [[Online:Dragon Rise|Dragon Rise]] Event, when 38% of players who owned [[Online:Elsweyr|Elsweyr]] completed the [[Online:Northern Elsweyr Pathfinder|Northern Elsweyr Pathfinder]] [[Online:Achievements|Achievement]]. It was later added to the Seasonal wares of the [[ON:Gold Coast Bazaar|Gold Coast Bazaar]] for {{ESO TB|750}} between April 2, 2026 to July 8, 2026.
+
+Its default name is "Pookdovah", which means "Stink Dragon" in the [[Lore:Dragon Language|Dragon Language]].
+{{NewLeft}}
+==Occurrences==
+'''Appearances: 2'''
+* Dragon Rise - October 3, 2019 - October 14, 2019
+* Gold Coast Bazaar — April 2, 2026 - July 8, 2026
+<!--==Physical Description==
+
+--><!--
+
+==Notes==
+*
+-->
+==See Also==
+*[[Online:Appleback Salamander|Appleback Salamander]]
+*[[Online:Ebony Dwarven Scarab|Ebony Dwarven Scarab]]
+*[[Online:Pellucid Swamp Jelly|Pellucid Swamp Jelly]]
+*[[Online:Psijic Mascot Pony|Psijic Mascot Pony]]
+
+==Gallery==
+<gallery>
+File:ON-crown store-Green Dragon Imp.jpg|[[Online:Crown Store Renders/Pets|Promotional render]]
+File:ON-event-Dragon Rise.jpg|Featured in a [[Online:Renders/Elsweyr|promotional render]]
+File:ON-event-Dragon Rise 02.jpg|Featured in a promotional render
+File:ON-render-Home Tours 03.jpg|Featured in a [[Online:Renders/Updates|promotional render]]
+File:ON-furnishing-Green Dragon Imp.jpg|Furnishing
+File:ON-card-Green Dragon Imp.png|Card
+</gallery>
+<!--Instructions: Add any bugs related to the collectible here using the format below.
+==Bugs==
+{{Bug|Bug description}}
+**Workaround
+--><!--
+==References==
+<references />-->

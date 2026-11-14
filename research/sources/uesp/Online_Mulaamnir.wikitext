@@ -1,0 +1,171 @@
+{{Mod Header|Elsweyr}}{{Online NPC Summary
+|image=ON-creature-Mulaamnir.jpg
+|imgdesc=Mulaamnir
+|race=Dragon
+|creature=1
+|loc=[[ON:Defense Force Outpost|Defense Force Outpost]], [[ON:Sleepy Senche Mine|Sleepy Senche Mine]]
+|health=2,653,794
+|reaction=Friendly
+|faction=
+}}{{TOCright}}
+'''Mulaamnir''' is a blue [[ON:Dragon|dragon]] who serves as the second-in-command to [[ON:Kaalgrontiid|Kaalgrontiid]]. He appears at the [[ON:Defense Force Outpost|Defense Force Outpost]] while burning it down and can be followed to the [[ON:Sleepy Senche Mine|Sleepy Senche Mine]]. At the mine, he will parley with you and hint at [[ON:Euraxia Tharn|Euraxia's]] plans.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Halls of Colossus}}
+*{{Quest Link|A Rage of Dragons}}
+*{{Quest Link|The Battle for Riverhold}}
+*{{Quest Link|Two Queens}}
+*{{Quest Link|Cadwell the Betrayer (quest)}}
+*{{Quest Link|Jode's Core (quest)}}
+
+==Quest-Related Events==
+===The Halls of Colossus===
+Mulaamnir is the first of the dragons seen flying out from the Summit of Rending Flames after [[ON:Abnur Tharn|Abnur Tharn]] accidentally unseals it using the [[Lore:Wrathstone|Wrathstone]]. His appearance is very brief and his health bar is not displayed.
+
+===A Rage of Dragons===
+[[File:ON-creature-Mulaamnir 02.jpg|thumb|right|''"You dare challenge Mulaamnir?"'']]
+After Mulaamnir burns the Defense Force Outpost down, he will fly to the south. [[Online:Khamira|Khamira]] and her soldiers will track him down to the Sleepy Senche Mine. Once they have helped you deal with the [[ON:Euraxians|Euraxian]] necromancers and their forces, the squad will be attacked by Mulaamnir.
+:'''Mulaamnir''': ''"Far enough, little insects."''
+:<They start firing arrows at the dragon.>
+:'''Mulaamnir''': ''"You dare challenge Mulaamnir?"''
+:'''Khamira''': ''"Dragonfire! Move!"''
+:<Khamira leaps off the cliff. The others are not so lucky and are blasted with fire.>
+:'''Mulaamnir''': ''"Pathetic creatures."''
+
+You can head outside the mine through a nearby tunnel, Mulaamnir will be waiting for you. However, he won't be in the mood for killing you at that moment.
+:'''Mulaamnir''': ''"Sheathe your weapons, little morsel. Mulaamnir would talk to you."''
+
+If you were involved in the [[Online:The Halls of Colossus|release of the dragons]] from the [[Online: Halls of Colossus|Halls of Colossus]], Mulaamnir will remember and thank you.
+:''"Mulaamnir wanted to thank you, little morsel. Your actions helped set us free of our hated prison.<br>Now, listen to the words I say."''
+In the case that you have not completed The Halls of Colossus, this is the first time you meet Mulaamnir:
+:''"Look upon Mulaamnir and despair, morsel. You have no chance against me. No chance at all. <br>But Mulaamnir can be merciful. Come, let us talk.''"
+:'''You decimated the Khajiiti Defense Force and now you expect me to talk to you?'''
+:''"Mulaamnir wants you to understand the challenge before you.<br>Our puppet, Euraxia, commands a legion of soldiers, an army of necromancers, and a horde of [[ON:Undead|undead]]. Add my Dragon brothers and the hopelessness of your cause becomes obvious."''
+:'''So you expect us to surrender?'''
+If you released the dragons, he will offer mercy to you and Abnur Tharn out of a sense of gratitude:
+:''"You and [[ON:Abnur Tharn|Abnur Tharn]] set us free. You released us from the Halls of Colossus. For that, I offer you this one last chance to survive.<br>If you and the battlemage leave [[ON:Provinces#Elsweyr|Elsweyr]], my brothers and I will not hunt you down."''
+Otherwise, he will offer the same clemency but in a distinctly more hostile tone:
+:''"You and Abnur Tharn are insignificant. But even an infinitesimal flea can irritate after it crawls beneath the scales. I offer you one last chance to survive.<br>If you and the battlemage leave Elsweyr, my brothers and I will not hunt you down."''
+:'''And if we refuse to leave?'''
+:''"Then you will die. But not before we slaughter your friends and set fire to Elsweyr. Once we reduce this land to so much ash, only then will I tear you apart.<br>So promises Mulaamnir, whose claws have dealt a thousand deaths."''
+{{ESO Red Choice
+|option1=I'll tell Abnur Tharn what you said.
+|option1outcome=The conversation will end and Mulaamnir will fly away while giving an ultimatum:
+:'''Mulaamnir''': ''"Leave Elsweyr, little morsel. Tell the battlemage. If I see you again, you will die."''
+|option2=The next death I deal is going to be yours!
+|option2outcome=The conversation will end and Mulaamnir will fly away while giving a parting shot:
+:'''Mulaamnir''': ''"You dare ignore Mulaamnir? Impudent morsel! Euraxia is our puppet, and her army is ours to command. Leave Elsweyr and take the battlemage with you or when next we meet, you will die!"''
+}}
+
+===The Battle for Riverhold===
+Mulaamnir circles around [[ON:Riverhold|Riverhold]] after [[ON:Bahlokdaan|Bahlokdaan]] and Kaalgrontiid arrive.
+
+===Two Queens===
+[[File:ON-quest-Two Queens 05.jpg|thumb|right|Mulaamnir with Euraxia]]
+In the [[ON:Rimmen Palace|Rimmen Palace]] Courtyard, Mulaamnir informs Euraxia of the change in plans:
+:'''Euraxia Tharn''': ''"The Moon Gate you seek lies to the southwest. [[ON:Zumog Phoom|Zumog Phoom]] has the key. Now, about my request .…"''
+:'''Mulaamnir''': ''"The necromancers have already agreed to serve Kaalgrontiid. You no longer interest us, Euraxia Tharn."''
+:'''Euraxia Tharn''': ''"How dare you! We had a deal!"''
+
+Mulaamnir will then fly off, leaving Euraxia to deal with you and your allies.
+
+===Cadwell the Betrayer===
+Outside [[ON:Shadow Dance Ruins|Shadow Dance Ruins]], Mulaamnir searches for you and your allies in an attempt to prevent you from reaching the [[Online:Shadow Dance Temple|Shadow Dance Temple]]. Abnur Tharn and [[ON:Zamarak|Zamarak]] stay behind to keep him away, using [[Lore:Illusion|illusion]] magic to keep him distracted.
+
+===Jode's Core===
+After he and Kaalgrontiid fly through the [[ON:Moon Gate of Anequina|Moon Gate]], Mulaamnir will try to delay your companions in the [[ON:Plane of Jode|Plane of Jode]] as you move towards the Core.
+:'''Kaalgrontiid''': ''"Mulaamnir. The vermin still pester us. Devour them."''
+:'''Muulamnir''': ''"As you say, my brother."''
+
+While the [[Online: Moon-Sentinels|Moon-Sentinels]] continue to fight you, Muulamnir will taunt you and Khamira:
+:'''Khamira''': ''"The Moon-Priests still guard this sacred place."''
+:'''Muulamnir''': ''"The Moon-Priests worship new gods now, you insignificant morsels!"''
+
+As you reach a narrow canyon, Muulamnir attempt a strafing run, but Tharn will warn you of the danger:
+:'''Abnur Tharn : ''' ''"Avoid Mulaamnir as best you can!"''
+:'''Muulamnir : ''' ''"Go no farther, vermin!"''
+
+Afterward, Mulaamnir will continue to fly overhead until you reach the Core, and continue attacking you by spewing lightning bolts at you while you are fighting the Moon-Sentinels.
+
+Once you reach the Core, he will put himself between you and Kaalgrontiid who is absorbing the power:
+:'''Abnur Tharn : ''' ''"Kaalgrontiid is absorbing Jode's Core! As long as the moons remain aligned, the power flowing through him is unimaginable!"''
+:'''Khamira''': ''"Get me to that platform, Tharn. I can separate the Moons using the altars."''
+:'''Khamira''': ''"You must deal with Mulaamnir, five-claw. I will divert whatever energy I can into the Dragonhorn, but use it sparingly."''
+:'''Muulamnir : ''' ''''"You dare to face me, morsel?"''
+{{Online NPC Summary
+|image=None
+|imgdesc=
+|race=Dragon
+|creature=1
+|loc=[[ON:Plane of Jode|Plane of Jode]]
+|health=17,439,212
+|difficulty=3
+|reaction=Hostile
+|faction=
+}}
+When you start to fight him, Kaalgrontiid will urge him to succeed:
+:'''Muulamnir''': ''"You amuse me, little insect."''
+:'''Kaalgrontiid''': ''"Do not let them best you, Mulaamnir!"''
+:'''Muulamnir''': ''"Yes, brother, I will make this quick!"''
+
+After he is hit by the Dragonhorn blast for the first time in fight, 
+:'''Muulamnir''': ''"Arrgh! You have made me angry, pest!"''
+
+:'''Muulamnir''': ''"Die, insect! Die!"''
+
+During the fight, Muulamnir may call upon Kaalgrontiid to help him charge his Moon Blast:
+:'''Muulamnir''': ''"Kaalgrontiid, assist me!"''
+:'''Kaalgrontiid''': ''"The power! It fills me!"''
+
+As he is close to death, Muulamnir will begin to despair:
+:'''Muulamnir''': ''"It cannot end like this!"''
+
+==Skills and Abilities==
+As the only storm dragon in the game, Mulaamnir possesses unique capabilities, including his ability to summon [[ON:Storm Wyrm|storm wyrms]] and [[ON:Storm Atronach|storm atronachs]] during combat. Also, due to his high amount of health, the only effective way of depleting it is through the use of the Dragonhorn.
+
+;Bite: A melee attack that causes bleeding.
+;Shocking Bite: The dragon bites you with its mouth charged with its elemental energy, dealing high shock damage. This can be blocked.
+;Tail Smash: If standing behind the dragon, it slams the ground with its tail, dealing high physical damage and knocking you away.
+;Sweeping Breath: The dragon breathes its element in front of himself, indicated by a moving conical AoE, dealing high shock damage.
+;Storm Aura: A constant AoE that surrounds the underside of the dragon, causing shock damage if entered.
+;Wing Thrash: A melee attack where the dragon slashes targets on its side with its wing. In the case of Mulaamnir, it also releases three gusts of electrically-charged wind, indicated by traveling AoEs, dealing high shock damage and snaring you.
+;Lightning Breath: A flight-based attack where an airborne dragon flies over and breathes lightning in a straight line, lingering for a long time. In the case of Mulaamnir, on the third fly-by, the area will be in the shape of a half-circle and after all of his fly-byes, [[ON:Storm Wyrm|Storm Wyrms]] are summoned.
+;Storm Trail: The left-over lightning from a lightning breath attack. It doesn't have an AoE indicator.
+;Bombardment: While flying, Mulaamnir pelts the arena with lightning bolts, indicated by circular AoEs, dealing moderate lightning damage and staggering you.
+;Moon Blast: Kaalgrontiid empowers Mulaamnir, allowing him to shoot a ray of lunar energy that can only be avoided by using Abnur Tharn's shield, otherwise it deals lethal damage.
+;Crash: After Mulaamnir uses Moon Blast, you need to use the Dragonhorn to damage him greatly. After feeling the effect of the horn, Mulaamnir crashes down from his perch and if you are in the landing area, you are knocked far away.
+;Summon Atronach: After the first use of the horn, Mulaamnir summons a [[ON:Storm Atronach|Storm Atronach]] in the arena and after the second, an [[ON:Air Atronach|Air Atronach]].
+
+==Infinite Archive==
+Mulaamnir also appears as a boss in the [[Online:Infinite Archive|Infinite Archive]]. He uses fewer attacks and always has a flying section when his {{ESO Health Link}} goes below 50% (note that it is scripted and Mulaanmir cannot be killed before he takes off and lands back). His health differs depending on which Arc he's encountered in.
+{|class=wikitable
+! Zone / Dungeon !! Specific Location !! Difficulty !! Health
+|-
+|rowspan=3 style=text-align:center| [[Online:Infinite Archive|Infinite Archive]]: Boss Stage ||style=text-align:center| Arc 1 ||style=text-align:center| [[File:ON-misc-Boss 3.png|50px]] ||style=text-align:center| 1,397,378
+|-
+|style=text-align:center| Arc 2 ||style=text-align:center| [[File:ON-misc-Boss 3.png|50px]] ||style=text-align:center| 
+|-
+|style=text-align:center| Arc 3 ||style=text-align:center| [[File:ON-misc-Boss 3.png|50px]] ||style=text-align:center| 
+|-
+|}
+
+==Gallery==
+<gallery>
+File:ON-quest-A Rage of Dragons 04.jpg|Attacking the Northern Elsweyr Defense Force
+File:ON-quest-A Rage of Dragons 08.jpg|In flight
+File:ON-quest-A Rage of Dragons 16.jpg|In dialogue
+File:ON-quest-Jode's Core 10.jpg|On the Plane of Jode
+File:ON-quest-Jode's Core 11.jpg|On the Plane of Jode
+File:ON-creature-Mulaamnir (Infinite Archive).jpg|Mulaamnir in the Infinite Archive
+File:ON-wallpaper-Unlikely Allies Face Elsweyr's Invaders-1920x1080.jpg|Depicted in promotional artwork
+</gallery>
+
+==Books==
+*{{Book Link|Khunzar-ri and the Demons}}
+
+==Notes==
+* His name translates to "Strong-Serve-Hunt" in the [[Lore:Dragon Language|Dragon Language]].
+* Mulaamnir was featured in a [[Lore:Meet the Character - Mulaamnir|Meet the Character]] article on the ESO website.
+* Despite initially having only a brief appearance in the Halls of Colossus, lacking a speaking role or even a visible health bar, he was already listed in the files as "Mulaamnir^M".
+* He shares the same model with [[ON:Sahrotnax|Sahrotnax]].

@@ -1,0 +1,25 @@
+{{Merchandise Item Summary
+|image=MER-art-Skyrim Limited Edition Dragonstone Replica.jpg
+|imgdesc=
+|merchcat=Novelty Items
+|type=Replicas
+|availability=
+|listing=[https://gear.bethesda.net/products/skyrim-limited-edition-dragonstone-replica Bethesda Gear Store]
+|manufacturer=[https://www.fanattik.co.uk/ Fanattik]
+|price=$38.00 USD
+|sizes=
+|measurements='''Shipping Weight:''' 5.30 oz (150.25 g)<br>'''Shipping Dimensions:''' 3.59 x 0.99 x 4.93 in (9.12 x 2.51 x 12.52 cm)
+|status=Unavailable
+}}
+A replica of the [[SR:Dragonstone|Dragonstone]], which [[SR:Farengar Secret-Fire|Farengar Secret-Fire]] sends you to retrieve during [[SR:Bleak Falls Barrow (quest)|Bleak Falls Barrow]]. Only 5,000 were produced, and each was individually numbered. The front is inscribed with a map of Skyrim's Dragon Burial Mounds. The following is inscribed on the back in [[Lore:Dragon Language|Dragon Script]]: ''Here lie our fallen lords until power of Alduin revives''.
+
+The tablet is made of metal. The purchase included a Dragonstone replica, a stand for the replica, and a map of Skyrim.
+
+It was available for pre-order at the Bethesda Gear Store, and was ready to ship in October of 2021.
+{{NewLeft}}
+<!--
+==Material==
+*'''Material name'''
+--><!--
+==Description==
+Bring home the artifact that sets off your story as Dovahkiin. This beautiful replica of the Dragonstone features all the details of the in-game item. Though made of metal, it has textures and cracks to make it look like ancient stone. On the front, you'll find the map of the Dragons' resting places. Turn it over, and you'll see a prophetic passage in Dragon Script. Beneath this is a sequential number that's unique to the particular piece you have; there's only 5,000 worldwide.<br>Put it on its display stand or let it rest on the map that's included in its presentation box.-->

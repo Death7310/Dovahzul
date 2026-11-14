@@ -1,0 +1,62 @@
+{{Basic NPC Summary
+|nocat=1
+|loc=[[Redguard:Treasure Vaults|Treasure Vaults]]
+|race=Dragon
+|gender=Male
+|health=40
+|damage=20
+|image=RG-creature-Nafaalilargus.jpg
+|imgdesc=Nafaalilargus guarding the soul gem
+|faction={{Faction|Empire}}
+}}{{Quote Box|style=float:none; max-width:none;|''"I am Tiber Septim's proud soldier, loyal vassal, a jewel of the crown. It's not my fault I have to keep company with the Governor."'' (listen <ab>RG-audio-Nafaalilargus.ogg</ab>)}}__NOTOC__
+'''Nafaalilargus''' is a red [[Lore:Dragon|dragon]] serving the [[Redguard:Empire|Empire]] as a mercenary. He was instrumental in the defeat of [[Redguard:A'tor|Prince A'tor]] at the [[Lore:Battle of Stros M'Kai|Battle of Stros M'Kai]], his greatest feat being the fiery destruction of [[Redguard:A'tor's Flagship|A'tor's flagship]]. After the battle, he was rewarded with many dead soldiers to feast upon. The dragon now occupies [[Redguard:Amiel Richton|Richton]]'s [[Redguard:Treasure Vaults|Treasure Vaults]], which are connected to the [[Redguard:Catacombs|Catacombs]]. Richton has tasked him with guarding not only the treasure in the vault but also the [[Redguard:Soul Gem|soul gem]] containing A'tor's soul. He uses a [[Redguard:Treasure Vaults Exit|large door]] north of the [[Redguard:Palace|Palace]] to enter and exit.
+
+When you meet Nafaalilargus in the treasury, the door you came in through shuts, and he begins speaking. The dragon is unwilling to give up the soul gem, so [[Redguard:Cyrus|Cyrus]] engages him in combat. Your sabre has no effect until heating it in the brazier nearby. His attacks are quite dangerous and cause 20 damage, but he sometimes has trouble hitting you.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Recover the Soul Gem}}
+
+==Scenes==
+;[[Redguard:Recover the Soul Gem#Conversation with Nafaalilargus|Conversation with Nafaalilargus]]
+:The dragon introduces himself, and tells [[Redguard:Cyrus|Cyrus]] he is not a pet but a proud soldier. Cyrus asks for the soul gem, even offering to bargain, and although Nafaalilargus goes along with the idea, Cyrus realizes it is futile and prepares to fight.
+
+==Combat Taunts==
+{| class="wikitable" width=80%
+! width=20%|Hurt by opponent
+! width=20%|Hit opponent
+! width=20%|Miscellaneous
+! width=20%|Unused
+! width=20%|Death
+|-
+|
+:''"Ahhh!!"''
+:''"Rrrrrooooaaarrrr"''
+:''"Not bad [[Lore:Redguard|Redguard]]!"''
+:''"You are crafty. But you are no match!"''
+|
+:''"Now you know what it means to face me!"''
+:''"Learn the fate of your people!"''
+|
+:''"Where are you!"''
+:''"Rethinking your plan, Redguard?"''
+|
+:''"Hhhhhhrrrrrroar!"''
+:''"Uggh!!"''
+|
+:''"Rrrrrooooaaarrrr"''
+|}
+
+==Gallery==
+<gallery>
+File:RG-creature-Nafaalilargus 02.jpg|Nafaalilargus after being killed
+File:RG-scene-Conversation with Nafaalilargus 02.jpg|The many piles of gold in the dragon's chamber
+File:RG-scene-Introduction 25.jpg|Nafaalilargus at the Battle of Hunding Bay
+File:RG-scene-Introduction 31.jpg|Nafaalilargus incinerating  A'tor's flagship
+File:RG-render-Nafaalilargus.jpg|3D render
+File:RG-concept-Nafaalilargus.bmp|Concept art
+</gallery>
+
+==Notes==
+* His name is spelled '''Nafalilargus''' (with one A) in the [[Redguard:Introduction|introduction]]'s narration subtitles. However, his name is spelled with two As in his own dialogue, [[Redguard:Nidal|Nidal]]'s dialogue, and in a comment for his dialogue flag in <code>SOUP386.DEF</code>. It is also spelled as '''N'falilaargas''' in ''[[Books:The Redguard Companion|The Redguard Companion]]''. All other supplementary materials and subsequent games spell it as Nafaalilargus.
+* Nafaalilargus also appears in [[Online:Online|ESO]], under the [[Lore:Dragon Language|Dragon language]] name [[Online:Nahfahlaar|Nahfahlaar]].

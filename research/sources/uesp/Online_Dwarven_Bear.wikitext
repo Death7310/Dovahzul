@@ -1,0 +1,35 @@
+{{Online Collectible Summary
+|image=ON-mount-Dwarven Bear
+|icon=ON-icon-mount-Dwarven Bear
+|description=Scholar of the [[Online:Dwemer|Dwemer]] Guylaine Marilie theorized that [[Online:Bear|bear]] [[Lore:Vamidium|vamidiums]] were animunculi mounts reserved only for those Deep Elves of high rank or status. "Imagine a noble in full armor on a Dwarven Bear Mount," he wrote. "What could be more impressive?"
+|collectibletype=Mount
+|type=Bear
+|nickname=Btham Ahrk
+|price=
+|acquisition=
+|crate=Dwarven Crate
+|tier=Apex
+|date=
+|id=1161
+}}The '''Dwarven Bear''' is a [[Online:Dwarven Automatons (creatures)|Dwarven Automaton]]-themed mount, or "vamidium". It is available from the [[ON:Crown Store|Crown Store]] via [[Online:Dwarven Crate|Dwarven]] [[Online:Crown Crates|Crown Crates]] as an Apex-level reward. Its default name is "Btham Ahrk".
+{{NewLeft}}
+<!--
+==Occurrences==
+'''Appearances: 1'''
+*Dwarven Crate
+--><!--
+==Physical Appearance==
+-->
+==Gallery==
+<gallery>
+File:ON-mount-Dwarven Bear 02.jpg|Fully upgraded
+File:ON-crown store-Dwarven Bear.jpeg|[[Online:Crown Store Renders/Mounts|Promotional render]]
+File:ON-card-Dwarven Bear.png|Card
+</gallery>
+<!--Instructions: Add any bugs related to the collectible here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+--><!--
+==References==
+<references />-->

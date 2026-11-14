@@ -1,0 +1,100 @@
+{{Trail|Interviews}}''The following was posted onto a thread called "Skyrim Fan Interview" by Gstaff on July 5th, 2011.''
+--------------
+
+Today we've got answers to the Skyrim fan interview!
+
+Big thanks to Todd Howard, Matt Carofano), and Bruce Nesmith for tackling the questions. Also want to thank Lady Nerevar for helping grab questions from the community.
+
+Without further ado...
+
+'''Skyrim Fan Interview'''<br>
+Todd Howard, Game Director<br>
+Bruce Nesmith, Lead Designer<br>
+Matt Carofano, Lead Artist
+
+'''1) Will the character be able to change into certain creature?'''<br>
+'''Todd:''' We've done various things like that in our previous games, and it's something that we probably won't be talking about specifically on this one. Don't read anything into that, we just prefer to not discuss this one. We'd like to leave that an open question until the game is out.
+
+'''2) What sorts of cosmetic options, like beards, tattoos, or body proportions, are available? Can we edit them later in the game?'''<br>
+'''Matt:''' There is large amount of customization available for each race. You can choose from multiple hair styles, beards, scars, and face paint. Each race and gender has a light and heavy build and you can pick any level in between. We've completely redone our facial system, and we're really excited to show off the results.
+
+'''3) Is armor handled like in Oblivion (with each body part being welded together) or in Morrowind (with each body part separate)? Will you be able to wear both clothes and armor at the same time?'''<br>
+'''Matt:''' The armor system is very similar to Oblivion's. The main difference is that the upper and lower body armors, the cuirass and greaves, have been combined into one piece. This helps create armor styles that have the look we needed for Skyrim. In most of the Nordic designs we created, the upper armor would completely cover the lower armor, making it unnecessary. We get much better visual results combining those pieces, and it renders a lot faster too, so we can put more people on screen, so that was an easy tradeoff for us. We can also make a lot more armors now, so the number and variation types are more than we've ever had.
+
+'''4) Are the main and faction quests branching or linear? What about side quests?'''<br>
+'''Bruce:''' We've focused on telling one story well. There are decision points in all the quest lines that can change things, but overall it's a single story. Because the side quests are smaller stories, they are more likely to have major branches. For example, you can decide to save or betray someone, which changes the whole end of the quest. Overall the quest structure in Skyrim is closer to Oblivion than Fallout 3, in that there are many more quests, but they have fewer branches.
+
+'''5) Are loot and quest rewards level scaled, like in Oblivion? Will there be any powerful un-scaled items?'''<br>
+'''Bruce:''' We're handling leveling stuff similar to how we did in Fallout 3, but with a few new twists that we hope players won't even notice. The enemies and loot are based on the "encounter zone" you're in, so it could be higher or lower level than your current level. We do have a new concept of epic or "special" loot that you can randomly find in many cases, regardless of the zone, and you will still get better stuff in the better zones with your level higher. Same goes for quest rewards. We try to make them appropriate for what you did. Sometimes that is random, sometimes that is a set item. There's a lot of specific stuff that is very powerful, like the Daedric artifacts.
+
+'''6) Will items present in Morrowind but not in Oblivion, such as spears, medium armor, and mark/recall spells, be making a return?'''<br>
+'''Todd:''' They are not in Skyrim for the same reasons we didn't include them in Oblivion. I'll address each one. First spears, the truth is we'd love to do them, but it becomes a priority and development time thing for us. We feel it's better to spend our time right now making sure the gameplay for the other play styles is really solid. That includes sword, sword and shield, two-handed weapons, and bows. You can also add magic to that list. Getting those all working well together, while feeling different, is our priority.
+
+As far as medium armor, that's not a time or polish thing, it's a design choice to focus on two armor types and making sure those feel different and the player appreciates them. We try to make your character move and feel different between light and heavy and having a 3rd one in the middle just muddies it up in how it plays, as well as visually. And even now, we still have to tweak those two armor types so they feel different, while remaining fun. Every time we slow down heavy armor more, it feels bad, but it's the main way of balancing it. We've added other ways of balancing it that feel right—like different stamina drain rates when sprinting and such.
+
+Mark and recall is one where it's a lot of fun, but like levitation, was removed so we could design better gameplay spaces and scenarios. We were really limited in Morrowind because the player could recall or levitate out of many situations and break them. There was a lot of good gameplay and level design work that we just couldn't do and now we can. Back then it seemed like many good ideas we had were shot down when another designer would say "oh yeah, I just levitate or recall away." So we got rid of them.
+
+'''7) Will we be able to have relationships with the NPCs, romantic or otherwise?'''<br>
+'''Bruce:''' Absolutely! You make friends with people by doing things for them. Friends in the game will treat you differently. Some of them will even agree to go with you into dungeons and on adventures. You can even get married. If you own a house, your spouse will move in with you.
+
+'''8) Are there any new armor/weapon materials unique to Skyrim?'''<br>
+'''Matt:''' One of the most prized and rarest sets of armor is made from dragons. It can be forged in both a light and heavy variant. You'll see a return of many armors from previous games, such as leather and steel, however these have been redesigned in the Nordic style.
+
+'''9) Can we have some specifics about the PC version of the game? How will it's UI be different? Will there be a 64-bit executable?'''<br>
+'''Todd:''' 64-bit specific exe? Not at this time. As far as UI, it visually looks the same across the platforms, but the controls are entirely different. There's also a lot of "power user" stuff we do with the keyboard from how favorites work, to quick saves, and more that is similar to what we've done before in that area. We're packing a lot of info on the screen and the whole interface is much less 'look at giant fonts!' than, say, Oblivion. The PC version also gets higher res textures, larger render modes, and a bunch of other effects you can scale up if your machine is a beast. Last but most important, is the Creation Kit we'll be releasing for the PC. Modding the game and making it your own is very important to us and our fans, so we're going to keep doing whatever we can in that area.
+
+'''10) How will enchanting work in Skyrim? Will we have to constantly refill our enchantments with soul gems like we did in Oblivion, or will it be more like Morrowind in which the weapons recovered after a certain resting period?'''<br>
+'''Bruce:''' The method in Oblivion worked really well, so we kept it. Magic weapons use charges and have to be refilled with soul gems. Magic armor is always on and doesn't need to be recharged. Soul gems and their lore and usage are a staple of the Elder Scrolls.
+
+We have revamped the enchanting system though. Enchanting is now a skill. The better your skill and perks, the better you are at creating enchanted items. You'll be able to find enchanting stations all over the world, which will make it much more accessible.
+
+There are some changes from Oblivion, including the effects you can use when creating items, as well as how you learn effects. You now learn enchanting effects by "breaking down" a magic item you find, as opposed to them coming from spells you know. This allows us to separate enchanting from the other magical skills better.
+
+'''11) What are the differences between the races? I guess they'll have different skill bonuses, but will they also start with different perks or have different "hard-coded" attributes, such as different running speeds or maximum encumbrance, etc.?'''<br>
+'''Todd:''' They each start with some skills that are higher by default, but those aren't hard to overcome with another race in a short time. They also have different starting spells and each has its own passive abilities, like before, as well as powers, like before. So Khajiit can see in the dark, Orcs have a berserk power, Redguards have Adrenaline Rush, and so forth. They work differently in the new system, but the flavor is the same. We kept all the racial movement speeds the same, that's now a factor of what you're wearing and have equipped. And starting max encumbrance is the same and is based on your Stamina attribute.
+
+'''12) Is there any game content (story, quests) that might be locked for a character based on race/faction/politics allegiances/morality/choices? Or one can experience all the content in one single play?'''<br>
+'''Todd:''' We do have some stuff that gets locked out based on decisions you make. It's wherever it felt natural. It wasn't a goal that you could or couldn't play everything with one character. The game's honestly so big that we don't think about it much.
+
+'''13) To what extent will our racial / gender selection at the start of the game will affecting our gameplay? Are there relationships affected by these choices?'''<br>
+'''Bruce:''' Your race is very important. It's more than just how you look. Each race has a bias toward certain types of characters. If you want play a wizard, it will be easier with a High Elf or a Breton. If you want to play a warrior, it will be easier with a Nord or a Redguard. However, just like in Oblivion, we don't force you to follow that bias. If you want to be a Nord wizard, that's completely viable.
+
+Gender does not change any initial skills or abilities. There is nothing that men do better than women or vice versa in the game. Other characters will recognize your gender and address you properly. Some may have prejudices for or against a particular gender as a part of their character, but it won't change what you can or can't do.
+
+'''14) Do you plan to include non lethal ways of defeating opponents??'''<br>
+'''Todd:''' Depends on what you mean by "defeat". We have various stealthy ways of getting past people, and the various poisons and spells allow you to basically render enemies harmless to you, whether that is casting a calm or fear spell, knocking them down, or something else.
+
+Oh, and we now have tavern brawls that are non-lethal! I love those.
+
+'''15) Will boss fights involve interesting mechanics involved as opposed to just more health and hits harder?'''<br>
+'''Todd:''' We have many new combat behaviors in our AI that makes fights with certain enemies very dynamic and interesting. It matters what the enemy can do. Dragons, for example, can do lot of things from multiple shouts, bombing runs, picking guys up, and more. An enemy that has a sword and shield, a bow, magic spells, and potions will use all of those things, and those fights are the most interesting. But we also design some combat encounters where the player simply may get mobbed by more simple enemies, and those have a different pace and strategy.
+
+'''16) Do companions have skill and perk trees we can train?'''<br>
+'''Bruce:''' No, you only manage your own. Though companions often have certain perks so they behave different or better.
+
+'''17) Is the culture in Skyrim strictly Nordic, or are there places (like Cheydinhal in Cyrodiil) that show influence from other cultures nearby, like architecture, religion, etc?'''<br>
+'''Matt:''' While there are pockets of other races in the game, we focused on the Nordic culture and their regional differences. The architecture between cities is dramatically different and reflects how the Nords live in that area.
+
+'''18) So, the dragons are big and powerful. Did you include some destructible environment so they could leave marks and scars everywhere they attack? Can they demolish buildings, break trees, start avalanches, burn houses, things like this that emphasize their power?'''<br>
+'''Todd:''' They do leave marks and scars everywhere, but as far as destroying buildings and such, it's rare. It does happen, but not a lot. Systemically destroying our spaces is something we have not found a good way to handle yet, because it's so dynamic. We're dealing with places that we have NPCs living, and providing quests and other game services. It's something we avoid in every game unless we can specifically wipe it off the map, like Megaton.
+
+'''19) Will there be any difference between the animation sets of male and female as well as human-like and 'beast' characters?'''<br>
+'''Matt:''' The animation system is completely new and dramatically improved. You will notice huge difference from previous games. There are differences between male and female animations, and even beast races have some specific animations.
+
+'''20) Will any sort of karma system be incorporated like there was in Fallout, or will it be the Fame/Infamy system of Oblivion?'''<br>
+'''Bruce:''' We don't provide a numeric score that you can track, but the game knows if you've been naughty or nice. We felt that a number really didn't do your fame justice. Characters in the world will acknowledge the specific things you have done rather than just a generalized reputation. If you are a criminal, they'll know that too. But if you pay your debt to society, all is forgiven.
+
+'''21) Will crafting (weapons, armor) be effected by the tools you use as well as the ingredients used in the crafting? Such as the hammers and clippers, mastery level of the weapons and your level? Basically, will I be able to produce a more powerful, or even unique, weapon if I use a master hammer or clipper as opposed to novice?'''<br>
+'''Bruce:''' The blacksmith's shop includes a forge, a grindstone, and a smithing bench. You can improve your weapons at the grindstone. The higher your skill, the more you can improve them, and the more damage they'll do. Same thing for armor with the smithing bench, only the armor rating gets better. The forge is actually used to create new weapons and armor from raw materials.
+
+'''22) Will your character have a voice? So that you can hear yourself having a conversation with other people?'''<br>
+'''Todd:''' You do have a voice, but you only hear it in grunts and shouts. So we have recorded for each race and sex you can play, all the different combat grunts, as well as the dragon language shouts.
+
+'''23) Obviously every character is "Dragonborn", but not every character will be playing the same way. The question is: Will dragon shouts support all types of characters? Are there long ranged shouts? Some kind of stealthy "shout"?'''<br>
+'''Todd:''' Yes, the shouts support all character types. We're not ready to talk about the other shouts yet, but soon enough.
+
+'''24) Are there going to be places where you can use nature to your advantage? Like make a trap out of a fallen tree or climb a tree to stealth attack an enemy?'''<br>
+'''Todd:''' Yes and no. You can't make things, but our environment is so dense, you're almost always using the natural terrain to get an advantage, especially with stealth.
+
+'''25) Will you be able to carry on after the main story?'''<br>
+'''Todd:''' Yes, absolutely.

@@ -1,0 +1,10 @@
+{{Game Book
+|sumtitle=Dragon Language:<br>Myth no More
+|icon=SR-icon-book-BasicBook6.png
+|id=000EF2C0
+|value=14
+|weight=1
+|type=List 3
+|loc=*[[Skyrim:Benkongerike|Benkongerike Great Hall]]{{DB}}, ([[Skyrim:Solstheim|Solstheim]]); on a pedestal behind an expert-locked door
+* [[Skyrim:Sky Haven Temple|Sky Haven Temple]], ([[Skyrim:The Reach|The Reach]]); on a bookshelf to the right of Alduin's Wall. Appears after speaking to Arngeir during [[Skyrim:The Throat of the World|The Throat of the World]].
+}}

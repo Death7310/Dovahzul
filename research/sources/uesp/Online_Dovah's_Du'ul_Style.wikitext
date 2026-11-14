@@ -1,0 +1,47 @@
+{{Online Style Summary
+|material=None
+|armor=1
+|weapon=1
+|price=1000
+|price_1hand={{huh}}
+|price_2hand={{huh}}
+}}
+:''Intimidate your rivals by donning the imposing Dovah's Du'ul armor style, dropped in Pelinal Boon Boxes.''{{Ref|name=Web|[https://www.elderscrollsonline.com/en-us/news/post/65535 Conquer the Battlefield & Earn a New Style During the Whitestrake's Mayhem PvP Event - Website]}}
+The '''Dovah's Du'ul Style''' is an outfit style inspired by the [[ON:Nord|Nordic]] [[ON:Dragon Cult|dragon warriors]]. It cannot be crafted, and is only available as part of the [[ON:Outfit System|Outfit System]]. Pieces are in [[ON:Heavy Armor|Heavy Armor]] only.
+
+Pages were first made obtainable during the [[Online:Whitestrake's Mayhem|Whitestrake's Mayhem]] event in February–March 2024. The style pages were brought back to [[Online:The Impresario|The Impresario]]'s store with the Whitestrake's Mayhem August 2026 event.
+
+==Style Pages==
+* Armor pages have a chance to drop from [[ON:Pelinal's Midyear Boon Box|Pelinal's Midyear Boon Box]]es available during the event. 
+* Style pages can also be bought from [[Online:The Impresario|The Impresario]] for {{ESO TB|200}} each; however, these are account-bound and cannot be sold or traded. They were originally sold for {{ESO ET|5}}.
+{{NewLeft}}
+
+==Armor==
+{|class=wikitable align=center
+!colspan=10|Armor
+|-
+|{{Icon|a|Helm-Dovah's Du'ul|64}}
+|{{Icon|a|Pauldrons-Dovah's Du'ul|64}}
+|{{Icon|a|Cuirass-Dovah's Du'ul|64}}
+|{{Icon|a|Gauntlets-Dovah's Du'ul|64}}
+|{{Icon|a|Girdle-Dovah's Du'ul|64}}
+|{{Icon|a|Greaves-Dovah's Du'ul|64}}
+|{{Icon|a|Sabatons-Dovah's Du'ul|64}}
+|-{{AL|C}}
+|Helm||Pauldrons||Cuirass||Gauntlets||Girdle||Greaves||Sabatons
+|}
+
+==Gallery==
+===Armor===
+<gallery>
+File:ON-render-Dovah's Du'ul Style.jpg|[[Online:Renders/Events|Promotional image]]
+File:ON-item-armor-Dovah's Du'ul 02.jpg|Female
+File:ON-item-armor-Dovah's Du'ul.jpg|Male
+</gallery>
+
+==Notes==
+* This style was initially known as the "Dov-Rha Champion" style.
+* The name translates to "Dragon's Crown" in the [[Lore:Dragon Language|Dragon language]].
+==References==
+<references/>
+{{Online Styles}}

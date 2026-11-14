@@ -1,0 +1,25 @@
+<noinclude>{{cleanup-lpp|writtenby=Legoless}}{{Lore Places Trail}}
+{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|region=The Rift
+|settlement=Northwind Mine
+|image=SR-place-Northwind Mine.jpg
+|imgdesc=Northwind Mine circa {{Year|4E 201}}
+|appears=[[Skyrim:Northwind Mine|Skyrim]], [[Online:Northwind Mine|ESO]]
+}}[[File:ON-place-Northwind Mine.jpg|thumb|right|Northwind Mine circa {{Year|2E 582}}]]
+</noinclude>[[Lore:Northwind Mine|Northwind Mine]] is an ancient [[Lore:Iron|iron]] mine found in [[Lore:The Rift|the Rift]] northwest of [[Lore:Shor's Stone|Shor's Stone]], high up in the mountains that form the border with [[Lore:Eastmarch|Eastmarch]]. It tunnels into a mountaintop known as '''Northwind Summit'''.
+
+During the [[Lore:Merethic Era|Merethic Era]], the ancient [[Lore:Nord|Nord]]s erected a [[Lore:Word Walls|Word Wall]] at the top of Northwind Summit, inscribed in the [[Lore:Dragon Language|dragon language]].{{ref|name=Skyrim|[[Skyrim:Northwind Mine|Northwind Mine]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+The iron mine at Northwind has been in existence since at least the [[Lore:Second Era|Second Era]], during which time it was worked by a reclusive family of Nord miners who built a significant settlement at the site. They worked the mine for generations, and sometimes didn't descend for supplies for months on end.{{ref|[[ON:Northwind Mine|Northwind Mine]]'s loading screen in [[ON:Online|ESO]]}}
+
+This isolation proved disastrous in {{Year|2E 582}}, when a coalition of [[Lore:Reachman|Reachman]] clans invaded the Rift and took control of the mine. The locals initially thought nothing of the disappearance of the miners, and it wasn't until nearby Shor's Stone was attacked by the clans that the Reachmen presence was discovered. After the sacking of [[Lore:Fallowstone Hall|Fallowstone Hall]], a [[Lore:Dunmer|Dunmer]] member of the [[Lore:Ebonheart Pact|Ebonheart Pact]] and ally of the [[Lore:Companions|Companions]] named Tovisa decided to investigate with the help of the [[Lore:The Vestige|Vestige]]. They discovered that the mine was occupied by the [[Lore:Stonetalon Clan|Stonetalon Clan]], who were performing human sacrifices to establish a [[Lore:Hagraven|hagraven]] coven in the mine. The Stonetalons were successfully driven off and the hagravens killed, although Tovisa was captured and ritually blinded in the process.{{ref|name=Tovisa|[[ON:Tovisa|Tovisa]]'s dialogue in [[ON:Online|ESO]]}}{{ref|name=STM|Events of [[ON:Scouting the Mine|Scouting the Mine]] in [[ON:Online|ESO]]}}{{ref|name=BTC|Events of [[ON:Breaking the Coven|Breaking the Coven]] in [[ON:Online|ESO]]}}
+
+By the [[Lore:Fourth Era|Fourth Era]], a [[Lore:Mammoth|mammoth]]-hunting camp had been established at the summit. Both the mine and the camp had become abandoned by {{Year|4E 201}} and were guarded by skeletal undead. With the return of [[Lore:Alduin|Alduin]] that year, a [[Lore:Dragon|dragon]] began to use the summit as its lair, but was eventually killed when a bounty was placed on its head.{{ref|name=Skyrim}}<noinclude>
+{{NewLeft}}
+==See Also==
+* {{GSI|SR:Northwind Mine|Online:Northwind Mine}}
+
+==References==
+<references/></noinclude>

@@ -1,0 +1,102 @@
+<noinclude>{{cleanup-lpp|writtenby=Legoless}}{{Lore Places Trail}}
+{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|province2=High Rock
+|type=Region
+|name=Forgotten Vale
+|image=SR-place-Forgotten Vale.jpg
+|imgdesc=The Forgotten Vale
+|appears=[[Skyrim:Forgotten Vale|Dawnguard]]
+}}{{TOCright}}</noinclude>
+The [[Lore:Forgotten Vale|Forgotten Vale]] is massive and sprawling secluded ice-encrusted land dotted with the remains of [[Lore:Snow Elf|Snow Elf]] architecture.{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}} Located in the [[Lore:Druadach Mountains|Druadach Mountains]], it is viewed on maps as being within the borders of [[Lore:High Rock|High Rock]] and bordering northwestern [[Lore:Skyrim|Skyrim]]'s Haafingar area.{{ref|name=SRMap|[[:File:SR-map-Skyrim.jpg|Skyrim Map]] — [[Lore:Natalia Dravarol|Nataly Dravarol]]}}{{ref|name=ESODaughter|[[ON:Dragonhome|Dragonhome]] [[Online:Loading Screens|loading screen]] in [[ESO:Greymoor|ESO]]}} It is a glacial valley, with icy crevices, forests, a river and a large frozen lake. Its seclusion from the rest of [[Lore:Tamriel|Tamriel]] has resulted in unique forms of bioluminescent flora and fauna, seemingly adapted for subterranean dwelling.{{ref|name=DG|Events of ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dawnguard|Dawnguard]]''}}
+
+The vale is difficult to reach, requiring the navigation through the Darkfall Cave systems to enter from the outside world. It was chosen by the ancient [[Lore:Snow Elf|Snow Elves]] as the site of the [[Lore:Chantry of Auri-El|Chantry of Auri-El]], the civilization's center of worship of [[Lore:Auri-El|Auri-El]]. The elves built a large sanctum into the mountains, overlooking the valley, as well as five [[Lore:Wayshrines|Wayshrines]] of Auri-El. Magical teleportation in the form of portals were used to navigate and link the area. In order to reach enlightenment and "become one with Auri-El",{{Ref|name=TESVSPOGG}} initiates of the Chantry made a pilgrimage to each of the five Wayshrines, navigating the treacherous vale with a ewer of water to gain access to the temple's inner sanctum. Due to the Chantry's isolation, it remained unaffected by the invasion of the [[Lore:Nord|Nords]], though the Falmer somehow spread to the vale and overwhelmed the Chantry by their sheer numbers, wiping out the final bastion of Snow Elves.{{ref|name=DGGelebor|[[Skyrim:Knight-Paladin Gelebor|Knight-Paladin Gelebor]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dawnguard|Dawnguard]]''}}<noinclude>
+
+{{NewLine}}
+==Ecosystem==
+In the centuries of seclusion from the rest of [[Lore:Tamriel|Tamriel]] has resulted in unique forms of bioluminescent flora and fauna, seemingly adapted for subterranean dwelling. Its animals have grown to be very different than those in Skyrim, home to unique species of [[Lore:Vale Sabre Cat|sabre cat]] and [[Lore:Vale Deer|deer]], though despite their appearance, these creatures have no special resistances or weaknesses.{{Ref|name=TESVSPOGG}} They are called Vale animals, named after a now-lost flora-filled cavern in Skyrim.{{ref|name=Orchidfall|[[Online:Orchidfall Vale Fawn|Orchidfall Vale Fawn]] pet description in [[Online:Online|ESO]]}} [[Lore:Elk|Hailcinder Vale Elk]] have a chosen diet of glowing flora and fungi.{{ref|name=ESOHailcinderValeElk|[[Online:Hailcinder Vale Elk|Hailcinder Vale Elk]] mount description}} The rare and mysterious [[Lore:Shellbug|shellbugs]] have only been documented as being found here, with the more common [[Lore:Frost Troll|frost troll]]s making their homes in dens through the valley, and the insectoid [[Lore:Chaurus|chaurus]] living among their [[Lore:Falmer|Falmer]] handlers.{{ref|name=DG|Events of ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dawnguard|Dawnguard]]''}} Deep within the Forgotten Vale, some creatures have been transformed into living ice with all the same attributes of their standard counterparts, with the added immunity to frost/weakness to fire and shattering when killed.{{Ref|name=TESVSPOGG}}{{ref|name=DG}} 
+
+The only sentient species permanently residing here are the Snow Elves, who were once more common before their slaughter by the Falmer.{{ref|name=DGGelebor}} The rare [[Lore:Frost Giant|Frost Giants]], a bestial but intelligent species, also have a population spread across the valley dwelling in shallow caves. The Falmer made their home in various parts of the region, setting up a number of villages.{{ref|name=DG}} The Vale was once home to revered twin [[Lore:Dragon|dragons]], {{Lore Link|Voslaarum}} and {{Lore Link|Naaslaarum}}, who lived beneath Frozen Lake. They were most likely killed at some point and resurrected by [[Lore:Alduin|Alduin]] upon his return,{{ref|Based on the dragons not being present before the [[Skyrim:Dragon Rising|Dragon Rising]] quest}} although it is possible that they survived into modernity.
+
+Bar a few rare cases, the [[Lore:Gleamblossom|Gleamblossom]] flower and [[Lore:Poison Bloom|Poison Bloom]] plant are unique to the region.{{ref|name=DG}} There are also strange plant-like cave worms that begin to retract when approached, hiding their bioluminescent light.{{Ref|name=TheCW|[[Skyrim:Passive Creatures#Cave Worm|Cave Worms]] in ''[[SR:Skyrim|Skyrim]]''}}{{Ref|name=TESVSPOGG}} Many glowing crystals are also found throughout the caves.
+
+<gallery>
+File:SR-flora-Gleamblossom.jpg|[[Lore:Gleamblossom|Gleamblossom]]
+File:SR-flora-Poison Bloom.jpg|Poison Bloom
+File:SR-creature-Cave Worms.jpg|Cave Worms
+File:ON-creature-Vale Deer Doe.jpg|A Vale Deer doe
+File:SR-creature-Vale Deer.jpg|A Vale Deer
+File:SR-creature-Vale Sabre Cat.jpg|A [[Lore:Vale Sabre Cat|Vale Sabre Cat]]
+File:ON-mount-Hailcinder Vale Elk.jpg|A Hailcinder Vale Elk
+File:SR-creature-Shellbug.jpg|A [[Lore:Shellbug|Shellbug]]
+File:LG-cardart-Frost Giant 02.jpg|Frost Giant (Legends)
+</gallery>
+
+
+{{NewLine}}
+
+==Geography==
+[[File:SR-concept-Dawnguard Snow Elf Temple.jpg|250px|left|thumb]]
+The Forgotten Vale is found deep within the Druadach Mountains in between Wrothgar and Haafingar/the Karthald region of the Reach. Due to the many mountains surrounding it, there are no locations immediately nearby, the closest being {{Lore Link|Castle Thorn}} to the east, [[Lore:Deep Folk Crossing|Deep Folk Crossing]] to the south, {{Lore Link|Pariah's Pinnacle}} to the west, and a Nordic arch at the entrance of the inlet to the north. It is described as somewhere beyond Skyrim's western borders and seemingly in the middle of a giant, rocky pit, placing it within High Rock.{{Ref|name=TESVSPOGG}}
+[[File:SR-place-Wayshrine of Resolution.jpg|thumb|right|The Wayshrine of Resolution]]
+The vale is difficult to reach, requiring the navigation through the Darkfall Cave systems to enter from the outside world. The unassuming crag in the Reach, south of [[Lore:Mor Khazgur|Mor Khazgur]] and north of {{Lore Link|Druadach Redoubt}}, is actually the gateway to a vast network of uncharted caverns and mountain land in the northern climbs of the Reach and Haafingar Hold, protruding from the snow level, above some sloping and uneven ground dotted with trees.{{Ref|name=TESVSPOGG}} The tangled nest of caverns are in all likelihood somehow connected down to [[Lore:Blackreach|Blackreach]].{{Ref|name=ESOLive|group=UOL|[[General:ESO Live|ESO Live]]: [[General:ESO Live Art and Lore of Greymoor|Art and Lore of Greymoor]]}}
+
+The lengthy and dangerous "Falmer Fissure", carved by the fast-flowing river is a tight and narrow fissure where the Falmer have made their home.{{Ref|name=TESVSPOGG}} It is a maze of snaking bridgework, with a long subterranean cave leading up to the Wayshrine of Radiance, and a final crossing above the fissure to the Snow Elf Inner Sanctum, where only those pilgrims who have attained enlightenment can enter.{{Ref|name=TESVSPOGG}} The Glacial Crevice was carved by waterflow from the Two Rivers of Wrothgar, and the area (later populated by Falmer in Rock Island) provides a critical path between two of the areas of Forgotten Vale.{{Ref|name=TESVSPOGG}}
+
+The Falmer Temple refers to the entrance hall called the Inner Sanctum and the main chamber called Auriel's Chapel. The entrance hall contains the Sanctum Of The Betrayed, Hidden Antechamber, corridors, and an Ice Tunnel leading out.{{Ref|name=TESVSPOGG}} Auriel's Chapel contains the Chapel Passage leading to the ceremonial doors in the northern wall winding through the corridor to an icy hole in the northwest corner as the corridor's structural integrity increasingly weakens. The icy passage drops into frozen ruins and a very narrow corridor that steps into the Great Chapel containing the Arch-Curate's throne. Behind the icy barrier Vyrthur created to seal himself, a door to the Temple Balcony overlooking the vistas of the Vale was found outside, containing a Wayshrine portal.{{Ref|name=TESVSPOGG}}
+
+==Communion==
+[[File:SR-npc-Arch-Curate Vyrthur 02.jpg|thumb|right|The Arch-Curate, ruler of the entire Vale in ancient times]]
+Thousands of years before the Fourth Era, this valley was the nexus of the Snow Elves' religious practices, which centered around the worship of Auri-El (also known as Auriel, or Akatosh among men). They called this place "the Great Chantry of Auri-El." It was here that the Snow Elves believed one could reach such a level of enlightenment they could "become one with Auri-El." The vale featured a mighty temple dedicated to their god and was dotted with small structures known as Wayshrines, which pilgrims would visit during their search for enlightenment. Gelebor explains that this Wayshrine was used for meditation and transport long ago, when the Chantry was a place of enlightenment. The entire vale was ruled by the Arch-Curate Vyrthur, assisted by his Prelates and Paladins.{{Ref|name=TESVSPOGG}}
+
+Many of the most dedicated snow elves once committed themselves to a tireless journey through the Chantry to the Inner Sanctum.{{Ref|name=TtS|{{Cite Book|Touching the Sky}}}} They carried with them the paramount desire to reach enlightenment and become one with their god, Auri-El,{{Ref|name=TtS}}{{Ref|name=TESVSPOGG}} Initiates of the Chantry made a pilgrimage to each of the five Wayshrines, navigating the treacherous vale with a ewer of water to gain access to the temple's inner sanctum.{{ref|name=DGGelebor}} A rocky promontory with a Snow Elf arch leads to a skeleton of a person known only as "Auriel's Lookout" who was once of some stature, as evidenced by the remains of a crown with three valuable gems.{{Ref|name=TESVSPOGG}}
+[[File:SR-place-Inner Sanctum (Vale).jpg|thumb|left|The statue of Auri-El, foremost of the gods]]
+Prospective pilgrims and those seeking enlightenment began their journey by being given an empty ornate vessel called the Initiate's Ewer and told to visit a shrine, learn the mantras, and then add some of the pure water from the shrine's font to that vessel, the basin, which was used by initiates once their mantras were spoken. They dipped a ceremonial ewer into the basin at each Wayshrine before proceeding to the next. Upon reaching the sanctum, the initiates could present their ewer, filled with the water of all the Wayshrines, allowing them to enter the temple and gain an audience with the Arch-Curate himself. Once the vessel was full, it was carried to the temple, and the initiate would pour the water into a basin, representing that they had reached a level of enlightenment worthy enough to enter.{{Ref|name=TESVSPOGG}} Though all set out with the determination to prove their worth, few were prepared for the trials that lay ahead. For the path to Auri-El was not without its tribulations. The pilgrims struggled not only against the natural elements of the treacherous vale, but with a myriad of tests upon their faith and loyalty. It is told that many simply could not continue on the path for long before turning back. Some argue that the rebuke they endured upon their return was crueler than any punishment that may have lay ahead of them along the path. In their failed attempt, they were forced to live in the shadow of those who did continue on to achieve the great glory and honor of ascension into the light. Forever after, their faith and loyalty in Auri-El would be scrutinized and their remaining days filled with shame and regret.{{Ref|name=TtS}}
+[[File:SR-npc-Knight-Paladin Gelebor 04.jpg|thumb|right|Gelebor opening the Great Chantry Of Auri-El]]
+Tales of those who reached the Inner Sanctum are not without their share of woes. It is said upon their arrival that many were mere shells of the person they had once been. Some were quite mad from sleeplessness and starved to the point of frailty. By the end of their journey, the marvel that they had strength yet to carry their vessel and ascend the stairs of the temple was the last true testament of their loyalty. Regardless of each individual's tale, the final words remain eerily similar. It is said that every pilgrim ascended, bathed in light, a look of relief and contentment on their face.{{Ref|name=TtS}} The imposing Snow Elf Inner Sanctum is a marvel of Snow Elf construction. Through the grand arch, initiates are greeted by a towering statue of the great Auriel. To enter the Sanctum, ascending the steps and pouring the water collected from the five Wayshrines into the receptacle opens the door, and there are no other ways to pry it open.{{Ref|name=TESVSPOGG}} Across the bridge, which is still mostly intact, an ornate courtyard is found. While in decay, the place still holds a sense of grandeur, in part due to the statue of Auriel that dominates the temple grounds. At the curved steps behind the statue, the ewer is emptied into the water basin. The ceremonial water runs down three channels, to Auriel's crest, and a faintly green light shines forth, unlocking the Sanctum's entrance.{{Ref|name=TESVSPOGG}} Gifts were offered to the shrine to Auriel inside, believed to be one of two shrines of Auriel to now exist in the whole of Skyrim, the other shrine being at the Great Chantry Of Auri-El in Darkfall Cave.{{Ref|name=TESVSPOGG}}
+
+A makeshift altar of skeletal remains created by the Betrayed could be found in Darkfall Passage.{{Ref|name=TESVSPOGG}}
+
+==History==
+[[File:SR-quest-Touching the Sky.jpg|thumb|right|Vyrthur destroying Auriel's Chapel]]
+A glacial crevice formed during tens of thousands of years of water flow from the high peaks of the [[Lore:Haafingar Mountains|Haafingar Mountains]], carving the Glacial Crevice portion of what would become known as the Forgotten Vale. The original inhabitants of Skyrim, the Snow Elves, discovered it thousands of years before the Fourth Era{{Ref|name=TESVSPOGG}} and built the Chantry of Auriel, the grandest of their [[Lore:Elven Ruins#Snow Elf Ruins|five temples]]. The Chantry was constructed near the beginning of the [[Lore:First Era|First Era]] to provide a retreat for Snow Elves that wished to reach enlightenment.{{ref|name=DGGelebor}}
+
+During the Snow Elf Genocide, some refugees fled to the Forgotten Vale. Due to the Chantry's isolation, it remained unaffected by the invasion of the [[Lore:Nord|Nords]] in the [[Lore:Merethic Era|Merethic Era]]. As such, the Snow Elves of the Forgotten Vale had no need of the protection of the [[Lore:Dwemer|Dwarves]], who demanded the blinding of the race. Their remaining kin, "the Betrayed", degenerated over the ages into the modern [[Lore:Falmer|Falmer]]. Following the disappearance of the Dwarves in {{Year|1E 700}}, the Falmer somehow spread to the vale and began attacking the Chantry. The Chantry was overwhelmed by their sheer numbers, and the final bastion of Snow Elves was wiped out.{{ref|name=DGGelebor}}
+
+{{Lore Link|Arch-Curate Vyrthur}}, leader of the Chantry, had been abandoned by Auri-El after becoming infected with [[Lore:Vampirism|vampirism]]. Embittered, he created [[Lore:Tyranny of the Sun|a prophecy]] which would see the darkening of the sun by corrupting [[Lore:Auriel's Bow|Auriel's Bow]] in order to spite the god.{{ref|[[Skyrim:Arch-Curate Vyrthur|Arch-Curate Vyrthur]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dawnguard|Dawnguard]]''}} He allied himself with the Falmer and retreated to the inner sanctum, where he awaited his prophecy to come to fruition. His brother, [[Lore:Gelebor|Knight-Paladin Gelebor]], was the only other Snow Elf to survive, and retreated into the caves as he has vowed never to leave the Wayshrines unguarded. The Falmer and their tamed [[Lore:Chaurus|chaurus]] then proceeded to spread throughout the vale unhindered.
+
+In {{Year|4E 201}}, the Forgotten Vale was visited by [[Lore:Serana|Serana]] and the [[Lore:Hero|Last Dragonborn]], who had been guided there by the [[Lore:Elder Scrolls|Elder Scrolls]] to fulfill Vyrthur's prophecy. Through the Darkfall Cave, the skeletons of many snow elves were found in the caves, and they encountered Gelebor tending to the shrine that led to Darkfall Passage. They made a pilgrimage to the five Wayshrines to gain access to the inner sanctum in order to save Vyrthur from the Falmer at the request of the mistaken Gelebor. Instead, the two discovered Vyrthur's affliction and betrayal, and killed him. In return, Gelebor gifted them with Auriel's Bow as foretold by the prophecy. The Dragonborn also defeated the dragons Voslaarum and Naaslaarum, and recovered [[Lore:Auriel's Shield|Auriel's Shield]] from the Falmer.{{ref|name=DG}}
+
+==Notable Places==
+[[File:SR-place-Auriel's Chapel.jpg|right|thumb|Temple Balcony of Auriel's Chapel]][[File:SR-place-Forgotten Vale Word Wall.jpg|right|thumb|The Word Wall at Frozen Lake]]
+;Auriel's Chapel: The most sacred temple of the Snow Elves, the Inner Sanctum is now reduced to a ruin and the lair of Arch-Curate Vyrthur.{{Ref|name=TESVSPOGG}}
+;Darkfall Cave: Home to the Great Chantry Of Auri-El, a Snow Elf Sanctuary believed to contain one of two shrines of Auriel to exist in the whole of Skyrim.{{Ref|name=TESVSPOGG}}
+;Darkfall Grotto: Home to the Wayshrine Of Illumination.
+;Forgotten Vale Cave: A small cavern home to rare shellbugs
+;Forgotten Vale Forest: A sacred and sealed glade of thick woodland unknown to many,{{Ref|name=TESVSPOGG}} with sloping ground to the northwest that leads to a frost troll den.
+;Frozen Lake: The upper lake is sometimes quiet and serene. Perched on the edge of a lake is a carved rock with a single Word of Power seared into the stone.{{Ref|name=TESVSPOGG}}
+;Paragon Portal Platform: An arch connected to the five portal platforms across the Vale
+;Pilgrim's Path: After centuries of neglect, only a few fragments of Snow Elf masonry remains, forming a faint path northwest through the Vale.{{Ref|name=TESVSPOGG}}
+;Sharpslope Cave: A small cavern home to rare shellbugs
+;Snow Lake: The lower lake that has more free-flowing water; to the north is a shallow cave close to the rushing river above the waterfall. At the southern end of the lake, it plunges into a terrifying maw called Forgotten Vale Overlook.{{Ref|name=TESVSPOGG}}
+;[[Lore:Word Walls|Word Wall]]: An ancient stone monument that has the [[Lore:Dragon Language|Dragon language]] carved into it, with Elven structures leading up to it.{{ref|name=FV|[[Skyrim:Forgotten Vale|Forgotten Vale]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dawnguard|Dawnguard]]''}}
+
+==Gallery==
+<gallery>
+File:SR-place-Darkfall Passage.jpg|Darkfall Cave
+File:ON-quest-A Clan Divided 04.jpg|The deep fissure in the mine circa 2E 582
+File:SR-npc-Arch-Curate Vyrthur.jpg|{{Lore Link|Vyrthur |Arch-Curate Vyrthur}} as a vampire
+File:SR-place-Glacial Crevice.jpg|A [[Lore:Falmer|Falmer]]-inhabited glacial cave
+File:SR-creature-Naaslaarum.jpg|The [[Lore:Dragon|dragon]] {{Lore Link|Naaslaarum}}
+File:ON-furnishing-Font of Auri-El.jpg|A Font of Auri-El
+File:SR-concept-Dawnguard Snow Elf Temple Interior.jpg|Interior of the Chantry
+</gallery>
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>{{Lore Snow Elf Religion}}
+<!--Interwiki links-->
+[[fr:Lore:Val oublié]]
+</noinclude>

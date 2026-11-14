@@ -1,0 +1,14 @@
+<noinclude>{{Lore Places Trail}}__NOTOC__{{Lore Place Summary
+|continent=Tamriel
+|type=Landmark
+|province=Skyrim
+|name=Korvag Crag
+}}</noinclude>
+[[Lore:Korvag Crag|Korvag Crag]] was a location in ancient [[Lore:Skyrim|Skyrim]]. It was the dwelling of [[Lore:Troll|trolls]] who defeated and devoured all the members of the Sisterhood of the White Rose. A [[Lore:Word Walls|Word Wall]] was erected to commemorate the bitter defeat of the Sisterhood.{{Ref|name=WW|[[Skyrim:Word Wall#Disarm|Disarm Word Wall]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=Disarm|[[Skyrim:Disarm|Disarm]] shout in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLine}}
+==Word Wall==
+{{Quote Box|style=float:right;|''(This) stone commemorates<br>(the) bitter defeat of (the) Sisterhood<br>of the White Rose, eaten to<br>(the) last by the trolls of Korvag Crag.''|Word Wall's translation{{Ref|name=Disarm}}}}
+{{DragonFont|''QETHSEGOL VahRUKIV<br>ahZID ViiK DO BRiiNahMaaR<br>DO SOT PeyT NaaKO Wah FIN<br>LaaT NaaL UFiiK DO KORVAG KOL''|5}}{{Ref|name=Disarm}}
+{{NewLine}}
+==References==
+<references/>
+</noinclude>

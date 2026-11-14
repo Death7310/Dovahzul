@@ -1,0 +1,17 @@
+{{Lore Book
+|ON=1
+|author=[[Lore:Books by Author#Kireth Vanos|Kireth Vanos]]
+|description=Notes on the Dragon Priests and their relationship to the ancient Nords
+}}
+{{Lore Link|Raynor Vanos|Raynor|v=1}},
+
+Your insistence on ignoring basic research continues to astonish me, dear brother. Look, you know what a {{Lore Link|Dragon Priest|Dragon priest}} is? Right? Centuries ago, the {{Lore Link|Nord}}s worshiped {{Lore Link|Dragon}} as living gods. The most devout were elevated by {{Lore Link|Thu'um|the magic}} of the Dovah.
+
+These shrines were everywhere. Now only a handful remain, most buried. Some may never be seen again. These ruins have a reputation for being {{Lore Link|draugr}}-haunted deathtraps, and they mostly are. But {{Lore Link|Taarengrav|v=1}} represents a unique opportunity to study this people's past.
+
+Here we've already seen evidence of how they lived as they built idols to their gods. We've found some of their children's stories and toys. Small carved Dragons, with writings in the {{Lore Link|Dragon Language|Dragon tongue}} etched in their side. Little blocks with notches, to teach children the names of Dragons almost before they knew their parents' names
+
+So stop complaining about how nice and warm the steam tunnels in {{Lore Link|Dwemer}} ruins are! You drive me mad.
+
+&mdash; {{Lore Link|Kireth Vanos|Kireth|v=1}}
+{{Book End}}

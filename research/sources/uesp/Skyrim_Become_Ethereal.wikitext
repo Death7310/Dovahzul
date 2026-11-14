@@ -1,0 +1,74 @@
+{{Shout Summary
+|id=00032920
+|icon=SR-icon-shout-Ethereal.png
+|quote=The Thu'um reaches out to the Void, changing your form to one that cannot harm, or be harmed.
+|word1=FeiM
+|wordid1=00032917
+|cooldown1=20
+|info1=Ethereal Form for 8 seconds
+|location1=[[Skyrim:Ironbind Barrow|Ironbind Barrow]]
+|word2=Zii
+|wordid2=00032918
+|cooldown2=30
+|info2=Ethereal Form for 13 seconds
+|location2=[[Skyrim:Lost Valley Redoubt|Lost Valley Redoubt]]
+|word3=GRON
+|wordid3=00032919
+|cooldown3=40
+|info3=Ethereal Form for 18 seconds
+|location3=[[Skyrim:Ustengrav|Ustengrav]] ([[Skyrim:The Horn of Jurgen Windcaller|quest locked]])
+|transword1=fade
+|transword2=spirit
+|transword3=bind
+|spellid1=0005f6eb
+|spellid2=0005f6ec
+|spellid3=0005f6ed
+}} __NOTOC__
+
+'''Become Ethereal''' is a [[Skyrim:Dragon Shouts|dragon shout]] that turns you into an ethereal form. While in this form, you cannot deal damage or take damage (including damage from falls or poison). Attempting to interact with the world, via fighting, accessing a container, or talking to an NPC, causes the effects of the shout to stop working.
+
+==Meditation==
+Meditating on the word ''Feim'' with [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] grants you the [[Skyrim:Eternal Spirit|Eternal Spirit]] ability which increases [[Skyrim:Health|health]] regeneration by 25% while under the effects of this shout. This can only be seen under active effects while ethereal.
+
+== Related Quests ==
+* {{Quest Link|Coming of Age}}
+* {{Quest Link|The Horn of Jurgen Windcaller}}
+
+==Possible Uses==
+* Safely bypass traps.
+* Jump from heights without taking any damage.
+* Can be used by melee characters to get close to powerful ranged characters without taking damage or staggering.
+* Can be used to safely navigate the lava in the [[Skyrim:The Aetherium Forge|Aetherium Forge]]{{DG}} and the corrosive black liquid in [[Skyrim:Apocrypha|Apocrypha]]{{DB}}.
+* Summoning atronachs to fight battles while remaining ethereal and out of reach is an extremely effective strategy for dealing with tough situations.
+* If a cloak spell, such as [[Skyrim:Flame Cloak|Flame Cloak]], is cast before using Become Ethereal, you can run into a group of enemies and cause damage ''to'' them without receiving damage ''from'' them.
+* If playing on [[Skyrim:Survival Mode|Survival Mode]] (which disables fast travel), this shout can allow the [[Skyrim:Castle Volkihar|Castle Volkihar]]{{DG}} balcony exit to remain a shortcut outside by jumping off the ledge. Otherwise you'll have to backtrack through the dungeons to go back outside.
+* Master level spells, such as [[Skyrim:Fire Storm|Fire Storm]] and [[Skyrim:Guardian Circle|Guardian Circle]], may be prepared while ethereal.
+* The [[Skyrim:Bloodskal Blade|Bloodskal Blade]]'s{{DB}} special ability can be used while ethereal.
+* The first level of this shout is long enough to last through a dragon's breath attack, should taking cover or avoiding it not be an option. The relatively quick recharge ensures that it will be ready to use the next time the dragon attacks.
+* Magicka, health and stamina can safely regenerate during combat while the shout is in effect.
+* You can use Become Ethereal to take aim. This is particularly useful in situations where you are outnumbered, as it gives you a window to aim at whichever opponent you prefer, without being staggered or damaged.
+* The visual effect of the shout is virtually identical to the night vision abilities of vampires (Vampire's Sight) and [[Skyrim:Khajiit|Khajiit]] ([[Skyrim:Night Eye (power)|Night Eye]]), making it viable as a short-term night vision ability.
+* You can negate Drain Vitality and other damage over time attacks that would otherwise kill you. You will also negate the effects of other shouts, such as the potential ragdolling from Unrelenting Force (which draugr like to use often, especially draugr deathlords) and Frost Breath.
+
+== Notes ==
+* You cannot activate this shout while airborne. If you want to use it to survive fall damage, you have to activate the shout ''before'' jumping off the cliff, not right before you land.
+* Sprinting while ethereal doesn't drain stamina.
+* Most potions won't work while ethereal.
+* It cannot protect you from damage by light in [[Skyrim:Twilight Sepulcher|Twilight Sepulcher]], damage by darkness in [[Skyrim:Apocrypha (The Sallow Regent)|The Sallow Regent]]{{DB}} and [[Skyrim:Apocrypha (Filament and Filigree)|Filament and Filigree]]{{DB}} or death by lightning in [[Skyrim:Sovngarde (quest)|Sovngarde]].
+* Nothing combative can be done in this form, but even a few seconds of reprieve from a difficult situation can be useful. 
+* Shield Charge can be used to knock enemies over without breaking the effect, which consumes stamina as normal. 
+* It is necessary to start, but not necessary to finish, [[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]] in order to have all three words.
+* It is possible to waste certain powers if they are used during this shout. Powers such as [[Skyrim:Ancestor's Wrath|Ancestor's Wrath]] and many of the ones added by [[Skyrim:Powers|Dragonborn]] will fail to work while this shout is active. With normal powers, they will be grayed out after the failed attempt, but will be usable again when an in-game day passes. In the case of the [[Skyrim:All-Maker Stones|All-Maker Stones]], the power will disappear as normal when used.
+*When using this shout, you get an effect (seen in the "Active Effects" tab) called "Become Ethereal" with the description of: "You become invulnerable, but unable to attack. However you recover magicka and stamina."
+
+{{NewLine}}
+
+==Word Walls==
+{{WordWall
+|wordwall1=NONVUL BRON DahMaaN DaaR ROT DO FIN<br>FODiiZ BORMah-Nii LOS HeyV DO ENOOK<br>MUN Wah LahNey VOTH ahKRIN ahRK ZIN<br>LEH ROK {{FC|blue|FeiM}} VODahMIN KOTIN VULOM
+|translation1=Noble Nords remember these words (of) the<br>hoar father - It is duty of each<br>man to live with courage and honor<br>lest he {{FC|blue|fade}} unremembered into darkness.
+|wordwall2=NAFNI WahLaaN QETHSEGOL BORMahii<br>VahRUKT ROGNVALD WEN {{FC|blue|Zii}} FEN<br>MahFAERaaK aaK OK BROD<br>ahRK FOLooK OK HOKORON
+|translation2=Nafni raised (this) stone<br>in memory of his father Rognvald, whose {{FC|blue|spirit}} will<br>forever guide his clan<br>and haunt his enemies.
+|wordwall3=HET NOK BeiN NahGahDINOK<br>AZARAN FaaL MUNAX WO UNT<br>Wah {{FC|blue|GRON}} KRILOT DILON DO<br>SOVNGARDE Wah LeiN DO JUL ahRK FUNT
+|translation3=Here lies foul Necromancer<br>Azaran the Cruel, who tried<br>to {{FC|blue|bind}} (the) valiant dead of<br>Sovngarde to (the) world of man and failed.}}
+{{Skyrim Shouts}}

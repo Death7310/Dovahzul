@@ -1,0 +1,55 @@
+{{Shout Summary
+|id=0005d16b
+|icon=SR-icon-shout-Frost Breath.png
+|quote=Your breath is winter, {{sic|you|your}} Thu'um a blizzard.
+|word1=FO
+|wordid1=0005d16c
+|cooldown1=30
+|info1=10 frost damage/sec for 5 seconds, [[Skyrim:Slow|Slow]]
+|location1=[[Skyrim:Bonestrewn_Crest|Bonestrewn Crest]]
+|word2=KRah
+|wordid2=0005d16d
+|cooldown2=50
+|info2=14 frost damage/sec for 5 seconds, [[Skyrim:Slow|Slow]]
+|location2=[[Skyrim:Folgunthur|Folgunthur]]
+|word3=DiiN
+|wordid3=0005d16e
+|cooldown3=100
+|info3=18 frost damage/sec for 5 seconds, [[Skyrim:Slow|Slow]]
+|location3=[[Skyrim:Skyborn Altar|Skyborn Altar]]
+|transword1=frost
+|transword2=cold
+|transword3=Freeze
+|spellid1=0005d172
+|spellid2=0005d173
+|spellid3=0005d174
+}}__NOTOC__
+'''Frost Breath''' is a [[Skyrim:Dragon Shouts|dragon shout]] that deals [[Skyrim:Frost_Damage|frost damage]] to enemies.
+
+{{NewLeft}}
+== Dragonborn Frost{{DB}} ==
+After completing the [[Skyrim:The Gardener of Men|quest]] inside the Black Book ''[[Skyrim:Black Book: Epistolary Acumen (book)|Epistolary Acumen]]'' there are three abilities to choose from. One of them, [[Skyrim:Dragonborn Frost|Dragonborn Frost]], encases enemies in an ice block (wherein they can be attacked and the ice will not break, but the enemy encased in ice will take less damage) for 15 seconds, turning the shout into a variation of [[Skyrim:Ice_Form|Ice Form]].
+
+== Related Quests ==
+* {{Quest Link|Forbidden Legend}}
+
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=Pah WERID SONaaN LUNERIO<br>WEN YUVON LOVaaS MeyZ<br>{{FC|blue|FO}} HET KO VULON
+|translation1=All praise Bard Lunerio<br>whose golden music became<br>{{FC|blue|frost}} here in (the) night.
+|wordwall2=HET NOK BRIT KaaZ ANURASSA<br>WEN FaaD NIS KOS EVENaaR<br>ORIN NaaL {{FC|blue|KRah}} DINOK
+|translation2=Here lies (the) beautiful Khajiit Anurassa<br>whose warmth cannot be extinguished<br>even by {{FC|blue|cold}} death.
+|wordwall3=WULFIN WahLaaN QETHSEGOL JUDii<br>VahRUKT HREFNA RUVaaK-OM<br>WEN MiiN {{FC|blue|DiiN}} SOS<br>DO NaaN JUL
+|translation3=Wulfin raised (this) stone in memory of his queen<br>Hrefna Raven-Hair<br>whose eyes {{FC|blue|froze}} (the) blood<br>of any man.}}
+
+==Notes==
+*The second and third word of this shout make it increasingly less efficient when it comes to damage per second (dps) for each second of cool down. The first word alone does 1.6 damage per second of cool down, while the second word and third word only do 1.4 and 0.9 damage per second of cool down, respectively.
+
+== Bugs ==
+{{Bug|Orcs use the words "Fo, Haal, Viik"|vn=1}}
+{{Bug|Male Altmer also use a different word: "Krah" is instead "Kah", for both the two word and three word versions of the shout.|vn=0}}
+{{Bug|The third version of this shout is affected by [[Skyrim:Fortify Destruction|Fortify Destruction]] effects from [[Skyrim:Potions|Potions]], while the first two versions are not.|USLEEP}}
+
+{{Skyrim Shouts}}

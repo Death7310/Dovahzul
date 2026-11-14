@@ -1,0 +1,74 @@
+{{Mod Header|Scalebreaker}}
+{{Online NPC Summary
+|image=ON-creature-Sahrotnax.jpg
+|imgdesc=Sahrotnax
+|race=Dragon
+|creature=1
+|loc=[[ON:Moongrave Fane|Moongrave Fane]] — Moonlight's Mausoleum
+|health=
+|difficulty=
+|reaction=Friendly
+|faction=
+}}{{TOCright}}
+'''Sahrotnax''' is a blue [[ON:Dragon|dragon]] that crash landed into the [[ON:Moongrave Fane|Moongrave Fane]]. There, he remained trapped under the rubble. The denizens of the Fane, the [[ON:Vampire (NPC)|vampiric]] [[ON:Hollowfang Clan|Hollowfang Clan]], and the rogue [[ON:Dragonguard|Dragonguard]] [[ON:Grundwulf|Grundwulf]] plan to drink his blood to gain power. Grundwulf believes that in doing so, he can become [[Lore:Dragonborn|Dragonborn]]. [[ON:Chevalier Renald|Chevalier Renald]], a fellow Dragonguard, seeks to turn Grundwulf away from attempting to drink his blood. 
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Sanguine Successor}}
+[[File:ON-skill-Dying Breath 02.jpg|thumb|right|Casting Dying Breath]]
+
+==Skills and Abilities==
+;Dying Breath: A high damage fire attack aimed in the direction of Grundwulf, but can still harm players if they get caught in it. Grundwulf will hide behind the Sliding Stone. You must push the stone out from in front of him while he's hiding in order for the Dragon's breath to hit him.
+
+==Quest-Related Events==
+While Nisaazda is fought, Grundwulf will head towards Sahrotnax. When you catch up to him, he will attempt to drink the dragon's blood:
+:'''Grundwulf''': ''"Mark this day. When I bleed this dragon dry, the Empire will be made whole."''
+:'''Sahrotnax''': ''"You are an ant trying to shoulder the world."''
+:'''[[ON:Hollowfang Beastmaster|Hollowfang Beastmaster]]''': ''"Protect the Devourer. Avenge Nisaazda!"''
+:'''[[ON:Hollowfang Dire-Maw|Hollowfang Dire-Maw]]''': ''"Soon the Devourer will consume you all!"''
+[[File:ON-quest-The Sanguine Successor.jpg|thumb|right|Grundwulf drains Sahrotnax]]
+
+During the final battle Grundwulf will drink Sahrotnax's blood.
+:'''Grundwulf''': ''"I can feel it! Haha—ah!"''
+:'''Sahrotnax''': ''"Bloated tick. You've drunk to bursting."''
+:'''Grundwulf''': ''"Bleed for me!"''
+:'''Sahrotnax''': ''"Shrink from the flames like the vermin you are!"''
+:'''Grundwulf''': ''"Is that all the fight you've got left, Dragon?"''
+:'''Sahrotnax''': ''"Feel my blood boil within you, leech."''
+:'''Grundwulf''': ''"Breathe your last you damn beast!"''
+
+If Dying Breath hits Grundwulf:
+:'''Sahrotnax:''' ''"I'll hold you to the flame until you burst!"''
+:'''Grundwulf:''' ''"Gah! Dragon's fire never burned so hot."''
+
+When Grundwulf is near death:
+:'''Sahrotnax:''' ''"Let the wretch burn! I want to see him suffer."''
+:'''Grundwulf:''' ''"The Empire must endure!"''
+
+Once Grundwulf is killed, Chevalier Renald will arrive to have words with the dragon:
+:'''Chevalier Renald''': ''"I failed you, old friend. You deserved a better death."''
+:'''Sahrotnax''': ''"No kind words for me, Renald?"''
+:'''Chevalier Renald''': ''"Still your tongue, wyrm. Your death is the one good thing to come to this."''
+:'''Sahrotnax''': ''"I go knowing the war for freedom only brought you ruin."''
+:'''Chevalier Renald''': ''"Void take you."''
+:'''Sahrotnax''': ''"My suffering ends here. Yours will linger long after."''
+
+==Gallery==
+<gallery>
+File:ON-creature-Sahrotnax 02.jpg|Writhing in pain
+File:ON-creature-Sahrotnax 03.jpg|Rendered unconscious from blood loss
+File:ON-skill-Dying Breath.jpg|Dying Breath
+File:ON-creature-Sahrotnax 04.jpg|Dead
+File:ON-render-Moongrave Fane 07.jpg|[[Online:Renders/Scalebreaker|Promotional render]]
+File:ON-render-Sahrotnax.jpg|Promotional render
+File:ON-wallpaper-The Elder Scrolls Online Scalebreaker-1920x1080.jpg|Depicted in promotional artwork for ''ESO: Scalebreaker''
+</gallery>
+
+==Notes==
+* In [[Lore:Dragon Language|Dragon Language]], Sahrotnax translates as either Phantom-Word-Cruelty (sah-rot-nax), or Mighty-Cruelty (sahrot-nax).
+* He shares the same model as [[ON:Mulaamnir|Mulaamnir]]. 
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

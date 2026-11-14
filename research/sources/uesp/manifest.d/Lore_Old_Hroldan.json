@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Old Hroldan",
+  "revid": 3517072,
+  "timestamp": "2026-03-11T02:12:45Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3517072&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "bb9a7e424e9713fcb761227fdbc6ddde16fe103292ed587c3da81fe8bef3a45d",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 148746,
+  "ns": 130,
+  "parentid": 3405614,
+  "requested_title": "Lore:Old Hroldan",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Old_Hroldan",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3517072",
+  "sha1": "a001ea66bd5877a6d5adc0c97539673408f44cbf",
+  "sha1_matches_mediawiki": true,
+  "bytes": 9198,
+  "chars": 9198,
+  "lines": 48,
+  "saved_as": "research/sources/uesp/Lore_Old_Hroldan.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Nordic|Lore:Elder+Scrolls|Lore:Rorikstead|Lore:Granite+Hill|Lore:Old+Hroldan|Lore:Ivarstead|Lore:Whiterun|Lore:Northwind+Mine|Lore:Forgotten+Vale|Lore:Ja%27darri|Lore:Fa-Nuit-Hen|Lore:Scaleborn",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:42Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

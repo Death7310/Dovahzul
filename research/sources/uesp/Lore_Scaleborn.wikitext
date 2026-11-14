@@ -1,0 +1,28 @@
+<noinclude>{{Lore Bestiary Trail}}__NOTOC__{{Lore Creature Summary
+|name=Scaleborn
+|image=ON-mount-Scaleborn Bear.jpg
+|imgdesc=A Scaleborn Bear
+|type=[[Lore:Bestiary|Beast]] ([[Lore:Magical Hybrid|Magical Hybrid]])
+|range=[[Lore:Elsweyr|Elsweyr]]
+|appears=[[Online:Scaleborn Bear|ESO]]
+}}</noinclude>
+The [[Lore:Scaleborn|Scaleborn]] are a product line of [[Lore:Magical Hybrid|artificial]] [[Lore:Dragon|draconic]] creatures commissioned in the [[Lore:Second Era|Second Era]] by Queen [[Lore:Khamira|Khamira]] of [[Lore:Anequina|Anequina]] for use as mounts in the newly reformed [[Lore:Dragonguard|Dragonguard]].{{Ref|name=SR|[[ON:Scaleborn Ram|Scaleborn Ram]] mount description in [[Online:Online|ESO]]}}{{Ref|name=SW|[[ON:Scaleborn Wolf|Scaleborn Wolf]] mount description in [[Online:Online|ESO]]}} They were [[Lore:Magic|magically]] created with "draconic fleshweave" by the [[Lore:Telvanni|Telvanni]] Magister [[Lore:Varkenel|Varkenel]],{{Ref|name=SW}}{{ref|name=SS}}{{ref|name=SR}}{{ref|name=SB}} most famous for his creation of [[Lore:Vvardvark|vvardvarks]].{{Ref|name=LA|{{Cite Book|Loremaster's Archive - House Telvanni}}}}
+
+Varkenel was previously commissioned to create a draconic creature, though the result was considered less than satisfactory.{{Ref|name=PCL|[[ON:Pyrodraconic Camel-Lizard|Pyrodraconic Camel-Lizard]] mount dscription in [[Online:Online|ESO]]}} However, he was able to incorporate draconic fleshweave in the creation of the Scaleborn due to his commissioners in Elsweyr having the means to scavenge authentic draconic materials.{{Ref|name=SS|[[ON:Scaleborn Senche-raht|Scaleborn Senche-raht]] mount description in [[Online:Online|ESO]]}} Varknel considered it a rare pleasure to collaborate with someone outside House Telvanni. He was especially pleased with his cooperation with the Queen of [[Lore:Rimmen|Rimmen]] and looked forward to accepting her offer of hospitality.{{Ref|name=SW}} 
+
+He operated on a timeline he considered reasonable and manageable.{{Ref|name=SR}} The Scaleborn creatures he created resembled [[Lore:Senche-raht|senche-raht]],{{Ref|name=SS}} [[Lore:Wolf|wolves]],{{ref|name=SW}} [[Lore:Ram|rams]],{{ref|name=SR}} and [[Lore:Bear|bears]], the latter being the fourth form in the series. While bears were not native to Elsweyr, he suggested them as they had proven to be a popular form in his previous works.{{Ref|name=SB|[[ON:Scaleborn Bear|Scaleborn Bear]] mount description in [[Online:Online|ESO]]}}<noinclude>
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:ON-crown store-Scaleborn Ram.jpg|Scaleborn Ram
+File:ON-crown store-Scaleborn Wolf.jpg|Scaleborn Wolf
+File:ON-crown store-Scaleborn Senche-raht.jpg|Scaleborn Senche-raht
+File:ON-crown store-Pyrodraconic Camel-Lizard.jpg|A Pyrdaconic Camel-Lizard, an earlier attempt of Varkenel at creating a draconic creature
+</gallery>
+
+==See Also==
+* {{GSI|Online:Scaleborn Bear}}
+
+==References==
+<references/></noinclude>

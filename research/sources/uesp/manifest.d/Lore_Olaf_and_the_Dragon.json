@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Olaf and the Dragon",
+  "revid": 2227798,
+  "timestamp": "2020-10-11T19:16:01Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=2227798&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "4bc0c44aabd0906f7a42f7d176fca8bf34a9c76532ae31b24b35fb55a898c88e",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 111427,
+  "ns": 130,
+  "parentid": 1880899,
+  "requested_title": "Lore:Olaf and the Dragon",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Olaf_and_the_Dragon",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=2227798",
+  "sha1": "13083eb181231d4ea58589abac6c135a3d476c5e",
+  "sha1_matches_mediawiki": true,
+  "bytes": 5200,
+  "chars": 5200,
+  "lines": 45,
+  "saved_as": "research/sources/uesp/Lore_Olaf_and_the_Dragon.wikitext",
+  "groups": [
+    "songs_and_books"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Lore:Dragon+Language:+Myth+no+More|Lore:Dragon+Skull+Parchment|Online:Dragon+Skull+Parchment|Lore:Wisdom+of+the+Flying+Gods|Online:Wisdom+of+the+Flying+Gods|Lore:Kireth%27s+Taarengrav+Note|Online:Kireth%27s+Taarengrav+Note|Lore:The+History+of+Zaan+the+Scalecaller|Lore:Olaf+and+the+Dragon|Lore:There+Be+Dragons|Lore:The+Guardian+and+the+Traitor|Lore:Holdings+of+Jarl+Gjalund",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:22Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

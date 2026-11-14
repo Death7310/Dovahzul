@@ -1,0 +1,39 @@
+{
+  "title": "Lore:Alduin",
+  "revid": 3669853,
+  "timestamp": "2026-11-10T09:46:54Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3669853&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "868712fc72a2c0cd89eac0761df2df0ee400a0a7c97a991d48764fea9bbbcbe3",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 36948,
+  "ns": 130,
+  "parentid": 3669740,
+  "requested_title": "Lore:Alduin",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Lore:Alduin",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3669853",
+  "sha1": "c07556299de7a4c891ba79e48eeacbc32ee2d13b",
+  "sha1_matches_mediawiki": true,
+  "bytes": 36939,
+  "chars": 36939,
+  "lines": 184,
+  "saved_as": "research/sources/uesp/Lore_Alduin.wikitext",
+  "groups": [
+    "names"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Easter+Eggs|Skyrim:Unobtainable+Items|Skyrim:Anniversary+Edition|Lore:Dragon|Lore:Alduin|Lore:Paarthurnax|Lore:Odahviing|Lore:Durnehviir|Lore:Mirmulnir|Lore:Sahloknir|Lore:Nahagliiv|Lore:Viinturuth",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:31Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

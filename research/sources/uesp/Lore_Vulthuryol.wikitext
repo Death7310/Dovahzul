@@ -1,0 +1,21 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Blackreach
+|appears=[[SR:Vulthuryol|Skyrim]]
+|image=SR-creature-Vulthuryol.jpg
+|death3=4E 201
+|death3Loc=Blackreach
+}}[[File:SR-place-Blackreach 02.jpg|thumb|left|Blackreach]]</noinclude>
+[[Lore:Vulthuryol|Vulthuryol]] was a [[Lore:Dragon|dragon]] whose name meant "Dark-Overlord-Fire" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=SOS|{{Cite Book|Songs of Skyrim|ns_base=Skyrim}}}}{{ref|name=Nahkriin|[[Skyrim:Nahkriin (creature)|Nahkriin]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Dragon|[[Skyrim:Dragon|Dragon]] dialogue in [[Skyrim:Skyrim|Skyrim]]}}{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+It is unknown when or how Vulthuryol accessed [[Lore:Blackreach|Blackreach]], but temporal disturbances were a method known to teleport massive creatures from all over Tamriel into the caverns.{{Ref|name=TC|[[ON:Thaddeus Cosma|Thaddeus Cosma]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Greymoor|Greymoor]]''}} As of {{Year|4E 201}}, the Mzark Cavern system acted as his lair.{{ref|name=Blackreach|[[Skyrim:Blackreach|Blackreach]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=VUL}} Vulthuryol was not recorded in the [[Lore:Dragonguard|Dragonguard]]'s ''[[Lore:Atlas of Dragons|Atlas of Dragons]]''.{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}}
+
+In 4E 201, the [[Lore:Hero#Last Dragonborn|Last Dragonborn]] ventured to Blackreach.{{ref|Events of [[SR:Elder Knowledge|Elder Knowledge]] in ''[[SR:Skyrim|Skyrim]]''}} Through use of the [[Lore:Thu'um|Thu'um]], they awoke Vulthuryol. The two did battle in the Mzark Cavern, and the Dragonborn absorbed the dragon's soul.{{ref|name=VUL|[[SR:Vulthuryol|Vulthuryol]]'s location, conditions to summon and battle in ''[[SR:Skyrim|Skyrim]]''}} Having had his soul devoured by another dovah, Vulthuryol was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLeft}} 
+
+==See Also==
+{{GSI|Skyrim:Vulthuryol}}
+
+==References==
+<references/>

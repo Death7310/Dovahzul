@@ -1,0 +1,101 @@
+{{Mod Header|Dragonhold}}
+{{Online NPC Summary
+|image=ON-npc-Ja'darri 02.jpg
+|imgdesc=The spirit of Ja'darri
+|race=Khajiit
+|gender=Female
+|health={{ESO Health|ncf}}
+|loc=[[ON:Halls of the Highmane (place)|Halls of the Highmane]]<br>[[ON:Spilled Sand|Spilled Sand]]
+|reaction=Friendly
+|faction={{Faction|Pride of Alkosh}}<br>{{Faction|Dragonguard}} (Allied)
+|condition=Spirit
+}}
+'''Ja'darri''' (also known in the Dragon tongue as Toshrakhat), was an ancient [[ON:Khajiit|Khajiit]] hero and the founder of both [[ON:Pridehome|Pridehome]] and the [[Online:Pride of Alkosh|Pride of Alkosh]]. During the times of the Dragon Cult in Elsweyr, she became an ally of the [[ON:Dragonguard|Dragonguard]] as well as the bearer of the [[Lore:Mask of Alkosh|Mask of Alkosh]] through her unlikely alliance with [[ON:Nahfahlaar|Nahfahlaar]] to take down the [[ON:Laatvulon|Demon from the East]].
+
+In the present day, you will encounter her spirit in the [[ON:Halls of the Highmane (place)|Halls of the Highmane]] and the realm known as the [[ON:Spilled Sand|Spilled Sand]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Pride of Alkosh (quest)}}
+*{{Quest Link|The Dragonguard}}
+
+==Quest-Related Events==
+===The Pride of Alkosh===
+[[File:LO-people-Ja'darri.jpg|thumb|left|A statue of Ja'darri.]][[File:ON-npc-Ja'darri.jpg|thumb|right|The Spirit of Ja'darri]]
+Aeliah approaches the statue of Ja'darri.
+:'''Aeliah Renmus:''' ''"That's a statue of Ja'darri, isn't it? Let's see if there's an inscription."''
+
+After you read the inscription on the statue, Ja'darri appears in front of her grave.
+:'''Ja'darri:''' ''"You have both ventured far and come so close, bit only one may claim the Mask of Alkosh."''
+:'''Ja'darri:''' ''"You who heard the [[ON:Clan Mother Hizuni|Clan Mother]]'s dying words. Go now and claim that which you earned."''
+:<The spirit disappears.>
+:'''Aeliah Renmus:''' ''"Was that ... Ja'darri?"''
+{{NewLine}}
+===The Dragonguard===
+[[File:ON-npc-Ja'darri 03.jpg|thumb|right|Ja'darri in the Spilled Sands]]
+When you first reach the oasis, Nahfahlaar will attempt to speak with her:
+:'''Nahfahlaar : ''' ''"Ja'darri. I …."''
+:'''Ja'darri : ''' ''"Apologies never did suit you, Nahfahlaar. You are here now. That is all that matters."''
+:'''Ja'darri : ''' ''"A new champion walks in Ja'darri's stead. We can still make things right."''
+
+You will then need to speak with her:
+:''"Poor Ra'khajin. It was his destiny to walk these sands, you know. To join with the Pride of Alkosh.<br>But greed drenched his heart like a freezing rain, sapping all its warmth. And so it fell on your shoulders to walk this path instead."''
+:'''Ra'khajin served the Dragons.'''
+:''"Dragons, yes, and something far worse as well. Laatvulon. The Demon from the East.<br>It was not enough to seal it away. You must succeed where Ja'darri failed. You must banish the demon unto eternity, as [[Lore:Alkosh|Alkosh]] wills."''
+:'''Why is Laatvulon so dangerous? Isn't he just another Dragon?'''
+:''"Laatvulon is the torment of chaos, a shadow wearing a scaly hide. It seeks to drench this world in anguish, as is its very nature.<br>It will pave the way for another. A New Moon filled with darkness. Then the tapestry of time shall unravel."''
+:'''I want to defeat Laatvulon. Will you tell me how?'''
+:''"Alkosh watches we mortals with a weary eye. He will lend his power to one worthy, yes. But only if we are granted the aid of his blood. Only a Dragon's power can awaken the mask.<br>You seem willing. Can you say the same of Nahfahlaar?"''
+:'''He's willing. We're ready to empower the mask.'''
+:''"You must raise the Mask of Alkosh before him. Do not think, feel. Cast doubt from your heart and ready yourself to accept Alkosh's divine will. <br>You must succeed where Ja'darri failed, mask-bearer. You must slay Laatvulon."''
+
+You can then ask her more questions.
+:'''Wait. Before we empower the mask, I have some questions.'''
+:''"Of course, mask-bearer. Ja'darri is sure you have many questions. Just don't expect too many answers, yes?"''
+:'''What is this place? / I see. Can you tell me more about this place?'''
+::''"It is not a place, but a story that has been and will be told time and time again.<br>We are within the tapestry and without it. Wrapped up tightly in its threads even as we desperately try to untangle them."''
+::'''Is this the realm of Alkosh?'''
+::''"Alkosh is he who weaves the tapestry, and also he who is the threads. They unspool from the tip of his tail. When the thread ends, there will be nothing.<br>We are all woven into his tapestry, walker. We are always within the realm of time."''
+::'''It doesn't seem like you're going to give me a straight answer here.'''
+::''"Perhaps that is why Alkosh entrusted the Khajiit with his secrets, no?"''
+:'''I want to know more about you. / All right, then. Can you at least tell me about yourself?'''
+::''"Ja'darri was born under eclipsed Moons, yet was destined to never become Mane.<br>And as she listened to the Moons, they sang to her a song as sweet as candied moon-sugar. Until the day their song became the steady beat of drums."''
+::'''The steady beat of drums?'''
+::''"The darkness of [[Lore:Lorkhaj|Lorkhaj]] had stained her soul, the bruising purple of spilled wine. Soon, all she could hear was beautiful, terrible whispers.<br>And so this one decided to make her way to the [[Lore:Sands Behind the Stars|Sands Behind the Stars]] before she was forever lost."''
+::'''I see.'''
+::''"But [[Lore:Khenarthi|Khenarthi]] carried Ja'darri not above to the stars, but into the darkness that had settled into this one's heart.<br>Ja'darri was given two gifts. A lantern to guide and a sword to protect, and both shined with Alkosh's divine light."''
+::'''What happened next?'''
+::''"You walked the [[ON:Halls of the Highmane (place)|Halls of the Highmane]], have you not? You proved yourself worthy, and were gifted the Mask of Alkosh.<br>Those trials, those halls. They reflect Ja'darri's battle, deep in her heart. A battle that she won."''
+::'''What did you do after you won that battle in your heart?'''
+::''"Ja'darri was gifted the Mask of Alkosh and told to protect his most sacred tapestry. To slay a demon who would undo all of time.<br>But now that duty lies upon your shoulders. Bear it wisely."''
+
+If you completed the Main questline:
+:'''I was once empowered by the Amulet of Kings. Is the Mask of Alkosh similar to that amulet?''' 
+:''"You compare the sands of the hourglass to the moments which pass through time. Can they truly be the same? But then, are they truly so different?<br>It is one answer only the Dragon King knows."''
+:'''Is there anything you can tell me?'''
+:''"Perhaps not in a way so easily understood.<br>Just know that the Dragon King guides you now, just as he guided you then. But it is you who must walk the path he lays before you. Never forget that."''
+
+If you sacrificed Sai Sahan to power the Amulet of Kings in the main questline:
+:''"Perhaps not in a way so easily understood.<br>But Ja'darri does sense something. You have a companion with you now, yes? A man who was somehow connected to the Amulet of Kings as well."''
+:'''Sai Sahan. He sacrificed his life to the amulet. He came back to life, but he's not sure how.'''
+:''"Most curious.<br>Alkosh and Khenarthi see every trail along the Many Paths of time. They knew that [[ON:Sai Sahan|Sai Sahan]] was destined to lead you here, to this very moment. And perhaps they were the ones who ensured that he was alive to do so."''
+:'''Are you saying that Alkosh brought Sai Sahan back so he could help me come here?'''
+:''"Now that would be assuming Alkosh's divine will, would it not? Many would consider that … what is the word? Ah. Blasphemous.<br>Ja'darri simply thinks aloud. Take from her words what you will."''
+
+Finish speaking to her and she'll say:
+:'''Ja'darri : ''' ''"Go before him, Dragonguard. It should only take a few words."''
+:'''Ja'darri : ''' ''"Do you remember, Nahfahlaar? Words to mend the tapestry."''
+
+Present the mask to Nahfahlaar and he'll begin to recite:
+:'''Nahfahlaar : ''' ''"Dragon King above. Bormahu han zu'u."''
+:'''Nahfahlaar : ''' ''"This mortal is worthy. Wah vokrii krentiid. They shall mend your threads."''
+:'''Ja'darri : ''' ''"The mask awakens. Go now. Harness the might of Alkosh to overcome the Demon from the East."''
+:'''Ja'darri : ''' ''"As it was always meant to be."''
+<!--Instructions: Add any miscellaneous notes about the NPC here, with a bullet for each note.--><!--
+==Notes==
+* Add note here
+--><!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

@@ -1,0 +1,170 @@
+{{Trail|Linguistics}}__NOTOC__
+[[Lore:Nordic|Nordic]] was the language spoken by the [[Lore:Nord|Nords]].{{ref|name=BtAoM|{{Cite Book|Before the Ages of Man}}}} It is sometimes referred to as '''Old Nord'''{{ref|{{Cite book|Together Stew Recipe|ns_base=ON}}}} or the '''northern tongue''', referring to [[Lore:Skyrim|Skyrim]].{{ref|name=TIC|{{Cite Book|The Infernal City|ns_base=Books}}}}{{rp|22}} The Nordic god [[Lore:Jhunal|Jhunal]] is considered the father of languages.{{ref|name=VOF|{{Cite Book|Varieties of Faith...}}}}
+
+Nordic first saw use in the [[Lore:Merethic Era#Late Merethic Era|Late Merethic Era]].{{ref|name=TDW}}{{ref|name=Sabatons}} It was considered an old tongue by [[Lore:Second Era|Second Era]],{{ref|name=EGTS}} but saw limited use into even the [[Lore:Fourth Era|Fourth]].{{ref|name=TIC}}{{rp|22}} Next to nothing was known of Atmoran by the Second Era, with instances of the language being increasingly hard to find.{{ref|name=HMTWM}}
+
+==Language Family and Genetic Relationship==
+The original [[Lore:Atmora|Atmoran]] tongue likely descended from [[Lore:Ehlnofex|Ehlnofex]], with both tongues using the term [[Lore:Talos|Talos]],{{ref|name=PGE1C}} and was entirely oral, bearing no written form until the Late Merethic Era. [[Lore:Ysgramor|Ysgramor]], considered the first [[Lore:Man|human]] historian, created the runic alphabet of Atmoran speech using the principles of [[Lore:Aldmeris (language)|Elvish]].{{ref|name=BtAoM}}{{ref|name=HMTWM}} When the [[Lore:Dragon Cult|Dragon Cult]] established its firm grip and dominion over Skyrim, [[Lore:Dragon Language|Dragon-tongue]] became the dominant language. Use of the tongue was regulated by the ruling [[Lore:Dragon Priest|Dragon Priests]], who prevented the usage of certain words.{{ref|name=TDW|{{Cite Book|The Dragon War}}}} Nords copied the [[Lore:Dragon Alphabet|Dragon alphabet]] after watching the [[Lore:Dragon|Dragons]] themselves carve the runes with their claws. They used this script for works of importance, such as burials,{{ref|name=DLMnM|{{Cite Book|Dragon Language: Myth no More}}}} but used a lettering system, colloquially referred to as ancient Nord, for other, common purposes.{{ref|name=Nurnhilde|[[ON:Queen Nurnhilde|Queen Nurnhilde]]'s dialogue during [[ON:Sleep for the Dead|Sleep for the Dead]] in [[ESO:Online|ESO]]}}{{ref|name=Sleep|[[ESO:Sleep for the Dead|Sleep for the Dead]] quest in [[ESO:Online|ESO]]}}{{ref|name=Draugr|[[SR:Draugr|Draugr]] dialogue in [[ESO:Online|ESO]]}} Nordic likely descends from the Atmoran tongue, with the two languages sharing some words.{{ref|name=PGE1C}}{{ref|name=TAH}} It developed around the same time as the ancient Nord variation of Dragon-tongue, as words for Dragon from both languages were used around the same time.{{ref|name=TDW}}
+
+==Nordic Dictionary==
+;Bare-sarks :the Bare-Chested, Berserkers{{ref|name=GenericB|[[MW:Generic Dialogue B|Generic dialogue]] regarding '''berserkers''' in ''[[BM:Bloodmoon|Morrowind: Bloodmoon]]''}}
+;Dalk :Knife{{ref|name=TIC}}{{rp|22}}
+;Dov-rha :Dragon{{ref|name=Sabatons|[[ESO:Dov-rha Sabatons|Dov-rha Sabatons]] codex entries in [[ESO:Online|ESO]]}}
+;Dunmereth :Land of the Dunmer{{ref|name=PGE1M|{{Cite Book|PGE|1|Morrowind}}}}
+;[[Lore:Haafingar|Haafingar]] :Nordic name for [[Lore:Solitude|Solitude]]{{Ref|name=PGE1S}}{{Ref|name=LRPTOFT|group=UOL|[[General:Loranna's RP#Campaign 5: Trail of Frozen Tears|Campaign 5: Trail of Frozen Tears]] summary – ''[[General:Loranna's RP|Loranna's RP]]''}}
+;[[Lore:Breton|Manmeri]] :Half-Elves, Bretons{{ref|name=PGE3HR|{{Cite Book|PGE|3|High Rock}}}}
+;Merethic :Era of the Elves{{ref|name=BtAoM}}
+;Reaver :Raider{{ref|name=GenericR|[[MW:Generic Dialogue R|Generic dialogue]] regarding '''reavers''' in ''[[BM:Bloodmoon|Morrowind: Bloodmoon]]''}}
+;Season Unending: "War" or "War without end". Comes from the word "Evgir Unslaad" in the Dragon language.{{Ref|name=SRArngeir|[[Skyrim:Arngeir#Season Unending|Arngeir]]'s dialogue during the quest "[[Skyrim:Season Unending|Season Unending]]'' in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=SRBergritte|[[Skyrim:Bergritte Battle-Born|Bergritte Battle-Born]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+;Skald :Bard{{ref|name=EGTS|{{Cite Book|EGT|Skyrim}}}}
+;[[Lore:Solstheim|Solstheim]]: Sun's Home{{Ref|name=MNP|group=UOL|{{Cite Book|Mark Nelson's Posts|ns_base=General}}}}
+;Talos :Stormcrown{{ref|name=TAH|{{Cite Book|The Arcturian Heresy}}}}
+;Rune-galdr : Rune-mage{{ref|name=Bonafryd|[[Online:Bonafryd|Bonafryd]]'s dialogue in [[ESO:Online|ESO]]}}
+;Stuuthrad: "Soup's Tears"{{ref|name=Stuuthrad|[[Online:Treasures SJ-SY#Stuuthrad|Stuuthrad]] item description in [[ON:Online|ESO]]}}
+;[[Lore:Ysmir|Ysmir]] :Dragon of the North, King{{ref|name=PGE1C|{{Cite Book|PGE|1|Cyrodiil}}}}
+
+==Atmoran Dictionary==
+;Herma-Mora :debated translation of 'Woodland Man' and 'That Which Speaks in the Wastes'{{ref|name=HMTWM|{{Cite Book|Herma-Mora: The Woodland Man?}}}}
+;Mereth :Land of the Elves{{ref|name=PGE1S|{{Cite Book|PGE|1|Skyrim}}}}
+;Talos :Stormcrown{{ref|name=PGE1C}}
+;Wittestadr :debated translation of 'Whit's Daughter' and 'Wit Shatter'{{ref|name=Wittestadr|[[ESO:Wittestadr|Wittestadr]] loading screen in [[ESO:Online|ESO]]}}
+;[[Lore:Wuuthrad|Wuuthrad]] :Storm's Tears{{ref|name=SotR5|{{Cite Book|Songs of the Return, Volume 5}}}}
+
+==Nordic Locations, Settlements and Regions==
+Below are the Nordic names of some known locations, settlements and regions of Skyrim, Solstheim, and other places.
+
+{{columns|width=25em|count=4|
+;[[Lore:Fort Amol|Amol]]
+;Angarvunde
+;[[Lore:Ansilvund|Ansilvund]]
+;[[Lore:Mount Anthor|Anthor]]
+;Benkongerike
+;Bjorn
+;Bloodskal
+;Connorflenge
+;Domme
+;[[Lore:Drajkmyr|Drajkmyr]]
+;[[Lore:Dunstad Grove|Dunstad]]
+;Eddard
+;[[Lore:Felsaad Coast|Felsaad]]
+;[[Lore:Lake Fjalding|Fjalding]]
+;Fjell
+;[[Lore:Folgunthur|Folgunthur]]
+;[[Lore:Forelhost|Forelhost]]
+;Frossel
+;Frosselmane
+;Frykte
+;Gandrung
+;Gronn
+;[[Lore:Gyldenhul Barrow|Gyldenhul]]
+;Harmugstahl
+;[[Lore:Harstrad River|Harstrad]]
+;[[Lore:Helgen|Helgen]]
+;[[Lore:Heljarchen|Heljarchen]]
+;[[Lore:River Hjaal|Hjaal]]
+;Himmelhost
+;[[Lore:Hirstaang Forest|Hirstaang]]
+;[[Lore:Lake Honrich|Honrich]]
+;Hraggstad
+;[[Lore:Old Hroldan|Hroldan]]
+;[[Lore:High Hrothgar|Hrothgar]]
+;Hvitkald
+;[[Lore:Iggnir River|Iggnir]]
+;[[Lore:Lake Ilinalta|Ilinalta]]
+;[[Lore:Isild River|Isild]]
+;[[Lore:Isinfier Plains|Isinfier]]
+;Jolgeirr
+;[[Lore:Castle Karstaag|Karstaag]]
+;Kelsedolk
+;[[Lore:Kjenstag Ruins|Kjenstag]]
+;[[Lore:Kolbjorn Barrow|Kolbjorn]]
+;Kolskeggr
+;[[Lore:Korvanjund|Korvanjund]]
+;Legge
+;Lukesturm
+;[[Lore:Moesring Mountains|Moesring]]
+;[[Lore:Morthal|Morthal]]
+;[[Lore:Mortrag Glacier|Mortrag]]
+;[[Lore:Morvunskar|Morvunskar]]
+;[[Lore:Neugrad Watch|Neugrad]]
+;Nilheim
+;[[Lore:Nimalten|Nimalten]]
+;Orotheim
+;[[Lore:Ragnvald|Ragnvald]]
+;Rimhull
+;Ruunvald
+;[[Lore:Saarthal|Saarthal]]
+;Sjobal
+;[[Lore:Skaal Village|Skaal]]
+;Skaalara
+;Skogsdrake
+;[[Lore:Skuldafn|Skuldafn]]
+;Skygge
+;Solvjord
+;[[Lore:Sovngarde|Sovngarde]]
+;Stormpfund
+;[[Lore:Sungard|Sungard]]
+;Taarengrav
+;[[Lore:Thirsk|Thirsk]]
+;[[Lore:Udyrfrykte|Udyrfrykte]]
+;[[Lore:Ustengrav|Ustengrav]]
+;Valbrandr
+;Valkygg
+;Valtheim
+;[[Lore:Valthume|Valthume]]
+;Varstaad
+;[[Lore:Volskygge|Volskygge]]
+;[[Lore:Volunruud|Volunruud]]
+;[[Lore:Lake Yorgrim|Yorgrim]]
+;Yngvild
+}}
+
+==Gallery==
+===Nordic Runes===
+<gallery>
+File:ON-statue-Riften Runes 01.png|Nordic standing stone runes, circa {{Year|2E 582}}{{intnote|nb1|[nb 1]}}<br>(ESO)
+File:ON-misc-NordicStandingStone1.png|Nordic standing stone runes, circa {{Year|2E 582}}{{intnote|nb1|[nb 1]}}<br>(ESO)
+File:ON-statue-Riften Runes 02.png|Nordic standing stone runes, circa {{Year|2E 582}}{{intnote|nb2|[nb 2]}}<br>(ESO)
+File:ON-misc-NordicStandingStone2.png|Nordic standing stone runes, circa {{Year|2E 582}}{{intnote|nb2|[nb 2]}}<br>(ESO)
+File:ON-misc-NordicStandingStone3.png|Nordic standing stone runes, circa {{Year|2E 582}}<br>(ESO)
+File:ON-misc-NordicStandingStone4.png|Nordic standing stone runes, circa {{Year|2E 582}}<br>(ESO)
+</gallery>
+
+===Possible Nordic Runes===
+<gallery style="image-rendering: pixelated">
+File:AR-misc-Fortress of Ice.png|Runes from the [[Lore:Fortress of Ice|Fortress of Ice]]{{intnote|nb3|[nb 3]}}<br>(Arena)
+File:AR-sprite-MWTEMPLE0.png|Temple exterior inlay runes{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-MWTEMPLE1.png|Temple exterior inlay runes{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-MWTEMPLE2.png|Temple exterior inlay runes{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-MWTEMPLE3.png|Temple exterior inlay runes{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NROCK O2.png|Large runestone{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NROCK O3.png|Large runestone{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NROCK O4.png|Large runestone{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NPOST11.png|Stone post{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NGRAVE2.png|Gravestone{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-COFFIN1.png|Coffin{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-DALTAR1.gif|Altar of [[Lore:Ius|Ius]]{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-sprite-NALTAR1.png|Altar{{intnote|nb4|[nb 4]}}<br>(Arena)
+File:AR-concept-ChamberVIII-1.jpg|Runes at the bottom of an astral chart<br>(Arena Concept Art)
+File:AR-concept-ChamberVIII-2.jpg|Runes at the bottom of an astral chart<br>(Arena Concept Art)
+</gallery>
+
+==Notes==
+*{{LNote|nb1|^1.|According to a fan named Athelas, who is a scholar and educator of the real world languages [[Wikipedia:Old English|Old English]] and [[Wikipedia:Old Norse|Old Norse]], the Nordic rune script borrows from the real world [[Wikipedia:Elder Futhark|Elder Futhark]] script, and can be translated to English roughly as: ''"And (the) Ash of the [[Lore:Wulfharth|Wulf]], they recognize that doom."'' The script then repeats two additional times.{{ref|name=Runestone|group=LANG|1=[https://web.archive.org/web/20230316073313/https://www.imperial-library.info/content/nordic-runes-eso#comment-27963 ''Translating the Bleakrock Runeston Introduction and Translation]''}}}}
+*{{LNote|nb2|^2.|According to Athelas, this rune script can be translated to English roughly as: ''"[[Lore:Ysgramor|Ysgramor]] (went) forth higher and they rowed inwards up : Ysgramor they made a pull of the oar; they recognize that doom."''{{ref|name=Runestone|group=LANG}}}}
+*{{LNote|nb3|^3.|These wall textures feature the Elder Futhark script (later used as Nordic script for [[Online:Online|ESO]]) and are found scattered throughout the Fortress of Ice, the home of the [[Lore:Shalidor|Archmagus Shalidor]], who was a Nord.{{Ref|name=RiaSilmane|Dialogue with [[Arena:Ria Silmane|Ria Silmane]] in ''[[Arena:Arena|Arena]]''}}{{ref|name=AMM|{{Cite Book|A Minor Maze}}}}{{Ref|name=Shalidor|[[Online:Arch-Mage Shalidor|Arch-Mage Shalidor]] in [[Online:Online|ESO]]}}}}
+*{{LNote|nb4|^4.|These sprites also feature the Elder Futhark script (later used as Nordic script for ESO) and are used often throughout the entire game world of [[Arena:Arena|''Arena'']].}}
+
+==See Also==
+===Books===
+* {{Book Link|Herma-Mora: The Woodland Man?}}
+* {{Book Link|The Atmoran Cult Writings}}
+* {{Book Link|The Onus of the Oghma}}
+
+==References==
+<references/><references/>
+'''Note:''' The following references are derived from fan translations of terms and phrases in ''[[General:The Elder Scrolls|The Elder Scrolls]]'' which are seemingly derived from real world languages, and thus are entirely unauthoritative in nature.
+<references group=LANG/>
+{{UOL}}
+<references group=UOL/>
+{{Lore Linguistics}}{{Lore Nord Culture}}</noinclude>

@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Ulfric Stormcloak",
+  "revid": 3562627,
+  "timestamp": "2026-05-21T18:40:13Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3562627&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "9fdf7a43817384b612516f6c0c75269d9067628df1968c45eb984d037fce1a6c",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 129382,
+  "ns": 134,
+  "parentid": 3548303,
+  "requested_title": "Skyrim:Ulfric Stormcloak",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Ulfric_Stormcloak",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3562627",
+  "sha1": "a27fcaa0b5e683d2e3a2b9e57d3001ff16b1a35e",
+  "sha1_matches_mediawiki": true,
+  "bytes": 68576,
+  "chars": 68576,
+  "lines": 655,
+  "saved_as": "research/sources/uesp/Skyrim_Ulfric_Stormcloak.wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Relonikiv|Skyrim:Dragon|Skyrim:Skeletal+Dragon|Skyrim:Dragon+Riding|Skyrim:Draugr|Skyrim:Dragon+Priest|Skyrim:Gormlaith+Golden-Hilt|Skyrim:Hakon+One-Eye|Skyrim:Felldir+the+Old|Skyrim:Ulfric+Stormcloak|Skyrim:Farengar+Secret-Fire|Skyrim:Esbern",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:27Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

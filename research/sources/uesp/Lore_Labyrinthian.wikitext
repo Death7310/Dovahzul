@@ -1,0 +1,67 @@
+<noinclude>{{cleanup-lpp|writtenby=Legoless}}{{Lore Places Trail}} __NOTOC__
+{{Lore Place Summary
+|type=Ruin
+|continent=Tamriel
+|province=Skyrim
+|region=Hjaalmarch
+|name=Labyrinthian
+|image=SR-place-Labyrinthian.jpg
+|imgdesc=Labyrinthian circa {{Year|4E 201}}
+|appears=[[Arena:Labyrinthian|Arena]], [[Skyrim:Labyrinthian|Skyrim]], [[ON:Labyrinthian|ESO]]
+}}</noinclude>
+[[Lore:Labyrinthian|Labyrinthian]] is an ancient [[Lore:Nord|Nordic]] ruin located in [[Lore:Hjaalmarch|Hjaalmarch]], [[Lore:Skyrim|Skyrim]]. The labyrinth for which the ruin gets its name was built sometime in the [[Lore:First Era|First Era]], but the ruins themselves are much older, having been the city of '''Bromjunaar''', thought to have once been the capital of the [[Lore:Dragon Cult|Dragon Cult]].{{ref|name=MM|{{Cite Book|A Minor Maze}}}} Trading caravans occasionally pass through the ruins, although they often prefer safer, longer routes.{{Ref|name=SRLoad|''Skyrim'' [[Skyrim:Loading_Screens|loading screen]]}} The ruins of Lost Valkygg are located within the abandoned city.{{ref|name=Skyrim|[[Skyrim:Labyrinthian|Labyrinthian]] in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+
+Both Labyrinthian and the complex at Shalidor's Maze each contained a [[Lore:Word Walls|Word Wall]].{{ref|name=Skyrim}}{{ref|name=SM|[[Skyrim:Shalidor's Maze|Shalidor's Maze]] in ''[[Skyrim:Skyrim|Skyrim]]''}} [[Lore:Frost Troll|Frost trolls]] are particularly common in the ruins of Labyrinthian,{{ref|name=Skyrim}}{{ref|[[Online:Labyrinthian|Labyrinthian]] in [[Online:Online|ESO]]}} with many having been smuggled from there to [[Lore:Morrowind|Morrowind]] by the [[Lore:Camonna Tong|Camonna Tong]].{{ref|{{Cite Book|ns_base=ON|Bringing Home the Trolls}}}}
+{{NewLeft}}
+
+==History==
+[[File:SR-interior-Bromjunaar Sanctuary.jpg|thumb|left|The masks within Bromjunaar Sanctuary before it fell into ruin]]
+===Merethic Era===
+The ruins were originally built by the ancient Nords during the [[Lore:Merethic Era|Merethic Era]] as a temple to the [[Lore:Dragon|dragons]] who ruled Skyrim at the time. It grew into the great city of Bromjunaar, and became the capital of Skyrim during the height of the Dragon Cult's power. The highest ranking [[Lore:Dragon Priest|Dragon Priests]] met there to discuss matters of ruling.{{ref|name=MM}} The mask [[Lore:Dragon Priest Masks#Konahrik|Konahrik]] was stored there, and it could only be accessed if all eight of the lesser [[Lore:Dragon Priest Masks|masks]] of Skyrim were placed on their respective pedestals within its sanctuary.{{ref|name=Skyrim}} With the defeat of the Dragon Cult during the [[Lore:Dragon War|Dragon War]], the city of Bromjunaar crumbled and was left abandoned and the shrines and temples fell into ruin.{{ref|name=MM}}
+
+At some point, the undead Dragon Priest [[Lore:Morokei|Morokei]] was bound deep within the ruins of Labyrinthian. Morokei was a high-ranking Dragon Priest in life, and was the bearer of a magical [[Lore:Dragon Priest Masks|Dragon Priest Mask]] (also named [[Lore:Dragon Priest Masks#Morokei|Morokei]]) gifted to him by the dragons.{{Ref|name=SRLoad}} His bindings were continuously renewed by worshippers of [[Lore:Kyne|Kyne]] to ensure he would never escape to plague Skyrim.{{ref|name=ESO|[[ON:The Fading Fire|The Fading Fire]] quest in [[ESO:Online|ESO]]}}
+
+===First Era===
+[[File:LO-misc-Shalidor Statue.jpg|thumb|right|Statue of Shalidor]]
+In the First Era, the [[Lore:Shalidor|Archmage Shalidor]] built the Labyrinth deep in the ruins of Bromjunaar. Some say Shalidor's Maze was built to hide [[Lore:Glamoril|Glamoril]], or the "Secret of Life", which he supposedly stole from [[Lore:Akatosh|Akatosh]].{{ref|name=SRUrag|[[SR:Urag gro-Shub|Urag gro-Shub's]] lecture in ''[[SR:Skyrim|Skyrim]]''}} However, Shalidor began to use the Labyrinth to test potential archmages. If they survived navigating the ruins and making it through the Labyrinth, they passed. Eventually Labyrinthian, as it had come to be known as, ceased to be used, and the test is considered brutal by modern standards.{{ref|name=MM}} The Labyrinth is actually divided into two sections, both of which must be navigated to complete Shalidor's test. Several gates bar the path, and can only be opened by casting a spell from the specific school of magic. How to navigate the Labyrinth is not common knowledge, as all the archmages who passed were very secretive.
+
+At some point after its abandonment,{{intnote|Active|[Note 1]}} either before or after Shalidor built the Labyrinth, the ruins came under the jurisdiction of {{Lore Link|Jarl Gjalund}} of [[Lore:Whiterun|Whiterun]]. The settlement was still inhabited, but was greatly diminished in comparison to ancient times. It was a source of lumber and stone for the hold.{{ref|name=HOJG|{{Cite Book|Holdings of Jarl Gjalund}}}}{{ref|name=SRFarengar|Dialogue of [[Skyrim: Farengar Secret-Fire|Farengar Secret-Fire]]}}
+[[File:ON-place-Labyrinthian Temple 02.png|thumb|left|Labyrinthian during the Age of Heroes]]
+===Second Era===
+Circa {{Year|2E 582}}, an [[Lore:Argonian|Argonian]] [[Lore:Necromancy|necromancer]] named Dixulti the Moldering entered the ruins and attempted to free Morokei from his bindings in order to take the Dragon Priest's power.{{ref|[[ON:Dixulti the Moldering|Dixulti the Moldering]]'s dialogue in [[ESO:Online|ESO]]}} When the worshippers of Kyne came to the ruins to renew the binding ritual, they were attacked and killed. This was discovered when a young priestess of Kyne named Yrsild came to the ruins in search of her grandfather Keldnyr, who had kept the true nature of his visits a secret from her for many years. With the help of the [[Lore:The Vestige|Vestige]], Yrsild performed the rites and killed the necromancer before Morokei could be released.{{ref|name=ESO}} The Vestige also killed a number of the most powerful beasts and undead that roamed Labyrinthian at that time, including the Dragon Priest {{Lore Link|Tulnir}}.{{ref|[[Online:Labyrinthian|Labyrinthian]]'s bosses in [[ESO:Online|ESO]]}}  
+{{NewLine}}
+===Third Era===
+[[File:LabyrinthianConceptArt.png|thumb|right|Labyrinthian during the [[Lore:Imperial Simulacrum|Imperial Simulacrum]]]]
+Sometime after the total abandonment of Labyrinthian, two brothers&mdash;Kanen the Elder and Mogrus the Dim&mdash;came from the south to quest after the Secret of Life at [[Arena:Labyrinthian|Labyrinthian]], the puzzle of the North. Weary from war and strife, the brothers came to Labyrinthian out of "duty and love" hoping to find riches and jewels. The few they told of their plans begged them not to go, but the pair had never known defeat and so went anyway. They failed utterly and were ensnared for untold ages as a [[Lore:Shalidor|mad wizard]]'s tool, their eternal task to be watchers over Labyrinthian. Kanen the Elder's spirit was made to hold the secret of life. Mogrus guarded the diamond key, and Kanen guarded the sapphire key. Both keys were needed to get to the center of the maze.{{ref|name=AR|[[Arena:Labyrinthian|Labyrinthian]] in ''[[Arena:Arena|Arena]]''}} The ruins were discovered after [[Lore:Jagar Tharn|Jagar Tharn]] hid a piece of the [[Lore:Staff of Chaos|Staff of Chaos]] within Labyrinthian during the [[Lore:Imperial Simulacrum|Imperial Simulacrum]]. The [[Lore:Eternal Champion|Eternal Champion]] recovered the piece and solved the riddles of the ruin, freeing the brothers' spirits.{{ref|name=AR}} Following their death, the Eternal Champion became somewhat of a culture hero to Imperial Loyalists, many of whom visit the ruins as part of a pilgrimage retracing the Champion's steps.{{ref|name=MM}}
+{{NewLine}}
+===Fourth Era===
+[[File:SR-creature-Morokei.jpg|thumb|left|Morokei wielding the Staff of Magnus]]
+Sometime before or after {{Year|3E 427}}, the worshippers of Kyne had seemingly died out and Morokei became free to wander Tamriel, with the [[Lore:Staff of Magnus|Staff of Magnus]] coming into his possession. A group of students from the College of Winterhold, led by [[Lore:Savos Aren|Savos Aren]], discovered this and attempted to retrieve the staff. The group was no match for the denizens of Labyrinthian, and only Aren escaped alive, having to sacrifice two of his peers to contain Morokei. Aren sealed the ruins to prevent anyone from freeing Morokei from his imprisonment.{{ref|name=Skyrim}}
+
+In {{Year|4E 201}}, the [[Lore:Eye of Magnus|Eye of Magnus]] was discovered in [[Lore:Saarthal|Saarthal]] and brought to the College. [[Lore:Ancano|Ancano]], a [[Lore:Thalmor|Thalmor]] representative, attempted to seize control of the Eye and killed Aren (who, by then, had become Arch Mage of the College) in the process. The [[Lore:Hero|Last Dragonborn]] of the College was sent to Labyrinthian to search for the Staff of Magnus, and opened the seal placed by Aren years previous. The Dragonborn defeated Morokei and claimed both his mask and the Staff of Magnus, which was later used to stabilize the Eye.{{ref|name=Skyrim}}
+
+The barrow containing Konahrik had long since fallen into ruin, and the eight lesser masks scattered throughout Skyrim, buried with their respective owners. A scholar discovered a ceremonial [[Lore:Dragon Priest Masks#Wooden Mask|wooden mask]] similar to the lesser masks. When worn in the dilapidated sanctuary, it would transport the wearer back in time, to before the city was abandoned. Unfortunately, the mercenaries he had hired for protection murdered and robbed the scholar, leaving his corpse and the wooden mask, which they believed worthless, behind. In 4E 201, the Last Dragonborn discovered his remains. After confronting and defeating the eight highest ranking Dragon Priests, the Last Dragonborn was able to collect all eight of the lesser masks and was able to travel back in time and place the masks upon their respective pedestals, retrieving Konahrik and bringing it to the present.{{ref|name=Skyrim}}
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:AR-quest-Labyrinthian.jpg|Labyrinthian<br>(Arena)
+File:AR-scene-Intro 00.png|Labyrinthinan in the title background<br>(Arena)
+File:GEN-wallpaper-20 Years of Elder Scrolls.jpg|20 Years of Elder Scrolls<br>(Arena Anthology)
+File:AR-misc-AnthologyBackground.jpg|Labyrinthian<br>(Arena Anthology)
+File:ON-place-Labyrinthian.jpg|Labyrinthian<br>(ESO)
+File:ON-load-Labyrinthian.png|Loading Screen<br>(ESO)
+File:SR-book-Labyrinthdrawing.png|Shalidor's Maze layout<br>(Skyrim)
+File:ON-place-The Crow's Labyrinthian 03.jpg|The copy of Labyrinthian within the Wing of the Crow (ESO)
+File:ON-place-The Crow's Labyrinthian 02.jpg|The Crow's Labyrinthian (ESO)
+</gallery>
+
+==Notes==
+*{{LNote|Active|^|The settlement could have potentially been active as late as the ninth century of the First Era. One of the potential word walls for [[Skyrim:Slow Time|Slow Time]] mentions Aaban, a warlord from the [[Lore:Alik'r Desert|Alik'r Desert]], presumingly a [[Lore:Redguard|Redguard]].{{Ref|name=SRSlow|[[Skyrim:Slow Time#Word Wall Translations|Slow Time]] second word wall in ''[[Skyrim:Skyrim|Skyrim]]''}} The main [[Lore:Ra Gada|Ra Gada]] force that conquered [[Lore:Hammerfell|Hammerfell]] came to Tamriel in {{Year|1E 808}},{{Ref|name=PGE3AEM|{{Cite Book|PGE|3|All the Eras of Man}}}} but the first invasion force, led by [[Lore:Frandar Hunding|Frandar Hunding]] arrived after their exile in {{Year|1E 780}}.{{Ref|name=RHAH|{{Cite Book|Redguards, History and Heroes}}}}}}
+*The [[Lore:Wing of the Crow|Wing of the Crow]] was a [[Lore:Planes of Existence|realm]] created by the [[Lore:The Crow|Crow]], a [[Lore:Luminary|Luminary of Magic]] created by Shalidor's ex-wife, [[Lore:Ulfsild the Evergreen|Archmage Ulfsild the Evergreen]]. It was shaped by its creator as a perfect trial space, and so resembled a copy of the ancient maze of Labyrinthian.{{ref|name=Crow|[[Online:The Crow|The Crow]]'s dialogue in [[Online:Online|ESO]]}}{{Ref|name=TWOTC|[[ON:The Wing of the Crow|The Wing of the Crow]] quest in [[Online:Online|ESO]]: ''[[Online:Gold Road|Gold Road]]''}}{{ref|name=ONOSP|{{Cite Book|Our Story}}}}
+
+==See Also==
+*{{GSI|Arena:Labyrinthian|Skyrim:Labyrinthian|ON:Labyrinthian}}
+
+==References==
+<references/></noinclude>

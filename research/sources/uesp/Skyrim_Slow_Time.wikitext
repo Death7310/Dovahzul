@@ -1,0 +1,63 @@
+{{Shout Summary
+|id=00048ac9
+|icon=SR-icon-shout-Slow Time.png
+|quote=Shout at time, and command it to obey, as the world around you stands still.
+|word1=TiiD
+|wordid1=00048aca
+|cooldown1=30
+|info1=Slows time to 30% of normal speed for 8 seconds.
+|location1=[[Skyrim:Hag's End|Hag's End]]
+|letters1=T3D
+|word2=KLO
+|wordid2=00048acb
+|cooldown2=45
+|info2=Slows time to 20% of normal speed for 12 seconds.
+|location2=[[Skyrim:Korvanjund|Korvanjund]] (quest locked)
+|letters2=KLO
+|word3=UL
+|wordid3=00048acc
+|cooldown3=60
+|info3=Slows time to 10% of normal speed for 16 seconds.
+|location3=[[Skyrim:Labyrinthian|Labyrinthian]] (quest locked)
+|letters3=UL
+|transword1=Time
+|transword2=sand
+|transword3=eternity
+|spellid1=00048ad0
+|spellid2=00048ad1
+|spellid3=00048ad2
+}}
+
+'''Slow Time''' is a [[Skyrim:shout|shout]] that slows down time. You are also affected, but not to the same extent. While slow time is active, all creatures and NPCs move much more slowly. This allows you to hit or move faster than normal as you are only slowed down to 70% of normal speed, regardless of how many words are used. A skilled or lucky player can catch incoming arrows while under the effects of Slow Time.
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|The Jagged Crown (Imperial)|The Jagged Crown (Imperial)}}
+* {{Quest Link|The Jagged Crown (Stormcloaks)|The Jagged Crown (Stormcloaks)}}
+* {{Quest Link|The Staff of Magnus}}
+
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=VEGUNTHAR WahLaaN QETHSEGOL<br>BORMahIL VahRUKT HUNGUNTHAR<br>{{FC|blue|TiiD}} NaaK KRIaaN SE<br>JUNNESEJER KRONiiD SE DUNKREATH
+|translation1=Vegunthar raised (this) stone<br>(in his) father's memory, Hungunthar<br>{{FC|blue|Time}}-Eater, slayer of<br>(the) Kings of the East, conqueror of Dunkreath.
+|wordwall2=HET Mah SahROT<br>KONahRIK aaBAN<br>KiiN SE {{FC|blue|KLO}} SE ALIKR<br>PRaaN NU DENEK KeiZaaL
+|translation2=Here fell mighty<br>Warlord Aaban<br>Child of (the) {{FC|blue|sand}}s of Alik'r;<br>rest now in (the) soil (of) Skyrim.
+|wordwall3=QETHSEGOL VahRUKIV<br>KENDOV SE VED RONAX WEN<br>SIL NU YORiiK PINDaaR SE SOVNGARDE<br>Pah {{FC|blue|UL}}
+|translation3=(This) stone commemorates<br>(the) warriors of the black regiment whose<br>souls now march in the plains of Sovngarde<br>for all {{FC|blue|eternity}}.}}
+
+== Notes ==
+*You cannot zoom in while aiming with a bow with the ''[[Skyrim:Eagle Eye|Eagle Eye]]'' perk while under the effects of the Slow Time shout.
+*The effects of this shout are governed by the [[Skyrim:Alteration|Alteration]] skill and can be extended with the ''[[Skyrim:Stability|Stability]]'' perk and the ''[[Skyrim:Fortify Alteration|Fortify Alteration]]'' alchemy effect.
+*This effect extends the duration of potions on the player. This can be useful for [[SR:Enchanting|Enchanting]] or [[SR:Smithing|Smithing]], allowing more items to be crafted before a potion's duration expires.
+
+== Bugs ==
+{{Bug|After getting the first word of the Slow Time shout from elsewhere, the word wall at Hag's End or Korvanjund may not work properly. The wall's sound effects can be heard but no word is learned when the wall is approached.|confirmed=1}}
+**{{Pc22}} PC players can learn the missing second word using the following console command: <code>player.teachword 48ACB</code> (or <code>48ACC</code> for the third word). If you are on Arngeir's miscellaneous quest to "[[Skyrim:The Words of Power|Find the Word of Power]] in Hag's End", you can then use the console command <code>setstage FreeformHighHrothgarA 20</code> to mark that as finished. The word wall will remain bugged, though, and continues to play the sound effects.  Actually, you may learn the third word, and the quest appear to end normally, but the third word is not visible until you learn the second word.
+**{{Pc22}} Using the console to set the global variable <code>WWSlowTime</code> to a different value (depending on which word is to be learned) may also work. See [[Skyrim_talk:Slow Time#Second word wall teaching third word|this talk page topic]] for details.
+{{Bug|At times, the Slow Time shout may last much longer than usual.|confirmed=1}}
+{{Bug|When the above-mentioned effect happens, the shout also seems to be more potent than otherwise.|confirmed=1}}
+{{Bug|Even with [[Skyrim:Patch|Patch 1.9]], the effects of this shout may still behave irregularly.|OSSEP|1.3}}
+
+{{Skyrim Shouts}}

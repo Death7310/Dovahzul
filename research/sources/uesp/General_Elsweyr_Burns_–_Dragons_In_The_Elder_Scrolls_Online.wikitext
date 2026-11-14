@@ -1,0 +1,47 @@
+{{Trail|Elderscrollsonline.com Archive}}__NOTOC__
+''Originally published May 14, 2019. The original article can be found [https://www.elderscrollsonline.com/en-us/news/post/56259 here].''
+[[File:ON-render-Dragon Attack.jpg|500px|centre|thumb|''Dragons stalk the skies over Elsweyr, bringing a dangerous new threat to The Elder Scrolls Online. Learn about these monstrous beasts and how the team brought them to life in ESO's latest Chapter!'']]
+===Dragons in Tamriel===
+While you may have experienced [[Skyrim:Dragon|Dragon]]s in ''[[Skyrim:Skyrim|The Elder Scrolls V: Skyrim]]'', for most people of [[Online:Tamriel|Tamriel]]'s [[Lore:Second Era|Second Era]] (the time of ''The Elder Scrolls Online''), the existence of [[Online:Dragon|Dragon]]s remains firmly within the realms of myths and legends.
+
+"Dragons are incredibly rare in the Second Era," says [[General:Leamon Tuttle|Leamon Tuttle]], ESO's Loremaster. "While evidence of their reign remains (particularly in [[Lore:Skyrim|Skyrim]]), most believe they are extinct, and the threat they posed to Tamriel has largely faded from memory. People still spin yarns about the Dragons, but they're mostly just tall tales and legends."
+[[File:ON-concept-Dragons.jpg|500px|centre|thumb|''Concept art for some of Elsweyr's Dragons'']]
+
+Just like the beasts you can experience in Skyrim, ESO's Dragon share basic traits and characteristics, making them one of the series' most dangerous foes.
+
+"Dragons in The Elder Scrolls aren't just winged lizards—they're highly intelligent creatures with a language and a culture that many believe stretches back to the dawn of time," explains Tuttle. "Their unique feature is probably their association with words and time. For Dragons, language and power are intimately linked. They don't just breathe fire. They speak fire, willing it into existence. That kind of magical agency is really, really cool."
+
+Dragons are a threat unlike any other in The Elder Scrolls, and this is especially true in ESO. However, unlike the Nords of Skyrim during Tamriel's Fourth Era, the people of Elsweyr in ESO don't have a Dovahkiin to protect them.
+
+{|class=hiddentable; align=center
+|-
+|align=center|
+[[File:ON-creature-Dragons.jpg|300px]]
+|
+[[File:ON-concept-Dragon Meshes.jpg|300px]]
+|
+|}
+<center>''High-quality digital sculpts bring Dragons to life''</center>
+
+Many Dragons appear throughout the various ''Elder Scrolls'' games, so the team worked hard to make sure that ''ESO'' could support the creation of a different Dragon for every occasion while maintaining their distinctive style.
+
+"Dragons need to look intelligent and exude power in everything they do and say," explains Wicks. "We've crafted more custom stuff for them than any creature we've made before, building the models out of parts so we can mix and match different wings, horns, heads, and colors."
+
+When you encounter a Dragon during your adventures, whether it be in the overland events, the Trial, or the main story quest, you will face a beast tailor-made for that type of engagement. Even throughout the rest of the year beyond the [[Online:Elsweyr|Elsweyr Chapter]], you'll continue to encounter new Dragons! 
+
+===Fire from the Sky===
+Like the [[General:Bringing the mighty gryphon to ESO: Summerset|gryphons of ''ESO: Summerset'']], Dragons needed to fly and fight from both the land and the air, but unlike the monsters found in the home of the High Elves, the team wanted to do more for the legendary scaled beasts. To make them truly masters of the sky, the team gave them individual pathing options when flying (not shared with any other flying creatures in the game) in addition to a large amount of custom animations.  
+
+"Dragons move fast, but they're also huge, so it needs to look like it takes effort on their part," says Wicks. "They need to speed up before they get going and slow down before they stop, and when they change direction, it has to feel like all that momentum went somewhere as they can't turn on a dime like smaller creatures. Finally, when they land, they have to knock you off your feet, and when they take off, they have to send you flying."
+
+[[File:ON-render-Dragon Encounter.jpg|500px|centre|thumb|''You'll need a team to bring down a Dragon'']]
+Having these huge beasts both smoothly and realistically take off, fly, and land was only the start, however, since the team also needed to ensure that fighting Dragons felt as impactful and impressive as watching them move. This meant giving them many different, deadly weapons. In ''ESO: Elsweyr'', Dragons can assault you with their claws, teeth, wings, tail, and, of course, their breath attacks. The team made sure everything the monster can do looks and feels amazing while also being a ton of fun to fight, whether they be in the air or on the ground.
+
+"We built attacks that hit broad swathes of the play space that the Dragon could use without turning, and we designed its attacks to both anticipate the things you're trying to do and punish you for doing it," says Wicks. "Dragons are deadly on the ground, sure, but they're designed for flight. There's nothing quite as majestic as a godbeast dropping out of the sky to scorch the land, so we tried to keep them airborne as much as we can."
+
+When fighting a Dragon in Elsweyr, you'll have to anticipate its many different attacks. Sometimes that means standing toe-to-toe with the beast, but sometimes that also means running for cover! 
+
+===Majestic Monsters===
+Whether it be the way they look, fly, or fight, the Dragons in ''ESO: Elsweyr'' were as challenging to build as they are magnificent to behold. Of course, they're also extremely deadly by design, so don't stare for too long! Are you excited to witness these winged beasts for yourself when exploring Elsweyr? Let us know on Twitter @TESOnline, Instagram, and Facebook! 
+
+''The Elder Scrolls Online: Elsweyr is coming to PC/Mac, Xbox One, and PlayStation®4 on June 4. PC/Mac players can take part in Early Access starting May 20. Pre-purchase ESO: Elsweyr now to receive unique bonus rewards and gain immediate access to the Rahd-m'Athra in-game mount (conditions apply). Don't miss out!''

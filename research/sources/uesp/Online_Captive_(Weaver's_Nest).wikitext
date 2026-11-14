@@ -1,0 +1,122 @@
+{{Mod Header|Imperial City}}
+{{Online NPC Summary
+|image=ON-npc-Captive (Weaver's Nest).jpg
+|imgdesc=A Khajiit Captive
+|race=[[Online:High Elf|Altmer]], [[ON:Argonian|Argonian]], [[Online:Wood Elf|Bosmer]], [[ON:Breton|Breton]], [[Online:Dark Elf|Dunmer]], [[ON:Imperial|Imperial]], [[ON:Nord|Nord]], [[ON:Orc|Orc]], [[ON:Redguard|Redguard]], [[ON:Khajiit|Khajiit]]
+|racecat=Variable Race NPCs
+|gender=Varies
+|level=35
+|health=
+|loc=[[ON:Imperial Sewers|Imperial Sewers]] ([[Online:Weaver's Nest|Weaver's Nest]])
+|reaction=Friendly
+|faction=
+}}
+'''Captives''' of various races can be found in the [[Online:Weaver's Nest|lair]] within the [[ON:Imperial Sewers|Imperial Sewers]]. They have been trapped in cocoons by the [[ON:Lady of the Depths|Lady of the Depths]]. You can free them individually by interacting with the cocoons while the Lady still lives, or you can kill the Lady and free all of her Captives at once. They can be male and female [[ON:Imperial|Imperials]] and [[ON:Breton|Bretons]], female [[ON:Nord|Nords]], [[ON:Argonian|Argonians]], [[ON:Khajiit|Khajiit]] and [[ON:Orc|Orcs]], and male [[Online:High Elf|Altmer]], [[Online:Wood Elf|Bosmer]] and [[ON:Redguard|Redguards]].
+{{NewLeft}}
+
+==Dialogue==
+When they are freed, they will leave the area after thanking you.
+
+Altmer:
+:''"I cannot stay here!"''
+:''"The Lady will be angry with me!"''
+:''"If my legs will carry me, I must flee this place!"''
+:''"By Stendarr's everlasting mercy, I'm free!"''
+:''"What horrors await me?"''
+:''"Sadly, there is no safe place in the City anymore."''
+
+Argonian:
+:''"The shell of the false egg has cracked and I am free!"''
+:''"Waxhuthi! My scales were bound but are now free again."''
+:''"Swim the foul waters to safety, dryskins!"''
+:''"Am I truly free of my silken prison?"''
+:''"It seems today is not the day I lick the Tree."''
+:''"I thank you. Your scent is forever welcome in my nest."''
+
+Breton:
+:''"Let's go before they come back!"''
+:''"Is it safe to leave?"''
+:''"Flee! Flee, everyone!"''
+:''"I'll never wear silk again!"''
+:''"Don't leave the nest&mdash;danger lurks outside!"''
+:''"Divines help me, I'm free!"''
+:''"Must seek safety!"''
+
+Bosmer:
+:''"I laughed when my friend fell in the trap, and then she got me."''
+:''"The spiders&mdash;I can feel them all over me!"''
+:''"Of all the creatures, it had to be spiders!"''
+:''"Nothing in the sewers can be worse than this!"''
+:''"Finally I'm free!"''
+:''"I must get home to my children!"''
+:''"I have hope once more!"''
+
+Dunmer:
+:''"Many thanks! I would have not survived in that shell much longer.
+:''"The worst part is those legs, all those legs."''
+:''"Thank the Three, I'm alive!"''
+:''"The sewers are safe," he said. I will never trust a scholar again!"''
+:''"Get them off of me! The spiders!"''
+:''"To the surface! Surely it's safe now!"''
+
+Imperial:
+:''"How do I get out of here?"''
+:''"Must leave all this filth!"''
+:''"That foul Daedra will keep me no longer!"''
+:''"I'm free!"''
+:''"By the Eight, I can breathe again!"''
+:''"Let's go before they come back!"''
+
+Khajiit:
+:''"This one is free?"''
+:''"Oh, to see the light of the moons once again!"''
+:''"This one sees spiders everywhere. Perhaps there is no escape."''
+:''"Spider silk sticks to the fur!"''
+:''"Freedom!"''
+:''"Too long has this one been trapped!"''
+
+Nord:
+:''"How can something so soft be so strong?"''
+:''"I will never complain about the smell in Mother's stables again."''
+:''"There's no shame in fleeing. To fight another day!"''
+:''"The Lady can torture me no more. Thank you!"''
+:''"Truly Evgir Unslaad is upon us!"''
+:''"What is keeping you here? Run!"''
+
+Orc:
+:''"Beware the Lady. She will return!"''
+:''"Watch out for the Daedroth!
+:''"Let me out of here!"''
+:''"Save some Daedra for me!"''
+:''"The Lady destroyed? If only my hand had killed her!"''
+:''"I will not be some petty Daedra's breeding vessel!"''
+
+Redguard:
+:''"Did someone slay the Lady or is this a deceit?
+:''"[[Lore:Tall Papa|Tall Papa]] be praised, I live again!"''
+:''"Must leave all this filth!"''
+:''"May [[Lore:Tu'whacca|Tu'whacca]] lead me from these horrors."''
+:''"I shall not die today!"''
+:''"My fate is not to die today."''
+:''"Thank you, wayfarer!"''
+
+==Gallery==
+<gallery>
+File:ON-npc-Captive (Weaver's Nest) 02.jpg|A Nord Captive
+File:ON-npc-Captive (Weaver's Nest) 03.jpg|A Redguard Captive
+File:ON-npc-Captive (Weaver's Nest) 04.jpg|A Breton Captive
+File:ON-npc-Captive (Weaver's Nest) 05.jpg|An Imperial Captive
+File:ON-npc-Captive (Weaver's Nest) 06.jpg|An Orc Captive
+File:ON-npc-Captive (Weaver's Nest) 07.jpg|An Argonian Captive
+File:ON-npc-Captive (Weaver's Nest) 08.jpg|A Dunmer Captive
+File:ON-npc-Captive (Weaver's Nest) 09.jpg|An Altmer Captive
+File:ON-npc-Captive (Weaver's Nest) 10.jpg|A Bosmer Captive
+</gallery>
+<!--Instructions: Add any miscellaneous notes about the NPC here, with a bullet for each note.--><!--
+==Notes==
+* Add note here
+--><!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

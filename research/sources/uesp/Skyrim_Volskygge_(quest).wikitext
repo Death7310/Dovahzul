@@ -1,0 +1,109 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Krusty
+|checkedBy=Beezer1029
+|reward=Krusty
+|rewardChecked=Chezburgar
+}}</noinclude>[[Category:Skyrim-Quests-Non-Journal Quests]]{{Quest Header
+|Giver=
+|Loc=[[Skyrim:Volskygge|Volskygge]]
+|Reward=[[Skyrim:Volsung (item)|Volsung]], Word for the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]] shout
+|Image=SR-place-Volskygge_03.jpg
+|Imgdesc=The evil of [[Skyrim:Volskygge|Volskygge]]
+|description=Climb your way to the [[Skyrim:Volsung (creature)|evil]] of [[Skyrim:Volskygge|Volskygge]].
+|ID=dunVolskyggeQST
+|SuggLevel=24
+}}
+
+==Quick Walkthrough==
+'''Note''': This quest does not appear in your journal.
+#Locate [[Skyrim:Volskygge|Volskygge]].
+#Fight your way through the ruin.
+#Defeat the [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Volsung (creature)|Volsung]].
+
+==Detailed Walkthrough==
+===A Wall, Black as Night===
+[[File:SR-place-Volskygge.jpg|thumb|right|''"It is a cursed place...!"'']]
+When you visit [[Skyrim:Solitude|Solitude]], the local [[Skyrim:Solitude Guard|guards]] may warn you about an ancient [[Skyrim:Nordic Ruins|Nordic ruin]] called [[Skyrim:Volskygge|Volskygge]], saying: ''"If you must venture southwest, stay clear of Volskygge. It is a cursed place, a tomb where the dead still live...."'' Talking to experienced traveler [[Skyrim:Jawanan|Jawanan]] will net you even more information: ''"Inside, there is said to be a wall, black as night. And it speaks! In the ancient Dragon tongue!"'' If you heard about Volskygge from the guards, a map marker will be added; otherwise you will have to locate it yourself. The ruin lies far to the west of Solitude, past [[Skyrim:Dragon Bridge|Dragon Bridge]], and just south of [[Skyrim:Lost Echo  Cave|Lost Echo Cave]]. Three leveled [[Skyrim:Bandit|bandits]] guard its expansive exterior and [[Skyrim:Draugr|draugr]] inhabit hidden, booby-trapped rooms, portending dangers to come. The ruin's large interior contains many locks and hosts myriad enemies, so carry a good supply of health potions and [[Skyrim:Lockpick|lockpicks]] or the Skeleton Key before entering.
+
+===Volskygge===
+Inside the ruin, pass through the first gate and into a throne room protected by a [[Skyrim:Traps#Dart Trap|dart trap]] and two bandits patrolling back and forth. Proceed westward through a tunnel, wary of a [[Skyrim:Traps#Pressure Plate|pressure plate]] that triggers a [[Skyrim:Traps#Spike Wall|spiked wall]] trap. Ahead stands another bandit near a locked chest that contains minor loot. The northern tunnel leads to an intersection; the path to the west from this leads to a room in which a [[Skyrim:Nord|Nord]] and an [[Skyrim:Orc|Orc]] bandit try to break into a cage (see [[#Bugs|this section]]). 
+
+Fighting the bandits here is optional, although unlocking the cage leads to a handle that will lower a nearby wall and provide access to a secret room with minor loot. You will find a copy of the [[Skyrim:Lockpicking|Lockpicking]] [[Skyrim:Skill Books|skill book]] ''[[Skyrim:Surfeit of Thieves|Surfeit of Thieves]]'' on the shelves near the secret wall. From here, backtrack to the intersection and continue east into a huge dining hall littered with dead [[Skyrim:Draugr|draugr]] through which two more bandits wander. The rooms to the north contain little of interest, so leave the area through the eastern door, but tread carefully: the dead bandit you'll see on the floor was killed by a [[Skyrim:Traps#Battering Ram|battering ram]] triggered by a pressure plate just inside. Don't meet the same fate. 
+
+===Four Totems===
+[[File:SR-interior-Volskygge_02.jpg|thumb|right|''"All must be activated in order, if you wish to go home."'']]
+The ruin's puzzle room is situated around the corner. A huge structure in the middle of the room points to four handles, each of which must be activated in the correct order. If you fail, undead enemies will break out of the central structure and attack. If done correctly, the torches in the middle of the room will light up as each lever is pulled in the correct order. Find the pedestal supporting the book ''[[Skyrim:The Four Totems of Volskygge|The Four Totems of Volskygge]]'' and read it for the clues to the puzzle:
+
+:''The first fears all, The second fears none.''
+:''The third eats what it can, Preferably number one.''
+:''The fourth fears the second, But only when alone.''
+:''All must be activated in order, If you wish to go home.''
+
+The puzzle solution is: 
+
+:'''Snake''' (fears all)
+:'''Bear''' (fears none)
+:'''Fox''' (eats the snake)
+:'''Wolf''' (fears the bear as an individual but not in packs)
+
+If done correctly, the adjacent iron gate will open, providing access to another room containing a spiral staircase, a chest and a secret passage. The passage is opened via a lever on the left of the two pillars on the northern wall, leading to a dart trap and a few minor items. Turn back and take the spiral staircase down, which leads to the next zone of the ruin, Volskygge Passages.
+
+===Volskygge Passages===
+The first few rooms of Volskygge Passages are empty, except for a [[SR:Soul Gems|soul gem]] on a pedestal and a handle that opens to a small room holding absolutely nothing (see [[#Notes|notes]]). In the third chamber, a leveled draugr lurks before an altar that holds two more soul gems and a [[Skyrim:Skeever Tail|skeever tail]]. There is also a chest with an apprentice locked [[Skyrim:Traps#Tension Cable|tension cable]] in the northeast corner of the room. After the battle, pull the handle next to the iron gate and head west, past the inactive trap door in the first chamber and a set of [[Skyrim:Traps#Swinging Blades|swinging blades]] triggered by a [[Skyrim:Traps#Pressure Plate|pressure plate]]. In the next chamber, beyond an active [[Skyrim:Traps#Trap Door|trap door]], you will find a dead bandit near a handle which provides access to yet another secret chamber in which a [[Skyrim:Potion of Ultimate Healing|potion of ultimate healing]] stands atop a [[Skyrim:Traps#Weight Sensitive Plate|weight sensitive plate]]. An adept locked chest sits in the northwest corner of the room. The trap door near the dead bandit will drop you into a tower with a broken spiral staircase and a [[Skyrim:Traps#Spike Pit|spike pit]] at the bottom. A draugr patrols the passage beyond the spike pit, and the passage leads to the southeast corner of a large room. If you did not fall down the trap door, the passage heading west contains typical draugr catacombs with an [[Skyrim:Containers#Urn|urn]] and inactive draugr on the shelves to be looted and enters the north side of the large room. Several draugr will emerge from their shelves in this room, and there is a pressure plate on the floor which triggers a spike wall. The passage to the south contains a [[Skyrim:Containers#Burial Urn|burial urn]] and an apprentice locked chest in the corner where the passage turns west. As you move forward, two more draugr will emerge. The passage will then turn north and enter a room. Two urns sit in front of the four stone pillars and impenetrable vines in the room's center. From this point, proceed with caution lest the five draugr in this room gang up on you. Up the northern stairs, a strong draugr patrols the passage. There are more urns and inactive draugr to loot in this passage along with another draugr sleeping on a shelf unless it is alerted by nearby combat. Continue north to find yet another draugr in the northern room where you will find more urns to loot and three healing potions on an altar. A pressure plate halfway up the western stairs triggers another battering ram, and another draugr waits in the passage beyond.
+
+Past this draugr, webs become more prominent, the ruins become more overgrown, and three [[Skyrim:Frostbite Spider|frostbite spiders]] wait. A couple of [[Skyrim:Containers#Web Sac|web sacs]] contain [[Skyrim:Spider Egg|spider eggs]] and [[Skyrim:Containers#Dessicated Corpse|dessicated corpses]] may yield some gold or lockpicks. Beyond a web barrier, more spiders await along with [[Skyrim:Containers#Egg Sac|egg sacs]] containing more spider eggs and another web sac and dessicated corpse. Beyond the next web barrier is a room that looks even more like a natural cavern and that contains a waterfall feeding a stream. Another frostbite spider waits here, and three more will drop from the ceiling as you enter. There are also a few more dessicated corpses and another web sac containing a skeever tail.  Destroy another web barrier to enter the last part of the ruin which is less overgrown where you will find more urns and a chest with an adept locked tension cable before the passage turns south. Head south to reach a room patrolled by two more draugr. There are a few more urns here, and halfway across the room, two stone bridges cross an indoor stream.  Follow the stream to its western end to find an [[Skyrim:Orichalcum Ore Vein|orichalcum ore vein]], a [[Skyrim:Specialty Gear#Pickaxe|pickaxe]], and an unlocked chest. At the southern end of the room, a wide staircase leads up to a platform where another draugr patrols. The room beyond contains a few urns and a staircase heading up and east where the boss draugr awaits in a room that contains a boss chest, two more urns, a few potions on a shelf, and a coin purse, a few loose coins, and an [[Skyrim:Weapons#Ancient Nord Bow|ancient nord bow]] on another shelf along with 12 [[Skyrim:Ancient Nord Arrow|ancient nord arrows]]. The stairs heading farther up and east lead to a door that opens onto the external area [[Skyrim:Volskygge#Volskygge Peak|Volskygge Peak]].
+
+===Volskygge Peak===
+You will now stand atop the mountain where you initially entered. There is one emerald on each side of the statue at the foot of the stairs. Head up the stairs and approach the [[Skyrim:Word Wall|word wall]] for one of the words for [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]]. As soon as you have learned the word, [[Skyrim:Volsung (creature)|Volsung]], a [[Skyrim:Dragon Priest|dragon priest]] will burst from the sarcophagus behind you. A powerful foe, he uses only [[Skyrim:Frost Damage|frost attacks]] in combat. After the battle, loot his remains for his unique [[Skyrim:Volsung (item)|dragon priest mask]].
+
+==Notes==
+*This "quest" only controls the dialogue for the bandits and will automatically complete entirely within the first section (but see [[#Bugs|bugs]]). Killing Volsung is not actually part of the quest.
+*It's possible to reach both Volsung and the word wall by simply running up the mountain. 
+*A [[Skyrim:Strange Gem|strange gem]] was meant to be part of the Volskygge puzzle, but never made it into the final game.
+
+==Bugs==
+{{Bug|Some dialogue between the [[Skyrim:Bandit|bandits]] was supposed to add a bit more spice to the story about Volskygge. However, the quest trigger was incorrectly placed in the dining hall just before the entrance to Volskygge Passages, so the dialogue will rarely be heard.|USKP|1.3.2}}
+{{Bug|A second, similar bug also causes the dialogue to remain unheard.|confirmed=1|USLEEP|3.0.1|trackerid=19846}}
+** Sneak through Volskygge without killing anyone until you reach the spiral staircase just before Volskygge Passages, then make your way backwards to the entrance. The dialogue will be heard normally along the way.
+** Do Volskygge once, normally, and wait for it to reset. The second time through, the dialogue may be heard.{{VN|Not sure if this works, needs in-game verification.}}
+{|class=hiddentable
+|
+{|class=wikitable
+|-
+!Speaker!!Dialogue
+|-
+|rowspan=2|Nord||''"This is getting ridiculous. If we can't get this open soon, the boss will have our heads."''
+|-
+|''"I can't get it open."''
+|-
+|rowspan=3|Orc|| ''"You've been at it for five minutes. Here, let me try."''
+|-
+|''"I think I almost got it."''
+|-
+|''"Come on, just open."''
+|}
+|
+{|class=wikitable
+|-
+!Speaker!!Dialogue
+|-
+|Male||''"Find anything worthwhile yet?"''
+|-
+|Female||''"Can't say that I have."''
+|-
+|Male||''"Quiet! I think I heard something."''
+|-
+|Female||''"This place has had you shaking in your armor ever since we arrived."''
+|-
+|Male||''"I'm fine, I'm fine. Let's move on."''
+|}
+|}
+{{Bug|Sometimes the word wall won't activate, therefore Volsung won't wake up.}}
+** Use <code>TCL</code> to "dive" into the wall where the emanation comes from until the word is activated.
+
+==Quest Stages==
+{{Journal Entries
+|allmissing=1
+|missing=0, 10, 20
+}}
+{{Skyrim Quest Stages Notes}}

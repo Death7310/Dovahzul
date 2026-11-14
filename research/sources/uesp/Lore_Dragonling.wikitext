@@ -1,0 +1,53 @@
+<noinclude>{{Lore Bestiary Trail}}{{#addtotrail:Races|separator=' / '}}{{Lore Creature Summary
+|name=Dragonlings
+|image=DF-creature-Dragonling.gif
+|imgdesc=A Dragonling (Daggerfall)
+|type=[[Lore:Race|Race]] ([[Lore:Beastfolk|Beastfolk]])
+|range=[[Lore:Hammerfell|Hammerfell]], [[Lore:High Rock|High Rock]], [[Lore:Skyrim|Skyrim]]
+|appears=[[Daggerfall:Dragonling|Daggerfall]], [[Call to Arms:Call to Arms|Call to Arms]], [[:File:CT-UI-Celebrations Birth01.png|Castles]]
+}}{{TOCleft}}{{Quote Box|style=float:none; max-width:none|''There are no known examples of dragon eggs or dragonlings. The Iliac Bay area has stories of such things, but so far all have proven false. The eggs turned out to be eggs of other reptiles. The small dragons were merely oversized lizards and no relation to true dragons.''|''[[Lore:There Be Dragons|There Be Dragons]]''}}</noinclude>
+[[Lore:Dragonling|Dragonlings]] (also called '''Fairy Dragons'''){{Ref|name=FDS|[[Daggerfall:Fairy dragon's scales|Fairy dragon's scales]] ingredient in ''[[DF:Daggerfall|Daggerfall]]''}}{{Ref|group=UOL|name=DFTextures|Texture file names for [[DF:Dragonling|Dragonlings]] in ''[[DF:Daggerfall|Daggerfall]]''}} are small, intelligent [[Lore:Reptile|reptilian]] creatures that are [[Lore:Dragon|draconic]] in appearance and native to the [[Lore:Iliac Bay|Iliac Bay]] region and [[Lore:Wrothgarian Mountains|Wrothgarian Mountains]].{{ref|name=Dragonling|[[DF:Dragonling|Dragonlings]] in ''[[DF:Daggerfall|Daggerfall]]''}}{{Ref|name=FE|{{Cite Book|Fools' Ebony, Part the Twoth}}}} Those who speak their language, [[Lore:Dragonish|Dragonish]],{{ref|name=Dragonish|[[DF:Dragonish|Dragonish]] in ''[[DF:Daggerfall|Daggerfall]]''}} say that beneath a veneer of maddening riddles and non sequiturs are minds of great wisdom.{{ref|name=DFUG}} They are known to be aggressive to those that cannot speak their language.{{ref|name=Dragonling}}{{ref|name=Dragonish}} 
+
+Dragonlings can breathe fire and pose a fair challenge in combat. It is claimed they are even capable of [[Lore:Spells|spellcasting]]. As such, a Dragonling is considered a worthy opponent for any adventurer.{{ref|name=DFUG}} They are damaged by the magical protections that safeguard temples and other holy places.{{ref|name=Dragonling}} The [[Lore:Knightly Orders|Knightly Orders]] of the Iliac Bay region occasionally send their members to slay Dragonlings.{{Ref|name=Slay}}<noinclude>
+
+Dragonlings are known to reproduce by laying eggs.{{Ref|name=Slay}} Their [[Lore:Excrement|droppings]] are said to have strange, almost magical properties. One account alleged that their excrement can explode if handled too roughly, can change between liquid and solid states, and even sneak away when not being observed.{{Ref|name=TheMenagerie|group=UOL|{{Cite Book|The Menagerie|ns_base=General}}}}
+
+==Relation to Dragons==
+</noinclude>
+
+Despite all their merits, Dragonlings are seemingly less grand than their lineage would suggest. In the [[Lore:Third Era|Third Era]], when many were unaware if the "great Dragons" of legend still lived or had ever existed, the Dragonling's relation to these great Dragons of legends was unknown,{{ref|name=DFUG|[[Books:Daggerfall User's Guide|''Daggerfall User's Guide'']]}} with some believing them to be younglings{{Ref|name=Slay|[[Daggerfall:The Dragonslayer|The Dragonslayer]] quest in ''[[Daggerfall:Daggerfall|Daggerfall]]''}} or at least kin of true Dragons.{{ref|name=HistpryDF|''[[Daggerfall:Background History|Player Background History]]'' in ''[[Daggerfall:Daggerfall|Daggerfall]]''}} Many would outright refer to Dragonlings as small Dragons or simply Dragons during this time.{{ref|name=HistpryDF|''[[Daggerfall:Background History|Player Background History]]'' in ''[[Daggerfall:Daggerfall|Daggerfall]]''}} Certain scholars considered it common knowledge that Dragons were incapable of reproduction.{{ref|name=LADitSE|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{ref|[[Online:Blue Dragon Imp|Blue Dragon Imp]] pet description in [[Online:Online|ESO]]}}
+
+By the [[Lore:Fourth Era|Fourth Era]], scholars came to the conclusion that the Dragonlings of the Iliac Bay region were nothing more than merely "oversized [[Lore:Lizard|lizards]]", with no relation to true Dragons.{{ref|name=TBD|{{Cite Book|There Be Dragons}}}} Though some sources still refer to them as Great Wyrms.{{ref|[[Call to Arms:Cards|Dragonling]] card in ''[[Call to Arms:Call to Arms|Call to Arms]]''}} The relation, if any, of their language to the [[Lore:Dragon Language|Dragon Language]] is unknown.<noinclude>
+
+==Uses==
+Dragonling scales, referred to as "[[Lore:Fairy dragon's scales|Fairy dragon's scales]]", are used as [[Lore:Alchemy|alchemy]] reagents for their properties of spell reflection.{{Ref|name=FDS}} The Dragonling Game is said to be one of the most well known sports of [[Lore:High Rock|High Rock]], where opposing teams try to knock a ball through a series of loops on the ground while mounted on a [[Lore:Horse|horse]], each player keeping their roped Dragonling from being captured or killed by the other team.{{Ref|name=Games|group=UOL|{{Cite Book|Games and Pastimes of Tamriel|ns_base=General}}}} [[Lore:Mannimarco|Mannimarco]] allegedly used swarms of [[Lore:Undead|undead]] Dragonlings as scouts.{{ref|name=TPWormgod|group=UOL|[[General:Ted Peterson|Ted Peterson]]'s posts in [[General:Loranna's RP/War of the Wormgod|''War of the Wormgod'']]}}
+
+Their language, Dragonish, was taught by  the [[Lore:Mages Guild|Mages Guild]], the [[Lore:Akatosh Chantry|Akatosh Chantry]], and the [[Lore:Temple of Kynareth|Temple of Kynareth]].{{ref|name=Dragonish}}
+
+==Gallery==
+<gallery>
+File:DF-misc-Anniversary Art 30th.jpg|A Dragonling in artwork for ''Daggerfall'''s 30th Anniversary
+File:CT-UI-Celebrations Birth01.png|A "Dragonling" (Castles)
+File:CTA-model-Dragonlin.png|Dragonling Card (Call to Arms)
+File:DF-icon-ingredient-Fairy dragon's scales.png|Fairy Dragon scales
+File:ON-pet-Bright Moons Dragon Imp.jpg|An Illusion Imp masquerading as a "baby dragon", similar to Dragonlings
+File:LG-cardart-Tiny_Dragon.png|A tiny Dragon from the Shivering Isles
+File:LG-model-Tiny dragon.png|Tiny Dragon
+File:CT-decoration-Pink Dragon Egg.png|An alleged Dragon egg
+</gallery>
+
+==Notes==
+*Tiny Dragons have been seen in the [[Lore:Shivering Isles|Shivering Isles]], but given the nature of the Isles it is unclear if these are real Dragons or Dragonlings.{{ref|[[Legends:Tiny Dragon|Tiny Dragon]] card in ''[[Legends:Legends|Legends]]''}}
+
+==See Also==
+*{{GSI|Daggerfall:Dragonling|Call to Arms:Cards}}
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>
+{{Lore Races}}
+[[Category:Lore-Creatures]] [[Category:Lore-All Terms]]
+[[Category:Lore-Races]]
+[[Category:Lore-Creatures-Reptiles]]
+</noinclude>

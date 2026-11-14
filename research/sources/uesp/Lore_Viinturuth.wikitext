@@ -1,0 +1,23 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|death=Merethic Era
+|resurrection=4E 201
+|death3=4E 201
+|death3Loc=Lake Yorgrim
+|loc=Lake Yorgrim
+|appears=[[SR:Viinturuth|Skyrim]]
+|image=SR-creature-Viinturuth.jpg
+}}[[File:SR-place-Dragon Mound Yorgrim Resurrection.jpg|thumb|left|Viinturuth's Dragon Mound]]</noinclude>
+[[Lore:Viinturuth|Viinturuth]] was a [[Lore:Dragon|dragon]] whose name meant "Shine-Hammer-Rage" in the [[Lore:Dragon Language|Dragon Language]].{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{ref|name=Alduin}}
+
+He was recorded as a deceased dragon by the chronicler of the Dragonguard, [[Lore:Books by Author#Brother Mathnan|Brother Mathnan]], in the ''[[Lore:Atlas of Dragons|Atlas of Dragons]]'' in {{Year|2E 373}}. According to the documents recovered from [[Lore:Dragon Cult|Dragon Cult]] temples he died during the [[Lore:Dragon War|Dragon War]] and was buried near the [[Lore:Lake Yorgrim|Lake Yorgrim]].{{Ref|name=AOD|{{Cite Book|Atlas of Dragons}}}}
+
+Upon his return in {{Year|4E 201}}, [[Lore:Alduin|Alduin]] began the process of resurrecting the many dead dragons buried throughout [[Lore:Skyrim|Skyrim]] by the Dragon Cult in ancient times. Viinturuth was among the dragons to be brought back to life, where his resurrection was witnessed by the [[Lore:Hero|Last Dragonborn]]. Upon the resurrection Viinturuth pledged allegiance to Alduin and fought against the Last Dragonborn, but was defeated and killed.{{Ref|name=Alduin|[[Skyrim:Alduin|Alduin]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=Viinturuth|[[Skyrim:Viinturuth|Viinturuth]]'s fight and dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} Having had his soul devoured by another dovah, Viinturuth was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>{{NewLeft}} 
+
+==See Also==
+{{GSI|Skyrim:Viinturuth}}
+
+==References==
+<references/>

@@ -1,0 +1,118 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Gideon Dragontongue
+|checkedBy=Beezer1029
+|reward=Kiz
+|rewardChecked=Gideon Dragontongue
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=[[Skyrim:Delphine|Delphine]]
+|Reward=
+|Disp= =3 (Delphine)
+|Rep=
+|Prev=[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]
+|Conc=
+|Next=[[Skyrim:Diplomatic Immunity|Diplomatic Immunity]]
+|Loc=[[Skyrim:Sleeping Giant Inn|Sleeping Giant Inn]], [[Skyrim:Kynesgrove|Kynesgrove]]
+|Image=SR-quest-A Blade in the Dark.jpg
+|ImgDesc=Alduin resurrecting Sahloknir
+|description=Prove you are Dragonborn to [[SR:Delphine|Delphine]] by slaying the dragon [[SR:Sahloknir|Sahloknir]].
+|ID=MQ106
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+# Talk to [[Skyrim:Delphine|Delphine]].
+# Locate the dragon burial site.
+# Kill the dragon [[SR:Sahloknir|Sahloknir]].
+# Talk to Delphine.
+
+==Detailed Walkthrough==
+===A Harmless Innkeeper===
+Now that you know that the [[Skyrim:Horn of Jurgen Windcaller|Horn of Jurgen Windcaller]] has been pilfered from [[Skyrim:Ustengrav|Ustengrav]], follow the instructions in the [[Skyrim:Mysterious Note (Delphine)|mysterious note]] left in its place. This will lead you to [[Skyrim:Riverwood|Riverwood]] and the [[Skyrim:Sleeping Giant Inn|Sleeping Giant Inn]]. Speak with the innkeeper, [[Skyrim:Delphine|Delphine]], about renting the attic room. She will tell you that there is no such room, but you can take the room on the left. Delphine will follow you to the sparse room she indicated, where she will address you as Dragonborn and give you the Horn. She cryptically tells you that you and she need to talk and asks you to follow her.
+
+===The Problem with Dragons===
+Delphine will lead you to a room across the inn. She will ask you to close the door to the room before both you and she can proceed any further. Do it, and she will open a secret passage in the back of a wardrobe that leads down to a subterranean room.
+
+Here Delphine will reveal that she took the Horn to attract the attention of the Dragonborn. The note was a safeguard to protect against trickery by the [[Skyrim:Thalmor|Thalmor]]. She also tells you that the dragons are not just coming back, but are actually coming back to life, resurrected from their burial mounds. Only the Dragonborn can permanently kill dragons by absorbing their souls. But she is not quite ready to accept you as Dragonborn, despite the [[Skyrim:Greybeards|Greybeards']] interest in you. Luckily, she has a task to prove your authenticity. According to the [[Skyrim:Dragonstone|Dragonstone]] map taken from [[Skyrim:Bleak Falls Barrow (quest)|Bleak Falls Barrow]], the next dragon will rise from a burial mound in [[Skyrim:Kynesgrove|Kynesgrove]]. She wants you to accompany her to the burial site and kill the dragon; only then will she accept you as Dragonborn.
+
+If you tell her you're ready to leave, she will put on her gear and leave the inn. You are free to follow Delphine to Kynesgrove, and she will briefly talk to you at waypoints about her concerns. Or you can go at your own pace and possibly beat her there. 
+
+===Kynesgrove===
+As soon as you get to Kynesgrove, [[Skyrim:Iddra|Iddra]], the innkeeper, will run up to you and tell you that a dragon was sighted flying over the burial mound and that you should get out of town. If you traveled with Delphine, she will run up ahead of you to the burial mound, fearing it may be too late. If you arrived ahead of her, she will appear shortly thereafter on the mound behind you.
+
+===Speaking with Dragons===
+Upon arriving at the site, you and Delphine will witness the dragon, [[Skyrim:Alduin|Alduin]], using his [[Skyrim:Dragon Shouts|Thu'um]] to resurrect a dead dragon. Alduin cannot be killed or injured at this time. When the dragon, [[Skyrim:Sahloknir|Sahloknir]], is whole once more, he has a conversation in the [[Lore:Dragon Language|dragon language]] with Alduin.
+
+*Alduin: ''Sahloknir, ziil gro dovah ulse! ''
+**Sahloknir! Your soul is bound to me for eternity!
+*Alduin: ''Slen tiid vo!''
+**(Flesh Time Opposite Of)
+*Sahloknir: ''Alduin, thuri! Boaan tiid vokriiha suleyksejun kruziik?''
+**Alduin, my king (overlord)! Has the time arrived (flown) to restore (unkill) your ancient dominion (power-of-king)?
+*Alduin: ''Geh, Sahloknir, kaali mir.''
+**Yes, Sahloknir, my loyal champion.
+
+Here, Alduin attempts to speak to you, addressing you as [[Skyrim:Dovahkiin|Dovahkiin]].
+*Alduin: ''Ful, losei Dovahkiin? Zu'u koraav nid nol dov do hi.''
+**So, you're the Dragonborn? I see nothing of the dragon about you. (So, you are Dragonborn? I recognize no from dragon of you.)
+*Alduin: ''You do not even know our tongue, do you? Such arrogance, to dare take for yourself the name of Dovah.''
+*Alduin: ''Sahloknir, krii daar joorre.''
+**Sahloknir, kill these mortals.
+
+After ordering Sahloknir to kill you, Alduin flies away. Delphine will help you kill Sahloknir, and upon his death, when you absorb his soul, Delphine will be quick to acknowledge you as Dragonborn.
+
+===Paranoia===
+Speak to her, and she will reveal that she is one of the last members of the [[Skyrim:Blades|Blades]]. She will also tell you about her suspicions that the [[Skyrim:Thalmor|Thalmor]] are responsible for the return of the dragons. Since the Thalmor are part of the [[Lore:Aldmeri Dominion|Aldmeri Dominion]] and nearly destroyed the Empire during the [[Lore:Great War|Great War]] only 30 years ago, they have a motive for rescuing [[Skyrim:Ulfric_Stormcloak|Ulfric]] in [[Skyrim:Helgen|Helgen]], simply in order to keep the war raging. The Thalmor stand to benefit most from damage to the Empire by the dragons.
+
+Finally, she will reveal her plan to infiltrate the [[Skyrim:Thalmor Embassy|Thalmor Embassy]] to search for evidence of their connection with the dragons. She has no idea how to get past embassy security, and asks you to meet her back in [[Skyrim:Riverwood|Riverwood]]. This quest concludes, and the [[Skyrim:Diplomatic Immunity|Diplomatic Immunity]] quest starts.
+
+==Notes==
+*While A Blade in the Dark is active, random dragon encounters are eliminated, and dragon locations will be limited to [[Skyrim:Dragon Lairs|Dragon Lairs]], allowing for controlled access to dragon fights.
+*Despite it saying you need gold to rent the "attic room" (and Delphine taking said gold if you do), you do not actually need the gold on you to progress the quest.
+*When Delphine goes to put her traveling gear on at the start of the quest in Riverwood, she will stand next to the chest, although the chest beforehand states that it is empty.
+*Delphine will not acknowledge your status as Dragonborn if you slay a dragon that is not Sahloknir, despite any soul absorption.
+*You can happen upon the burial site any time after Delphine leaves Riverwood. The quest will progress once you arrive.
+*Standing too close to the burial mound when Alduin revives Sahloknir may cause you to be thrown aside in a manner similar to the Unrelenting Force shout. Though you can likely pick yourself back up before Alduin's and Sahloknir's conversation ends and the battle begins, you can be thrown off the hill and take fall damage, so be careful.
+*The other named NPCs of Kynesgrove will all take shelter in [[Skyrim:Steamscorch_Mine|Steamscorch Mine]] while the dragons are present. You can check in on them on your way up the hill from the inn and speak to them to hear quest-specific dialogue.
+*If you rent a regular room at the Sleeping Giant first, then ask for the attic room, Delphine will comment on this, with "Why didn't you say so the first time?"
+*If you have married either [[Skyrim:Dravynea_the_Stoneweaver|Dravynea the Stoneweaver]] or [[Skyrim:Roggi_Knot-Beard|Roggi Knot-Beard]] (providing Roggi is not your active follower) and moved them to another house before starting this quest, they will be teleported to Steamscorch Mine as soon as A Blade in the Dark is started, and will remain there until it is completed.
+*If the ''[[Skyrim:Dragonborn|Dragonborn]]'' add-on is installed and the quest [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]] isn't done yet, you may not be able to absorb the dragon soul after killing it (as [[Skyrim:Miraak (person)|Miraak]] wishes steal it). If he does absorb the dragon soul, Delphine may still give you credit for it.
+**{{Pc22}} You can use the commands <code>setstage MQ106 155</code>, and <code>setstage MQ106 160</code>, and then speak to Delphine. Once the quest is finished, fast travel to Kynesgrove before walking back to the dragon skeleton to see the Miraak soul theft animation.
+
+== Bugs ==
+{{Bug|After renting the "attic room", Delphine may enter your room but not speak, breaking the rest of the quest.|confirmed=1}}
+**Make sure you have shut the door behind you before talking to Delphine - she asks you to do this. 
+**{{Pc22}} This can be fixed by typing <code>setstage mq106 30</code> in the console, depositing the Horn of Jurgen Windcaller in your inventory and skipping to Delphine's 'we need to talk' dialogue.
+{{Bug|Sometimes when you reach the dragon burial mound, Sahloknir will not fully emerge from the ground, and does not die when his health reaches zero.|confirmed=1}}
+{{Bug|If you kill Sahloknir before he gets his skin the quest is broken|confirmed=0}}
+** This can be fixed by walking far enough out of the dragon's range, which extends as far as Kynesgrove, and walking back.
+{{Bug|Talking to Delphine after slaying Sahloknir and absorbing his soul may not trigger the quest update.|confirmed=1}}
+**This can be fixed by reloading a save and before going to Kynesgrove, make sure to first complete the "Horn of Jurgen Windcaller" Quest by going to the Grey Beards and returning the Horn to them. Also, make sure that you have learned the shout "Become Ethereal" in Ustengrav, and activated the altar where you found the note from Delphine to gain a Dragon Soul. Use that Dragon Soul to activate "Become Ethereal". Then go meet Delphine in Kynesgrove and slay the Dragon. 
+**Uninstall/Disable the mod "View Yourself VR" if you have it, because it has been reported to cause this bug.
+**{{Pc22}} Using the console command <code>SetObjectiveCompleted MQ106 40 1</code> can correct this so that the player will progress to the point where Delphine will offer to tell all.
+**{{Pc22}} Using the console command <code>setstage MQ106 155</code> can correct this. Follow up with <code>setstage MQ106 160</code>.
+**{{Pc22}} If Delphine is still not responding, the main questline can be forwarded to the beginning of the [[Skyrim:Diplomatic Immunity|Diplomatic Immunity]] quest by using <code>completequest MQ106</code> followed by <code>setstage MQ201 30</code>.  This will cause Delphine to run back to the [[Skyrim:Sleeping Giant Inn|Sleeping Giant Inn]] in [[Skyrim:Riverwood|Riverwood]], where her dialogue will be reset for the new quest.  It will also add [[Skyrim:Delphine's Secret Door Key|Delphine's Secret Door Key]] to your inventory.
+**{{Pc22}} If this also doesn't work, you can load your last saved game, slay Sahloknir, absorb the soul and then move very slowly to Delphine. Don't talk to her, wait until she finished all her lines and repeats the last one - then talk to her.
+{{Bug|Sometimes, you may not be able to absorb the dragon soul until you complete the quest.|confirmed=0}}
+{{Bug|Sometimes, when Sahloknir emerges he may have his skin already attached. The effect of his skin returning still plays.|confirmed=1}}
+{{Bug|On Xbox One and PS4, while traveling with Delphine when you reach [[Skyrim:Valtheim Towers|Valtheim Towers]], Delphine will notice and comment about the bandit place if you had not raided it yet, and she will immediately disappear.}}
+{{Bug|She will appear about 100 meters up the path.}}
+{{Bug|If Roggi Knot-Beard is your follower when Delphine tells you about the impending Kynesgrove dragon attack, he may cower and say lines as though he were hiding in Steamscorch Mine with the other Kynesgrove residents, although he will still leave the Sleeping Giant of his own accord and run in the direction of home.|confirmed=0}}
+{{Bug|Approaching Kynesgrove on a [[Skyrim:Horses|horse]] can block quest progression.|OSP|1.9}}
+{{Bug|After you finish the quest, Kynesgrove guards may comment on a dragon attack there as though it took place somewhere else.|USSEP|4.3.8}}
+
+==Quest Stages==
+{{Journal Entries
+|30||Delphine, the innkeeper in Riverwood, is more than she seems. She was the one that left me the note in Ustengrav. She gave me back the Horn of Jurgen Windcaller. She went to a lot of trouble to get my attention. I should find out what she wants.
+{{Quest Objective|10|Talk to Delphine}}
+|50||Delphine believes that dragons are coming back to life and that the next one will resurrect near the town of Kynesgrove. Once I've convinced her that I'm Dragonborn by killing the dragon, she promises to fully explain who she is and what she wants with me.
+{{Quest Objective|20|Locate the dragon burial site}}
+|102||{{Quest Objective|30|Kill the dragon Sahloknir}}
+|150||Delphine believes that dragons are coming back to life and that only the Dragonborn can stop them. Near Kynesgrove, we saw a dragon Shouting another one back to life. That dragon is dead, and now it's time for Delphine to give me some answers.
+{{Quest Objective|40|Talk to Delphine}}
+|200|fin|Delphine believes that dragons are coming back to life and that only the Dragonborn can stop them. It turns out that she was right. Near Kynesgrove, we saw a dragon Shouting another one back to life. After we killed the dragon and I absorbed its power, Delphine accepted that I was Dragonborn as she had hoped, and revealed that she is one of the last members of the Blades, an organization dedicated to protecting the Dragonborn and stopping the dragons.
+|missing=0, 1, 5, 10, 20, 25, 32, 35, 40, 42, 45, 47, 48, 55, 58, 60, 65, 70, 72, 75, 80, 90, 100, 105, 110, 120, 155, 160, 170
+}}
+{{Skyrim Quest Stages Notes}}
+
+{{Quest Footer|Prev=[[Skyrim:The Horn of Jurgen Windcaller|The Horn of Jurgen Windcaller]]|Next=[[Skyrim:Diplomatic Immunity|Diplomatic Immunity]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

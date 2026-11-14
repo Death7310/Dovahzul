@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:High Hrothgar",
+  "revid": 3538943,
+  "timestamp": "2026-04-08T11:40:14Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3538943&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "44e270a6327c917e74ad6e9759c92c49fee9cd21e3df55088261e7f2b4f5cbb7",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 99267,
+  "ns": 134,
+  "parentid": 3504593,
+  "requested_title": "Skyrim:High Hrothgar",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:High_Hrothgar",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3538943",
+  "sha1": "4384597381dddbb84a68b7877a8311447d5068b5",
+  "sha1_matches_mediawiki": true,
+  "bytes": 12775,
+  "chars": 12775,
+  "lines": 266,
+  "saved_as": "research/sources/uesp/Skyrim_High_Hrothgar.wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Delphine|Skyrim:Tharstan|Skyrim:Jawanan|Skyrim:Dovahkiin|Skyrim:High+Hrothgar|Skyrim:Unbound|Skyrim:Dragon+Rising|Skyrim:The+Way+of+the+Voice|Skyrim:The+Horn+of+Jurgen+Windcaller|Skyrim:A+Blade+in+the+Dark|Skyrim:The+Throat+of+the+World|Skyrim:Alduin%27s+Bane",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:29Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

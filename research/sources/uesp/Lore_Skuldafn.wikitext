@@ -1,0 +1,87 @@
+<noinclude>{{Lore Places Trail}}
+{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|region=Eastmarch
+|subregions=[[Lore:Icewind Peaks|Icewind Peaks]]
+|type=Ruin
+|name=Skuldafn
+|image=SR-place-Skuldafn Temple 02.jpg
+|imgdesc=Skuldafn circa {{Year|4E 201}}
+|appears=[[Skyrim:Skuldafn|Skyrim]], [[Online:Skuldafn|ESO]]
+}}{{TOCright}}</noinclude>
+[[Lore:Skuldafn|Skuldafn]] is an ancient temple complex containing a [[Lore:Word Walls|Word Wall]] located high in the [[Lore:Velothi Mountains|Velothi Mountains]] in [[Lore:Eastmarch|Eastmarch]]. It was built by the [[Lore:Dragon Cult|Dragon Cult]] as a temple to [[Lore:Alduin|Alduin]],{{ref|name=Odahviing|[[Skyrim:Odahviing|Odahviing's]] dialogue in [[Skyrim:Skyrim|Skyrim]]}}{{ref|name=EGT|{{Cite Book|EGT|Skyrim}}}}{{ref|name=SkuldafnLoc|[[Skyrim:Skuldafn|Skuldafn]] location in [[Skyrim:Skyrim|Skyrim]]}} and was later revered by the [[Lore:Nords|Nords]] as one of the holiest and most sacred dragonshrines.{{Ref|name=Jorunn|[[Online:Jorunn the Skald-King|''Jorunn the Skald-King'']]'s dialogue in [[Online:Online|ESO]]}}{{ref|name=ESOLoad|[[Online:Skuldafn|Skuldafn]]'s loading screen in [[Online:Online|ESO]]}}{{ref|name=KC|{{Cite Book|Kyne's Challenge: A Hunter's Companion|ns_base=Books}}}} The main significance of Skuldafn comes from the fact that the temple contains a portal to the Nordic afterlife of [[Lore:Sovngarde|Sovngarde]], which allows mortals to enter the realm without dying.{{ref|name=SoS|Events of [[ON:Songs of Sovngarde|Songs of Sovngarde]] in [[Online:Online|ESO]]}}{{ref|name=SovngardeQuest|Events of [[Skyrim:Sovngarde (quest)|Sovngarde]] in [[Skyrim:Skyrim|Skyrim]]}} In {{Year|4E 201}}, Alduin used this portal to travel to Sovngarde and devour the souls of the dead, a privilege he jealously guards.{{ref|name=Odahviing}}{{ref|name=WEEQuest|Events of [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]] in [[Skyrim:Skyrim|Skyrim]]}}<noinclude>
+{{NewLeft}}
+==Culture==
+{{Quote Box|style=float:none; max-width:none|''She was already at odds with collecting the remains of Nords, especially as her ancestors were buried in this crypt to honor Nahkriin the Priest. I was inclined to agree too; Skuldafn was a sacred place, and sealed for a reason.''|''[[Books:Kyne's Challenge: A Hunter's Companion|Kyne's Challenge: A Hunter's Companion]]''}}
+
+</noinclude>Skuldafn served both as a temple to Alduin{{ref|name=Odahviing}} and as a crypt for the [[Lore:Dragon Priest|Dragon Priest]] [[Skyrim:Nahkriin (creature)|Nahkriin]] and many of his followers,{{ref|name=KC|}}{{ref|name=EGT}} in accordance with the traditions of the Dragon Cult.{{ref|name=ATD|{{cite book|Amongst the Draugr}}}} Nahkriin later fought the Last Dragonborn at Skuldafn in {{Year|4E 201}},{{ref|name=WEEQuest}} but was not known to be active during the events that took place at Skuldafn during the [[Lore:Interregnum|Interregnum]].{{ref|name=ESO|Events of [[Online:Online|ESO]]}}<noinclude>
+
+Dragon Temples were revered by the Nords of the Second Era as holy places associated with the distant past, but Skuldafn was the most sacred.{{ref|name=ESOLoad}} Skuldafn's cultural importance to the Nords was well-known during the Interregnum, with [[Lore:Jorunn|Jorunn the Skald-King]] choosing it as the location for the [[Lore:Ebonheart Pact|Ebonheart Pact]] to be sealed.{{ref|name=Yeveth|[[Online:General Yeveth Noramil|General Yeveth Noramil]]'s dialogue in [[Online:Online|ESO]]}} Maps around the time of the Interregnum portrayed the location of Skuldafn as near the [[Lore:Inner Sea|Inner Sea]],{{Ref|name=ESOMap|[[:File:ON-map-Icewind Peaks.jpg|Icewind Peaks]] region map in [[Online:Online|ESO]]}} despite Dunmer settlements such as [[Lore:Blacklight|Blacklight]] existing all throughout the area. [[Lore:Phrastus of Elinhir|Phrastus of Elinhir]] blamed this on the incompetence of Nord mapmakers, bitterness over the Dunmer holding so much land, as well as superstition, all leading them to distort and exaggerate physical distance around places of cultural importance such as Skuldafn.{{ref|name=Schick|group=UOL|{{Cite Book|Lawrence Schick's Posts|ns_base=GEN}}}}
+
+Around {{Year|2E 578}}, [[Lore:Flaccus Terentius|Flaccus Terentius]] traveled with a group of Nords including [[Online:Holgunn One-Eye|Holgunn One-Eye]] and [[Lore:Mera Stormcloak|Mera Stormcloak]] to various landmarks in Eastmarch. When the group reached the foot of Skuldafn, however, Holgunn forbade the group from entering the Dragon Temple. Holgunn refused to give any explanation, and all Mera would say on the subject was that the Dragon Priests stood at the right hand of Alduin.{{ref|name=EGT}}
+
+==History==
+{{Quote Box|style=float:none; max-width:none|''"At the peak of Skuldafn, upon this holy dragonshrine, the Ebonheart Pact is sealed."''|[[Online:Jorunn the Skald-King|Jorunn the Skald-King]]{{Ref|name=Jorunn}}}}
+
+[[File:ON-quest-Songs of Sovngarde.jpg|right|thumb|The Great Moot of the [[Lore:Ebonheart Pact|Ebonheart Pact]] commences at Skuldafn]]
+
+At some point prior to the Interregnum, the [[Lore:Dwemer|Dwemer]] city of [[Lore:Mzulft|Mzulft]] built a surface entrance at Skuldafn, though this passage had collapsed by {{Year|2E 582}}.{{ref|name=Mzulft|[[Online:Mzulft|Mzulft]] location in [[Online:Online|ESO]]}}
+
+Jorunn the Skald-King intended to hold a second [[Lore:Great Moot|Great Moot]] in Skuldafn in order to seal the [[Lore:Ebonheart Pact|Ebonheart Pact]] during the [[Lore:Three Banners War|Three Banners War]]{{ref|name=Yeveth|[[Online:General Yeveth Noramil|General Yeveth Noramil]]'s dialogue in [[Online:Online|ESO]]}} after first presiding over a Great Moot in the city of [[Lore:Mournhold|Mournhold]] to combat the [[Lore:Second Akaviri Invasion|Second Akaviri Invasion]],{{Ref|[[General:Ask Us Anything: Ebonheart Pact (Part 2)]]}} however the plans for the Moot at Skuldafn were interrupted by Jorunn's treacherous brother [[Lore:Fildgor|Fildgor Orc-Thane]]. In an attempt to usurp the throne from his brother, Fildgor planned to fuse his soul with that of his dead sister, [[Lore:Nurnhilde|Queen Nurnhilde]], by performing a necromantic ritual within Sovngarde, which led to him capturing and holding Skuldafn.{{ref|name=ESO}}{{Ref|name=SO|{{Cite Book|Skuldafn Orders|ns_base=ON}}}} According to Filgor's plan, once his soul and his sister's were fused, the [[Lore:Crown of Freydis|Crown of Freydis]] would accept Fildgor as the legitimate High King of Skyrim.{{ref|name=nurnhilde|[[Online:Queen Nurnhilde|Queen Nurnhilde]]'s dialogue in [[Online:Online|ESO]]}} 
+
+As part of his plan, Fildgor traveled to Skuldafn and ordered his allies, the [[Lore:Stormfist Clan|Stormfist Clan]] and the [[Lore:Orc|Orc]] tribes, to fortify the ruin in preparation for Jorunn's attack.{{Ref|name=SO}} Forces loyal to King Jorunn pursued him to the stronghold through a hidden passageway, and one [[Lore:The Vestige|Pact soldier]]- later given the title ''King's Arrow'' for their deeds- followed Fildgor to Sovngarde and defeated him. It is unknown whether he was killed by the soldier, by Jorunn, or was spared. 
+
+After Fildgor's defeat, a [[Lore:Moot|Moot]] between leaders of the Nords, Dunmer, and Argonians was held at the summit of Skuldafn to solidify the Pact,{{ref|name=SoS}} as was Jorunn's plan all along.{{ref|name=Yeveth}} The Nords, represented by Jorunn, offered the Crown of Freydis itself as a symbol of their pact. The Argonians offered the [[Lore:Mnemic Egg|Mnemic Egg]] as a symbol of their loyalty, and the Dunmer offered [[Lore:Veloth's Judgement|Veloth's Judgement.]] Jorunn was then elected High King of the Ebonheart Pact.{{ref|name=SoS}}
+
+At some point following Fildgor's occupation, access to the ruins was completely cut off, leaving Skuldafn completely unable to be reached by foot.{{ref|name=Odahviing}} 
+
+Skuldafn played a role in [[Lore:Return of the Dragons|the events surrounding Alduin's return]] in {{year|4E 201}}. After emerging from the [[Lore:Time Wound|Time Wound]] and destroying [[Lore:Helgen|Helgen]], Skuldafn was the first place Alduin traveled.{{ref|name=SkuldafnLoc}} Alduin was later defeated by the Last Dragonborn at the [[Lore:Throat of the World|Throat of the World]], at which point he fled to Sovngarde using the portal in Skuldafn in order to absorb the souls of the dead.{{ref|name=SovngardeQuest}} The World-Eater marshalled all his remaining dragon supporters to meet the Dragonborn at Skuldafn,{{ref|name=Odahviing}} and Nahkriin was ordered by his lord to guard the portal to Sovngarde.{{ref|name=Nahkriin}} The Dragonborn followed Alduin, flying to Skuldafn on the back of [[Lore:Odahviing|Odahviing]] and finding Skuldafn inhabited by Alduin's minions, both draugr and dragons. The Dragonborn activated the portal to Sovngarde using the staff wielded by Nahkriin, at which point they engaged in a final battle with the World-Eater in the afterlife.{{ref|name=SovngardeQuest}}
+
+==Portal to Sovngarde==
+{{Quote Box|style=float:none; max-width:none|''"This is the end of the bridge. Beyond lies Sovngarde, the realm of the honored dead. It is not a place for the living. Turn back."''|the [[Online:Watcher at the Bridge|Watcher at the Bridge]]{{Ref|name=Watcher|[[Online:Watcher at the Bridge|''Watcher at the Bridge'']]'s dialogue in [[Online:Online|ESO]]}}}}
+Around {{Year|2E 582}}, the portal to Sovngarde in Skuldafn was guarded by a Nord spirit called the [[Online:Watcher at the Bridge|Watcher at the Bridge]].{{ref|name=watcher|[[Online:Watcher at the Bridge|Watcher at the Bridge]] in [[Online:Online|ESO]]}} When [[Lore:Fildgor|Fildgor Orcthane]] forced his way into Sovngarde attempted to fuse his soul with that of his sister [[Lore:Nurnhilde|Queen Nurnhilde]], Nurnhilde's spirit spoke to the Watcher at the Bridge to ask him to permit [[Lore:The Vestige|a champion of the Ebonheart Pact]] to enter Sovngarde. The Watcher activated the portal and the champion was allowed entry into Sovngarde, at which point they defeated Fildgor and left the realm.{{ref|name=SoS}} According to Nurnhilde, Filgor forced his way into Sovngarde; though at the same time she stated that her brother's royal blood granted him access to the hallowed halls of their ancestors, no matter what foul atrocities he has performed.{{ref|name=nurnhilde}}
+
+By the time of Alduin's return, the portal to Sovngarde was no longer guarded by the Watcher at the Bridge, but instead by the [[Lore:Dragon Priest|Dragon Priest]] Nahkriin, who was ordered to guard the portal by his master Alduin.{{ref|name=Nahkriin|[[Skyrim:Nahkriin (creature)|Nahkriin]]'s dialogue in [[Skyrim:Skyrim|Skyrim]]}} When the Last Dragonborn chased Alduin to Sovngarde, they opened the portal using a unique staff wielded by Nahkriin.{{ref|name=SovngardeQuest}}
+
+The ancient writings and oral traditions of the Nords as far as the late Merethic Era speak of a mysterious hidden entrance to Sovngarde, and it is said that some Nords spend a lifetime searching for this entrance.{{ref|name=SAR|{{Cite Book|Sovngarde, a Reexamination}}}} According to some sources from the Second Era, tales of heroes traveling to Sovngarde and back were common,{{ref|name=RTS|{{Cite Book|The Road to Sovngarde}}}} though according to other sources there are no actual accounts from Nords who have traveled to Sovngarde and returned to tell the tale.{{ref|name=SAR}} It is said that some have sought "hidden paths" into Sovngarde, but none have been successful.{{ref|name=RTS}} It is unclear whether these stories of heroes traveling between the mortal world and Sovngarde without dying have any relationship to the actual portal at Skuldafn.
+
+{{NewLeft}}
+
+==Gallery==
+<gallery>
+File:ON-load-Skuldafn (old).jpg|A group of adventurers approach Skuldafn (ESO loading screen)
+File:ON-load-Skuldafn.jpg|Skuldafn’s exterior (ESO loading screen)
+File:ON-place-Skuldafn.jpg|Skuldafn circa {{Year|2E 582}} (ESO)
+File:SR-place-Skuldafn Temple.jpg|Skuldafn circa {{Year|4E 201}} (Skyrim)
+File:ON-npc-Watcher at the Bridge.jpg|The Watcher at the Bridge (ESO)
+File:SR-creature-Nahkriin.jpg|Nahkriin guarding the portal to Sovngarde circa {{Year|4E 201}} (Skyrim)
+File:ON-place-Skuldafn 02.jpg|The portal to Sovngarde circa {{Year|2E 582}}, guarded by the Watcher at the Bridge (ESO)
+File:SR-quest-The World-Eater's Eyrie.jpg|The portal to Sovngarde circa {{Year|4E 201}}, no longer covered by snow (Skyrim)
+File:LG-cardart-World-Eater's Eyrie.png|Odahviing taking the Dragonborn to the temple (Legends)
+File:ON-place-Skuldafn 03.jpg|The entrance to Mzulft (ESO)
+File:ON-place-Skuldafn 04.jpg|The collapsed entrance to Skuldafn from Mzulft (ESO)
+File:ON-map-Icewind Peaks.jpg|An erroneous map of the Icewind Peaks region, featuring Skuldafn in a mountainous area south of the Inner Sea (ESO)
+</gallery>
+
+==Notes==
+
+*The crypts of Skuldafn were known by the Nords to be inhabited by [[Lore:Draugr|draugr]], and a group of adventurers fought draugr there not long before the events of the [[Lore:Planemeld|Planemeld]].{{ref|name=KC}} However, during Filgor Orc-Thane's occupation of Skuldafn and the Ebonheart Pact's attack on the ruin, there were no draugr found on the outside of the ruin, or in the central part of the tombs that the [[Lore:Vestige|champion of the Ebonheart Pact]] traveled through.{{ref|name=ESO}} It is possible that Fildgor's Stormfist and Orcish allies cleared the area of draugr before fortifying the ruin for themselves, or that the group of adventurers had killed all the draugr near the surface.
+
+*Skuldafn is also called the World-Eater's Eyrie,{{ref|name=legcard|[[Legends:World-Eater's Eyrie|World-Eater's Eyrie]] card in [[Legends:Legends|Legends]]}} and features prominently in [[Skyrim:The World-Eater's Eyrie|the quest of the same name]] in [[Skyrim:Skyrim|Skyrim]]. The word [[Wiktionary:Eyrie|eyrie]] can be defined as ‘‘the nest of a bird of prey’’, possibly implying that Skuldafn served as Alduin's "nest" at one point.
+
+*It is unclear what happened to the Watcher at the Bridge between the events surrounding Fildgor and the return of Alduin, though given that Alduin fled through the portal in Skuldafn for the express purpose of devouring souls,{{ref|name=Odahviing}} it is possible that the Watcher at the Bridge was devoured by him before the arrival of the Last Dragonborn.
+
+*[[Lore:Ulfgar the Unending|Ulfgar the Unending]] quested to find the "entrance to Sovngarde", stating that he had searched all across the Empire but could not find it. According to Ulfgar, it is said that if a Nord can find the hidden entrance to Sovngarde, they can dwell in its mead-filled halls forever.{{ref|name=Ulfgar|[[Bloodmoon:Ulfgar the Unending|Ulfgar the Unending]]’s dialogue in [[Bloodmoon:Bloodmoon|Bloodmoon]]}} Ultimately, Ulfgar entered Sovngarde through dying a valiant death at the hands of the Nerevarine.{{ref|name=Bloodmoon|Events of [[Bloodmoon:Bloodmoon|Bloodmoon]]}} It is unclear whether Ulfgar was searching for the literal portal to Sovngarde at Skuldafn, or whether he was unaware Sovngarde was the afterlife. 
+**Notably, Ulfgar believed that upon finding the hidden entrance he would be granted eternal life within Sovngarde without having to die, though the Watcher at the Bridge tasked with guarding Sovngarde spoke of it as a place the living were not allowed in.{{ref|name=watcher}}
+
+*The Dragon Priest Nahkriin was entombed in Skuldafn, which was said to be "a sacred place, and sealed for a reason."{{ref|name=KC}} Nahkriin later fought the Last Dragonborn at Skuldafn in {{Year|4E 201}}, but was not known to be active during the events that took place at Skuldafn during the [[Lore:Three Banners War|Three Banners War]]. Though many Dragon Priests are known to be immortal due to achieving lichdom{{ref|name=Valdar|[[Skyrim:Valdar|Valdar]]’s dialogue in [[Skyrim:Skyrim|Skyrim]]}}, priests of [[Lore:Kyne|Kyne]] were known to use braziers enchanted with warding magic to keep them sealed within their tombs during the Second Era.{{ref|name=TDoM|{{Cite Book|The Danger of Morokei}}}} In the case of at least one Dragon Priest, [[Lore:Morokei|Morokei]], these seals were active during the Second Era{{ref|name=TFF|Events of [[Online:The Fading Fire|The Fading Fire]] in [[Online:Online|ESO]]}} but these braziers had become inactive by {{Year|4E 201}}.{{ref|name=TSoM|Events of [[Skyrim:The Staff of Magnus|The Staff of Magnus]] in [[Skyrim:Skyrim|Skyrim]]}} It is possible that, like Morokei, Nahkriin was once sealed away, but the seals had faded by the time of Alduin's return; it is also possible that Alduin freed the Dragon Priest himself. Many Dragon Priests did not emerge from their coffins unless their sleep was disturbed,{{ref|name=DragonPriests|Behavior of [[Skyrim:Dragon Priest|Dragon Priests]] in [[Skyrim:Skyrim|Skyrim]]}} it is also possible that Nahkriin's sleep was simply not disturbed during the events at Skuldafn during the Second Era.
+
+==See Also==
+*{{GSI|Skyrim:Skuldafn|Online:Skuldafn}}
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>
+</noinclude>

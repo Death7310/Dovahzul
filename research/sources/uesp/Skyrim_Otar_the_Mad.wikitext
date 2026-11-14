@@ -1,0 +1,28 @@
+{{Creature Summary
+|loc=[[Skyrim:Ragnvald|Ragnvald Barrow]]
+|refid=0008767A
+|baseid=0003763A
+|type=Undead
+|species=Dragon Priest
+|level=50
+|health=1490
+|magicka=545
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|image=SR-creature-Otar the Mad.jpg
+|imgdesc=Otar the Mad
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Shock|Augmented Shock]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Otar the Mad''' is one of the eight high-ranked [[Skyrim:Dragon Priest|dragon priests]] in Skyrim. He is found in [[Skyrim:Ragnvald|Ragnvald]], in a locked coffin before the barrow's [[Skyrim:Word Wall|word wall]]. To get to him, you have to defeat his two keepers&mdash;[[Skyrim:Guardian Torsten|Torsten]] and [[Skyrim:Guardian Saerek|Saerek]]&mdash;and take their skull keys.
+
+He carries his eponymous mask, [[Skyrim:Otar|Otar]], which increases resistance to shock, fire, and frost damage. His weapon is the [[Skyrim:Staff of the Storm Wall|Staff of the Storm Wall]].
+
+Otar knows the following spells: [[Skyrim:Chain Lightning|Chain Lightning]], [[Skyrim:Command Daedra|Command Daedra]], [[Skyrim:Conjure Storm Atronach|Conjure Storm Atronach]], [[Skyrim:Greater Ward|Greater Ward]], [[Skyrim:Ebonyflesh|Ebonyflesh]], [[Skyrim:Lightning Cloak|Lightning Cloak]], and [[Skyrim:Thunderbolt|Thunderbolt]].
+
+{{NewLeft}}
+==Related Quests==
+*{{Quest Link|Ragnvald (quest)}}
+
+{{Skyrim Dragon Priests}}

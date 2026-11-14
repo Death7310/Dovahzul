@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Delphine",
+  "revid": 3643652,
+  "timestamp": "2026-09-30T22:25:07Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3643652&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "634fc329c860b405dd8815dae25deb79ff383a04e871c79ef17596a01a631d57",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 97895,
+  "ns": 134,
+  "parentid": 3579991,
+  "requested_title": "Skyrim:Delphine",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Delphine",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3643652",
+  "sha1": "30cd8577af49dd799dce57fb927565e2333d6186",
+  "sha1_matches_mediawiki": true,
+  "bytes": 89285,
+  "chars": 89278,
+  "lines": 1092,
+  "saved_as": "research/sources/uesp/Skyrim_Delphine.wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Delphine|Skyrim:Tharstan|Skyrim:Jawanan|Skyrim:Dovahkiin|Skyrim:High+Hrothgar|Skyrim:Unbound|Skyrim:Dragon+Rising|Skyrim:The+Way+of+the+Voice|Skyrim:The+Horn+of+Jurgen+Windcaller|Skyrim:A+Blade+in+the+Dark|Skyrim:The+Throat+of+the+World|Skyrim:Alduin%27s+Bane",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:29Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

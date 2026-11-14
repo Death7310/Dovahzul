@@ -1,0 +1,44 @@
+{{Mod Header|Dragonhold}}
+{{Online NPC Summary
+|image=ON-creature-Yahgrondu.jpg
+|imgdesc=Yahgrondu
+|loc=[[ON:Zazaradi's Quarry and Mine|Zazaradi's Quarry and Mine]]
+|race=Dragon
+|creature=1
+|gender=Male
+|difficulty=1
+|reaction=Hostile
+|health=263,863
+|condition=Undead
+}}
+'''Yahgrondu''' is a red [[ON:Dragon|dragon]] found in [[ON:Zazaradi's Quarry and Mine|Zazaradi's Quarry and Mine]]. You are sent by [[ON:Nahfahlaar|Nahfahlaar]] to find him, as Yahgrondu has sworn an inviolable oath to him. Yahgrondu will be an important ally in the struggle against [[ON:Laatvulon|Laatvulon]].
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|Uneasy Alliances}}
+
+==Quest-Related Events==
+When you and [[ON:Aeliah Renmus|Aeliah Renmus]] finally find Yahgrondu, Laatvulon is trying to convince Yahgrondu to swear his allegiance to Laatvulon and his [[ON:Order of the New Moon (faction)|cult]]. 
+:'''Laatvulon:''' ''"Join me, brother. My master's power is limitless and he will share it with his devoted."''
+:'''Yahgrondu:''' ''"I will die before I bow to you or your master, Laatvulon."''
+:'''Laatvulon:''' ''"If you insist."''
+:'''Aeliah Renmus:''' ''"Laatvulon! And the other Dragon ... is that Yahgrondu?"''
+Laatvulon kills Yahgrondu before you can reach him. When he notices your intrusion, Laatvulon commands [[ON:Ra'khajin|Ra'khajin]] to raise Yahgrondu's corpse. You must kill Yahgrondu to progress. Two [[ON:New Moon Pyromancer|New Moon Pyromancers]] and a [[ON:New Moon Dreadnaught|New Moon Dreadnaught]] accompany him in the beginning of the fight.
+:'''Ra'khajin:''' ''"Persistent fools! Soon all of Elsweyr will bow to my master. You will serve Laatvulon&mdash;if not in life, then in death!"''
+
+==Skills and Abilities==
+;Bite: A melee attack that causes bleeding.
+;Chomp: A charged-up melee attack inflicting higher damage and stunning you. This can be block to reduce the damage and negate the stun.
+;Wing Thrash: Standing near Yahgrondu's wings causes him to swat at you with them, dealing damage and knocking you away.
+;Sweeping Breath: Yahgrondu sprays fire in a curved path in the arena, indicated by a conical [[ON:AoE|AoE]].
+;Unrelenting Force: Yahgrondu shouts in a direction, dealing damage and knocking away those in the path, indicated by a conical AoE.
+;Flame Spout: Yahgrondu raises his head to the sky and spits out four fireballs that land in the arena, creating large pools of lingering flames, indicated by circular AoEs.
+
+==Notes==
+*Yahgrondu translates to "Seek-Bind-Devour" in the dragon language.
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->
+{{Stub|Creature}}

@@ -1,0 +1,24 @@
+<noinclude>{{cleanup-lpp|writtenby=Legoless|checkedby=The Rim of the Sky}}{{Lore Places Trail}}{{Lore Place Summary
+|continent=Tamriel
+|province=Skyrim
+|region=Whiterun Hold
+|settlement=Rorikstead
+|image=SR-place-Rorikstead.jpg
+|imgdesc=Rorikstead circa {{Year|4E 201}}
+|appears=[[SR:Rorikstead|Skyrim]]}}
+</noinclude>[[Lore:Rorikstead|Rorikstead]] (also known as '''Rorik's Steading''', or '''Rorikhofkah''' in the [[Lore:Dragon Language|Dragon Language]]) is a small settlement in the Western Plains of [[Lore:Whiterun|Whiterun Hold]].{{ref|name=HOJG|{{Cite Book|Holdings of Jarl Gjalund}}}} Some variant of the name appears in many old records, with the earliest dated mention of it being in {{Year|2E 373}},{{ref|name=AOD|{{Cite Book|Atlas of Dragons}}}} and another text placing it as possibly existing during the [[Lore:Merethic Era|Merethic]] or [[Lore:First Era|First]] Era.{{ref|name=HOJG}} The traditional song of [[Lore:Whiterun|Whiterun]], "Ragnar the Red", refers to an "ole Rorikstead".{{ref|name=SOSR|{{Cite Book|Songs of Skyrim: Revised}}}}
+
+During the {{Lore Link|Skyrim Schism}}, Rorikstead and the rest of Whiterun Hold were part of Western Skyrim and owed fealty to the High King based in [[Lore:Solitude|Solitude]]. In {{Year|2E 561}},{{ref|group=UOL|name=Schick2015|[[General:Lawrence Schick's Posts|Lawrence Schick's Posts]]}} the wife and daughter of [[Lore:Falkreath|Falkreath]]'s Jarl [[Lore:Hjurgol Skjoralmor|Hjurgol Skjoralmor]] stayed in the town on their journey to High King [[Lore:Svargrim|Svargrim]]'s coronation in Solitude, and were ambushed by a [[Lore:Giant|giantess]]' herd of [[Lore:Mammoth|mammoth]]s shortly after.{{ref|name=MtCES|{{Cite Book|Meet the Character - Eerika Skjoralmor}}}} The twin brothers Roggvir and Fenrig hailed from the town and were called its protectors around {{Year|2E 578}}.{{Ref|name=KC|[[Books:Kyne's Challenge: A Hunter's Companion Characters and Summary|Kyne's Challenge: A Hunter's Companion Characters and Summary]]}} Trade was still occurring between [[Lore:Windhelm|Windhelm]] and Rorikstead circa {{Year|2E 582}}, despite owing allegiances to opposing High Kings.{{Ref|name=WSM|{{Cite Book|Windhelm Shipping Manifest|ns_base=ON}}}}
+
+The land around the settlement was purportedly barren around the time of the [[Lore:Great War|Great War]]. After the war, a local nobleman named Rorik purchased the land. He claims to have founded the settlement, and that it hasn't had a bad crop since.{{ref|name=SRRorik|[[Skyrim:Rorik|Rorik]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} The local farmers make a living by trading their produce to merchants in Whiterun.{{ref|name=Skyrim|Events of ''[[Skyrim:Skyrim|Skyrim]]''}} The [[Lore:Dragon|dragon]] Nahagliiv, who was buried in a mound west of the settlement around the time of the [[Lore:Dragon War|Dragon War]], was resurrected in {{Year|4E 201}} by [[Lore:Alduin|Alduin]].{{ref|name=AOD}}<noinclude>
+{{NewLeft}}
+==Notes==
+* [[Skyrim:Rorik|Rorik's]] claim that he founded the settlement is hard to reconcile with the historical record, though it is possible Rorikstead was abandoned and later re-founded. However, this explanation doesn't account for the settlement's name being based on his.
+* The village of '''Lainalten''' [[Arena:Lainalten|appears]] in ''[[Arena:Arena|Arena]]'' at the exact same area where Rorikstead is presently located, though it is unclear if they are intended to be the same settlement.
+*Concept maps reveal an early name for this location was '''Hroffbulg'''.{{Ref|name=ToddDice|[https://www.youtube.com/watch?v{{=}}7awkYKbKHik Todd Howard DICE 2012 Keynote]}}
+==See Also==
+* {{GSI|Skyrim:Rorikstead}}
+
+==References==
+<references/>{{UOL}}
+<references group=UOL/></noinclude>

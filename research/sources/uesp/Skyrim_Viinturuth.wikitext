@@ -1,0 +1,34 @@
+{{Creature Summary
+|loc=Northwest of [[Skyrim:Anga's Mill|Anga's Mill]] {{Map Link|x=100493|y=39494|zoom=17}}
+|soul=Dragon
+|refid=000FDBB1
+|baseid=000FE432
+|type=Monsters
+|species=Dragon
+|level={{hover|Values: 10, 20, 30, 40, 50|Radiant (10-50)}}
+|health={{hover|Values: 905, 1421, 1860, 2255, 3071|905-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}
+|image=SR-creature-Viinturuth.jpg
+|imgdesc=Viinturuth landing
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|class=Dragon
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 130, 164, 197, 230, 264|130-264}}
+|leveled=1
+}}
+'''Viinturuth''' is a [[Skyrim:Dragon|dragon]] who is reawakened by [[Skyrim:Alduin|Alduin]] as part of the main quest line. He is buried in a [[Skyrim:Dragon Mounds|mound]] near [[Skyrim:Lake_Yorgrim|Lake Yorgrim]] and may be encountered while exploring the area. Viinturuth's name translates to "Shine Hammer Rage".
+
+Viinturuth can be raised once the quest [[Skyrim:The Throat of the World|The Throat of the World]] has been completed, and will fly around the area following his revival. He may use fire or frost depending on the player's level, and will drop the same kind of loot as other dragons when slain.
+{{NewLeft}}
+
+==Dialogue==
+Alduin will have a brief conversation with Viinturuth during resurrection:
+:'''Viinturuth:''' ''"{{hover|Alduin, my lord!|Alduin, thuri!}}"''
+:'''Alduin:''' ''"{{hover|Arise|Alok}}, Viinturuth. {{hover|(The) time has come.|Tiid boaan.}}"''
+
+==Bugs==
+{{Bug|Viinturuth may spawn a second time and become invisible. It is possible to see him with Detect Life and his corpse with Detect Dead, but his soul will not be absorbed, as is the case with other respawned dragons.|confirmed=1}}
+{{Bug|Viinturuth may not attack and instead circle you and the surrounding area from too far up in the sky to be attacked with either archery or magic, though he appears as a hostile on the compass, which prevents Fast Travel. Running away and coming back at a later time presents the same issue.|confirmed=1}}
+
+{{Skyrim Dragons}}

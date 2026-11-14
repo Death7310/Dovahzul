@@ -1,0 +1,97 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=Chezburgar
+|reward=Multiple
+|rewardChecked=RobinHood70
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=[[SR:Hakon One-Eye|Hakon]], [[SR:Gormlaith Golden-Hilt|Gormlaith]], and [[SR:Felldir the Old|Felldir]]
+|Reward=[[SR:Call of Valor|Call of Valor]]
+|Disp=
+|Prev=[[Skyrim:Sovngarde (quest)|Sovngarde]]
+|Loc=[[SR:Hall of Valor|Hall of Valor]], [[SR:Sovngarde (place)|Sovngarde]]
+|Image=SR-quest-Dragonslayer.jpg
+|ImgDesc=Alduin calls a rain of fire
+|description=Put an end to the [[SR:Alduin|World-Eater]].
+|ID=MQ305
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+# Meet with the heroes of [[SR:Sovngarde (place)|Sovngarde]].
+# Coordinate your [[SR:Dragon Shouts|shouts]] to clear [[SR:Alduin|Alduin]]'s mist.
+# Defeat the World-Eater in combat.
+
+==Detailed Walkthrough==
+===Heroes Unite===
+Leave the [[Skyrim:Hall of Valor|Hall of Valor]] and cross the Whalebone Bridge to the edge of the Shadowed Vale, where your Nord brethren are gathered. They are as eager to slay [[Skyrim:Alduin|Alduin]] as you are. When the three heroes have assembled, you will take your place by their sides. Once you have done so, one of them will suggest that you all use the [[Skyrim:Clear Skies|Clear Skies]] Shout together to blow away the mist. Your companions will wait for you to Shout then use their Thu'um as well. You need to do this three times when requested, as Alduin recovers the field in mist the first two times you clear it away. After your third Shout, the mist dissipates, Alduin becomes enraged and flies towards you and the final battle is joined.
+
+===The World-Eater===
+[[File:SR-quest-Dragonslayer 02.jpg|thumb|right|The death of the World-Eater]] This is when you begin your last fight with Alduin. Alduin launches a barrage of fire attacks at you, the Nords, and any lost souls that have been freed from their permanent fog. Alduin's rain of fire ability hits a large area of effect so have wards, healing spells and/or potions ready.
+
+To defeat Alduin, you must once again strike him with [[Skyrim:Dragonrend|Dragonrend]] to force him to land. Until you do, he is invincible and will take no damage. While on the ground, it is relatively easy to kill him due to the fact that the three Nord heroes will help in the battle. Alduin is basically the same as every other dragon the Dragonborn has thus far encountered: melee from the sides to avoid the potent tail attack, have a shield handy if you're planning to go head-to-head. For archers, Alduin is just as susceptible to potent poisons as other living creatures. Hit from a distance with high-damage lingering poisons and he will stay down fairly quickly. For magic users, the [[Skyrim:Marked for Death|Marked for Death]] Shout is very useful as it increases his susceptibility to damage from spells. Don't stand in front of him, as his fire breath is deadly even to high level players. [[Skyrim:Resist Fire|Resist Fire]] and [[Skyrim:Resist Magic|Resist Magic]] may help against this.
+
+After you strike the killing blow, Alduin writhes in agony and his soul begins to vanish. Alduin thrashes on the ground as his soul leaves his corporeal form. As his essence drains away, a black tar-like skeleton is revealed underneath. His form continues to corrode, fading into wisps and with a final, thunderous spasm, Alduin is torn apart; not even his skeleton remains in this afterlife.
+
+===Alduin's End===
+[[File:SR-quest-Dragonslayer 03.jpg|thumb|Dragon reception at the Throat of the World]]As the mist of Alduin's soul snare dissipates and the sky clears, [[Skyrim:Tsun|Tsun]] congratulates you on your mighty deed, as do your three helpers and all the characters lost in the mist, who will make their way to the bridge. Before leaving Sovngarde, Tsun teaches you the [[Skyrim:Call of Valor|Call of Valor]] Shout, which allows you to summon a hero from Sovngarde to fight by your side. You will not be able to reenter the Hall of Valor, so when you are ready to leave, talk to Tsun and he will Shout you back to Tamriel.
+
+===The Obituary===
+Upon returning to Tamriel, you will be returned to the [[Skyrim:Throat of the World|Throat of the World]] and greeted by a large number of dragons perched there. They recite a chant together acknowledging the Dovahkiin and the destruction of Alduin the World-Eater, departing one by one as they do:
+
+* ''{{hover|Alduin has fallen|Alduin mahlaan}}''
+* ''{{hover|The mighty overlord is vanquished|Sahrot thur qahnaraan}}''
+* ''Alduin mahlaan''
+* ''{{hover|The Dragonborn is his dragonslayer/The Dragonborn slew him|Dovahkiin los ok dovahkriid}}''
+* ''Alduin mahlaan''
+* ''{{hover|His Voice is silenced|Thu'umii los nahlot}}''
+* ''Alduin mahlaan''
+* ''{{hover|We are unallied/free of fealty|Mu los vomir}}''
+
+If you did not already kill [[Skyrim:Paarthurnax (dragon)|Paarthurnax]], he will have a final conversation with you, and expresses hope to convince other dragons to join the ''Way of the Voice'' before flying off himself. Afterwards, if you are still on the mountaintop, [[Skyrim:Odahviing|Odahviing]] will come to admit his allegiance to you so that you may freely use his Thu'um to call him, though he warns that not all dragons are willing to follow Paarthurnax's example.
+
+Returning to High Hrothgar or Sky Haven Temple will yield further closing dialogue with Arngeir or Esbern, respectively. This is easy to miss because the game relies on you to think of returning to the "wise old man".
+
+Congratulations! You have completed ''Skyrim'''s Main Quest, and may now continue your adventures.
+
+===Achievements===
+One [[Skyrim:Achievements|achievement]] is unlocked when you complete this quest and finish the questline:
+* {{achievement|Dragonslayer (achievement)|descr=no}}
+
+==Notes==
+*Unlike the [[Oblivion:Oblivion Gates|Oblivion Gates]] in ''[[Oblivion:Oblivion|Oblivion]]'', the [[Skyrim:Dragon|dragons]] will continue to appear frequently in Skyrim after defeating Alduin. This enables you to obtain more dragon souls for any remaining Words of Power not yet unlocked, as well as obtain materials for [[Skyrim:Smithing|creating dragon equipment]].
+**{{pc22}} If you wish to stop the attacks, you can enter the following command in the [[Skyrim:Console|console]]: <code>set dragonsreturned to 0</code>.
+*After leaving the Hall of Valor, you are unable to reenter.
+*Even though the three heroes can deplete Alduin's health, you must deliver the final blow yourself. Alduin will be unable to attack, and will not resist the final attack.
+**If you use [[Skyrim:Healing Hands|Healing Hands]] on Alduin while he is down, all of his health will be restored. If you get far enough from Alduin while he is downed, he will be back to full health back when you return, and you'll need to fight him once again.
+**If you use Storm Call on Alduin while he is down, there is a chance that the lightning may miss him completely.
+*If the [[Skyrim:Dawnguard|Dawnguard]] add-on is installed and you finish this quest before starting [[Skyrim:Beyond Death|Beyond Death]], [[Skyrim:Durnehviir (dragon)|Durnehviir]] will be impressed and say ''"Even in the Soul Cairn, the defeat of the World Eater has reached my ears, Dovahkiin. You may not be dovah, but the defeat of Alduin earns you the right of title."''
+*If the [[Skyrim:Dragonborn|Dragonborn]] add-on is installed and you finish this quest before starting [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]], [[Skyrim:Miraak (person)|Miraak]] will be impressed and say ''"Felling Alduin was a mighty deed, and I thank you for it. He would have proved troublesome to me."''
+*It is impossible to loot Alduin, even though the option presents itself while his body dissipates. However, it is possible to harvest [[Skyrim:Dragon Heartscales|dragon heartscales]] from him with [[Skyrim:Kahvozein's Fang|Kahvozein's Fang]].
+*Alduin's soul is not absorbed. You can later discuss the ramifications of this with [[Skyrim:Arngeir|Arngeir]] unless you have antagonized him by killing [[Skyrim:Paarthurnax (dragon)|Paarthurnax]].
+*The lost souls of Sovngarde will praise you after defeating Alduin with shared dialogue: ''"All hail the Dragonborn, hail him/her with great praise!"'' However some people will instead say, ''"All hail the Dragonborn, praise him/her with all praise!"''
+*You don't need to use all 3 words of Clear Skies in order to dispel Alduin's mist.
+*{{Ps22}} If the Trophy for this quest is the last one you need to unlock, you'll get the Platinum Trophy as well.
+
+==Bugs==
+{{Bug|After speaking to Tsun and returning to the Throat of the World, the epilogue scene with Paarthurnax and the other dragons may not trigger correctly, causing only Paarthurnax and Odahviing to be present and preventing any dialogue from occurring.|confirmed=1}}
+**Fast-traveling away from the Throat of the World and then returning may fix this.
+{{Bug|While shouting Clear Skies the other heroes might not shout.|confirmed=1}}
+**Going into the menu for about 10 seconds may fix this.
+{{Bug|After Alduin is defeated, if you choose to wait in Sovngarde before going back, Tsun may become inactive. He can look at you and walk around, but will not respond to talking or being hit for a while.}}
+{{Bug|After you and the Nord heroes clear the mist, Alduin may be invincible.|confirmed=1}}
+{{Bug|After the quest is finished, the instance of random dragon attacks after fast traveling is supposed to be reduced, but isn't.|OSP|1.9}}
+{{Bug|Alduin's death cry may be too quiet for you to hear if you're too far away.|USKP|1.2.2}}
+
+==Quest Stages==
+{{Journal Entries
+|10||Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old have come to help me try to defeat Alduin. Together we may be strong enough to dispel the evil mist in which he hides. Once that is gone, he will have no choice but to face us in open battle.
+{{Quest Objective|10|Help the heroes of Sovngarde dispel Alduin's mist}}
+|100||{{Quest Objective|20|Defeat Alduin}}
+|120||Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old have come to help me try to defeat Alduin. Together, we used Clear Skies to dispel the evil mist in which Alduin was hiding. Now he has no choice but to face us in open battle.
+|200|fin|Gormlaith Golden-Hilt, Hakon One-Eye, and Felldir the Old have come to help me try to defeat Alduin. Together, we used Clear Skies to dispel the evil mist in which Alduin was hiding. We fought and defeated him. Sovngarde and Skyrim are now free from the fear of his return. I have fulfilled my destiny as Dragonborn.
+{{Quest Objective|10|Help the heroes of Sovngarde dispel Alduin's mist}}
+|missing=0, 1, 5, 12, 15, 20, 30, 60, 80, 140, 190, 210, 220, 250, 260, 300
+}}
+{{Skyrim Quest Stages Notes}}
+{{Quest Footer|Next=None|Prev=[[Skyrim:Sovngarde (quest)|Sovngarde]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

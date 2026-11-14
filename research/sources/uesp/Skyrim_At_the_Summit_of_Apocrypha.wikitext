@@ -1,0 +1,173 @@
+<noinclude>{{Cleanup-srqrp
+|writtenBy=Multiple
+|checkedBy=Quantheory
+|reward=Multiple
+|rewardChecked=Quantheory
+}}</noinclude>{{Mod Header|Dragonborn}}{{Trail2|Dragonborn|Quests|link2=Dragonborn Quests}}[[Category:Skyrim-Quests]]{{Quest Header
+|notrail=1
+|Giver=[[Skyrim:Frea|Frea]]
+|Icon=SR-qico-Main 2.png
+|Reward=Miraak's Equipment,<br>Skill Tree Clearing,<br>Tree Stone power,<br>Word for the [[Skyrim:Dragon Aspect|Dragon Aspect]] shout
+|Prev=[[Skyrim:The Gardener of Men|The Gardener of Men]], [[Skyrim:Cleansing the Stones|Cleansing the Stones]]
+|Loc=[[Skyrim:Apocrypha (Waking Dreams)|Apocrypha]]
+|Image=SR-quest-At the Summit of Apocrypha.jpg
+|ImgDesc=The summit of Apocrypha
+|ID=DLC2MQ06
+|description=Confront [[Skyrim:Miraak (person)|Miraak]] at the summit of [[Skyrim:Apocrypha|Apocrypha]] and defeat him once and for all.
+|SuggLevel=25
+}}
+
+== Quick Walkthrough ==
+# Unlock the [[Skyrim:Bend Will|Bend Will]] [[Skyrim:Dragon Shouts|shout]] and read the Black Book ''[[Skyrim:Black Book: Waking Dreams (book)|Waking Dreams]]''.
+# Traverse Chapters I to VI.
+# Use the Bend Will shout to tame [[Skyrim:Sahrotaar|Sahrotaar]].
+# Reach the summit of [[Skyrim:Apocrypha (Waking Dreams)|Apocrypha]].
+# Confront [[Skyrim:Miraak (person)|Miraak]] and kill him.
+
+== Detailed Walkthrough ==
+=== Chapter I: The Word of Lore ===
+With the complete [[Skyrim:Bend Will|Bend Will]] [[Skyrim:Dragon Shouts|shout]] at your disposal, it is now time to face [[Skyrim:Miraak (person)|Miraak]].
+
+Using dragon souls, unlock the remaining words of the Bend Will shout and read the Black Book ''[[Skyrim:Black Book: Waking Dreams (book)|Waking Dreams]]'', where Miraak was first encountered during the quest [[Skyrim:Temple of Miraak|The Temple of Miraak]]. You will be transported to [[Skyrim:Apocrypha|Apocrypha]], [[Skyrim:Hermaeus Mora|Hermaeus Mora]]'s [[Lore:Planes_of_Oblivion|plane of Oblivion]]. Though this area is large, there's little of interest here now that Miraak has departed, only a few pods and tables along the walls. Walk down the path and up the staircase, where Chapter II will be accessible from a pedestal.
+
+=== Chapter II: Preferred Reading—Boneless Limbs ===
+Ascend the stairs and defeat the two [[Skyrim:Seeker|seekers]]. If you make enough noise, you can attract the attention of enemies far above you, but it is unlikely that you will be able to attack each other, so if you need to leave combat, just sneak until they stop looking for you. At the top of the stairs, a copy of the [[Skyrim:Smithing|Smithing]] [[Skyrim:Skill Books|skill book]] ''[[Skyrim:Heavy Armor Forging|Heavy Armor Forging]]'' is on a table to the right. When you get across the bridge, you can turn right and walk back along the narrow ledge to reach a pod. On the top landing, grab the book ''[[Skyrim:On Apocrypha: Boneless Limbs|On Apocrypha: Boneless Limbs]]'' and go up the now-accessible staircase to reach Chapter III.
+
+=== Chapter III: Preferred Reading—Delving Pincers and Prying Orbs===
+This next area may be a bit tricky to navigate, due to its maze-like structure. Defeat any seeker you encounter and make your way to the other end of the room, where the book ''[[Skyrim:On Apocrypha: Delving Pincers|Delving Pincers]]'' and a copy of the [[Skyrim:Alchemy|Alchemy]] skill book ''[[Skyrim:Song of the Alchemists|Song of the Alchemists]]'' lie. There is a pod across from the book pedestal and another down the stairs past it. After picking up Delving Pincers, return to the entrance, where the (previously closed) gate is now open. Activate the scrye and travel down the hall, where you can pick up a copy of the [[Skyrim:Enchanting|Enchanting]] skill book ''[[Skyrim:Catalogue of Weapon Enchantments|Catalogue of Weapon Enchantments]]'' from the table.
+
+Be careful in the next room, where it is easy to fall off of the edge. If you activate the scrye in this room, a door will open off to the north, revealing a vessel with a bit of loot (there are also pods by the scrye and book pedestal here). Kill the seeker and traverse the narrow walkways to pick up the book ''[[Skyrim:On Apocrypha: Prying Orbs|Prying Orbs]]''. With the book in your possession, the gate will open, and you can now continue onward to Chapter IV.
+
+[Possible spoiler] - For those that want to speed run this chapter (either for fun or to avoid combat) it is easy enough. Good magic resistances allow you to run past the Seekers and an atronach spell or staff will distract them.
+: Instructions below 
+: 1.You need to get the books ' Delving Pincers' and 'Prying Orbs', both to open gates and for the next chapter. From the chapter start, there is a corridor in front of you facing roughly East. Just in front you on the right wall (South) of the corridor is a closed gate [1] that you need to open.
+: 2. Get 'Delving Pincers' - Follow the corridor (E) to a T junction.  Two Seekers will appear. Go right(S), left(E), right, left (passing a poison pools with tentacles and a blue Magicka font). There is a poison pool to your front right and steps up to platform on your left. Go up the steps to a raised platform. On the right is a table with some loot. More importantly, on the left is the book 'Delving Pincers'. Taking this opens gate [1]. There are further steps down to a dead end and a pod (not essential, if you want to run).
+: 3. Run back the way you came. Just before the start, now on your left is the gate [1] open. Go through, activate a scrye which opens a corridor directly in front of you (S). Run down a slope, then up to a table with some loot and a font of stamina.
+: 4. Get 'Prying Orbs' - Turn right and a gate opens to a huge open area with narrow walkways and drops to the chamber below (Chapter 2). It is patrolled by (one or two) Seekers. To your left is a scrye. To your right is a small gated room with loot. The scrye opens the room but neither are essential. Prying orbs is across the entire chamber. It is to your SW, beside a bright blue font. To get to it turn right and take the first (left) path to the middle of the open area. Then take the first left path towards the blue font. and take the book.
+: 5. As you take the book, you are facing NW and you will see a gate open (right in front of you on the other side of the open area. Run over to it across the pathways (dodging the Seeker shots) and down a short corridor is the book to the next chapter.
+
+=== Chapter IV: Preferred Reading—Gnashing Blades===
+Eliminate the seekers and walk down the stairs to either side of you. There is a pod on a ledge to your right. At the bottom, you will enter a hallway that has a fork to the right. Walking into either hallway will cause it to compress and summon a group of seekers. After you find that both hallways are a dead end, you can turn around and see that, where you had entered, there is a hallway that had not been there previously. Follow it to the next room.
+
+Climb the stairs and pick up the book ''[[Skyrim:On Apocrypha: Gnashing Blades|Gnashing Blades]]''. This will open a second path to the right, directly across from where you entered. Continue down the hallway as it extends outward and take a left turn at its end. In this next room, follow the path until you reach a scrye. Activate it and go back to the same hallway you came from&mdash;it has shifted and leads to a room with a small pool of poisonous water. From the pool will rise a [[Skyrim:Lurker|lurker]]. When the room is clear, activate the scrye to the left of the closed gate and go around a corner at the far end of the room (across from the previously mentioned closed gate). Here, activate the second scrye and examine the room next to it, which had been opened by the first scrye, for any valuables. You can find Chapter V through the gate opened by the second scrye.
+
+=== Chapter V: The Penultimate Chapter===
+The hallway will lead you to a large open room with a pillar in the middle emitting a green light. Defeat the seekers.
+
+Surrounding the central pillar are four pedestals with inscriptions. On the walls near the eye and tentacle pillars, there are three pods. Place the four books that were collected in the previous Chapters on the appropriate pedestal:
+* ''Boneless Limbs'' is placed on the 'tentacle' symbol (NE)
+* ''Delving Pincers'' is placed on the 'pincer' symbol (SE)
+* ''Prying Orbs'' is placed on the 'eye' symbol (NW)
+* ''Gnashing Blades'' is placed on the 'fangs' symbol (SW)
+
+Once all four books are placed correctly, the book located in front of the central pillar will glow. This will take you to Chapter VI.
+
+=== Chapter VI: Bending the Will of Sahrotaar, First and Last and Always===
+
+A copy of the [[Skyrim:Destruction|Destruction]] skill book ''[[Skyrim:The Art of War Magic|The Art of War Magic]]'' is located to the right of the entrance, while at the left, there is a pod with some valuable loot. The path will take you to a large open area surrounded by water. Kill the two seekers and approach the [[Skyrim:Word Wall|word wall]], which teaches a word for the [[Skyrim:Dragon Aspect|Dragon Aspect]] shout. [[Skyrim:Sahrotaar|Sahrotaar]], a [[Skyrim:Serpentine Dragon|serpentine dragon]], will attack you; however, you are tasked with taming it using Bend Will. Using the full shout on Sahrotaar (be sure to unlock all three words) will instantly tame him. He will land and offer to take you to Miraak. Mount Sahrotaar and fly to the large tower circled by dragons, but not before forcing you to fight enemies on another platform. After you kill the two Seekers and the Lurker, Sahrotaar will fly towards Miraak's Tower. As you reach the top, Miraak will chide Sahrotaar for being so easily swayed by your thu'um. Once you land, approach Miraak, who will explain that his time in Apocrypha is done, and that although you are powerful, you are still subject to Miraak's power. Miraak will then conclude that the final key for his escape is your soul, and with it he will be strong enough to return to Solstheim.
+
+[[File:SR-quest-At the Summit of Apocrypha 02.jpg|thumb|right|The death of Miraak]][[File:SR-quest-At the Summit of Apocrypha 03.jpg|thumb|left|Miraak absorbing a dragon soul]]
+The conversation will quickly end and the battle will commence. It is completely up to you as to how you would like to battle, either on the back of Sahrotaar or on foot. However, be careful of the other dragons trying to attack you. As Miraak's health is weakened, he will enter an invulnerable state and return to full health. Each time he regenerates, he will sacrifice a dragon: first [[Skyrim:Kruziikrel|Kruziikrel]], then [[Skyrim:Relonikiv|Relonikiv]]. The third regeneration will lead to Sahrotaar's demise, as Miraak absorbs his soul, too. With all three dragons eliminated, you can deal the final blows to Miraak. When his health is low enough, he will move to the center of the area in an attempt to escape. At this point, Hermaeus Mora will intervene, claiming that Miraak can hide nothing from him in his realm. The Daedric Prince then impales Miraak with a tentacle, and explains to Miraak that his death is insignificant, as he has found a new Dragonborn to 'serve' him. As Miraak dies, he wishes upon you the same fate he is about to suffer, and then disintegrates into nothing but bones as his soul departs from his body and is absorbed by you.
+
+For Miraak's death, you will be rewarded with at least six dragon souls (additional number of dragon souls is equal to the number of dragons you've killed in the plug-in, regardless of whether their souls are stolen by Miraak or not) and you may loot his body for his equipment, as well as the bodies of the dragons. Reading the Black Book ''Waking Dreams'' will allow you to gain access to your skill trees (see the notes section). Read the book once more to exit Apocrypha.
+
+Once exit, Approaching Frea will trigger several conversations automatically. If you didn't take ''[[Skyrim:Black Book: Epistolary Acumen (book)|Epistolary Acumen]]'' from [[Skyrim: Storn Crag-Strider|Storn Crag-Strider's]] body before entering Apocrypha, talk to Frea again and she will give it to you and says ''"Here is the foul book that killed Storn. Take it away from here. Throw it into the sea. It is evil"''.
+
+{{NewLeft}}
+
+===Achievements===
+One [[Skyrim:Achievements#Dragonborn|achievement]] is unlocked when you complete this quest:
+* {{Achievement|At the Summit of Apocrypha (achievement)|descr=no}}
+Reaching the end of ''Waking Dreams'' counts as one of the five black books for this achievement:
+* {{Achievement|Hidden Knowledge|descr=no}}
+If this is the first time you've fully traversed ''Waking Dreams'' you may earn the last word of the Dragon Aspect shout and thus this achievement:
+* {{Achievement|Dragon Aspect (achievement)|descr=no}}
+
+== Notes ==
+* If you fully traversed ''Waking Dreams'' before this quest, you will be returned to Chapter VI, where Sahrotaar will be waiting for you. You must then use Bend Will to tame him and continue the quest, as above.
+* At the end of the quest, you will have access to different portals (one for each skill) which allow you to clear and regain any perks in that skill tree, at the cost of one dragon soul. You remove all perks from a single skill perk tree and can use these reclaimed perks on unlocking any perks you wish, including perks taken from said perk tree. By reading the Black Book ''Waking Dreams'', you can return to Apocrypha and alter the skill trees whenever you wish.
+* Completing this quest also cleanses the [[Skyrim:Tree Stone|Tree Stone]], granting you access to its [[Skyrim:Root of Power|power]].
+* If you are defeated during this quest, before confronting Miraak, you will be transported back to where you initially read ''Waking Dreams''. You will return to the chapter you last accessed when re-entering Apocrypha.
+* If you defeated [[Skyrim:Alduin|Alduin]] and finished [[Skyrim:Dragonslayer|Dragonslayer]] before starting this quest, Miraak will be impressed and say ''"Felling Alduin was a mighty deed, and I thank you for it. He would have proved troublesome to me."''
+* If you return to [[Skyrim:Skaal Village|Skaal Village]] after completing this quest, [[Skyrim:Frea|Frea]] will inform you that the Oneness of the land has been restored, and that the [[Skyrim:Tree Stone|Tree Stone]] is now free. She will also warn you not to become involved further with Hermaeus Mora.
+* If you return to [[Skyrim:Tel Mithryn (tower)|Tel Mithryn]] after completing this quest, [[Skyrim:Neloth|Neloth]] will check that you have no indications of Hermaeus Mora's permanent influence. After satisfying himself that you don't, he will direct you to [[Skyrim:Lost Knowledge|find more Black Books]], if you have not found them all already.
+* In order to travel to Apocrypha by reading ''Waking Dreams'', you '''must''' be on [[Skyrim:Solstheim|Solstheim]]. If you try to read the Black Book in Skyrim mainland, nothing will happen and a message will pop up, saying: ''"A vision of Solstheim swims before your eyes and then is gone."'' The same situation also occurs with the other Black Books.
+* Unlike the other sections of Apocrypha accessed through Black Books, you can never return to the first five chapters of Waking Dreams after you defeat Miraak, so be sure to pick up any items you don't wish to leave behind before mounting Sahrotaar.
+** If you previously read Waking Dreams and advanced to Chapter 6 before starting this quest, you will proceed directly from there.
+* You cannot land on the area where you order Sahrotaar to attack the Lurkers during the dragon flying tutorial; you also cannot jump off from the summit of the tower after you defeat Miraak and swim to it, as no matter how much health you have - even if it is in the thousands - you will still die from a tentacle explosion half way there.
+* Even after the quest is finished, all Black Books will permanently remain as quest items with no way to remove them from your inventory.
+* If you attempt to search Miraak's skeleton while your character absorbs the dragon souls he stole, a "This person is busy." message will appear on the top left of the screen.
+* Miraak's equipment is [[Skyrim:Leveled_Items|leveled]], but these items' level is only determined after the corpse of [[Skyrim:Form ID|xx]]01fb99 appears.
+* Depending on luck, it may be extremely difficult to gather the last two dragon souls needed to complete the Bend Will shout due to Miraak stealing them. He will always appear at dragon lair dragons, named dragons, elemental dragons and legendary dragons. Dragons that are simply named "Dragon" will give you the best chance of absorbing it's soul. Make sure to always have a healthy stock of dragon souls at hand to avoid this. If you try to absorb the souls of the two dragons found in the Forgotten Vale frozen lake - Miraak will absorb both their souls.
+
+== Bugs ==
+{{Bug|After you teleport into Chapter VI, the platform on which you are supposed walk to the Word Wall and then fight and tame Sahrotaar does not appear, and attempting to walk forward results in swimming through nothingness for a moment and then falling a short distance to a normally-hidden stone floor below the normally-visible platforms of the level. Using the [[Skyrim:Console|console]] command <code>getstage dlc2mq06</code> reveals that the quest stage at this point is 220 (listed below as an empty stage) and the objective is ''"Reach Miraak's Temple."'' Using the console to set any stage beyond 220 does not resolve this issue because the trigger for Sahrotaar to appear is the player's learning of the Word of Power.|confirmed=1}}
+**{{Pc22}} Using the [[Skyrim:Console|console]] command <code>tcl</code> to turn collision off and then moving straight forward just above the black water will soon bring you to the Word Wall, which begins to pulse whitely to the accompaniment of the familiar Word Wall music as you approach. Aiming your movement toward the pulsing white letters of the Word Wall until you are close enough to learn the Word of Power will trigger Sahrotaar's appearance, and after using ''"Bend Will"'' on him, you can click on him for a ride straight to Miraak's temple without fighting anything along the way. Once you dismount at the temple, be sure to use the command <code>tcl</code> to turn collision back on before confronting Miraak. The quest should proceed normally from there.
+{{Bug|The combat taunts for Krosulhah, Miraak, and the 3 dragons in the final battle do not have their audio override settings set which makes their taunts almost inaudible.|UDBP|2.1.2}}
+{{Bug|[[Skyrim:World Interactions|Random encounters]] with [[Skyrim:Cultist|Cultists]] are supposed to terminate after you defeat Miraak, but don't.|UDBP|2.0.2}}
+{{Bug|Miraak's final battle scripts do not initialize themselves reliably based only on him changing combat states.|UDBP|2.0.2|This will now be forced in stage 400 of this quest to avoid errors that can result in the battle malfunctioning or causing unexpected instability.}}
+{{Bug|In the final battle with Miraak, at any point he may freeze in his invulnerable state. This issue sometimes occurs when you perform numerous attacks very rapidly or deal a very large amount of damage from a single attack. This issue can also occur if Sahrotaar attacks Miraak while he is in his ethereal state.|UDBP|2.0.7|trackerid=17290}}
+** One of the possible reasons for this bug is, that Miraak doesn´t get enough health from the dragon souls. To fix that (on PC):
+***{{Pc22}} Open the [[Skyrim:Console|console]], click on Miraak, and type <code>resurrect 1</code> or <code>ResetHealth</code>.
+**Reloading a save from before the battle begins should fix this, but doesn't always work.
+**If reloading doesn't help, try hiding behind a big column of books. If you are a long distance from Miraak and out of his line of sight, and then wait a couple of minutes, he may re-materialize and attack you.
+**If reloading doesn't seem to help: if you can manage to kill all the dragons before wounding Miraak, then once you deplete his health, the fight will go right to the scene with Hermaeus Mora. However, this doesn't always work out this way.
+**{{ps22}} Create a new save at the point when all dragons are dead and Miraak is intangible and ignoring you. Quit and restart the game. Load the file you just saved. There is a short pause. Then Miraak calls out ''"Kruziikrel! Relonikiv!  Now!"'' There is a second pause. Then Miraak says ''"Ah, now we can finish this!"'' There is a third pause and finally Miraak attacks you in solid form and you can defeat him to complete the quest. Do not move around or otherwise try to engage him during the pauses. Wait for him. Note, Miraak might only pause once or attack without hesitation. Note this solution does not always work.
+**One cause of this bug may be that any of the dragons are stuck in flight and will refuse to land, making it impossible for Miraak to absorb their souls. Using Dragonrend on any dragon in flight should fix this. 
+**{{ps22}} When Sahrotaar approaches the battle area, do not dismount, have Sahrotaar pick one of the other dragons to attack and. Your character should select lighting spells and also attack from dragon-back the other dragons. The lighting, in addition to being an instantaneous spell which doesn't require aiming in this context, will drain the other dragons of magic and force them to land. Keep damaging the other dragons until they are dead. Then finally land Sahrotaar and kill him, and then finally attack Miraak.
+**As a last resort, instead of attacking Miraak, mount Sahrotaar, then have him lock onto Miraak and attack him. Eventually Sahrotaar will land and attack Miraak on the ground. Each time Sahrotaar is about to finish its attack, command it to attack Miraak again, which will prevent it from taking flight. Eventually, Miraak will kill Sahrotaar, absorbing its soul and throwing you to the ground. Immediately use the Bend Will shout and mount the second and third dragons, then repeat the above steps until all three dragons have been killed. Miraak should be engaged in combat again.
+{{Bug|After Miraak is defeated his corpse may fall through the floor preventing his items from being looted.|confirmed=1}}
+**{{Pc22}} Using the [[Skyrim:Console|console]] command <code>player.moveto [[Skyrim:Form ID|xx]]01fb99</code> will bring you to the place that Miraak fell to. It is right below the place you fight him, on standable ground. You can also use the command <code>tcl</code> to turn off collision to clip through the floor, loot his corpse, then move back up to the surface. Use <code>tcl</code> again to turn collision back on.
+{{Bug|Sometimes Miraak will not absorb dragon souls, leaving him unable to heal himself and thus permanently ethereal during the fight as you steal all of his dragon souls.|confirmed=1}}
+**This may be due to mods (or load order) that affect dragon soul absorption.  See [[Skyrim talk:At the Summit of Apocrypha|discussion tab]].
+**This may be due to not killing any dragons after starting the quest line as it never triggers him to steal dragon souls from you (which is possible if you have a few dragon souls saved up to use along the way).
+{{Bug|When Sahrotaar lands near Miraak before the battle and you dismount, you may glow yellow and lose all your health.|confirmed=1}}
+**Exiting and restarting the game may fix this.
+{{Bug|If you prematurely pass through every chapter of the Black Book: Waking Dreams before [[Skyrim:Frea|Frea]] tells you to avenge her father, visiting Apocrypha may not prompt Miraak or the dragons to attack. At this point the quest is broken beyond any real hope of recovery. You can use the console to force the appearance of Sahrotaar, but upon defeating Miraak, he will stay permanently impaled on Mora's tentacle. You can force the end of the quest, but Mora will never speak and the Black Book will never appear.|confirmed=1}}
+{{Bug|Sometimes Seekers may spawn already dead in Chapter 2.|confirmed=1}}
+**This may be due to the Seekers falling from the walkways on the upper levels, and sustaining fatal fall damage.
+{{Bug|Sahrotaar may not appear on the platform, before you are meant to use the Bend Will shout on him.|vn=1}}
+**Ensure all three words of the dragon shout for Bend Will are obtained and unlocked.
+**The quest may not have been entered into the journal, despite completing the prior quest.  Use the console command <code>setstage dlc2mq06 200</code> then walk around the locked gate to trigger the next objective and he should arrive.
+{{Bug|If you become fully hidden in sneak mode, Miraak will come out of his ethereal state and will continue the fight.|confirmed=1}}
+{{Bug|When Miraak rises from the central pool of water impaled on a tentacle, his body may appear next to the tentacle rather than impaled on it. This does not affect the progression of the quest, however.|confirmed=1}}
+{{Bug|Upon exiting the ethereal state you may be able to continue fighting Miraak, however should he re-enter his ethereal state a loop can occur where Miraak attempts to take the soul of one of his dragons. He may also become "fixated" on trying to absorb the soul of only one of his two dragons, consistently calling for one of the dragons even if both have already been sacrificed.|confirmed=1}}
+{{Bug|After defeating Miraak, when the skill symbols are shown, heavy armor may not appear.|vn=1}}
+**Reloading a save may fix this. 
+{{Bug|At the end of quest when you beat Miraak, he may not be impaled by Hermaeus Mora.|confirmed=1}}
+**{{Pc22}} One possible solution is to use the <code>disable</code> and <code>enable</code> console commands on Miraak. He will then be impaled.
+**{{Pc22}} Using the fire breath shout on the central slime pool may fix this.
+**{{Pc22}} Use these commands to end the quest: <code>setstage dlc2mq06 550</code> followed by <code>setstage dlc2mq06 580</code>. The 580 stage of the quest is what raises the new altar from the pool of liquid. The raising of the altar will sometimes bring up Miraak's body if he is stuck under the liquid. This is also the stage that causes the glowing skills icons to appear.
+***This or the following setstage fix may cause the combat music to become stuck, looping forever. In this case, entering the command <code>removemusic DLC2MUSCombatBoss</code> should solve the problem.
+{{Bug|The Black Book: Waking Dreams may not teleport you to Apocrypha, preventing you from completing the quest.|confirmed=1}}
+**Using the console to spawn a new book, and reading the new one should fix this.
+{{Bug|After you have returned to Solstheim the sky may appear as if you are still in Apocrypha.|confirmed=1}}
+** Fast traveling should fix this problem, although shadows may still be affected.
+{{Bug|After you finish the quest,  the game may not increase the "Questlines Complete" stat.|UDBP|2.1.2}}
+{{Bug|The two [[Skyrim:Cultists|Cultists]] outside the Temple may never despawn even after the quest is finished. They may also respawn and attack you again.|USSEP|4.3.8}}
+{{Bug|{{Xbox22}} If the seekers and lurker were not defeated Kruziikrel may fail to spawn. This will lead to Miraak remaining invulnerable permanently while he tries to sacrifice Kruziikrel. Loading an earlier save and defeating the seekers and lurker will fix this.|vn=1}}
+{{Bug|Kruziikrel may fail to spawn, leading to Miraak being stuck permanaently while tries to sacrifice the dragon. Loading from an earlier save and deafeating the seakers and lurker does not seem to work.}}
+{{Bug|Bend Will may not work on Sahrotaar.|confirmed=1}}
+{{Bug|Even after solving the book puzzle in Chapter V, you may be unable to progress, as the book leading to Chapter VI is missing.|confirmed=1}}
+**{{Pc22}} If this happens, you may use the console command <code>coc DLC2Book01DungeonEnd01</code> to warp to the beginning of Chapter VI.
+{{Bug|Sahrotaar may become invulnerable and you may be unable to kill him.}}
+**This is fixed when Miraak becomes low on health and absorbs Sahrotaar's soul.
+{{Bug|If you got any problem with quest ending as written above, Frea and other Skaals could act as you hasn't completed the quest: Frea doesn't move, Skaals don't give quests.}}
+**{{Pc22}} Using the [[Skyrim:Console|console]] command <code>setstage DLC2MQ05 1100</code> would fix the problem.
+
+== Quest Stages ==
+{{Journal Entries
+|10||Hermaeus Mora taught me the final Word of Power of the "Bend Will" Shout, killing Storn in the process. I now have what I need to return to Apocrypha and face Miraak.
+{{Quest Objective|10|Unlock your "Bend Will" Shout}}
+|100||{{Quest Objective|20|Read "Waking Dreams"}}
+|200||Hermaeus Mora taught me the final Word of Power of the "Bend Will" Shout, killing Storn in the process. With this Shout, I can tame Miraak's dragon and force him to fly me to Miraak's temple in Apocrypha.
+{{Quest Objective|25|Reach Miraak's Temple}}
+|250||{{Quest Objective|30|Use the "Bend Will" Shout to tame Sahrotaar}}
+|300||{{Quest Objective|40|Defeat Miraak}}
+|400||Hermaeus Mora taught me the final Word of Power of the "Bend Will" Shout, killing Storn in the process. I used the Shout to tame Miraak's dragon and flew to his temple, where he was waiting for me.
+|550|fin|Hermaeus Mora taught me the final Word of Power of the "Bend Will" Shout, killing Storn in the process. I used the Shout to tame Miraak's dragon and flew to his temple, where I fought and killed him. Miraak will never threaten Solstheim again.
+|missing=0, 220, 240, 330, 335, 340, 350, 420, 440, 460, 500, 520, 580, 590, 600, 1000
+}}
+{{Skyrim Quest Stages Notes}}
+
+{{Quest Footer|Prev=[[Skyrim:The Gardener of Men|The Gardener of Men]]|Up=[[Skyrim:Dragonborn Quests#Main Quest|Main Quest]]}}

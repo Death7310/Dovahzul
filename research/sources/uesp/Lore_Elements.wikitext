@@ -1,0 +1,69 @@
+<noinclude>{{Trail|Appendices}}{{TOCright}}</noinclude>
+The [[Lore:elements|elements]] are the basic constituents of [[Lore:Nirn|Nirn]]. The ancient [[Lore:Ayleid|Ayleid]]s believed in the four elements of [[Lore:Altmer|High Elf]] religion: Earth, Water, Air, and Light.{{ref|name=MftS|{{Cite Book|Magic from the Sky}}}}{{ref|name=GaL|{{Cite book|Glories and Laments}}}}{{ref|name=Lightwell|{{Item Link|Ayleid Lightwell|itemid=165875|quality=4}}}} The element of Fire was not recognized by their culture, although modern [[Lore:Magic|mages]] consider Fire to be one of the five elements of creation.{{ref|name=TOTSN|{{Cite Book|Thoughts on the Sacred Numbers}}}}{{ref|name=SIRelmyna|[[Shivering:Relmyna Verenim|Relmyna Verenim]]'s dialogue in ''[[Oblivion:Oblivion|Oblivion]]: [[Shivering:Shivering Isles|Shivering Isles]]''}}{{ref|{{Cite Book|Application of Flame}}}} Practitioners of [[Lore:Flesh Magic|Flesh Magic]] believe that Flesh is the sixth element.{{ref|name=SIRelmyna}} According to modern natural philosophy, there remains only four elements: Earth, Water, Air, and Fire.{{ref|name=GaL}}<noinclude>
+
+==Air==
+[[File:ON-trap-Tornado.jpg|thumb|left|A small tornado]]
+'''Air''' (known as '''Su''' in the [[Lore:Dragon Language|Dragon language]]{{Ref|name=SRElemental|[[Skyrim:Elemental Fury|Elemental Fury]] in ''[[Skyrim:Skyrim|Skyrim]]''}} and '''Wel''' in [[Lore:Ayleidoon|Ayleidoon]]){{ref|name=JJ|{{Cite book|Janus' Journal}}}} is one of the basic elements of creation. [[Lore:Air Atronach|Air Atronach]]s are a type of [[Lore:Elemental Daedra|Elemental Daedra]] formed from pure air. They are believed to possess the combined powers of [[Lore:Flame Atronach|Flame Atronach]]s, [[Lore:Frost Atronach|Frost Atronach]]s, and [[Lore:Storm Atronach|Storm Atronach]]s.{{ref|[[ON:Nomeg Ozal|Nomeg Ozal]]'s dialogue in [[ESO:Online|ESO]]}}
+
+The wind is a recurring and fundamental aspect of Nordic tradition and culture. It goes as far back as one of their ancient origin stories when the sky breathed down on the land, and from there, created the [[Lore:Nords|Nords]]. Hence why both [[Lore:Skyrim|Skyrim]] and its [[Lore:Throat of the World|largest mountain]] near its center are called the "Throat of the World".{{Ref|name=COTS|{{Cite Book|Children of the Sky}}}}{{Ref|name=PGE1SR|{{Cite Book|PGE|1|Skyrim}}}} As Nords live closer to the northern wastes, the more powerful and elemental they become. It is said that Nords that live in the far wastes always carry a wind with them.{{Ref|name=COTS}} The winds are also seen as [[Lore:Kyne|Kyne]]'s method of expressing her "celestial mourning" of the death of her lover, [[Lore:Shor|Shor]] and something that mortals benefit from.{{Ref|name=WAS|{{Cite Book|Wind and Sand}}}}
+
+Similarly, the winds that blow through the [[Lore:Alik'r Desert|Alik'r Desert]] help spread and guide the magical essence embedded in each grain of sand. For an Alik'ri wizard, the next stage of magical awakening would be scrying the appropriate wind channels and carving novel paths to further diversify the land's memory.{{Ref|name=WAS}} Wind spirits supposedly used to live deep in the Alik'r Desert and terrorize people in the coastal settlements.{{Ref|name=PGE3HF|{{Cite Book|PGE|3|Hammerfell}}}}
+
+The [[Lore:Beldama Wyrd|Beldama Wyrd]] worship a trapped [[Lore:Ehlnofey|Ehlnofey]] known as the [[Lore:Guardian of the Air|Guardian of the Air]], an ancient being that represents the element in its true form.{{ref|[[ON:Guardian of the Air|Guardian of the Air]] in [[ESO:Online|ESO]]}} In [[Lore:Tsaesci (race)|Tsaesci]] culture, [[Lore:Ilni|Ilni]] represents the Air element.{{ref|name=TotE|{{Cite Book|Tale of the Elements}}}} [[Lore:Unala-Se|Unala-Se]] is a [[Lore:Magna Ge|Magna Ge]] associated with Air.{{ref|name=TNC1|{{Cite Book|The Nine Coruscations, Volume I}}}}
+{{NewLeft}}
+
+==Earth==
+[[File:ON-npc-Guardian of the Earth.jpg|thumb|left|An Earth Ehlnofey]]
+'''Earth''' (known as '''Gol''' in the Dragon language{{Ref|name=SRBend|[[Skyrim:Bend Will|Bend Will]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} and '''Sercen''' in Ayleidoon){{ref|name=JJ}} is one of the basic elements of creation. 
+
+In Tsaesci culture, [[Lore:Nyfa|Nyfa]] represents the Earth element.{{ref|name=TotE}} [[Lore:Londa-Vera|Londa-Vera]] is a Magna Ge associated with Earth.{{ref|name=TNC1}} The [[Lore:Beldama Wyrd|Beldama Wyrd]] worship a trapped [[Lore:Ehlnofey|Ehlnofey]] known as the [[Lore:Guardian of the Earth|Guardian of the Earth]], an ancient being that represents the element in its true form.{{ref|[[ON:Guardian of the Earth|Guardian of the Earth]] in [[ESO:Online|ESO]]}}
+{{NewLeft}}
+
+==Fire==
+[[File:LG-cardart-Burning Touch.png|thumb|left|Fire Magic]]
+'''Fire''' (known as '''Yol''' in the Dragon language{{Ref|name=SRFire|[[Skyrim:Fire Breath|Fire Breath]] in ''[[Skyrim:Skyrim|Skyrim]]''}} and '''Molag''' in Ayleidoon){{ref|name=ART|{{Cite Book|Ayleid Reference Text}}}} is the fifth element of creation. It was not recognized by the ancient Ayleids, who preferred to associate it with the element of Light.{{ref|name=MftS}} Practitioners of the School of [[Lore:Destruction|Destruction]] utilize elemental fire magic to create offensive spells.{{ref|[[Morrowind:Destruction|Destruction]] magic in ''[[Morrowind:Morrowind|Morrowind]]''}} Certain fires have been known to possess magical connections to [[Lore:Aetherius|Aetherius]], such as the [[Lore:Dragonfires|Dragonfires]],{{ref|{{Cite Book|Trials of St. Alessia}}}} the Direfrost Flame,{{ref|{{Cite Book|The Direfrost Flame}}}} and the Flame of the Harbinger.{{ref|Events of [[SR:Glory of the Dead|Glory of the Dead]] in ''[[SR:Skyrim|Skyrim]]''}} There is a mythical figure in Nordic legend known as Thorgrima, the Keeper of Crimson Fire and the Lord of Magicka.{{Ref|name=SRWW|[[Skyrim:Drain Vitality#Word Walls|Drain Vitality]] second word wall in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+[[Lore:Fire Spirit|Fire spirit]]s supposedly used to live deep in the Alik'r Desert and terrorize people in the coastal settlements.{{Ref|name=PGE3HF}} The [[Lore:Sentinel|Sentinel]] poet [[Lore:Weltan|Weltan]] compared the mysterious red mist of the Alik'r to a sacred flame that rises above the fire. In this case, the fire referred to the hot sand that covers the region. Weltan's writer friend, [[Lore:Enric Milres|Enric Milres]], explained this further by saying that the fiery sand's power comes from "the beat of the heart of Tamriel itself".{{Ref|name=TA|{{Cite Book|The Alik'r}}}}
+
+In Tsaesci culture, [[Lore:Myn|Myn]] represents the Fire element.{{ref|name=TotE}} In certain island cultures, [[Lore:Arius|Arius]] is known as the God of Fire.{{ref|name=Arena|[[Arena:Arena|''Arena'']]'s [[Arena:Character Creation#Generate Class|Generate Class]] option in the character creation menu}} [[Lore:Valia-Sha|Valia-Sha]] is a Magna Ge associated with Fire.{{ref|name=TNC1|{{Cite Book|The Nine Coruscations, Volume I}}}} The Pandrum Clan of [[Lore:Orcs|Orcs]] (also known as the Fire Clan) supposedly wielded fire as both a [[Lore:Weapons|weapon]] and as a tool for a variety of uses. They are rumored to consist of primitive shamans and healers. They disappeared into obscurity during the second siege of [[Lore:Orsinium|Orsinium]].{{Ref|name=OCAS|{{Cite Book|Orc Clans and Symbology}}}}
+{{NewLeft}}
+
+==Flesh==
+[[File:SI-quest-Rebuilding the Gatekeeper 06.jpg|thumb|left|A Flesh Magic ritual]]
+{|
+|
+:''For more information, see the article on [[Lore:Flesh Magic|Flesh Magic]].''
+|}
+Unlike the other five elements, the sixth element of '''Flesh''' (known as '''Slen''' in the Dragon language){{Ref|name=SRForm|[[Skyrim:Ice Form|Ice Form]] in ''[[Skyrim:Skyrim|Skyrim]]''}} is said to have been "hidden" at creation by virtue of its own self-awareness. It remains largely unknown and esoteric among modern societies. The element is formed by binding the Essence of Flesh with the Quintessence of Flesh. The Essence is formed from an amalgamation of Meat, Blood, Bone, and Breath—the essential components of true Flesh. Through many years of intensive labor, these four essential components can be isolated and grown into their mystical forms: Osseous Marrow, Dermis Membrane, Essence of Breath, and Blood Liqueur. The Quintessence of Flesh is the immortal [[Lore:Soul|Soul]], usually represented in Flesh Magic rituals in the form of a bound [[Lore:Daedra|Daedric]] [[Lore:Vestige (soul)|vestige]].{{ref|name=SIRelmyna}}
+
+[[Lore:Xero-Lyg|Xero-Lyg]] is a Magna Ge associated with Flesh.{{ref|name=TNC2|{{Cite Book|The Nine Coruscations, Volume II}}}}
+{{NewLeft}}
+
+==Light==
+[[File:ON-place-Ayleid Well.jpg|thumb|left|An Ayleid Well containing starlight]]
+{|
+|
+:''For more information, see the article on [[Lore:Varliance|Varliance]].''
+|}
+'''Light''' or '''Aether'''{{Ref|name=TOTSN}} (known as '''Jun''' in the Dragon language{{Ref|name=SRPaarthurnax|[[Skyrim:Paarthurnax|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} and '''Latta''' or '''Alata''' in Ayleidoon){{ref|name=ART}}{{ref|name=JJ}} is one of the basic elements of creation. It was the most exalted of the four elements recognized by the Ayleids who believed that light was one of the four major elements, with fire being a weaker corruption thereof. They believed the most sublime form of light was starlight due to it emanating from the plane of [[Lore:Aetherius|Aetherius]], the source of all [[Lore:Magic|magic]]al power. The belief that starlight is the most potent of all magical powers led the Ayleids to utilize [[Lore:Aetherial Fragments|Aetherial fragments]] in their magical practice. This resulted in the creation of [[Lore:Welkynd Stone|Welkynd Stone]]s, [[Lore:Varla Stone|Varla Stone]]s, and [[Lore:Ayleid Wells|Ayleid Wells]], among other such artifacts associated with starlight.{{ref|name=MftS}}
+
+Moonlight is venerated by the [[Lore:Khajiit|Khajiit]] of [[Lore:Elsweyr|Elsweyr]]. The temple of [[Lore:Moonmont|Moonmont]] in southern [[Lore:Reaper's March|Reaper's March]] is considered the heart of lunar light.{{Ref|name=ONRidThar|[[Online:Rid-Thar-ri'Datta#Motes in the Moonlight|Rid-Thar-ri'Datta]]'s dialogue in [[Online:Online|ESO]]}} All of the moonlight that shimmers on the [[Lore:Topal Bay|Topal Bay]] gathers in [[Lore:Moonlit Cove|Moonlit Cove]], on the southern coast of the [[Lore:Quin'rawl Peninsula|Quin'rawl Peninsula]]. Here the infused moonlight glows in the temple's natural caves and gives people a place to meditate in peace.{{Ref|name=SWOTSS|{{Cite Book|Sacred Waters of the Shining Sea}}}}
+{{NewLeft}}
+
+==Water==
+[[File:ON-interior-Lakemire Xanmeer Manor.jpg|thumb|left|Water Magic]]
+'''Water''' (known as '''Laar''' in the Dragon language{{Ref|name=TIL|[https://www.imperial-library.info/content/lang-dragon Official Bethesda Dragon dictionary] from Imperial Library}} and '''Nen''' in Ayleidoon){{ref|name=JJ}} is one of the basic elements of creation. On [[Lore:Tamriel|Tamriel]], water is composed of memory. When a mortal dies, their memories become water, and in this way all the memories of Tamriel's histories are stored within its waters. This fact is considered to be one of the most dangerous secrets about the natural order of the world, and is therefore closely guarded by the Demon of Knowledge [[Lore:Hermaeus Mora|Hermaeus Mora]].{{ref|[[ON:Herald Kixathi|Herald Kixathi]]'s dialogue in [[ESO:Online|ESO]]}} Many cultures utilize some form of [[Lore:Water Magic|Water Magic]] to manipulate this element.{{ref|[[ON:Lakemire Xanmeer Manor|Lakemire Xanmeer Manor]] in [[ESO:Online|ESO]]}}
+
+Water is held in some reverence by the [[Lore:Khajiit|Khajiit]] of [[Lore:Elsweyr|Elsweyr]], who use oaths like "by the Blessed Water" or "by the Water of Life".{{Ref|name=ARKhajiit|[[Arena:Races#Khajiit|Khajiit]] exclamations in ''[[Arena:Arena|Arena]]''}} In Tsaesci culture, [[Lore:Zisa|Zisa]] represents the Water element.{{ref|name=TotE}} [[Lore:Sheza-Rana|Sheza-Rana]] is a Magna Ge associated with Water.{{ref|name=TNC1|{{Cite Book|The Nine Coruscations, Volume I}}}} The [[Lore:Beldama Wyrd|Beldama Wyrd]] worship a trapped [[Lore:Ehlnofey|Ehlnofey]] known as the [[Lore:Guardian of the Water|Guardian of the Water]], an ancient being that represents the element in its true form.{{ref|[[ON:Guardian of the Water|Guardian of the Water]] in [[ESO:Online|ESO]]}} [[Lore:Tide-Born Tribe|Tide-Born]] [[Lore:Argonian|Argonians]] revere all forms of flowing water and refer to it as [[Lore:The Tide|the Tide]].{{Ref|name=VOFS|{{Cite Book|Varieties of Faith: Solstice}}}}
+{{NewLine}}
+
+==Notes==
+*Although referred to as elemental spells by the School of Destruction, ice, [[Lore:Shock|lightning]], [[Lore:Disease|disease]], poison, and [[Lore:Oblivion|Oblivion]] are not considered to be basic elements.
+**Similarly, [[Lore:Iron|iron]], shadow, [[Lore:The Stone|stone]], and cold-flame are referred to as elements in the context of Elemental Daedra.
+
+==See Also==
+{{Bullet Link|Elemental Daedra|Atronachs that embody certain elements}}
+
+==References==
+<references/>
+{{Lore Appendices}}</noinclude>

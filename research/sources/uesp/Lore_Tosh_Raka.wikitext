@@ -1,0 +1,18 @@
+<noinclude>{{Lore People Summary
+|race=[[Lore:Ka Po' Tun (race)|Ka Po' Tun]]/[[Lore:Dragon|Dragon]]
+|racecat=Dragon
+|gender=Male
+|title=Emperor
+|loc=Ka Po' Tun (place)}}</noinclude>
+[[Lore:Tosh Raka|Tosh Raka]] is the emperor of [[Lore:Ka Po' Tun (place)|Ka Po' Tun]] (or the "Tiger-Dragon Empire"). Through unknown methods, he purportedly transformed himself into a [[Lore:Dragon|Dragon]].{{Ref|name=MA}} This transformative process is also said to have turned him into a god,{{Ref|name=MA}}{{ref|group=UOL|name=DGFP|[[General:Douglas Goodall's Posts|Douglas Goodall's Posts]]}} with one source going as far as to state he could be an Akaviri avatar of [[Lore:Akatosh|Akatosh]] and possibly holds a grudge against his "mirror brother".{{ref|name=MK|group=UOL|[[General:Michael Kirkbride's Posts|Michael Kirkbride's Posts]]}} He is allegedly the largest Dragon in the world,{{Ref|name=MA}} and may resemble a hundred foot tall [[Lore:Tiger|tiger]] with [[Lore:Bat|bat]]-like wings.{{ref|name=TPWormgod|group=UOL|[[General:Ted Peterson|Ted Peterson]]'s posts in [[General:Loranna's RP/War of the Wormgod|''War of the Wormgod'']]}} 
+
+Since at least the [[Lore:Second Era|Second Era]], it has been known Tosh Raka plans to conquer [[Lore:Akavir|Akavir]]. If he is successful, he plans to set his sights on [[Lore:Tamriel|Tamriel]].{{Ref|name=MA|{{Cite Book|Mysterious Akavir}}}} Much of what is recorded in the book [[Lore:Mysterious Akavir|''Mysterious Akavir'']] supposedly came from the scrolls and works of Tosh Raka.{{ref|name=AN|group=UOL|[[General:Alan Nanes' Posts|Alan Nanes' Posts]]}}<noinclude>
+
+==Notes==
+* His name is similar to [[Lore:Akatosh|Akatosh]], the Dragon God of Time. It is suggested to be a wordplay on the terms "Aka" and "Tosh", both meaning Dragon,{{Ref|name=MA}}{{ref|name=MK|group=UOL}} but depending on usage or placement, "Tosh" can alternatively mean "Tiger" or "Time",{{ref|name=APAYQ|{{Cite Book|Artorius Ponticus Answers Your Questions}}}} a link to how dragons are synonymous with time.{{ref|name=MK|group=UOL}}
+* [[Lore:Toshrakhat|Toshrakhat]] was the dragon tongue name given to [[Lore:Ja'darri|Ja'darri]] by [[Lore:Nahfahlaar|Nahfahlaar]].{{ref|name=ESONahfahlaar|[[Online:Nahfahlaar|Nahfahlaar]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} It is unknown if the similarity to Tosh Raka is intended to be related.
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/></noinclude>

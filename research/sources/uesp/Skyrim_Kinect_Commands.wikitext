@@ -1,0 +1,238 @@
+{{Trail|Xbox}}[[File:SR-icon-KinectShout.png|thumb|right|Shout icon]]
+
+'''Kinect Commands''' are voice commands only available for [[Skyrim:Xbox|Xbox 360]] users. Kinect Commands were released on May 1, 2012, for players playing the game in English. They are not available on the [[Skyrim:Special Edition|Special Edition]] for Xbox One or Xbox Series X|S.
+{{NewLine}}
+==Voice Commands==
+{| class="wikitable"
+|-
+! colspan=2| Main Gameplay
+|-
+|colspan=2| 
+*Only usable during main gameplay
+|-
+|<tt>QUICK ITEMS</TT> || Opens Inventory Menu
+|-
+|<tt>QUICK MAGIC</TT> || Opens Magic Menu
+|-
+|<tt>QUICK SKILLS</TT> || Opens Skills Menu
+|-
+|<tt>QUICK MAP</TT> || Opens Map Menu
+|-
+|<tt>QUICK SAVE</TT> || Quick-saves
+|-
+|<tt>QUICK LOAD</TT> || Quick-loads
+|-
+|<tt>NEW SAVE</TT> || Saves into a new Save Slot
+|-
+|<tt>PAUSE GAME</TT> || Pauses the game
+|-
+! colspan=2| Dragon Shouts
+|-
+| colspan=2|''See [[Skyrim:Dragon Shouts|''Dragon Shouts'']] for a list of both English and Dragon Language commands''.
+
+When Kinect is enabled, hold [[File:UESP-icon-Xbox RB.png|22px|RB]] and say any of the commands listed on the Dragon Shout page in order to activate it. To activate the shouts or powers without using Kinect, press [[File:UESP-icon-Xbox LB.png|22px|LB]]+[[File:UESP-icon-Xbox RB.png|22px|RB]]. While Kinect is disabled, use [[File:UESP-icon-Xbox RB.png|22px|RB]] in order to activate the shouts as normal.
+
+*In order to activate the shouts, they must be unlocked at the level you are trying to use.
+*Shouts can be said in English or Dragon Language.
+*English shouts can be used without holding [[File:UESP-icon-Xbox RB.png|22px|RB]], while Dragon Language shouts require that [[File:UESP-icon-Xbox RB.png|22px|RB]] be held (If you're having trouble casting the shouts, try to say them in a fluent pace at a fast speed).
+|-
+! colspan=2| Favorites Menu and Hotkeying Equipment
+|-
+| COLSPAN=2|
+*Only usable in the Favorites menu.
+<tt>ASSIGN <hotkey command></tt> sets the selected item to the spoken hotkey. <tt><hotkey command></tt> can be any of the following:
+{| class=hiddentable width=100%
+|-
+|<tt>
+*HEALTH POTION
+*MAGICKA POTION
+*STAMINA POTION
+*POISON
+*SWORD
+*MACE
+*AXE
+|<tt>
+*DAGGER
+*BOW
+*CROSSBOW
+*SHIELD
+*DUAL WIELD LEFT
+*DUAL WIELD RIGHT
+*SOUL TRAP
+*GREATSWORD
+|<tt>
+*BATTLEAXE
+*WARHAMMER
+*FIRE SPELL
+*FROST SPELL
+*LIGHTNING SPELL
+*WARD SPELL
+*RITUAL SPELL
+|<tt>
+*BOUND WEAPON
+*SUMMON SPELL
+*ARMOR SPELL
+*CALM SPELL
+*FRENZY SPELL
+*HEALING SPELL
+*LIGHT
+|}
+|-
+| colspan=2|
+*The following are only usable during main gameplay.
+|-
+|<tt>EQUIP <hotkey command></tt> || Equips item in the default hand
+|-
+|<tt>EQUIP LEFT <hotkey command></tt> || Equips item in the Left hand, if possible.
+|-
+|<tt>EQUIP&nbsp;RIGHT&nbsp;<hotkey&nbsp;command></tt> || Equips item in the Right hand, if possible.
+|-
+|<tt>EQUIP DUAL <hotkey command></tt> || Equips item in both hands, if possible.
+|-
+|<tt>EQUIP SWORD AND SHIELD<br>EQUIP MACE AND SHIELD<br>EQUIP AXE AND SHIELD<br>EQUIP&nbsp;DAGGER&nbsp;AND&nbsp;SHIELD</tt>
+|Equips the item assigned to the Sword / Mace / Axe / Dagger hotkey in the right hand, and the item assigned to the Shield hotkey in the left hand.
+|-
+|<tt>EQUIP DUAL WEAPONS</tt> || Equips the item assigned to the DualWieldLeft hotkey in the left hand, and the item assigned to the DualWieldRight hotkey in the right hand.
+|-
+! colspan=2| [[Skyrim:Followers|Follower]] Commands
+|-
+| colspan=2| 
+*Before all of the following, you must say <tt>ALLY</tt>.
+|-
+|<tt>FOLLOW</tt> or <tt>FOLLOW ME || Ally follows you
+|-
+|<tt>WAIT</tt> or <tt>WAIT HERE</tt> || Ally stays where they are
+|-
+|<tt>TRADE</tt> or <tt>ITEMS</tt> || Opens the Teammate Menu
+|-
+|<tt>OPEN</tt> || Ally opens the container/door you're looking at
+|-
+|<tt>STAND</tt> || Ally stands at the spot you're looking at
+|-
+|<tt>RETRIEVE</tt> || Ally picks up the item you're looking at
+|-
+|<tt>ATTACK</tt> || Ally attacks the NPC you're looking at
+|-
+|<tt>INTERACT</tt> or <tt>USE</tt> || Does a generic Interact command with the ally. Same as if you entered Command mode and pressed [[File:UESP-icon-Xbox A.png|22px|A]]. What the ally does is dependent on what you're looking at.
+|-
+! colspan=2| Items Menu
+|-
+| colspan=2| After opening ITEMS, the following commands open the corresponding categories:
+{| class=hiddentable width=100%
+|-
+|<tt>
+*FAVORITES
+*ALL
+*WEAPONS
+*APPAREL / ARMOR
+|<tt>
+*POTIONS
+*SCROLLS
+*FOOD
+*INGREDIENTS
+|<tt>
+*BOOKS
+*KEYS
+*MISCELLANEOUS
+|}
+|-
+| colspan=2| After opening any of the above sub-menu categories, you can use the following to sort your items.
+|-
+|<tt>SORT BY NAME</tt> || Sorts the item list by name, increasing. If the list is already sorted by name increasingly, sorts it decreasingly.
+|-
+|<tt>SORT BY WEIGHT</tt> || Sorts the item list by weight, decreasing. If the list is already sorted by weight decreasingly, sorts it increasingly.
+|-
+|<tt>SORT BY VALUE</tt> || Sorts the item list by value, decreasing. If the list is already sorted by value decreasingly, sorts it increasingly.
+|-
+|<tt>CLOSE MENU</tt> || Closes the menu
+|-
+! colspan=2| Barter Menu & Container Menu
+|-
+| colspan=2|
+*Only usable in the Barter Menu and Container Menu
+
+<tt>THEIR <category></tt> where <tt><category></tt> can be any of the vendor categories:
+
+<tt>MY <category></tt> where <tt><category></tt> can be any of the player categories:
+
+{| class=hiddentable width=100%
+|-
+|<tt>
+*ITEMS
+*WEAPONS
+*APPAREL / ARMOR
+*POTIONS
+|<tt>
+*SCROLLS
+*FOOD
+*INGREDIENTS
+|<tt>
+*BOOKS
+*KEYS
+*MISCELLANEOUS
+|}
+
+After opening any of the above sub-menu categories, you can use the aforementioned <tt>SORT BY</tt> commands to sort your items.
+|-
+! colspan=2| Container Menu Only
+|-
+|<tt> SET LOOT LIMIT <value></tt> || Sets the value that the <tt>LOOT ITEMS</tt> voice command should use. (Value = 0, 5, 10, 25, 50, 100)
+|-
+|<tt>LOOT ITEMS</tt> || Takes all items from a container whose value-to-weight ratio is greater than or equal to the loot limit. For example, if the loot limit is 100, an object with a weight of .1 and value of 100, would have a value to weight ratio of 1000, so it would qualify. If the loot limit is 0, only weightless items with value are taken, i.e. gold.
+|-
+! colspan=2| Magic Menu
+|-
+|colspan=2|
+*After opening <tt>MAGIC</tt>, the following opens the menu to the corresponding category:
+{| class=hiddentable width=100%
+|-
+|<tt>FAVORITES<br>ALL
+|<tt>[[Skyrim:Alteration|ALTERATION]]<br>[[Skyrim:Illusion|ILLUSION]]<br>[[Skyrim:Destruction|DESTRUCTION]]
+|<tt>[[Skyrim:Conjuration|CONJURATION]]<br>[[Skyrim:Restoration|RESTORATION]]<br>[[Skyrim:Dragon Shouts|SHOUTS]]
+|<tt>[[Skyrim:Powers|POWERS]]<br>ACTIVE EFFECTS / EFFECTS
+|}
+|-
+! colspan=2| Character Menu
+|-
+| colspan=2|
+*After opening <tt>CHARACTER</tt>, the following opens the menu to the corresponding category: <tt>ITEMS, MAGIC, SKILLS, MAP
+|-
+! colspan=2| Map Menu
+|-
+|colspan=2|
+*After opening <tt>MAP</tt>, the following centers the camera on the corresponding locations:
+{| class=hiddentable width=100%
+|-
+|<tt>[[Skyrim:Windhelm|WINDHELM]]<br>[[Skyrim:Falkreath|FALKREATH]]<br>[[Skyrim:Dawnstar|DAWNSTAR]]
+|<tt>[[Skyrim:Morthal|MORTHAL]]<br>[[Skyrim:Solitude|SOLITUDE]]<br>[[Skyrim:Markarth|MARKARTH]]
+|<tt>[[Skyrim:Riften|RIFTEN]]<br>[[Skyrim:Whiterun|WHITERUN]]<br>[[Skyrim:Winterhold|WINTERHOLD]]
+|}
+|-
+|<tt>PLAYER / WHERE AM I || Centers camera on you
+|-
+|<tt>WAYPOINT || Centers camera on marker set by you,
+if applicable.
+|-
+|<tt>QUEST MARKER / QUEST || Centers camera on active quest target. Saying it multiple times will cycle through targets.
+|-
+! colspan=2| Skills Menu
+|-
+| colspan=2|
+*After opening <tt>SKILLS</tt>, use the following commands to center the camera on that skill's perk tree:
+{| class=hiddentable width=100%
+|-
+|<tt>[[Skyrim:One-handed|ONE HANDED]]<br>[[Skyrim:Two-handed|TWO HANDED]]<br>[[Skyrim:Archery|ARCHERY]]<br>[[Skyrim:Block|BLOCK]]<br>[[Skyrim:Smithing|SMITHING]]
+|<tt>[[Skyrim:Heavy Armor|HEAVY ARMOR]]<br>[[Skyrim:Light Armor|LIGHT ARMOR]]<br>[[Skyrim:Pickpocket|PICKPOCKET]]<br>[[Skyrim:Lockpicking|LOCKPICKING]]<br>[[Skyrim:Sneak|SNEAK]]
+|<tt>[[Skyrim:Alchemy|ALCHEMY]]<br>[[Skyrim:Speech|SPEECH]]<br>[[Skyrim:Alteration|ALTERATION]]<br>[[Skyrim:Conjuration|CONJURATION]]<br>[[Skyrim:Destruction|DESTRUCTION]]
+|<tt>[[Skyrim:Illusion|ILLUSION]]<br>[[Skyrim:Restoration|RESTORATION]]<br>[[Skyrim:Enchanting|ENCHANTING]]
+|}
+|}
+
+==Notes==
+*Kinect compatibility was originally developed as part of the [[Skyrim:Game Jam|Game Jam]].
+
+==Bugs==
+{{Bug|Kinect-enabled dragon language shouts for the French, German, Spanish, and Italian versions of the game may fail. This may also apply to the bonus shouts with the [[Skyrim:Dawnguard|Dawnguard]] add-on.|OSP|1.7}}
+
+==External Links==
+*[http://cdnstatic.bethsoft.com/akqacms/files/tes/extras/skyrim-kinect-voice-commands.pdf Skyrim Kinect Voice Commands] — A PDF document containing all available voice commands.

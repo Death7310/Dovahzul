@@ -1,0 +1,63 @@
+{{Mod Header|Dragonborn}}
+{{Creature Summary
+|loc=[[Skyrim:Nchardak|Nchardak]]
+|refid=xx0176B8
+|baseid=xx017F87
+|type=Monsters
+|species=Dragon
+|level={{Hover|30, 40, 50|Radiant (30-50)}}
+|class=Dragon
+|health={{Hover|1860, 2255, 3071|1860-3071}}
+|magicka=150
+|faction={{Faction|Creature Faction|ns_base=Skyrim}}; {{Faction|Dragon Faction|ns_base=Skyrim}}; {{Faction|allied apocrypha creatures}}; {{Faction|Combat dialogue for dragons allied to Miraak}}; {{Faction|FavorExcludedFaction|ns_base=Skyrim}}
+|image=SR-creature-Krosulhah.jpg
+|imgdesc=Krosulhah
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|drops=[[Skyrim:Dragon#Loot|Dragon Loot]]
+|soul=Dragon
+|stamina={{Hover|197, 230, 264|197-264}}
+}}__NOTOC__
+'''Krosulhah''' is a unique frost [[Skyrim:Dragon|dragon]] found outside [[Skyrim:Nchardak|Nchardak]] during [[Skyrim:The Gardener of Men|The Gardener of Men]].
+
+His name means "Sorcerer Day Mind" in the [[Lore:Dragon Language|dragon language]].
+
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Gardener of Men}}
+
+==Dialogue==
+When encountered, he hovers above the ruins and bellows before attacking you and [[Skyrim:Neloth|Neloth]].
+:''"Miraak has commanded your death. So it shall be."''
+
+He will taunt you during the battle:
+:''"When Miraak returns, all will bow before him"''
+
+:''"Soon, Miraak will return to resume his rightful {{hover|kingdom/kingship|junaar}} over Solstheim!"''
+
+He shares several lines of dialogue with [[Skyrim:Sahrotaar|Sahrotaar]], as they are both in the faction "[[Skyrim:Combat dialogue for dragons allied to Miraak|Combat dialogue for dragons allied to Miraak]]":
+:''"My thuri Miraak is the only true Dovahkiin."''
+
+:''"{{hover|Courageous fool|Krin mey}}. You are a fool to challenge Miraak. His thu'um is supreme."''
+
+:''"Your death has been foretold."''
+
+:''"{{hover|Serve or die|Aam uv dir}}. Those that will not serve Miraak must die."''
+
+If you use [[Skyrim:Dragonrend|Dragonrend]] on Krosulhah, he will comment on it:
+:''"{{hover|Foul Words of Power|Bein Rotmulaagge}}! What foul Words are these?
+
+:''"No dovah would stoop to such vile {{hover|treachery|tahrovin}}."''
+
+Once he has landed on the ground, he will say:
+:''"Now we will see whose thu'um is the stronger!"''
+
+:''"You are strong, Dovahkiin. {{hover|Very strong|Rinik mul}}. But not strong enough."''
+
+==Notes==
+*Krosulhah is more talkative than most other dragons, taunting you throughout the fight. If you inflict [[Skyrim:Dragonrend|Dragonrend]] upon Krosulhah, he will have specific comments pertaining to that attack.
+
+==Bugs==
+{{bug|According to game data, Krosulhah is intended to be a [[Skyrim:Serpentine Dragon|Serpentine Dragon]], but instead has the appearance of a regular dragon. One result of this is that his blood textures don't match his body.|UDBP|2.0.5}}
+
+{{Skyrim Dragons}}

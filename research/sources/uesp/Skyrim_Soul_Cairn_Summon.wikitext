@@ -1,0 +1,34 @@
+{{Mod Header|Dawnguard}}
+{{Shout Summary
+|id=xx01a165
+|quote=Summon undead from the Soul Cairn.
+|word1= DiiL
+|wordid1= xx01a162
+|spellid1= xx01a166
+|cooldown1= 15
+|info1=Calls 1 undead (Boneman) from Soul Cairn for 60 seconds.
+|location1= Unavailable 
+|word2= QOTH
+|wordid2= xx01a163
+|spellid2 = xx01a167
+|cooldown2= 15
+|info2=Calls 2 undead (Boneman + Mistman) from Soul Cairn for 60 seconds.
+|word3= ZaaM
+|wordid3= xx01a164
+|spellid3 = xx01a168
+|cooldown3= 15
+|info3=Calls 3 undead (Boneman + Mistman + Wrathman) from Soul Cairn for 60 seconds.
+|mod=DG
+|transword1= Undead
+|transword2= Tomb
+|transword3= Slave
+}}[[Category:Skyrim-Dawnguard]] [[Category:Skyrim-Dawnguard-Magic]]
+'''Soul Cairn Summon''' is a shout unique to [[Skyrim:Durnehviir (dragon)|Durnehviir]], and therefore cannot be learned by the player aside from using [[Skyrim:Console|console]] commands. It summons one [[Skyrim:Boneman|Boneman]], one [[Skyrim:Mistman|Mistman]], and one [[Skyrim:Wrathman|Wrathman]] with each consecutive word, summoning one of each with all three words. When Durnehviir is summoned he will often use this shout while in combat, making these the only times the shout is used in-game.
+
+Since the number of summoned creatures is normally limited to one, the shout requires the [[Skyrim:Multiple Summon|Multiple Summon]] perk to function correctly.
+
+==Notes==
+
+*Despite being voiced by Durnehviir, if the player adds this shout through console commands the shout will not be voiced.
+
+{{Skyrim Shouts}}

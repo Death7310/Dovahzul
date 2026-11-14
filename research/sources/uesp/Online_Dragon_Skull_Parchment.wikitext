@@ -1,0 +1,7 @@
+{{Game Book
+|icon=ON-icon-book-Generic 531.png
+|id=849
+|collection=Mysteries and Clues
+|loc=*[[ON:Hall of the Dead|Hall of the Dead]] {{Map Link|24435}}
+}}
+{{Book End}}

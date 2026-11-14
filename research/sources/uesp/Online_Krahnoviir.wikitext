@@ -1,0 +1,36 @@
+{{Mod Header|2025 Content Pass}}{{Online NPC Summary
+|id=324283
+|image=ON-creature-Krahnoviir.jpg
+|imgdesc=Krahnoviir
+|loc=[[Online:Wraithforge|Wraithforge]]
+|race=Bone Dragon
+|creature=1
+|gender=Male
+|difficulty=1
+|health=1,172,724
+|reaction=Hostile
+|pickpocket=
+|loottype=
+|faction=
+}}
+'''Krahnoviir''' is a [[Online:Bone Dragon|Bone Dragon]] raised by [[Online:Mannimarco|Mannimarco]] when you activate the [[Online:Voskrona Colossal|Voskrona Colossal]] during battle.
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|The Final Dark}}
+
+==Skills and Abilities==
+As an elite rank creature, Krahnoviir is immune to crowd control, the exception being the [[ON:Voskrona Colossal|Voskrona Colossal]]'s ability "Entangle" which stuns it instead.
+;Bone Wyrm Resurrection:Upon being summoned by Mannimarco, a growing area forms under its bones. When filled it deals low [[ON:Physical Damage|physical damage]] in the large area.  
+;Necrotic Bolt:Krahnoviir spits a necrotic ball at its target as a basic ranged attack dealing minor [[ON:Disease Damage|disease damage]] then half that amount in disease damage every half second over 8 seconds.
+;Necrosis Breath:Krahnoviir briefly breathes in a cone, dealing three ticks of direct low disease damage.
+;Corroded Bones: Upon reaching 66% and 33% {{ESO Health Link}}, Krahnoviir roars and gets a [[ON:Damage Shield|damage shield]] of 100% of its {{ESO Health Link|Max}}. The first time it also gets a 30% increase of its damage done for the rest of the fight.
+;Necrotic Overload:When the Voskrona Colossal's "Entangle" stun nears its end, a growing area forms under Krahnoviir. When filled it deals extreme disease damage in the large area.
+
+==Notes==
+* "Krahnoviir" means Cold-{{huh}}-Dying in the dragon language.
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

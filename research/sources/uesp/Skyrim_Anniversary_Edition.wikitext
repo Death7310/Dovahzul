@@ -1,0 +1,70 @@
+{{Trail}}{{Gameinfo
+|Boxart1image=SR-cover-Skyrim Anniversary Edition.jpg
+|Setting=[[Lore:Skyrim|Skyrim]] (primarily)<br>[[Lore:Solstheim|Solstheim]]<br>[[Lore:Forgotten Vale|High Rock]]<br>[[Lore:Rielle|Cyrodiil]]<br>[[Lore:Apocrypha|Apocrypha]]<br>[[Lore:Deadlands|Deadlands]]<br>[[Lore:Misty Grove|Revelry]]
+|Boxart1name=Anniversary Edition box art
+|Developer=[[General:Bethesda Softworks|Bethesda Softworks]]
+|Game Engine=[[Wikipedia:Creation Engine|Creation Engine]]{{ref|name=SRTechInfo|Morton, L. (5 November 2021). [https://web.archive.org/web/20211107132343/https://www.pcgamer.com/so-what-is-skyrim-anniversary-edition-and-what-does-it-actually-include/ ''So what is Skyrim Anniversary Edition and what's actually in it?'']. PCGamer. Archived from the [https://www.pcgamer.com/so-what-is-skyrim-anniversary-edition-and-what-does-it-actually-include/ original] on 7 November 2021.}}
+|RD1Type=PC|RD1=November 11, 2021 (Steam){{ref|name=SRTechInfo}}<br/>September 28, 2022 (GOG)
+|RD2Type=[[SR:Xbox|Xbox One & Series X&#124;S]]|RD2=November 11, 2021{{ref|name=SRTechInfo}}
+|RD3Type=[[SR:PlayStation|PlayStation 4 & 5]]|RD3=November 11, 2021{{ref|name=SRTechInfo}}
+|RD4Type=[[SR:Switch|Nintendo Switch]]|RD4=September 28, 2022
+|RD5Type=Nintendo Switch 2|RD5=December 9, 2025
+}}
+'''''The Elder Scrolls V: Skyrim Anniversary Edition''''' is a comprehensive edition of [[Skyrim:Skyrim|Skyrim]] that bundles together the [[Skyrim:Special Edition|Special Edition]] and a total of 74 [[Skyrim:Creation Club|Creations]] which contain over 500+ new individual elements such as quests, items, armor, houses, and more. It was released on November 11, 2021 to commemorate the 10th anniversary of Skyrim's release.
+
+Anniversary Edition is available in digital format on PC, Xbox One, Xbox Series X|S, PlayStation 4, PlayStation 5, Nintendo Switch, Nintendo Switch 2, and Amazon Luna. It is also available in physical format for Xbox One and PlayStation 4. Owners of Anniversary Edition or Special Edition on Xbox Series X|S and PlayStation 5 can download a free optimization update with enhanced graphics and faster loading times. Owners of Special Edition on any platform can purchase the Anniversary Upgrade separately, which contains the Creation Club content at reduced cost.
+{{NewLeft}}
+==New Content==
+Below is a list of the 26 new Creations included with the Anniversary Edition. For the full list of all Creations included, see the '''[[Skyrim:Creation Club|Creation Club]]''' page.
+{{Bullet Link|Alternative Armors - Daedric Plate}}
+{{Bullet Link|Alternative Armors - Dragon Plate}}
+{{Bullet Link|Alternative Armors - Dwarven Plate}}
+{{Bullet Link|Alternative Armors - Iron}}
+{{Bullet Link|Alternative Armors - Leather}}
+{{Bullet Link|Alternative Armors - Orcish Plate}}
+{{Bullet Link|Alternative Armors - Orcish Scaled}}
+{{Bullet Link|Alternative Armors - Silver}}
+{{Bullet Link|Bittercup}}
+{{Bullet Link|Bloodchill Manor}}
+{{Bullet Link|Bow of Shadows}}
+{{Bullet Link|Farming}}
+{{Bullet Link|Fearsome Fists}}
+{{Bullet Link|Fishing|Free for Special Edition and Anniversary Edition}}
+{{Bullet Link|Gallows Hall}}
+{{Bullet Link|Ghosts of the Tribunal}}
+{{Bullet Link|Goldbrand}}
+{{Bullet Link|Headman's Cleaver}}
+{{Bullet Link|Horse Armor - Elven}}
+{{Bullet Link|Horse Armor - Steel}}
+{{Bullet Link|Nchuanthumz: Dwarven Home}}
+{{Bullet Link|Necromantic Grimoire}}
+{{Bullet Link|Redguard Elite Armaments}}
+{{Bullet Link|Staves (Creation)}}
+{{Bullet Link|The Cause}}
+{{Bullet Link|The Contest}}
+
+==Notes==
+*The cover features text written in the [[Lore:Dragon Language|Dragon Language]]. It reads:
+**Naal Tuz Naal Lah Naal Vulom (By sword by magic by darkness)
+**Naal Thuum Zeim Men Eruvos (by shout through many years)
+**Do Hungaar Mu Los (of heroism we are)
+**Gro Wah Keizaal Ulse (bound to Skyrim for eternity)
+*Physical copies of the Anniversary Edition contain a disc with the Special Edition and a redeemable code to download the Anniversary Upgrade.
+*Downloading the Anniversary Upgrade changes the tint of the Imperial Dragon emblem on the main menu from silver to gold.
+*In addition to the new Creations, many already-released Creations received updates to coincide with the Anniversary Edition's release. The focus of most of these updates was to remove the high number of quests that would automatically be added to your journal upon leaving [[SR:Helgen|Helgen]] (or upon installation for existing saves). As a result, much of the new content can be discovered organically through gameplay.
+
+==See Also==
+*[[Skyrim:Pre-Release_Content#Anniversary_Edition_Screenshots|Pre-Release Screenshots]]
+
+==External Links==
+*'''[https://bethesda.net/en/article/REybYU3Gy2InVlHmus4UC/skyrim-10th-anniversary-fan-celebration ''Join us on 11/11 for the Skyrim 10th Anniversary Fan Celebration!'']''' — Official announcement
+*'''[https://elderscrolls.bethesda.net/en/article/3mxTW4iQYGrVZrWRqVfomQ/skyrim-anniversary-edition-and-creation-club-content-first-look ''Here's a first look at Skyrim's upcoming Anniversary Edition and the Creation Club Content'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/zDrgPy9fRNeDQ6Brog63T/skyrim-anniversary-edition-sneak-peek-fishing ''Skyrim Anniversary Edition Sneak Peek: Fishing'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/3d96X7h2O32iOztdbs3Y25/skyrim-anniversary-edition-sneak-peek-variety-1 ''Skyrim Anniversary Edition Sneak Peek: The Contest, Bow of Shadows, Necromantic Grimoire and More!'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/5eoP4CA02055Pf9Tunp0AS/skyrim-anniversary-edition-sneak-peek-variety-2 ''Skyrim Anniversary Edition Sneak Peek: Farming, Goldbrand, Bittercup and More!'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/7dGQQKiV3ECjekpmPwOvaA/skyrim-anniversary-edition-sneak-peek-the-cause ''Skyrim Anniversary Edition Sneak Peek: The Cause'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/2RfZuYNRY9MMBinv29Bmdb/skyrim-anniversary-edition-sneak-peek-ghosts-of-the-tribunal ''Skyrim Anniversary Edition Sneak Peek: Ghosts of the Tribunal'']'''
+*'''[https://elderscrolls.bethesda.net/en/article/5esC91g2ABY1jQ97uq39zW/skyrim-anniversary-edition-faq ''Skyrim Anniversary Edition FAQ'']'''
+
+==References==
+<references/>

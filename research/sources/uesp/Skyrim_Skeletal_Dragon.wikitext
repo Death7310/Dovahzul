@@ -1,0 +1,33 @@
+{{Creature Summary
+|loc=[[Skyrim:Labyrinthian|Labyrinthian]]
+|refid=00083588
+|baseid=0009192C
+|type=Monsters
+|species=Dragon
+|level=20
+|class=Dragon
+|health=500
+|magicka=150
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Faction}}; {{Faction|Dragons in this faction will ignore death sequence}}; {{Faction|Skeleton Faction}}
+|image=SR-creature-Skeletal_Dragon_02.jpg
+|imgdesc=Skeletal Dragon
+|drops=[[Skyrim:Dragon Bone|Dragon Bones]] {{small|(5 &times; 100%)}}
+|soul=None
+|stamina=100
+|protected=Yes
+|abilities=*Dragon Frost Breath {{small|(30 pts of [[Skyrim:Frost Damage|frost damage]]/second, 50 pts of [[Skyrim:Slow|Slow]] for 5 seconds)}}; [[Skyrim:Unrelenting Force|Unrelenting Force]]
+*[[Skyrim:Weakness to Magic|Weakness to Magic]], 100 pts; Flightlessness
+}}
+The '''Skeletal Dragon''' is a unique undead [[Skyrim:Dragon|dragon]] found within [[Skyrim:Labyrinthian|Labyrinthian]] during the quest [[Skyrim:The_Staff_of_Magnus|The Staff of Magnus]]. When killed, it provides a large number of [[Skyrim:Dragon Bone|dragon bones]] but no [[Skyrim:Dragon Scales|dragon scales]], and it will not provide [[Skyrim:Dragon Heartscales|dragon heartscales]] when struck with [[Skyrim:Kahvozein's Fang|Kahvozein's Fang]]. It does not have a dragon soul.
+
+The Skeletal Dragon is an undead creature, and thus is vulnerable to [[SR:Sun Damage|sun damage]]. It also has weakness to  [[Skyrim:Fire Damage|fire damage]]. Unlike other dragons, the skeletal variety doesn't possess blanket immunity to [[Skyrim:Illusion|Illusion]] spells, however the ''[[Skyrim:Master of the Mind|Master of the Mind]]'' perk is required to make Illusion magic effective against it. 
+{{NewLeft}}
+
+== Related Quests ==
+* {{Quest Link|The Staff of Magnus}}
+
+== Notes ==
+*The Skeletal Dragon cannot be mounted with the [[Skyrim:Bend Will|Bend Will]] shout.{{DB}}
+*If you disengage from combat with the Skeletal Dragon and are no longer detected, its health will instantly regenerate. This is because its health regenerates more than {{hover|15% per second compared to 0.7% per second|20x faster}} than a regular dragon outside of combat.
+*A Skeletal Dragon also [[Legends:Skeletal Dragon|appears]] in the [[Legends:Heroes of Skyrim|Heroes of Skyrim]] card expansion for ''[[LG:Legends|Legends]]''. [[Online:Bone Dragon|Bone Dragon]]s appear in [[ESO:Online|ESO]], while [[Blades:Undead Dragon|Undead Dragon]]s appear in ''[[Blades:Blades|Blades]]''.
+*The Skeletal Dragon in Labyrinthian is one of the only three instances the player can interact with and fight a dragon prior to completing [[Skyrim:Dragon Rising|Dragon Rising]] with the others being [[Skyrim:Durnehviir (dragon)|Durnehviir]] and [[Skyrim:Vulthuryol|Vulthuryol]]

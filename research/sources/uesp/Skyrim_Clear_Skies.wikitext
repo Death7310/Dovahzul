@@ -1,0 +1,57 @@
+[[fr:Skyrim:Ciel dégagé]]{{Shout Summary
+|id=0003cd34
+|icon=SR-icon-shout-Force.png
+|quote=Skyrim itself yields before the Thu'um, as you clear away fog and inclement weather.
+|word1=LOK
+|wordid1=0003cd31
+|cooldown1=5
+|info1=Clears weather for 25 seconds
+|location1=[[Skyrim:High Hrothgar|High Hrothgar]] (during [[Skyrim:The Throat of the World| The Throat of the World]])
+|letters1=LOK
+|word2=Vah
+|wordid2=0003cd32
+|cooldown2=10
+|info2=Clears weather for 40 seconds
+|letters2=V4
+|word3=KooR
+|wordid3=0003cd33
+|cooldown3=15
+|info3=Clears weather for 60 seconds
+|letters3=K8R
+|transword1=Sky
+|transword2=Spring
+|transword3=Summer
+|spellid1=0003f50b
+|spellid2=0003f50c
+|spellid3=0003f50d
+}}
+'''Clear Skies''' is a [[Skyrim:Dragon Shouts|dragon shout]] that clears weather effects. All three words of this shout are learned from the [[Skyrim:Greybeards|Greybeards]] during [[Skyrim:The Throat of the World|The Throat of the World]] as part of the [[Skyrim:Main Quest|main quest]].
+
+The shout can be used to clear away fog and mist as well as snowy, cloudy, or rainy [[Skyrim:weather|weather]] anywhere in [[Skyrim:Skyrim|Skyrim]]. It can also clear poisonous gas away from [[Skyrim:Traps|traps]].
+
+{{NewLeft}}
+==Related Quests==
+* {{Quest Link|The Throat of the World}}
+* {{Quest Link|Dragonslayer}}
+
+==Possible Uses==
+* It can be used as an alternative to [[Skyrim:Unrelenting_Force|Unrelenting Force]] as it has a much quicker recharge, although it only works outdoors, and only causes enemies to stagger. It can be used to kill Salmon in order to harvest [[Skyrim:Salmon Roe|Salmon Roe]]{{HF}} or knock flying insects from the air in order to gather them as ingredients.
+* If [[Skyrim:Survival Mode|Survival Mode]] is active, Clear Skies can be used to help slow down your Freezing rate, especially at higher [[Skyrim:Cold|Cold]] levels.
+* During [[Skyrim:Alduin's Bane|Alduin's Bane]], Clear Skies can be used to negate Alduin's "Dragon Storm Call".
+* During the Dawnguard version of [[Skyrim:Kindred Judgment|Kindred Judgment]], Clear Skies can be used to clear away the clouds and snow surrounding [[Skyrim:Castle Volkihar|Castle Volkihar]] and make it easier to inflict sun damage on the outdoor vampires, provided the assault takes place during the day.{{DG}}
+
+==Notes==
+* The first word of the shout provides a longer period of clear weather per second of cooldown required when compared to using the second and third words. The first word provides five seconds of clear weather for each second of cooldown, versus the four seconds of clear weather for each second of cooldown for the second and third words.
+* The shout has no effect indoors.
+* The shout has no effect at the ash wastes of southern [[Skyrim:Solstheim|Solstheim]]{{DB}}.
+* The shout will clear away fog and rain at [[Skyrim:Dayspring Canyon|Dayspring Canyon]], but not cloud cover{{DG}}.
+* It is only necessary to start [[Skyrim:The Throat of the World|The Throat of the World]] to learn all three words.
+* This shout causes an aurora to appear at night, sometimes with a slight delay.
+{{Bug|[[Skyrim:Winterhold|Winterhold]] is set to experience a 100% chance of snowfall. It will always be snowing even if this shout is used.|USLEEP|3.0.1|trackerid=19800|This has been altered to 99% snow storm and 1% cloudy, since the shout requires there to be a "pleasant" weather variety available. As a side effect of this, it will now be 1% possible in normal gameplay for Winterhold to have cloudy weather instead of a snow storm.}}
+* The Greybeards can sometimes be seen practicing this shout in the courtyard of High Hrothgar.
+
+==Bugs==
+{{Bug|Clear Skies can deliver an unintentional stagger effect to all NPCs in the area of the shockwave.|USKP|2.0.4}}
+{{Bug|You may be able to successfully use this shout in the [[Skyrim:Soul Cairn|Soul Cairn]]{{DG}}. That doesn't make sense, since the Soul Cairn is a plane of Oblivion and thus never experiences normal Tamrielic weather.|UDGP|1.2.0}}
+
+{{Skyrim Shouts}}

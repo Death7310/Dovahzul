@@ -1,0 +1,342 @@
+{{Trail|Creatures|Undead}}[[Category:Skyrim-Creatures-All]][[Category:Skyrim-Creatures-Undead-Draugr]]{{TOCright|limit=3}}
+[[File:SR-quest-Evil in Waiting 03.jpg|thumb|left|A draugr using the thu'um]][[File:SR-creature-Draugr Deathlord female.jpg|thumb|right|A female draugr]]
+'''Draugr''' are ancient Nordic warriors who have been reanimated. Most draugr were followers of [[Skyrim:Dragon Priest|dragon priests]] in ancient times. When these priests died, their followers were killed, reanimated, and then sealed into the tomb where they would periodically awaken in order to worship the priests and transfer energy to them to maintain their undead state. Some draugr instead guard nobility and treasures buried in [[Skyrim:Nordic Ruins|barrows and tombs]]. They often rest in catacombs or sarcophagi to awaken and fight when disturbed or alerted.
+{{NewLeft}}
+
+==Appearance and Types==
+Despite the advanced embalming techniques of the ancient Nords, time has taken its toll on draugr's physical appearance. Their soft tissues are severely decomposed, and their armor does little to conceal the fact that much of their flesh is rotting away, exposing the underlying skeletal structure. All draugr have piercing blue eyes. Male and female draugr appear at similar rates, but at higher levels, males far outnumber females. Higher rank draugr are clearly recognizable by their increasingly more impressive helmets and equipment. The Draugr Deathlords and Death Overlords will almost always carry [[Skyrim:Ebony|ebony]] equipment and are most recognizable by their unobtainable versions of the [[Skyrim:Ancient Nord Helmet|ancient Nord helmets]].
+
+==Characteristics==
+Most draugr are [[Skyrim:Resist Poison|immune to poison]] and have a 50% [[Skyrim:Resist Frost|resistance to frost]]. However, the Hallowed Dead found in [[Skyrim:Labyrinthian|Labyrinthian]] are not immune to poison and are 33% [[Skyrim:Weakness to Magic|weaker to magic]].
+
+The specific variety of draugr that you meet is generally level-dependent. However, this also depends on the location at which they're encountered. In addition, draugr may be spellcasters, archers, one-handed melee fighters, or two-handed melee fighters; this is unspecified by their names, which only indicate their class. Draugr that begin appearing early in the game are equipped with [[Skyrim:Specialty Gear#Ancient Nord Weapons|ancient Nordic weapons]], which are similar in strength to steel weaponry, and [[Skyrim:Ancient Nord Armor|ancient Nord armor]], similar in quality to iron armor, which is unlootable. The more powerful draugr that appear at higher levels often use [[Skyrim:Ebony|ebony]] weapons and equipment, and may have the ability to use one or more [[Skyrim:Dragon Shouts|dragon shouts]] in combat, including [[Skyrim:Unrelenting Force|Unrelenting Force]], [[Skyrim:Disarm|Disarm]], and sometimes even [[Skyrim:Frost Breath|Frost Breath]]. Most types of draugr, apart from the very weakest, will employ [[Skyrim:Frost Damage|Frost Damage]] in combat, whether through spells, shouts, or enchanted weapons. Draugr have a high ratio of health to their level when compared to most enemy types, such as [[Skyrim:Vampire|Vampires]] and enemy mages, making them all the more dangerous. 
+
+You will often encounter draugr enthralled by [[Skyrim:Necromancer|necromancers]] or hostile mages, such as those found in the Nordic ruin of [[Skyrim:Ansilvund|Ansilvund]] where the draugr are forced to mine.
+
+For information about dead, static draugr which can be looted, see [[Skyrim:Containers#Draugr|this page]].
+
+===Combat Strategies===
+Eliminate weaker types before fighting the stronger ones. Archers can deal a lot of damage during a battle, but they often shoot from a distance, sometimes making it easy to hide or take cover from them while dealing with nearer enemies. Stronger draugr can be very dangerous to most players, and should be attacked from a distance when possible. If you are a mage, avoid the use of frost spells, but concentrate on the two remaining elements: flames to constantly inflict damage, and shock to drain the enemy's magicka pool. Flaming Familiars, Flame Atronachs and Storm Atronachs will be particularly potent.
+
+You can often perform a [[Skyrim:Sneak#Sneak Attacks|sneak attack]] on a draugr sleeping in its alcove and kill it before it is able to attack. Even if you fail to kill it immediately, you should have time for one or two more hits while it climbs out of its resting place. [[Skyrim:Sneak#Remaining Undetected|Remaining undetected]], even by sleeping draugr, can be challenging, as they are quite sensitive, and this increases with stronger versions. [[Skyrim:Dragon Priest|Dragon priests]], who guard some Nordic ruins, are extremely dangerous opponents, but can often be defeated from a distance by using the [[Skyrim:Invisibility (effect)|Invisibility]] and [[Skyrim:Muffle (effect)|Muffle]] effects to evade detection.
+
+You can lure draugr into many of the [[Skyrim:Traps|traps]] common in Nordic ruins, which can be very effective. [[Skyrim:Dart Trap|Dart traps]] are not helpful in this regard, as most draugr are [[Skyrim:Resist Poison|immune to poison]].
+
+When engaging with high level draugr that use the [[Skyrim:Unrelenting Force|Unrelenting Force]] and [[SR:Disarm|Disarm]] shouts, you may wish to save frequently in case a treasured weapon is thrown and you cannot find it again. [[Skyrim:Ward|Wards]] (including the ward effect that the unique shield [[Skyrim:Spellbreaker|Spellbreaker]] provides when blocking) will render any shout harmless, from draugr or other sources. 
+
+Draugr are unable to attack and have no defenses while the animation plays as they emerge from their tomb.  Attacking them during this time can quickly eliminate them before they can strike.
+{{NewLine}}
+{{SkyrimBox/Start|text-color=black|width=99%|main-color=#FBEFD5}}
+
+===Draugr Thrall===
+[[File:SR-creature-Draugr Thrall female.jpg|thumb|right|A Draugr Thrall]]
+Draugr Thralls are the weakest variant of draugr in the game and inhabit only two locations: [[Skyrim:Folgunthur|Folgunthur]] and [[Skyrim:Reachwater Rock|Reachwater Rock]]. There are two classes of Draugr Thrall: Warriors and Warlocks. They are encountered only during the quest [[Skyrim:Forbidden Legend|Forbidden Legend]]. 
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!Carries
+![[Skyrim:Souls|Soul]]
+|-
+| '''Warrior'''<br>{{ID|000ABAA1|par=1}} || 1 || 12 || 0 || 200 || None || Petty
+|-
+| '''Warlock'''<br>{{ID|000ABAA2|par=1}} || 1 || 50 || 150 || 50 || None || Petty
+|}
+{{NewLine}}
+
+===Draugr===
+[[File:SR-creature-Draugr Female.jpg|thumb|right|A female Draugr]]
+Draugr are the second weakest variant. You will commonly encounter them in all areas of Skyrim province. You will find them at all game levels, but they are most prevalent before you reach around level 10, when stronger types become predominant.
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0003B547|par=1}} || 1 || 50 || 0 || 80 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Petty
+|}
+{{NewLine}}
+
+===Restless Draugr===
+[[File:SR-creature-Draugr Restless male.jpg|thumb|right|A Restless Draugr]]
+Restless Draugr begin appearing when your character is at level 6, and will continue appearing into very high levels. They are slightly stronger than the standard [[#Draugr|Draugr]], and can cast [[Skyrim:Frostbite|Frostbite]] which slows you down and damages your Stamina. 
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0003B548|par=1}}<br>{{ID|0005B753|par=1}} || 6 || 150 || 0 || 205 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|-
+| {{ID|0003B548|par=1}} || 6 || 150 || 50 || 180 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|-
+| {{ID|0003B548|par=1}} || 6 || 175 || 0 || 205 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|}
+{{NewLine}}
+
+===Draugr Overlord===
+[[File:SR-creature-Draugr Overlord male.jpg|thumb|right|A Draugr Overlord]]
+Draugr Overlords are likely the first draugr boss you will encounter in Skyrim. They are formidable opponents for most players at lower levels. Saving your game and pausing to develop a strategy for defeating them can be useful. At higher levels, it is highly unlikely you will encounter such a variant of draugr. Draugr bosses are most commonly seen guarding the ancient [[Skyrim:Word Wall|word walls]]. They can also use the thu'um.
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0004247B|par=1}} || 7 || 210 || 0 || 260 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|}
+{{NewLine}}
+
+===Draugr Wight===
+[[File:SR-creature-Draugr Wight male.jpg|thumb|right|A Draugr Wight]]
+Draugr Wights are a fairly challenging common variant of draugr for the amateur adventurer, and start appearing in leveled lists fairly early. A ranged attack strategy is useful against these opponents as they tend not to favor the bow.
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0003B549|par=1}}<br>{{ID|0005B754|par=1}} || 13 || 320 || 0 || 340 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|-
+| {{ID|00038A26|par=1}}|| 13 || 490 || 100 || 280 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|-
+| {{ID|0003BE21|par=1}}|| 13 || 400 || 0 || 340 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|}
+{{NewLine}}
+
+===Draugr Wight Lord===
+[[File:SR-creature-Draugr Wight Lord male.jpg|thumb|right|A Draugr Wight Lord]]
+Draugr Wight Lords can be very challenging opponents to lower level adventurers, as they appear in leveled lists quite early in the game. They are a mid-range boss and will show no mercy to anyone who disturbs their peace. They are also the first draugr boss who will use the [[Skyrim:Disarm|Disarm]] shout against you and any of your followers.
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0004247C|par=1}} || 15 || 490 || 0 || 450 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Lesser
+|}
+{{NewLine}}
+
+===Draugr Scourge===
+[[File:SR-creature-Draugr Scourge Male.jpg|thumb|right|A Draugr Scourge]]
+Draugr Scourges are a mid-range, common variant of draugr who can be tough to fight if you have a poor defensive strategy. Draugr Scourges are the first common variant of draugr that have the ability to use the ancient power of the [[Skyrim:Dragon Shouts|thu'um]]. They will appear quite frequently from level 21 onward, unlike Draugr Wights. While in combat, they commonly summon [[Skyrim:Daedra#Frost Atronach|Frost Atronachs]] and cast [[Skyrim:Ice Spike|Ice Spikes]] at you, which can add to the difficulty of the battle. They are most recognizable by their unobtainable version of the [[Skyrim:Ancient Nord Helmet|Ancient Nord Helmet]].
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0003B54A|par=1}}<br>{{ID|0005B755|par=1}}|| 21 || 700 || 0 || 480 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|-
+| {{ID|0003B54A|par=1}}|| 21 || 700 || 160 || 380 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|-
+| {{ID|0003B54A|par=1}}|| 21 || 900 || 0 || 480 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|}
+{{NewLine}}
+
+===Draugr Scourge Lord===
+[[File:SR-creature-Draugr Scourge Lord male.jpg|thumb|right|A Draugr Scourge Lord]]
+Draugr Scourge Lords are very formidable opponents, especially to unprepared adventurers. They have nearly as much health as a [[#Draugr Deathlord|Draugr Deathlord]] and even more stamina, so it is advised to take extreme caution when in combat with one, as they appear at relatively low levels. Most recognizable by their unobtainable version of the [[Skyrim:Ancient Nord Helmet|Ancient Nord Helmet]].
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0004247D|par=1}} || 24 || 880 || 0 || 595 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|}
+{{NewLine}}
+
+===Hulking Draugr{{DB}}===
+[[File:SR-creature-Hulking Draugr.jpg|thumb|right|A [[Skyrim:Hulking Draugr|Hulking Draugr]]]]
+[[Skyrim:Hulking Draugr|Hulking Draugr]] are mid-level common variants of draugr, added by the ''[[Skyrim:Dragonborn|Dragonborn]]'' [[Skyrim:Add-ons|add-on]]. They wear very different armor from the other draugr types, which appears to be a Dragon Cult robe decorated with stylized dragon heads on the shoulders. Their statistics are similar to those of the [[#Draugr Scourge Lord|Draugr Scourge Lord]], firmly placing them among the more challenging types of undead enemies, especially to unprepared adventurers. They sometimes carry a unique [[Skyrim:Dented Iron Shield|Dented Iron Shield]].
+
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|xx02A6FE|par=1}} || 26 || 800 || 0 || 505 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Common
+|}
+{{NewLine}}
+
+===Draugr Deathlord===
+[[File:SR-creature-Draugr Deathlord male.jpg|thumb|right|A Draugr Deathlord]]
+Draugr Deathlords are the highest level common variant draugr to be found within Skyrim. They are the first of the two variants of draugr that carry powerful [[Skyrim:Ebony|ebony]] equipment, making them very dangerous opponents. Draugr Deathlords always wear their unique unobtainable version of the Ancient Nord Helmet, visually similar to the [[Skyrim:Helm of Yngol|Helm of Yngol]]. Their health and attacks are brutal on their own, but they also use [[Skyrim:Dragon Shouts|thu'um]] - and unlike their lesser counterparts, a Draugr Deathlord's [[Skyrim:Unrelenting Force|Unrelenting Force]] shout is powerful enough to ragdoll you at times, making them even more of a challenge to the unprepared adventurer.
+{| class=wikitable style="width:65%; text-align:center; align:left"
+![[Skyrim:Form ID|ID]]
+!width=30 | Lvl
+!width=30 |{{Health Icon}}
+!width=30 |{{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+![[Skyrim:Souls|Soul]]
+|-
+| {{ID|0003B54B|par=1}}<br>{{ID|0005B756|par=1}}<br>{{ID|0003BE23|par=1}} || 30 || 1000 || 10 || 575 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Greater
+|-
+| {{ID|00044C5B|par=1}}<br>{{ID|000640B7|par=1}} || 40 || 1300 || 10 || 625 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Grand
+|}
+{{NewLine}}
+
+===Draugr Death Overlord===
+[[File:SR-creature-Draugr Death Overlord.jpg|thumb|A Draugr Death Overlord|right]]
+Draugr Death Overlords are the most powerful draugr appearing in Skyrim. It is advised to take extreme caution when in combat with these ruthless opponents, as they use high quality [[Skyrim:Ebony|ebony]] equipment and a range of [[Skyrim:Dragon Shouts|dragon shouts]], including [[Skyrim:Unrelenting Force|Unrelenting Force]] and [[Skyrim:Disarm|Disarm]]. They are the highest level of boss draugr before the unmerciful [[Skyrim:Dragon Priest|dragon priests]], which start to appear at level 50. Draugr Death Overlords always wear their unique unobtainable version of the Ancient Nord Helmet visually similar to the [[Skyrim:Helm of Yngol|Helm of Yngol]].
+{| class=wikitable style="width:65%; text-align:center; align:left"
+! [[Skyrim:Form ID|ID]]
+!width=30| Lvl
+!width=30| {{Health Icon}}
+!width=30| {{Magicka Icon}}
+!width=30| {{Stamina Icon}}
+!width=200| Carries
+! [[Skyrim:Souls|Soul]]
+|-
+| {{ID|0004247E|par=1}} || 34 || 1290 || 10 || 645 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Greater
+|-
+| {{ID|0004247F|par=1}} || 45 || 1400 || 10 || 700 || Bone Meal {{Small|(1 &times; 25%)}}<br> Leveled Gold {{Small|(1 &times; 25%)}}<br> Random Draugr Loot {{Small|(1 &times; 75%)}} || Grand
+|}
+
+{{NewLine}}
+{{SkyrimBox/End}}
+{{NewLeft}}
+
+==Named Draugr==
+{|class=wikitable
+!width=150| Name  
+!Notes 
+|-
+|align=center| '''[[Skyrim:Curalmil|Curalmil]]'''
+|The end boss of [[Skyrim:Forsaken Cave|Forsaken Cave]]. At higher levels, he may be a [[Skyrim:Dragon Priest|dragon priest]].
+|-
+|align=center| '''[[Skyrim:Fjori|Fjori]]'''
+|Encountered at the end of the dungeon in [[Skyrim:Ansilvund|Ansilvund]].
+|-
+|align=center| '''[[Skyrim:Gatekeeper|Gatekeeper]]'''{{DB}}
+|Encountered in the [[Skyrim:Temple of Miraak|Temple of Miraak]] after learning a word of the [[Skyrim:Dragon Aspect|Dragon Aspect]] [[Skyrim:Dragon Shouts|shout]].
+|-
+|align=center| '''[[Skyrim:Guardian Saerek|Guardian Saerek]]
+|One of the two boss-level draugr encountered in [[Skyrim:Ragnvald|Ragnvald]]
+|-
+|align=center| '''[[Skyrim:Guardian Torsten|Guardian Torsten]]
+|One of the two boss-level draugr encountered in [[Skyrim:Ragnvald|Ragnvald]]
+|-
+|align=center| '''[[Skyrim:Halldir|Halldir]]'''
+|The end boss of [[Skyrim:Halldir's Cairn|Halldir's Cairn]]
+|-
+|align=center| '''[[Skyrim:Holgeir|Holgeir]]'''
+|Encountered at the end of the dungeon in [[Skyrim:Ansilvund|Ansilvund]].
+|-
+|align=center| '''[[Skyrim:Jyrik Gauldurson|Jyrik Gauldurson]]'''
+|The eldest of the Gauldurson brothers, encountered in [[Skyrim:Saarthal|Saarthal]]
+|-
+|align=center| '''[[Skyrim:King Olaf One-Eye|King Olaf One-Eye]]'''
+|The final boss of [[Skyrim:Dead Men's Respite|Dead Men's Respite]]
+|-
+|align=center| '''[[Skyrim:Mikrul Gauldurson|Mikrul Gauldurson]]'''
+|The youngest of the Gauldurson brothers, encountered in [[Skyrim:Folgunthur|Folgunthur]]
+|-
+|align=center| '''[[Skyrim:Red Eagle|Red Eagle]]
+|A boss-level draugr encountered in [[Skyrim:Rebel's Cairn|Rebel's Cairn]], during the [[Skyrim:Rebel's Cairn (quest)|related quest]]. At higher levels, he may be a [[Skyrim:Dragon Priest|dragon priest]].
+|-
+|align=center| '''[[Skyrim:Sigdis Gauldurson|Sigdis Gauldurson]]'''
+|The middle Gauldurson brother, encountered in [[Skyrim:Geirmund's Hall|Geirmund's Hall]]
+|-
+|align=center| '''[[Skyrim:Warlord Gathrik|Warlord Gathrik]]
+|The end boss of [[Skyrim:Ironbind Barrow|Ironbind Barrow]]. At higher levels, he may be a [[Skyrim:Dragon Priest|dragon priest]].
+|}
+
+==Dialogue==
+In addition to using the Thu'um, draugr often shout in the [[Lore:Dragon Language|dragon language]] during combat. Some of these phrases include:
+{| width=50%
+|-
+|
+:''"{{hover|Join the dead!|Aav dilon!}}"''
+:''"{{hover|Beg for mercy, little worm!|Bolog aaz, mal lir!}}"''
+:''"{{hover|Doomed Warrior!|Daanik Kendov!}}"''
+:''"{{hover|Die, intruder!|Dir volaan!}}"''
+:''"{{hover|Pain! Shame! Death!|Faaz! Paak! Dinok!}}"''
+||
+:''"{{hover|Break and bleed!|Kren sosaal!}}"''
+:''"{{hover|Bow before the dead!|Qiilaan us dilon!}}"''
+:''"{{hover|Sovngarde awaits!|Sovngarde saraan!}}"''
+:''"{{hover|Unending Sorrow!|Unslaad Krosis!}}"''
+|}
+
+==Hearthfire==
+The ''[[Skyrim:Hearthfire|Hearthfire]]'' [[Skyrim:Add-ons|add-on]] lets you build draugr statues in the [[Skyrim:Trophy Room|trophy room]] addition of any homestead. Available options include a draugr in the midst of sheathing its sword on a large base, and a draugr nocking an arrow to its bow on a small base. The materials needed for each option are:
+{|class="wikitable" valign="middle" width="80%"
+!colspan=3|Large Base Draugr
+!rowspan=2 style="background-color:Papayawhip" width=0.5|
+!colspan=3|Small Base Draugr
+|-
+|colspan=2| 
+:
+* 5 [[Skyrim:Bone Meal|Bone Meal]]
+* [[Skyrim:Ancient Nord Sword|Ancient Nord Sword]]
+* [[Skyrim:Straw|Straw]]
+|width=1px style="padding:0"|[[File:SR-trophy-Draugr Large.jpg|frameless|175px]]
+|colspan=2|
+:
+* 5 Bone Meal
+* 6 [[Skyrim:Ancient Nord Arrow|Ancient Nord Arrow]]
+* [[Skyrim:Ancient Nord Bow|Ancient Nord Bow]]
+* Straw
+|width=1px style="padding:0"|[[File:SR-trophy-Draugr Small.jpg|frameless|175px]]
+|}
+
+==Notes==
+* All draugr belong to the {{Faction|Creature Faction}} and the {{Faction|DraugrFaction}}. The [[#Draugr Thrall|Draugr Thrall]] belongs to the {{Faction|dunFolgunthurThrallFaction|nocat=1}} as well.
+* Several spectral draugr can be found in [[Skyrim:Labyrinthian|Labyrinthian]] during the quest [[Skyrim:The Staff of Magnus|The Staff of Magnus]], along with [[Skyrim:Spectral Warhound|Spectral Warhounds]]. These draugr variations drop spectral weapons: [[Skyrim:Drainheart Sword|Drainheart Swords]], [[Skyrim:Drainblood Battleaxe|Drainblood Battleaxes]], and the [[Skyrim:Drainspell Bow|Drainspell Bow]].
+* For draugr at rest (in a niche or standing) in a catacomb a good rule of thumb is that if it is wearing clothes, it can come to life and attack. 
+* Draugr that are naked and nearly skeletal, draugr on the second tier of niches, and draugr wrapped like mummies cannot come to life. These draugr act like burial urns and if you have the [[Skyrim:Prowler's Profit|Prowler's Profit]] ability from the [[Skyrim:Thieves Guild (faction)|Thieves Guild]] [[Skyrim:No Stone Unturned|Stones of Barenziah]] quest, they will contain gemstones.
+*Draugr and Draugr Deathlords do not have a magic-using variant; they can only be archers, one-handed fighters or two-handed fighters. Hulking Draugr cannot be magic users, archers or two-handed melee fighters. Draugr Death Overlords can only be one-handed melee fighters and two-handed fighters. All non-named boss Draugr also cannot cast spells, and instead will be either a one-handed or two-handed melee fighter; boss Draugr also cannot belong to the archery class.
+*If you manage to disarm a draugr (either through the [[Skyrim:Disarm|Disarm]] shout or the Disarming Bash perk in the [[Skyrim:Block|Block]] skill tree), they will have a unique animation for unarmed attacks and deal very low unarmed damage. If there is a replacement weapon around (such as an Iron Battleaxe), they will equip and use it, even if they weren't a two-handed melee fighter in the first place.
+*Halldir's clones and Jyrik Gauldurson are the only two Draugr in the game that use all elements (fire, frost and shock) against you. All other spellsword Draugr use frost magic exclusively.
+*Red Eagle, Warlord Gathrik, and Yngol may appear as [[Skyrim:Dragon Priest|Dragon Priests]] at higher levels. This is determined by the [[Skyrim:Radiant|radiant]] system.
+*The two Draugr that you can make in the [[Skyrim:Trophy Room|Trophy Room]] of your homestead are the same two models seen in the [[Skyrim:Loading Screens|loading screens]].
+
+==Bugs==
+{{Bug|Dragons and draugr are considered enemies, even though dragon priests are allies to both.|USKP|1.2|fixdetail=Dragons and draugr are no longer hostile to one another.}}
+{{Bug|Some female draugr can appear with a beard. This is caused by the LvlDraugrAmbushWarlockFemale specifically, which allows the use of male templates with female bodies.|confirmed=1|USKP}}
+{{Bug|Although Red Eagle, Warlord Gathrik, and Yngol can all spawn as Dragon Priests at higher levels, the backstories behind these characters makes this extremely unlikely to have been the case. Plus, in the case of Warlord Gathrik, spawning him as a dragon priest will break the quest at Ironbind Barrow.|USKP|1.3.2}}
+
+==See Also==
+* For historical information, see the [[Lore:Draugr|lore article]].
+
+===Books===
+* {{Book Link|Amongst the Draugr}}
+
+==Gallery==
+<gallery>
+File:SR-creature-Draugr Thrall male.jpg|A male Draugr Thrall
+File:SR-creature-Draugr Restless female.jpg|A female Restless Draugr
+File:SR-creature-Draugr Scourge Female.jpg|A female Draugr Scourge
+File:SR-creature-Draugr Scourge Male 02.jpg|A male Draugr Scourge
+File:SR-creature-Draugr attack.jpg|A Draugr attacking
+</gallery>

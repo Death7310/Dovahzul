@@ -1,0 +1,38 @@
+<noinclude>{{Lore People Summary
+|race=Unknown
+|gender=Male
+|name=Hoar Father
+|title=
+|birth=
+|birthLoc=
+|death=
+|deathLoc=
+|loc=Skyrim
+|reignStart=
+|reignEnd=
+|prev=
+|next=
+|appears=
+|image=
+|fullimgdesc=
+}}</noinclude>
+The [[Lore:Hoar Father|Hoar Father]] (also written as the '''Hoarfather'''{{Ref|name=ARExclamations|[[Arena:Nord|Nord]] exclamations in ''[[Arena:Arena|Arena]]''}} or '''Fodiiz Bormah''' in the [[Lore:Dragon Language|Dragon language]]){{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}} was a philosophical figure that is revered in [[Lore:Skyrim|Skyrim]]. Not much is known about the Hoar Father but his ancient teachings have been mainly recounted by the ancient [[Lore:Nord|Nords]], as his words have been documented on various [[Lore:Word Walls|Word Walls]] across the province, including on [[Lore:Solstheim|Solstheim]]. His name is often exclaimed by the modern-day Nords, such as in the common expression "by the Hoarfather".{{Ref|name=ARExclamations}}<noinclude>
+{{NewLine}}
+
+==Quotes==
+*''"It is duty of each man to live with courage and honor lest he fade unremembered into darkness."''{{Ref|name=SREthereal|[[Skyrim:Become Ethereal#Word Walls|Become Ethereal]] first word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"[The] best weapon of Skyrim is [the] mind of [a] steel-souled warrior."''{{Ref|name=SRDisarm|[[Skyrim:Disarm#Word Wall Translation|Disarm]] first word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"Fear not [the] specter of [[Lore:Death|death]], for he is [the] herald of glory and your guide to great [[Lore:Sovngarde|Sovngarde]]."''{{Ref|name=SRDismay|[[Skyrim:Dismay#Word Wall Translations|Dismay]] first word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"Even [the] best steel may bend and break, but flesh of true men is unyielding."''{{Ref|name=SRIce|[[Skyrim:Ice Form#Word Wall Translation|Ice Form]] second word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"Pray not for peace, for such is [the] wish of [the] weak and cowardly."''{{Ref|name=SRKyne|[[Skyrim:Kyne's Peace#Word Wall Translations|Kyne's Peace]] second word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"To kill in glorious war is to honor oneself, to die in glorious war is to honor all of Skyrim."''{{Ref|name=SRMarked|[[Skyrim:Marked for Death#Word Wall Translations|Marked for Death]] first word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"[[Lore:Oblivion|Oblivion]] hath no fury like [a] shield maiden scorned."''{{Ref|name=SRWhirlwind|[[Skyrim:Whirlwind Sprint#Word Wall Translations|Whirlwind Sprint]] second word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+*''"[A] warrior fights his inner evils, but [a] king unleashes them on his enemies."''{{Ref|name=TESVSPOGG}}{{Ref|name=DBCyclone|[[Skyrim:Cyclone#Word Wall Translations|Cyclone]] second word wall in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+*''"Deceive not your wife, for she is [the] oak in your shield, [and the] steel in your sword."''{{Ref|name=SRPhantom|[[Skyrim:Phantom Form#Word Walls|Phantom Form]] second word wall in [[Skyrim:Skyrim|''Skyrim'']]}}
+==Notes==
+*[[Lore:Hoar Frost Root|Hoar Frost Root]] is a plant known for its healing properties. It's one of the known medicines for the Lunar Chills [[Lore:Disease|disease]].{{ref|name=The Healing|Events of [[Daggerfall:The Healing|The Healing]] in ''[[Daggerfall:Daggerfall|Daggerfall]]''}}
+
+==References==
+<references/>
+{{Lore Nord Religion}}
+</noinclude>

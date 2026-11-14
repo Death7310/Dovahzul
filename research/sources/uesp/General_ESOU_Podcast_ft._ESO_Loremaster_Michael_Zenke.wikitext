@@ -1,0 +1,339 @@
+{{Trail|Interviews}}__NOTOC__{{Real Summary
+|title=ESOU Podcast ft. ESO Loremaster Michael Zenke
+|date=June 1, 2023
+|interviewee=[[General:Michael Zenke|Michael Zenke]]
+|interviewer=NefasQS, Audens, Olibeau, Anonnex 
+|host=Twitch, You Tube
+|link=https://www.youtube.com/watch?v=5nXH57Xp-y8
+|image=
+|medium=Online
+|format=Podcast
+}}
+In the 37th episode of the ESOU Podcast, Olibeau and NefasQS bring ESOU Loremasters Audens and Anonnex/Ce-Nex to chat with ESO/Zenimax Online Studios Loremaster Michael Zenke to talk about all things [[Lore:Main Page|lore]] while exploring the process behind the creation of lore.
+----
+
+[Omitted preceding content, starting at community questions section]
+
+'''Loremaster Michael Zenke''': I will just state this as a front thing, upfront; I want to be really clear. One of the reasons I really like the [[Lore:Loremaster's Archive|Loremaster's Archive]] format is it lets me do some of this stuff inside that unreliable narration framework that we talked about, right?
+
+'''Anonnex''': Within the character, yeah, yeah.
+
+'''Loremaster Michael Zenke''': Exactly, right? Like if [[Lore:Divayth Fyr|Divayth]] or my buddy [[Lore:Azandar al-Cybiades|Azandar]], if they make statements that... actually it was great cause I think Azandar said more inflammatory things then Divayth did which is great. If Azandar says something ridiculous, right? It’s not me saying it, it’s Azandar.
+
+'''NefasQS''': Right.
+
+'''Loremaster Michael Zenke''': I want to preface all this with: I am happy to give you guys some high-level viewpoints of me, Michael Zenke the dude, but like, I’m very hesitant to be like “And here’s my wizard hat, and now here’s the unvarnished, the true truth of [[GEN:The Elder Scrolls|The Elder Scrolls]] franchise!” Cause I’m just like that’s just not the job, right?
+
+'''NefasQS''': Right.
+
+'''Loremaster Michael Zenke''': That’s just not what I do inside the building and I don’t want to present that as what I do for you guys, either. So I would love to talk about some specific lore stuff, but let’s keep it in that framework if that’s okay.
+
+'''NefasQS''': For sure.
+
+'''Anonnex''': Yeah.
+
+'''Olibeau''': Of course.
+
+'''Loremaster Michael Zenke''': Like, we’re having a conversation.
+
+'''Audens''': We do not expect definite answers.
+
+'''Anonnex''': Yeah, yeah, yeah.
+
+'''Loremaster Michael Zenke''': Okay, great!
+
+'''Olibeau''': Yeah.
+
+'''Anonnex''': So the first question is: Way back in the base-game, in [[Lore:Coldharbour|Coldharbour]], there’s a lorebook in the [[ESO:Library of Dusk|Library of Dusk]], and within the lorebook it lists a bunch of other lorebooks that are kept within the library.
+
+'''Loremaster Michael Zenke''': Oh, for sure, yeah.
+
+'''Anonnex''': Some are just mind blowing. Apparently [[Lore:Molag Bal|Molag Bal]] at one point had the blueprints of [[Lore:Numidium|Numidium]]. And then, there are letters of correspondence between [[Lore:Alessia|Alessia]] and [[Lore:Belharza|Belharza]], an apocryphal account of [[Lore:Pelinal Whitestrake|Pelinal Whitestrake]] conversing with the [[Lore:Heart of Lorkhan|Heart of Lorkhan]]. Is there any chance we will ever see some of these books in-game?
+
+'''Loremaster Michael Zenke''': That’s a great question, and I will answer it exactly the same way that we talked about like, the [[Lore:Aedra|Aedra]] showing up in the game, right? I think any book that we wrote, right, for some of those books, would not do any justice to what you folks have in your head about what the content of that book would be. Now, I think partially yes, we could do some stuff - in fact, I very specifically, I think this was a topic of conversation a while back with The Imperial Library folks, and I had this in my head as I was doing some writing for the zone flavor text in the [[ESO:Necrom (Chapter)|Necrom]] release. And so, like, for example, Apocrypha’s quote, its blurb is from [[Lore:Morian Zenas|Morian Zenas]], out of his book that we will never write the full scope of. That’s an example of where I think excerpts from those books or like little nuggets from those books might find their way out into the world. Cause I agree with you, they’re like super fascinating like, texts to reference, right? But I wouldn’t think we’d ever go out of our way to like “We’re going to write out the whole of Morian Zenas’ treaties,” right? 
+
+'''Anonnex''': Yeah, yeah.
+
+'''Loremaster Michael Zenke''': And put it out in the world, cause I just don’t think it would be as fun as what we all have in our heads of what that could be.
+
+'''Audens''': Please do that, that would be awesome. That’d be very cool.
+
+'''Anonnex''': So you’re saying, possibility of fragments that we get, not the entire... Um -
+
+'''NefasQS''': Uh - sorry, what?
+
+'''Anonnex''': No, go ahead.
+
+'''NefasQS''': In Vegas, is it true that you were responsible for the naming of the food dishes and the drinks? 
+
+'''Loremaster Michael Zenke''': [laughs] Yes, yes I was.
+
+'''NefasQS''': Cause I heard that when we were in Vegas, I’m like “Oh, that’s pretty cool!” but I just wanted to ask you, I didn’t get to ask you in Vegas if that’s true.
+
+'''Loremaster Michael Zenke''': This is an example of one of the weird things that I do for my job. Sometimes the marketing folks are like “Hey, we got these like food things, can you theme?” I did have lore blurbs for everyone too. 
+
+'''NefasQS''': Yeah.
+
+'''Loremaster Michael Zenke''': I was bummed, like the little cards weren’t big enough to put the little lore blurbs. You know, as a writer, I’m always wanting to cram more text into place, right?
+
+'''NefasQS''': Right.
+
+'''Loremaster Michael Zenke''': But yeah, no, that was a fun exercise!
+
+'''Olibeau''': I literally have [[Books:The Elder Scrolls: The Official Cookbook|The Elder Scrolls cookbook]] right here, so let’s test you on some of them! [laughs]
+
+'''Loremaster Michael Zenke''': [laughs] I love that thing!
+
+'''NefasQS''': These were drinks and foods I believe, he named, not from the cookbook, this is -
+
+'''Olibeau''': Yeah, of course.
+
+'''NefasQS''': Like [[ESO:Arcanist's Domain|Arcanist’s Domain]], that was a better drink than the [[Lore:White-Gold Tower|White-Gold]] in my opinion.
+
+'''Loremaster Michael Zenke''': [[ESO:Arcanist|Arcanist]]’s Domain was great.
+
+'''NefasQS''': Yeah, I love the Arcanist’s Domain.
+
+'''Loremaster Michael Zenke''': One of the fun parts, actually, if I can take this in a slightly serious direction for a second?
+
+'''NefasQS''': Sure, sure.
+
+'''Loremaster Michael Zenke''': Actually, the White-Gold Fashioned was the name of the old fashioned there. That’s a great example of... when I was looking at the drinks, I was like “I need good names for these!” so I threw it out to the writers as a whole. Like, collaborating with the writing group, and picking their brains and finding interesting avenues is one of my favorite things, because we have a tremendously talented group of writers who works on ESO.
+
+'''NefasQS''': Right.
+
+'''Loremaster Michael Zenke''': And like, again, I’m just one guy. And so, like, finding different avenues to look into the lore, we do this all the time about much more serious things than what to make a drink at a fan event. But, like, that’s an example of one where I was like “Hey guys, I don’t have a good name for the old fashioned, help me out here.” And I believe it was Julie who pulled that one out. Cause I never would have come up with the White-Gold Tower. That is not a thing that I would’ve pulled out of my head, and I just freaking love that.
+
+'''NefasQS''': That’s pretty cool.
+
+'''Olibeau''': Do you do the [[Lore:Fish|fish]], as well? Cause I feel the fish are quite, like lore as well, kind of.
+
+'''Loremaster Michael Zenke''': Yeah. Yeah, I did all the rest, cause it’s just, freaking, yeah...
+
+'''Olibeau''': [laughs] That’s amazing.
+
+'''NefasQS''': Oh speaking -
+
+'''Anonnex''': So, this...
+
+'''NefasQS''': Sorry.
+
+'''Anonnex''': Go ahead.
+
+'''NefasQS''': No, go, go on, please.
+
+'''Anonnex''': So the next question is actually from me, and it is a question I’ve been asking for, since I think 2019, I’ve been trying to find an answer to this question. [[Lore:Nahfahlaar|Nahfahlaar]] calls [[Lore:Ja'darri|Ja’darri]] ‘Toshrakhat’. That’s the title he uses for her in the [[Lore:Dragon Language|Dragon Language]]. And I’ve been wondering for the longest time, the word Tosh in Dragon, is it the same definition as in, we see that [[GEN:Lawrence Schick|Lawrence Schick]] gave for [[Lore:Old Nedic|Nedic]] and [[Lore:Aldmeris (language)|Aldmeri]]? As in it means ‘[[Lore:Dragon|Dragon]]’ or ‘[[Lore:Akatosh|Time]]’ within the context?
+
+'''Loremaster Michael Zenke''': I’m just reading a little bit about what you’re talking about here. So, from context that sounds like a good interpretation to me, right? I would very much say this is a great example of where, like, I think the way that characters interact with each other and the life that they breathe between them, right? Like what I just heard you say tracks for me, I think, with the intent behind the line, but I am hesitant to be like, you know, “And that’s the objective truth of like, [[Lore:Tamriel|Tamriel]], of this experience” within the experience of the quest, right? I think the relationship between those two characters, you know, you don’t need one word to sort of suss out what the relationship is like, if that makes sense as an answer.
+
+'''Anonnex''': Yeah, because the dialogue between us lore nerds, it generally means ‘Toshrakhat’, some translation to ‘Dragon Friend’ or ‘Dragon Ally’. The ‘Rakhat’ part has been very conjecture on our part but for ‘Tosh’, what we have through the etymologies you guys have established, that’s what we used to get that at the very least. Let’s see, this next question is actually -
+
+'''Audens''': I have a question. Can I ask a -
+
+'''NefasQS''': Oh, go ahead, go ahead. Okay, I’ll ask the next question.
+
+'''Audens''': Alright, so in the [[Lore:Loremaster's Archive - House Telvanni|Divayth Fyr Loremaster’s Archive]], there is a very small mention of the city that has not been seen since [[Arena:Arena|''Arena'']], [[Lore:Firewatch|Firewatch]]. And I believe Divayth says outsiders should not go to Firewatch. Is there a reason for that? Does it suck there?
+
+'''NefasQS''': [laughs]
+
+'''Loremaster Michael Zenke''': Oh, in context there he was being threatening.
+
+'''NefasQS''': Oh...
+
+'''Loremaster Michael Zenke''': He was like, you know, don’t come sniffing around if you don’t want to deal with - like, one of the things, you know, I just mentioned earlier, right? Like, the view we sort of had was the [[Lore:House Telvanni|Telvanni]] house as a Silicon Valley startup culture. Well, in that ecology, if you imagine sort of a tech valley startup, Divayth is even worse than any of those other chuckleheads cause he’s a consultant.
+
+'''Olibeau''': Okay... [laughs]
+
+'''Loremaster Michael Zenke''': And consultants, they get paid through the nose, they can do and say anything, they’re the worst! So that’s why I love the idea of Divayth being the front man to talk for the house, is because if he said anything crazy, right, the capital C Council, the Council proper, could just say like “Eh... Divayth doesn’t actually... he like works for us, he works with us, but he’s like, not actually of us, right? So they could parse blame out to him. So that was what was in my head when I was like, who should we have, right, for the Loremaster’s Archive. So yeah, I love Divayth... [laughs] he’s a great character!
+
+'''NefasQS''': [laughs]
+
+'''Olibeau''': [laughs]
+
+'''Anonnex''': I love him too, and the fact that he’s so old too, like he’s been around since [[Lore:Nerevar|Nerevar]]’s age.
+
+'''Loremaster Michael Zenke''': Yeah, right.
+
+'''Anonnex''': So this next question is from Reddit, teslore. Will we see, cause we’ve already been to [[Lore:Adamantine Tower|Adamantia]], in the very beginning, and you guys added that [[ESO:The Gates of Adamant|starter quest zone]]...
+
+'''NefasQS''': Oh, yeah.
+
+'''Anonnex''': Will we visit Adamantia once again? Will it be portrayed within the story? And will we finally get to see the Argent Aperture that’s mentioned in the lorebook [[Lore:Once|''Once'']]? The thirteen locking rings that are next to the Zero Stone?
+
+'''Loremaster Michael Zenke''': Great question, so to make sure I’m understanding the first part of the question, you’re talking about the starter experience, where you go through the different portals?
+
+'''Anonnex''': Yes, Adamantia, the tower? So -
+
+'''Loremaster Michael Zenke''': Right, the Adamantine Tower. So, you’re asking, like, would we ever use that in a different context, or like a different piece of content, other than the starting piece.
+
+'''Anonnex''': Yeah, yeah. That’s the...
+
+'''Loremaster Michael Zenke''': I mean, I’m never going to say we’re never going to do something. That starter is really good, right? And it like, it fits really well with our like, ever-expanding, like framework of options when you first start a character. So, like, if doing new content there would require like, deprecating or removing that as a starting experience, I’m going to say probably not?
+
+'''NefasQS''': Understandable.
+
+'''Loremaster Michael Zenke''': But again, I don’t know the future on this axis. I don’t know the future any better or worse than you do. So like, maybe? I certainly don’t think that... if there was a good reason to use the Tower as a setting for a piece of content, I don’t think that there’s any particular reason why we wouldn’t. But again, that starter experience is awesome, so I can’t imagine us taking that out of the game.
+
+'''NefasQS''': Yeah.
+
+'''Loremaster Michael Zenke''': Don’t quote me on that!
+
+'''NefasQS''': [laughs]
+
+'''Loremaster Michael Zenke''': That’s just like me thinking out loud, right?
+
+'''NefasQS''': This is... Right, yeah.
+
+'''Loremaster Michael Zenke''': Because of that, then, I would guess probably no. Like, I don’t think anytime soon we’re going to see the Argent Aperture like show up as the focus of a piece of content, if that makes sense. But again! [puts hands up]
+
+'''NefasQS''': We have a...
+
+'''Anonnex''': Alright, let’s see, this next question also from... I’m sorry.
+
+'''NefasQS''': We have about five minutes left.
+
+'''Audens''': I have a super quick question.
+
+'''NefasQS''': Okay, okay.
+
+'''Audens''': Is [[Lore:Miraak|Miraak]] [mur-awk] around, yes or no? Like...
+
+'''Loremaster Michael Zenke''': Sorry, what?
+
+'''Audens''': Did you consider him at all, like when writing Apocrypha for Necrom?
+
+'''NefasQS''': Miraak? [meer-ack]
+
+'''Audens''': Yeah, Miraak. [meer-awk]
+
+'''NefasQS''': Oh, okay.
+
+'''Audens''': Yeah, you know, from [[Skyrim:Dragonborn|Dragonborn]]?
+
+'''Loremaster Michael Zenke''': Sorry, Miraak [meer-ack], okay, yeah!
+
+'''Audens''': Miraak? [mare-ick] I...
+
+'''Loremaster Michael Zenke''': I would say... it’s okay, look who you’re talking to! Like, I don’t, literally I was like “Miraak? [mur-ack] Miraak? [meer-ack] Who is he talking... Oh, oh, that guy! Okay great!”
+
+'''NefasQS''': [laughs]
+
+'''Loremaster Michael Zenke''': I’m not going to give any details. But, it is possible there is content in the game that references him in some way.
+
+'''Audens''': Well, thank you! That’s cool.
+
+'''NefasQS''': Okay. I have a couple questions from audience members. These should be quick questions. So, and this is actually, before I ask the first question, I have a tangent because I think in San Francisco and Vegas, when I was talking to devs, it came up a lot the fact that the tooltips for the Arcanist skills, this was a very heavy collaborative area between the writers, and the lore team, and the combat developers for tooltips, and this question kind of pertains to that. In the skill Arcanist's Domain, there are terms mentioned: the vigoratum of [[Lore:Hermaeus Mora|Hermaeus Mora]], the enigmatum of Morian Zenas, and the leviath... sorry, leviathanum [leviathan-im] of the Abyssal Sea. Tongue-twisters here.
+
+'''Loremaster Michael Zenke''': Leviathanum. [levia-thawn-um]
+
+'''NefasQS''': Yep. What are those terms, and how do they relate to the Arcanist [[Lore:Magic|arcane spell forms]]? Are they just books?
+
+'''Loremaster Michael Zenke''': So when I was working with the combat team on the Arcanist tooltips, one of the things that I love is the opportunity to put lore and context and narrative in sort of unexpected places. Our tooltips for the class, right, are a great opportunity to speak to... internally, right, what Arcanists think about themselves, what they care about, and what they value, right? In the [[Lore:Loremaster's Archive - The Arcanists|recent Loremaster’s Archive]], Azandar speaks a little bit to - there’s a throwaway reference in the tooltips to [[Lore:Rune Knights of the Purgatory Disquisition|rune knights]], and he expands on that as well. So, this is a place where I will say I don’t want to be spoiler-y, but all of the references called out in the Arcanist tooltips are sort of like, real. Whether or not they’re well-explored in this release or maybe in a future release there is content and ideas behind all of them. The Arcanist was a great experience. I wrote like, a whole jillion things that have absolutely nothing to do with what we actually shipped! 
+
+'''NefasQS''': Okay.
+
+'''Loremaster Michael Zenke''': And so, like, a lot of those ideas are still in my head or in a doc and the tooltips and that kind of framing was a great chance to like, let some of that sort of leak into the zeitgeist of the game. So, in particular, those three examples are, yeah, sorry, I think I’ll call it good there.
+
+'''NefasQS''': Yeah, yeah. [laughs]
+
+'''Loremaster Michael Zenke''': It’s all real stuff, you just have to go looking for it.
+
+'''NefasQS''': Okay, okay. So...
+
+'''Anonnex''': Alright so, I just...
+
+'''NefasQS''': Sorry, one more.
+
+'''Anonnex''': Okay.
+
+'''NefasQS''': Did [[General:Wes Johnson|Wes Johnson]], the voice actor, create new lore when he said that Shivering [[Lore:Cheese|Cheese]] is made from [[Lore:Silt Strider|Silt Strider]] milk?
+
+'''Olibeau''': [laughs]
+
+'''NefasQS''': [laughs]
+
+'''Loremaster Michael Zenke''': [laughs] I love that stuff! I would say that just like as I, Michael Zenke, am just sitting here talking to you guys, I am not the voice for lore.
+
+'''NefasQS''': Right, right.
+
+'''Loremaster Michael Zenke''': You know, I think that applies to everybody, right? We’re just out here doing our thing, talking our talk. I love the relationship that Wes has with the characters that he kind of inhabits. He’s such a passionate dude. It is awesome to watch him do his thing. So yeah, I loved all the, man, the stuff from the last couple weeks. Voice-a-palooza, like incredible. Like super, super freaking fun.
+
+'''NefasQS''': Yeah. I think...
+
+'''Anonnex''': I suppose we’ll make... go ahead.
+
+'''NefasQS''': Sorry, I think you have one more question, and then Olibeau has one question, and then I think we’ll finish up there, yeah?
+
+'''Olibeau''': Oh, yeah.
+
+'''Anonnex''': Yeah. This is the last question from me from Reddit also. A user’s asking: Why are [[Lore:Daedra|Daedric]] shrines absent from the [[Lore:Telvanni Peninsula|Telvanni Peninsula]]?
+
+'''Loremaster Michael Zenke''': That is a great question. So, the easy answer is... here, I’ll answer it this way. The Telvanni are very particular about what face that they present to the world, right? One of my favorite things I got to write for this release - sorry, I wrote a bunch of things for this release I really like - but, one of my favorite things is the actual letter that they sent to the Pack, the Covenant, and the Dominion, where they were like, “Politely, screw yourselves.” The way that they cultivate their image, right, in what they show and what they don’t show, is something I think you should keep in mind as you traverse the peninsula, right? So, within [[Lore:Necrom|Necrom]] proper, within the city, because of the role the city, and the fact that the [[Lore:Keepers of the Dead|Keepers of the Dead]] are pretty much in control, although if the Telvanni had a problem with what the Keepers were doing, like I feel like there would be conflict there. But in the rest of the region and in the rest of the zone, the Telvanni have been very cautious about how they present themselves to people visiting. So, the way I would frame this is, you need to look carefully to try to find sort of the substrate stuff going on, right? Like, the fact that there aren’t really obvious, you know, shrines to the [[Lore:House of Troubles|Four Corners]] or whatever, right? Like, that’s absolutely true, that is a true thing. To say that there’s no Daedric shrines at all, or that there’s no Daedric worship at all? I’m not sure that that’s accurate. So I would, like, try to look beneath the surface a little bit.
+
+'''Anonnex''': So they’re just very subtle about it?
+
+'''Loremaster Michael Zenke''': [nods]
+
+'''NefasQS''': Okay, yeah. Oli?
+
+'''Olibeau''': And then I guess, just finally, obviously it’s been a fascinating conversation, and it’s definitely sort of peaked my interest in there, but coming from a person that’s never been super invested in the lore and read too much about it, how would you explain to someone who knows nothing about The Elder Scrolls lore or universe, someone coming to it brand new. What’s it all about? What would be your like, movie pitch, for why should people be interested in Elder Scrolls Online?
+
+'''Loremaster Michael Zenke''': Absolutely!
+
+'''Olibeau''': Like, when they start?
+
+'''Loremaster Michael Zenke''': You should be interested in The Elder Scrolls as lore, as IP, because it’s like the real world, only moreso. Everything that you know and understand from, like, real life culture and politics and the challenges that we’ve lived as a species for the last, you know, on and off, two thousand, three thousand years, right? Like, that’s there in Tamriel, only moreso, with Dragons!
+
+'''Olibeau''': [laughs]
+
+'''Loremaster Michael Zenke''': And it’s like [[Lore:History|history]]! But with Dragons! That’s my pitch.
+
+'''Olibeau''': Yeah.
+
+'''Loremaster Michael Zenke''': I genuinely think that, like, let’s take [[Lore:Dunmer|dark elves]] as an example, right, cause they’re coming up in Necrom. Dark elves are like this portable story unit in a bunch of different fantasy spaces, right? But generally speaking, they end up being sort of, like, they have a bunch of traits that follow them from place to place, stemming back to sort of their origin point. They usually really like [[Lore:Spider|spiders]], as an example, right? Dark elves love spiders. In Tamriel, everything is super specific. So even if you watched Lord of the Rings, say, right? You think you know about dwarves, like, you have a vague understanding of what elves are about, right, like, Tamriel is going to surprise you. Because man, do we have a bunch of stuff that’s, like, never going to be mentioned by Tolkein, like, it’s from a bunch of like, very different, very creative minds, that have built on and reference a lot of the work that’s come before them, but the world that we inhabit when we play Elder Scrolls Online, the place that we’re in when we’re in Tamriel is a very different, weirder, more complicated, I think more interesting place than some of the other depictions you’re going to see of sort of generic fantasy tropes. That’s my pitch.
+
+'''NefasQS''': That’s a great pitch, alright.
+
+'''Olibeau''': I mean, when’s the movie coming out, yeah? [laughs]
+
+'''Loremaster Michael Zenke''': [laughs]
+
+'''Audens''': [laughs]
+
+'''NefasQS''': [laughs] I mean, honestly, the cinematic trailers though, they could make a movie, no?
+
+'''Olibeau''': Yeah, they could be.
+
+'''Audens''': Blur are just very good at their jobs.
+
+'''NefasQS''': Yeah.
+
+'''Loremaster Michael Zenke''': So good. This wasn’t even Blur this last time. There’s a new -
+
+'''Audens''': Oh, really?
+
+'''Loremaster Michael Zenke''': Yeah.
+
+'''Audens''': Cool!
+
+'''Loremaster Michael Zenke''': Yeah. Really, really good.
+
+'''NefasQS''': Alright, and I’ll guess we’ll wrap it up there. Thanks so much for answering these questions and taking the time out of your day. I know it’s release soon, and then you’re probably busy. Really appreciate it, and really appreciate you.
+
+'''Olibeau''': Yeah, thank you so much.
+
+'''Loremaster Michael Zenke''': You guys have been great! I hope folks enjoy playing - I mean, it’s next week, right?
+
+'''NefasQS''': Oh, yeah.
+
+'''Olibeau''': Yeah.
+
+'''Loremaster Michael Zenke''': Like, I hope people enjoy it, and I look forward to seeing what people think.
+
+'''NefasQS''': Yeah, thank you so much.
+
+'''Olibeau''': Thank you.
+
+'''NefasQS''': And, hopefully -
+
+'''Loremaster Michael Zenke''': Alright, nice talking to you everybody! Thanks, everybody!

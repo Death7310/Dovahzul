@@ -1,0 +1,65 @@
+{{Mod Header|Dawnguard}}
+{{Shout Summary
+|id=xx008a62
+|icon=SR-icon-shout-Marked for Death.png
+|quote=Coax both magical and mortal energies from your hapless opponent.
+|word1=GaaN
+|wordid1=xx008a65
+|cooldown1=30
+|info1=Drains 5 points of Stamina per second for 30 seconds.
+|location1=[[Skyrim:Arcwind Point|Arcwind Point]]
+|word2=Lah
+|wordid2=xx008a64
+|cooldown2=60
+|info2=Drains 5 points of Stamina and Magicka per second for 30 seconds.
+|location2=[[Skyrim:Dimhollow Crypt|Dimhollow Crypt]] (quest locked)
+|word3=HaaS
+|wordid3=xx008a63
+|cooldown3=90
+|info3=Drains 5 points each of Stamina, Magicka, and Health per second for 30 seconds.
+|location3=[[Skyrim:Forgotten Vale|Forgotten Vale]] (quest locked)
+|mod=DG
+|transword1=stamina
+|transword2=magicka
+|transword3=health
+|spellid1=xx008a61
+|spellid2=xx008a5f
+|spellid3=xx008a5e
+}}[[Category:Skyrim-Dawnguard]] [[Category:Skyrim-Dawnguard-Magic]]
+
+'''Drain Vitality''' is a [[Skyrim:Dragon Shouts|dragon shout]] introduced in the [[Skyrim:Dawnguard|Dawnguard]] [[Skyrim:Add-ons|add-on]] that drains stamina, magicka, and health from an enemy. The [[Skyrim:Dragon|dragons]] added by Dawnguard, Revered and Legendary, each have their own version of this shout. Their versions of the shout drain 5 and 7 stamina, magicka, and health per second, respectively, for a duration of 20 seconds.
+
+{{NewLeft}}
+
+==Notes==
+* Drain Vitality is not affected by Spell Absorption, Resist Magic, or Cure Poison.
+* There are another four versions of the Shout in addition to the three already mentioned. The four shouts, with consecutive editor ids (<small><code>DLC1DragonDrainVitalityShout02</code>, 03, 04, and 05</small>), deal 1, 2, 3, and 4 damage per second, respectively, for 20 seconds. The two shouts used by the Revered and Legendary dragons have editor ids of <small><code>DLC1DragonDrainVitalityShout06</code></small> and <small><code>DLC1DragonDrainVitalityShout07</code></small>, respectively.
+* With sufficiently shortened cooldown (Amulet of Talos and Blessing of Talos, or abusing the [[Skyrim:Fortify Restoration|fortify restoration glitch]]), it is possible to stack the effects of multiple Drain Vitality Shouts together, which will cause faster and faster resource draining on the affected.
+**Stacked Drain Vitality shouts can cause Dragons to be unable to use their breath attacks and Dwarven Centurions to be unable to use their steam attack. This is because both attacks require magicka to use, and the stacked shouts will drain their reserves completely. Vampires will also be unable to use spells and their Vampiric Drain. Continuing to stack the shout will guarantee an empty magicka and stamina pool to the ones affected.
+* This shout appears in ''[[Legends:Legends|Legends]]'' as the {{Card|Drain Vitality}} card. For the alternate art version of this card, the shout's effects appear as a red and black aura rather than the usual purple effect.
+
+==Word Walls==
+{{WordWall
+|wordwall1=HET NOK KOPRaaN DO SVOLO<br>WO PIRaaK MULaaG Wah KRiiN<br>DOVah NUZ NI {{FC|blue|GaaN}} Wah<br>KRiiN POGaaN
+|translation1=Here lies (the) body of Svolo,<br>Who possessed strength to kill a<br>Dragon but not (the) {{FC|blue|stamina}} to<br>kill many
+|wordwall2=LUNGERD WahLaaN QETHSEGOL<br>ahMULii VahRUKT THORGRIMA<br>DeiNMaaR DO SahQON YOLOS<br>ahRK DROG DO {{FC|blue|Lah}}
+|translation2=Lungerd raised (this) stone<br>in her husband's memory (of) Thorgrima<br>Keeper of crimson fire<br>And lord of {{FC|blue|magicka}}
+|wordwall3=HET Mah ARNVID FaaL<br>STaaDNAU WEN {{FC|blue|HaaS}} DENOS<br>MINDIN KeiN DO GALIK KOLOS<br>ROK OFaaL DILOS AHRaaN 
+|translation3=Here fell Arnvid the<br>Unbound, whose {{FC|blue|health}} declined<br>after (the) War of (the) Pines<br>where he received (a) fatal wound.
+}}
+
+{{NewLine}}
+
+== Bugs ==
+{{Bug|Learning Drain Vitality before learning all three words of [[Skyrim:Marked for Death|Marked for Death]] may cause Marked for Death to become glitched so no newer words may be learned.|UDGP|1.1|dlc=DG}}
+{{Bug|Learning a word of Marked for Death after having installed Dawnguard causes one or two glitched shouts to appear in the Shouts menu. It is named Drain Vitality, but has all three words of Marked for Death. The recharge is 12,12,12 and the bugged description says "Drains ''x'' points of Health per second for 20 seconds. Drains ''x'' points of Magicka per second for 20 seconds. Drains ''x'' points of stamina per second for 20 seconds." ''Using'' the shout causes the effect listed - although no words are actually shouted by the character.|UDGP|1.1.2|dlc=DG}}
+**Learning the Drain Vitality shouts will then result in a second or third Drain Vitality shout, consisting of the right words of power, appearing in your Shout list. Also, if you obtained the location of this shout via the Greybeards, the quest will not update upon learning the Drain Vitality Shout and you will be unable to learn new shouts from the Greybeards.
+**{{pc22}}To fix this bug open the [[Skyrim:Console|console]] and type in the following command: <code>player.removeshout 02018244</code> for the 1 point version or <code>player.removeshout 020181b8</code> for the 2 point version or <code>player.removeshout 020181b7</code> for the 3 point version. Also see [[Skyrim:Form ID|Form ID]] for more information on the xx.
+**A way to fix either bug above is to perform the following steps:
+::# Find a save in which you have not learned any words of Marked for Death and have not started the Dawnguard questline.
+::# Delete/uninstall Dawnguard.
+::# Load up the save and get all three words for Marked for Death.
+::# Reinstall/re-download Dawnguard.
+{{Bug|The Word Wall in the Forgotten Vale may not give you its word, even though it goes through the animations for it. The word also remains glowing on the rock, as if the word is still available.|confirmed=0}}
+
+{{Skyrim Shouts}}

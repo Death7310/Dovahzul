@@ -1,0 +1,40 @@
+{{NPC Summary
+|essential=yes
+|loc=[[Skyrim:High Hrothgar|High Hrothgar]]
+|race=Elder
+|gender=Male
+|level=100
+|class=Priest
+|faction={{Faction|CrimeFactionGreybeard}}; {{Faction|Faction for not using casual idles}}; {{Faction|FavorExcludedFaction}}; {{Faction|Greybeards}}; {{Faction|WIAdditem03ExclusionFaction}}
+|refid=000886B4
+|baseid=0002C6CE
+|image=SR-npc-Borri.jpg
+|imgdesc=Borri
+|skills='''[[Skyrim:Enchanting|Enchanting]]''', '''[[Skyrim:Restoration|Restoration]]''', '''[[Skyrim:Speech|Speech]]''', [[Skyrim:Alchemy|Alchemy]], [[Skyrim:Conjuration|Conjuration]], [[Skyrim:Smithing|Smithing]]
+|aggress=Unaggressive
+|moral=No Crime
+|health=875
+|magicka=50
+|stamina=710
+|voicetype=Unique
+}}
+'''Borri''', an [[Skyrim:Elder|elderly]] [[Skyrim:Priest|priest]], is one of the reclusive [[Skyrim:Greybeards|Greybeards]] in [[Skyrim:High Hrothgar|High Hrothgar]] who refuses to speak, lest a mere whisper of their voice unleashes destruction. Borri teaches you a word of the [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]] [[Skyrim:Shout|shout]] during [[Skyrim:The Way of the Voice|The Way of the Voice]]. He will react when interacted with, greeting you with a muttered "Dovahkiin" and causing the surroundings to rumble in doing so.
+
+Borri wears a set of [[SR:Greybeard's Robes|Greybeard's robes]] with the matching [[SR:Greybeard's Hood|hood]] and [[SR:Greybeard's Boots|boots]]. He carries a [[SR:Flute|flute]], one sample of [[SR:Ice Wraith Teeth|ice wraith teeth]], an [[SR:Amulet of Talos|amulet of Talos]], and one sample of [[SR:Snowberries|snowberries]].
+
+He will start his day at 4am, rising from bed to meditate inside facing the windows, on the mats, changing to a different window each hour. At 12:30pm, he will meditate in the courtyard, as well as in the courtyard tower, occasionally using the [[Skyrim:Clear Skies|Clear Skies]] shout while up there. At 4:30pm he will meditate in front of the shrine in the main entry hall, and at 8pm he will meditate in the main entry hall, rotating positions in a clockwise direction every hour until retiring to his sleeping quarters at 12:30am to read; finally retiring to bed at 2am. He will then sleep for two hours and repeat his daily routine. 
+
+Borri knows the following shouts: [[SR:Disarm|Disarm]], [[SR:Dismay|Dismay]], [[SR:Elemental Fury|Elemental Fury]], [[SR:Fire Breath|Fire Breath]], [[SR:Frost Breath|Frost Breath]], [[SR:Ice Form|Ice Form]], [[Skyrim:Unrelenting Force|Unrelenting Force]], and [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]].
+
+Aside from his greeting to you, the only other word ever heard by Borri is the shout ''"Bex!"'' during the quest The Way of the Voice. The shout in English means ''open''. 
+
+{{NewLeft}}
+== Related Quests ==
+*{{Quest Link|The Way of the Voice}}
+*{{Quest Link|The Horn of Jurgen Windcaller}}
+*{{Quest Link|The Throat of the World}}
+*{{Quest Link|Elder Knowledge}}
+*{{Quest Link|Paarthurnax (quest)}}
+
+== Notes ==
+* Borri is one of only two NPCs in Skyrim that are level 100, the other NPC being the Greybeard [[SR:Wulfgar|Wulfgar]].

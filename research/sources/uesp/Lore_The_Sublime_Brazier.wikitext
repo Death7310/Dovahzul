@@ -1,0 +1,13 @@
+{{Lore Book
+|ONName=The Sublime Brazier (book)
+|ONExtra=([[Online:Imperial City (DLC)|Imperial City]])
+|sumtitle=Mysteries of the Sublime Brazier
+|author=[[Lore:Books by Author#Augusta Purusius|Augusta Purusius]], Associate Historian, Imperial Academy of Records and Histories
+|description=The legend of a mythical cauldron used to kindle the Dragonfires
+}}
+In the brilliant dawn of {{Lore Link|Alessia|St. Alessia}}'s rule, {{Lore Link|Akatosh}}, the Dragon-God of Time, bestowed upon her many gifts: wisdom, temperance, vitality, and eventually the {{Lore Link|Amulet of Kings}}. The Amulet's role in maintaining Akatosh's compact with {{Lore Link|men}} and {{Lore Link|mer}} is well-known. Less well-known is the nature of its counterpart, The {{Lore Link|Sublime Brazier}}.
+
+The Brazier is an expertly wrought cauldron, carved to resemble a roost of {{Lore Link|Dragon}}s. Legends say that the bottom of the cauldron reaches down into the very heart of {{Lore Link|Nirn}}, and that the hewn Dragons whisper to each other in a {{Lore Link|Dragon Language|long-dead tongue}} when no one is near. As to its purpose—the Brazier serves as Akatosh's first light. When kindled, it brings life to the {{Lore Link|Dragonfires}} in {{Lore Link|Imperial City|the city}} above.
+
+The Brazier's location is a closely guarded secret. Some say that Alessia's heirs can hear it calling to them through Aethereal "songs." This belief has guided many misguided souls into the sewers. The prideful and insane who believe themselves to be {{Lore Link|Dragonborn}} descend into the underground, straight into the waiting jaws of the many creatures that lurk there. But then, this may be the true purpose of the Brazier—to test the strength and guile of any person who would be Emperor. The {{Lore Link|Imperial Sewers|v=1}} do not suffer fools. If you do not hear the songs, do not seek the Brazier.
+{{Book End}}

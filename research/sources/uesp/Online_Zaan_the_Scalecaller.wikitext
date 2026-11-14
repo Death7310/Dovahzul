@@ -1,0 +1,141 @@
+{{Mod Header|Dragon Bones}}{{about|the creature|the item set|Zaan}}
+{{Online NPC Summary
+|image=ON-npc-Zaan the Scalecaller.jpg
+|imgdesc=Zaan the Scalecaller
+|race=Nord
+|gender=Female
+|loc=[[Online:Scalecaller Peak|Scalecaller Peak]]
+|faction={{Faction|Scalecaller Cult}}, {{Faction|Dragon Cult}} (formerly)
+|health={{ESO Veteran|normal=1,683,986|veteran=5,131,995}}<br>{{ESO Veteran|veteran=5,901,794}} (Hard Mode)
+|difficulty=3
+|reaction=Hostile
+|condition=Undead
+|drops=
+*[[ON:Infected Flesh|Infected Flesh]]
+*[[ON:Zaan|Zaan]] helm (Veteran only)
+*[[Online:Scalecaller Style|Scalecaller Style pages]] (Veteran only)
+}}{{TOCright}}
+'''Zaan the Scalecaller''' is a renegade [[Online:Dragon Priest|Dragon Priest]] serving as the final boss of [[Online:Scalecaller Peak|Scalecaller Peak]]. She formerly served the dragon [[Online:Thurvokun|Thurvokun]], but after his departure she turned to worshiping [[Lore:Peryite|Peryite]] and has been granted his artifact, the [[Lore:Spellbreaker|Spellbreaker]]. Following her death at the hands of her irritated followers, she has now been awakened by a cult of Peryite, who plan to unleash a terrible plague upon Tamriel.
+
+Zaan drops a guaranteed sample of [[ON:Infected Flesh|Infected Flesh]], and on Veteran difficulty drops a random head piece from [[ON:Zaan|her associated set]]. She drops more samples if defeated in Veteran Hard mode.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Plans of Pestilence}}
+*{{Quest Link|Pledge: Scalecaller Peak}}
+
+==Skills and Abilities==
+As a boss type enemy, Zaan is immune to all crowd control type effects.
+
+;Chilling Strike: A basic melee attack that does moderate physical damage. If taunted the boss will be forced to use this attack on the tank only.
+
+;Fatal Chill: Getting hit by Chilling Strike applies moderate frost damage over time to the player.
+
+;Dragon's Fury: Zaan will target one player with her fire breath. Zaan will stand in place and turn to face you as she exhales. Keep some distance and sidestep the fire waves as they come; the rest of the party should stand behind Zaan to avoid being hit.
+
+;Spellbreaker's Malice: Zaan will bash a target with her shield, dealing very high physical damage around her as indicated by a red circle. If taunted she will be forced to use this attack on the tank only.
+
+[[File:ON-npc-Zaan the Scalecaller 02.jpg|thumb|right|Zaan with Spellbreaker, casting Winter's Purge]]
+;Winter's Purge: At 80%, 60%, 40% and 20%, Zaan will summon two [[ON:Frozen Simulacrum|Frozen Simulacrums]] (three on HM) that the group must destroy to progress the fight. The Simulacra themselves cannot attack the group, but while they are alive players will take moderately high frost damage over time that must be healed through. If they are not killed fast enough, the entire group will freeze to death after 10 or seconds. After this mechanic will be a special room wide version of Pestilent Breath.
+
+;Glacial Impact: The boss slams her mace into the ground dealing high physical damage and knocking back all enemies near her as indicated by a red circle. While this usually occurs randomly, this attack is guaranteed to happen right after Pestilent Breath when Zaan picks up her shield. If you are standing near Spellbreaker when she picks it up, you will be badly hurt.
+
+;Inferno's Hold: Zaan will knock back all enemies around herself as indicated by an expanding red circle, dealing moderate flame damage to all enemies near her. This stun can be broken free from. Following that, Zaan will lift one player into the air, preventing them from moving or using abilities. This stun cannot be broken and is part of the Jet of Flame mechanic.
+
+;Jet of Flame: A beam of fire will connect Zaan and the targeted player, dealing very high flame damage over time, with each consecutive hit dealing more damage. Another teammate must rush in front of the beam of fire connecting the affected player to Zaan and block the incoming damage to protect them. It is advised that the tank does, as most DPS players will not be able to withstand more than two or three hits from the beam even with blocking. Alternatively, players can take turns blocking the beam if needed to keep the overall damage on each player low. This attack is usually followed by Pestilent Breath, albeit with only one statue active.
+
+;Pestilent Breath: Every now and then, one of the three statues dedicated to Peryite in the north corner of the room will spit poisonous fumes, dealing high poison damage on normal and flat-out one-shotting players on veteran difficulty. Each statue corresponds to the left, middle and right side of the arena respectively. Stand near the edges of these areas to be better able to avoid the poison. Standing nearer to the statues also reduces the amount of distance you need to travel to avoid the poison as the cones are thinner near the statues. <br> A special room wide version of this attack occurs right after Winter's Purge is complete and the Simulacrums are dead. Zaan will drop her shield and all three statues will glow while a massive AOE will fill the whole room. You must run to where Zaan drops her shield and stand in its protective aura in order to survive. On hard mode, only one person can use Zaan's shield as an avoidance mechanic. For more information, see the [[ON:Breaker of Spells|hardmode]] achievement for this fight.
+
+==Dialogue==
+Intro:
+:''"Did Thurvokun send you to usurp me? To take this temple back?"''
+:''"No matter. This mountaintop shall be your grave. Just as it was mine."''
+
+Beginning combat:
+:''"He left me, abandoned me! But now I serve another!"''
+:''"Once, I was worshiped. Now I shall be feared!"''
+:''"I rule over this mountain! And you shall feel my wrath."''
+:''"My Lord demands an offering! Your corpses shall do nicely."''
+
+Casting room wide Pestilent Breath:
+:''"Peryite's wrath will bring your ruin!"''
+:''"Prince of Pestilence! Make them pay!"''
+:''"My Lord! Lend me your aid!"''
+:''"Peryite! Send my foes your blessing!"''
+
+Casting Spellbreaker's Malice:
+:''"Feel Spellbreaker's might!"''
+:''"Your bones will break on my shield!"''
+:''"Kneel or be crushed!"''
+
+Casting Winter's Purge:
+:''"Feel winter's cold embrace!"''
+:''"Frost and blight hold you!"''
+:''"I'll freeze you where you stand!"''
+:''"I will bury you in blinding snow!"''
+
+Picking up Spellbreaker after Winter's Purge:
+:''"No, no! Stay away from Spellbreaker!"''
+:''"Stay back! You are unworthy of Spellbreaker's might!"''
+:''"My Lord's gift! Stay away from it!"''
+:''"My shield! How dare you fools make me drop it!"''
+
+[[File:ON-npc-Jorvuld Davaux 02.jpg|thumb|right|Jorvuld Davaux is infected with the cult's plague]]
+Casting Dragon's Fury:
+:''"Thurvokun's gift endures! Feel my flames!"''
+:''"Fury and flame!"''
+:''"I've lost my [[Lore:Thu'um|voice]], but my fire remains!"''
+:''"Nothing but ash will remain!"''
+
+Casting Inferno's Hold:
+:''"Roast over the flames!"''
+:''"May the flames take you!"''
+:''"Let the fire consume you!"''
+:''"Feel how the fire burns!"''
+
+===The Aftermath===
+{{Online NPC Summary
+|image=
+|imgdesc=
+|race=Wraith
+|creature=1
+|loc=[[Online:Scalecaller Peak|Scalecaller Peak]]
+|faction={{Faction|Scalecaller Cult}}, {{Faction|Dragon Cult}} (formerly)
+|health=
+|reaction=Friendly
+|condition=Spirit
+}}
+
+Once '''Plans of Pestilence''' is completed, Zaan the Scalecaller takes her final revenge with the help of Peryite.
+:<Zaan's [[ON:Wraith|wraith]] possesses Jorvuld.>
+:'''Zaan (in Jorvuld Davaux's body):''' ''"You fools may have defeated me, but you'll never stop the Master of Tasks! Still, his pestilence spreads. And this one shall know its blessing!"''
+:<Jorvuld gains control back but is weakened as the sickness takes hold.>
+:'''Jorvuld Davaux:''' ''"May you suffer in Oblivion for all your wretched deeds. And may I be the last victim you ever claim."''
+
+==Achievements==
+The following achievements are related to this NPC.
+{{ESO Achievements List
+|Stand Your Ground
+|Breaker of Spells
+|Daedric Deflector
+|Scalecaller Peak Vanquisher
+|Scalecaller Peak Conqueror
+|On Top
+|Peak Performance
+|Mountain God
+|Pustulent Problems
+}}
+
+==Notes==
+* Zaan is the only known female Dragon Priest.
+* Her outfit was available in the [[ON:Crown Store|Crown Store]] as the [[ON:Renegade Dragon Priest|Renegade Dragon Priest]] costume.
+* "Zaan" translates to "Shout" in the [[Lore:Dragon Language|Dragon Language]].
+
+==Gallery==
+<gallery>
+File:ON-skill-Pestilent Breath.jpg|Pestilent Breath
+File:ON-skill-Pestilent Breath 02.jpg|Pestilent Breath
+File:ON-concept-Zaan.jpg|[[Online:Concept Art|Concept art]]
+File:ON-render-Zaan the Scalecaller.jpg|[[Online:Renders/Dragon Bones|Promotional render]]
+File:ON-render-Scalecaller Peak 02.jpg|Promotional render
+</gallery>

@@ -1,0 +1,131 @@
+{{NPC Summary
+|essential=yes
+|loc=[[Skyrim:Hall of Valor|Hall of Valor]], [[Skyrim:Sovngarde (place)|Sovngarde]]
+|race=Nord
+|gender=Male
+|level=30
+|class=[[Skyrim:Warrior (class)|Warrior]]
+|faction={{Faction|FavorExcludedFaction}}; {{Faction|MQAncientHeroFaction}}; {{Faction|WIAdditem03ExclusionFaction}}
+|refid=000CDA06
+|baseid=00044238
+|image=SR-npc-Hakon One-Eye.jpg
+|imgdesc=Hakon One-Eye
+|aggress=Aggressive
+|class_details=[[Skyrim:CombatWarrior1H|CombatWarrior1H]]
+|moral=No Crime
+|skills='''[[Skyrim:Heavy Armor|Heavy Armor]]''', '''[[Skyrim:One-handed|One-handed]]''', [[Skyrim:Archery|Archery]], [[Skyrim:Block|Block]]
+|health=388
+|magicka=50
+|stamina=147
+}}
+'''Hakon One-Eye''', a [[Skyrim:Nord|Nord]] [[Skyrim:CombatWarrior1H|warrior]], is an ancient hero currently residing in the [[Skyrim:Hall of Valor|Hall of Valor]] in [[Skyrim:Sovngarde (place)|Sovngarde]]. He was one of the warriors, along with [[Skyrim:Gormlaith Golden-Hilt|Gormlaith Golden-Hilt]] and [[Skyrim:Felldir the Old|Felldir the Old]], who fought against [[Skyrim:Alduin|Alduin]], ultimately sending him forward through time using an [[Lore:Elder Scrolls|Elder Scroll]]. He and his compatriots later assist you in the final battle against Alduin in Sovngarde.
+
+He wears a set of [[Skyrim:Ancient Nord Armor|ancient Nord armor]] with matching [[Skyrim:Ancient Nord Boots|boots]] and [[Skyrim:Ancient Nord Gauntlets|gauntlets]]. He wields an [[Skyrim:Ancient Nord Battle Axe|ancient Nord battle axe]]. He knows the following [[Skyrim:Dragon Shouts|dragon shouts]]: [[Skyrim:Disarm|Disarm]], [[Skyrim:Dragonrend|Dragonrend]], [[Skyrim:Frost Breath|Frost Breath]], [[Skyrim:Unrelenting Force|Unrelenting Force]], [[Skyrim:Whirlwind Sprint|Whirlwind Sprint]], along with the greater power [[Skyrim:Battle Cry|Battle Cry]].
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Alduin's Bane}}
+* {{Quest Link|Sovngarde (quest)}}
+* {{Quest Link|Dragonslayer}}
+
+==Quest-Related Dialogue==
+===Alduin's Bane===
+
+Hakon One-Eye appears in the vision, during which together with [[Skyrim:Gormlaith_Golden-Hilt|Gormlaith Golden-Hilt]], he fights a [[Skyrim:Dragon|dragon]] atop the Throat of the World. The battle will begin with Hakon on his own, until Gormlaith comes rushing in and jumps on top of the dragon:
+
+'''Hakon''': ''"Gormlaith! We're running out of time! The battle..."''<br>
+'''Dragon''': ''"{{hover|This day Overlord(ship) of Alduin restore|Daar sul thur se Alduin vokrii}}. Today Alduin's lordship will be restored. But I honor your courage. {{hover|(You) fight with courage|Krif voth ahkrin}}. Die now, in vain."''<br>
+'''Hakon''': (attacks) ''"For Skyrim!"''<br>
+'''Gormlaith''': (joins the attack and kills the dragon) ''"Know that Gormlaith sent you down to death!"''
+
+After killing the dragon they will sheathe their swords and walk past a [[Skyrim:Containers#Desecrated_Corpse|desecrated corpse]], talking about their victory:
+
+'''Gormlaith''': ''"Hakon! A glorious day, is it not!"''<br>
+'''Hakon''': ''"Have you no thought beyond the blooding of your blade?"''<br>
+'''Gormlaith''': ''"What else is there?"''<br>
+'''Hakon''': ''"The battle below goes ill. If Alduin does not rise to our challenge, I fear all may be lost."''<br>
+'''Gormlaith''': ''"You worry too much, brother. Victory will be ours."''
+
+At this point, [[Skyrim:Felldir the Old|Felldir the Old]] will emerge from behind you and join the conversation:
+
+'''Hakon''': (To Felldir) ''"Why does Alduin hang back? We've staked everything on this plan of yours, old man."''<br>
+'''Felldir''': ''"He will come. He cannot ignore our defiance. And why should he fear us, even now?"''<br>
+'''Gormlaith''': ''"We've bloodied him well. Four of his kin have fallen to my blade alone this day."''<br>
+'''Felldir''': ''"But none have yet stood against Alduin himself. Galthor, Sorri, Birkir..."''<br>
+'''Gormlaith''': ''"They did not have Dragonrend. Once we bring him down, I promise I will have his head."''<br>
+'''Felldir''': ''"You do not understand. Alduin cannot be slain like a lesser dragon. He is beyond our strength. Which is why I brought the Elder Scroll."''
+
+Felldir will then pull out the ancient [[Lore:Elder Scroll|Elder Scroll]], much to the surprise of Hakon:
+
+'''Hakon''': ''"Felldir! We agreed not to use it!"''<br>
+'''Felldir''': ''"I never agreed. And if you are right, I will not need it."''<br>
+'''Hakon''': ''"No. We will deal with Alduin ourselves, here and now."''<br>
+'''Gormlaith''': ''"We shall see soon enough. Alduin approaches!"''<br>
+'''Hakon''': ''"So be it."''
+
+While the Nords draw their weapons, Alduin will land atop the word wall and speak: 
+
+'''Alduin''': ''"{{hover|Fools!|Meyye!}} {{hover|Treacherous slaves!|Tahrodiis aanne!}} {{hover|Your hopes (are) all withered!|Him hinde pah liiv!}} {{hover|I (am) your doom!|Zu'u hin daan!}}"''<br>
+'''Gormlaith''': ''"Let those that watch from Sovngarde envy us this day!"''
+
+At this point, the Nords will release the [[Skyrim:Dragonrend|Dragonrend]] shout. When they shout, you will automatically learn the shout. In the skies, Alduin will feel mortality rise through his body and will immediately be forced to land: 
+
+'''Alduin''': ''"{{hover|Cowardly mortals!|Nivahriin joorre!}} What have you done? What twisted Words have you created?! {{hover|Treacherous|Tahrodiis}} Paarthurnax! My teeth to his neck! But first... {{hover|die in terror|dir ko maar}}. You will die in terror, knowing your final fate... To feed my power when I come for you in Sovngarde!"''<br>
+'''Gormlaith''': ''"If I die today, it will not be in terror. You feel fear for the first time, worm. I see it in your eyes. Skyrim will be free!"''
+
+The three Nords will then proceed to attack the World-Eater, but to no avail. Alduin will pick up Gormlaith between his teeth and fling her to the right, killing her: 
+
+'''Hakon''': ''"No, damn you! It's no use! Use the Scroll, Felldir! Now!"''<br>
+'''Felldir''': ''"Hold, Alduin on the Wing! [[Lore:Kyne|Sister Hawk]], grant us your sacred breath to make this contract heard! Begone, World-Eater! By words with older bones than your own we break your perch on this age and send you out! You are banished! Alduin, we shout you out from all our endings unto the last!"''<br>
+'''Alduin''': ''"{{hover|The (Elder) Scroll...?! Cowards...|Faal Kel...?! Nikriinne...}}"''
+
+A surprised Alduin will futilely breathe fire at Felldir before disappearing into the flow of time, to an unknown era. Felldir, however, knows that the defeat was only temporary: 
+
+'''Felldir''': ''"You are banished!"''<br>
+'''Hakon''': ''"It worked... you did it..."''<br>
+'''Felldir''': ''"Yes, the World-Eater is gone... may the spirits have mercy on our souls."''
+
+===Sovngarde===
+Before the battle:
+:'''Gormlaith:''' ''"At long last! Alduin's doom is now ours to seal - just speak the word and with high hearths we'll hasten forth to smite the worm wherever he lurks."''
+:'''Felldir:''' ''"Hold, comrades - let us counsel take before battle is blindly joined. Alduin's mist is more than a snare - its shadowy gloom is his shield and cloak. But with four Voices joined, our valor combined, we can blast the mist and bring him to battle."''
+:'''Hakon One-Eye:''' ''"Felldir speaks wisdom - the World-Eater, coward, fears you, Dragonborn. We must drive away his mist, Shouting together, and then unsheathe our blades in desperate battle with our black-winged foe."''
+:'''Gormlaith:''' ''"To battle, my friends! The fields will echo with the clamor of war, our wills undaunted."''
+
+===Dragonslayer===
+When shouting for the third time:
+:'''Alduin:''' ''"Ven Mul Riik!"''
+:'''Hakon One-Eye:''' ''"Does his strength have no end? Is our struggle in vain?"''
+:'''Gormlaith:''' ''"Stand fast! His strength is failing! Once more, and his might will be broken!"''
+:'''Felldir:''' ''"His power crumbles - do not pause for breath!"''
+
+During combat with Alduin:
+:''"I may fall to your malice, but your fate is already written."''
+:''"Your doom has come, damned worm!"''
+:''"Stand fast! The fell worm's death is ours at last, the light returns!"''
+:''"Nowhere to hide! Hunter becomes our prey!"''
+:''"There he is!"''
+
+When Alduin dies:
+:''"My debt is repaid at last."''
+
+==Summon Dialogue==
+Upon returning to Tamriel, his spirit can be summoned using all three words of the [[Skyrim:Call of Valor|Call of Valor]] shout. When summoned he can say:
+:''"Lead me into battle."''
+:''"What is your need, Dragonborn?"'' 
+
+During combat he can shout: 
+:''"I shall sing of thee in Sovngarde!"''
+:''"Feel the bite of my axe!"''
+:''"It is glorious to battle once again in Tamriel!"''
+
+Unspecified:
+:''"Through fire and time, the terror has lived. No more, I say! I've set my heart on terrible deeds, death's grim art!"''
+:''"I'll look for you, friend, when at last you return to Shor's hall. The honor will be ours when you rejoin the ranks of Sovngarde."''
+
+== Notes ==
+* For more information, see the [[Lore:Hakon One-Eye|lore]] page.
+* Due to an oversight, Hakon speaks with the "[[:Category:Skyrim-Voice-MaleNordCommander|MaleNordCommander]]" voice type while in Sovngarde, but the "[[:Category:Skyrim-Voice-MaleGuard|MaleGuard]]" voice type when in Tamriel. ("MaleNordCommander" and "MaleGuard" are also the two most common male [[Skyrim:Guards|guard]] voices.)
+* There are actually three different versions of Hakon, which have mostly similar statistics. The summary provides information for the version of Hakon who is met in Sovngarde. The other two versions are:
+** Hakon that appears during the quest Alduin's Bane: BaseID <code>000CDA01</code>, RefID <code>0004423D</code>.
+** Hakon that you can summon: BaseID <code>000923FB</code> (a different RefID is assigned each time he is summoned).

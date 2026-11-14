@@ -1,0 +1,39 @@
+<noinclude>{{Lore People Summary
+|name=Morokei, the Deathless
+|race=[[Lore:Nord|Proto&#8209;Nord]]{{Intnote|race}}
+|racecat=Nord
+|image=SR-creature-Morokei.jpg
+|fullimgdesc=Morokei
+|gender=Male
+|title=
+|birth=Merethic Era
+|loc=Bromjunaar
+|undeath=Merethic Era
+|death3=4E 201
+|death3Loc=Labyrinthian
+|appears=[[Skyrim:Morokei (creature)|Skyrim]], [[Online:Morokei|ESO]], [[Legends:Morokei, the Deathless|Legends]]}}[[Category:Lore-People-Atmoran]]</noinclude>
+[[Lore:Morokei|Morokei]], also known as '''the Deathless''',{{ref|{{Card|Morokei, the Deathless}} card in ''[[Legends:Legends|Legends]]''}} was a [[Lore:Dragon Priest|Dragon Priest]] who inhabited [[Lore:Bromjunaar|Bromjunaar]] in the [[Lore:Merethic Era|Merethic Era]], when the city served as the capital of the [[Lore:Dragon Cult|Dragon Cult]]. Like many of his fellow priests, he managed to achieve a state of [[Lore:Lich|lichdom]] through the eternal worship of his [[Lore:Draugr|draugr]] servants.{{ref|name=ATD|{{Cite Book|Amongst the Draugr}}}}{{ref|name=SRValdar|[[Skyrim:Valdar|Valdar]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} By virtue of his high rank, he was gifted a magical [[Lore:Dragon Priest Masks#Morokei|moonstone mask]] by his [[Lore:Dragon|dragon]] overlord.{{ref|name=SRLoad|[[SR:Loading Screens|Skyrim loading screens]]}}{{ref|[[ON:Jorvuld Davaux|Jorvuld Davaux]]'s dialogue in [[ESO:Online|ESO]]}} The power given to him by the dragons was such that even in undeath, he could not be killed by anything other than the [[Lore:Thu'um|Thu'um]] of a dragon.{{ref|name=TDoM|{{Cite Book|The Danger of Morokei}}}} As a result, he continued to dwell within the crypts of Bromjunaar's ruins, later known as [[Lore:Labyrinthian|Labyrinthian]],{{ref|name=SR|[[Skyrim:Morokei (creature)|Morokei]] in ''[[Skyrim:Skyrim|Skyrim]]''}} until his destruction circa {{Year|4E 201}}.{{ref|name=SRQuest|[[Skyrim:The Staff of Magnus|The Staff of Magnus]] quest in ''[[Skyrim:Skyrim|Skyrim]]''}} As a Dragon Priest, he was a powerful mage, also able to wield the Thu'um in battle.{{Ref|name=TGATT|{{Cite Book|The Guardian and the Traitor}}}}<noinclude>
+
+==Biography==
+In life, Morokei was a Nord who dwelt in Bromjunaar, the seat of power for the Dragon Cult who ruled over [[Lore:Skyrim|Skyrim]] during the Merethic. During the [[Lore:Dragon War|Dragon War]], the ancient Nords rebelled against the dragons and defeated the Dragon Cult. Morokei and his fellow priests were subsequently entombed, but many refused to remain dead. After Morokei's defeat, the full extent of the power gifted to him by the dragons became clear when it was discovered that he could only be killed by a dragon. As a result, four sacred fires were lit at the ruins of Labyrinthian by priests of [[Lore:Kyne|Kyne]] to magically seal Morokei within the ruins. It was feared that, should he escape his magical bindings, he would use his terrible power to seek vengeance upon the people of Skyrim.{{ref|name=TDoM}}
+
+Circa {{Year|2E 582}}, an [[Lore:Argonian|Argonian]] [[Lore:Necromancy|necromancer]] named Dixulti the Moldering entered Labyrinthian with the goal of unsealing Morokei's tomb in order to steal his power. To do this, he killed Keldnyr, an elderly priest of Kyne who had come to the ruins to tend to the sacred fires keeping Morokei bound. This caused Keldnyr's granddaughter, Yrsild, to come to the ruins in search of him. Although she was a priestess of Kyne, Yrsild was unaware of her grandfather's sacred duty, believing his regular visits to Labyrinthian were academic in nature. With the aid of [[Lore:The Vestige|the Vestige]], Yrsild discovered the danger posed by Morokei and succeeded in relighting the sacred fires. The Vestige confronted and killed Dixulti, and Yrsild took up the mantle of ensuring Morokei would never escape his tomb.{{ref|[[ON:The Fading Fire|The Fading Fire]] quest in [[ESO:Online|ESO]]}}
+
+At some point in the [[Lore:Fourth Era|Fourth Era]], Morokei awakened from his ancient slumber{{ref|name=SRLoad}} and somehow obtained the [[Lore:Staff of Magnus|Staff of Magnus]]. As a result, a group of mages from the [[Lore:College of Winterhold|College of Winterhold]] undertook an expedition to Labyrinthian in search of the Staff. The party encountered Morokei within the ruins, and the future Arch-Mage [[Lore:Savos Aren|Savos Aren]] was the only member of the group to survive the encounter. Aren sacrificed two of his companions to eternally contain Morokei, and sealed the ruins.{{ref|name=SRSavosAren|[[SR:Savos Aren|Savos Aren]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} Circa {{Year|4E 201}}, following the activation of the [[Lore:Eye of Magnus|Eye of Magnus]], the [[Lore:Last Dragonborn|Last Dragonborn]] was sent to Labyrinthian by the College to retrieve the Staff.{{ref|name=SRQuest}} The Dragonborn confronted and destroyed Morokei (a feat seemingly only made possible by possessing the [[Lore:Dragon Souls|soul]] of a dragon){{ref|name=TDoM}} and claimed the Staff as well as Morokei's mask.{{ref|name=SRQuest}}
+
+==Gallery==
+<gallery>
+File:LG-cardart-Morokei, the Deathless.png|Morokei (Legends)
+File:ON-npc-Morokei.jpg|Morokei (ESO)
+File:SR-item-Morokei.jpg|Morokei's mask (Skyrim)
+</gallery>
+
+==Notes==
+*{{LNote|race|†|The inhabitants of Skyrim during the Dragon War were variously labeled Nords{{ref|name=Paarthurnax|[[SR:Paarthurnax (dragon)|Paarthrunax]]'s dialogue in ''[[SR:Skyrim|Skyrim]]''}} and Atmorans.{{ref|name=FSL2|{{Cite Book|First Servant's Letter, Page 2|ns_base=ESO}}}} The truth may lie somewhere in-between; while the two are considered distinct races,{{ref|name=TOoC|{{Cite Book|The Origin of Cyrus!|ns_base=Books}}}} the men living in the transition period between the terms' respective usage have been considered 'proto-Nords'.{{ref|name=FC|{{Cite Book|Frontier, Conquest}}}}{{ref|name=EGTS|{{Cite Book|EGT|Skyrim}}}}{{ref|name=HighKingSunstone|[[ESO:Bleakrock Isle Antiquities#High King Sunstone|High King Sunstone]] antiquity codex entry in [[ESO:Online|ESO]]}}}}
+* Morokei's name means '''Glorious''' in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=DL|{{Cite Book|Dragon Language: Myth no More}}}}{{ref|name=SOS|{{Cite Book|Songs of Skyrim|ns_base=Skyrim}}}}
+
+==See Also==
+*For game-specific information, see the [[Skyrim:Morokei (creature)|Skyrim]], [[Online:Morokei|ESO]], and {{Card|Morokei, the Deathless|Legends}} articles.
+
+==References==
+<references/></noinclude>

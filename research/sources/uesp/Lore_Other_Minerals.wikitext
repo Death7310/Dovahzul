@@ -1,0 +1,384 @@
+{{Lore Minerals}}
+
+==Agonymium==
+{{Lore Entry
+|image=ON-object-Agonymium Stone.jpg
+|imgdesc=Agonymium Stone
+|description=Agonymium is a type of stone that possesses the power to consume mortal misery. It is usually grey in color, but glows red when infused with the screams of mortal agony. The stone can become dormant and lose this ability.{{ref|[[Online:Agonymium Stone, Inert|Agonymium Stone, Inert]] furnishing in [[ESO:Online|ESO]]}} Concentrating on a fragment of agonymium can cause a mortal to temporarily discorporate, splitting into slivers of individualized torment.{{ref|[[Online:Agonymium Stone (memento)|Agonymium Stone]] memento in [[ESO:Online|ESO]]}} Pillars of agonymium engraved with [[Lore:Daedric Alphabet|Daedric writing]] were used extensively throughout the [[Lore:Dread Cellar|Dread Cellar]].{{ref|[[Online:Agonymium Stone (object)|Agonymium Stone]]s in [[Online:The Dread Cellar|the Dread Cellar]] in [[ESO:Online|ESO]]}}
+|place=*[[Online:Agonymium Stone|ESO]]
+}}
+
+==Alabaster==
+{{Lore Entry
+|image=ON-concept-Gonfalon Bay.jpg
+|imgdesc=Alabaster cliffs
+|description='''Alabaster''' is a white stone. Cliff faces made of alabaster can be found in [[Lore:High Isle|High Isle]].{{Ref|name=HiC|[[Online:Concept Art/High Isle|High Isle Concept Art]]}}{{Ref|name=ONHCP|group=UOL|[[General:High Isle Chapter Preview|High Isle Chapter Preview]]}} The walls of the eponymous settlement of [[Lore:Alabaster|Alabaster]] are said to be made from it, as are some [[Lore:Ayleid Ruins|Ayleid ruins]].{{Ref|name=RoC|{{Cite Book|Remnants of Cyrod}}}}{{Ref|name=AC|[[ON:Ayleid Crate|Ayleid Crate]] description}} The [[Lore:Resolution of Zenithar|Resolution of Zenithar]] is in possession of a hundred-foot tall obelisk made of alabaster that stands above all as a symbol welcoming commerce, and is said to be so finely polished that it reflected back shades of the sea and sky.{{ref|name=TPPlayingHouses|group=UOL|[[General:Ted Peterson|Ted Peterson]]'s posts in [[General:Loranna's RP#Campaign 12: Playing Houses|''Playing Houses'']]}} Alabaster is a common enough material that jars made out of it were found dating from the earliest years of the Second Era.{{Ref|name=FSoBD|{{Cite Book|The First Scroll of Baan Dar}}}}
+}}
+
+==[[Lore:Ammonite|Ammonite]]==
+{{Lore Entry
+|description={{Lore:Ammonite}}
+|place=*[[Online:Treasures|ESO]]
+}}
+
+==Basalt==
+{{Lore Entry
+|image=ON-furnishing-Rocks, Basalt Chunks.jpg
+|imgdesc=Basalt
+|description='''Basalt''' is a heavy, coarse stone known to have formed in hexagonal pillars on [[Lore:Solstheim|Solstheim]].{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}{{Ref|name=HKN|{{Cite Book|Hand Kenro's Note|ns_base=Skyrim}}}}{{ref|name=DBCK|group=UOL|EditorIDs of static objects on [[Skyrim:Solstheim|Solstheim]] in ''[[Skyrim:Skyrim|Skyrim]]''}} Basalt is often considered to be unsuitable for delicate stonework, but early [[Lore:Dunmer|Dunmer]] are known to have crafted with it regardless,{{ref|[[Online:Bal Foyen Antiquities#Basalt Table-Game Set|Basalt Table-Game Set]] Antiquity Codex entry in [[Online:Online|ESO]]: ''[[Online:Greymoor|Greymoor]]''}} particularly in the walls of buildings in [[Lore:Vivec City|Vivec City]].{{Ref|name=VP|[[:File:ON-concept-Vivec Palace 02.jpg|Vivec Palace art]]}} The [[Lore:Heartlands|Heartlands]] of [[Lore:Cyrodiil|Cyrodiil]] are noted for their basalt; basalt taken from the [[Lore:Niben River|Niben River]] is particularly sturdy.{{ref|[[ON:Ayleid Blacksmithing Station|Ayleid Blacksmithing Station]] Heartland Basalt Base Codex entry in [[ESO:Online|ESO]]}}
+{{NewLeft}}
+|place=*[[Skyrim:Solstheim|Skyrim]]{{DB}},{{Ref|name=TESVSPOGG}} [[Online:Conservatory Furnishings/Stones and Pebbles|ESO]]
+}}
+
+==[[Lore:Bezoar|Bezoar]]==
+{{Lore Entry
+|image=ON-icon-style material-Minotaur Bezoar.png
+|imgdesc=Minotaur Bezoars
+|description={{Lore:Bezoar}}
+|place=*[[OB:Enchanted Bezoar|Oblivion]], [[Online:Minotaur Bezoar|ESO]]
+}}
+
+==[[Lore:Bismite|Bismite]]==
+{{Lore Entry
+|image=ON-icon-lead-Harmonic Bismite.png
+|imgdesc=A piece of Bismite
+|description={{Lore:Bismite}}
+|place=*[[Online:Music Box, The Hermit Crab Dance#Harmonic Bismite|ESO]]
+}}
+
+==[[Lore:Bismuth|Bismuth]]==
+{{Lore Entry
+|image=ON-interior-Glittering Cave 02.jpg
+|imgdesc=A cluster of Bismuth
+|description={{Lore:Bismuth}}
+|place=*[[Online:Solstice|ESO]]
+}}
+
+==Chalk==
+{{Lore Entry
+|image=ON-icon-style material-Fine Chalk.png
+|imgdesc=Fine chalk
+|description=[[Lore:Chalk|Chalk]] is a soft white porous rock, that has a variety of uses, such a form of writing or drawing implement. It can also be dyed a variety of colors.{{ref|name=ChalkSet|[[ON:Treasures C#Chalk Stick Set|Chalk Stick Set]] item description in [[ON:Online|ESO]]}} Unscrupulous alchemists or bakers may adulterate their goods by adding ground chalk as a filler.{{ref|name=TWFAM|{{Cite Book|The Wedding Feast: A Memoir}}}}{{ref|name=ThaniaESO|[[ON:Thania Facian|Thania Facian]] dialogue in [[ON:Gold Road|ESO: Gold Road]]}} Chalk also has uses in certain magical rituals such as when preparing a ritual space.{{ref|name=DreadhornShaman|[[ON:Dreadhorn Shaman|Dreadhorn Shaman]] item description in [[ON:Horns of the Reach|ESO: Horns of the Reach]]}}{{ref|name=PN|{{Cite Book|Practical Necromancy}}}}
+
+Some cosmetics make use of chalk, for example the [[Lore:Bright-Throat Tribe|Bright-Throat]]s were known to have used chalk as dye for their tribe's body paint.{{ref|name=AppearanceESO|[[ON:Chalk and Coal Scale Skull|Chalk and Coal Scale Skull]], [[ON:Chalk and Coal Skull|Chalk and Coal Skull]], [[ON:Chalky White Lips|Chalky White Lips]] face markings in [[ON:Online|ESO]]}}{{ref|name=BrightThroatChalk|[[ON:Bright-Throat Chalk Body Tattoo|Bright-Throat Chalk Body]] and [[ON:Bright-Throat Chalk Face Tattoo|Face Tattoo]]s item descriptions in [[ON:Online|ESO]]}} Chalk can also be used a powder foundation for facial cosmetics, such as with the [[Lore:Khajiit|Khajiit]] in [[Lore:Pellitine|Pellitine]].{{ref|name=SnoutPowder|[[ON:Treasures P#Pellitine Snout-Powder|Pellitine Snout-Powder]] item description in [[ON:Online|ESO]]}} In the [[Lore:Second Era|Second Era]], some [[Lore:Thieves Guild|Thieves Guild]]s used fine chalk when crafting their armor and weapons.{{ref|nameFineChalk|[[Online:Thieves Guild Style|Thieves Guild Style]] and the styling material [[ON:Fine Chalk|Fine Chalk]] used in [[ON:Online|ESO]]}}
+|place=*[[Online:Fine Chalk|ESO]]
+}}
+
+==Charcoal==
+{{Lore Entry
+|image=SR-icon-misc-Charcoal2.png
+|imgdesc=Charcoal
+|description=
+|place=*[[Skyrim:Charcoal|Skyrim]], [[Online:Charcoal|ESO]]
+}}
+
+==Chert==
+{{Lore Entry
+|description={{Lore:Chert}}
+|place=*[[Oblivion:Kingscrest Cavern#Kingscrest Cavern Chert Galleries|Oblivion]], [[Online:Kingscrest Cavern|ESO]]
+}}
+
+==Clay==
+{{Lore Entry
+|image=SR-item-Clay Deposit.jpg
+|imgdesc=A clay deposit
+|description='''Clay''' is a mud-like substance commonly used in pottery, porcelain,{{ref|[[Online:Contraband/Drinkware#Porcelain Teapot|Porcelain Teapot]] in [[Online:Online|ESO]]}} and bricks.{{ref|[[Online:Mobar Mine|Mobar Mine]] [[Online:Loading Screens|loading screen]] in [[Online:Online|ESO]]}} It is sometimes used for skincare and to preserve [[Lore:Mudcrab|mudcrabs]].{{ref|[[Online:Contraband/Grooming Items#Crock of Packing Mud|Crock of Packing Mud]] in [[Online:Online|ESO]]}} The [[Lore:Orsimer|Orsimer]] are known to use it in their paints.{{ref|{{Cite Book|The Red Paint}}}} It is also sometimes used for chips for use in games.{{ref|{{Cite Book|Legends of the Forest}}}} In ancient times, the [[Lore:Argonians|Argonians]] used clay for tablets used to inscribe [[Lore:Jel|Jel]] pictograms.{{ref|[[Online:Unzoned Quest Items#Xal-Toh Tablet|Xal-Toh Tablet]] in [[Online:Online|ESO]]}}
+|place=*[[Skyrim:Clay|Skyrim]], [[Castles:Clay|Castles]]
+}}
+
+==Coal==
+{{Lore Entry
+|image=ON-furnishing-Dark Elf Bed of Coals.jpg
+|imgdesc=Bed of coals
+|description=Coal is brownish-black rock that is primarily used as fuel.{{ref|Events of [[Online:A Sticky Solution|A Sticky Solution]] in [[Online:Online|ESO]]: ''[[Online:Clockwork City (DLC)|Clockwork City]]''}} It is also used as a component in black body paint.{{ref|[[Online:Painted Coal and Embers|Painted Coal and Embers]] body markings in [[Online:Online|ESO]]}} Anthracite is a variety of coal.{{ref|name=OI|[[ON:Onyx Indrik|Onyx Indrik]]'s default name in [[Online:Online|ESO]]}} Coals are used in a [[Lore:Reachfolk|Reachfolk]] ritual of ember dance.{{Ref|name=Caddach|[[ON:Ard Caddach|Ard Caddach]]'s dialogue in [[Online:Online|ESO]]&#58; ''[[Online:Markarth (DLC)|Markarth]]''}} [[Lore:Cinder-Heart Clan|Cinder-Heart Clan]] uses them in their version of [[Lore:Briarheart|Briarheart]] ritual.{{Ref|name=OCR|{{Cite Book|On the Clans of the Reach}}}}
+|place=*[[Online:Dark Elf Furnishings|ESO]]
+}}
+
+==[[Lore:Coprolite|Coprolite]]==
+{{Lore Entry
+|description={{Lore:Coprolite}}
+}}
+
+==[[Lore:Coral|Coral]]==
+{{Lore Entry
+|image=ON-place-Coral Forest.jpg
+|imgdesc=The [[Lore:Coral Forest|Coral Forest]]
+|description={{Lore:Coral}}
+}}
+
+==[[Lore:Ferrofungus|Ferrofungus]]==
+{{Lore Entry
+|image=ON-icon-style material-Pliant Ferrofungus.png
+|imgdesc=A Ferrofungus
+|description={{Lore:Ferrofungus}}
+|place=*[[ON:Pliant Ferrofungus|ESO]]
+}}
+==Fulgurite==
+{{Lore Entry
+|image=
+|imgdesc=
+|description=Fulgurite is a tube shaped rock that forms when lightning strikes sand, leaving behind a hollow structure.{{Ref|name=FF|[[ON:Fulgurite Forger|Fulgurite Forger]] in [[Online:Online|ESO]]<nowiki>:</nowiki> ''[[Online:Stonethorn|Stonethorn]]''}}
+|place=*[[Online:Fulgurite Forger|ESO]]
+}}
+
+==Gabbro==
+{{Lore Entry
+|image=ON-furnishing-Rock, Gabbro Boulder Cluster.jpg
+|imgdesc=Gabbro
+|description=Gabbro is a type of stone.{{Ref|name=Gabbro|[[ON:Rock, Gabbro Set|Rock, Gabbro Set]], [[ON:Rock, Wide Gabbro Slab|Rock, Wide Gabbro Slab]], [[ON:Rock, Gabbro Boulder Cluster|Rock, Gabbro Boulder Cluster]], [[ON:Rock, Gabbro Boulder|Rock, Gabbro Boulder]] in [[Online:Online|ESO]]}} It is found in [[Lore:Blackwood|Blackwood]].{{Ref|name=SC|[[ON:Sweetwater Cascades|Sweetwater Cascades]] in [[Online:Online|ESO]]}}
+|place=*[[Online:Rock, Gabbro Set|ESO]]
+}}
+
+==Granite==
+{{Lore Entry
+|image=ON-furnishing-Rock, Granite Chunk.jpg
+|imgdesc=Granite
+|description=Granite is a type of stone. The Charred Ridge is a granite mountain range that separates [[Lore:Stonefalls|Stonefalls]] and [[Lore:Deshaan|Deshaan]]. The [[Lore:Tormented Spire|Tormented Spire]] is its highest peak and anchors it to the west.{{Ref|name=ONLoadTormented1|[[Online:Tormented Spire|Tormented Spire]] loading screen text in [[Online:Online|ESO]]}}{{Ref|name=ONLoadCharred|[[Online:Charred Ridge|Charred Ridge]] loading screen text in [[Online:Online|ESO]]}} When [[Lore:Vivec City|Vivec City]] was expanding in the mid-[[Lore:Second Era|Second Era]], a granite quarry was built in [[Lore:Foyada Mamaea|Foyada Mamaea]] and became the project's main source of granite. The operation closed when [[Lore:Red Mountain|Red Mountain]] erupted a lava flowed in through the site.{{Ref|name=ONLoadFoyada|[[Online:Foyada Quarry|Foyada Quarry]] loading screen text in [[Online:Online|ESO]]&#58; ''[[Online:Morrowind (DLC)|Morrowind]]''}}
+
+The mines of [[Lore:Markarth|Markarth]] harvested granite and its supplies were used to build Castle [[Lore:Evermore|Evermore]]'s battlements.{{Ref|name=EGTB|{{Cite Book|EGT|Bangkorai}}}} The [[Lore:Mount Kilkreath|Mount Kilkreath]] foothills of [[Lore:Haafingar|Haafingar]] are made of granite.{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{rp|415}} [[Lore:Granite Hill|Granite Hill]] is a historical settlement in [[Lore:Skyrim|Skyrim]], specifically in [[Lore:Falkreath Hold|Falkreath Hold]]. The word used for "granite" in the [[Lore:Dragon Language|dragon language]] is "Quethsegol" meaning "stone,"{{Ref|name=HOJG|{{Cite Book|Holdings of Jarl Gjalund}}}}{{Ref|name=TESVSPOGG}} or literally "[[Lore:Earthbones|Bone-of-earth]]."{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}} Previously, Nordic stonesmiths used [[Lore:Porphyry|porphyry]] deposits to erect igneous rocks for architecture, but by the [[Lore:Second Era|Second Era]], it was replaced with hard-wearing granite and volcanic stone.{{Ref|name=EGTS|{{Cite Book|EGT|Skyrim}}}}
+
+In the middle of [[Lore:Auridon|Auridon]], just west of [[Lore:Skywatch|Skywatch]] is a large, white granite mountain.{{Ref|name=EGTA|{{Cite Book|EGT|Summerset Isles}}}} As the range travels north, it hardens and forms the jagged promontories of the north coast. Several sites of interest, like the town of [[Lore:Shattered Grove|Shattered Grove]], the temple ruins of [[Lore:Tanzelwil|Tanzelwil]], and the former royal summer home in the Glister Vale are found in its vicinity.{{Ref|name=ONAuridon|[[Online:Auridon|Auridon]] in [[Online:Online|ESO]]}} The steps of [[Lore:Ceyatatar|Ceyatatar]] in [[Lore:Cyrodiil|Cyrodiil]] are made of granite and is where [[Lore:Pelinal Whitestrake|Pelinal Whitestrake]] slew the Fire-King, [[Lore:Hadhuul|Hadhuul]].{{Ref|name=TSOP|{{Cite Book|The Song of Pelinal, v 3}}}}
+|place=*[[Online:Conservatory Furnishings/Boulders and Large Rocks|ESO]]
+}}
+
+==[[Lore:Greywacke|Greywacke]]==
+{{Lore Entry
+|description={{Lore:Greywacke}}
+|place=*[[Online:Treasures G#Guardian Stone|ESO]]
+}}
+
+==[[Lore:Grinstone|Grinstone]]==
+{{Lore Entry
+|image=ON-icon-style material-Grinstones.png
+|imgdesc=Grinstone
+|description={{Lore:Grinstone}}
+|place=*[[Online:Grinstones|ESO]]
+}}
+
+==Grit-rock==
+{{Lore Entry
+|description='''Grit-rock''' is known to have been used in sanding wooden planks.{{ref|name=Coldrock|[[ON:Coldrock Diggings|Coldrock Diggings]] loading screen text in [[ON:Online|ESO]]}}
+}}
+
+==Gypsum Alabaster==
+{{Lore Entry
+|image=ON-statue-Morwha's Blessing.png
+|imgdesc=A sculpture of [[Lore:Morwha|Morwha]] in gypsum alabaster
+|description='''Gypsum alabaster''' was used extensively by the [[Lore:Lefthanded Elves|Lefthanded Elves]].{{ref|[[Online:Hew's Bane Antiquities#Morwha's Blessing|Morwha's Blessing]] in [[Online:Online|ESO]]}}
+}}
+
+==[[Lore:Heart Stone|Heart Stone]]==
+{{Lore Entry
+|image=SR-item-Heart Stone Deposit.jpg
+|imgdesc=A  heart stone deposit
+|description={{Lore:Heart Stone}}
+|place=*[[Skyrim:Heart Stone|Skyrim]]{{DB}}
+}}
+
+==Holystone==
+{{Lore Entry
+|description='''Holystone''' is a light pumice sometimes used to clean the decks of ships.{{ref|name=Coldrock}}
+}}
+
+==[[Lore:Jadeflint|Jadeflint]]==
+{{Lore Entry
+|image=
+|imgdesc=
+|description={{Lore:Jadeflint}}
+|place=*[[Lore:The Improved Emperor's Guide to Tamriel/Black Marsh|Lore]]
+}}
+
+==Limestone==
+{{Lore Entry
+|image=ON-misc-Limestone.jpg
+|imgdesc=Quarried limestone
+|description=A common material used in the construction of buildings, limestone forms the base of most [[Lore:Imperial|Imperial]] and [[Lore:Ayleid|Ayleid]] architecture.{{ref|[[Blades:Limestone|Limestone]] in ''[[Blades:Blades|Blades]]''}}{{ref|{{Cite book|Dirty Scroll|ns_base=OB}}}}
+|place=*[[Online:Conservatory Furnishings/Stones and Pebbles|ESO]], [[Blades:Limestone|Blades]], [[Castles:Limestone|Castles]]
+}}
+
+==Marble==
+{{Lore Entry
+|image=BL-item-Marble.jpg
+|imgdesc=Marble
+|description='''Marble''' possesses a strength and beauty that has been utilized in decorations and monuments for centuries. 
+
+Amber marble is often associated with [[Lore:Hollowjack|Hollowjack]].
+|place=*[[ON:Amber Marble|ESO]], [[Blades:Marble|Blades]], [[Castles:Marble|Castles]]
+}}
+
+==Morpholith==
+{{Lore Entry
+|image=ON-pet-Unstable Morpholith.jpg
+|imgdesc=An unstable morpholith
+|description= A '''morpholith''' is a type of mineral. Common morpholiths such as [[Lore:Soul Gems|soul gems]] can be found within nature.{{Ref|name=LB|{{Cite Book|Liminal Bridges}}}}
+
+Quasi-crystalline morpholiths are involved in the creation of [[Lore:Sigil Stone|sigil stones]]. These exotic morpholiths occur only in [[Lore:Planes of Existence|pocket voids]] of [[Lore:Oblivion|Oblivion]] and cannot be mined or harvested without Daedric assistance.{{Ref|name=LB}} Daedra are theorized to use enchanted chisels to excavate such exotic morpholiths.{{ref|{{Item Link|Ancient Morpholith Chisel|quality=4|itemid=181642}} [[Online:The Deadlands Antiquities|Antiquities Codex]] in [[ESO:Online|ESO]]}} Some morpholiths harvested in this manner are inherently unstable and therefore unsuitable for use as sigil stones.{{ref|[[ON:Unstable Morpholith|Unstable Morpholith]] pet in [[ESO:Online|ESO]]}} Although unstable morpholiths cannot be used to open portals, they do have other uses in various summoning rituals.{{ref|[[ON:Unstable Morpholith|Unstable Morpholith]] fragment upgrades in [[ESO:Online|ESO]]}}
+|place=*[[Online:Unstable Morpholith|ESO]]
+}}
+
+==Mother-of-Pearl==
+{{Lore Entry
+|image=
+|imgdesc=
+|description='''Mother-of-Pearl''', also known as '''nacre''', is an iridescent material produced by some species of [[Lore:Mollusk|Mollusk]] as part of their inner shell layers. It can worked into various decorative features, and in its powered form can be used as an alchemical reagent.{{ref|name=PMoP|[[ON:Powdered Mother of Pearl|Powdered Mother of Pearl]] alchemy ingredient in [[Online:Online|ESO]]}}
+|place=*[[Online:Powdered Mother of Pearl|ESO]]
+|harvest=[[Lore:Alchemy_P#Powdered Mother of Pearl|Powdered Mother of Pearl]]
+}}
+
+==[[Lore:Nirncrux|Nirncrux]]==
+{{Lore Entry
+|image=ON-item-Nirncrux.jpg
+|imgdesc=A nirncrux vein
+|description={{Lore:Nirncrux}}
+|place=*[[Online:Nirncrux|ESO]]
+}}
+
+==[[Lore:Obverdian|Obverdian]]==
+{{Lore Entry
+|image=
+|imgdesc=
+|description={{Lore:Obverdian}}
+|place=*[[Lore:The Improved Emperor's Guide to Tamriel/Black Marsh|Lore]]
+}}
+
+==Ochre==
+{{Lore Entry
+|image=ON-icon-ounce-Ochre.png
+|imgdesc=Ochre
+|description='''Ochre''' is an orange clay pigment. Torval Royal Ochre, a rare and valuable pigment that comes from the aforementioned clay is found in the area of [[Lore:Torval|Torval]].{{Ref|[[Online:Contraband B#Ball of Royal Ochre Mohair Yarn|Ball of Royal Ochre Mohair Yarn]] description in [[Online:Online|ESO]]}}
+|place=*[[Online:Ochre|ESO]]
+}}
+
+==Petrified Wood==
+{{Lore Entry
+|image=ON-icon-fragment-Petrified Snow-Cedar.png
+|imgdesc=Petrified [[Lore:Snow-Cedar|snow-cedar]]
+|description=
+|place=*[[Online:The Rift Antiquities#Petrified Snow-Cedar|ESO]]
+}}
+
+==Potash==
+{{Lore Entry
+|image=ON-icon-style material-Potash.png
+|imgdesc=Potash
+|description='''Potash''' is a kind of ash{{ref|name=cheese|{{Cite Book|Cheeses of Skyrim: Whiterun, Winterhold, Eastmarch}}}} that has many uses, particularly in [[Lore:Orc|Orcish]] culture. It is sometimes used in equipment reverent of [[Lore:Malacath|Malacath]]{{ref|[[Online:Potash|Potash]] in [[Online:Online|ESO]]}} and in some traditional Orcish ware.{{ref|[[Online:Wrothgar Antiquities#Worn Orcish Cauldron|Worn Orcish Cauldron]] in [[Online:Online|ESO]]}} It is also known to be used in [[Lore:Glass (common)|glass]]making.{{ref|name=cheese}}
+|place=*[[Online:Potash|ESO]]
+}}
+
+==Pumice==
+{{Lore Entry
+|image=ON-icon-style material-Night Pumice Pebble.png
+|imgdesc=Night Pumice pebble
+|description=[[Lore:Pumice|Pumice]] is a light-weight, porous rock that can be found in volcanic areas. It is often used for its abrasive qualities, as a cleaner or to smooth other items.{{ref|name=CarvedPumice|[[ON:Treasures C#Carved Pumice Stone|Carved Pumice Stone]] item description in [[ON:Online|ESO]]}}{{ref|name=Aetherquartz|[[Online:Pearls of Ehlnofey|Pearls of Ehlnofey]]—Aetherquartz Prayer Beads Codex Entries in [[ON:Online|ESO]]}}{{ref|name=Coldrock}} A variety of pumice known as '''Night Pumice''' was sometimes used in crafting [[Lore:Ebony|ebony]] equipment in the [[Lore:Second Era|Second Era]].{{ref|name=NightPumice|[[Online:Ebony Style|Ebony Style]] and the styling material [[ON:Night Pumice|Night Pumice]] used in [[ON:Online|ESO]]}}
+|place=*[[Online:Night Pumice|ESO]] (Night Pumice)
+}}
+
+==Regulus==
+{{Lore Entry
+|image=CT-icon-resource-Restricted Regulus.png
+|imgdesc=Regulus
+|description=
+|place=*[[Online:Regulus|ESO]], [[Castles:Regulus|Castles]]
+}}
+
+==[[Lore:Rubber|Rubber]]==
+{{Lore Entry
+|description={{Lore:Rubber}}
+|place=*[[Online:Treasures R#Rubber Squeeze Mouse|ESO]], [[Lore:Crafting Motif 70: Elder Argonian Style|Lore]]
+}}
+
+==Sandstone==
+{{Lore Entry
+|image=CT-icon-resource-Building Sandstone.png
+|imgdesc=Sandstone
+|description=
+|place=*[[Online:Ancient Sandstone|ESO]], [[Castles:Sandstone|Castles]]
+}}
+
+==[[Lore:Shale|Shale]]==
+{{Lore Entry
+|image=
+|imgdesc=
+|description={{Lore:Shale}}
+|place=*[[Online:Markarth Quest Items#Bright River-Shale|ESO]]
+}}
+
+==[[Lore:Schist|Schist]]==
+{{Lore Entry
+|image=
+|imgdesc=
+|description={{Lore:Schist}}
+|place=*[[Online:Treasures R#Reach-Hewn Hircine Idol|ESO]]
+}}
+
+==[[Lore:Scoria|Scoria]]==
+{{Lore Entry
+|image=ON-item-Scoria.jpg
+|imgdesc=Scoria
+|description={{Lore:Scoria}}
+|place=*[[Online:High Isle Quest Items#Vulk'esh Scoria|ESO]]
+}}
+
+==[[Lore:Skarn|Skarn]]==
+{{Lore Entry
+|image=ON-icon-style material-Firesong Skarn.png
+|imgdesc=Firesong Skarn
+|description={{Lore:Skarn}}
+|place=*[[Online:Firesong Skarn|ESO]]
+}}
+
+==Slate==
+{{Lore Entry
+|image=ON-furnishing-Rock, Slate.jpg
+|imgdesc=Slate
+|description=
+|place=*[[Online:Conservatory Furnishings/Stones and Pebbles|ESO]]
+}}
+
+==[[Lore:Soapstone|Soapstone]]==
+{{Lore Entry
+|description={{Lore:Soapstone}}
+|place=*[[Online:Treasures A#Akatosh Meditation Beads|ESO]]
+}}
+
+==[[Lore:Spellstone|Spellstone]]==
+{{Lore Entry
+|image=ON-icon-stolen-Dwemer Puzzle Cube.png
+|imgdesc=An inert daedric spellstone
+|description={{Lore:Spellstone}}
+|place=*[[Online:Eyevea Antiquities#Inert Daedric Spellstone|ESO]]
+}}
+
+==Sulfur==
+{{Lore Entry
+|image=ON-misc-Sulfur.jpg
+|imgdesc=Sulfur
+|description=Sulfur is a yellow mineral with a strong odor. It can be found both on [[Lore:Tamriel|Tamriel]] as well as in [[Lore:Oblivion|Oblivion]] realms such as the [[Lore:Deadlands|Deadlands]].{{ref|name=SulfurPoolsESO|[[ON:Sulfur Pools|Sulfur Pools]] in [[ON:Stonefalls|Stonefalls]] in [[ON:Online|ESO]]}}{{ref|name=SulfurPoolItem|[[ON:Sulfur Pool|Sulfur Pool]] item description in [[ON:The Deadlands|ESO: The Deadlands]]}}
+}}
+
+==[[Lore:Tel Var Stones|Tel Var Stones]]==
+{{Lore Entry
+|image=ON-item-Tel Var Stone.jpg
+|imgdesc=A Tel Var Stone
+|description={{Lore:Tel Var Stones}}
+|place=*[[Online:Tel Var Stones|ESO]]
+}}
+
+==[[Lore:Tuff|Tuff]]==
+{{Lore Entry
+|image=ON-quest-Nirnroot Wine.jpg
+|imgdesc=Red Mountain Tuff
+|description={{Lore:Tuff}}
+|place=*[[Online:Nirnroot Wine|ESO]]
+}}
+
+==[[Lore:Washtongue Powder|Washtongue Powder]]==
+{{Lore Entry
+|description={{Lore:Washtongue Powder}}
+|place=*[[Lore:Meet the Character - Xukas|Lore]]
+}}
+
+==References==
+<references/>
+{{UOL}}
+<references group=UOL/>

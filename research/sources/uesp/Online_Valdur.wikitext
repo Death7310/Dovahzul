@@ -1,0 +1,143 @@
+{{Online NPC Summary
+|image=ON-npc-Valdur.jpg
+|imgdesc=Valdur
+|race=Nord
+|gender=Male
+|health={{ESO Health|fa}}
+|loc=[[Online:Taarengrav|Taarengrav]], [[ON:Honrich Tower|Honrich Tower]]
+|faction={{Faction|Companions (faction)}}
+|reaction=Friendly
+|condition=Spirit
+}}
+'''Valdur''' is a [[ON:Nord|Nord]] whose spirit was bound inside [[Online:Taarengrav|Taarengrav]]. You must release him from the [[ON:Worm Cult|Worm Cult]]'s grasp.
+
+Later, he will accompany the [[ON:Ebonheart Pact|Ebonheart Pact]] to [[ON:Honrich Tower|Honrich Tower]], where he may aid you during the related quest.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Shackled Guardian}}
+*{{Quest Link|To Honrich Tower}}
+*{{Quest Link|To Pinepeak Caverns}}
+*{{Quest Link|Shattered Hopes}}
+
+==Quest-Related Events==
+===The Shackled Guardian===
+After freeing Kireth Vanos, you head inside Taarengrav to find the spirit of Valdur praying in front of you. He will need you to stop the Worm Cult from breaking the binds that hold him:
+:''"Do not linger here. Danger threatens elsewhere."''
+:'''Who are you? What's wrong?'''
+:''"I am Valdur. I rode with the Five Hundred at Ysgramor's side. But now, my very essence is wracked by magic."''
+:'''The Worm Cult.'''
+:''"Yes, the dark-robed mages. Deep in the ruin. They're breaking the binding that holds me here. They're pulling me apart!"''
+:'''How can I stop them?'''
+:''"Navigate the puzzle. Get past the doors. Stop them!"''
+
+If you speak to him again, you can ask:
+:'''What more can you tell me?'''
+:''"Much hangs on your actions, my friend. The Worm Cult are seeking to use me in some way, to enslave my spirit and then bind it somehow. You must stop them!"''
+
+At two points along the way, you'll see an image of the spirit in chains:
+:'''Valdur:''' ''"The Worms are undoing my essence, tearing at my spirit. Stop them!"''
+:'''Valdur:''' ''"The ritual's almost complete. Stop the Worms!"''
+
+Once you enter the puzzle room, Valdur will be in the middle of the room in torment:
+:''"Hurry! The Worms' corruption is eating away at me!"''
+
+After reading the notes about the doors, you can speak to him again. If you can intimidate him, he will be able to give you the clues to the puzzle:
+:''"The Worms … ripping my soul apart. Help me!"''
+:'''[Intimidate] Valdur! Help me solve the puzzle. / [Intimidate] Fight it! Help me solve the puzzle!'''
+::''"I can't think. They're ripping me apart!<br>Follow … symbols … above doors … Whale, Eagle, Snake.<br>Hurry!"''
+:'''What happens if I don't stop them?'''
+::''"I'll be theirs, corrupted by the cult. My spirit will ravage the Rift.<br>Stop them, please!"''
+
+Valdur has ambient dialogue, occasionally spoken aloud while you're near Taarengrav's door puzzle.
+:''"Must resist! Stop them!"''
+
+:''"No! I won't give in!"''
+
+:''"Hurry, I'm slipping away!"''
+
+:''"Agh! Get them out of my head!"''
+
+When you solve the puzzle, you will find him having his binds broken by [[Online:Chental Heartwound|Chental Heartwound]] and her Worm Cultist allies. After you defeat the cultists, he will be free and urge you to follow him:
+:'''Valdur:''' ''"Follow me, valiant. I'll lead you out."''
+
+In the corridor he'll thank you and promises to help you fight against the Worm Cult:
+:''"It's been so long. I'm free. And you saved me. Thank you, liege-lord."''
+:'''You're welcome. The cult can't try that again?'''
+:''"No. With my shackles destroyed and the cult's ritual disrupted, I am free.<br>They wished to enslave me, to use me to strengthen the giant Sinmur. I will aid you in your quest against the foul Worms."''
+
+===To Pinepeak Caverns===
+If you have not liberated [[Online:Hakra|Hakra]] at [[Online:Pinepeak Caverns|Pinepeak Caverns]], he'll send you there next:
+:''"My lord, before you go. There is one other thing."''
+:'''What is it, spirit?'''
+:''"My shield-sister Hakra was bound in the same manner as I. If the Worms came here, they might be there as well.<br>Please, travel north to Pinepeak Cavern. Discover if she remains bound and safe."''
+:'''Since you asked, spirit.'''
+:''"Head to Pinepeak Caverns. Only you can safeguard Hakra, liege-lord."''
+:'''Why were you bound here, spirit?'''
+:''"My shield-sister Hakra and I were bound to the Rift as caretakers. We were put in place to guard against threats like the Worm Cult and the return of Sinmur.<br>We gave our lives that our future kinsmen would know peace."''
+:''"Head to Pinepeak Caverns. Only you can safeguard Hakra, liege-lord."''
+
+===To Honrich Tower===
+If you have saved Hakra already, he'll send you to [[Online:Honrich Tower|Honrich Tower]] instead where the Pact forces are gathered against the Worm Cult:
+:''"My lord, before you go. There is one other thing."''
+:'''What is it, spirit?'''
+:''"Now that I'm free, I can sense Hakra, the spirit guardian at Pinepeak. She speaks to me, warning of a dark gathering at Honrich Tower, to the east."''
+:'''What kind of gathering?'''
+:''"The cult, she says. Forces allied with you also gather at Honrich Tower.<br>I will journey there, in my own way. You should travel there as well, my lord."''
+:'''As you say, spirit.'''
+
+You can ask why he was bound here:
+:''"Please, my liege-lord. Make haste for Honrich Tower. Whatever darkness grows there must be stopped."''
+:'''Why were you bound here, spirit?'''
+:''"My shield-sister Hakra and I were bound to the Rift as caretakers. We were put in place to guard against threats like the Worm Cult and the return of Sinmur.<br>We gave our lives that our future kinsmen would know peace."''
+
+When you reach the camp, he will be there alongside Hakra and before you speak to Jorunn:
+:''"My comrade! Good to see you again so soon. The Skald-King will no doubt welcome your service."''
+
+===Shattered Hopes===
+Speaking with him before King Jorunn if you started the quest through the Pact scouts:
+:''"The might of the Five Hundred is behind you, comrade."''
+
+You must speak with Valdur after speaking with Jorunn. The spirit will tell you that there are four portals in the ruins that need to be closed to prevent Daedric reinforcements:
+:''"This fiend Thallik Wormfather—he cannot be allowed to hold Wuuthrad! We will get it back. The king's soldier, Captain Hrosta, searches for Wormfather even now.<br>In the meantime, you must stop the Daedra coming from [[ON:Coldharbour|Coldharbour]]."''
+:'''What do I have to do?'''
+:''"There are four portals in the ruins. There are many cultists and many Daedra guarding them, but if you can find the portals and close them, that will reduce their numbers.<br>The blessing of Ysgramor's Five Hundred Companions will be with you."''
+
+Valdur will allow one of three [[ON:Legendary Companion|Legendary Companions]] to accompany you if you persuade him to grant you assistance.
+:'''[Persuade]Couldn't one of you fight at my side?'''
+:''"Our power is stretched to its limit. But … your need is great. Very well. We will raise one of the legendary Five Hundred to aid you in this time of great peril."''
+:'''This spirit will aid me in battle? / You said a spirit can aid me? (If you exit the conversation before choosing your Companion)'''
+:''"Aye. Even in death the Companions yearn to fight for Skyrim. Would you enter battle with a warrior, a firemage, or one of our talented healers? Choose, and they will fight by your side."''
+:'''I'll enter battle beside a warrior.'''
+::''"Well chosen. This lass stood with the crew of the Kaal Kaaz in their final battle."''
+:'''I choose a firemage companion.'''
+::''"Aye. Wisely chosen. This lad stood against the might of Red Mountain, and sings the tale to this day in Sovngarde."''
+:'''I choose to fight beside a healer.'''
+::''"This lass tended the crew of the Krilot Lok. She met her end facing the Argonians of Black Marsh! Wisely chosen."''
+
+After selecting your Companion:
+:''"They're expending a lot of power holding open those portals. Shut them down, and you'll draw Thallik out for sure."''
+
+After closing the portals, he'll appear:
+:'''Valdur:''' ''"We've found Thallik Wormfather! Come to the portal in the central ruins!"''
+
+Meet him at the central ruin and you'll hear:
+:'''Thallik Wormfather:''' ''"Quickly. Open the portal!"''
+:'''Valdur:''' ''"Thallik Wormfather retreated through the portal to Arcwind Point! Go quickly! Captain Hrosta is there already."''
+
+He'll then enter the portal. After you dispel the ward in the barrow in Arcwind Point, both him and Hakra appear in the hallway leading to Sinmur's Tomb. Speaking to him here:
+:''"Thallik is just down the hall. Hakra and I have your back."''
+
+After you take Wuuthrad's haft, Valdur tells you to exit the ruins.
+:'''Valdur:''' ''"Well done! Take the portal back to the Ebonheart Pact camp."''
+
+When you return back to the Pact camp, he will be there:
+:''"It has been an honor to assist your efforts. You are proof that the legacy of the Five Hundred lives on.<br>Someday, I will see you in Sovngarde. Until then, may the gods be with you."''
+<!--Instructions: Add any miscellaneous notes about the NPC here, with a bullet for each note.--><!--
+==Notes==
+* Add note here
+--><!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

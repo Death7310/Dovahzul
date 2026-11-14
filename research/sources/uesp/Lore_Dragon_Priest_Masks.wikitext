@@ -1,0 +1,110 @@
+<noinclude>{{Lore Artifacts Trail}}[[File:SR-interior-Bromjunaar Sanctuary.jpg|thumb|right|Various Dragon Priest Masks]]</noinclude>
+The [[Lore:Dragon Priest Masks|masks]] of the [[Lore:Dragon Priest|Dragon Priests]] are strange [[Lore:Artifacts|artifacts]] created by the [[Lore:Dragon|dragons]] in the [[Lore:Merethic Era|Merethic Era]]. The highest ranking priests of the [[Lore:Dragon Cult|Dragon Cult]] were granted magical masks that defy the laws of time and possess powerful, mysterious enchantments.{{ref|[[SR:Loading Screens|Skyrim loading screens]]}} The individual masks are made of varying materials, and each bears the same name as the Dragon Priest that possessed it. The names are in the [[Lore:Dragon Language|dragon language]], and can be translated. The number of masks in existence is unknown, and some are apparently older than others. The masks were buried with their owners, until in {{Year|4E 201}} the return of the dragons caused many of the undead Dragon Priests to awake from their slumber.<noinclude> Many of the masks were then taken from the Dragon Priests by the [[Lore:Hero|Last Dragonborn]].
+
+==Known Masks==
+===Ahzidal===
+{{Icon|a|Ahzidal|ns_base=Skyrim|72|al=right}}Meaning "The Embittered Destroyer" (literally "Bitter Destroyer"), the mask belonged to [[Lore:Ahzidal|Ahzidal]], the first great [[Lore:Nord|Nord]] enchanter, famed for mastering the [[Lore:Elves|Elven]] methods of enchanting. He became a Dragon Priest in his search for knowledge, but he was driven mad when he sought out the power of the secrets of [[Lore:Oblivion|Oblivion]]. He was exiled by his fellow Dragon Priests and fled to [[Lore:Solstheim|Solstheim]], where he was sealed within [[Lore:Kolbjorn Barrow|Kolbjorn Barrow]].{{ref|name=AhzD|{{Cite Book|Ahzidal's Descent}}}} In {{Year|4E 201}}, a [[Lore:Dunmer|Dunmer]] named {{Lore Link|Ralis Sedarys}} began excavating the ash-filled ruins of the barrow and fell under the influence of Ahzidal. He sacrificed the lives of many miners and mercenaries to resurrect the Dragon Priest, but Ahzidal was subsequently destroyed by the Last Dragonborn.{{ref|name=SRUnearthed|Events of [[Skyrim: Unearthed|Unearthed]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} The mask itself appears to be made of bronze-colored metal, but is in fact made of [[Lore:Ebony|ebony]]. It gives the wearer resistance to fire and improved damage from fire-based [[Lore:Destruction|destruction]] magic.{{ref|name=AhzMask|[[Skyrim: Ahzidal (item)|Ahzidal's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+{{NewLine}}
+===Akiirdal===
+The Dragon Priest {{Lore Link|Akiirdal}} was entombed in {{Lore Link|the Howling Sepulchers}} in [[Lore:Craglorn|Craglorn]] with his mask. Nothing is known of it.{{ref|name=ESOAkiirdal|[[Online:Akiirdal|Akiirdal]] in [[ON:Online|ESO]]}}
+{{NewLine}}
+===Arthosiis===
+The exiled Dragon Priest {{Lore Link|Arthosiis}} was entombed in {{Lore Link|Exile's Barrow}} in [[Lore:Wrothgar|Wrothgar]] with his mask, and a second mask was sealed in a vault along with his other treasures. Nothing is known of either mask. Due to the [[Lore:Orc|Orc]]s' respect for the dead of other races, the barrow remained untouched until {{Year|2E 582}} when it was looted by {{Lore Link|Narsis Dren}}. The second mask was taken from the tomb by Dren, and was apparently a very valuable early example of such a mask.{{ref|name=ESODraugrDilemma|Events of [[Online:Draugr Dilemma|Draugr Dilemma]] in [[ON:Online|ESO]]}}
+{{NewLine}}
+===Dukaan===
+{{Icon|a|Dukaan|ns_base=Skyrim|72|al=right}}Meaning "Dishonor", the mask belonged to {{Lore Link|Dukaan}}, a Dragon Priest who was entombed in {{Lore Link|White Ridge Barrow}} on Solstheim.{{ref|name=SRDukaan|[[Skyrim:Dukaan (creature)|Dukaan's]] appearance in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} The mask itself appears to be made of a pale-colored metal, but is in fact made of ebony. It gives the wearer resistance to the frost and improved damage from frost-based destruction magic.{{ref|name=DukaanMask|[[Skyrim: Dukaan (item)|Dukaan's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+{{NewLine}}
+===Haldriin===
+The Dragon Priest {{Lore Link|Haldriin}}, who was entombed in {{Lore Link|Skyshroud Barrow}} on [[Lore:Bleakrock Isle|Bleakrock Isle]], wore a mask in life. Nothing is known of it.{{ref|name=ESOHaldriin|[[Online:Haldriin|Haldriin's]] appearance in [[ON:Online|ESO]]}}
+{{NewLine}}
+===Hevnoraak===
+{{Icon|a|Hevnoraak|ns_base=Skyrim|72|al=right}}Meaning "Brutality", this mask belonged to [[Lore:Hevnoraak|Hevnoraak]]. In life, the Dragon Priest had a way of enthralling people and built up a loyal army of followers, corrupting many good men. He planned his resurrection obsessively before dying, and was entombed in [[Lore:Valthume|Valthume]]. His plans were prevented by a man named [[Lore:Valdar|Valdar]]; even in death, his spirit ensured that Hevnoraak remained sealed within the tomb.{{ref|name=SRValdar|[[Skyrim:Valdar|Valdar]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} In {{Year|4E 201}}, the Last Dragonborn aided Valdar in finally destroying Hevnoraak.{{ref|name=SKEIW|Events of [[Skyrim: Evil in Waiting|Evil in Waiting]] during [[Skyrim:Skyrim|Skyrim]]}} The mask itself is made of [[Lore:Iron|iron]], and grants the wearer complete immunity to [[Lore:Disease|disease]] and poison.{{ref|name=HevnoMask|[[Skyrim: Hevnoraak (item)|Hevnoraak's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Konahrik===
+{{Icon|a|Konahrik|ns_base=Skyrim|72|al=right}}Meaning "Warlord", the owner of this mask is unknown. It was held in the city of [[Lore:Bromjunaar|Bromjunaar]], the capital of the Dragon Cult, inside a sealed stone dragon statue. The mask could only be accessed when the masks of the eight most high ranking Dragon Priests of [[Lore:Skyrim|Skyrim]] ([[#Hevnoraak|Hevnoraak]], [[#Krosis|Krosis]], [[#Morokei|Morokei]], [[#Nahkriin|Nahkriin]], [[#Otar|Otar]], [[#Rahgot|Rahgot]], [[#Vokun|Vokun]] and [[#Volsung|Volsung]]) were assembled and placed on pedestals surrounding the statue. In time, Bromjunaar fell into ruin and the statue crumbled, with Konahrik seemingly still locked inside. Circa {{Year|4E 201}}, a scholar obtained the [[#Wooden Mask|wooden mask]], which allowed him to travel back in time, to a time when the statue was in its prime. The scholar was killed by his panicked mercenaries and left to rot with the mask.{{ref|name=HTM|{{Cite Book|Hired Thug's Missive|ns_base=Skyrim}}}} In 4E 201, the Last Dragonborn discovered the wooden mask, and brought all eight Dragon Priest masks back in time to retrieve Konahrik.{{ref|name=SRWoodenMask|[[Skyrim:Wooden Mask|Wooden Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}  The mask itself is made of [[Lore:Gold|gold]]. When the wearer is close to death, the mask has a chance to heal the wearer and damage nearby enemies, while randomly summoning a Dragon Priest to aid the user.{{ref|name=KonaMask|[[Skyrim: Konahrik|Konahrik's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Korthor===
+[[File:ON-icon-armor-Bronze Head-Dragon Priest.png|right]]
+The Dragon Priest {{Lore Link|Korthor}}, a wielder of the [[Lore:Fork of Horripilation|Fork of Horripilation]], was entombed in {{Lore Link|Vuldngrav}} with his mask. Nothing is known of it.{{ref|name=ESOKorthor|[[Online:Korthor|Korthor's]] appearance in [[ON:Online|ESO]]}}{{ref|name=ESOSimplyMisplaced|Events of [[ON:Simply Misplaced|Simply Misplaced]] during [[ON:Online|ESO]]}}
+{{NewLine}}
+===Krosis===
+{{Icon|a|Krosis|ns_base=Skyrim|72|al=right}}Meaning "Sorrow", the mask belonged to {{Lore Link|Krosis}}, a Dragon Priest who was entombed atop [[Lore:Shearpoint|Shearpoint]], a mountain in the [[Lore:The Pale|Pale]].{{ref|name=SRKrosis|[[Skyrim:Krosis (creature)|Krosis']] appearance in ''[[Skyrim:Skyrim|Skyrim]]''}} The mask itself appears to be made of a bronze-colored metal, but is in fact made of iron, and improves the wearer's skill in alchemy, archery and lockpicking.{{ref|name=KrosisMask|[[Skyrim: Krosis (item)|Krosis' Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Miraak===
+{{Icon|a|Miraak|ns_base=Skyrim|72|al=right}}Meaning "Allegiance Guide", the mask belonged to [[Lore:Miraak|Miraak]], the First [[Lore:Dragonborn|Dragonborn]]. Miraak turned on his dragon masters and devoured their souls in order to master the [[Lore:Thu'um|thu'um]]. He fled to Solstheim and became a champion of [[Lore:Hermaeus Mora|Hermaeus Mora]], who granted him the power to bend the will of others using the thu'um.{{ref|name=SRRMora|[[Skyrim:Hermaeus Mora|Hermaeus Mora]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} When the Dragon Cult attacked and burned his [[Lore:Temple of Miraak|temple]], Miraak fled to [[Lore:Apocrypha|Apocrypha]]. He attempted to return to [[Lore:Tamriel|Tamriel]] in 4E 201, but he was stopped by Mora and the Last Dragonborn.{{ref|name=SRSummitApoc|Events of [[Skyrim:At the Summit of Apocrypha|At the Summit of Apocrypha]] during [[Skyrim:Dragonborn|Dragonborn]]}}The mask is made of a golden-colored metal, and fortifies the wearer's magicka significantly.{{ref|name=MiraakMask|[[Skyrim: Miraak (item)|Miraak's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+{{NewLine}}
+===Morokei===
+{{Icon|a|Morokei|ns_base=Skyrim|72|al=right}}Meaning "Glorious", the mask belonged to [[Lore:Morokei|Morokei]], a Dragon Priest entombed in [[Lore:Labyrinthian|Labyrinthian]], once the ancient city of Bromjunaar.{{ref|name=SKMorokei|[[Skyrim:Morokei (creature)|Morokei's]] appearance in ''[[Skyrim:Skyrim|Skyrim]]''}} Morokei obtained the [[Lore:Staff of Magnus|Staff of Magnus]] some time in the [[Lore:Fourth Era|Fourth Era]], and a group of mages from the [[Lore:College of Winterhold|College of Winterhold]] undertook an expedition to this particular area. The future Arch-Mage, [[Lore:Savos Aren|Savos Aren]], was the only member of the group to survive the venture into Labyrinthian, owing to Morokei's immense power. Aren sacrificed two of his companions to eternally contain Morokei, and sealed the ruins.{{ref|name=SRSavosAren|[[SR:Savos Aren|Savos Aren]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}} In 4E 201, following the activation of the [[Lore:Eye of Magnus|Eye of Magnus]], the Last Dragonborn was sent to Labyrinthian by the College to retrieve the Staff. During this, the Dragonborn confronted and destroyed Morokei.{{ref|name=SRTSOM|Events of [[Skyrim: The Staff of Magnus|The Staff of Magnus]] during [[Skyrim:Skyrim|Skyrim]]}}  The mask itself appears to be made of a gray-colored metal, but is in fact made of [[Lore:Moonstone|moonstone]]. It grants the wearer faster magicka regeneration.{{ref|name=MorokeiMask|[[Skyrim: Morokei (item)|Morokei's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Nahkriin===
+{{Icon|a|Nahkriin|ns_base=Skyrim|72|al=right}}Meaning "Vengeance", the mask belonged to {{Lore Link|Nahkriin}}, a Dragon Priest who was tasked with presiding over [[Lore:Alduin|Alduin]]'s portal to [[Lore:Sovngarde|Sovngarde]] at [[Lore:Skuldafn|Skuldafn]].{{ref|name=SRTWEE|Events of [[Skyrim: The World-Eater's Eyrie|The World-Eater's Eyrie]] during [[Skyrim:Skyrim|Skyrim]]}} The mask itself is made of ebony, and grants the wearer fortified magicka, as well as the ability to cast destruction and [[Lore:Restoration|Restoration]] spells with less magicka.{{ref|name=NahkriinMask|[[Skyrim:Nahkriin (item)|Nahkriin's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Otar===
+{{Icon|a|Otar|ns_base=Skyrim|72|al=right}}This mask belonged to {{Lore Link|Otar the Mad}}, a Dragon Priest who was entombed in [[Lore:Ragnvald|Ragnvald]].{{ref|name=SKOtar|[[Skyrim:Otar the Mad|Otar the Mad's]] appearance in ''[[Skyrim:Skyrim|Skyrim]]''}} His tomb was sealed, and the keys guarded by two [[Lore:Draugr|draugr]], {{Lore Link|Saerek}} and {{Lore Link|Torsten}}. The tomb was unsealed in 4E 201 by the Last Dragonborn, and Otar was destroyed.{{ref|name=SKRagnvald|Events of [[Skyrim: Ragnvald (quest)|Ragnvald]] during [[Skyrim:Skyrim|Skyrim]]}} The mask itself is made of [[Lore:Malachite|malachite]], although it is not translucent. It grants the wearer resistance to elemental magical attacks.{{ref|name=OtarMask|[[Skyrim:Otar|Otar's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Ra'khajin===
+The Dragon Priest {{Lore Link|Ra'khajin}} was given an Aeonstone mask and became the high priest for Laatvulon's Order of the New Moon.{{ref|name=ESODragonhold|[[Online:The Pride of Alkosh (quest)|The Pride of Alkosh]] quest in [[ON:Online|ESO]]}}
+{{NewLine}}
+===Rahgot===
+{{Icon|a|Rahgot|ns_base=Skyrim|72|al=right}}Meaning "Rage", the mask belonged to [[Lore:Rahgot|Rahgot]], the Dragon Priest who led [[Lore:Forelhost|Forelhost]], the final bastion of the Dragon Cult. His followers committed suicide or were killed in {{Year|1E 140}}, when the forces of [[Lore:Harald|King Harald]] besieged Forelhost. This sacrifice created a magical barrier which prevented the invaders from sacking the settlement.{{ref|name=SSSJ|{{Cite Book|Skorm Snow-Strider's Journal}}}} In 4E 201, an [[Lore:Altmer|Altmer]] named {{Lore Link|Valmir}} was sent to Skyrim by an anonymous benefactor to retrieve Rahgot's mask from within the ruins of Forelhost. He was ordered to trick [[Lore:Imperial Legion|Imperial Legionnaires]] and [[Lore:Stormcloaks|Stormcloak Soldiers]] into recovering the masks to aid the war effort, and then bring the mask to Labyrinthian, likely in an effort to retrieve [[#Konahrik|Konahrik]]. Valmir recruited the Last Dragonborn, who successfully retrieved the mask, but discovered Valmir's ploy and killed him.{{ref|name=SRSOTDC|Events of [[Skyrim: Siege on the Dragon Cult|Siege on the Dragon Cult]] during [[Skyrim:Skyrim|Skyrim]]}}The mask itself is made of [[Lore:Orichalcum|orichalcum]], and fortifies the wearer's stamina significantly. {{ref|name=RahgotMask|[[Skyrim: Rahgot (item)|Rahgot's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Vokun===
+{{Icon|a|Vokun|ns_base=Skyrim|72|al=right}}Meaning "Shadow", the mask belonged to {{Lore Link|Vokun}}, a Dragon Priest entombed in [[Lore:High Gate Ruins|High Gate Ruins]].{{ref|name=SRVokun|[[Skyrim:Vokun (creature)|Vokun's]] appearance in ''[[Skyrim:Skyrim|Skyrim]]''}} He was destroyed in 4E 201 by the Last Dragonborn and {{Lore Link|Anska}}, a descendant of [[Lore:Ysgramor|Ysgramor]].{{ref|name=SRASFA|[[Skyrim: A Scroll For Anska|A Scroll For Anska]] during [[Skyrim:Skyrim|Skyrim]]}} The mask itself is made of [[Lore:Steel|steel]], and grants the wearer the ability to cast [[Lore:Alteration|alteration]], [[Lore:Conjuration|conjuration]] and [[Lore:Illusion|illusion]] spells with less magicka.{{ref|name=VokunMask|[[Skyrim: Vokun (item)|Vokun's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Volsung===
+{{Icon|a|Volsung|ns_base=Skyrim|72|al=right}}This mask belonged to {{Lore Link|Volsung}}, a Dragon Priest entombed in [[Lore:Volskygge|Volskygge]].{{ref|name=SRVolsung|[[Skyrim:Volsung (creature)|Volsung's]] appearance in ''[[Skyrim:Skyrim|Skyrim]]''}} It is made of [[Lore:Corundum|corundum]], and grants the wearer with the ability to breathe underwater and carry more, as well as increased skill at bartering.{{ref|name=VolsungMask|[[Skyrim:Volsung (item)|Volsung's Mask]] in ''[[Skyrim:Skyrim|Skyrim]]''}}
+{{NewLine}}
+===Vosis===
+The Dragon Priest {{Lore Link|Vosis}}, who was entombed in [[Lore:Forelhost|Forelhost]], wore a mask in life. Nothing is known of it.{{ref|name=ESOVosis|[[Online:Vosis|Vosis']] appearance in [[ON:Online|ESO]]}} In {{Year|2E 582}} while the [[Lore:Worm Cult|Worm Cult]] was scouring the [[Lore:The Rift|Rift]] for shards of [[Lore:Wuuthrad|Wuuthrad]], a group of cultists led an attack on Forelhost when their leader, {{Lore Link|Nordahl}}, attempted to recover the mask. The cultists were defeated by the undead and driven off, and Vosis claimed the axe shard for himself. He was then slain by a soldier from the [[Lore:Ebonheart Pact|Ebonheart Pact]], who was also seeking the shards.{{ref|name=ESOAWATC|Events of [[ON:A Walk Above the Clouds|A Walk Above the Clouds]] during [[ON:Online|Online]]}}
+{{NewLine}}
+===Wooden Mask===
+{{Icon|a|WoodenMask|ns_base=Skyrim|72|al=right}}This unnamed mask is made of wood, and hums with an unfamiliar energy. Equipping it while in close proximity to [[#Konahrik|Konahrik]]'s statue in the ruins of Bromjunaar will physically transport the wearer back in time, seemingly some time in the Merethic Era. It was discovered by a scholar circa 4E 201, but, after using it several times, he was killed by his panicked mercenaries and left to rot with the mask. The mask was discovered in 4E 201 by the Last Dragonborn, who used it to recover Konahrik.{{ref|name=HTM}}{{ref|name=SRWoodenMask}}
+{{NewLine}}
+===Zahkriisos===
+{{Icon|a|Zahkriisos|ns_base=Skyrim|72|al=right}} Meaning "Sword-Blood", this mask belonged to {{Lore Link|Zahkriisos}}, a Dragon Priest who was seemingly a member of the {{Lore Link|Bloodskal Clan}}. He was entombed in a sealed section of {{Lore Link|Bloodskal Barrow}} on Solstheim.{{ref|name=SRZahkriisos|[[Skyrim:Zahkriisos (creature)|Zahkriisos']] appearance in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} In {{Year|4E 10}}, the [[Lore:Raven Rock|Raven Rock]] ebony mine broke into the barrow, but the entrance was sealed off by the [[Lore:East Empire Company|East Empire Company]] after the death of [[Lore:Gratian Caerellius|Gratian Caerellius]] within.{{Ref|name=GJ|{{Cite Book|Gratian's Journal|ns_base=Skyrim}}}} The Last Dragonborn ventured into the barrow in 4E 201 at the request of Gratian's great-grandson, {{Lore Link|Crescius Caerellius}}. The Dragonborn used the [[Lore:Bloodskal Blade|Bloodskal Blade]] to unlock the sealed portion of the barrow, and destroyed Zahkriisos.{{ref|name=SRTFD|Events of [[Skyrim:The Final Descent|The Final Descent]] during [[Skyrim:Dragonborn|Dragonborn]]}} The mask itself appears to be made of a gray-colored metal, but is in fact made of ebony. It gives the wearer resistance to lightning attacks and improved damage from shock-based destruction magic.{{ref|name=ZahkriisosMask|[[Skyrim:Zahkriisos (item)|Zahkriisos' Mask]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+{{NewLine}}
+===Zaan===
+[[File:ON-icon-armor-Head-Zaan.png|right]]
+This mask belonged to {{Lore Link|Zaan}} the Scalecaller, who served the Dragon [[Lore:Thurvokun|Thurvokun]]. Thurvokun and his followers left central Skyrim for the remote mountain now known as {{Lore Link|Scalecaller Peak}}, believed to be due to a schism in dogma within the Dragon Cult. The Dragon then departed and never returned. Zaan fell into a depressive state and her followers, while initially hoping Thurvokun would return, had Zaan killed out of rage after many years of waiting. They credited Thurvokun's departure to Zaan's incompetence, some also believed she had turned to worshiping [[Lore:Peryite|Peryite]] in Thurvokun's absence.{{ref|name=THOZTSC|{{Cite Book|The History of Zaan the Scalecaller}}}} A group of [[Lore:Undaunted|Undaunted]] warriors climbed Scalecaller Peak circa {{Year|2E 582}}, and uncovered a plot to unleash a terrible plague upon Tamriel in the name of Peryite.{{ref|name=RONM|{{Cite Book|Research of Nathien Mortieu}}}} Zaan the Scalecaller, now resurrected, was gifted with [[Lore:Spellbreaker|Spellbreaker]]. Despite being formidable, she was slain.{{ref|name=ESOPOP|Events of [[ON:Plans of Pestilence|Plans of Pestilence]] during [[Online:Online|ESO]]: ''[[Online:Dragon Bones|Dragon Bones]]''}} The mask itself appears to be made of a gold material and notably has tusks. The mask makes spells more potent and will incinerate its target by attaching a beam of fire to a nearby enemy that gets hotter the longer it stays attached.{{ref|name=ESOZaan|[[Online:Zaan the Scalecaller|Zaan the Scalecaller]] appearance and abilities in [[Online:Online|ESO]]: ''[[Online:Dragon Bones|Dragon Bones]]''}}
+
+{{NewLine}}
+
+==Gallery==
+<gallery>
+File:SR-item-Ahzidal.jpg|Ahzidal
+File:ON-npc-Akiirdal.jpg|Akiirdal
+File:ON-npc-Arthosiis.jpg|Arthosiis
+File:SR-item-Dukaan.jpg|Dukaan
+File:ON-npc-Haldriin.jpg|Haldriin
+File:SR-item-Hevnoraak.jpg|Hevnoraak
+File:SR-item-Konahrik.jpg|Konahrik
+File:ON-npc-Korthor.jpg|Korthor
+File:SR-item-Krosis.jpg|Krosis
+File:SR-item-Miraak.jpg|Miraak
+File:SR-item-Morokei.jpg|Morokei
+File:SR-item-Nahkriin.jpg|Nahkriin
+File:SR-item-Otar.jpg|Otar
+File:SR-item-Rahgot.jpg|Rahgot
+File:ON-item-Ra'khajin.jpg|Ra'khajin
+File:SR-item-Vokun.jpg|Vokun
+File:SR-item-Volsung.jpg|Volsung
+File:ON-npc-Vosis (old).jpg|Vosis
+File:SR-item-Wooden Mask.jpg|The Wooden Mask
+File:ON-hat-Renegade Dragon Priest Mask (human).jpg|Renegade Dragon Priest mask
+File:SR-item-Zahkriisos.jpg|Zahkriisos
+File:ON-crown store-Tusked Dragon Priest Mask.jpg|Tusked Dragon Priest Mask replicas
+File:LG-cardart-Dragon Priest Mask.jpg|Dragon Priest Mask (Legends)
+File:ON-hat-Scorched Dragon Priest Mask.jpg|Khajiiti Scorched Dragon Priest Mask
+File:ON-hat-Dread-Etched Dragon Priest Mask.jpg|Khajiiti Dread-Etched Dragon Priest Mask
+File:ON-hat-Terrorgleam Dragon Priest Mask.jpg|Khajiiti Terrorgleam Dragon Priest Mask
+</gallery>
+
+==Notes==
+*Objects resembling a Dragon Priest Mask are sometimes used as a summons focus for conjuring an [[Lore:Illusion|illusory]] [[Lore:Bone Dragon|Bone Dragon]].{{ref|[[ON:Bone Dragon Summons Focus|Bone Dragon Summons Focus]] memento in [[ESO:Online|ESO]]}}
+
+==See Also==
+*{{GSI|SR:Dragon Priest Mask}}
+
+==References==
+<references/>
+</noinclude>

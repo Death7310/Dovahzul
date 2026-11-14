@@ -1,0 +1,32 @@
+{{Creature Summary
+|loc=[[Skyrim:High Gate Ruins|High Gate Ruins]]
+|refid=000327C1
+|baseid=000327C2
+|type=Undead
+|species=Dragon Priest
+|level=50
+|health=1490
+|magicka=545
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|image=SR-creature-Vokun.jpg
+|imgdesc=Vokun
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Flames|Augmented Flames]] (rank 2); [[Skyrim:Augmented Frost|Augmented Frost]] (rank 2); [[Skyrim:Augmented Shock|Augmented Shock]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Necromancy|Necromancy]]; [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Vokun''' is a high-ranked [[Skyrim:Dragon Priest|dragon priest]] found in [[Skyrim:High Gate Ruins|High Gate Ruins]], east of Solitude and northeast of [[Skyrim:Ustengrav|Ustengrav]]. As soon as you enter the room with his sarcophagus, he erupts from within and proceeds to attack. As with all dragon priests, he is a formidable undead foe.
+
+Vokun drops his [[Skyrim:Vokun (item)|eponymous mask]] upon death. It grants a 20% reduction in casting cost for all spells from the Conjuration, Illusion and Alteration schools.
+
+Vokun is the guardian of the scroll you must retrieve for [[Skyrim:Anska|Anska]] in the [[Skyrim:A Scroll For Anska|related quest]], as the scroll lies in the chamber behind his crypt. Although he is a shock-based Dragon Priest, he carries a [[SR:Staff of Fireballs|Staff of Fireballs]], which he will use almost exclusively to anything else. Vokun has the ability to summon a [[Skyrim:Storm Atronach|storm atronach]], as well as a [[Skyrim:Lightning Cloak|lightning cloak]] and [[Skyrim:Greater Ward|greater ward]].
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|A Scroll For Anska}}
+
+== Notes ==
+* "Vokun" means "shadow" in the [[Lore:Dragon Language|dragon language]].
+* In the Creation Kit, Vokun is called '''"Ianusu"'''.
+
+{{Skyrim Dragon Priests}}

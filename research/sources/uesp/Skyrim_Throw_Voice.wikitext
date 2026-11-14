@@ -1,0 +1,69 @@
+{{Shout Summary
+|id=0007097f
+|icon=SR-icon-shout-White.png
+|quote=The Thu'um is heard, but its source unknown, fooling those into seeking it out.
+|word1= ZUL
+|wordid1= 000602a0
+|cooldown1= 30
+|info1=Throws voice
+|location1= [[Skyrim:Shearpoint|Shearpoint]] (all words learned together)
+|word2= Mey
+|wordid2= 000602a1
+|cooldown2= 15
+|info2=Throws voice
+|word3= GUT
+|wordid3= 000602a2
+|cooldown3= 5
+|info3=Throws voice
+|transword1= voice
+|transword2= Fool
+|transword3= Far
+|spellid1=0007430f
+|spellid2=0007430f
+|spellid3=0007430f
+}}
+[[File:SR-creature-Krosis.jpg|thumb|left|[[Skyrim:Krosis_(creature)|Krosis]], the Dragon Priest guarding the Word Wall]]
+'''Throw Voice''' is a [[Skyrim:Dragon_Shouts|dragon shout]] that causes the shout to be heard from the point on a surface the player is targeting. Enemies will often go investigate the sound, allowing it to be used as a distraction. The shout has a limited range, and only fools those who have not spotted you.
+
+All three levels of the shout are identical in effect. Using more words allows a shorter recharge time. Even though all three words are learned together, each word requires its own dragon soul to unlock it.
+
+{{NewLeft}}
+== Notes ==
+* [[Skyrim:Shearpoint|Shearpoint]] is guarded by both a [[Skyrim:Dragon|dragon]] (post-[[Skyrim:Dragon Rising|Dragon Rising]]) and the [[Skyrim:Dragon Priest|Dragon Priest]] [[Skyrim:Krosis (creature)|Krosis]], making it difficult to obtain this shout. The only other shout that has all its word wall locations guarded by a dragon priest is Storm Call.
+* The insult thrown is random each time, but the things you can say include:
+:# "Hey, slug-breath!"
+:# "Hey, melon-nose!"
+:# "Hey, cheese brain!"
+:# "Hey, ugly!"
+:# "Hey, troll bait!"
+:# "Hey, skeever butt!"
+* Using this shout while aiming at a neutral creature (such as a [[Skyrim:Giant|Giant]] or [[Skyrim:Mammoth|Mammoth]]) turns the creature hostile.
+* This shout can be used to drop hung clay firepots (a trap commonly seen in Draugr tombs) from a safe distance by aiming onto the pot itself.
+* This shout is one of two that have a very short cooldown (the other is [[Skyrim:Dragon Aspect|Dragon Aspect]]). Without [[Skyrim:Fortify Shouts|Shout fortifying]] equipment and blessings, the cooldown period for using all three words is just 5 seconds.
+* Throw Voice is the only shout in the game where using more words means less cooldown; almost all others (aside from Dragon Aspect and [[Skyrim:Call of Valor|Call of Valor]]) increase the amount of cooldown the more words that are used.
+*The voice that insults is very similar (if not outright identical) to the "FemaleEvenToned" voicetype.
+*Although the first word of this shout supposedly is '''Zul''', the pronunciation from the voice acting and the subtitle note found in the game file suggest that the 1st word should actually be '''Vun''', which translates to ''Tongue''.
+{{NewLine}}
+
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=MODIR FIN {{FC|blue|GUT}} WahLaaN QETHSEGOL<br>ZeyMahii VahRUKT OSKAR<br>FIN {{FC|blue|Mey}} WEN {{FC|blue|ZUL}} LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD
+|translation1=Modir the {{FC|blue|Far}} raised (this) stone<br>(in his) brother's memory, Oskar<br>the {{FC|blue|Fool}}, whose {{FC|blue|voice}} was weak and<br>not (the) mighty Shout of his clan.
+|allwords=true}}
+
+== Unused Word Wall Translations ==
+These Word Walls appear only in the game files and are not seen in-game.
+{{WordWall
+|wordwall1=MODIR FIN SADONVUM WahLaaN<br>QETHSEGOL ZeyMahii VahRUKT OSKAR<br>WEN {{FC|blue|ZUL}} LOS SahLO ahRK<br>NI SahROT THuuM DO OK BROD
+|translation1=Modir the Greybeard raised<br>(this) stone (in his) brother's memory, Oskar<br>whose {{FC|blue|voice}} was weak and<br>not (the) mighty Shout of his clan.
+|wordwall2=HET NOK KOPRaaN DO OMLUTH FIN {{FC|blue|Mey}}<br>WO UNT WAH NAHKIP BRUNiiK<br>UDERFRYKTE SINON MeyZ KIPRaaN
+|translation2=Here lies (the) body of Omluth the {{FC|blue|Fool}},<br>who tried to feed (the) savage<br>[[Lore:Udyrfrykte|Uderfrykte]], but instead became (the) meal.
+|wordwall3=HET Mah SiiGONIS NeiVaaN<br>WO WUNDUN {{FC|blue|GUT}} NOL HOFKiiN<br>Dir VOTH ZIN KO<br>ahMIK DO ZeyMahZIN
+|translation3=Here fell (the) lizard Nievaan,<br>who wandered {{FC|blue|far}} from home<br>(and) died with honor (in)<br>service of (the) Companions.}}
+
+==Bugs==
+{{Bug|This shout is capable of triggering guards to confront you about using shouts in cities even though its nature should make that impossible.|USKP|1.2.6|It has been removed from formlist WICastDragonBornShouts.}}
+{{Bug|Argonians, Elves, female Orcs, or female Khajiit do not have the taunting lines when you use this shout since they don't have the recorded line for them.|USKP|3.0.1|They now have a custom "Hey" line when they use this shout.}} 
+{{Bug|The voice may sometimes play talking to any NPC.|confirmed=1}}
+
+{{Skyrim Shouts}}

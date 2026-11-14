@@ -1,0 +1,19 @@
+<noinclude>{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Jerall Mountains
+|loc2=Morrowind
+}}</noinclude>
+[[Lore:Ahbiilok|Ahbiilok]] is a [[Lore:Dragon|dragon]] whose name means "Hunter-Blue-Sky" in the [[Lore:Dragon Language|Dragon Language]].{{Ref|name=TESVSPOGG|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=Books}}}}
+
+During the early years of the [[Lore:Dragonguard|Dragonguard]], at some point after the founding of the organization{{Ref|name=AOD}} in {{Year|1E 2703}},{{Ref|name=HOFG|{{Cite Book|History of the Fighters Guild}}}}{{Ref|name=GGB|{{Cite Book|Grandmaster Ghelin-Brol (1E 2703 - 2734)}}}} he was seen throughout the northern parts of the [[Lore:Jerall Mountains|Jerall Mountains]]. There were numerous recorded attempts to kill him, but not a single one was successful. He was recorded as an active dragon by the chronicler of the Dragonguard, [[Lore:Books by Author#Brother Mathnan|Brother Mathnan]], in the ''[[Lore:Atlas of Dragons|Atlas of Dragons]]'', and as of {{Year|2E 373}}, he was believed to be lairing somewhere in [[Lore:Morrowind|Morrowind]].{{Ref|name=AOD|{{Cite Book|Atlas of Dragons}}}}
+
+According to ''[[Lore:Twin Secrets|Twin Secrets]]'', a renowned [[Lore:Enchanting|enchanter]] [[Lore:Books by Author#Brarilu Theran|Brarilu Theran]] found a dragon sheltered in the smoking ruins of [[Lore:Vvardenfell|Vvardenfell]] and defeated it in combat. Instead of killing the Dragon, he parlayed with it. He asked the Dragon for its name, but the Dragon refused and instead offered to teach the [[Lore:Mer|mer]] how to defy the Law of Firsts and enchant items with multiple effects.{{Ref|name=TS|{{Cite Book|Twin Secrets}}}}<noinclude>
+{{NewLeft}}
+==Gallery==
+<gallery>
+File:LG-cardart-Supreme Dragon.png|A dragon flying above a volcano
+</gallery>
+==References==
+<references/>

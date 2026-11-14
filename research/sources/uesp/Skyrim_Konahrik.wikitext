@@ -1,0 +1,45 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Heavy]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Konahrik.jpg
+|weight=7
+|rating=24
+|value=3200
+|warmth=18
+|type=[[Skyrim:Heavy Armor|Heavy]] [[Skyrim:Helmet|Helmet]]
+|enchant=''When health is low, has a chance to heal wearer and damage nearby enemies:''
+* Konahrik's Privilege
+|artifacttype=Artifact
+|objectid=00061cd6
+|editorid=ArmorDragonPriestMaskUltraHelmet
+|tempering=[[Skyrim:Gold Ingot|Gold Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}<noinclude>[[File:SR-npc-Spectral_Dragon_Priest.jpg|thumb|right|Spectral Dragon Priest summoned by the mask]]</noinclude>
+[[Skyrim:Konahrik|Konahrik]] is a [[Skyrim:Gold|golden]] [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] gained by obtaining all other masks from the base game and bringing them to [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]]. 
+
+The artifact's enchantment has a chance to trigger a variety of effects when the wearer's health is reduced below 15%.
+With a chance of 15%, it causes an explosion that knocks back enemies and items in a moderate radius (1024 units, approximately 15m), as well as granting a [[Skyrim:Flame Cloak|Flame Cloak]] lasting for 12 seconds, and casting [[Skyrim:Grand Healing|Grand Healing]].
+With a chance of 3%, the above effect happens as well as [[Skyrim:Conjure_Dragon_Priest|Conjure Dragon Priest]] being cast, summoning a Spectral Dragon Priest for 60 seconds.
+
+Konahrik can be [[Skyrim:Workbench|improved]] with [[Skyrim:Gold Ingot|gold ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Konahrik|Konahrik]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Notes==
+* The full description of the enchantment ''Konahrik's Privilege'' is: ''"When low on health, has a chance to heal wearer and damage nearby enemies, or summon a powerful Dragon Priest defender"''.
+* The dragon priest summoned by the mask's enchantment counts as a conjured creature. It can cast [[Skyrim:Incinerate|Incinerate]], [[Skyrim:Thunderbolt|Thunderbolt]], [[Skyrim:Icy Spear|Icy Spear]], [[Skyrim:Frost Cloak|Frost Cloak]], [[Skyrim:Lightning Cloak|Lightning Cloak]], [[Skyrim:Dread Zombie|Dread Zombie]], [[Skyrim:Greater Ward|Greater Ward]], and [[Skyrim:Conjure Storm Atronach|Conjure Storm Atronach]] (though its storm atronach does not count as yours). After the spell ends, the dragon priest will vanish in a cloud of black smoke, sometimes leaving behind an unlootable ash pile.
+* The player must be looking at a surface within casting range in order for the Dragon Priest to spawn.
+** The range is affected by the [[Skyrim:Conjuration#Summoner|Summoner]] perk.
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* Konahrik means "Warlord" in the tongue of the [[Skyrim:Dragons|dragons]].
+* Konahrik has the highest base armor rating of any helmet in the base game, surpassing even the [[Skyrim:Daedric Helmet|Daedric Helmet]]. From level 45 onward, [[Skyrim:Miraak (item)|Miraak]]{{DB}} has the highest armor rating.
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a special holder for this item.
+* Due to the necessity of having [[Skyrim:Nahkriin (item)|Nahkriin]]  (as well as all the other priest masks), it is impossible to legitimately get this mask until after Alduin has been defeated and the main quest completed, since there is no way back from Skuldafn until then.
+* This is a good mask to give to followers, since they get to low health more easily than the player without the risk of dying.
+*Konahrik is the only Dragon Priest mask that is not worn by a Dragon Priest, or having a priest that shares its name. It's also one of two Dragon Priest masks that are unique in appearance; the other is Miraak.
+* When cast, Kohnarik's Grand Healing counts towards the player's [[Skyrim:Restoration|Restoration]] experience.
+
+==Bugs==
+{{Bug|Placing Konahrik on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses it gained from tempering.|USKP|2.0.4}}
+
+{{Skyrim Dragon Priests}}</noinclude>

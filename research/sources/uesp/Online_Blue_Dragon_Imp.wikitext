@@ -1,0 +1,65 @@
+{{Mod Header|Elsweyr}}{{Online Collectible Summary
+|image=ON-pet-Blue Dragon Imp
+|icon=ON-icon-pet-Blue Dragon Imp
+|id=6059
+|description="A 'Baby [[Online:Dragon|Dragon]],' you say? No such thing. What you have there is a clever Illusion [[Online:Imp|Imp]] that's found a way to get free handouts and a warm place to sleep. Young folk these days: so gullible." —[[Online:Divayth Fyr|Divayth Fyr]]
+|collectibletype=Pet
+|type=Flying Pet
+|nickname=Dwiindovah
+|acquisition=[[ON:Elsweyr|Elsweyr]] Pre-Order Bonus Pack<br>[[Online:Crown Store|Crown Store]]: [[Online:Elsweyr Collector's Pack|Elsweyr Collector's Pack]]
+|crate=
+|tier=
+|price={{ESO Crowns|2,100}}
+|date=January 17, 2019 - June 4, 2019
+}}The '''Blue Dragon Imp''' costume was originally obtained by pre-ordering the [[Online:Elsweyr Collector's Edition|Collector's Edition]] for [[ON:Elsweyr|Elsweyr]]. It is now available in the [[Online:Crown Store|Crown Store]] for {{ESO Crowns|2,100}} as part of the [[Online:Elsweyr Collector's Pack|Elsweyr Collector's Pack]]. The pet flies around while its owner is idle. Its default name is "Dwiindovah".
+{{NewLeft}}__NOTOC__
+
+==Occurrences==
+'''Appearances: 2'''
+*Pre-order bonus &mdash; January 17, 2019 - June 4, 2019
+*Crown Store &mdash; June 10, 2020
+<!--
+==Physical Description==
+
+-->
+
+==System Mail==
+Players who pre-purchased Elsweyr received this correspondence in their in-game mailbox upon opening the game when the Chapter released.
+{| class="wikitable" width="40%"
+! Pre-Order Bonus Pack
+|-
+|
+''For pre-ordering The Elder Scrolls Online: Elsweyr, you have received these Pre-Order bonus features: <br><br>''
+''• The exclusive [[Online:Noble Clan-Chief|Noble Clan-Chief]] Costume<br>''
+''• The exclusive Blue Dragon Imp pet<br>''
+''• Three Elsweyr Treasure Maps<br>''
+''• A [[Online:Baandari Pedlar Crate|Baandari Pedlar Crown Crate]]<br>''
+''• Two Crown Experience Scrolls<br><br>
+''Your Noble Clan-Chief costume and Blue Dragon Imp pet can be found in your Collections menu. Your Crown Experience Scrolls and Treasure Maps are attached to this mail. Your Crown Crate has been added to your account, and can be opened from the Crown Crates menu. Welcome to Elsweyr!''
+|}
+
+==Notes==
+*Its name means "Steel Dragon" in the [[Lore:Dragon Language|Dragon Language]].
+
+==See Also==
+*[[Online:Archaic Lore Tablets|Archaic Lore Tablets]]
+*[[Online:Ashen Scar Jerboa|Ashen Scar Jerboa]]
+*[[Online:Dragonbone Style|Dragonbone Style]]
+*[[Online:Rahd-m'Athra|Rahd-m'Athra]]
+*[[Online:Senche-raht (mount)|Senche-raht]]
+
+==Gallery==
+<gallery>
+File:ON-crown store-Blue Dragon Imp.png|[[Online:Crown Store Renders/Pets|Promotional render]]
+File:ON-crown store-Elsweyr Collector's Pack.jpg|[[Online:Crown Store Renders/Upgrades|Promotional render]], Elsweyr Collector's Pack
+File:ON-prerelease-Elsweyr Digital Content.jpg|Elsweyr Digital Content
+File:ON-furnishing-Blue Dragon Imp.jpg|Furnishing
+File:ON-card-Blue Dragon Imp.png|Card
+</gallery>
+<!--Instructions: Add any bugs related to the collectible here using the format below.
+==Bugs==
+{{Bug|Bug description}}
+**Workaround
+--><!--
+== References ==
+<references />-->

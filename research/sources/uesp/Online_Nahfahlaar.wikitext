@@ -1,0 +1,385 @@
+{{Mod Header|Dragonhold}}
+{{Online NPC Summary
+|image=ON-creature-Nahfahlaar.jpg
+|imgdesc=Nahfahlaar
+|race=Dragon
+|creature=1
+|loc=[[ON:Tideholm|Tideholm]]
+|reaction=Friendly
+|health={{ESO Health|ncf}}
+|faction={{Faction|Dragonguard}} (Ally)
+|class=
+}}{{TOCright}}
+'''Nahfahlaar''' is a red [[ON:Dragon|dragon]] who seeks to uphold Akatosh's will. To carry it out, he has allied himself with a reformed [[ON:Dragonguard|Dragonguard]] to help destroy [[ON:Laatvulon|Laatvulon]] and his [[ON:Order of the New Moon|New Moon Cult]], as well as to prevent [[ON:Kaalgrontiid|Kaalgrontiid]]'s ascension that would make him Akatosh's equal.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Dragon's Lair}}
+*{{Quest Link|Reformation}}
+*{{Quest Link|Uneasy Alliances}}
+*{{Quest Link|The Pride of Alkosh (quest)}}
+*{{Quest Link|The Dragonguard}}
+*{{Quest Link|The Dark Aeon}}
+*{{Quest Link|New Moon Rising}}
+*{{Quest Link|The Pride of Elsweyr}}
+
+==Quest-Related Events==
+===The Dragon's Lair===
+[[File:ON-quest-The Dragon's Lair 09.jpg|The first meeting with Nahfahlaar|thumb|right]]
+Senchal will have had reports of a dragon roosting at the nearby island of [[ON:Tideholm|Tideholm]], at which [[ON:Sai Sahan|Sai Sahan]] will want to deal with the dragon before it becomes a problem. 
+
+When you reached the third balcony, you'll see Nahfahlaar flying by.
+
+After making your way up through the complex, you will accompany Sai when you enter the courtyard at the highest point of the ruins which is also the dragon's lair. 
+:'''Sai Sahan:''' ''"Where are you, vile beast? Show yourself!"''
+Nahfalaar will land at the far end with a loud thud.
+:'''Sai Sahan:''' ''"Prepare to meet your end!"''
+Sai blows the horn but unlike prior experiences, it doesn't appear to do anything. In return the dragon roars back at Sai, causing him to stumble.
+:'''Sai Sahan:''' ''"The horn didn't work … how?"''
+:'''Nahfahlaar:''' ''"Of course not. That's my horn, mortals. Tell me how you came to possess it."''
+:'''Sai Sahan:''' ''"My companion will speak with you, Dragon. But make one wrong move and my blade will cut deep."''
+[[File:ON-creature-Nahfahlaar 03.jpg|thumb|right|Nahfahlaar wishes to talk]]
+At this, you can approach the dragon who will introduce himself to you with some questions of his own.
+:''"I am Nahfahlaar, I do not fear you, hunter. If you seek a battle, understand that it will be to the death.<br>I would rather talk, though. Where did you get my horn?''
+:'''The Dragon Vahlokzin stole it from the Dragonguard. Now we have it back.'''
+:''"Zu'u koraav. So it was Vahlokzin who hid it from me. To protect our kind from the horn's power, no doubt. Such an honorable fool.<br>And why do you seek to kill me? Are you one of Laatvulon's thralls?"''
+:'''We came because we thought you were going to attack Senchal. Who is Laatvulon?'''
+:''"My oldest foe. A Dragon of great power and evil intent. He gathered a cult to do his bidding and subjugated our brothers to his cause. Those who oppose him, die.<br>He plans to destroy this land. And me along with it."''
+:'''So you aren't going to attack Senchal?'''
+:''"Why would I attack the Kaaz city? It means nothing to me. Only Laatvulon matters.<br>You have dispatched many of my brother's followers, so I shall spare your lives. You may even keep my horn. I have no need of it."''
+:'''All right, I understand.'''
+
+Caska and Aeliah arrive with the rest of the crew, Sai prevents them from attacking the dragon, you can speak to Nahfahlaar again while the others search the sanctum.
+:''"I have no quarrel with you, hunter. Nor with the mortals of Elsweyr. I only came to this land to kill Laatvulon."''
+:'''I'd like to know more about you.'''
+::''"If you seek weaknesses, prepare for disappointment. I have none.<br>While my brothers were slain or locked away, I have been free. I know when to fight, when to fly, when to look for allies. And so I stand before you, nikrent. Unbroken."''
+::'''What alliances have you made in the past?'''
+::''"This is not the first time Laatvulon has sought to destroy me and the innocents of Tamriel.<br>In the past, another Dragonguard came to me. I gifted them one of my magnificent horns, which your companion holds in his hands."''
+::'''The Horn of Ja'darri.'''
+::''"That is the name it came to be known by.<br>You said that Vahlokzin stole my horn. No doubt he wished to protect my kind from its power. Even as he hid it away, the Dragonguard hunted us to near extinction. Nonvul mey. What an honorable fool."''
+::'''Do you regret giving your horn to the Dragonguard?'''
+::''"No. I lost a horn, but it led to the defeat of my foe.<br>The Dragonguard locked away Laatvulon, though their seals did not last. Now my brother seeks revenge that can only be sated by my death. Oblaan voth sos. It will end in blood."''
+:'''Tell me more about Laatvulon.'''
+::''"The Dragonguard called him the Black Beast, he of the fearsome nature and ravenous appetite.<br>We have been in conflict for so long that I barely remember its catalyst. It has been an unending hatred that spans the ages."''
+::'''And you allied with the Dragonguard to defeat him?'''
+::''"I gave up a horn in the exchange.<br>The Dragonguard were unable to slay Laatvulon, but they did lock him away. They thought his prison would hold forever. They were wrong."''
+::'''How did Laatvulon escape?'''
+::''"I do not know. The magic may have faded, or perhaps someone set him free. <br>No matter the cause, my goal remains true. Laatvulon must be stopped once more. And this time, I shall burn his corpse to cinders and shred his soul."''
+
+If you speak to him after speaking to Sai, he'll start the same conversation above with:
+:''"I will listen to the Dragonguard's proposition. Laatvulon has his allies. Perhaps it is time that I find my own."''
+
+===Reformation===
+While you were speaking with [[Online:Za'ji|Za'ji]] and his crew to convince them to join the Dragonguard, Nahfalaar will have been talking with Sai Sahan. If you talk to him before reporting back to Sai, he will mention the results of their discussion.
+:''"The Dragonguard and I have agreed to an alliance. To defeat Laatvulon, we have joined forces.<br>Neither of us much likes the idea, but allowances must be made."''
+
+===Uneasy Alliances===
+After speaking to Sai, you can talk with Nahfalaar to see what he needs your assistance with.
+:''"You are wise to ally yourselves with me. Laatvulon will not stop until Tamriel is destroyed. He has raised an army and forced my brothers to join his crusade. Those who refuse, die. <br>He must be stopped, for the good of my kind as well as for yours."''
+:'''Sai said you needed help with something.'''
+:''"A Dragon's words have power few mortals understand. When we swear an oath, we are bound by it. That is our way.<br>The Dragon [[Online:Yahgrondu|Yahgrondu]] vowed to aid me in a time of need. We must seek him out and remind him of his oath."''
+:'''You want Yahgrondu to join us?'''
+:''"I do. But I do not know where he hides. I leave that task to you, as the Dragonguard of old were known to be accomplished trackers. <br>Seek the aid of a companion who knows this land well and let them guide you. Now go, hunter. Find Yahgrondu."''
+:'''I'll choose a companion who's familiar with Elsweyr and search for Yahgrondu.'''
+
+If you started the quest through Sidura:
+:''"You are wise to ally yourselves with me. Laatvulon will not stop until Tamriel is destroyed. He has raised an army and forced my brothers to join his crusade. Those who refuse, die.<br>He must be stopped, for the good of my kind as well as for yours."''
+:'''I was told you needed to help with something.'''
+:''"A Dragon's words. They possess power few mortals understand. When we give our word, we are bound by it. That is our way.<br>The Dragon Yahgrondu vowed to aid me in a time of need. We must seek him out and remind him of the oath he made."''
+:'''You want Yahgrondu to join us?'''
+:''"Yes, but I do not know where he hides. I leave that task to you, hunter. The Dragonguard of old were accomplished trackers, were they not?<br>Seek the aid of a companion who knows this land well. Perhaps they can help you find Yahgrondu."''
+:'''I'll speak to a companion who is familiar with Elsweyr and search for Yahgrondu.'''
+
+After agreeing to help him find his brother Yahgrondu, you can ask him about his fellow dragon.
+:''"Finding Yahgrondu requires a test of skill rather than mere bravery. I am curious to see how you and your companions fare."''
+:'''How do you know this Yahgrondu will help us?'''
+:''"Yahgrondu ran afoul of a powerful Dragon hunter in a time before the Dragonguard. I found him, injured and cornered, and offered my aid. For a price. <br>Knowing that his life was forfeit, he begrudgingly agreed. "''
+:'''So he owes you a debt for saving his life?'''
+:''"My kind call it a sosmir. A blood allegiance. It is an unbreakable bond, stronger than any vow uttered by a mortal. <br>Yahgrondu is bound to pay his debt by a magic older than any you know. If you find him, he will join our cause."''
+
+At [[Online:Khenarthi's Breath Temple|Khenarthi's Breath Temple]], Nahfahlaar will land atop the temple wall with a thud after [[Online:Clan Mother Tadali|Clan Mother Tadali]] tries to discern the location of [[Online:Yahgrondu|Yahgrondu]].
+:'''Nahfahlaar:''' ''"Time grows short, hunter. What have you learned?"''
+:<Tadali is startled and runs away.>
+
+When you speak with him, he will get straight to the point.
+:''"Laatvulon's followers swarm the skies. The longer I remain, the greater chance I will be discovered.<br>Tell me. Have you found Yahgrondu?"''
+:'''Yahgrondu is in a mine on the southern coast. There's limestone nearby.'''
+:''"A large limestone quarry lies to the south. Laatvulon and his followers have seized it, though I do not know why.<br>Strange that Yahgrondu should be there now."''
+:'''Maybe Yahgrondu has joined with Laatvulon.'''
+:''"Unlikely. Yahgrondu is still bound to me by his oath. He would not join with my greatest enemy.<br>Head to the limestone quarry and search for this mine. I will meet you there."''
+:'''We'll meet you at the limestone quarry.'''
+
+He gives you a warning before flying off.
+:'''Nahfahlaar:''' ''"If you encounter Laatvulon, do not attempt to fight him. Our alliance ends the moment you die."''
+
+After traveling to the Quarry and investigating with Aeliah, you will witness Yahgrondu being killed for not joining Laatvulon and then resurrected to fight you. Once the undead dragon is slain, Nahfahlaar will fly in and perch on a rock.
+:'''Aeliah Renmus:''' ''"Watch out!"''
+:'''Nahfahlaar:''' ''"Rest, dii zeymah. Your battle is done."''
+
+You can ask where he was once he has paid respects to Yahgrondu.
+:''"That is what happens to those who defy Laatvulon. He kills them then forces their corpse to do his bidding.<br>Pahklok. What shameful arrogance."''
+:'''Where have you been?'''
+:''"Waiting for Laatvulon to leave. Had I faced him now, he would have overpowered me.<br>Do not think me proud of such actions, hunter. Laatvulon has somehow increased his power. We are not prepared to fight him just yet."''
+:'''A necromancer named [[Online:Ra'khajin|Ra'khajin]] used the green stone here to raise Yahgrondu.'''
+:''"To raise one of my kind takes great skill and greater preparation. Ra'khajin used the green stone to amplify his necromantic abilities.<br>That stone. It must be why Laatvulon's cult has claimed this mine."''
+:'''Without Yahgrondu, what do we do?'''
+:''"When Laatvulon hears of your victory, he will return to secure this mine. We must return to the sanctum :''"before that happens.<br>After that, we can decide our next course of action."''
+
+When you're done talking, Nahfahlaar gives you a warning.
+:'''Nahfahlaar:''' ''"Laatvulon underestimated you, hunter. He shall not do so again."''
+
+You can find him sleeping at the sanctum before talking to Sai, however he will not be in the mood to talk.
+:''"What is it now, hunter?"''
+
+===The Pride of Alkosh===
+After you have reported to Sai Sahan about your inflitration of the cult, he will send you to talk to Nahfahlaar about what you learnt of the plan to attack Pridehome. Sai Sahan will send you to speak to Nahfahlaar in his chamber:
+:''"You walk with purpose, hunter. What hastens your steps?"''
+:'''Laatvulon's cult is attacking a temple called Pridehome. Do you know why?'''
+:''"Laatvulon flinches at the shadows of his past. The Kaaz Kaal Sul are no more and yet he fears them still. Pathetic."''
+:'''What is the Kaaz Kaal Sul?'''
+:''"The Pride of Alkosh, in your tongue. Khajiiti warriors of ages past. <br>Some advice, hunter. Pridehome is not worth our effort. We must concentrate on the battle ahead. Saving priests does little for our cause."''
+:'''This alliance isn't just about defeating Laatvulon. We also need to protect Elsweyr.'''
+:''"Why put yourself at risk for such an insignificant victory? Let these priests die so that you may live to fight another day."''
+:'''The Dragonguard is going to protect Pridehome, with or without your help.'''
+
+Nahfahlaar growls and concedes to your plan before flying off with a sigh:
+:'''Nahfahlaar:''' ''"Fine. I shall make my way to Pridehome. For the sake of our alliance."''
+
+When you wandering the Pridehome Temple Grounds, you will see Nahfahlaar has arrived as agreed.
+
+At Pridehome, Sai Sahan delivers the news after Clan Mother Hizuni's death.
+:'''Aeliah Renmus:''' ''"The Clan Mother?"''
+:'''Sai Sahan:''' ''"We were too late. She's dead."''
+:'''Moon-Priest Nuziwa:''' ''"How could Ra'khajin do this? Hizuni was a mother to him. To both of us."''
+:'''Sai Sahan:''' ''"Fate will catch up with Ra'khajin eventually. We'll avenge&mdash;"''
+The dragon arrives and cuts off Sai:
+:'''Nahfahlaar:''' ''"Vengeance means little to the dead, Dragonguard."''
+
+Speak to him and he'll say:
+:''"I have come, for all the good it accomplished."''
+:'''The cult seeks a divine mask that belongs to the Pride of Alkosh. We need to find it first.'''
+:''"The Mask of Alkosh. <br>Laatvulon is a fool. His pathetic priest will never be worthy of such a relic. Not like Ja'darri. They chase that which they can never hope to control."''
+:'''What is this mask? And who's Ja'darri?'''
+:''"Ja'darri. I called her Toshrakhat. The founder of Pridehome and the first of Alkosh's pride. She once wore the mask, yes. And I suspect her corpse guards it still. <br>But none of this matters."''
+:'''It does matter. Your horn is named after Ja'darri! There must be more of a connection.'''
+:''"Then learn the truth for yourself. <br>If you seek the mask, speak with the Clan Mother of Khenarthi. It was her temple that cared for Ja'darri's remains."''
+:'''Fine. I'll speak with Clan Mother Tadali.'''
+
+After speaking with Nahfahlaar, he flies off.
+:'''Nahfahlaar:''' ''"Seek the mask if you wish. I will deal with Laatvulon."''
+
+Inside the Hall of Highmane, you'll battle and defeat [[Online:Ra'khajin|Ra'khajin]]. Laatvulon will start to attack you just as Nahfahlaar appears and challenges his brother:
+:'''Nahfahlaar:''' ''"Laatvulon!"''
+:'''Nahfahlaar:''' ''"Your fight is with me!"''
+:'''Laatvulon:''' ''"A challenge? Very well, brother. Let us end this."''
+
+The two beasts fly off into the sky.
+
+===The Dragonguard===
+While you speak to Za'ji at [[ON:West Sentry Tower|West Sentry Tower]], your conversation will be interrupted by the sight of Nahfahlaar being chased by three dragons who fly over the tower in the direction of [[Online:Doomstone Keep|Doomstone Keep]].
+
+You will reach Doomstone Keep only to witness Nahfahlaar getting taken down by Laatvulon:
+:'''Sai Sahan:''' ''"Look! Above the ruins!"''
+:'''Nahfahlaar:''' ''"Laatvulon! Your end is here, brother!"''
+
+[[File:ON-creature-Nafahlaar 02.jpg|thumb|right|''"Ja'darri? No. It is you, hunter. Dezu. Time blurs."'']]
+Eventually, you and Sai Sahan find an injured Nahfahlaar deep below the Doomstone Keep, in the chamber which was once Laatvulon's prison. When you speak with him, he will at first mistake you for someone else.
+:''"Ja'darri? No. It is you, hunter. Dezu. Time blurs. It is the same as before. <br>I can feel Laatvulon's icy malice permeating this chamber. So this was his prison, was it? And now he has assured that it will be my grave."''
+:'''We learned about Ja'darri. She fought Laatvulon alongside you and the Dragonguard.'''
+:''"Yes. I gave her my horn, but it was not enough. And so she asked me to empower the Mask of Alkosh, so that we could slay Laatvulon and end his terror. I refused. <br>Laatvulon was sealed away, but not before Ja'darri fell in battle."''
+:'''Ja'darri asked you to empower the mask? What does that mean? '''
+:''"It takes two wills to awaken the mask. One is a champion of the Pride of Alkosh, a warrior who has proven themselves worthy of the mask's power. <br>The other must be one of my kind. A Dragon."''
+:'''I have the Mask of Alkosh. I faced the Halls of the Highmane and proved myself worthy.'''
+:''"Fenjuntiid. The will of my father, the Dragon King of Time. All dov seek dominion, and so it is a king's command that is our bane. <br>I will not turn away from you as I did Ja'darri. I will not repeat the past."''
+:'''What do you mean?'''
+:''"I will join with you and empower the mask. You are a worthy ally and a champion of my father's will. Only together can we hope to defeat Laatvulon. <br>Raise the mask before me. It is time."''
+
+When you use the Mask of Alkosh on the dragon and you'll be whisked away to the [[Online:Spilled Sand|Spilled Sand]]. He will be standing nearby and will comment on the scenery.
+:'''Nahfahlaar:''' ''"Zoor drun qalos. Myth made manifest. A trick of the mask and nothing more."''
+:'''Nahfahlaar:''' ''"Come. Let us see what lies beyond the dunes."''
+
+The dragon takes off and flies into the distance over the dunes. Follow Nahfahlaar over the dunes and you'll come across an oasis where the dragon perches in a glowing blue pool, and watching him is Ja'darri herself:
+:'''Nahfahlaar:''' ''"Ja'darri. I …."''
+:'''Ja'darri:''' ''"Apologies never did suit you, Nahfahlaar. You are here now. That is all that matters."''
+:'''Ja'darri:''' ''"A new champion walks in Ja'darri's stead. We can still make things right."''
+
+After speaking to Ja'darri, present the mask to Nahfahlaar and he'll begin to recite:
+:'''Nahfahlaar:''' ''"Dragon King above. Bormahu han zu'u."''
+:'''Nahfahlaar:''' ''"This mortal is worthy. Wah vokrii krentiid. They shall mend your threads."''
+:'''Ja'darri:''' ''"The mask awakens. Go now. Harness the might of Alkosh to overcome the Demon from the East."''
+:'''Ja'darri:''' ''"As it was always meant to be."''
+
+You'll return to Doomstone Keep where he will say:
+:'''Nahfahlaar:''' ''"Our strength is now one, Ahkahtuz. Let us finish this!"''
+He will have healed enough to being able to fly out of the pit.
+
+Catch up to him above ground and he will call out to you from above:
+:'''Nahfahlaar:''' ''"The time has come, Ahkahtuz. Cleave through your enemies with the might of Alkosh!"''
+:'''Nahfahlaar:''' ''"Laatvulon, your death approaches!"''
+
+During the battle with the Order of the New Moon and [[ON:Riftbringer Dorzarra|Riftbringer Dorzarra]], he'll offer his aid:
+:'''Nahfahlaar:''' ''"I am here to aid you, Ahkahtuz!"''
+
+:'''Nahfahlaar:''' ''"Say the word, and I shall smite them all!"''
+
+:'''Nahfahlaar:''' ''"Ask my aid, and I will destroy your enemies!"''
+
+:'''Nahfahlaar:''' ''"Mask-bearer! Call upon my might!"''
+
+If you accept his help, he will breathe trail of fire down at the mass of enemies.
+
+When you arrive at the summit, Nafahlaar can be overheard taunting Laatvulon. He will be perched the ruins opposite of the ice dragon:
+:'''Nahfahlaar:''' ''"The time has come, Laatvulon. Our battle shall end here."''
+:'''Sai Sahan:''' ''"We must aid Nahfahlaar! Dragonguard to me!"''
+
+Once you get to the standoff between the two Dragons, the two Dragons will hurling fire attacks onto each other:
+:'''Laatvulon:''' ''"I know not how these mortals revived you, but they shall not do so again!"''
+:'''Nahfahlaar:''' ''"I am your foe! You shall face me."''
+:'''Sai Sahan:''' ''"This way! Quickly!"''
+
+After you dispatched Laatvulon's first wave of undead reinforcements:
+:'''Nahfahlaar:''' ''"Have you no more corpses to call upon, Laatvulon?"''
+:'''Laatvulon:''' ''"I need only my own might to defeat you!"''
+[[File:ON-creature-Nafahlaar 03.jpg|thumb|right|Laatvulon's frost freezes Nahfahlaar]]
+
+At this, Laatvulon will shout at Nahfahlaar, freezing him solid in a pillar of ice:
+:'''Laatvulon:''' ''"Now, little Mask Bearer. Let us see how you handle my true might!"''
+
+While you fight Laatvulon, Nahfahlaar will eventually break free. At the same time, Za'ji, Caska and Aeliah will arrive as reinforcements.
+:'''Nahfahlaar:''' ''"Our father's power strengthens me! I will not be so easily defeated."''
+:'''Laatvulon:''' ''"We shall see about that!"''
+:<Aeliah, Za'ji, and Caska will enter the fray>
+:'''Za'ji : ''' ''"Have no fear! Za'ji has arrived!"''
+:'''Caska : ''' ''"We'll handle this rabble!"''
+:'''Aeliah Renmus : ''' ''"We'll cover you! Protect Nahfahlaar!"''
+:'''Nahfahlaar:''' ''"You should have stayed in that pit!"''
+:'''Laatvulon:''' ''"Why fight, brother? You cannot hope to win!"''
+:'''Laatvulon:''' ''"Enough of this!"''
+
+Nahfahlaar is frozen again:
+:'''Laatvulon:''' ''"I should have killed you long ago, Mask Bearer!"''
+
+While you fight off another wave of undead, Nahfahlaar will break out once more.
+:'''Nahfahlaar:''' ''"I will burn you till naught but ash remains!"''
+:'''Laatvulon:''' ''"Mey! You have no hope of defeating me!"''
+:'''Laatvulon:''' ''"The rule of Dragons cannot be stopped!"''
+Once again, Nahfahlaar gets frozen by Laatvulon.
+
+After you dealt with the last of Laatvulon's undead reinforcements, Nahfahlaar will break free and breathe fire on his brother:
+:'''Laatvulon:''' ''"You think you can win? I am unslaad! You cannot end me!"''
+:'''Nahfahlaar:''' ''"Your life ends here. Pruzah wundunne!"''
+
+As Laatvulon dies, he will have ominous final words. However Nahfahlaar will congratulate you on your victory.
+:'''Laatvulon:''' ''"A hollow victory, mask-bearer. The New Moon … shall rise …."''
+:'''Nahfahlaar:''' ''"Well fought, Dragonguard. Laatvulon is slain. Now I shall ensure that nothing remains."''
+
+Once you return to the Dragonguard Sanctum, Sai will mention that the dragon wants to speak to you. Nahfahlaar will be waiting for you in the courtyard.
+:''"An excellent battle, Ahkahtuz. Your might helped seal Laatvulon's fate. He shall never challenge me again."''
+:'''It was a long road to defeat Laatvulon.'''
+:''"Indeed, and our foes seemed to thwart us at every turn. <br>Laatvulon killed Yahgrondu before he could join our alliance, and his corpse was turned against us. The cult destroyed Pridehome in their efforts to acquire the Mask of Alkosh."''
+:'''But we were able to stop Ra'khajin before he obtained the mask.'''
+:''"Though it was no easy task to do so. The Halls of the Highmane presents challenges that few dare to face. Yet you conquered them all and proved worthy of Alkosh's divine power. <br>A feat few mortals can claim. "''
+:'''And I was then able to use the mask to defeat Laatvulon as well.'''
+:''"You have certainly proved yourself worthy of the Mask of Alkosh.<br>Just do not expect it to ensure all your victories. Its power was only awakened through our connection. With my departure, it shall be but a mask."''
+:'''Your departure? Are you leaving?'''
+:''"Not yet. We defeated Laatvulon, but I sense another power lurking in Elsweyr. Something dark that threatens to disrupt my father's order. When the time comes for you to face it, I shall aid you. I give you my word. <br>And keep the mask. It suits you."''
+
+At this point you have the opportunity to ask him about Ja'darri and among other things.
+:''"Your order may not have the power or skill of the Dragonguard of old, but our alliance has proven far more useful. Laatvulon is destroyed. He shall never rise to face me again.<br>Vomindok fez. An unexpected outcome."''
+:'''I'd like to know more about Ja'darri.'''
+::''"She was a warrior without equal.<br>When Laatvulon first came to these lands, many tried to defeat him. But only Ja'darri was wise enough to seek my aid. Brave enough to face my might. Worthy enough to be gifted my horn."''
+::'''What was she like?'''
+::''"She was kind, immeasurably so. I suspect she had overcome a great sorrow, for she had a way of finding the light in the darkest of times. The good in the cruelest of souls.<br>And she was strong, in body and heart. Strong enough to brave anything."''
+::'''It sounds like you respect her greatly.'''
+::''"She was my father's chosen, was she not? To earn Alkosh's favor is no small task. And so it is only fitting that I show her a similar respect.<br>But enough of Ja'darri. Let us discuss another topic."''
+:'''You've called me something several times now. Ahkahtuz. What does it mean?'''
+::''"It is an honor that few mortals have received from my kind. Dovahzin. A Dragon name.<br>Once, I called you hunter. Now you are Ahkahtuz."''
+::'''What's the difference between hunter and Ahkahtuz?'''
+::''"Everything.<br>You are hunter still, yes. But now you are proud, unbroken. Bound to my power by the Dragon King of Time. Defender of my father's will. And so I honor you with a Dragon's name."''
+:'''You said you sensed another power in Elsweyr. Can you tell me more?'''
+::''"I feel it out there. A malevolence that stretches across this land like thick fog. A power that dwarfs even Laatvulon's.<br>I believe it to be one of my kind. A Dragon of great strength and greater hunger."''
+::'''A great hunger? What do you mean?'''
+::''"All dov seek dominance. For some, that desire is too great to control. An all consuming hunger to rule over all.<br>I sense this now. A Dragon who will not rest until he gains absolute power."''
+
+===The Dark Aeon===
+Entering Nahfahlaar's chamber after accepting the quest from [[ON:Sidura|Sidura]]:
+:'''Nahfahlaar:''' ''"Hmm. That scent on the air. The mask-bearer approaches."''
+:'''Sai Sahan:''' ''Good. Now we're just waiting for … him."''
+
+You can speak with him before addressing Sai Sahan. His response differs depending on who you received the quest from. Accepting the quest from Sai:
+:''"You have a distinctive scent, mask-bearer. It suits you.<br>Talk to the Dragonguard. Find out why the letter he received unnerved him so."''
+
+Accepting the quest from Sidura:
+:''"Your scent. It is rather distinctive, mask-bearer.<br>Talk to the Dragonguard. He received a letter. Company comes and it has him unnerved."''
+
+Speak with Nahfahlaar after you've addressed Sai Sahan.
+:''"The bearded one speaks as though I am not perched within striking distance and can hear every syllable he utters.<br>I might find his hubris amusing in a different light. But the light that remains fades as darkness comes."''
+:'''Darkness? Sai said you were speaking in riddles.'''
+:''"A riddle to those hindered by limited perspectives. A profound truth to one such as I. Something ancient and powerful assaults my senses, but the path ahead is unclear. I sense a darkness. Perhaps an absence of light.<br>It sets my scales on edge."''
+:'''Is your feeling related to the letter Sai Sahan received?'''
+:''"My feeling is my own. It grew from a tickle behind my broken horn when the fool of a battlemage opened the Halls of Colossus. Now it swirls like a black storm around me. Quite unpleasant.<br>Perhaps the new arrivals can shed clarity on what is to come."''
+:'''New arrivals?'''
+
+A portal opens. Speaking with him before investigating the portal:
+:''"Why do you hesitate, mask-bearer? The portal awaits. I thought you were intent on solving riddles such as this?"''
+
+Speaking with him after investigating the portal:
+:''"Portal magic. I have never been impressed by what spews forth from such puerilities.<br>This time, however … one smells of old power and approaching death. The other of moonlight and ancient spirits. Interesting."''
+
+Speaking to him after talking to Abnur Tharn:
+:''"Kaalgrontiid. A name from the past I hoped never to hear again. Once Laatvulon haunted my dreams, but the shadow cast by his master makes the stub of my horn tremble.<br>I hope you and your companions are up to the coming challenge, mask-bearer."''
+
+===New Moon Rising===
+[[File:ON-creature-Nahfahlaar 02.jpg|thumb|right|Nahfahlaar on Dragonhold]]
+After you reach the floating [[ON:Dragonhold (New Moon Rising)|Dragonhold]] through the Jonelight Path, you will find Nahfahlaar waiting for you with Khamira after Sai leads you to them.
+:''"Mask-bearer. The threads of fate led us to Dragonhold. It is fitting that we face Kaalgrontiid together."''
+:'''You were able to convince the other Dragons to stay away?'''
+:''"Kaalgrontiid's thralls will not rush to his side. I have seen to that. The cowards! <br>Besides, it seems Kaalgrontiid never told them that his path to godhood was paved in their blood and life energy. "''
+:'''What do you mean?'''
+:''"From the very beginning, Kaalgrontiid has coveted the power of his fellow Dragons. The energy he stole from Jode's Core consisted mainly of the power siphoned from his brethren. <br>Witness the aeonstones. Their purpose is to absorb and enhance energy."''
+:'''So then why won't the other Dragons help us stop him?'''
+::''"As I said, mask-bearer, they are cowards. If we stop Kaalgrontiid, they benefit. If we do not, they are no worse off than before. But if they go against their leader, death becomes a very real possibility. <br>That is a risk they refuse to take."''
+:'''What was it that you mentioned about focal points?'''
+::''"Aeonstones have been placed around the island. I believe Kaalgrontiid uses them to reflect and enhance his power, multiplying it until it reaches a level where he can use it to complete his ascension. <br>We must destroy these focal points."''
+
+After you speak with Nahfahlaar he will have some advice before he flies off:
+:'''Nahfahlaar:''' ''"Mask-bearer, don the Mask of Alkosh and fill it with the energy of the creatures of dark aeon. It will protect you and the others from my fire."''
+
+As you travel through Dragonhold Ruins, Nahfahlaar speaks to you.
+:'''Nahfahlaar:''' ''"Kaalgrontiid is close. His power glows like the sun."''
+:'''Nahfahlaar:''' ''"Hurry, to the pinnacle!"''
+
+Nahfahlaar can be seen flying past after you find Abnur Tharn. 
+[[File:ON-quest-New Moon Rising 05.jpg|thumb|right|Nahfahlaar and the Dark Aeon energy]]
+After Kaalgrontiid's demise, Tharn and Nahfahlaar will work to contain the explosion.
+:'''Nahfahlaar:''' ''"I will do what I can, mage."''
+:'''Abnur Tharn:''' ''"Get them out of here, Khamira. I know you can do it."''
+:'''Khamira:''' ''"Tharn …."''
+:'''Sai Sahan:''' ''"Tharn will do what he always does. He'll save Tamriel."''
+:'''Sai Sahan:''' ''"We need to get out of here. Nahfahlaar, can you fly us off the island?"''
+:'''Nahfahlaar:''' ''"I must aid the wizard or the explosion will destroy everything."''
+:'''Khamira:''' ''"Moons take you, Tharn! I suppose I have to try …."''
+
+===The Pride of Elsweyr===
+Sai Sahan will ask you to check in on Nahfahlaar, who won't talk to him at all.
+:''"Ah, mask-bearer. I look around my home and see so much activity. The bearded one's minions, they scurry like ants in the moon-sugar. It … vexes me."''
+:'''What happened on Dragonhold at the very end, Nahfahlaar?'''
+:''"The battlemage wanted to contain the energy of the aeonstones. To keep the release from destroying anything beyond the crumbling island.<br>I helped him achieve that goal before I returned here."''
+:'''And Abnur Tharn? Did he escape the destruction of the island, too?'''
+:''"I do not know. The battlemage was weak, exhausted, but he refused to give up. He wanted to save you. Save this land. I lent him enough of my power to accomplish that task.<br>It was the least I could do after he helped stop Kaalgrontiid."''
+:'''What was Kaalgrontiid really trying to accomplish?'''
+:''"All I can tell you is what Kaalgrontiid believed. He believed that with enough power, he could become a new moon in the sky. A new god to challenge Akatosh. Regardless of the truth, he had to be stopped.<br>Now, for me, the time has come to move on."''
+:'''Are you glad Kaalgrontiid is dead?'''
+:''"Glad? That a creature as magnificent as Kaalgrontiid had to be destroyed? No, mask-bearer. I am disappointed that it came to that. That Kaalgrontiid forced us to intercede. He was dangerous, so we ended the danger.<br>And now I must take my leave."''
+:'''Where are you going, Nahfahlaar?'''
+:''"Wherever my wings will take me, mask-bearer. I must bide my time and wait for the next event that requires my intervention. It was good to see that we could work together, mortal. I will remember that.<br>And now, farewell."''
+:'''Farewell, Nahfahlaar.'''
+
+After speaking with Nahfahlaar, he flies off.
+:'''Nahfahlaar:''' ''"We may meet again, mask-bearer. The world is not so very large. And do not worry about the mask. Like me, it will bide its time until it is again needed."''
+:'''Nahfahlaar:''' ''"Tell the Dragonguard. They have my respect."''
+
+==Notes==
+* Nahfahlaar previously appeared in ''[[Redguard:Redguard|Redguard]]'' under the name [[Redguard:Nafaalilargus|Nafaalilargus]]. His [[Lore:Dragon Language|Dragon language]] name was first mentioned in the ''[[Lore:Atlas of Dragons|Atlas of Dragons]]''. He is established as a dragon who repeatedly allied himself with mortal protectors, which prevented his extermination. His last recorded alliance prior to the Dragonhold DLC was with King [[Lore:Casimir II|Casimir II]] of [[Lore:Wayrest (kingdom)|Wayrest]], which the Dragonguard successfully ended in {{Year|2E 369}}.
+* He is voiced by [[wikipedia:David Lodge (voice actor)|David Lodge]].
+*In the [[Lore:Dragon Language|Dragon Language]], "Nah" means "Fury", "Fah" means "For", and "Laar" means "Water".

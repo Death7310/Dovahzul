@@ -1,0 +1,26 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|birth=Dawn Era
+|loc=Solstheim
+|appears=[[SR:Krosulhah|Skyrim]]
+|image=SR-creature-Krosulhah.jpg
+|death3=4E 201
+|death3Loc=Solstheim
+}}[[File:SR-quest-The Gardener of Men 03.jpg|thumb|left|Krosulhah outside Nchardak]]</noinclude>
+[[Lore:Krosulhah|Krosulhah]] was a [[Lore:Dragon|dragon]] whose name meant '''Sorcerer-Day-Mind''' in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Shout|[[Skyrim:Dragon Shouts|Dragon Shouts]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=Alduin|[[Skyrim:Alduin|Alduin]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}{{ref|name=SOS|{{Cite Book|Songs of Skyrim|ns_base=Skyrim}}}} At a certain point in history, Krosulhah swore allegiance to [[Lore:Miraak|Miraak]] and considered him the only true [[Lore:Dragonborn|Dovahkiin]].{{Ref|name=Krosulhah|[[Skyrim:Krosulhah|Krosulhah]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}
+
+In {{Year|4E 201}}, the [[Lore:Hero#Last Dragonborn|Last Dragonborn]] and [[Lore:Neloth|Neloth]] traveled to [[Lore:Nchardak|Nchardak]] to retrieve the [[Lore:Black Books|Black Book]] that was kept there. After the successful retrieval of the artifact, they were attacked by Krosulhah, who was sent to kill the Last Dragonborn in the name of Miraak. They did battle at the entrance to Nchardak, and the Dragonborn, aided by Neloth, absorbed the dragon's soul.{{Ref|name=Krosulhah}}{{Ref|name=TGOM|Events of [[Skyrim:The Gardener of Men|The Gardener of Men]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}}{{ref|name=DBPath|Events of [[Skyrim:The Path of Knowledge|The Path of Knowledge]] in ''[[Skyrim:Skyrim|Skyrim]]: [[Skyrim:Dragonborn|Dragonborn]]''}} Having had his soul devoured by another dovah, Krosulhah was killed permanently and cannot be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+{{NewLeft}}
+
+== Gallery ==
+<gallery>
+File:MER-art-Krosulhah.webp|Krosulhah Displate art
+</gallery>
+
+==See Also==
+{{GSI|Skyrim:Krosulhah}}
+
+==References==
+<references/>
+<noinclude>

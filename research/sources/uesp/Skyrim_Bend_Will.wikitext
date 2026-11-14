@@ -1,0 +1,68 @@
+{{Trail|Dragon Shouts}}{{Mod Header|Dragonborn}}{{Shout Summary
+|id=xx0179d8
+|icon=SR-icon-shout-Bend Will.png
+|quote=Your voice bends the very stones to your will. As it gains power, animals, people, and even dragons must do your bidding.
+|word1=GOL
+|wordid1=xx0179d9
+|cooldown1=10
+|info1=[[Skyrim:Cleansing the Stones|Cleanses]] [[Skyrim:All-Maker Stones|All-Maker Stones]]
+|location1=[[Skyrim:Saering's Watch|Saering's Watch]]
+|word2=Hah
+|wordid2=xx0179da
+|cooldown2=90
+|info2=Forces NPCs and creatures to become allies for 30 seconds
+|location2=Taught to you by [[Skyrim:Hermaeus Mora|Hermaeus Mora]] (during [[Skyrim:The Gardener of Men|The Gardener of Men]])
+|word3=DOV
+|wordid3=xx0179db
+|cooldown3=120
+|info3=Tames dragons and allows them to be [[Skyrim:Dragon Riding|ridden]]
+|location3=Taught to you by Hermaeus Mora (during [[Skyrim:The Gardener of Men|The Gardener of Men]])
+|mod=DB
+|transword1=Earth
+|transword2=Mind
+|transword3=Dragon
+|spellid1=xx0179dc
+|spellid2=xx01ff1e
+|spellid3=xx0179e1
+}}__NOTOC__
+'''Bend Will''' is a [[Skyrim:Dragon Shouts|dragon shout]] obtained by progressing through the [[Skyrim:Dragonborn|Dragonborn]] expansion's main questline.
+
+After learning and unlocking the first word, you are able to [[Skyrim:Cleansing the Stones|cleanse]] the [[Skyrim:All-Maker Stones|All-Maker Stones]] located throughout the island by shouting at them. This allows you to activate the stones, gaining their respective [[Skyrim:Powers|Powers]].
+
+The second word is learned from [[Skyrim:Hermaeus Mora|Hermaeus Mora]] during [[Skyrim:The Gardener of Men|The Gardener of Men]]. It allows you to force other NPCs and creatures to become temporary allies.
+
+The final word, taught to you by Hermaeus Mora at the end of The Gardener of Men, allows you to temporarily [[Skyrim:Dragon Riding|tame and ride dragons]], much like [[Skyrim:Miraak (person)|Miraak]].
+
+Throughout the questline, it is insinuated that Miraak's power comes from this shout. He was taught this shout by Hermaeus Mora after he pledged himself in service to the Daedric Lord, and supposedly was the power he was seeking as Dragonborn up to that point; specifically, the power to have complete control over others.
+
+{{NewLeft}}
+== Related Quests ==
+*{{Quest Link|The Fate of the Skaal}}
+*{{Quest Link|Cleansing the Stones}}
+*{{Quest Link|The Gardener of Men}}
+
+== Achievements ==
+One [[Skyrim:Achievements#Dragonborn|achievement]] is related to this shout:
+* {{achievement|Dragonrider|}}
+
+{{NewLine}}
+== Word Wall Translations ==
+{{WordWall
+|wordwall1=QETHSEGOL VahRUKIV BHAR FIN<br>GOLah WO PRaaL HET MULHaaN<br>OL {{FC|blue|GOL}} SARaaN ONIKIV NUNON<br>Wah MeyZ WUTH SINON DO ONIK
+|translation1=(This) stone commemorates Bhar the<br>Stubborn who sat here still<br>as {{FC|blue|Earth}} awaiting enlightenment, only<br>to become old instead of wise.
+}}
+
+==Notes==
+* When used on a dragon, it will land near you and wait a few moments to be ridden. If you do not mount the dragon it will instead take off and assist you in combat. It will patrol the area and engage any hostiles you encounter within its "territory".
+* It is possible to use this shout on [[Skyrim:Odahviing|Odahviing]], by either waiting for two hours, or simply waiting for your shout to recharge naturally.
+* This shout also acts like the [[Skyrim:Dragonrend|Dragonrend]] shout, as it forces the dragon to land. It can be especially helpful if you haven't proceeded far enough through the main questline in order to get the Dragonrend shout. The only drawback to this is that it does not work on a few specific dragons.
+* After riding the dragon it will take its leave of your service, if you do not act quickly it will fly off into the distance. If you are quick enough you can reuse the shout to ride it again, or force it to wait a short time for you on the ground. This method can be used to harvest its soul, as once provoked, it will not try to fly off again.
+* You can fast-travel while riding a dragon even if hostile enemies are nearby, unless your dragon's health is below 50 percent.{{vn|plain}}
+* If your dragon kills a non-hostile NPC, such as a guard, you will incur the bounty yourself.
+* The following dragons cannot be ridden using this shout: [[Skyrim:Alduin|Alduin]], [[Skyrim:Durnehviir (dragon)|Durnehviir]]{{DG}}, [[Skyrim:Naaslaarum|Naaslaarum]]{{DG}}, [[Skyrim:Paarthurnax (dragon)|Paarthurnax]], [[Skyrim:Sahloknir|Sahloknir]], [[Skyrim:Voslaarum|Voslaarum]]{{DG}}, [[Skyrim:Vulthuryol|Vulthuryol]] and nameless dragons at [[Skyrim:Skuldafn|Skuldafn]].
+* Undead are immune to the shout which only staggers them.
+
+==Bugs==
+*When using the bend will shout on a dragon, doing more than half of that dragons health in damage will ALWAYS result in the dragon flying to the nearest crash landing marker rather than having a chance at landing.
+
+{{Skyrim Shouts}}

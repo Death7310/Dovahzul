@@ -1,0 +1,170 @@
+{{Creature Summary
+|essential=Yes
+|loc=[[SR:Dragonsreach#Dragonsreach, Great Porch|Dragonsreach, Great Porch]],</br>[[Skyrim:Throat of the World|Throat of the World]]
+|refid=00045921
+|baseid=00045920
+|type=Monsters
+|species=Dragon
+|level={{hover|Values: 20, 40, 50|Radiant (20-50)}}
+|class=Dragon
+|health={{hover|Values: 1421, 2255, 3071|1421-3071}}
+|magicka=150
+|faction={{Faction|FavorExcludedFaction}}; {{Faction|OdahviingFaction}}; {{Faction|Special Dialogue Friendly Bleedout}}
+|image=SR-creature-Odahviing 02.jpg
+|imgdesc=Odahviing
+|soul=Dragon
+|perks=[[Skyrim:Dragonskin (perk)|Dragonskin]]
+|skills='''[[Skyrim:Archery|Archery]]''', '''[[Skyrim:Block|Block]]''', '''[[Skyrim:One-handed|One-handed]]''', '''[[Skyrim:Sneak|Sneak]]'''
+|stamina={{hover|Values: 164, 230, 264|164-264}}
+|leveled=1
+}} __NOTOC__
+'''Odahviing''' is a [[Skyrim:Dragon|Dragon]] that becomes your ally as part of the [[Skyrim:The Fallen|main quest]]. He can be summoned with the [[Skyrim:Call Dragon|Call Dragon]] shout only while you're outdoors. This shout is simply his name, Od-Ah-Viing, Snow-Hunter-Wing. He can be seen flying around [[Skyrim:Throat of the World|the Throat of the World]], awaiting your call, once the main quest is complete. He can be very useful at any level as he is [[Skyrim:Essential Creatures|impossible to kill]] and won't leave you until all nearby enemies are dead. He uses the [[Skyrim:Fire Breath|Fire Breath]] shout and standard dragon melee attacks as his weapons.
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|The Fallen}}
+* {{Quest Link|The World-Eater's Eyrie}}
+* {{Quest Link|Dragonslayer}}
+
+==Dialogue==
+[[File:SR-creature-Odahviing.jpg|thumb|Odahviing roaring]]
+When shouting:
+:''"{{hover|Inferno... Sun|Toor... Shul}}!"''
+
+===The Fallen===
+Immediately after his capture: 
+:''"{{hover|No|Nid}}! {{hover|Trapped like a bear|Horvutah med kodaav}}. Caught like a bear in a trap... {{hover|My most eagerness (to) meet (you) in battle brought my defeat, Dragonborn|Zok frini grind ko grah drun viiki, Dovahkiin}}. Ah. I forget. You do not have the dovah speech. My... eagerness to meet you in battle was my... undoing, Dovahkiin. I salute your, hmm, low cunning in devising such a {{hover|stratagem|grahmindol}} - {{Sic|strategem|stratagem}}."''
+
+Opening dialogue for the first time:
+:''"{{hover|I am humbled|Zu'u bonaar}}. You went to a great deal of trouble to put me in this... humiliating position. {{hover|(You) wish to find Alduin|Hind siiv Alduin}}, hmm? No doubt you want to know where to find Alduin?"''
+:'''That's right. Where is he hiding?'''
+:''"{{hover|Very true.|Rinik vazah.}} An apt phrase. {{hover|Alduin fled (from you).|Alduin bovul.}} One reason I came to your call was to test your {{hover|Voice|Thu'um}} myself. Many of us have begun to question Alduin's lordship, whether his {{hover|Voice|Thu'um}} was truly the strongest. Among ourselves, of course. {{hover|We (are) not fools|Mu ni meyye}}. None were yet ready to openly defy him."''
+:'''You were telling me where to find Alduin?'''
+:''"{{hover|Unending sorrow|Unslaad krosis}}. Innumerable pardons. I digress. He has {{sic|travelled|traveled|description=British spelling}} to [[Skyrim:Sovngarde (place)|Sovngarde]] to regain his strength, devouring the {{hover|mortal souls|sillesejoor}}... the souls of the mortal dead. A privilege he jealously guards... His door to Sovngarde is at [[Skyrim:Skuldafn|Skuldafn]], one of his ancient fanes high in the eastern mountains. {{hover|As you know, all his dragon-loyalists (are) mustered there|Mindoraan, pah ok middovahhe lahvraan til.}} I surely do not need to warn you that all his remaining strength is {{sic|marshalled|marshaled|description=British spelling}} there. {{hover|I have given your want/request|Zu'u lost ofan hin laan}}... now that I have answered your question, you will allow me to go free?"''
+
+You have two options, both of which lead to the same result.
+:'''Do you promise to serve me?'''
+::''"{{hover|Serve?|Aam?}} Serve you? ...no. {{hover|not time/not yet|Ni tiid.}} If and when you defeat Alduin, I will reconsider. Hmm... {{hover|Apologies|krosis}}. There is one detail about Skuldafn I neglected to mention."''
+:'''Not until Alduin is defeated.'''
+::''"Hmm... {{hover|Apologies|krosis}}. There is one detail about Skuldafn I neglected to mention."''
+:'''Tell me what you know, then.'''
+:''"Only this. You have the {{hover|Voice|Thu'um}} of a {{hover|dragon|dovah}}, but without the wings of one, you will never set foot in Skuldafn. Of course, I could fly you there. But not while imprisoned like this."''
+
+===The World-Eater's Eyrie===
+You have several options:
+:'''We seem to be at an impasse, then.'''
+::''"Indeed. {{hover|(a) fully beautiful balance|Orin brit ro}}. I cannot leave here until you defeat Alduin, which you cannot do without my help."''
+:'''Do you expect me to take your word for that?'''
+::''"{{hover|Wound|Ahraan}}. You wound me, Dovahkiin. I may not tell the whole truth, but I am no liar. Go and see for yourself. {{hover|I will be here|Zu'u ni bo nol het}}. I will be here... unless Alduin returns before you do."''
+:'''Fine. I'll set you free if you promise to take me to Skuldafn.'''
+:''"{{hover|Wisdom sees the one doorway|Onikaan koraav gein miraad.}} It is wise to recognize when you only have one choice. And you can trust me. {{hover|I'm not treacherous|Zu'u ni tahrodiis}}. Alduin has proven himself unworthy to rule. I go my own way now. Free me, and I will carry you to Skuldafn."''
+
+If you speak to him again after exiting dialogue:
+:''You will release me - {{hover|balanced request|ro laan}} - if in return I promise to take you to Skuldafn and stop helping Alduin?''
+::'''I'm still wondering if I can trust you.'''
+:::''"{{hover|I (am) not treacherous|Zu'u ni tahrodiis}}. It was you that lured me here and took me prisoner... {{hover|unworthy stratagem|vobalaan grahmindol}}. I have done nothing to earn your distrust."''
+::::'''You did try to trick me into letting you go.'''
+:::::''"{{hover|Your servant/slave, even now|Hin aar, orin nu}}. And yet here I am, still your prisoner."''
+::::'''I guess I'll have to trust you.'''
+:::::(Same response as below)
+::'''Yes. I'll set you free if you promise to take me to Skuldafn.
+:''"{{hover|Wisdom sees the one doorway|Onikaan koraav gein miraad.}} It is wise to recognize when you only have one choice. And you can trust me. {{hover|I'm not treacherous|Zu'u ni tahrodiis}}. Alduin has proven himself unworthy to rule. I go my own way now. Free me, and I will carry you to Skuldafn."''
+
+Upon release:
+:''"{{hover|Fear not, my honor holds my rage at bay.|Faas nu, zini dein ruthi ahst vaal}}."''
+
+Speaking to him after he is released:
+:''"{{hover|Await command|Saraan uth}} - I await your command, as promised. Are you ready to see the world as only a {{hover|dragon|dovah}} can?
+::'''I'm ready. Take me to Skuldafn.'''
+:::''"{{hover|Most beautiful command|Zok brit uth!}} I warn you, once you've flown the skies of {{hover|Skyrim|Keizaal}}, your envy of the {{hover|dragonkind|dov}} will only increase. {{hover|Onward! We fly into sky's freedom.|Amativ! Mu bo kotin stinselok.}}"''
+::'''Hold on. I'm not quite ready.'''
+:::''"{{hover|(You) bend my honor!|Kreh zini}}! The freedom of the sky beckons! Yet I stay here, {{hover|on earth|nau gol}}, as promised."''
+
+Upon landing in Skuldafn:
+:''"This is as far as I can take you. {{hover|Fight bravely|Krif voth ahkrin}}. I will look for your return, or Alduin's."''
+
+===Dragonslayer===
+After you've defeated Alduin and return to the [[Skyrim:Throat of the World|Throat of the World]], Odahviing will land and talk to you. His dialogue will differ if you chose to kill [[Skyrim:Paarthurnax (dragon)|Paarthurnax]] earlier.
+
+{|class="hiddentable vtop"
+|width=50%|<center>'''If Paarthurnax is alive:'''</center>
+|width=50%|<center>'''If Paarthurnax is dead:'''</center>
+|-
+|
+:''"{{hover|Good travels to the old one|Pruzah wundunne wah Wuth Gein}}. I wish the old one luck in his... quest. But I doubt many will wish to exchange Alduin's lordship for the tyranny of Paarthurnax's "Way of the Voice". As for myself, you've proven your mastery twice over. {{hover|(You are) my king/overlord, Dragonborn|Thuri, Dovahkiin}}. I gladly acknowledge the power of your Thu'um."''
+|
+:''"If Alduin himself could not stand against your Thu'um, I feel no shame in my own defeat. And so Alduin's lordship passes to you. {{hover|(You are) my king/overlord, Dragonborn|Thuri, Dovahkiin}}. I gladly submit to your mastery of the Thu'um."''
+|}
+
+Regardless, he will then tell you:
+''"{{hover|I am Odahviing|Zu'u Odahviing}}. Call me when you have need, and I will come if I can."''
+
+==Leveled List==
+
+Odahviing's level is randomly determined when you enter onto the great porch of Dragonsreach during The Fallen quest, his level is then later reset as Dragonslayer ends on the death of Alduin but from that point is permanent. When his level is determined, the version is randomly chosen from all eligible ones. For example, the Odahviing for a level 18 player can be either level 20 or 40, but not 50. <!-- MQLCharDragonFire is used -->
+
+{| class=wikitable style="text-align:center;"
+! Player Level !! Level !! {{Health Icon}} !! {{Magicka Icon}} !! {{Stamina Icon}} !! [[File:OB-icon-Fortify.png|24px|Fortify Unarmed Damage|link=Skyrim:Fortify Unarmed Damage]] !!width=180px|  Shouts !! [[File:FireIcon_small.png|Resist Fire|link=Skyrim:Resist Fire]] !! [[File:FrostIcon_small.png|Resist Frost|link=Skyrim:Resist Frost]]
+|-
+! <span style="font-size:large">1+</span>
+|20 
+|1421
+|150  
+|164
+|25 
+|style="text-align:left;"|
+*[[Skyrim:Fire Breath|Fire Breath]] <small>(30 pts)</small>
+*[[Skyrim:Fireball|Fireball]] <small>(40 pts)</small>
+*[[SR:Unrelenting Force|Unrelenting Force]]
+|rowspan=4|50
+|rowspan=4|{{FC|Red|-25}}
+|-
+! <span style="font-size:large">18+</span>
+|rowspan=2|40
+|rowspan=2|2255
+|rowspan=2|150
+|rowspan=2|230
+|25
+|style="text-align:left;"|
+*Fire Breath {{small|(40 pts)}}
+*Fire Ball {{small|(50 pts)}}
+*Unrelenting Force
+|-
+! <span style="font-size:large">27+</span>
+|125
+|style="text-align:left;"|
+*Fire Breath {{small|(60 pts)}}
+*Fire Ball {{small|(75 pts)}}
+*Unrelenting Force
+|-
+! <span style="font-size:large">36+</span>
+|50 
+|3071
+|150
+|264
+|175
+|style="text-align:left;"|
+*Fire Breath <small>(100 pts)</small>
+*Fireball <small>(200 pts)</small>
+*Unrelenting Force
+|}
+
+==Notes==
+[[File:SR-creature-Odahviing Battles Elder Dragon.jpg|thumb|right|Odahviing defending the Dovahkiin from an Elder Dragon]]
+*"Odahviing" literally translates to "Snow-Hunter-Wing". According to [[Skyrim:Esbern|Esbern]], it means "Winged Snow Hunter."
+*When summoned, he will begin to fly towards your location from the Throat of the World, and based on the predetermined distance between you and the Throat of the World, he can take anywhere from five to ten seconds to arrive.
+*When summoned on the Throat of the World, he will appear to vanish from his usual mountain cycle and then appear somewhere else nearby, and proceed to fly towards you from that position instead.
+*If you use [[Skyrim:Dragonrend|Dragonrend]] on Odahviing atop The Throat of the World, he will continue to circle the area as if nothing had happened.
+*If he is downed in battle either from enemies or friendly-fire, you can choose to speak to him (non-dialogue menu based) and can hear him say various single sentences before he flies off.
+*Odahviing is leveled, but at a substantially higher level than you until a maximum of level 50 is reached when you are level 36. For this reason, it may be better to start The Fallen at higher levels when you will find him an easier target. Also, with the exception of [[Skyrim:The World-Eater's Eyrie|The World-Eater's Eyrie]], Odahviing's level will remain as it was when first encountered, so if The Fallen is done early, Odahviing will become a decreasingly effective combatant as you level up.
+*At his lowest level, Odahviing is as strong as a Blood Dragon. While at his maximum level he has the same status as an Ancient Dragon.
+*You are able to ride Odahviing with the [[Skyrim:Dragonborn|Dragonborn]] expansion. The easiest way to do so is to use the [[Skyrim:Bend Will|Bend Will]] shout while he's circling the Throat of the World. However, it is also possible to keep him around long enough to use Bend Will after using [[Skyrim:Call Dragon|Call Dragon]] (or you can Call Dragon and immediately (before Odahviing has come to your aid) wait 2 hours to refresh shouts, then he will come as usual).
+*Odahviing may be summoned during the [[Skyrim:Civil War|Civil War]] battles for large cities, in which he proves a very lethal companion.
+*Odahviing will not come if called on Solstheim.{{DB}}
+*Odahviing also appears as a [[Legends:Odahviing|card]] in ''[[LG:Legends|Legends]]''.
+
+==Bugs==
+{{Bug|Odahviing may not appear when called for the first time.|confirmed=1}}
+{{Bug|It is possible that when called, he won't attack.  He just flies around making noise. This has been seen when you are in combat with some other dragons.|confirmed=1}}
+
+{{Skyrim Dragons}}

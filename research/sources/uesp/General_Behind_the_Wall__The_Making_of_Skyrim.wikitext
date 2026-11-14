@@ -1,0 +1,345 @@
+<noinclude>[[Category:Skyrim]]</noinclude>{{Real Summary
+|title=Behind the Wall: The Making of Skyrim
+|image=SR-misc-Behind the Wall - The Making of Skyrim Title Card.jpg
+|date=11 Nov 2011
+|creator=[[General:Bethesda Softworks|Bethesda Softworks]]
+|medium=
+|format=Video
+}}
+''[[General:Behind the Wall: The Making of Skyrim|Behind the Wall: The Making of Skyrim]]'' is a promotional documentary released with the Skyrim Collector's Edition in 2011. It features many behind the scenes insights.<noinclude>
+
+<includeonly>For more information, see the [[General:Behind the Wall: The Making of Skyrim|main article]].</includeonly>
+
+==Chronological Speakers==
+*'''[[General:Bruce Nesmith|Bruce Nesmith]]''' (Lead Designer)
+*'''[[General:Emil Pagliarulo|Emil Pagliarulo]]''' (Senior Designer and Writer)
+*'''[[General:Jeff Browne|Jeff Browne]]''' (Lead Level Designer)
+*'''[[General:Todd Howard|Todd Howard]]''' (Game Director)
+*'''[[General:Ashley Cheng|Ashley Cheng]]''' (Production Director)
+*'''Craig Lafferty''' (Lead Producer)
+*'''[[General:Kurt Kuhlmann|Kurt Kuhlmann]]''' (Co-Lead Designer)
+*'''Josh Jones''' (Lead Animator)
+*'''Mark Lampert''' (Audio Director)
+*'''[[General:Matt Carofano|Matthew Carofano]]''' (Lead Artist)
+*'''[[General:Noah Berry|Noah Berry]]''' (Lead Environment Artist)
+*'''Rick Vicens''' (Creature Animator)
+*'''Jeff Gardiner''' (Senior Producer)
+*'''[[General:Steve Meister|Steve Meister]]''' (Programmer)
+*'''Grant Struthers''' (Special Effects Artist)
+*'''Tim Lamb''' (Senior Producer)
+*'''Nate Purkeypile''' (World Artist)
+*'''[[General:Joel Burgess|Joel Burgess]]''' (Level Designer)
+*'''Dennis Mejillones''' (Character Artist)
+
+==Transcript==
+{{Notice|The following is a one-to-one reproduction of the documentary's dialogue as extracted from the subtitle file. Transitional chatter has been excluded. Please keep in mind that all intended tone and emotion behind the statements can be misconstrued without the proper vocal context...}}
+'''Bruce Nesmith:''' For me, the number one thing is the open world experience, the ability to go anywhere, do anything you want to do, to have you be in control of your own game experience is a very powerful concept.
+
+'''Emil Pagliarulo:''' When you create a world, you're not just saying to the player "We're giving you a game," we're saying to the player "We're giving you a world." When you say that, you gotta deliver on that promise. You have to make that world feel as believable as it can possibly be.
+
+'''Jeff Browne:''' It's absolute freedom. Going left instead of going right is going to just change how your character grows.
+
+'''Todd Howard:''' That's what worries me at the end of the day when someone sits down to play the game. I don't know what experience they're going to have. That's what's great about the game, and that's what, as developers here, is terrifying about the game.
+
+'''Todd Howard:''' We're obviously big fans of the ''[[General:The Elder Scrolls|Elder Scrolls]]'' ourselves. These are the kind of games that we would be playing if we weren't here making them.
+
+'''Ashley Cheng:''' There are about 30 or 40 of us. We've been together for over 10 years at [[General:Bethesda|Bethesda Game Studios]]. These are the same leads that were working on ''[[Morrowind:Morrowind|Morrowind]]'', ''[[Oblivion:Oblivion|Oblivion]]'', and this is their third ''[[General:The Elder Scrolls|Elder Scrolls]]'' game with ''[[Skyrim:Skyrim|Skyrim]]''.
+
+'''Todd Howard:''' It wasn't a question of whether we were going to do a fifth one, it was more, what did we want it to be? How was it going to be different? 
+
+'''Ashley Cheng:''' ''[[Skyrim:Skyrim|Skyrim]]'' is sort of this culmination of over a decade's worth of making open world RPGs. We're trying to take everything that we've learned and focus it into this one game.
+
+'''Craig Lafferty:''' It sort of starts with a kernel of ideas that Todd has, and a couple of the key people that have been here for a long time, worked on the other ''[[General:The Elder Scrolls|Elder Scrolls]]''. So we sort of know, like, after the previous game, what was the feedback, or what was that game, then where is this game set? What do we want to do differently? What do we want to improve upon?
+
+'''Bruce Nesmith:''' Usually with great gnashing of teeth. That's usually where you start.
+
+'''Kurt Kuhlmann:''' One of the reasons why we did [[Lore:Skyrim|Skyrim]] is it has more developed lore than some of the other places. We've written more about it, there's been more references in books, so we knew more about it. We had more of a starting place, and it was also -- we thought it was cool lore.
+
+'''Todd Howard:''' What is the tone of the game? How does the player feel about the world they're in? We're going to let you create who you want to be, so we don't want to define as much who you are as much as how do you feel about the world that you are exploring? And so, for us, when we first start talking about one is what is the tone of the world? And then everything else comes out of that.
+
+'''Craig Lafferty:''' So Matt will go off and make art and start to sort of get the look based on what Todd has said and what they've talked about. And the designers, Bruce and those guys, will go off and sort of come up with the main quest and the characters, and then we just meet each week and talk about it and iterate upon it and see what works and what doesn't.
+
+'''Emil Pagliarulo:''' ''[[Oblivion:Oblivion|Oblivion]]'', the last game we did in the ''[[General:The Elder Scrolls|Elder Scrolls]]'' universe was very core fantasy. The area it was set in, [[Lore:Cyrodiil|Cyrodiil]], was very much all races, all ethnicities, all cultures, all you know... It tried to be a little bit of everything. [[Lore:Skyrim|Skyrim]] is much more of our hardcore Viking fantasy.
+
+'''Kurt Kuhlmann:''' We sort of settled on [[Lore:Skyrim|Skyrim]] as different from [[Lore:Cyrodiil|Cyrodiil]], which was very civilized and the center of the empire, and we wanted to kind of mix things up, make it rougher, less peaceful, definitely, you know, more brutal.
+
+'''Emil Pagliarulo:''' ''[[Skyrim:Skyrim|Skyrim]]'' starts the way every ''[[General:The Elder Scrolls|Elder Scrolls]]'' game starts -- you're a [[Lore:Prisoner|prisoner]], you don't have a background. It's sort of an ''[[General:The Elder Scrolls|Elder Scrolls]]'' tradition. We want the player to fill in those blanks with their own imagination.
+
+'''Mark Lampert:''' ''[[General:The Elder Scrolls|Elder Scrolls]]'' especially, we give you -- You're a blank slate, and we've wiped your history clean, and you're free to make your story as you wish.
+
+'''Emil Pagliarulo:''' And in this particular case, you are being led to your execution, and the execution is interrupted by a dragon attack. You were a criminal, and you accused of some crime, but it's like, what is other stuff going around? There's this weird [[Lore:Stormcloak Rebellion|civil war]] going on. There's a lot of tension in the world.
+
+'''Kurt Kuhlmann:''' In ''[[Oblivion:Oblivion|Oblivion]]'', you weren't the person that saved the world. You helped the person save the world. We definitely knew, like, this is [[Lore:Skyrim|Skyrim]], you know, the land of barbarians. We want you to feel like the [[Lore:Nord|Nord]] hero here.
+
+'''Ashley Cheng:''' If you were to look at the Power Point way back in the day, [[Lore:Dragon|dragons]] was number one on that list. We are going to do [[Lore:Dragon|dragons]] in a way you've never seen before in any RPG. 
+
+'''Todd Howard:''' We haven't had [[Lore:Dragon|dragons]] in the ''[[General:The Elder Scrolls|Elder Scrolls]]'' -- We had one in {{sic|''[[Redguard:Redguard|Red Guard]]''|Redguard}}, but that game is set in [[Lore:Second Era#2E 864|the past]]. And so they've kind of become these mythical creatures people talk about but you never quite see.
+
+'''Kurt Kuhlmann:''' There have been rumors of [[Lore:Dragon|dragons]] coming back, and no one has really believed it because, as far as anyone knows, [[Lore:Dragon|dragons]] are gone from the world. They've all been killed off hundreds of years ago. But now here's this [[Lore:Dragon|dragon]]. What's that about? ​
+
+'''Kurt Kuhlmann:''' The [[Lore:Nord|Nords]] have this god in their pantheon, [[Lore:Alduin|Alduin]].
+
+'''Todd Howard:''' [[Lore:Alduin|Alduin]], who is this -- I don't want to say evil -- but dark [[Lore:Gods|God]] in the ''[[General:The Elder Scrolls|Elder Scrolls]]'' lore. He is a [[Lore:Dragon|dragon]].
+
+'''Kurt Kuhlmann:''' In the ancient times, he sort of ruled over the humans in this part of the world.
+
+'''Bruce Nesmith:''' [[Lore:Alduin's Wall|Alduin's Wall]] is sort of a history in stone of the last time that [[Lore:Dragon|dragons]] were seriously resisted by the human beings of the world. And it tells the story of how [[Lore:Alduin|Alduin]] was defeated the first time.
+
+'''Todd Howard:''' And the prophecy goes that he will return and eat the world. Well, that's what happens in ''[[Skyrim:Skyrim|Skyrim]]''.
+
+'''Emil Pagliarulo:''' And part of what is written on the wall is the player's journey, the player's destiny.
+
+'''Kurt Kuhlmann:''' And so you start out trying to figure out, "What does it have to do with me?" Pretty early on, you learn that you are [[Lore:Dragonborn|Dragonborn]], and so, you're trying to figure out, "What does that mean?"
+
+'''Emil Pagliarulo:''' The [[Lore:Dragonborn|Dragonborn]] is someone who has the soul of a [[Lore:Dragon|dragon]], and there hasn't been one in so long, people almost wonder if it's a myth.
+
+'''Todd Howard:''' [[Lore:Dragonborn|Dragonborn]] is like -- That's something where it gets really kind of metaphysical, kind of, we don't want to define it too much. That's what we do want it to be, "Well, how does that work?"
+
+'''Emil Pagliarulo:''' And then you show up and you start exhibiting these powers, and people are like, "Oh, my God. Could it be true? Is this the [[Lore:Dragonborn|Dragonborn]]? Does this person have the voice? The {{sic|[[Lore:Thu'um|Thum]]|Thu'um}}, this power of old, and if so, what does that mean?"
+
+'''Todd Howard:''' And what it really comes down to mean is anointed by the Gods with the soul of a [[Lore:Dragon|dragon]].
+
+'''Bruce Nesmith:''' This is something that once every few generations you have someone who is born with this ability. So you, as the [[Lore:Dragonborn|Dragonborn]], you must resolve the problem with the [[Lore:Dragon|dragons]], you must find out what it is they're back here for, and you have to take this head on.
+
+'''Todd Howard:''' Part of it is a mystery. And then once you have the "Okay, this is what's actually going on," then it takes on a more adventurous less mysterious tone.
+
+'''Bruce Nesmith:''' Like a lot of games, story ideas, it comes in little fits and spurts. And it starts with something simple and starts to grow into something more elaborate, and finally you take away some of the excess and you're left with something rather clean. For us it started with a very simple concept of [[Lore:Dragon|dragons]]. If we're going to [[Lore:Dragon|dragons]], we need to do [[Lore:Dragon|dragons]] right, 'cause it's a big deal. This isn't something you can just -- "Oh, yeah, there's another creature, like a bear walking around in the woods."
+
+'''Josh Jones:''' Part of our challenge was to make the [[Lore:Dragon|dragons]] familiar without being 100% clichéd.
+
+'''Emil Pagliarulo:''' We definitely like them being characters. They had a culture. They may be terrifying, and they may be brutal, but they're also sentient and intelligent, and they have a language, and they can speak, and they will speak to you at times. But they also have a sort of distinct [[Lore:Nord|Nordic]] flavor to them. And they are big.
+
+'''Josh Jones:''' We wanted the [[Lore:Dragon|dragon]] to feel very majestic, so we were looking at "Well, how do eagles soar?" and that sort of thing. But on the ground we wanted them to be a little bit more primal and reptilian in nature. A lot of it is analyzing real-world analogues. So we'll look at bat footage, we'll look at bird footage. It's trying to research so that we're not making a fantastical creature be unbelievable. It may be a fantastical creature, but it still has to feel like it has weight, it still has to feel like it can exist in this environment.
+
+'''Bruce Nesmith:''' Trying to make [[Lore:Dragon|dragons]] feel authentic is, for us, more important than making them feel unique, special, and completely and utterly different. You make the experience of it feel so real that that's what becomes important. The authenticity is what matters to us.
+
+'''Todd Howard:''' In the ''[[General:The Elder Scrolls|Elder Scrolls]]'' lore, the ancient [[Lore:Nord|Nords]] had this power of the {{Sic|[[Lore:Thu'um|Thum]]|Thu'um}}, the ability to shout and form these words of power. It was written then, it was never intended this is [[Lore:Dragon Language|language of dragons]], but when we started, we're going to do [[Lore:Skyrim|Skyrim]] or we're going to have [[Lore:Dragon|dragons]] come back, that was a pretty quick decision. It was like, "That's what we always meant!"
+
+'''Emil Pagliarulo:''' The [[Lore:Dragon|dragons]] in the game, you can hear them speaking the language. And so that got us talking about, "Well, what does this language mean for the player? What kind of device will this be?" We decided to create this [[Lore:Dragon Language|dragon language]].
+
+'''Todd Howard:''' "Emil, I want you to write this song." That's how it started. "Can you write a song that works in the [[Lore:Dragon Language|dragon language]] that rhymes with the ''[[General:The Elder Scrolls|Elder Scrolls]]'' theme, when translated into English also makes sense and rhymes?" He's able to come up with things that I don't know how he does it.
+
+'''Emil Pagliarulo:''' I found recording of "Beowulf" in old English. That gave me the overall feel. 
+
+'''Todd Howard:''' As the story goes, he kind of sat on it for a while, and went home one weekend and heated up some mead and wrote the thing. He come in on Monday... There it is, and it was like, "Oh, my gosh, this actually works."
+
+'''Emil Pagliarulo:''' Each sout has three components. There are three words. And so it becomes like, "Okay, I say one word, you know, 'fus,' and then 'ro,', and 'dah.'" And so when you're doing this as a game play device, it's like, it has to all meld together, like "Fus-ro-dah!"
+
+'''Mark Lampert:''' When you say, "Fus-ro-dah!" like that, that's when the big clap of thunder should fire off in the game and this blast of energy comes out of the player and knocks your opponent off their feet. And if it all times up just right, it feels perfect.
+
+'''Todd Howard:''' You have these walls where you learn the words of power, usually, and they are these ancient writings of the [[Lore:Nord|Nords]] who knew the language.
+
+'''Emil Pagliarulo:''' One of our concept artists, Adam, came up with the visuals. Todd was directing him, "No, it's got to look like the [[Lore:Dragon|dragons]] had clawed it into the stone so its very jagged looking."
+
+'''Matthew Carofano:''' And he decided, "Well, all right the [[Lore:Dragon|dragon]] has this many claws. It probably uses its thumb claw as a rotation point," and then he started sketching out different scratch patterns, and eventually that became the language.
+
+'''Matthew Carofano:''' [[Lore:Skyrim|Skyrim]]'s the most northern province in [[Lore:Tamriel|Tamriel]]. So it's the home of the [[Lore:Nord|Nords]]. It's really heavy, snow-covered mountains and this really rugged environment.
+
+'''Noah Berry:''' We really wanted these, like, large craggy features that erupt out of the ground, giving you these dramatic sheer visuals and vistas to walk and travel through.
+
+'''Todd Howard:''' The world is our main character. Even though you're playing somebody, and we have these NPCs and we have a story, the main character of the game is the world, the province of [[Lore:Skyrim|Skyrim]].
+
+'''Matthew Carofano:''' So the world in this region really defines the entire look of the game. What creatures live there and what alchemy plants grow there. So we come up with a set of foliage that grows in each region, different color palettes, different lighting, different weather, and then make sure that transitions well between the different regions, but then still fits in with the overall aesthetic of the world.
+
+'''Ashley Cheng:''' What makes our RPGs different is the amount of time we spend just building the world and thinking about as you walking through the game, what are you going to see when you walk into town? What are you going to be able to pick up, what are you going to be able to craft, what are you going to be able to eat?
+
+'''Todd Howard:''' All of the little things in that are what we obsess over. You could say, "Well, what effect does that have on game play? Let's not overthink it, that's just neat." But they become the key thing that makes you feel that this is all real for the moment I'm in it.
+
+'''Matthew Carofano:''' We kind of call it "cluttering the world." You can go into a house and steal all the guy's mead. And that's fun. That was a game you just decided to go do.
+
+'''Todd Howard:''' "I want to touch everything and do it and stare at these bushes that have all been individually modeled," and, "What do their flowers look like?" And then you can pick the flowers off, and they come off, and you can eat them, and they do things to you, and you can mix them into potions.
+
+'''Matthew Carofano:''' It makes a sense of believability to the world. So you really see how people live in it and what they're doing, and a lot of the story is just told by the clutter or the environment that is just built around that character.
+
+'''Todd Howard:''' There is so much stuff in the game. It is in orders of magnitude larger and has more things in it than we've ever done.
+
+'''Ashley Cheng:''' It's not enough for us just to create one large city, we're going to do five. And it's not enough for us to do a few farms or a few places of interest, we're going to do 500 hand-placed things for you to look at in the world. And we're going to keep adding. We're gonna keep playing, we're gonna keep adding. We're adding right up until the end.
+
+'''Matthew Carofano:''' When you come out of that first dungeon and you see this huge open valley of pine trees and clouds and these giant mountains like we haven't been able to do in any previous ''[[General:The Elder Scrolls|Elder Scrolls]]'' game, that part is really special. That's kind of the first part where we're like, "Yeah, that's what ''[[Skyrim:Skyrim|Skyrim]]'' is all about," this big, huge, rugged, open world, and you can kind of go wherever you want in it.
+
+'''Todd Howard:''' Like everything else, like the plants and the people, we treat the creatures the same, that they live in this world.
+
+'''Bruce Nesmith:''' Mammoths and giants... They're probably the coolest because you can actually kind of get close to them, you can walk up -- As long as you don't get too close, you can walk up and watch them sort of move on by like a slow herd, and if you mess around with them it's not going to be pretty. They're very powerful. Some of the principal villains in the game would be the {{sic|[[Lore:Draugr|dragur]]|draugr}}. These are sort of mindless undead creatures. 
+
+'''Emil Pagliarulo:''' We have our [[Lore:Troll|trolls]], the [[Lore:Horker|horkers]], who are like these seals.
+
+'''Todd Howard:''' A cool one that people haven't really seen before is the [[Lore:Falmer|Falmer]]. These are another type of [[Lore:Elf|elf]] in ''[[General:The Elder Scrolls|Elder Scrolls]]'' lore. In ''[[Skyrim:Skyrim|Skyrim]]'', the idea is that they've lived underground for a long time, so long that their eyes have all grown over.
+
+'''Bruce Nesmith:''' We have [[Lore:Hagraven|hag ravens]]...
+
+'''Rick Vicens:''' She's a really powerful magic user.
+
+'''Bruce Nesmith:''' ...which are evil witches who have decided to trade some of their humanity for all kinds of evil magical powers.
+
+'''Todd Howard:''' One of my favorites in concept and execution are these [[Lore:Ice Wraith|Ice Wraiths]].
+
+'''Matthew Carofano:''' There's a line in lore that [[Lore:Nord|Nords]], when they come of age, will go fight an [[Lore:Ice Wraith|ice wraith]]. But we didn't really know what an [[Lore:Ice Wraith|ice wraith]] looked like. So we didn't want to do just a typical ghost specter thing. So we worked with one of the concept artists, and he had this idea for this really cool, serpentine, crystal-and-ice creature.
+
+'''Todd Howard:''' And they move on the wind. That's the kind of thing that feels more unique to this game. They're pretty terrifying.
+
+'''Todd Howard:''' I think combat is a really, really tricky thing in a game like this. You want to make you, physically, the player who bought the game, feel like you're getting better at it, but more so that the character on the screen that you are playing is getting better at it. Where do you draw that line? How much does it become a reflex game, "I'm good at blocking at the right time," versus "My character's good at blocking."
+
+'''Bruce Nesmith:''' We looked at combat in a big way. Tried to make it more emotional and impactful and visceral. Have the player moving around more and be moved around more rather than just be kind of static.
+
+'''Jeff Gardiner:''' We made it more action oriented, and that always presents a lot of challenges. It actually involves at a lot of math and timing to make it fluid and fun, and a lot of interaction.
+
+'''Todd Howard:''' We did spend a lot of time just taking a mace and hitting fake guys on the head on the screen until it -- you know, punchier, punchier. Oh, now you've gone too far. It looks too silly. Okay, pull back. 
+
+'''Todd Howard:''' If we can succeed at here comes a [[Lore:Wolf|wolf]], and I take an axe, and I plant it in his head, and he dies, and I take his hide, like if that, just something that simple, you feel like, "Yeah." You feel good about it. Then when we're fighting [[Lore:Giant|giants]] or [[Lore:Dragon|dragons]], you know, that's much easier.
+
+'''Bruce Nesmith:''' And we looked at the visual experience. The visual experience for us need to be more immediate, it needed to be more like I'm there in the world. 
+
+'''Ashley Cheng:''' For certain kill moves you're going to see that camera's going to slow down, pop into third person. 
+
+'''Todd Howard:''' There's a lot of fun -- Going to some cinematic perspective quickly and watching your character do something really cool.
+
+'''Ashley Cheng:''' We wanted you to be able to see the sword shove through their torso and come out the back, like, "I'm being a real badass," like, "I'm going to slaughter people, creatures -- Whatever is out there, I'm going to slaughter it."
+
+'''Todd Howard:''' Tim Lamb had my favorite name for it, which was "Violens." "Cinekill" was the other one. So we had all these different names. I mean any month there was a different name, so I think this month's name is "Kill Cam." And I don't think we'll change it. We're getting toward the end.
+
+'''Ashley Cheng:''' The key to combat in ''[[Skyrim:Skyrim|Skyrim]]'' is being able to wield weapons and spells in both hands. So that's a new thing for us.
+
+'''Todd Howard:''' One of our big mantras in the game is "You are who you play." And a lot of that is, "What are you going to put in your hands?"
+
+'''Emil Pagliarulo:''' You know, dual-wielding now means, "I can have a spell in this hand and a sword in this hand. Or I can have a spell in this hand and the same spell in this hand, and what does that do? Oh guess what? It does something even more powerful." So that all plays into how the combat plays out.
+
+'''Todd Howard:''' The whole dual-controller thing we're doing came from the initial magic design.
+
+'''Bruce Nesmith:''' With the spells, we know immediately, from the beginning, that we wanted to get something that was more of a wizard duel rather than just, "Can I throw fireballs quicker than you can throw fireballs?" Could we make it actually feel like something?
+
+'''Steve Meister:''' We wanted to be able to have two magic guys go at it in a really good, strategic, fun, and exciting way, like we can do with melee combat. We also added new ways for the spells to be delivered. 
+
+'''Todd Howard:''' So the way we shoot fire now is it hits and it spreads, and it can spread a bit and do damage, and you can actually just take your fire spell and lay it on the ground and let guys run through it. 
+
+'''Matthew Carofano:''' And we really spent a lot of time focusing on magic this game. Just put a ton more effort into all the unique spells and their visuals.
+
+'''Grant Struthers:''' With the magic system added to the mix here in ''[[Skyrim:Skyrim|Skyrim]]'', almost a third of the game play is involving special effects being thrown at people.
+
+'''Todd Howard:''' Forget the numbers and how much it kills guys. A lot of times you find a new spell, and no one's around, and you set it off. 
+
+'''Bruce Nesmith:''' We've always been very big in the ''[[General:The Elder Scrolls|Elder Scrolls]]'' on dynamic growth of the character. Every single one of our games in the series has had this idea that when you do something, you get better at it.
+
+'''Kurt Kuhlmann:''' In ''[[Skyrim:Skyrim|Skyrim]]'', the game adapts to what you are doing. That was one of the reasons why we got rid of classes. 
+
+'''Bruce Nesmith:''' At that you decide what your character is just by going out and doing that stuff.
+
+'''Steve Meister:''' Depending on what weapon you're using and whether you do any damage, you're going to get a certain amount of skill usage, and then that's going to build up until you reach that threshold, and then your skill will increase. At that point, once you've increased enough skills, then you level up.
+
+'''Bruce Nesmith:''' Same thing with wizardry -- start casting spells, and you'll get better casting spells. So, in an ideal environment, you don't have to think about what it is you're trying to do -- you're not watching to see "Oh, how can I make my character do this or that?" You just play. And the game responds. And the game responds by letting you become those things.
+
+'''Steve Meister:''' Every time you level up, you get to pick a perk, and the perks are what really defines your character. The definition of what a perk is really kind of hard to nail down. It's an advantage, or a feature, or a game play enhancement, or an ability, or a feat that you get as you progress in your skills.
+
+'''Todd Howard:''' You can actually play the game for a while as a warrior character, and then decide, "I want to start doing magic stuff." And in the previous games, if you really wanted to do that, you probably wanted to start over. Well, in ''[[Skyrim:Skyrim|Skyrim]]'' you can start doing it, and you suck at it at first. And then, eventually, it starts affecting you more and then you can make up that ground without throwing away however many hours of game play you've already done.
+
+'''Emil Pagliarulo:''' In ''[[Skyrim:Skyrim|Skyrim]]'', we like you say, "You are what you play." It sounds like a catch phrase, but it really is true.
+
+'''Todd Howard:''' "What do you want to be?" The game is going to have some outlet for that. So on some level, we get ourselves in trouble by trying to make the ultimate fight [[Lore:Dragon|dragons]] game, the ultimate be a warrior game, the ultimate mage game, and the ultimate thief game, and the ultimate assassination game, and the ultimate "I'm picking plants" game. You know, all of these different styles we want to pay off. 
+
+'''Bruce Nesmith:''' Be responsive to things the player does. When you do something in the game, we want the game to recognize it and respond appropriately to you. 
+
+'''Tim Lamb:''' "How does that A.I. tie into the story?" Like, "How do I get quests from him? How do they become my friends? What will they do for me? What can I do for them?" That kind of stuff.
+
+'''Emil Pagliarulo:''' Sometimes it's as simple as having a guard in a city comment on the things that you've done. 
+
+'''Bruce Nesmith:''' The game has now responded to something you've done in a way that makes sense feels like the natural world.
+
+'''Emil Pagliarulo:''' Every ''[[General:The Elder Scrolls|Elder Scrolls]]'' game has its main quest, and the main quest in ''[[Skyrim:Skyrim|Skyrim]]'' is unraveling the mystery of the [[Lore:Dragonborn|Dragonborn]], and so that is definitely your heroic path.
+
+'''Bruce Nesmith:''' For us, when we make a good story, we know we've done it when the player is the agent. If we pose an interesting problem, and then we let the player solve it in whatever way he deems fit, that's going to make the cool, interesting story.
+
+'''Emil Pagliarulo:''' If you decide not to do the main quest, there are different quest lines. 
+
+'''Ashley Cheng:''' My favorite quest line is the [[Lore:Dark Brotherhood|Dark Brotherhood]] quest line. [[Lore:Dark Brotherhood|The Dark Brotherhood]] is the Assassin's Guild. They do this [[Lore:Black Sacrament|secret ritual ceremony]] to summon [[Lore:Dark Brotherhood|The Dark Brotherhood]]. When you join the [[Lore:Dark Brotherhood|Dark Brotherhood]] you are one of the guys who shows up and goes, "Who do you need killed. What do you need?" I just think that's really awesome.
+
+'''Emil Pagliarulo:''' We have this open-ended simulation. The game offers this sort of redemption where, "Okay, I'm going to play as a bad guy and do all this bad stuff. I'm going to join [[Lore:Dark Brotherhood|The Dark Brotherhood]], and maybe join the [[Lore:Thieves Guild|thieves guild]] and do scummy stuff. You know what? Then I'm going to the main quest, which is more honorable." And then because you're put in these situations where you're, sort of, the good guy, you start to feel like that. 
+
+'''Emil Pagliarulo:''' The big transition in our studio from ''[[Oblivion:Oblivion|Oblivion]]'' to ''[[Skyrim:Skyrim|Skyrim]]'' is we never actually had dedicated level designers in ''[[Oblivion:Oblivion|Oblivion]]''. We had them on ''Fallout'' and now we have them in ''[[Skyrim:Skyrim|Skyrim]]''. And what that means is that when you go into a cave, it's not just art and stuff.
+
+'''Nate Purkeypile:''' Before we did it in a very compartmentalized way and so you would see lots of the same rooms. But we took it a step further this time and made a whole bunch of free pieces, so that every single dungeon is a completely different experience.
+
+'''Jeff Browne:''' In total, we have around 310 or 315 spaces. That includes dungeons -- large dungeons, small dungeons, exterior play spaces.
+
+'''Joel Burgess:''' Our sort of ideal now is that we want every dungeon in a game like ours to be as good as a fully scripted level, something in, like, a highly authored game.
+
+'''Ashley Cheng:''' Every dungeon is going to tell some kind of story, whether visually, or through notes, or books, or the loot.
+
+'''Kurt Kuhlmann:''' You might actually get, like, literally a quest. It's put in your journal, and in some cases it's more of a free form. You follow clues or you just learn the story of the dungeon by playing through it.
+
+'''Bruce Nesmith:''' The implied stories to me are the ones that are some of the most interesting because there's not a word of dialogue spoken, there's just the environment speaking to you. So you go in, you see a body laying on its back with an empty bottle clasped in its claw, and the bottle is in its mouth, and he's just laying there.
+
+'''Jeff Browne:''' We really want to have this memorable moment. We want to have the players who play the dungeon or the level to come back and be like, "That was an awesome experience. When I came into that last room and I saw the sky shining down from above and this cool little set piece with the streams going through, and the boss comes out, and that was really cool." So that was the one thing I always ask the LDs after they finish pass one or pass two of a dungeon, "What's your memorable moment?"
+
+'''Tim Lamb:''' Everytime you play, you're going to find something neat or something different is going to happen.
+
+'''Emil Pagliarulo:''' Games are such unique storytelling devices that you have this opportunity to tell a story through action and through game play.
+
+'''Matthew Carofano:''' The character animation is something we really wanted to improve upon from our previous games.
+
+'''Josh Jones:''' There are thousands of animations for the players and the NPCs alone, not to mention all of the animations for all of the creatures.
+
+'''Bruce Nesmith:''' The challenge to making a character in the game, an NPC, feel like they're real and really there is a tough nut, and part of that is because you and I see people every day. We are intimately versed in what a real person is. This is not a mystery to us. I have no idea what an undead guy is like, so what I need to do to make him feel convincing pales in comparison to what I need to make a person feel convincing.
+
+'''Josh Jones:''' Despite advances in our technology, despite a growth in our animation team, our own internal demands to raise the bar has made that time to get even a simple character longer than it has in past projects.
+
+'''Dennis Mejillones:''' The biggest challenge, I would say, is to create a pretty wide-ranging assortment of characters, and yet keep them within a normal realm using as few assets as possible. And dealing with any kind of technical issues is definitely quite a challenge.
+
+'''Rick Vicens:''' The fun times we have are usually the MoCap sessions. I typically put Dennis through some pretty painful posing or whatnot, so the next day he'll have, like, a tough time, like, moving around. One of the things we do a lot is kind of leave messages and pranks on each other. "Rick, you killed me yesterday. That MoCap session was too much!"
+
+'''Josh Jones:''' And even though motion capture might be a foundation, there's a lot of hand editing that motion capture data to make it work within a game play context. An attack might be sped up. It might be radically altered to make it work for our needs. 
+
+'''Todd Howard:''' I think the best NPCs, you can tell a lot about them from the voice over.
+
+'''Todd Howard:''' That little bit of writing and how they say "Hello" is, I think, one of the hardest things to do.
+
+'''Ashley Cheng:''' In ''[[Oblivion:Oblivion|Oblivion]]'' we had like, 12 actors, and that was one of the complaints. You walk in ''[[Oblivion:Oblivion|Oblivion]]'' and you hear a lot of the same voices. So for ''[[Skyrim:Skyrim|Skyrim]]'', we want to definitely improve on that dramatically. And we're talking dramatically -- like night and day.
+
+'''Todd Howard:''' In this game we have 70+ actors doing over 110 roles. A lot more than we've ever had.
+
+'''Ashley Cheng:''' It was for about four to five weeks, three voice studios working simultaneously.
+
+'''Mark Lampert:''' Let's see if we can get people trying a "[[Lore:Nord|Nordic]] accent." You've come all the way to [[Lore:Skyrim|Skyrim]], you're at the tip of the continent here. The guys are big and burly and have beards. The women are big and burly and have have beards. And everyone's handy with an axe. And it's a fine line of what sounds good and what sounds ridiculous.
+
+'''Ashley Cheng:''' And so we spent a lot of time casting. We have some great actors.
+
+'''Mark Lampert:''' Some of the more specific names we have on here -- Max von Sydow, Joan Allen, Lynda Carter.
+
+'''Todd Howard:''' Christopher Plummer, who I've wanted to put in a game forever.
+
+'''Mark Lampert:''' They were perfect  for the part to begin with, and I think everybody had a really good time doing it.
+
+'''Todd Howard:''' They bring a resonance to their roles when they talk, that you can write, like, the cheesiest line, and "Wow, that sounds great coming out his mouth."
+
+'''Todd Howard:''' I had this idea that the music for ''[[Skyrim:Skyrim|Skyrim]]'' would be the ''[[General:The Elder Scrolls|Elder Scrolls]]'' theme but sung by a barbarian choir. So I called Jeremy Soule, who does our music. I mean, this is in 2006! "Jeremy, I hear the ''[[General:The Elder Scrolls|Elder Scrolls]]'' theme as sung by a barbarian choir." "Okay, how are we going to do that?" "I don't know." "What are they singing?" "They're singing this song in the [[Lore:Dragon Language|dragon language]] to the theme of ''[[General:The Elder Scrolls|Elder Scrolls]]''."
+
+'''Mark Lampert:''' His work on the main theme of the game set the tone for the rest of it. And eventually we went out to Los Angeles to Sony's socring stage, and then had just a fantastic choir and choir director. And the choir was only made up of about 30 people. And the choir director would whip them up in more of a frenzy, emphasizing this [[Lore:Nord|Nordic]] feel the whole time, so they're -- dun, da, dun, da, dun, da dun. You really pound on every down beat. And what they would do is just do three passes on each verse of the song. Now you've got the sound of 90 people singing this thing in this massive hall. If you take a break from it and you come back, you still get the hairs raising on your neck every time they come to the big chorus.
+
+'''Mark Lampert:''' We don't script the music too heavily to where we're trying to match every moment that the player is doing, or anything like that. And it has a weird way of justifying itself to you. You feel like this big sweeping score as I'm rounding this bend and seeing this mountainous valley view is playing for you.
+
+'''Mark Lampert:''' There's nothing satisfying about pulling out a sword with no sound. I kind of debated for a while on whether to try and make them realistic. I tried it. I want people to know, that I did try it. Swords don't make that sound. So I quickly drifted back to the more Hollywood style. Shing! Because people want to hear it. I actually really enjoy making things that just feel very visceral and great impacts of the sword and shield and that sort of thing. So I really have a hard time with magic actually. I want a calm spell. So what do you do, play the sound of someone going, "Shh, calm"? And so I have a hard time with those. I just try version after version, and chances are the one you hear in the game is the last one I did before we ran out of time.
+
+'''Ashley Cheng:''' Our games are pretty long. They're like 3-to-4-year development cycles. It does feel like we've been working on it for 20 years, to be honest. It takes a long time to make the game.
+
+'''Bruce Nesmith:''' We have the wonderful luxury of being able to take people who've worked with everything we've worked with, who know the kinds of things we want to do, and just start immediately.
+
+'''Emil Pagliarulo:''' You are working with guys who know you and know your strengths and your weaknesses, and you bicker with them, and you share laughs with them. And, at the end of the day, as long as you make a great game, that's all that matters.
+
+'''Jeff Browne:''' Every time I sit down at a meeting with him, every now and then I have to remind myself, "I'm talking to Todd Howard. He's a pretty cool guy."
+
+'''Matthew Carofano:''' Todd is very clear on what he wants. He'll walk into a room where we've been working on something and say, "Nope. Should've been like this," or, "Do it like this," or, "That's just right," instantly.
+
+'''Jeff Browne:''' If you enter his office, no matter what the problem is or whatever, as soon as you leave, he will make you feel like a million bucks.
+
+'''Steve Meister:''' He doesn't come out every week and beat you over the head with a 2x4 saying, "You're not working hard enough." He just does that every other week.
+
+'''Todd Howard:''' All of those things that we liked growing up, and the melding of technology and art -- Video games, I think, are the ultimate medling of those art forms. Because if you look at a film, they can spend hours rendering one frame, and who cares? Okay, do that 30 times a second. It's a much trickier problem. And make it fun when I push the buttons. I find that really an interesting problem to solve every day.
+
+'''Bruce Nesmith:''' The beauty of making an open world game is you can choose your entertainment to be what you want it to be, and therefore you will be entertained, and I'll be happy.
+
+'''Emil Pagliarulo:''' I want to give them a game that they're going to hold on to for years, and say, "I'm going to keep playing this because it's that good, and it keeps me in the world."
+
+'''Mark Lampert:''' There are no accidents in a game like this. The player is free to interpret everything on their own, it's almost existential in a way.
+ 
+'''Kurt Kuhlmann:''' Should I kill that guy because he has some good armor and some treasure I want? How would I feel about killing that guy? That's kind of the Holy Grail.
+
+'''Todd Howard:''' Forget that it's a video game, but this is an entertainment experience of virtually unlimited possibility, where it's there for you to take it where you want to go. And, as you do those things, it will surprise you and reward you for what you're doing.
+</noinclude>

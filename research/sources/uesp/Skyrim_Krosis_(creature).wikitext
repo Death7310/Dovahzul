@@ -1,0 +1,29 @@
+{{Creature Summary
+|type=Undead
+|species=Dragon Priest
+|loc=[[Skyrim:Shearpoint|Shearpoint]]
+|baseid=00100767
+|image=SR-creature-Krosis.jpg
+|imgdesc=Krosis
+|faction={{Faction|Creature Faction}}; {{Faction|Dragon Priest Faction}}
+|refid=000F8A48
+|level=50
+|perks=[[Skyrim:Atromancy|Atromancy]]; [[Skyrim:Augmented Frost|Augmented Frost]] (rank 2); [[Skyrim:Mage Armor|Mage Armor]] (rank 2); [[Skyrim:Magic Resistance|Magic Resistance]] (rank 1); [[Skyrim:Recovery|Recovery]] (rank 2); [[Skyrim:Regeneration|Regeneration]]; [[Skyrim:Respite|Respite]]; [[Skyrim:Stability|Stability]]; [[Skyrim:Ward Absorb|Ward Absorb]]
+|class=Dragon Priest
+|health=1490
+|magicka=545
+|skills='''[[Skyrim:Alteration|Alteration]]''', '''[[Skyrim:Conjuration|Conjuration]]''', '''[[Skyrim:Destruction|Destruction]]''', '''[[Skyrim:Restoration|Restoration]]''', [[Skyrim:Sneak|Sneak]]
+|stamina=0
+}}
+'''Krosis''' is one of eight high-ranked [[SR:Dragon Priest|dragon priests]] of Skyrim that once served the ancient [[Skyrim:Dragon|dragons]]. His sarcophagus is located in front of the [[SR:Shearpoint|Shearpoint]] [[SR:Word Wall|word wall]], which contains all three words of [[SR:Throw_Voice|Throw Voice]]. He wields powerful ice magic, and carries with him a [[Skyrim:Staff of Fireballs|Staff of Fireballs]] and his [[Skyrim:Krosis (item)|eponymous mask]].
+
+{{NewLeft}}
+==Notes==
+*Krosis means "sorrow", "sorry" or "my apologies" in the [[Lore:Dragon Language|dragon language]].
+*Although Krosis is an ice-based Dragon Priest, he relies heavily on the Staff of Fireballs he carries with him to deal damage, occasionally casting a Frost Cloak, though no other ice magic.
+* Krosis is highly mobile once he emerges from his sarcophagus: he can easily dodge arrows/bolts and projectile magic (such as [[Skyrim:Firebolt|Firebolt]]) as he strafes at high speed around the area of the mountain top. As such, area-of-effect magic (like [[Skyrim:Chain Lightning|Chain Lightning]] or [[Skyrim:Fireball|Fireball]] and Shouts) may be the best way to deal with him. If you are a melee fighter, be aware that he may end up going down the steep cliffside (on the left as you enter the area) and if you lose your footing while fighting him, you may end up falling to your death.
+
+==Bugs==
+{{Bug|Krosis might not be hostile, even if attacked.|confirmed=1}}
+
+{{Skyrim Dragon Priests}}

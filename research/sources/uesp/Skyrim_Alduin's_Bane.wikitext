@@ -1,0 +1,153 @@
+{{Featured Article}}<noinclude>{{Cleanup-srqrp
+|writtenBy=Krusty
+|checkedBy=Dragon Guard
+|reward=Gideon Dragontongue
+|rewardChecked=Kiz
+}}</noinclude>{{Quest Header
+|type=Main Quest
+|Giver=Automatic upon acquiring the [[SR:Elder Scroll (Dragon)|Elder Scroll]] during [[SR:Elder Knowledge|Elder Knowledge]]
+|Reward=[[Skyrim:Dragonrend|Dragonrend]] shout
+|Disp= =0 (Delphine)<br> =0 (Esbern)
+|Prev=[[Skyrim:Elder Knowledge|Elder Knowledge]]
+|Next=[[Skyrim:The Fallen|The Fallen]]
+|Loc=[[SR:Throat of the World|Throat of the World]]
+|Image=SR-quest-Alduin's Bane.jpg
+|ImgDesc=The Nord heroes battling Alduin in a vision produced by an Elder Scroll
+|description=Exploit the Time-Wound to learn [[Skyrim:Dragonrend|Dragonrend]] and defeat [[Skyrim:Alduin|Alduin]] at the [[Skyrim:Throat of the World|Throat of the World]].
+|ID=MQ206
+|Icon=SR-qico-Main.png
+}}
+
+==Quick Walkthrough==
+# Read the [[Skyrim:Elder Scroll|Elder Scroll]] at the Throat of the World.
+# Learn how to use the [[Skyrim:Dragonrend|Dragonrend]] shout.
+# Defeat [[Skyrim:Alduin|Alduin]].
+
+==Detailed Walkthrough==
+===The Time-Wound===
+As soon as you claim the [[Skyrim:Elder Scroll|Elder Scroll]] from the [[Skyrim:Tower of Mzark|Tower of Mzark]], this quest starts and points you back to the [[Skyrim:Throat of the World|Throat of the World]] where [[Skyrim:Paarthurnax_(dragon)|Paarthurnax]] awaits. Exit the tower by using the lift to the east and pull the handle on the surface, thus providing yet another shortcut to [[Skyrim:Blackreach|Blackreach]]. You will find yourself a long way from [[Skyrim:Alftand|Alftand]] where you initially entered and may wish to loot the abandoned camp just outside the tower entrance. Travel back to the Throat of the World and Paarthurnax will be quite impressed with your efforts: ''"You have it. The Kel - the Elder Scroll. {{hover|Time bends... touch|Tiid kreh... qalos}}. Time shudders at its touch. There is no question. You are doom-driven. {{hover|Blessing (of) Akatosh|Kogaan Akatosh}}. The very [[Lore:Earth Bones|bones of the earth]]s are at your disposal. Go then. Fulfill your destiny. Take the Scroll to the Time-Wound. Do not delay. [[Skyrim:Alduin|Alduin]] will be coming. He cannot miss the signs."''
+
+Make your way a few feet to the northwest and you will see the Time-Wound, an unnatural ripple of air that distorts light passing through it. Go into the middle, find the Elder Scroll in your inventory, and read it: 
+{{Multiple Images
+|align=center
+|direction=horizontal
+|width=150
+|image1=SR-quest-Alduin's Bane_03.jpg
+|image2=SR-quest-Alduin's Bane_04.jpg
+|image3=SR-quest-Alduin's Bane_05.jpg
+|image4=SR-quest-Alduin's Bane_06.jpg
+}}
+
+===A Glimpse into the Past===
+[[File:SR-quest-Alduin's Bane 08.jpg|thumb|right|''"Know that Gormlaith sent you down to death!"'']]
+[[File:SR-quest-Alduin's Bane 09.jpg|thumb|clear=none|''"Which is why I brought the Elder Scroll."'']] 
+[[File:SR-quest-Alduin's Bane 10.jpg|thumb|right|''"Alduin approaches!"'']]
+[[File:SR-quest-Alduin's Bane 12.jpg|thumb|right|''"Begone, World-Eater!"'']]
+[[File:SR-quest-Alduin's Bane 13.jpg|thumb|right|''"You are banished!"'']]
+
+After a temporary blindness, you will regain your vision and find yourself in the [[Lore:Merethic_Era|Merethic Era]], unable to move and forced to watch past events. The strange carvings on the Elder Scroll will still be visible and your vision blurred and tinted red. You will watch as the ancient Nords, [[Skyrim:Hakon_One-Eye|Hakon One-Eye]] and [[Skyrim:Gormlaith_Golden-Hilt|Gormlaith Golden-Hilt]], fight a [[Skyrim:Dragon|dragon]] atop the Throat of the World. The battle will begin with Hakon on his own, until Gormlaith comes rushing in and jumps on top of the dragon:
+
+'''Hakon''': ''"Gormlaith! We're running out of time! The battle..."''<br>
+'''Dragon''': ''"{{hover|This day Overlord(ship) of Alduin restore|Daar sul thur se Alduin vokrii}}. Today Alduin's lordship will be restored. But I honor your courage. {{hover|(You) fight with courage|Krif voth ahkrin}}. Die now, in vain."''<br>
+'''Hakon''': (attacks) ''"For Skyrim!"''<br>
+'''Gormlaith''': (joins the attack and kills the dragon) ''"Know that Gormlaith sent you down to death!"''
+
+After killing the dragon they will sheathe their swords and walk past a [[Skyrim:Containers#Desecrated_Corpse|desecrated corpse]], talking about their victory:
+
+'''Gormlaith''': ''"Hakon! A glorious day, is it not!"''<br>
+'''Hakon''': ''"Have you no thought beyond the blooding of your blade?"''<br>
+'''Gormlaith''': ''"What else is there?"''<br>
+'''Hakon''': ''"The battle below goes ill. If Alduin does not rise to our challenge, I fear all may be lost."''<br>
+'''Gormlaith''': ''"You worry too much, brother. Victory will be ours."''
+
+At this point, [[Skyrim:Felldir the Old|Felldir the Old]] will emerge from behind you and join the conversation:
+
+'''Hakon''': (To Felldir) ''"Why does Alduin hang back? We've staked everything on this plan of yours, old man."''<br>
+'''Felldir''': ''"He will come. He cannot ignore our defiance. And why should he fear us, even now?"''<br>
+'''Gormlaith''': ''"We've bloodied him well. Four of his kin have fallen to my blade alone this day."''<br>
+'''Felldir''': ''"But none have yet stood against Alduin himself. Galthor, Sorri, Birkir..."''<br>
+'''Gormlaith''': ''"They did not have Dragonrend. Once we bring him down, I promise I will have his head."''<br>
+'''Felldir''': ''"You do not understand. Alduin cannot be slain like a lesser dragon. He is beyond our strength. Which is why I brought the Elder Scroll."''
+
+Felldir will then pull out the ancient [[Lore:Elder Scroll|Elder Scroll]], much to the surprise of Hakon:
+
+'''Hakon''': ''"Felldir! We agreed not to use it!"''<br>
+'''Felldir''': ''"I never agreed. And if you are right, I will not need it."''<br>
+'''Hakon''': ''"No. We will deal with Alduin ourselves, here and now."''<br>
+'''Gormlaith''': ''"We shall see soon enough. Alduin approaches!"''<br>
+'''Hakon''': ''"So be it."''
+
+While the Nords draw their weapons, Alduin will land atop the word wall and speak: 
+
+'''Alduin''': ''"{{hover|Fools!|Meyye!}} {{hover|Treacherous slaves!|Tahrodiis aanne!}} {{hover|Your hopes (are) all withered!|Him hinde pah liiv!}} {{hover|I (am) your doom!|Zu'u hin daan!}}"''<br>
+'''Gormlaith''': ''"Let those that watch from Sovngarde envy us this day!"''
+
+At this point, the Nords will release the [[Skyrim:Dragonrend|Dragonrend]] shout. When they shout, you will automatically learn the shout. In the skies, Alduin will feel mortality rise through his body and will immediately be forced to land: 
+
+'''Alduin''': ''"{{hover|Cowardly mortals!|Nivahriin joorre!}} What have you done? What twisted Words have you created?! {{hover|Treacherous|Tahrodiis}} Paarthurnax! My teeth to his neck! But first... {{hover|die in terror|dir ko maar}}. You will die in terror, knowing your final fate... To feed my power when I come for you in Sovngarde!"''<br>
+'''Gormlaith''': ''"If I die today, it will not be in terror. You feel fear for the first time, worm. I see it in your eyes. Skyrim will be free!"''
+
+The three Nords will then proceed to attack the World-Eater, but to no avail. Alduin will pick up Gormlaith between his teeth and fling her to the right, killing her: 
+
+'''Hakon''': ''"No, damn you! It's no use! Use the Scroll, Felldir! Now!"''<br>
+'''Felldir''': ''"Hold, Alduin on the Wing! [[Lore:Kyne|Sister Hawk]], grant us your sacred breath to make this contract heard! Begone, World-Eater! By words with older bones than your own we break your perch on this age and send you out! You are banished! Alduin, we shout you out from all our endings unto the last!"''<br>
+'''Alduin''': ''"{{hover|The (Elder) Scroll...?! Cowards...|Faal Kel...?! Nikriinne...}}"''
+
+A surprised Alduin will futilely breathe fire at Felldir before disappearing into the flow of time, to an unknown era. Felldir, however, knows that the defeat was only temporary: 
+
+'''Felldir''': ''"You are banished!"''<br>
+'''Hakon''': ''"It worked... you did it..."''<br>
+'''Felldir''': ''"Yes, the World-Eater is gone... may the spirits have mercy on our souls."''
+
+===Alduin===
+Directly after the cutscene, when you arrive back in the present, Alduin will appear at the Throat of the World, shouting: ''"{{hover|My hunger has been fed by mortal souls.|Bahloki nahkip sillesejoor.}} My belly is full of the souls of your fellow mortals, Dovahkiin. Die now and await your fate in Sovngarde!"'' Paarthurnax will then interfere, saying: ''"{{hover|You fail.|Lost funt.}} You are too late, Alduin! Dovahkiin! Use Dragonrend, if you know it!"''
+
+[[File:SR-quest-Alduin's Bane 02.jpg|thumb|Alduin battles Paarthurnax at the Throat of the World.]]
+Paarthurnax and Alduin will take flight, attacking each other in the air. Paarthurnax tells you to use your Dragonrend shout if you can, and indeed, when the chance arises, use Dragonrend on Alduin, forcing him to the ground. It can be rather difficult distinguishing between the two dragons if the battle is done at night or while it is snowing.  The quest arrow on your compass always points to Alduin, so use that to distinguish between them.
+
+During the battle, Alduin may say some of the following taunts: ''"Dovahkiin, you call yourself? Arrogant mortal."'', ''"Bahloki nahkip sillesejoor."'', ''"I will feast on your soul in Sovngarde!"'', ''"You are no match for me, {{hover|mortal!|joor!}}"'', ''"Paarthurnax is weak. I am strong."'', ''"My time has come again."'', ''"{{hover|Terror awaits in Sovngarde|Maar saraan ko Sovngarde.}}"'', ''"I have feasted on many greater than you."'', or ''"You will pay for your defiance!"''
+
+When Alduin is grounded, he may say: ''"My teeth to your neck, Dovahkiin!"'' When he is grounded, you must attack him as much as you can before he takes flight again. This may take a few tries, since he has a huge health pool and does reasonable damage. Be wary of Alduin's "Dragon Storm Call" shout, which causes fiery meteors to rain from the sky, causing both fire and physical damage. Note that [[Skyrim:Clear Skies|Clear Skies]] will cancel the meteor shower, and has such a short recharge time that it won't interfere with using Dragonrend on him. In particular, using Dragonrend immediately when it recharges will keep Alduin grounded for the whole fight. When Alduin's health drops to zero, he says: ''"{{hover|You've become strong, Dragonborn.|Meyz mul, Dovahkiin.}} You have become strong. But I am {{hover|Destroyer-Devour-Master|Al-du-in}}, Firstborn of Akatosh! {{hover|My strength is the greatest!|Mulaagi zok lot!}} I cannot be slain here, by you or anyone else! You cannot prevail against me. I will outlast you... mortal!"'' He will then fly off, completing the quest.
+
+==Notes==
+
+*Having a follower stand within the Time-Wound when you read the Elder Scroll may prevent Alduin from landing on the word wall in the cutscene.{{vn|plain}}
+*It is not possible to harm Alduin while he's in the air.  He is immune to all forms of damage except when he's under the Dragonrend shout effect (i.e. grounded).  Therefore, you cannot defeat Alduin without using Dragonrend on him, regardless of how powerful your weapons and spells might be.
+*Inadvertently using Dragonrend on Paarthurnax and therefore grounding him often makes Alduin hover in one place in the air while attacking Paarthurnax, thus making it easier to strike him with Dragonrend, although it is better to ground Alduin alone.
+*Alduin may remark ''"You may have picked up the weapons of my ancient foes, but you are not their equal!"'' when you use Dragonrend against him.
+*Even after completing this quest, the Elder Scroll will still be marked as a quest item, making it impossible for you to drop it or place it in a container, though it will remain weightless. The only way to remove it from your inventory is to sell it to [[Skyrim:Urag gro-Shub|Urag gro-Shub]] in the [[Skyrim:College of Winterhold (place)|College of Winterhold]] library, although if you do, and you install the [[Skyrim:Dawnguard|Dawnguard add-on]], you will have to buy it back from him for another quest.
+*Reading the Elder Scroll at the Time-Wound removes all active blessings, including the [[Skyrim:Blessing of Talos|Blessing of Talos]]. To shorten your shout cooldown for the fight with Alduin, you need to wear either an [[Skyrim:Amulet of Talos|Amulet of Talos]] or [[Skyrim:Storm-Bear Armor|Storm-Bear Armor]]{{CC|Civil War Champions}}.
+*During the cutscene Gormlaith, Hakon or Felldir may look at you, as if you were there.
+*If [[Skyrim:Survival Mode|Survival mode]] is active, you may wish to save the game before reading the Elder Scroll, as it is possible to die immediately after exiting the cutscene due to cold.
+
+==Bugs==
+{{Bug|Alduin may become invincible during the fight.|confirmed=1}}
+**According to the patch notes, this bug was supposed to have been fixed by version 1.9.26.0.8 of the [[Skyrim:Patch|Skyrim Official Patch]]. However, there have still been confirmed reports of this bug occurring, specifically if you exit dialogue with Alduin prematurely after returning from the vision in the Time Wound, or if you die during the fight with Alduin and reload the game.
+**{{Pc22}} Open the [[Skyrim:Console|console]], click on Alduin, then use the command <code>disable</code> followed by <code>enable</code>. This may allow Alduin to be damaged normally.
+**Saving immediately before combat starts, then fast-traveling away and returning, may fix this.
+**As of 1.9.32.0, the game creates an autosave after exiting the Merethic-era cutscene, right before the conversation with Alduin.
+{{Bug|The cutscene in the Merethic era may not trigger or complete, leaving you stuck there.|confirmed=1}}
+**Doing other quests and then returning may fix this.
+**{{Pc22}} If Gormlaith gets stuck and is unable reach the first dragon to kill it, you can manually kill the dragon using the [[Skyrim:Console|console]] by clicking on it and entering <code>kill</code>. This will allow the cutscene to progress.
+**{{Pc22}} If Alduin does not land, use the console commands <code>prid 4377e</code> followed by  <code>moveto cda03</code> to move Alduin to the landing position.
+**{{Pc22}} Another possible fix after getting stuck is to open the console and enter <code>setstage mq206 32</code>. This should let you regain control of the camera and a dragon should land, enabling the cutscene to continue. You could also enter <code>setstage mq206 70</code> to learn the Dragonrend shout directly, then enter <code>setstage mq206 100</code> to end the cutscene and begin the fight with Alduin.
+{{Bug|Fixing the stuck cutscene bug may leave you with blurred vision.|confirmed=1}}
+**This can be fixed by using vision altering effects. Examples of these include visiting a new dragon wall and learning a new shout or using the [[Skyrim:Archery|Archery]] perk [[Skyrim:Eagle Eye|Eagle Eye]].
+**{{pc22}} This can be fixed by opening the [[Skyrim:Console|console]] and entering <code>sisme 0</code>.
+{{Bug|Fixing the stuck cutscene bug may bring the Merethic Alduin out with you, resulting in two Alduins: the real one flying above you which starts talking, and the Merethic one still crippled on the ground which starts fighting instantly.|confirmed=0}}
+**{{pc22}} This can be fixed by opening the [[Skyrim:Console|console]], clicking on the Merethic Alduin on the ground (or entering <code>prid 4377e</code>), then entering <code>disable</code>. This should be done before defeating the real Alduin and progressing the quest, or the Merethic Alduin will keep regaining strength and start fighting again after you walk down the Throat of the World.
+{{Bug|The music track for reading the Elder Scroll during the Alduin flashback at the Throat of the World may not play during the day due to invalid conditions being placed on the track record. Blood eclipses with the Dawnguard add-on are also known to prevent it from playing.|USSEP|4.3.9}}
+
+==Quest Stages==
+{{Journal Entries
+|10||I've located the Elder Scroll that was used to cast Alduin forward into our time by the Nord heroes of old. If Paarthurnax is right, if I read it near the Time-Wound I will get a vision of the past, when the ancient Nords used the Dragonrend Shout against Alduin.
+{{Quest Objective|10|Read the Elder Scroll at the Time-Wound}}
+|20||{{Quest Objective|20|Learn the "Dragonrend" Shout from the Nord heroes}}
+|70||''This is a hidden state, used to teach the player the Dragonrend shout. it does not adjust the quest text, status, or objectives, and is only used to award the Dragonrend shout during the Time-Wound cutscene.''
+|100||I read the Elder Scroll near the Time-Wound, and learned the Dragonrend Shout in a vision of the Nord heroes fighting Alduin in the distant past. Now I need to use Dragonrend to defeat Alduin in the present time.
+{{Quest Objective|30|Defeat Alduin}}
+|220|fin|I read the Elder Scroll near the Time-Wound, and learned the Dragonrend Shout in a vision of the Nord heroes fighting Alduin in the distant past. When I returned from the vision, Alduin attacked me, and I used Dragonrend to bring him down and defeat him.
+|missing=0, 1, 5, 15, 30, 32, 33, 35, 40, 42, 48, 50, 52, 60, 75, 80, 82, 85, 87, 88, 89, 90, 120, 140, 160, 180, 200, 230, 240
+}}
+{{Skyrim Quest Stages Notes}}
+{{Quest Footer|Prev=[[Skyrim:Elder Knowledge|Elder Knowledge]]|Next=[[Skyrim:The Fallen|The Fallen]]|Up=[[Skyrim:Main Quest|Main Quest]]}}

@@ -1,0 +1,35 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Light]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Volsung.jpg
+|weight=5
+|rating=21
+|value=4611
+|warmth=18
+|type=[[Skyrim:Light Armor|Light]] [[Skyrim:Helmet|Helmet]]
+|enchant=''Prices are 20% better, Carry 20 points more, and can breathe underwater:''
+* [[Skyrim:Waterbreathing (effect)|Waterbreathing]], 20 pts
+* [[Skyrim:Fortify Barter|Fortify Barter]], 20 pts
+* [[Skyrim:Fortify Carry Weight|Fortify Carry Weight]], 20 pts
+|artifacttype=Artifact
+|objectid=00061cab
+|editorid=ArmorDragonPriestMaskCorondrumHelmet
+|tempering=[[Skyrim:Corundum Ingot|Corundum Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Volsung (item)|Volsung]] is a [[Skyrim:Corundum|corundum]] [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] obtained by killing the eponymous [[Skyrim:Volsung (creature)|Volsung]] at the end of the [[Skyrim:Nordic Ruins|Nordic ruin]], [[Skyrim:Volskygge|Volskygge]]. The artifact's enchantment allows you to breathe underwater, carry an additional twenty units of weight, and increases your [[Skyrim:Fortify Barter|bartering]] abilities by twenty points. It can be [[Skyrim:Tempering|tempered]] with [[Skyrim:Corundum Ingot|corundum ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Volsung (item)|Volsung]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Volskygge (quest)}}
+
+==Notes==
+* Placing Volsung on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses it gained from tempering.
+* Although the mask is made out of corundum, the editor ID for this mask is ArmorDragonPriestMask'''Corondrum'''Helmet.
+* All Dragon Priest Masks are considered to be circlets in terms of equipment slots, meaning they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* ''Vol'' means "Horror" in the [[Lore:Dragon Language|dragon tongue]].
+* Volsung is the most valuable of all the dragon priest masks, with a value of 4,611. This is, in part, due to the waterbreathing enchantment having a high base enchantment cost of 100, and it's numerical value being set to 20. Waterbreathing enchantments function the same at any numerical value. Thus, Volsung is valued as if it has 20 individual waterbreathing enchantments placed upon it.
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a special holder for this item.
+
+{{Skyrim Dragon Priests}}</noinclude>

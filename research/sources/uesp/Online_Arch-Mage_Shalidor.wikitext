@@ -1,0 +1,626 @@
+{{Online NPC Summary
+|image=ON-npc-Arch-Mage Shalidor.jpg
+|imgdesc=Arch-Mage Shalidor
+|race=Nord
+|gender=Male
+|health={{ESO Health|fa}}<br>62,728 (follower)
+|loc=[[Online:Glade of the Divines|Glade of the Divines]], [[Online:Chateau of the Ravenous Rodent (place)|Chateau of the Ravenous Rodent]], [[Online:Circus of Cheerful Slaughter (place)|Circus of Cheerful Slaughter]], [[Online:Eyevea|Eyevea]], [[Online:Ondil|Ondil]], [[Online:Silumm|Silumm]], [[Online:Glade of the Divines|Glade of the Divines]], Cheesemonger's Hollow, Saint Delyn Waistworks, Shivering Isles
+|faction={{Faction|Mages Guild}}
+|reaction=Friendly
+|lorepage=Shalidor
+|follower=[[ON:Simply Misplaced|Simply Misplaced]]
+}}{{TOCright}}
+'''Arch-Mage Shalidor''' is a legendary [[Online:Nord|Nord]] mage from the [[Lore:First Era|First Era]]. When you are tasked by the [[Online:Mages Guild|Mages Guild]] to [[Online:Long Lost Lore|collect rare books]], he will appear and ask you to collect four rare tomes to take back his sanctuary, [[ON:Eyevea|Eyevea]], from the [[Lore:Shivering Isles|Shivering Isles]].
+
+He was once married to [[Online:Ulfsild the Evergreen|Ulfsild]].
+{{NewLeft}}
+==Related Quests==
+*{{Quest Link|Long Lost Lore}}
+*{{Quest Link|Simply Misplaced}}
+*{{Quest Link|Circus of Cheerful Slaughter (quest)}}
+*{{Quest Link|Chateau of the Ravenous Rodent (quest)}}
+*{{Quest Link|The Mad God's Bargain}}
+*{{Quest Link|The Arch-Mage's Boon}}
+
+==Quest-Related Events==
+
+===Long Lost Lore===
+After collecting the tomes, his ghost will appear briefly and speak to you.
+:'''Arch-Mage Shalidor''': ''"Well done! I am Shalidor, young one. And I think you'll do nicely...."'' 
+:'''Arch-Mage Shalidor''': ''"Return that book to Valaste. Tell her fire will show her the words...."'' 
+
+He then disappears. Take the books back to Valaste and after following her instructions, Shalidor will be able to materialize again, saying, ''"I knew it. I was right in choosing you."'' 
+
+You can then speak with him to see what he wants.
+:''"I can sense … yes. The aura around you glows with good fortune. You will be the one to help me complete my final task."''
+:'''Why me?'''
+:''"What I hope to accomplish is difficult. Perhaps impossible. It will require great strength of spirit!<br>I sense this strength in you. That is what drew us together in the ruins."''
+:'''What is this task?'''
+:''"A storm rages towards us, Adept. War has come to Tamriel, and the Mages of this great guild must have quarter.<br>I intend to offer them a safe haven. A sanctuary where they may study in peace."''
+:'''How do we create this sanctuary?'''
+:''"I created that sanctuary, centuries ago! It was stolen from me by an agent of chaos, and magically transported to the Shivering Isles.<br>To recover the island we must locate four hidden tomes. This is the task of which I speak."''
+:'''Where are these tomes?'''
+:''"They're being held in a place known as … Cheesemonger's Hollow. It is a realm of the Mad God, Sheogorath. Stand by my side, and I will open a portal."''
+:'''I'll stand with you, Shalidor.'''
+
+You can ask further questions:
+:''"Be careful. Sheogorath is not to be taken lightly. I lost the sanctuary because of his nimble tongue and mad stare."''
+::'''Shalidor, why have you returned? / Why have you returned?'''
+::''"To protect my legacy. While this Guild was … after my time, I accomplished much in Tamriel. I founded schools of magic, oversaw the construction of the Great Maze, and bore my Spellmirror into battle."''
+:::'''And you think the war could undo that?'''
+:::''"I know it. I laid powerful enchantments on my final resting place. When my legacy is threatened, I'm drawn back from Aetherius.<br>My presence here is proof enough: the Three Banners war is a threat to every Mage in Tamriel."''
+::'''"Nimble tongue?"'''/'''How did you lose this sanctuary?'''
+:::''"I won't waste my time recounting his antics. Suffice to say, he got the better of me. Bets were made, wagers were lost.<br>And my sanctuary, Eyevea, was pulled into his realm … my apprentices screaming all the while."''
+::'''Who is Sheogorath?'''
+::''"He's known as the Daedric Prince of Madness: the Mad God.<br>The Dunmer call him one of their Four Corners of the House of Troubles. And he's earned the title a thousand-fold."''
+:::'''Is he really a threat? He sounds like a joke.'''
+:::''"Don't take him too lightly. Madness comes in many forms. Sheogorath encompasses them all.<br>He rules the Shivering Isles, but often takes an active interest in our world. That … usually doesn't end well."''
+::::'''Am I really going to a place called Cheesemonger's Hollow?'''
+::::''"Yes. An example of Sheogorath's "humor". There are those that find his madness amusing. I am not one of those people.<br>The Mad God would just as soon serve you an aged cheddar as he would flay the skin from your bones. Remember that."''
+[[File:ON-quest-Long Lost Lore 02.jpg|thumb|right|Shalidor attempts to attack Sheogorath]]
+Find your way through the Daedric plane. After defeating the clannfear [[ON:Gutsripper|Gutsripper]], Sheogorath will appear and then summon Shalidor.
+:'''Sheogorath:''' ''"I can't wait to see the look on his face! If it's precious enough, I might hang it on the wall."''
+:'''Arch-Mage Shalidor:''' ''"What's the meaning of this? Sheogorath!"''
+:'''Sheogorath:''' ''"You remembered! Ahh, Shalidor. You never write. You never visit. Just now, I made a deal with your lackey here. How long have you wanted those books? Eternity?"''
+:'''Arch-Mage Shalidor:''' ''"Your "deals" are hardly fair. What farce have you contrived this time?"''
+:'''Sheogorath:''' ''"Think of it as an adventure? And don't worry. I've got a surprise for you too. I put a tiny curse on these books. Just a small one. Long story short, Shal, you can never read these books."''
+:'''Arch-Mage Shalidor:''' ''"Curse you, Mad God!"'' (attacks Sheogorath)
+:'''Sheogorath:''' ''"Boring! Be more imaginative, Shal. Like, "Curse you, Mad God! May you become cheese eternally gnawed by skeevers!" Unfortunately, I have no more time for constructive criticism. Do stay in touch!"''
+
+You can then talk to Shalidor.
+:''"Curse the Mad God. I don't know what game he's playing with you.<br>But I do know the stakes."''
+:'''At least we have one tome.'''
+:''"That's true, though without my help, it will take Valaste considerably longer to translate it.<br>I'd like you to return and let her know the bad news."''
+:'''I'll tell her.'''
+:''"I'll send you back to Tamriel, then. Are you ready?"''
+:'''Yes, I'm ready.'''
+
+===Simply Misplaced===
+When you approach the Mages Guild building, Shalidor will materialize and greet you.
+:''"Your timing is impeccable."''
+Talk to him.
+:''"I'd hoped to find you here, Adept."''
+:'''What can I help you with, Shalidor?'''
+:''"[[Online:Valaste|Valaste]] has finished translating the tome. Once you're ready, join us at the Mages Guild. Speak to Valaste when you arrive. I'll be making preparations for your first trial."''
+:'''Where can I find her?'''
+:''"Valaste will be expecting you at the {{hover|Alliance-specific|[ [[Online:Elden Root|Elden Root]] / [[Online:Wayrest|Wayrest]] / [[Online:Mournhold|Mournhold]] ]}} Guildhall. I'll see you there, Adept."''
+
+You can ask what she found from her work so far:
+:'''What has she discovered?'''
+:''"She did most of the hard work. I'll leave the explanation to her. Just know that Sheogorath is nowhere near as clever as he thinks. She was able to unravel his nonsense, and determine where you need to go. Hah!"''
+Travel to the guildhall at your Alliance capital. Inside you find Valaste and Shalidor. 
+
+Throughout the quest, if he has nothing specific to say, he'll make the remark:
+:''"You do the guild credit with your bravery and dedication, Adept."''
+
+If you talk to him after speaking to Valaste:
+:''"The brazier is ready. Valaste prepared it precisely. According to my instructions, of course."''
+:'''What is the brazier for?'''
+:''"We're having trouble opening a portal directly there. So we created this anchor to help us. Some trickery of Sheogorath's, no doubt.<br />The next time around, I'm sure this won't be an issue."''
+:'''I'm ready. Let's go.'''
+
+Before you go into the portal, you can ask him some questions:
+:''"You do the guild credit with your bravery and dedication, Adept."''
+:'''Shalidor, would you be willing to tell me a bit more about yourself? / Would you be willing to tell me a bit more about yourself?'''
+:''"Hmm...I don't know what there is to tell, adept. You probably know quite a bit about me already from the lectures the Guild holds regularly about my life. Or perhaps from the numerous books written about my legendary constructs."''
+::'''What are you most proud of?'''
+::''"Hah! You might as well ask a parent which is his favorite child! So many of my little projects became legend. Eyevea, Labyrinthian, the great Ice Fortress of Winterhold...and Glamoril, of course. But I do go on..."''
+::'''What's your greatest regret?'''
+::''"A good question, adept. Truly, my greatest regret? I wish I'd spent more time teaching. I always felt my greatest triumphs were the students that followed in my footsteps."''
+:'''Do you think we can really do this?'''
+:''"I would not be here otherwise, adept. It has been many years since I sat in my study, planning for this day. I laid in the runes and cast the spells with precision, knowing that someday the Mages of Tamriel would have need of me again."''
+::'''You're here, but do you really think we can best Sheogorath?'''
+::''"That buffoon? Hah! Of course we can. I am the greatest Mage who has ever lived. Valaste is the greatest living mind in the world. And you have already proven yourself incredibly capable. We will best his trials, and reclaim my island!"''
+:'''What are these tomes we're trying to get?'''
+:''"I was assuming they were spellbooks. Tomes on advanced magical theorum, or ancient treatises on soulforging artifacts. Instead, the first book we retrieved was full of nursery rhymes!"''
+::'''So they're nonsense?'''
+::''"They're far from nonsense. I'm loath to admit it, but Sheogorath actually was very clever. He disguised advanced spellwork in the rhymes, using reference and allegory to hide his meaning. It took Valaste quite some time to decipher, but she did it!"''
+
+The portal will take you to the [[ON:Glade of the Divines|Glade of the Divines]] first. Talk to Shalidor.
+:''"This place. It's familiar, yet not. As if Sheogorath stole a piece of the Summerset Isles. He must be mocking me. My long-lost Sanctuary shares some similarities to this place …."''
+:'''What do you mean?'''
+:''"Eyevea was an outlier island in the Summerset archipelago. The High Elves gave it to me in exchange for some baubles, minor artifacts of no real consequence. It was a beautiful place …."''
+
+After speaking with [[Online:Haskill|Haskill]] for your tasks, he'll say:
+:''"I overheard. He's sending you back to Tamriel.<br>My power is bound within Sheogorath's realm, but I'm at my full power on Nirn. I will be at your side."''
+
+Enter the portal to [[Online:Vuldngrav|Vuldngrav]], a Nordic ruin. 
+:'''Arch-Mage Shalidor:''' ''"I'll never forget that smell. A Dragon Priest's tomb."'' 
+He can tell you more if asked:
+:''"This place is known as Vuldngrav, the final resting place of [[Online:Korthor|Korthor]] the Dragon Priest. Where there are Dragon Priests, there are sure to be draugr."''
+:'''Have you been here before?'''
+:''"No, not to Vuldngrav. But Skyrim is littered with ruins like this. Leftovers from the age when Dragons and their priests ruled my people. In my younger days adventuring across the holds I plundered many of these dank little tombs."''
+
+As you explore, he comments on your progress: 
+:'''Arch-Mage Shalidor:''' ''"Look at the treasures he's collected. Perhaps the Fork is here as well."'' 
+When you approach the ice barrier:
+:'''Arch-Mage Shalidor:''' ''"Old Korthor's set up an ice barrier … hmm."''
+Later he says: 
+:'''Arch-Mage Shalidor:''' ''"That chest. Perhaps the Fork is in there."'' 
+Examine the chest, which seems to rouse the Dragon Priest: 
+:'''Korthor:''' ''"You dare to steal from me? Krif voth ahkrin!"''
+:'''Arch-Mage Shalidor:''' ''"Ah, Kordor's awake."'' 
+:'''Korthor:''' ''"My priests will make quick work of you! Luft Dinokii!"''
+
+If you speak to him before the draugr strikes:
+:''"No time for talk. Kill the draugr!"'' 
+
+He warns you of the incoming draugr waves: 
+:'''Arch-Mage Shalidor:''' ''"The shadows move, Adept. Watch yourself."''
+:'''Arch-Mage Shalidor:''' ''"Eyes to the sky! Another group!"''
+
+After defeating the draugr, he will either say:
+:'''Arch-Mage Shalidor:''' ''"Come, fools. What more can you bring to bear?"'' 
+
+:'''Arch-Mage Shalidor:''' ''"Together, we cannot be stopped."''
+
+:'''Arch-Mage Shalidor:''' ''"What wasted potential."'' 
+
+When the ice barrier thawed out, he will either say:
+:'''Arch-Mage Shalidor:''' ''"There, the ice barrier is down. We can get through!"''
+
+:'''Arch-Mage Shalidor:''' ''"There. The ice barrier's thawed. We can get through."''
+
+Speaking to him before going through the unblocked path:
+:''"Defeating the draugr opened the way into Korthor's tomb.<br>The fork is certain to be either within the tomb itself, or in Korthor's bony hand."''
+
+When you reach to Korthor's lair and before you fight him:
+:''"We must defeat Korthor!"''
+
+Defeat the dragon priest and get the fork, which earns Haskill's attention. 
+:''"And Haskill has arrived. Sheogorath's manservant, here to move us along. Hmph."''
+
+Haskill sends you off to [[ON:Asakala|Asakala]], a place in the Alik'r desert. Before entering the portal:
+:''"I should also be able to join you in Hammerfell. Here in Tamriel, Sheogorath has no power to contain me."''
+
+You can talk for Shalidor for any advice he can give you about the place.
+:''"As I expected. Another resting place for the dead.<br>Sheogorath has a sick sense of humor."''
+:'''What is this place?'''
+:''"This is the necropolis Asakala, the resting place of Prince [[Online:Maleel al-Akir|Maleel]]. Also known as the Scythe of Yokuda. <br />The prince's underlings were clever. They crafted magical seals to guard his resting place.
+:'''And you know how to get past them?'''
+:''"Observe the Yokudan statues. Each bears a crystal in the helm and a seal at the base. <br>The essences you see swirling around in the air here? Their energy can be used to unlock those keystones."''
+:'''How do I capture them?'''
+:''"Here, I can grant an aura that will allow you to capture the essences as they pass through you. Collect as many of the small ones as you can. They should unlock these scarab seals on the statues nearby. <br>I'll need to consider the other two."''
+:'''I can do this.'''
+
+You can ask him further questions before collecting the essences.
+:''"This place is incredible. The ancient Redguards were a noble and accomplished people."''
+:'''I still have some questions.'''
+:''"What can I tell you, Adept?"''
+::'''Can you tell me again about the essences?'''
+::''"Alik'r is under attack. A [[Online:Withered Hand|necromantic cult]] has disrupted the normal ebb and flow of life and death. The dead that once served Maleel are now a way into his tomb."''
+:::'''How do I collect them?'''
+:::''"You need only to be near them to collect them. My spell will keep the essence tied to you until you're ready to deposit it within the statue.<br>Just remember, you'll only be able to collect four at a time."''
+::'''What were you saying about the statues?'''
+::''"Beneath the statues lie buried the dead of Prince Maleel's armies. Their essences have bubbled up from beneath the sands, released by the dangers threatening Alik'r today."''
+:::'''So I'm imbuing the essences back into the statues?'''
+:::''"Just so, Adept. The lesser essences you see before you will empower the statues with the orange and green crystals, the statues near the entrance to this complex.<br>I need to consider how we'll empower those two rear statues."''
+::'''How do you know all this, Arch-Mage?'''
+:::''"What sort of Arch-Mage would I be if I didn't?<br>I spent my mortal life seeking knowledge of all things, not just magic. Yokudan, or as you know them, Redguard, culture is no exception. If Valaste was here, I'm sure she could tell you the same."''
+
+Once you have collected the essences, 
+:'''Arch-Mage Shalidor:''' ''"You have the essences. Imbue them into one of the scarab seals."''
+
+Speaking to him:
+:''"Well done, Adept. The essence you've gathered will serve us in good stead.<br>Now imbue this energy into the proper tile."''
+
+Activate the first seal:
+:'''Maleel al-Akir:''' ''"Who dares disturb my slumber?"''
+:'''Arch-Mage Shalidor:''' ''"Good. Now to collect four more."''
+
+At any time, Shalidor might say:
+:''"You're on the right path, Adept. Collect the essence we need to unlock this ancient structure."''
+
+Activate the second seal:
+:'''Arch-Mage Shalidor:''' ''"The final four. Imbue them into the other seal."''
+
+You can return to Shalidor who will be admiring the place.
+:''"For such a superstitious, Mage-hating people … this place is a work of art."''
+:'''What do we do about the other two statues?'''
+:''"Have you observed the sand barriers on those passages in the canyon walls? I suspect the Prince's generals may be waiting within. <br>Their essences would no doubt be more than enough to activate the other two statues."''
+:'''His generals? How do you know this?'''
+:''"Very simple, adept. The seals at the bases of those statues show a scorpion and a spider. <br>Those were the spirit totems claimed by Maleel's chief generals, [[ON:Sahdina the Scorpion|Sahdina]] and [[Online:Rashomta the Spider|Rashomta]]."''
+:'''Let's go get them, then.'''
+
+With Rashomta's essence, he'll say:
+:'''Arch-Mage Shalidor:''' ''"Rashomta's statue will be marked with a spider seal."'' 
+
+Likewise, when you have Sahdina's essence:
+:'''Arch-Mage Shalidor:''' ''"Sahdina's statue should have a scorpion seal at its base."'' 
+
+Activate the seals.
+:'''Arch-Mage Shalidor:''' ''"The crystals hum with power. Go to the center. You should find the key to Prince Maleel's tomb there."'' 
+
+Speaking to him:
+:''"You do the guild credit with your bravery and dedication, Adept."''
+:'''I lit all the crystals. What do you mean by the key crystal?'''
+:''"With the souls restored and crystals relit, the key crystal should now be visible.<br>This is the key to Prince Maleel's tomb. You must use it in order to gain entry."''
+
+Activate the key:
+:''"Now to retrieve that staff. The door to Prince Maleel's tomb must be open now."''
+
+Wait for the tomb to open. Go inside and defeat the Prince. After the deed is done, Shalidor will urge you forward.
+:'''Arch-Mage Shalidor:''' ''"I'd guess Haskill will be waiting outside. Let's go."''
+
+Speaking to him before you go outside:
+:''"Haskill, here again. Sheogorath is such a craven. Sending a toad like that one to do his dirty work."''
+
+After you speak to Haskill, but before returning to the Isles, he'll remark:
+:''"I'll journey through with you, but I'm not sure how long I'll be able to stay within the Isles. If Sheogorath is there, he may not be pleased to see me."''
+
+Return to the Glade of the Divines and Sheogorath will have you playing around with the [[Online:Artifacts#Wabbajack|Wabbajack]]:
+:''"An interesting task indeed."''
+
+After returning the Wabbajack, he'll say: 
+:''"If there's anything consistent about Sheogorath, it's his knack for surprises.<br>Come. Let's return to Valaste now that you've recovered the second book."''
+:(Even though Shalidor remarks that you've recovered the book, you have to speak to him before activating {{Item Link|The Circus of Cheerful Slaughter|questid=3749}}. Once you activate the book, you'll be immediately transported back to the Mages Guild hall you started from and Shalidor will not be there on your return.)
+
+===Circus of Cheerful Slaughter===
+Outside the Mages Guildhall, Shalidor will call to you:
+:''"Hold there, Adept."''
+
+Talk to him:
+:''"Well met, Adept. We … we are in need of your assistance."''
+:'''Valaste has translated the latest book?'''
+:''"Sort of. Valaste has translated Sheogorath's tome, but we're having some trouble understanding it. She may need your assistance. Seek her out, soon as you can."''
+:'''Where can I find her?'''
+{|class=hiddentable
+|width=33%|<center>'''{{ESO AD}} Aldmeri Dominion:'''</center>
+|width=33%|<center>'''{{ESO DC}} Daggerfall Covenant:'''</center>
+|width=33%|<center>'''{{ESO EP}} Ebonheart Pact:'''</center>
+|-
+|
+:''"Valaste is working the problem out of the Marbruk Guildhall. See you there, Adept."''
+|
+:''"Valaste is working the problem out of the Shornhelm Guildhall. See you there, Adept."''
+|
+:''"Valaste is working the problem out of the Stormhold Guildhall. See you there, Adept."''
+|}
+
+You can ask a bit why the translation is difficult:
+:'''Why is this one proving so difficult?'''
+:''"The Mad God is a deranged skeever, that's why it's proving so difficult. There's not so much actual text … the last two have had clues we could use to unravel his nonsense. This one is nothing but nonsense!"''
+
+When you enter the [[ON:Circus of Cheerful Slaughter (place)|Circus of Cheerful Slaughter]], Sheogorath will have you participate in his play ''[[Online:The Folly of Isolation|The Folly of Isolation]]''. While Shalidor does not appear in the realm itself, there will be "interludes" which show fragments of Shalidor's life.
+
+In the first scene a spectral Shalidor is seen speaking to his adepts in the ruins of a hall: 
+:'''Arch-Mage Shalidor:''' ''"The world is a cruel place, my assistants. Mages are envied their power, and reviled for using it. We must have a place where we can study in seclusion. A place where all Mages can be safe."''
+
+On the path to Daggerwaymore, Shalidor will appear a few times. The first time he is celebrating his success:
+:'''Arch-Mage Shalidor:''' ''"{{sic|Ulfsild the Evergreen|Ulfsild. Her title was added in the subtitles with update 42, but the audio is still the original}}, I did it! I have created a sanctuary, a retreat that will endure for eons! I shall call it … Eyevea!"''
+
+Shortly after you move forward, he will be cursing at Sheogorath:
+:'''Arch-Mage Shalidor:''' ''"Sheogorath! You bastard, the Folium Discognitum wasn't worth an island! I'll get Eyevea back, even if it takes three lifetimes!"''
+
+Shalidor appears again at a campfire, this time he is drunk and angry:
+:'''Arch-Mage Shalidor:''' ''"Damn the Mad God. Damn Ulfsild! Damn the lot of them!"''
+:'''Arch-Mage Shalidor:''' ''"They'll see … they'll all see. Archmage Shalidor's name will ring across history!"''
+
+[[File:ON-quest-Circus of Cheerful Slaughter 07.jpg|thumb|Ulfsild and Shalidor]]
+In the final scene on the path, Shalidor will be writing notes while his wife Ulfsild attempts to get his attention:
+:'''Ulfsild the Evergreen''': ''"Shalidor! Eyevea is lost … you're obsessed! Can you even hear me?"''
+:<Shalidor continues to write, making no sign that he heard her.>
+:'''Ulfsild the Evergreen''': ''"That island was as much my home as yours. My work, my legacy, locked away forever."''
+:<He continues to write.>
+:'''Ulfsild''': ''"I can't do this anymore. I've moved on, but you never will."''
+:<He continues to write.>
+:'''Ulfsild the Evergreen''': ''"Goodbye … you silly old man."''
+:<Ulfsild disappears, Shalidor stops writing and looks around.>
+:'''Arch-Mage Shalidor:''' ''"Ulfie … my love? I swear I just heard you. Where did you go?"''
+
+Once you reach Daggerwaymore to begin the final act, Sheogorath will make facsimiles of Shalidor, Valaste and Vanus Galerion appear in the ruined buildings. You will need to save them from being killed by the Covenant leaders. When you rescue Shalidor he will admit something before disappearing:
+:'''Arch-Mage Shalidor:''' ''"I would have given up the island for her. She never gave me the chance to decide …. My wife …."''
+
+===Chateau of the Ravenous Rodent===
+Eventually Shalidor will contact you once the translation of the next book is finished:
+:''"Adept. We need your support once again. Valaste has translated the book you earned in Sheogorath's mad play."''
+:'''You know what our next challenge will be?'''
+:''"Aye. She's ready to summon the portal for you. I'll meet you in the Isles. Just … hurry if you please, adept. I'm worried."''
+:'''Where can I find her?'''
+{|class=hiddentable
+|width=33%|<center>'''{{ESO AD}} Aldmeri Dominion:'''</center>
+|width=33%|<center>'''{{ESO DC}} Daggerfall Covenant:'''</center>
+|width=33%|<center>'''{{ESO EP}} Ebonheart Pact:'''</center>
+|-
+|
+:''"You'll find the Mistress of Incunabula in the depths of the jungle, at the Baandari Trading Post in [[Online:Malabal Tor|Malabal Tor]]. Good luck, Adept."''
+|
+:''"You'll find the Mistress of Incunabula in the deserts of Alik'r, at the Guildhall in [[Online:Sentinel|Sentinel]]. Good luck, Adept."''
+|
+:''"You'll find the Mistress of Incunabula in the snows of my homeland, at the Guildhall in [[Online:Windhelm|Windhelm]]. Good luck, Adept."''
+|
+|}
+
+After learning of Valaste's location, you can ask Shalidor why he is so worried about her.
+:'''Why did you say you were worried?'''
+:''"It's Valaste. She's been working night and day to understand these books. Sheogorath has a warped and twisted mind, and I worry that this work is taking a toll on her."''
+:'''Is there anything I can do?'''
+:''"Honestly, Adept, no. Valaste has a singular mind. As long as those books are cursed such that I can't read them, she's our best and only chance. She's almost as smart as I am!<br>Just don't tell her I said that."''
+
+Once you have entered the [[Online:Chateau of the Ravenous Rodent (place)|Shivering Isles]] with Valaste's help, Shalidor will appear before you.
+:'''Arch-Mage Shalidor''': ''"Good. You've arrived."''
+
+When you speak with him, Shalidor will begin to debrief you.
+:''"Welcome back to the Isles, adept. We must be wary. This part of Sheogorath's realm is twisted and corrupt."''
+:'''Well met, Shalidor. Do you have any sense of what we might face here?'''
+:''"I'm not sure. I've never been to this part of the Shivering Isles before. We're after the final tome, though, so we have to assume he has something truly perverse waiting in the wings. Certainly Valaste has suffered enough."''
+:'''You were right. There's something wrong with Valaste.'''
+{|class=hiddentable
+|width=50%|<center>'''If you spoke with Valaste before entering the portal:'''</center>
+|width=50%|<center>'''Version Two:'''</center>
+|-
+|
+:''"Yes! It is as I said. She has worked herself night and day. And Sheogorath's dark intellect is focused through those tomes. They are like a stain on her mind. I think we have to … wait. Do you feel that?"''
+:'''Feel what?'''
+|
+:''"You have noticed as well, then? She has worked herself night and day. And Sheogorath's dark intellect is focused through those tomes. They are like a stain on her mind. I think we have to … wait. Do you feel that?"''
+:'''Feel what?'''
+|}
+
+At this point Sheogorath will appear on the path before you and Shalidor will turn around to face him.
+:'''Sheogorath''': ''"Not so fast there, Shalidor. Only invited guests at the Chateau. We have standards, you know."''
+:'''Arch-Mage Shalidor''': ''"Damn you, Mad God!"''
+:'''Sheogorath''': ''"Don't let the door hit you on the way out, Shally."''
+:<Sheogorath waves his hand at Shalidor.>
+:'''Sheogorath''': ''"Annnd … off you go!"''
+:<Shalidor disappears and Sheogorath focuses on you.>
+:'''Sheogorath''': ''"Just the two of us. Now we can talk in peace."''
+
+Though Shalidor is no longer physically there, he is able to perceive what is happening and will offer you advice and commentary about your trials in the Chateau.
+
+When you arrive in the Chateau's guesthouse, you will need to evict one of the guests. Shalidor is able to give some advice before Sheogorath chimes in.
+:'''Arch-Mage Shalidor''': ''"Be wary. Talk to these "guests" carefully before you try to throw anyone out."''
+:'''Sheogorath''': ''"I can hear you, Shally! Don't bother my guests!"''
+:'''Arch-Mage Shalidor''': ''"You're the only one that thinks you're funny, Mad God!"''
+
+While navigating the maze, Sheogorath and Shalidor can be heard to argue while the latter encourages you.
+:'''Arch-Mage Shalidor''': ''"You've faced darkness before, adept. Remember your training."''
+:'''Sheogorath''': ''"No cheating, Shalidor! Don't ruin this for me."''
+
+After lighting two of the four braziers:
+:'''Arch-Mage Shalidor''': ''"Only two more to go. This trial is child's play."''
+:'''Sheogorath''': ''"I'm going to bind you to haunt a little old lady in Wayrest! Does that sound fun, Shally?"''
+
+While exploring the manse you will encounter feral madmen, members of Sheogorath's family. Shalidor pities them while Sheogorath just wonders how Shaidlor keeps getting in to commentate.
+:'''Arch-Mage Shalidor''': ''"Those poor souls. Sheogorath's "family.""''
+:'''Sheogorath''': ''"How do you keep getting back in here? I blame Haskill."''
+:'''Arch-Mage Shalidor''': ''"Apparently, not everything is under your control!"''
+:'''Sheogorath''': ''"Not yet, anyway."''
+
+===The Mad God's Bargain===
+When Shalidor contacts you again, he will be in a much better mood. He will say:
+:''"Adept, good to see you!"''
+
+Speaking to him:
+:''"I have great news for you, Adept!"''
+:'''What's the news?'''
+:''"Valaste has finished final analysis of the tomes! We're ready to get my island back!"''
+:'''Where can I find her?'''
+{|class=hiddentable
+|width=33%|<center>'''{{ESO AD}} Aldmeri Dominion:'''</center>
+|width=33%|<center>'''{{ESO DC}} Daggerfall Covenant:'''</center>
+|width=33%|<center>'''{{ESO EP}} Ebonheart Pact:'''</center>
+|-
+|
+:''"She's preparing a ritual space at the Rawl'kha Guildhall in Reaper's March. I'll see you there, Adept. We're so close!"''
+|
+:''"She's preparing a ritual space at the Evermore Guildhall in Bangkorai. I'll see you there, Adept. We're so close!"''
+|
+:''"She's preparing a ritual space at the Riften Guildhall in The Rift. I'll see you there, Adept. We're so close!"''
+|}
+:'''You seem excited, Shalidor.'''
+:''"Of course! This is what we've worked for, all this time. Putting up with the mocking and insults, Sheogorath's poor attempts at humor. We'll recover the isle, and the Guild will have a safe haven from the war!"''
+
+When you arrive at the mentioned guildhall, Valaste will have gotten worse. You will then need to place the four books around the ritual circle so Shalidor can appear.
+:'''Arch-Mage Shalidor''': ''"Ahh … the ebb and swell of magicka. How I missed this."''
+[[File:ON-quest-The Mad God's Bargain.jpg|thumb|right|Shalidor ready to begin the ritual to bring Eyevea back to Tamriel]]
+You can then talk to Shalidor who will be ready to reclaim his island.
+:''"We've done it! We're finally ready to take back my island."''
+:'''What's the plan?'''
+:''"I'll use the combined powers of the books and wrench the isle back to Tamriel. Sheogorath has lost, adept. We're almost there."''
+:'''What can we expect on the island?'''
+:''"It's a lush place, gorgeous and vibrant. We have guild members poised across Tamriel, ready to join us there. It will be the perfect place for the guild to study in peace. It will be glorious."''
+:'''Shalidor, Valaste is not well.'''
+:''"I … I know. She's very tired, even worse than before. But she's done masterful work in translating these books. And I'm sure she'll be an asset once we reach the island. She'll have plenty of time to rest soon enough!"''
+:'''She's exhausted, and speaking strangely.'''
+:''"I suppose she has been garbling her words a bit. I just assumed that it was due to mortal frailty … I sometimes forget how fragile you are. We will watch over her together, my friend."''
+:'''But the trials are over, right?'''
+:''"I believe so. I'm sure you're as sick of the Mad God's games as I am. <br>Now come. I will perform the ritual and open a portal to our new home."''
+
+He will then begin the ritual.
+:<Shalidor holds his hands as if in prayer.>
+:'''Arch-Mage Shalidor''': ''"Tomes! Attend me!"''
+:<The four tomes then leave their pedestals and whirl around him as he levitates.>
+:'''Arch-Mage Shalidor''': ''"Now … I reclaim what was taken from me. Eyevea! Hear my call!"''
+A blue-green light haze will fill the area as the portal opens. Shalidor senses something after the portal is created.
+:'''Arch-Mage Shalidor''': ''"Something is wrong. I sense … Adept, Valaste. Follow me!"''
+
+When you arrive on Eyevea, you will find various Daedra roaming the island. An angry Shalidor can be found in front of a smoking corpse of a Daedroth.
+:''"Damn me for a fool! Why did I trust that madman?"''
+:'''What do you mean?'''
+:''"What do I mean? Look at this place! The island is overrun with Daedra. Sheogorath has given us the apple, but it's riddled with worms."''
+:'''What do we do?'''
+:''"There's a grand hall in the center of the island. We'll be able to survey the situation better from that vantage point. You and Valaste make your way up this path. I'll meet you there."''
+:'''See you there.'''
+
+Shalidor will then leave you as you and Valaste make your way to the hall. However, when you arrive at the hall, Shalidor will be shouting at Sheogorath who is standing in front of the hall's entrance which has a glowing purple ward on it.
+:'''Arch-Mage Shalidor:''' ''"This is not what we agreed to, Mad God! Leave this place."''
+:'''Sheogorath''': ''"Careful, mage. Remember who you're talking to."''
+:<Sheogorath notices you and binds Shalidor in place with butterflies.>
+:'''Sheogorath''': ''"Our mortal friend has arrived! Be quiet now, Shally. Adults talking."''
+
+After you speak with Sheogorath who will make dark hints about Valaste's state and explain how to close the daedra portal, he will leave and Shalidor will freed. You can then talk to Shalidor to explain what you heard.
+:''"Damn it. What was I thinking, attacking the Prince of Madness?"''
+:'''Sheogorath said something about Valaste, and the curse he placed on the books?'''
+:''"Wait, adept … you're not making sense. What do you mean? Sheogorath put that curse on those books to slow us down, make the task more time-consuming."''
+:'''He said he knew there were only a few people in the guild that could translate the books.'''
+:''"Then … the curse was meant to put the books in front of Valaste. She was meant to read them. Adept, this is very worrying. But we need to deal with this after the island is safe."''
+:'''What about Valaste?'''
+:''"She'll be with you! She'll be fine for the moment. <br>Valaste, go with our friend here to close the portals. The adept will keep you safe."''
+:'''What will you be doing?'''
+:''"Sheogorath left a powerful ward on this building. I'll need a few moments to crack it open. Go! I should be done here by the time you return."''
+:'''We'll see it done.'''
+
+He will then get to work:
+:'''Arch-Mage Shalidor:''' ''"Go! Close the portals! I will see this done."''
+
+Speaking to him while he's trying to open the door:
+:''"I'll keep working to open this door.<br>Go close the portals. Hurry!"''
+
+Once you start placing the crystals:
+:''"They're all closed? Good, now place the crystals and the barrier should fade."''
+
+Once you have destroyed the crystals and return to Shalidor, he will have managed to make a hole in the wards.
+:''"Thanks to you, the island is ours! Now you'll just need to claim the hall and kick Sheogorath back to the Shivering Isles."''
+:'''I'll need to claim the hall? What about you and Valaste?'''
+:''"I've put a crack in his ward, but no more. The Mad God's power is formidible, even here. You and Valaste may enter. I may not. Just make sure to watch after her. I can see the state she's in."''
+:'''As we dealt with the portals, she began to become more agitated. Raving.'''
+:''"I fear the Mad God may have gotten the better of us. But perhaps something can be done. Go inside, deal with Sheogorath. We've come too far to be put off by his tricks now."''
+:'''I'll take care of him.'''
+
+Shalidor will attack the ward a final time to break it:
+:'''Arch-Mage Shalidor''': ''"You can do this adept. You've proven yourself, that you're up to this. Good luck!"''
+:<Once the door is unlocked, Valaste will run in ahead of you.>
+:'''Valaste''': ''"I can hear him! I'm coming Uncle Sheo!"''
+
+If you speak with him before entering the hall.
+:''"Don't worry. I'll speak with her. Go, face Sheogorath. You'll do her more good in there than out here."''
+
+When you enter the hall, you will be forced to fight Haskill. Once you have won, Shalidor will arrive, and you can watch the confrontation. However, the Mad God has his eyes fixed on someone else.
+:'''Arch-Mage Shalidor:''' ''"Enough with the games, Sheogorath. Are you going to relinquish the island to us or not?"''
+:'''Sheogorath''': ''"All right, all right. Settle down. I'll just gather my things and go. Valaste! Dearie, why don't you come over here?"''
+:<Valaste will run into the room.>
+:'''Valaste''': ''"Uncle Sheo? Are we going somewhere?"''
+:'''Sheogorath''': ''"Yes, little one. You're coming with me. Home to the Shivering Isles! Won't that be nice?"''
+:'''Arch-Mage Shalidor:''' ''"Mad God, stay back! Valaste isn't yours to take!"''
+:'''Sheogorath''': ''"Isn't she though? I can see it on her face, smell it in the air. She's crazy, mad, a lunatic. All that time with Uncle Sheo's stories and she's got the urge to visit the Isles. My Shivering Isles."''
+:'''Valaste''': ''"I do! I want to go with Uncle Sheo! He's got the butterflies! I love butterflies!"''
+:'''Sheogorath''': ''"Hmm, this is a conundrum. A riddle, a … choice. I tell you what, mortal. Why don't we let you decide? Should Valaste stay? Or come with me to the dear old Isles?"''
+:'''Arch-Mage Shalidor:''' ''"And if the adept decides she goes with you?"''
+:'''Sheogorath''': ''"Well, as it happens I have one more book here. I'd give it to you in exchange for Valaste. It's called … the Folium Discognitum."''
+:'''Arch-Mage Shalidor:''' ''"Sheogorath, you bastard! You'd throw the Folium back in my face, after all these years?"''
+:'''Sheogorath''': ''"Wrote it myself, it's a delightful little artifact. It imbues the reader with the knowledge of madmen! It's very powerful … worth oh, four or five of those [[Online:Skyshards|skyshard]] things you adventurers are always looking for."''
+:'''Sheogorath''': ''"So! Valaste stays and I cure her. Or … she goes with me and you, my little mortal, become much more powerful. Your choice!"''
+
+With this important decision pending, you have the option of speaking with Valaste and Shalidor before answering Sheogorath.
+:''"Adept, you cannot listen to this offer. This is the exact same offer Sheogorath made me when I first lost Eyevea!"''
+:'''What happened?'''
+:''"Life for an Arch-Mage is measured in decades, not years. The rituals I performed extended my life, allowed me to continue my work … but eventually even I began to slow down."''
+:'''And he offered you this Folium?'''
+:''"I began work on a powerful artifact, a key to the inner workings of life itself. Glamoril … but that's neither here nor there. The point is I reached a critical juncture where even my knowledge and power failed me. I needed more."''
+:'''And in the bargain, you lost Eyevea.'''
+:''"Yes. I'd read all of the Accords of Madness. I knew the lessons of King {{Sic|Lyrandir|Lyandir}}, Leopold Arsenault, Darius Shano … and still I failed. Don't make the mistakes we did, adept. Reject this madman's offer."''
+
+Speaking to him again before a decision to be made:
+:''"Remember what I said, adept. Don't make the same mistake I did. A woman's life isn't worth personal power."''
+
+If you decided save Valaste, Sheogorath will announce your choice:
+:'''Sheogorath''': ''"The mortal's decided to let Valaste stay! So, this is where I say my goodbyes. Mortal, nice working with you! Shalidor … never change."''
+:<Sheogorath points his finger at Valaste and a stream of magenta light flows out of her.>
+:'''Sheogorath''': ''"Valaste … sorry dear. Say goodbye to the little dreamlings!"''
+:<The beam of energy stops and Valaste looks exhausted.>
+:'''Sheogorath''': ''"The Prince of Madness doesn't stay where he's not wanted … heh, except when he does. But in this case, he doesn't! Until next time, Magelings!"''
+:<Sheogorath and Haskill leave.>
+:'''Valaste''': ''"It's like … it's like a fog has lifted from inside my mind. Adept, I don't know what to say. You've saved me from a fate worse than death."''
+:'''Arch-Mage Shalidor:''' ''"Valaste … are you?"''
+:'''Valaste''': ''"Yes, I'm … all right, Shalidor. I'm myself again."''
+
+Speaking with Shalidor before checking on Valaste:
+:''"We've done it. The island is ours. We've won!"''
+
+Once you have spoken with Valaste, Shalidor will head outside the hall:
+:'''Arch-Mage Shalidor:''' ''"I can't stay in here, adept. Let us speak some more outside."''
+
+However, if you decided take the Folium Discognitum, you will need to speak with Sheogorath again. He will then announce your choice to the room. Shalidor can only look on in dismay while Sheogorath takes Valaste away.
+:'''Sheogorath''': ''"The mortal's decided to let Valaste go with me! Valaste, dearie, come on over. You're coming with Uncle Sheo."''
+:'''Valaste''': ''"Yay! The butterflies! I love to watch them flutter!"''
+:'''Arch-Mage Shalidor:''' ''"He's … he's won again. Please don't take her, Mad God!"''
+:'''Sheogorath''': ''"Oh, don't worry, she's in good hands! And this is where I say my farewells. Mortal, nice working with you! Shalidor … never change. Say goodbye, dearie."''
+:'''Valaste''': ''"Goodbye! I'll miss you!"''
+:'''Sheogorath''': ''"Until next time, Magelings!"''
+:<Sheogorath, Haskill and Valaste leave in purple light. Shalidor doesn't want to stay either.>
+:'''Arch-Mage Shalidor:''' ''"I can't stay in here, adept. Let us speak some more outside."''
+[[File:ON-quest-The Arch-Mage's Boon.jpg|thumb|right|Shalidor bestows the Eidetic Memory]]
+
+===The Arch-Mage's Boon===
+After you have won back Eyevea, and help decide Valaste's fate, Shalidor will ask you to meet him outside:
+:'''Arch-Mage Shalidor ''': ''"I can't stay in here, adept. Let us speak some more outside."''
+
+Once outside, he will ask you to approach him:
+:'''Arch-Mage Shalidor ''': ''"Come here, Adept. I have something for you."''
+
+Shalidor will have special gift to give you, though his words will depend on the choice you made concerning Valaste verses Power:
+{|class=hiddentable
+|width=50%|<center>'''You chose to save Valaste:'''</center>
+|width=50%|<center>'''You chose more [[ON:Skill Points|Power]]:'''</center>
+|-
+|
+:''"Adept. You've done so much for the Guild. I couldn't let you leave without a final gift. This old Arch-Mage has a spell he's been saving just for you."''
+:'''A gift?
+:''"During my time on Tamriel, I developed a very useful spell. A memory charm of sorts. Rather than wasting my time puttering around in libraries trying to find a book, the spell allows me to recall it instantly.<br>If you'll allow me?"''
+:'''Go ahead, Shalidor.'''
+
+He will then begin the ritual:
+:'''Arch-Mage Shalidor ''': ''"Just need a moment to prepare … this spell has proven very handy. Once saved my life when I came up against a rhyming spirit. She demanded every answer to her questions be answered with a couplet."''
+
+Shalidor will channel the magic for a few moments:
+:'''Arch-Mage Shalidor ''':''"There we go. I'm ready. Call it "Shalidor's Library of the Mind." Hah!"''
+
+You can then talk with him when you are ready:
+:''"Shor's bones, I can't thank you enough. In time, the body you and Valaste have formed for me will fade. But with this charm, you'll never forget our trials together. I take comfort in that.<br>Are you ready?"''
+:'''I'm ready.'''
+:''"Then accept the gift of Eidetic Memory. Remember now every tome, every book, every scrap of paper you have ever read.<br>And remember, too, the tale of Eyevea's return to Tamriel, and the story of the Adept who made it happen."''
+
+You will then levitate in the air as you receive the Eidetic Memory ability.
+:'''Arch-Mage Shalidor ''': ''"Don't be a stranger, Adept. Eyevea is another home for you, now, as it is for every Mage in Tamriel."''
+|
+:''"Adept. You've done so much … I thought you were the Guild's future. But I cannot ignore the choice you made concerning Valaste's fate. I would give you a gift. A gift, and a warning."''
+:'''A gift?'''
+:''"During my time on Tamriel, I developed a very useful spell. A memory charm of sorts. It allows me to recall a book, any moment in time, instantly and without pause. I would ask you to accept it as a gift for your service … and as penance."''
+:'''Go ahead, Shalidor.'''
+
+He will then begin the ritual:
+:'''Arch-Mage Shalidor ''': ''"Just need a moment to prepare … Adept, I don't blame you for choosing as you did. I made the same choice, years ago. I just hope … I thought you were better than that. Now, I hope you remember the look on her face. For all your years."''
+
+Shalidor will channel the magic for a few moments:
+:'''Arch-Mage Shalidor ''': ''"There, I'm ready. Call this "Shalidor's Library of the Mind.""''
+
+You can then talk with him when you are ready:
+:''"In time, the body you and Valaste have formed for me will fade. But with this charm, you'll never forget our trials together. The decision you made. I take comfort in that.<br>Are you ready?"''
+:'''I'm ready.'''
+:''"Then accept the penance of Eidetic Memory. Remember now every tome, every book, every scrap of paper you have ever read.<br>And remember, too, the tale of Eyevea's return to Tamriel, and your role in that tale."''
+
+You will then levitate in the air as you receive the Eidetic Memory ability.
+:'''Arch-Mage Shalidor ''': ''"Be sure to come back, Adept. Eyevea is another home for you, now, as it is for every Mage in Tamriel. Valaste would have wanted it this way."''
+|}
+
+If you speak with him afterwards, he wish you well regardless of the choice you made: 
+:''"Good luck, my friend. Wherever your travels take you next, know that you have all of the Guild at your back."''
+<!--"I'll be honest, adept. I can barely stand to look at you. Sending an intelligent woman like Valaste off with that creature. But … I feel honor bound to offer you a final gift."-->
+
+==Skills and Abilities==
+When Arch-Mage Shalidor is your follower, he uses the following ability:
+;Flare:Basic ranged attack dealing low [[ON:Flame Damage|flame damage]].
+
+==Deprecated Content==
+With [[Online:Update 42|Update 42]], the exchange during [[ON:Circus of Cheerful Slaughter|Circus of Cheerful Slaughter]] was changed to better fit the updated backstory as shown in the Scribing questline.
+
+The original scene went as follows:
+:'''Ulfsild''': ''"You didn't come home last night. I waited all night for you. Have you been working this entire time?"''
+:<Shalidor continues to write, making no sign that he heard her.>
+:'''Ulfsild''': ''"Shalidor! Eyevea is lost … you're obsessed! Can you even hear me?"''
+:<He continues to write.>
+:'''Ulfsild''': ''"I can't do this anymore. You love your spells and scrolls more than you love me. I'm leaving you. Can you hear me now?"''
+:<Silence.>
+:'''Ulfsild''': ''"Goodbye … you stupid old fool."''
+:<Ulfsild disappears, Shalidor stops writing and looks around.>
+:'''Arch-Mage Shalidor:''' ''"Ulfie … my love? I swear I just heard you. Where did you go?"''
+
+==Notes==
+* Arch-Mage Shalidor is the creator of [[ON:Shalidor's Shrouded Realm|Shalidor's Shrouded Realm]].
+* He is voiced by [[wikipedia:Michael Gough (voice actor)|Michael Gough]] ([[IMDbName:0299855|IMDb]]).
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

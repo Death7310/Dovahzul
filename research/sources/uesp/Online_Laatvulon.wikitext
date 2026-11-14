@@ -1,0 +1,204 @@
+{{Mod Header|Dragonhold}}
+{{Online NPC Summary
+|image=ON-creature-Laatvulon 03.jpg
+|imgdesc=Laatvulon
+|loc=[[ON:Zazaradi's Quarry and Mine|Zazaradi's Quarry and Mine]], [[ON:New Moon Fortress|New Moon Fortress]], [[ON:Halls of the Highmane (place)#Path of Pride|Path of Pride]], [[Online:Doomstone Keep|Doomstone Keep]]
+|race=Dragon
+|health=3,821,103
+|creature=1
+|reaction=Friendly
+|faction={{Faction|Order of the New Moon (faction)}}
+}}
+'''Laatvulon''' is a powerful [[ON:Dragon#Frost Dragon|frost dragon]] and the leader of the [[ON:Order of the New Moon (faction)|Order of the New Moon]]. He is the ancient enemy of [[ON:Nahfahlaar|Nahfahlaar]]. The [[Online:Dragonguard|Dragonguard]] called him the Black Beast, as he has a fearsome nature and ravenous appetite. Laatvulon is skilled in necromancy and frost magic.
+{{TOCright}}{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|Uneasy Alliances}}
+* {{Quest Link|Order of the New Moon}}
+* {{Quest Link|The Pride of Alkosh (quest)}}
+* {{Quest Link|The Dragonguard}}
+
+==Quest-Related Events==
+===Uneasy Alliances===
+When you and [[ON:Aeliah Renmus|Aeliah Renmus]] finally find [[ON:Yahgrondu|Yahgrondu]], Laatvulon is trying to convince Yahgrondu to swear his allegiance to Laatvulon. 
+:'''Laatvulon:''' ''"Join me, brother. My master's power is limitless and he will share it with his devoted."''
+:'''Yahgrondu:''' ''"I will die before I bow to you or your master, Laatvulon."''
+:'''Laatvulon:''' ''"If you insist."''
+:'''Aeliah Renmus:''' ''"Laatvulon! And the other Dragon ... is that Yahgrondu?"''
+
+As you descend through the mine, you can hear Laatvulon again:
+:'''Laatvulon:''' ''"You asked for this, Yahgrondu!"''
+:<Laatvulon will breath ice breath on Yahgrondu.>
+:'''Aeliah Renmus : ''' ''"Damn it. I hope we aren't too late."''
+
+Laatvulon kills Yahgrondu before you can reach him. When he notices your intrusion, Laatvulon commands [[ON:Ra'khajin|Ra'khajin]] to raise Yahgrondu's corpse before flying off:
+:'''Laatvulon:''' ''"Intruders. Worthless pests. Deal with them, Ra'khajin."''
+:'''Ra'khajin:''' ''"With pleasure, my master! Rise, Yahgrondu. Demonstrate your loyalty!"''
+:'''Aeliah Renmus:''' ''"He's turning Yahgrondu into some sort of monster! We have to stop him!"''
+
+===Order of the New Moon===
+[[File:ON-creature-Laatvulon.jpg|thumb|right|Laatvulon]]
+Laatvulon is seen again in the [[ON:New Moon Fortress|New Moon Fortress]], where he is carrying out a ceremony, and is accompanied by his fellow dragons. The New Moon cultists will gather in front of three large Aeon crystals:
+:'''Joorahmaar:''' ''"You promised us power, Laatvulon."''
+:'''Laatvulon:''' ''"And you shall have it, my brother."''
+:<Laatvulon addresses the cultists.>
+:'''Laatvulon:''' ''"The New Moon will rise above, and all who obey shall rise with it!"''
+:'''Laatvulon:''' ''"Relinquish your strength to the aeonstone! Offer your power to our noble cause!"''
+:'''Laatvulon:''' ''"Your power is mine. Los dii!"''
+:<Green light surrounds the cultists as Laatvulon shouts, and green fire streams from the cultists into the crystals.>
+:'''Caska:''' ''"This doesn't look good."''
+
+When you disrupt the ritual by destroying some of the crystals, Laatvulon will be furious:
+:'''Laatvulon:''' ''"Who dares disrupt our ritual?"''
+:'''Laatvulon:''' ''"Krii volaanne! Kill them all!"''
+
+When you escape through the door behind you, he calls out to his minions:
+:'''Laatvulon:''' ''"Find them! Do not let them escape!"''
+
+As you escape the fortress, he taunts you and breath ice breath onto you:
+:'''Laatvulon:''' ''"You shall not escape!"''
+:'''Laatvulon:''' ''"This fortress will be your grave!"''
+
+He calls out to you while you run through the cave.
+:'''Laatvulon:''' ''"Do not think you can elude me!"''
+:'''Laatvulon:''' ''"You will not escape!"''
+
+Laatvulon will use frost breath and call Bone Flayers on you when you reach the ravine.
+:'''Laatvulon:''' ''"Feel my freezing might!"''
+:'''Laatvulon:''' ''"I will crush you!"''
+:'''Laatvulon:''' ''"Fo Krah Diin!"''
+
+When you've finally escaped, by jumping down a waterfall:
+:'''Laatvulon:''' ''"Where are you, little hunter?"''
+:'''Caska:''' ''"Good, you made it. I think we lost them for now."''
+
+===The Pride of Alkosh===
+[[File:ON-creature-Laatvulon_02.jpg|thumb|right|Laatvulon summons frosty skeletons]]
+When you enter the cave area in the Walk of Ancient Kings, Laatvulon acknowledges your presence.
+:'''Laatvulon:''' ''"You seek the mask? Very well. My champion awaits."''
+
+He summons frosty [[ON:Boneflayer|boneflayers]], [[ON:Skeletal Archer|skeletal archers]] and [[ON:Skeletal Soldier|skeletal soldiers]] to face you on your way up the hill.
+
+When Ra'khajin is at around 85% health:
+:'''Ra'khajin:''' ''"Laatvulon, help me!"''
+:'''Laatvulon:''' ''"I am with you, my champion!"''
+
+Ra'khajin disappears, and Laatvulon circles around the Mask of Alkosh's resting place, breathing frost. Ra'khajin reappears after Laatvulon reclaims his perch on top of the hourglass.
+
+At around 60% health:
+:'''Ra'khajin:''' ''"Master, lend me your power!"''
+:'''Laatvulon:''' ''"Suleyki hin!"''
+
+Ra'khajin disappears again so Laatvulon can aid him.
+
+At around 40% health:
+:'''Ra'khajin:''' ''"It can't end like this! Laatvulon!"''
+:'''Laatvulon:''' ''"Very well."''
+
+Ra'khajin disappears again so Laatvulon can aid him.
+
+At 30% health, Laatvulon forsakes his priest.
+:'''Laatvulon:''' ''"You are no champion, Ra'khajin."''
+
+After Ra'khajin is dead, Laatvulon turns to face you.
+:'''Laatvulon:''' ''"I will have to kill you myself."''
+
+Suddenly, Nahfahlaar swoops in.
+:'''Nahfahlaar:''' ''"Laatvulon!"''
+:'''Nahfahlaar:''' ''"Your fight is with me!"''
+:'''Laatvulon:''' ''"A challenge? Very well, brother. Let us end this."''
+
+He flies off after Nahfahlaar.
+
+===The Dragonguard===
+Fighting your way through [[Online:Doomstone Keep|Doomstone Keep]] after empowering the Mask of Alkosh, you will see Laatvulon will try to be powered up by aeonstone by his cultists.
+
+Eventually you will reach Laatvulon, whereupon Nahfahlaar challenges him:
+:'''Nahfahlaar:''' ''"The time has come, Laatvulon. Our battle shall end here."''
+:'''Sai Sahan:''' ''"We must aid Nahfahlaar! Dragonguard, to me!"''
+
+Once you get to the standoff between the two Dragons, the two Dragons will hurling fire attacks onto each other:
+:'''Laatvulon:''' ''"I know not how these mortals revived you, but they shall not do so again!"''
+:'''Nahfahlaar:''' ''"I am your foe! You shall face me."''
+:'''Sai Sahan:''' ''"This way! Quickly."''
+:<Nahfahlaar lands on a piece of ruin opposite of Laatvulon and blasts him with fire.>
+
+After you dispatched Laatvulon's first wave of undead reinforcements:
+:'''Nahfahlaar:''' ''"Have you no more corpses to call upon, Laatvulon?"''
+:'''Laatvulon:''' ''"I need only my own might to defeat you!"''
+:<Laatvulon blasts Nahfahlaar with frost breath and freezes him.>
+:'''Laatvulon:''' ''"Now, little Mask Bearer. Let us see how you handle my true might!"''
+{{Online NPC Summary
+|image=ON-creature-Laatvulon 04.jpg
+|imgdesc=Laatvulon
+|loc=[[Online:Doomstone Keep|Doomstone Keep]]
+|race=Dragon
+|difficulty=3
+|health=17,439,212
+|creature=1
+|reaction=Hostile
+|faction={{Faction|Order of the New Moon (faction)}}
+}}
+Laatvulon will then jump onto the ground to face you. During this fight, Nahahflaar will periodically be frozen by Laatvulon and then free himself and they will fly around and attack each other. 
+
+The first time Nahfahlaar frees himself:
+:<Nahfahlaar bursts forth from the ice.>
+:'''Nahfahlaar:''' ''"Our father's power strengthens me! I will not be so easily defeated."''
+:'''Laatvulon:''' ''"We shall see about that!"''
+:<Laatvulon summons waves of undead and begins to fly.>
+
+At this point your Dragonguard companions will arrive and help you fight the undead. After flying around, the two dragons land back on the ruins:
+:'''Nahfahlaar:''' ''"You should have stayed in that pit!"''
+:'''Laatvulon:''' ''"Why fight, brother? You cannot hope to win!"''
+:'''Laatvulon:''' ''"Enough of this!"''
+:<Laatvulon freezes Nahfahlaar again and begins attacking you from the air.>
+:'''Laatvulon:''' ''"I should have killed you long ago, Mask Bearer!"''
+
+The third time Nahfahlaar breathes fire on Laatvulon:
+:'''Nahfahlaar:''' ''"I will burn you till naught but ash remains!"''
+:'''Laatvulon:''' ''"Mey! You have no hope of defeating me!"''
+:'''Laatvulon:''' ''"The rule of Dragons cannot be stopped!"''
+:<Nahfahlaar is frozen again.>
+:'''Laatvulon:''' ''"You think you can win? I am unslaad! You cannot end me!"''
+
+As Laatvulon is close to death, Nahfahlaar will say his farewell:
+:'''Nahfahlaar:''' ''"Your life ends here. Pruzah wundunne!"''
+
+When you defeat Laatvulon he will have some final words:
+:'''Laatvulon:''' ''"A hollow victory, mask-bearer. The New Moon … shall rise …."''
+:<Laatvulon dies.>
+:'''Nahfahlaar:''' ''"Well fought, Dragonguard. Laatvulon is slain. Now I shall ensure that nothing remains."''
+
+==Skills and Abilities==
+While Laatvulon has a very large health pool, three times during the fight, Nahfahlaar will breathe fire down on him which will take a large portion of Laatvulon's health away.
+
+;Frost Aura: A constant AoE that surrounds the underside of a dragon, causing frost damage if entered.
+;Freezing Death: If the player remains within the Frost Aura for a set time without dying, they will be one-shot by frost damage.
+;Bite: Dragon bites at target, causes Bleeding damage.
+;Frost Breath: A flight-based attack where an airborne dragon flies over and breathes frost icicles in a straight line, freezing and damaging those caught in its grasp.
+;Ice Trail: The left-over ice from a frost breath attack.
+;Bursting Frostball:
+;Blizzard: Dragon summons a blizzard which causes a snowstorm to surround the area in a large doughnut shape (a torus) - not a circle - centering on the dragon.  Because the effect area is a wide doughnut shape, there are two safe areas: one to the inside of the effect, so melee characters can avoid damage to the inside, and one to the outside of the effect area where ranged characters are just barely in range  ofthe dragon.  Below are the additional effects caused by the blizzard.
+;Freezing Winds: The edges of the summoned blizzard will be marked with fast-moving wind. If you move into this area, you will be buffeted by the wind, causing constant ticks of high frost damage.
+;Ice Fields: Sharp icicles will appear on the ground. If stood on, they will cause [[ON:Frost Damage|Frost Damage]].
+;Soul Tear: A powerful DoT attack. The dragon shouts and targets in range will be surrounded by yellow and purple lights. Their health will then rapidly drain over a set amount of time.
+;Raise Dead: Dragon will shout and a small graveyard will appear. Several frozen [[ON:Boneflayer|Boneflayers]], [[ON:Skeletal Soldier|Skeletal Soldiers]] and [[ON:Skeletal Archer|Skeletal Archers]] will appear. During The Dragonguard, he summons [[ON:Skeletal Berserker|Skeletal Berserkers]] and [[ON:Frozen Colossus (creature)|Frozen Colossi]].
+;Takeoff: If nearby when the dragon launches into the air, you can be buffeted back and injured.
+;Dragon Land: If you are nearby to the dragon as it lands, you will be hurt by the impact.
+;Wing Thrash: A melee attack where a dragon slashes targets on its side with its wing.
+
+==Notes==
+*His name translates to "Last-Dark-Spirit" or "Last-Night" in the [[Lore:Dragon Language|dragon language]].
+
+==Gallery==
+<gallery>
+File:ON-creature-Laatvulon 06.jpg|Laatvulon
+File:ON-creature-Laatvulon 05.jpg|Laatvulon's last words
+File:ON-render-Laatvulon.jpg|[[Online:Renders/Dragonhold|Promotional render]]
+File:LO-book-Dragons in the Second Era.jpg|Promotional render
+</gallery>
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

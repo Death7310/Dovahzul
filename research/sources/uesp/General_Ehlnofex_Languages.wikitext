@@ -1,0 +1,53 @@
+__NOTOC__{{Trail}}
+The exact origins of all [[Lore:Linguistics|languages]] on [[Lore:Nirn|Nirn]] are unknown precisely. The chart below is merely speculative, as there is not enough information to confirm or refute this information, and there are differing opinions as to how these languages developed, but it likely breaks down in the following manner:
+
+{{Chart/start}}
+{{Chart| | | | | | | | | | | | | |NED| |OBT|-|BRT|NED=[[Lore:Old Nedic|Old Nedic]]|OBT=[[Lore:Bretic|Old Bretic]]|BRT=[[Lore:Bretic|Bretic]]|rowspan_NED=18|rowspan_OBT=6|boxstyle=background-color:#FDF5E6}}
+{{Chart| | | | | | | | | | | | | |-}}
+{{Chart| | | | | | | | | | | | | | |-|DRD|DRD=[[Lore:Bretic#Known Druidic Words|Druidic]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| | | | | | | | | | | | | |-|-|RCH|RCH=[[Lore:Reach-tongue|Reach-tongue]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| | | | | | | | | | | | | |-|-|KTR|KTR=[[Lore:Kothringi|Kothringi language]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|EHL| | | | | |ATM|-|-|-|-|-|-|-|-|CYR|EHL=[[Lore:Ehlnofex|Ehlnofex]]|ATM=[[Lore:Nordic#Atmoran Dictionary|Atmoran]]|CYR=[[Lore:Cyrodilic|Cyrodilic]]<br>(Tamrielic)|rowspan_EHL=90|rowspan_CYR=42|rowspan_ATM=6|boxstyle=background-color:#FDF5E6}}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|NRD|NRD=[[Lore:Nordic|Nordic]]|rowspan_NRD=7|boxstyle=background-color:#FDF5E6}}
+{{Chart| | | | | | | |DRG|-|-|DRG=[[Lore:Dragon Language|Dragon-tongue]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| |ALD|-|-|-|-|-|-|-|-|-|-|-|ALD=[[Lore:Aldmeris (language)|Aldmeris]]<br>(Elvish)|rowspan_ALD=34|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|CHI|-|-|DUN|-|-|ASH|CHI=[[Lore:Dark Elvish#Ald Chimeris Dictionary|Ald Chimeris]]|ASH=[[Lore:Dark Elvish#Ashland Dictionary|Ashland]]|DUN=[[Lore:Dark Elvish|Dark Elvish]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|-|-|-|-|-|-|-|-|-|-|PYA|PYA=[[Lore:Maormer#Culture|Maormer language]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|OOR|-|-|-|-|-|-|-|ORS|OOR=[[Lore:Old Orcish|Old Orcish]]|ORS=[[Lore:Orcish|Orcish]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|BOS|BOS=[[Lore:Bosmer#Language|Bosmeri]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|-|-|-|-|-|-|-|-|-|-|DWE|DWE=[[Lore:Dwemeris|Dwemeris]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|-|-|-|-|-|-|-|-|-|-|FAL|FAL=[[Lore:Falmer Language|Falmer]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|ALT|-|-|-|-|-|-|-|-|-|-|-|ALT=[[Lore:High Elvish|High Elvish]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart| |-|AYL|AYL=[[Lore:Ayleidoon|Ayleidoon]]|rowspan_AYL=6|boxstyle=background-color:#FDF5E6}}
+{{Chart| | | | | |-|-|OLC|-|-|-|-|-|-|OLC=[[Lore:Old Cyrodilic|Old Cyrodilic]]|boxstyle=background-color:#FDF5E6}}
+{{Chart|-|-|-|-|-}}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|MNT|MNT=[[Lore:Minotaur|Minotaur]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|AKV|AKV=[[Lore:Tsaesci (race)|Akaviri]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|TAG|TAG=[[Lore:Ta'agra|Ta'agra]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|YOK|YOK=[[Lore:Yoku|Yoku]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|SIN|SIN=[[Lore:Lefthanded Elves|Sinestral language]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|UMB|UMB=[[Lore:Umbriel|Umbrielic]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|GNT|GNT=[[Lore:Giant#Language|Giantish]]|boxstyle=background-color:#FDF5E6}}
+{{Chart| }}
+{{Chart|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|CNT|CNT=[[Lore:Centaur|Centaurian]]|boxstyle=background-color:#FDF5E6}}
+{{Chart/end}}
+
+==See Also==
+*[[General:AFFA's Chart of Tamrielic Language|Douglas Goodall's Chart of Ehlnofex Languages, made for Project Tamriel]]

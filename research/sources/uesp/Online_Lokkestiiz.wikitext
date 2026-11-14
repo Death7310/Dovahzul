@@ -1,0 +1,89 @@
+{{Mod Header|Elsweyr}}
+{{Online NPC Summary
+|image=ON-creature-Lokkestiiz.jpg
+|imgdesc=Lokkestiiz
+|race=Dragon
+|creature=1
+|loc=[[ON:Sunspire|Sunspire]]
+|health={{ESO Veteran|normal=18,177,368|veteran=77,620,640}}<br>{{ESO Veteran|veteran=97,025,800}} (Hardmode)
+|difficulty=3
+|reaction=Hostile
+|faction=
+}}{{TOCright}}
+'''Lokkestiiz''' is a frost [[Online:Dragon|dragon]] residing in the [[ON:Sunspire|Sunspire]], masquerading as an aspect of [[Lore:Jone|Jone]]. Lokkestiiz is known for his freezing breath.
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Return of Alkosh}}
+
+==Skills and Abilities==
+;Shatter: The Frozen Tomb shatters if a player does not stand in it, causing massive damage to the entire group.
+;Frostbolt: Lokkestiiz fires ice at people.
+;Frigid Cold: Lokkestiiz has an aura of cold energy around him. When you are close to him, it causes damage.
+;Frost Breath: Lokkestiiz breathes a blast of frost, indicated by a massive conical AoE.
+;Storm Fury: Lokkestiiz fires off a beam of lightning during flight.
+;Wing Thrash: Lokkestiiz hits you with his wing if you're too close.
+;Aerial Onslaught: At 80%/50%/20% health, Lokkestiiz flies into the air and ceases to be targetable. A large amount of atronachs are summoned into the arena at the same time. From here, Lokkestiiz will perform a strafing run over the arena, breathing electricity that will linger for a time, dealing damage if touched, and will end by performing a massive ice and shock beam that sweeps across the arena, and must be blocked to avoid the immense damage it deals.
+[[File:ON-creature-Lokkestiiz 03.jpg|thumb|right|Storm Fury]]
+;Summon Frost Atronach: Summons a [[Online:Frost Atronach|Frost Atronach]] with {{ESO Veteran|normal=3408258|veteran=19405160}} health.
+;Glacial Fist: Very powerful blow from Lokkestiiz's Frost Atronachs which can easily one shot most players. Indicated by a conical aoe.
+;Ice Spear: 
+
+;Summon Storm Atronach: Summons a [[Online:Storm Atronach|Storm Atronach]] with {{ESO Veteran|normal=321891|veteran=2874839}} health.
+;Meteor: The Storm Atronach enters the arena, causing damage if a player is under it when it spawns. Can be blocked.
+;Unstable Explosion: The Storm Atronach enters execute phase similar to [[Online:Stormfist|Stormfist]]. The atronach must be burned down.
+;Storm Bound: Lightning-based attack from the Storm Atronach.
+
+===Mechanics===
+The damage dealers need to stand in the nook between Lokkestiiz's left wing (your right) and his head without entering his frosty aura. This way, he can't use Wing Thrash and instantly kill anyone. The tank should stand on the opposite side of Lokkestiiz's neck from the damage dealers and hold his attention until he flies up.
+
+Frozen Tombs appear behind the group every 30 seconds. There are three locations they can spawn in, and they spawn in the same order every time. One of the dps needs to run in and enter the circle while one of your healers heals them. If nobody claims the circle, the tombs will begin firing off damage at the rest of the group. This mechanic can be ignored on Normal.
+
+Lokkestiiz will summon storm and frost atronachs. Have the dps ignore the frost atronachs; when the storm atronachs die, they leave behind a field of electricity that instantly kills the frost atronachs if they step in it. The tank needs to drag the frost atronachs into these lightning circles as the damage dealers take the storm atronachs down. [[Online:Mojha|Mojha]] will give you muffled audio cues (they're muffled because he's behind the wall of ice Lokkestiiz erects at the start of battle), telling you to turn the lightning circles against the frost atronachs and melt them.
+
+If Lokkestiiz stops mid-air and targets you, you need to block so you don't get knocked back and take a lot of damage. Avoid his lightning breath, which he occasionally fires off as he's flying overhead. At the end of his flight phase, he'll stop at one end of the arena, fly down low, and fire a beam of lightning out of his mouth, sweeping across the arena to reach the whole party. When he does this, everyone needs to block so they don't die.
+
+==Dialogue==
+[[File:ON-creature-Lokkestiiz 02.jpg|thumb|right|Lokkestiiz lands back on the platform after the group wipes]]
+When you arrive in his roost, and idle in front of him, Lokkestiiz will taunt you:
+:'''Lokkestiiz''': ''"You're boring me, mortals."''
+:'''Lokkestiiz''': ''"Not so brave now. Grovel and I'll forgive your trespass."''
+:'''Lokkestiiz''': ''"Bugs in my bed. How irritating."''
+:'''Lokkestiiz''': ''"I'm waiting."''
+:'''Lokkestiiz''': ''"Are you ignorant to your own mortality? Tragic."''
+:'''Lokkestiiz''': ''"Has futility set in? Do you finally accept your place in the world?"''
+:'''Lokkestiiz''': ''"Simple creatures. Blind to your own insignificance. I admire your audacity."''
+:'''Lokkestiiz''': ''"Gnats who think themselves wolves. Ah, what folly."''
+
+;During the fight:
+:'''Lokkestiiz:''' ''"Does the sound of thunder frighten you, animals?"''
+:'''Lokkestiiz:''' ''"I'll stoop to your level, but it won't save you."''
+:'''Lokkestiiz:''' ''"I love a good storm."''
+:'''Lokkestiiz:''' ''"I'll shout you into dust!"''
+:'''Lokkestiiz:''' ''"On your knees!"''
+:'''Lokkestiiz:''' ''"This is tiresome. Get out of my roost."''
+:'''Lokkestiiz:''' ''"Think you can weather the storm?"''
+:'''Lokkestiiz:''' ''"You'll leave nothing but a crater and a stain!"''
+:'''Lokkestiiz:''' ''"You want to stand shoulder to shoulder with a god? Here I am."''
+:'''Lokkestiiz:''' ''"Are you ignorant to your own mortality? Tragic."''
+
+;Group Wipe:
+:'''Lokkestiiz:''' ''"Ah, mortals. So short-lived and stupid."''
+:'''Lokkestiiz:''' ''"Well, that was underwhelming."''
+:'''Lokkestiiz:''' ''"Time for a well-deserved nap."''
+:'''Lokkestiiz:''' ''"A brief distraction. What more could I expect?"''
+:'''Lokkestiiz:''' ''"Was that it? They seemed so confident too."''
+
+==Notes==
+* His name translates to ''"Sky Tempest Ice"'' in the [[Lore:Dragon Language|Dragon Language]].
+
+==Gallery==
+<gallery>
+File:ON-render-Lokkestiiz.jpg|[[Online:Renders/Elsweyr|Promotional render]]
+File:ON-render-Lokkestiiz 02.jpg|Promotional render
+</gallery>
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

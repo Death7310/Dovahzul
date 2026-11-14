@@ -1,0 +1,62 @@
+{{Mod Header|Dragon Bones}}{{about|the creature|the item set|Thurvokun (set)}}
+{{Online NPC Summary
+|image=ON-creature-Thurvokun.jpg
+|imgdesc=Thurvokun
+|loc=[[Online:Fang Lair|Fang Lair]]
+|race=Bone Dragon
+|creature=1
+|health={{ESO Veteran|normal=1,683,986|veteran=3,594,564}}<br>{{ESO Veteran|veteran=5,427,792}} (Hard Mode)
+|difficulty=3
+|reaction=Hostile
+|faction=
+}}__NOTOC__
+[[File:ON-creature-Thurvokun 02.jpg|thumb|right|Thurvokun casting Plague Breath]]
+'''Thurvokun''' is a long-dead [[ON:Bone Dragon|Dragon]] who once dwelled in the Dwarven ruin of [[ON:Fang Lair|Fang Lair]]. The necromancer [[ON:Orryn the Black|Orryn the Black]] has discovered his remains there and is attempting to resurrect him. At the end of the dungeon, he will succeed in doing so and Thurvokun's undead skeleton must be fought.
+
+In life his Dragon Priest was [[ON:Zaan the Scalecaller|Zaan the Scalecaller]], though he later abandoned her and the Dragon Cult to go to Arkngthamz-Phng and drive the [[ON:Dwemer|Dwemer]] from it so he could inhabit it in isolation. He was one of the few dragons to have survived the [[Lore:Dragon War|Dragon War]], until the adventurers [[ON:Caluurion|Caluurion]], [[ON:Sabina Cedus|Sabina Cedus]], and [[ON:Ulfnor|Ulfnor]] slew him in the late [[Lore:First Era|First Era]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|Casting the Bones}}
+*{{Quest Link|Pledge: Fang Lair}}
+
+==Skills and Abilities==
+As a boss type creature, Thurvokun is immune to all crowd control effects.
+;Icy Bolt: A basic ranged attack that deals moderate frost damage.
+;Biting Cold: Getting hit by Icy Bolt applies a moderate frost damage over time.
+;Cold Snap: The boss swings its tail dealing moderate frost damage and knocking back all players hit in front of it as indicated by three large cones. This attack can be easily avoided by standing in the gaps between cones. Roll dodging will also negate the damage and knockback.
+;Bilious Blight: A large expanding AOE that is placed beneath the boss that deals high disease damage over time. Stay out of it.
+;Revolting Scarab: The boss targets the tank with a projectile that does very high disease damage in a small AOE around the target, as well as summoning two [[ON:Giant Scarab|Giant Scarabs]] to attack the party. This attack must be dodged if possible. The party should also kill the Giant Scarabs as soon as possible, as once they touch the tank they will cast Degenerative Acid. This attack deals minor poison damage over time but reduces the tank's defenses significantly.
+===Merged Phase===
+When Thurvokun is about to die (<5% health), Orryn merges with it healing it back to 50% health. New attacks are added.
+;Terrorizing Roar: The boss fears the party and climbs up above the arena. This attack is always followed by Plague Breath. In hard mode, this attack causes all Wraith Thralls summoned to immediately disappear, and no wraiths will spawn until Plague Breathe is complete and the boss comes back down. Use this downtime to rez allies or heal up as needed.
+;Plague Breath: Thurvokun shoots a disease damage projectile at all party members. This is an instant kill to anyone not protected by Yisareh's buff, which can be collected from the four glowing circles that Yisareh summons. Only one player can use each circle, so coordinate with your party accordingly. Note that one circle is guaranteed to spawn in each quadrant of the arena, so players can decide which quadrant to run towards before the fight starts to avoid overlaps.
+;Empowered Necrotic Swarm: The boss shoots projectiles at all party members dealing minor frost damage over time.
+
+==Achievements==
+The following achievements relate to this Boss:
+{{ESO Achievements List
+|Fang Lair Vanquisher
+|Horrific Halitosis
+|Fang Lair Conqueror
+|Not a Statistic
+|The Quick and the Dead
+|Let Bygones Be Bygones
+|Leave No Bone Unbroken
+|Minimal Animosity
+|Starved Scarabs
+|Cold Pursuit
+}}
+
+==Notes==
+* Thurvokun was originally mentioned in [[Arena:Arena|''Arena'']] as part of the [[Arena:Fang Lair|Fang Lair]] quest (''"Legend has it that a Great Wyrm drove the Dwarves from their home in the Dragon's Teeth, and took the Lair for itself."''), making him the first dragon mentioned in the whole series. However, he was not given a name at the time.
+* ''Thurvokun'' may translate to "Overlord-Opposite-Moonlight" or "Overlord Shadow" in  the [[Lore:Dragon Language|Dragon Language]].
+
+==Gallery==
+<gallery>
+File:ON-creature-Thurvokun 03.jpg|Thurvokun's remains after being defeated
+File:ON-render-Thurvokun.jpg|[[Online:Renders/Dragon Bones|Promotional render]]
+File:ON-render-Thurvokun 02.jpg|Promotional render
+File:ON-render-Fang Lair.jpg|Promotional render
+File:ON-concept-Skeletal Dragon.jpg|Concept art
+</gallery>

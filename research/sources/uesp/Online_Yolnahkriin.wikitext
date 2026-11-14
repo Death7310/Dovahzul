@@ -1,0 +1,83 @@
+{{Mod Header|Elsweyr}}
+{{about|the boss in [[ON:Sunspire|Sunspire]]|the boss in [[ON:Infinite Archive|Infinite Archive]]|ON:Yolnahkriin (Infinite Archive)}}
+{{Online NPC Summary
+|image=ON-creature-Yolnahkriin.jpg
+|imgdesc=Yolnahkriin
+|race=Dragon
+|creature=1
+|loc=[[ON:Sunspire|Sunspire Temple Grounds]]
+|health={{ESO Veteran|normal=22,721,708|veteran=116,430,960}}
+{{ESO Veteran|veteran=145,538,704}} (hard mode)
+|difficulty=3
+|reaction=Hostile
+|faction=
+|drops=
+}}[[File:ON-creature-Yolnahkriin 03.jpg|thumb|right|Yolnahkriin with Hard Mode activated]]
+'''Yolnahkriin''' is a red [[ON:Dragon|dragon]] who is masquerading as an aspect of [[Lore:Jode|Jode]] within the temple of [[ON:Sunspire|Sunspire]].
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|The Return of Alkosh}}
+
+==Skills and Abilities==
+;Bite: Yolnahkriin bites whoever he's targeting.
+;Boiling Oil: The boiling oil surrounding Yolnahkriin's perch will damage you if you stand in it.
+;Flame Aura: If you are too close to Yolnahkriin (read: underneath him), you will be consumed by raging fire.
+;Fire Breath: Yolnahkriin breathes fire.
+;Focused Fire: Yolnahkriin will set down an orange AoE onto one player in front of him.  The only way to survive Yolnahkriin's Focused Fire is to find a way to disperse the impact. Damage increases with every hit. Players must stack to distribute the damage. Works similarly to [[Online:Shade of Siroria|Shade of Siroria]]'s '''Roaring Flare.'''
+;Summon Fire Atronach: Summons a [[Online:Flame Atronach|Flame Atronach]].
+;Summon Iron Atronach: Summons an [[Online:Iron Servant|Iron Servant]].
+;Wing Thrash: One hit kill, can connect if you fight from the side.
+;Aerial Blast: At 80%/50%/25% health, Yolnahkriin flies into the air and ceases to be targetable, as more atronachs appear in the arena. While fighting the atronachs, Yolnahkriin then proceeds to spew concentrated fire down into the center of the arena, covering all of it except for the outer rim, limiting room to move around and dealing massive damage if stepping into the fire.
+
+==Dialogue==
+When you arrive on his island in the middle of the oil lake, he will taunt you if you idle in front of him.
+:'''Yolnahkriin''': ''"Leave and I may spare you."''
+:'''Yolnahkriin''': ''"Dispose of yourself, before I do."''
+:'''Yolnahkriin''': ''"You'll suffer for disturbing me."''
+:'''Yolnahkriin''': ''"You dare enter my domain? Fools."''
+:'''Yolnahkriin''': ''"Begone vermin!"''
+{{huh|more}}
+
+;Summoning Flame Atronachs:
+:'''Yolnahkriin''': ''"Obey me, living flames."''
+:'''Yolnahkriin''': ''"Rise from the ash, servants of flame!"''
+:'''Yolnahkriin''': ''"Burn them to cinders!"''
+{{huh|more}}
+
+;During the fight:
+:'''Yolnahkriin''': ''"Drown in flame!"''
+:'''Yolnahkriin''': ''"Persistent vermin. Time to stamp you out."''
+:'''Yolnahkriin''': ''"The flames can feast on you."''
+:'''Yolnahkriin''': ''"I'll blacken the sky with your smoldering corpses."''
+:'''Yolnahkriin''': ''"You're lucky, but that won't last."''
+:'''Yolnahkriin''': ''"My rage only makes the flames burn hotter!"''
+:'''Yolnahkriin''': ''"I won't be beaten by vermin!"''
+:'''Yolnahkriin''': ''"I'm still strong enough to crush you worms!"''
+{{huh|more}}
+
+;Wipe:
+:'''Yolnahkriin:''' ''"Never trifle with gods!"''
+:'''Yolnahkriin:''' ''"This was deserved."''
+:'''Yolnahkriin:''' ''"Insolent trash."''
+:'''Yolnahkriin:''' ''"Your ashes will be scattered to the farthest corners of the world."''
+:'''Yolnahkriin:''' ''"Bother the Void."''
+
+==Notes==
+* His name translates to ''"Fire-Fury-Slay"'' in the [[Lore:Dragon Language|Dragon Language]].
+
+==Gallery==
+<gallery>
+File:ON-creature-Yolnahkriin 02.jpg|Yolnahkriin prior to combat
+File:ON-creature-Yolnahkriin 04.jpg|Yolnahkriin prepares to rain fire down upon the battlefield
+File:ON-render-Sunspire.jpg|[[Online:Renders/Elsweyr|Promotional screenshot]]
+File:ON-render-Ja'zennji Siir Style.jpg|Featured in a [[Online:Renders/Events|promotional render]]
+File:ON-concept-Yolnahkriin Mesh.jpg|Meshes for Yolnahkriin
+File:ON-concept-Yolnahkriin Render.jpg|Render of Yolnahkriin
+</gallery>
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->
+{{Stub|Creature}}

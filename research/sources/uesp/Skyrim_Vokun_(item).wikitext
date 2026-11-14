@@ -1,0 +1,33 @@
+<noinclude>{{Trail|Items|Artifacts}}[[Category:Skyrim-Armor-Helmets_Heavy]] [[Category:Skyrim-Items-Artifacts]]</noinclude>{{Artifact Summary
+|lorepage=Dragon Priest Masks
+|image=SR-item-Vokun.jpg
+|weight=9
+|rating=23
+|value=2182
+|warmth=18
+|type=[[Skyrim:Heavy Armor|Heavy]] [[Skyrim:Helmet|Helmet]]
+|enchant=''Conjuration, Illusion and Alteration spells cost 20% less magicka to cast:''
+* [[Skyrim:Fortify Conjuration|Fortify Conjuration]], 20 pts
+* [[Skyrim:Fortify Illusion|Fortify Illusion]], 20 pts
+* [[Skyrim:Fortify Alteration|Fortify Alteration]], 20 pts
+|artifacttype=Artifact
+|objectid=00061cc9
+|editorid=ArmorDragonPriestMaskSteelHelmet
+|tempering=[[Skyrim:Steel Ingot|Steel Ingot]]
+|perk=[[Skyrim:Daedric Smithing|Daedric Smithing]]
+}}
+[[Skyrim:Vokun (item)|Vokun]] is a steel [[Skyrim:Dragon Priest|dragon priest]] [[Skyrim:Dragon Priest Mask|mask]] obtained by killing the eponymous [[Skyrim:Vokun (creature)|Vokun]] within [[Skyrim:High Gate Ruins|High Gate Ruins]]. The artifact's enchantments increase your [[Skyrim:Alteration|Alteration]], [[Skyrim:Conjuration|Conjuration]], and [[Skyrim:Illusion|Illusion]] skills by twenty points when worn. It can be [[Skyrim:Workbench|tempered]] with [[Skyrim:Steel Ingot|steel ingots]].<includeonly>
+
+For more information, see the [[Skyrim:Vokun (item)|Vokun]] article.</includeonly><noinclude>
+{{NewLeft}}
+
+==Related Quests==
+*{{Quest Link|A Scroll For Anska}}
+
+==Notes==
+* Placing Vokun on its pedestal at [[Skyrim:Bromjunaar Sanctuary|Bromjunaar Sanctuary]] will remove any bonuses it gained from tempering.
+* All dragon priest masks are considered to be circlets in terms of equipment slots, meaning they can be worn simultaneously with some bugged items, as detailed under [[Skyrim:Circlet|circlets]].
+* ''Vokun'' means "Shadow" in the [[Lore:Dragon Language|dragon tongue]].
+* [[Skyrim:Hendraheim (place)|Hendraheim]]{{CC|Hendraheim}}, [[Skyrim:Shadowfoot Sanctum (place)|Shadowfoot Sanctum]]{{CC|Shadowfoot Sanctum}}, [[Skyrim:Tundra Homestead (place)|Tundra Homestead]]'s cellar{{CC|Tundra Homestead}}, [[Skyrim:Bloodchill Manor|Bloodchill Cavern]]{{CC|Bloodchill Manor}},  and [[Skyrim:Myrwatch (place)|Myrwatch]]'s gallery{{CC|Myrwatch}} contain a [[Skyrim:Special Holder|special holder]] for this item.
+
+{{Skyrim Dragon Priests}}</noinclude>

@@ -1,0 +1,45 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Khajiit
+|gender=Female 
+|image=ON-npc-Ja'darri 02.jpg
+|title=
+|imgdesc=the Endless
+|birth= 
+|birthLoc=
+|death=
+|deathLoc=
+|prev=
+|next=
+|loc=
+|appears=[[Online:Ja'darri|ESO]]
+}}
+:''"She was kind, immeasurably so. I suspect she had overcome a great sorrow, for she had a way of finding the light in the darkest of times. The good in the cruelest of souls. And she was strong, in body and heart. Strong enough to brave anything."'' —Nahfahlaar on Ja'darri</noinclude>
+[[Lore:Ja'darri|Ja'darri]] the Endless (also known the '''Endless One'''{{Ref|name=SoAC|{{Cite Book|Song of Alkosh's Champion}}}} and in the dragon tongue as '''Toshrakhat'''), was an ancient Khajiiti hero who founded [[Lore:Pridehome|Pridehome]] and formed the {{Lore Link|Pride of Alkosh}}.{{ref|name=ToJ|{{Cite Book|The Tomb of Ja'darri|ns_base=ON}}}}{{Ref|name=P:APOT|{{Cite Book|Pridehome: A Place Outside Time?}}}} She bore the [[Lore:Mask of Alkosh|Mask of Alkosh]], a relic capable of granting the bearer immense power when tapped into by a [[Lore:Dragon|Dragon]].<noinclude> 
+
+In life, Ja'darri was born under the [[Lore:Dark Moons|Dark Moons]], and thus was of the [[Lore:Mane|Mane]] furstock but ultimately was not destined to become the spiritual leader of the Khajiit.{{ref|name=ESOJD|[[ON:Ja'darri|Ja'darri]]'s dialogue during [[ON:The Dragonguard|The Dragonguard]] in [[ON:Dragonhold|ESO]]}} Later on in her life, Ja'darri found that she could hear the beating of [[Lore:Lorkhaj|Lorkhaj]]'s [[Lore:Heart of Lorkhan|heart]] and that she was slowly becoming a [[Lore:Dro-m'Athra|dro-m'Athra]].{{ref|name=ESOJD}} She decided to make her way to the [[Lore:Sands Behind the Stars|Sands Behind the Stars]] before she was fully lost, but instead she underwent a trial with [[Lore:Khenarthi|Khenarthi]]'s blessing to fight her inner darkness. To do this, she was granted the blessing of a blade and lamp that were imbued with [[Lore:Alkosh|Alkosh]]'s power. The Halls of the Highmane were built to reflect Ja'darri's internal trials.{{ref|name=ESOJD}} 
+
+She succeeded in overcoming her inner darkness, and was granted the [[Lore:Mask of Alkosh|Mask of Alkosh]] along with a task by the Dragon King of Time as his champion. She was to use the mask's power to extinguish a creature that threatened to unravel all of time: [[Lore:Laatvulon|Laatvulon]], the Demon from the East.{{Ref|name=SoAC}}{{ref|name=ESOJD}} To undertake this task, [[Lore:Pridehome|Pridehome]] was founded and many warriors gathered under her banner; additionally she made allies of two important powers of the time—[[Lore:Reman|Reman]]'s [[Lore:Dragonguard|Dragonguard]] led by [[Lore:Vashu-Pir|Vashu-Pir]] and the dragon [[Lore:Nahfahlaar|Nahfahlaar]].{{Ref|name=DOTE|{{Cite Book|Demon from the East}}}}{{Ref|name=GVP|{{Cite Book|Grandmaster Vashu-Pir (1E 2734 - 2758)}}}}{{Ref|name=ESOSai|[[ON:Sai Sahan|Sai Sahan]]'s dialogue during [[ON:The Pride of Alkosh (quest)|The Pride of Alkosh]]}}{{ref|name=ESONahfahlaar|[[Online:Nahfahlaar|Nahfahlaar]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}{{ref|name=ESODK|[[Online:Doomstone Keep|Doomstone Keep]] loading screen description in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}}{{Ref|name=P:APOT}}
+
+The unlikely alliance with a dragon came about when Ja'darri sought Nahfahlaar out for his assistance in fighting his ancient rival Laatvulon. Over time, Nafaalaar grew to respect Ja'darri greatly, giving her a Dragon name and granting her a boon in the form of [[Lore:Horn of Ja'darri|his horn]], which was later named after her.{{ref|name=ESONahfahlaar}} However these advantages and allies were not enough to defeat Laatvulon, so Ja'darri asked Nahfahlaar to empower the Mask of Alkosh which he refused and ultimately would regret.{{ref|name=ESONahfahlaar|[[Online:Nahfahlaar|Nahfahlaar]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} 
+
+Ja'darri and the Dragonguard were left to fight Laatvulon with limited power and their final battle came about at Doomstone Keep.{{ref|name=ESONahfahlaar}}{{ref|name=ESODK}} While the Dragonguard were able to subdue and imprison Laatvulon, it cost Ja'darri her life and she died during the battle.{{ref|name=ESONuziwa|[[Online:Moon-Priest Nuziwa|Moon-Priest Nuziwa]]'s dialogue in [[Online:Online|ESO]]: ''[[Online:Dragonhold|Dragonhold]]''}} Upon death, she was said to join Alkosh in a realm beyond even the [[Lore:Sands Behind the Stars|Sands Behind the Stars]].{{ref|name=ESONuziwa}}
+
+In the year {{Year|2E 582}}, Laatvulon had been freed from his imprisonment and was wreaking havoc on Southern Elsweyr, along with the formation of the [[Lore:Order of the New Moon|Order of the New Moon]] cult.{{ref|name=ESOUA|Events of [[ON:Uneasy Alliances|Uneasy Alliances]] in [[ON:Dragonhold|ESO]]}} [[Lore:The Vestige|The Vestige]] had become allies with Nahfahlaar and gradually learned the story of Ja'darri. This culminated in them entering a realm known as the [[Lore:Spilled Sand|Spilled Sand]], seeking to imbue the Mask of Alkosh in order to stop Laatvulon.{{ref|name=ESOTD|Events of [[ON:The Dragonguard|The Dragonguard]] in [[ON:Dragonhold|ESO]]}} Ja'darri's spirit was waiting for them and under 
+her guidance, the two performed a ritual to imbue the mask and would ultimately defeat Laatvulon and later [[Lore:Kaalgrontiid|Kaalgrontiid.]]{{ref|name=ESOTD}}
+
+==Gallery==
+<gallery>
+File:LO-people-Ja'darri.jpg|[[Lore:Statues|Statue]] of Ja'darri 
+File:ON-npc-Ja'darri 03.jpg|Ja'darri's spirit and Nahfahlaar in the Spilled Sand
+File:ON-tapestry-The_Dragonguard_02.jpg|Tapestry depicting Ja'darri with the mask of Alkosh
+File:ON-tapestry-The Dragonguard 03.jpg|Tapestry depicting Nahfahlaar's refusal to imbue the Mask of Alkosh for Ja'darri
+File:ON-tapestry-The Dragonguard.jpg|Tapestry depicting Ja'darri and the Dragonguard confronting Laatvulon
+File:ON-tapestry-The Dragonguard 04.jpg|Tapestry depicting Laatvulon's imprisonment and Ja'darri's death.
+File:ON-quest-The Horn of Ja'darri 03.jpg|The Horn of Ja'darri
+</gallery>
+
+==See Also==
+{{GSI|Online:Ja'darri}}
+
+==References==
+<references/></noinclude>

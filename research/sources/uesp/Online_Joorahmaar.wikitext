@@ -1,0 +1,77 @@
+{{Mod Header|Dragonhold}}
+{{Online NPC Summary
+|image=ON-creature-Joorahmaar 02.jpg
+|imgdesc=Joorahmaar
+|loc=[[ON:New Moon Fortress|New Moon Fortress]]
+|race=Dragon
+|creature=1
+|health={{ESO Health|ncf}}
+|reaction=Friendly
+|faction={{Faction|Order of the New Moon (faction)}}
+}}{{TOCright}}
+'''Joorahmaar''' is a black [[ON:Dragon|dragon]] that has allied himself with [[ON:Laatvulon|Laatvulon]].
+{{NewLeft}}
+
+==Related Quests==
+* {{Quest Link|Order of the New Moon}}
+* {{Quest Link|The Dark Aeon}}
+
+==Quest-Related Events==
+===Order of the New Moon===
+[[File:ON-creature-Joorahmaar.jpg|thumb|right|Joorahmaar at the New Moon Fortress]]
+Joorahmaar is first seen in [[ON:New Moon Fortress|New Moon Fortress]].
+:'''Joorahmaar:''' ''"You promised us power, Laatvulon."''
+:'''Laatvulon:''' ''"And you shall have it, my brother."''
+:'''Laatvulon:''' ''"The New Moon will rise above, and all who obey shall rise with it!"''
+:'''Laatvulon:''' ''"Relinquish your strength to the aeonstone! Offer your power to our noble cause!"''
+
+When you disrupt the ritual, Joorahmaar flies off.
+
+===The Dark Aeon===
+You will find Joorahmaar on Dragonhold, where he orders a group of [[ON:New Moon Cultist|cultists]] to sacrifice themselves.
+:'''Abnur Tharn:''' ''"A Dragon, but it's not Kaalgrontiid!"''
+:'''Joorahmaar:''' ''"Continue to feed the ritual sites. Kaalgrontiid demands a throne in the sky. We must accomplish this or perish!"''
+:'''Abnur Tharn:''' ''"A throne in the sky? Forget the source of the island's defenses. We need to destroy these ritual sites!"''
+
+Back in the courtyard, you'll encounter Joorahmaar once more. Abnur Tharn stands up to him.
+:'''Joorahmaar:''' ''"What pests dare scurry into this sacred place?"''
+:'''Abnur Tharn:''' ''"I'll deal with this creature."''
+:'''Joorahmaar:''' ''"You think to challenge me, bug?"''
+:'''Abnur Tharn:''' ''"So much … power!"''
+:<Abnur uses his magic on Joorahmaar and drives him back.>
+:'''Joorahmaar:''' ''"Savor this reprieve, mortals. You cannot stop the Dark Aeon!"''
+:<Joorahmaar flies off.>
+:'''Abnur Tharn:''' ''"That … drove it off. Now … to find the source … of the aegis."''
+{{Online NPC Summary
+|image=ON-creature-Joorahmaar 03.jpg
+|imgdesc=Joorahmaar
+|loc=[[ON:Dragonhold (The Dark Aeon)|Dragonhold]]
+|race=Dragon
+|creature=1
+|difficulty=3
+|reaction=Hostile
+|health=871,961
+|faction={{Faction|Order of the New Moon (faction)}}
+}}
+When engaged in combat:
+:'''Joorahmaar:''' ''"Trespassers! You will not destroy the aegis!"''
+
+When he summons weak [[ON:Flame Atronach|flame atronachs]]:
+:'''Joorahmaar:''' ''"I will burn you to ash and cinders!"''
+{{NewLeft}}
+==Skills and Abilities==
+;Bite: A basic physical attack.
+;Wing Thrash: Standing near a wing results in Joorahmaar swatting you with it, knocking you away, as well as sending out swirls of flames forward, indicated by circular AoEs.
+;Sweeping Breath: Joorahmaar breathes fire in a half-circle pattern in the arena, indicated by long conical [[ON:AoE|AoE]].
+;Unrelenting Force: Joorahmaar shouts facing forward, knocking you far away.
+;Meteor Storm: Joorahmaar looks up then shouts, as a cloud of fiery energy appears above him, releasing a barrage of meteors down into the arena, indicated by circular AoEs.
+;Summon Atronachs: At 70% health, Joorahmaar flies off and becomes untargettable. Weak [[ON:Flame Atronach|flame atronachs]] are then summoned into the arena, and will only come back to ground once they are defeated. He flies off again once he reaches 30% health, and this time summons a more powerful [[ON:Iron Atronach|iron atronach]]. As the iron atronach is summoned, Joorahmaar remains in the sky above the arena and breathes fire down into the center, covering a large section of the arena, which deals high constant damage.
+;Flame Aura: As long as the dragon is grounded, a large ring of fire sits under him, dealing constant damage if standing inside.
+
+==Notes==
+* His name translates to ''"Mortal Hunter Terror"'' in the [[Lore:Dragon Language|Dragon Language]].
+<!--Instructions: Add any bugs related to the NPC here using the format below.--><!--
+==Bugs==
+{{Bug|Bug description}}
+** Workaround
+-->

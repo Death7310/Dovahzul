@@ -1,0 +1,41 @@
+{{Mod Header|Dragonhold}}{{Online Collectible Summary
+|image=ON-pet-Regal Dragon Imp
+|icon=ON-icon-pet-Regal Dragon Imp
+|id=6618
+|description=Those who have watched this particular [[Online:Imp|imp]]'s mimicry wonder how it survived seeing the [[Online:Dragon|Dragon]] that inspired its antics. Regardless, awe others by making this imp your companion.
+|collectibletype=Pet
+|type=Flying Pet
+|nickname=Faasnu
+|price=
+|acquisition=Complete [[Online:The Dragon's Wrath|The Dragon's Wrath]]
+|crate=
+|tier=
+|date=
+}}The '''Regal Dragon Imp''' is acquired by completing [[Online:The Dragon's Wrath|The Dragon's Wrath]], an [[Online:Dragonhold Achievements|achievement]] received for completing [[Online:The Dark Aeon|The Dark Aeon]]. Its default name is "Faasnu".
+{{NewLeft}}
+<!--==Occurrences==
+{{scrollbox
+| width=70%
+| height=100px
+| content =
+'''Appearances: '''
+* - 
+}}
+--><!--==Physical Description==
+
+-->
+==Gallery==
+<gallery><!--File:ON-crown store-.jpg|[[Online:Crown Store Renders/Pets|Promotional render]]-->
+File:ON-furnishing-Regal Dragon Imp.jpg
+</gallery>
+
+==Notes==
+*This imp looks like [[Online:Kaalgrontiid|Kaalgrontiid]] at full power.
+*Its default name means "Fear Now" in the [[Lore:Dragon Language|Dragon Language]].
+<!--Instructions: Add any bugs related to the collectible here using the format below.
+==Bugs==
+{{Bug|Bug description}}
+**Workaround
+--><!--
+==References==
+<references />-->

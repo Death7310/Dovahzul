@@ -1,0 +1,66 @@
+{{trail|Items|nocat=1}}[[Category:Blades-Items-Sets]]{{About|the item class|the creatures|Dragons}}{{TOCright}}
+'''Dragon''' items are the highest tier of item material. [[Blades:Divine|Divine]] items, while different in appearance to the generic Dragon items, are still considered to be Dragon and involve the same [[Blades:Materials|materials]] when [[Blades:Tempering|tempering]] and [[Blades:Salvaging|salvaging]].
+
+==Dragonbone==
+'''Dragonbone''' [[Blades:Weapons|weapons]] are characterized by their use of [[Blades:Dragon Bones|dragon bones]], [[Blades:Ebony Ingot|ebony ingots]], and [[Blades:Malachite Ingot|malachite ingots]]. The following generic Dragonbone weapons can be [[Blades:Crafting|crafted]] at [[Blades:Smithy|Smithy]] level 10.
+{{#local:showBuy|1}}{{#local:showSell|1}}{{#local:showDamage|1}}{{#local:showDps|1}}{{#local:showBlock|1}}{{#local:showCondition|1}}{{Blades Item Table|
+{{Blades Item Entry|Dragonbone Dagger}}
+{{Blades Item Entry|Dragonbone Hand Axe}}
+{{Blades Item Entry|Dragonbone Light Hammer}}
+{{Blades Item Entry|Dragonbone Longsword}}
+{{Blades Item Entry|Dragonbone War Axe}}
+{{Blades Item Entry|Dragonbone Mace}}
+{{Blades Item Entry|Dragonbone Greatsword}}
+{{Blades Item Entry|Dragonbone Battleaxe}}
+{{Blades Item Entry|Dragonbone Warhammer}}
+}}
+The following [[Blades:Divine|divine]] weapons are considered to be Dragonbone. They cannot be crafted and may only be purchased from the [[Blades:Sigil Shop|Sigil Shop]] with [[Blades:Sigils|Sigils]].
+{{Blades Item Table|
+{{#listsaved:Blades Item Entry|divine=1|material=Dragonbone|namespace=Blades}}
+}}
+
+==Dragonscale==
+'''Dragonscale''' [[Blades:Items|items]] are characterized by their use of [[Blades:Dragon Scales|dragon scales]], [[Blades:Stalhrim (item)|stalhrim]], and [[Blades:Malachite Ingot|malachite ingots]]. The following generic Dragonscale items grant [[Blades:Resist Cleaving|Resist Cleaving]] or [[Blades:Block Bonus Vs Cleaving|Block Bonus Vs Cleaving]] and [[Blades:Resist Poison|Resist Poison]] or [[Blades:Block Bonus Vs Poison|Block Bonus Vs Poison]]. They can be [[Blades:Crafting|crafted]] at [[Blades:Smithy|Smithy]] level 10.
+{{#unset:showDamage|showDps}}{{#local:showBash|1}}{{#local:showArmor|1}}{{#local:showEffect|1}}{{Blades Item Table|
+{{Blades Item Entry|Dragonscale Helmet}}
+{{Blades Item Entry|Dragonscale Armor}}
+{{Blades Item Entry|Dragonscale Gauntlets}}
+{{Blades Item Entry|Dragonscale Boots}}
+{{Blades Item Entry|Dragonscale Shield}}
+}}
+The following [[Blades:Divine|divine]] items are considered to be Dragonscale. They grant material [[Blades:Effects|effects]] according to the item material that they resemble. They cannot be crafted and may only be purchased from the [[Blades:Sigil Shop|Sigil Shop]] with [[Blades:Sigils|Sigils]].
+{{Blades Item Table|
+{{#listsaved:Blades Item Entry|divine=1|material=Dragonscale|namespace=Blades}}
+}}
+
+==Dragonplate==
+'''Dragonplate''' [[Blades:Items|items]] are characterized by their use of [[Blades:Dragon Scales|dragon scales]], [[Blades:Dragon Bones|dragon bones]], and [[Blades:Chaurus Chitin|chaurus chitins]]. The following generic Dragonplate items can be [[Blades:Crafting|crafted]] at [[Blades:Smithy|Smithy]] level 10.
+{{#unset:showEffect}}{{Blades Item Table|
+{{Blades Item Entry|Dragonplate Helmet}}
+{{Blades Item Entry|Dragonplate Armor}}
+{{Blades Item Entry|Dragonplate Gauntlets}}
+{{Blades Item Entry|Dragonplate Boots}}
+{{Blades Item Entry|Dragonplate Shield}}
+}}
+The following [[Blades:Divine|divine]] items are considered to be Dragonplate. They cannot be crafted and may only be purchased from the [[Blades:Sigil Shop|Sigil Shop]] with [[Blades:Sigils|Sigils]].
+{{Blades Item Table|
+{{#listsaved:Blades Item Entry|divine=1|material=Dragonplate|namespace=Blades}}
+}}
+The following Dragonplate items are miscellaneous and may be acquired in varying ways.
+{{Blades Item Table|
+{{Blades Item Entry|Bronze Helm of the Destroyer}}
+{{Blades Item Entry|Gauntlets of the Companions}}
+{{Blades Item Entry|Golden Helm of the Destroyer}}
+{{Blades Item Entry|Silver Helm of the Destroyer}}
+}}
+
+==Gallery==
+<gallery>
+File:BL-item-Dragonscale Armor Set.jpg|Dragonscale
+File:BL-concept-Jason Tonks Dragonscale Armor.jpg|Concept Art for Dragonscale
+File:BL-item-Dragonplate Armor Set.jpg|Dragonplate
+File:BL-concept-Jason Tonks Dragonplate Armor.jpg|Concept Art for Dragonplate (titled Dragonbone Armor)
+File:BL-icon-avatar-Dragonscale Armor.png|Dragonscale Armor [[Blades:Avatars|avatar]]
+File:BL-icon-avatar-Dragonbone Armor.png|"Dragonbone Armor" avatar, depicting Dragonplate
+</gallery>
+{{Stub|Item}}{{#local:class|Dragon}}{{#save:class}}

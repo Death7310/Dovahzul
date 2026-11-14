@@ -1,0 +1,39 @@
+{
+  "title": "Skyrim:Easter Eggs",
+  "revid": 3600070,
+  "timestamp": "2026-07-30T03:24:13Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3600070&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "146983b3597e77dda668d09afaefcae24ae9abd1eb517e0d9391119cf8e19c64",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 107941,
+  "ns": 134,
+  "parentid": 3600069,
+  "requested_title": "Skyrim:Easter Eggs",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/Skyrim:Easter_Eggs",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3600070",
+  "sha1": "a03838ce7e746271071ef1fea46b1087a3c55677",
+  "sha1_matches_mediawiki": true,
+  "bytes": 30659,
+  "chars": 30643,
+  "lines": 204,
+  "saved_as": "research/sources/uesp/Skyrim_Easter_Eggs.wikitext",
+  "groups": [
+    "dialogue"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Skyrim:Easter+Eggs|Skyrim:Unobtainable+Items|Skyrim:Anniversary+Edition|Lore:Dragon|Lore:Alduin|Lore:Paarthurnax|Lore:Odahviing|Lore:Durnehviir|Lore:Mirmulnir|Lore:Sahloknir|Lore:Nahagliiv|Lore:Viinturuth",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:31Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

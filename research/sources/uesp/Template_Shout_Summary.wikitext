@@ -1,0 +1,107 @@
+<includeonly><cleanspace>
+<!-- Sample parameters for testing -->
+{{#preview:icon|SR-icon-shout-Pink.png}}
+{{#preview:name|Aura Whisper}}
+{{#preview:id|0007097b}}
+{{#preview:quote|Your Voice is not a Shout, but a whisper, revealing the life forces of any and all.}}
+{{#preview:word1|LaaS}}
+{{#preview:word2|Yah}}
+{{#preview:word3|Nir}}
+{{#preview:wordid1|00060294}}
+{{#preview:wordid2|00060295}}
+{{#preview:wordid3|00060296}}
+{{#preview:spellid1|0008afcc}}
+{{#preview:spellid2|0008afcd}}
+{{#preview:spellid3|0008afce}}
+{{#preview:transword1|life}}
+{{#preview:transword2|seek}}
+{{#preview:transword3|hunt}}
+{{#preview:cooldown1|30}}
+{{#preview:cooldown2|40}}
+{{#preview:cooldown3|50}}
+{{#preview:info1|Show life forces for 10 seconds}}
+{{#preview:info2|Show life forces for 20 seconds}}
+{{#preview:info3|Show life forces for 30 seconds}}
+{{#preview:location1|[[Skyrim:Northwind Summit|Northwind Summit]]}}
+{{#preview:location2|[[Skyrim:Valthume|Valthume]]}}
+{{#preview:location3|[[Skyrim:Volunruud|Volunruud]]}}
+
+<!-- Parameter setup -->
+{{#define:name|{{PAGENAME}}}}
+
+<!-- Save parameters -->
+{{#save:icon|name|id|quote|word1|word2|word3|transword1|transword2|transword3|cooldown1|cooldown2|cooldown3|info1|info2|info3|location1|location2|location3|mod}}
+
+<!-- Initial parameter formatting -->
+{{#local:uword1|{{ucfirst:{{lc:{{{word1}}}}}}}}}
+{{#local:uword2|{{ucfirst:{{lc:{{{word2}}}}}}}}}
+{{#local:uword3|{{ucfirst:{{lc:{{{word3}}}}}}}}}
+{{#local:translation|{{lc:{{{translation}}}}}}}
+
+<!-- Bread Crumb Trail -->
+{{Trail|Dragon Shouts}}
+
+<!-- Categories -->
+{{#switch:{{SUBJECTSPACE}}
+|Template|User=
+|{{NS_CATLINK:Dragon Shouts}}}}
+
+<!-- Infobox -->
+</cleanspace><cleantable>
+{| class="wikitable infobox" style="width:40%;"
+|-
+! colspan=4 | {{#if:{{{icon|}}}|[[File:{{{icon|}}}|left|48px]]|}} {{{name}}}<br>{{ID|{{{id|}}}|par=1}}
+|-
+| colspan=4 | ''{{{quote}}}''
+|-
+! Added by
+| colspan=4 | {{#switch:{{{mod|}}}|DB=[[Skyrim:Dragonborn|Dragonborn]]|DG=[[Skyrim:Dawnguard|Dawnguard]]}}
+|-
+! Thu'um
+|colspan=4 style="padding:0px"|
+{|class="hiddentable" width=100% style="border-collapse:collapse"
+| style="font-size: 90%; border-right:1px #AAAAAA solid; padding:2px;" width=33% | {{DragonFont|{{{word1}}}}}<br>
+<big>'''{{{uword1}}}'''</big><br>
+''{{ucfirst:{{{transword1}}}}}''
+| style="font-size: 90%; border-right:1px #AAAAAA solid; padding:2px;" width=33% | {{DragonFont|{{{word2}}}}}<br>
+<big>'''{{{uword2}}}'''</big><br>
+''{{ucfirst:{{{transword2}}}}}''
+| style="font-size: 90%; padding:2px;" width=33% | {{DragonFont|{{{word3}}}}}<br>
+<big>'''{{{uword3}}}'''</big><br>
+''{{ucfirst:{{{transword3}}}}}''
+|}
+|-
+! [[Skyrim:Form ID|ID]]
+|colspan=3 style="padding:0px"|
+{|class="hiddentable" width=100% style="border-collapse:collapse"
+| style="font-size: 90%; border-right:1px #AAAAAA solid; padding:2px;" width=33% | {{ID|{{{wordid1|}}}}}
+| style="font-size: 90%; border-right:1px #AAAAAA solid; padding:2px;" width=33% | {{ID|{{{wordid2|}}}}}
+| style="font-size: 90%; padding:2px;" width=33% | {{ID|{{{wordid3|}}}}}
+|}
+|-
+! colspan=2 | Effects 
+! width=1% |Recharge
+! width=10% |Spell ID
+|-
+! width=20% |{{{uword1}}}
+| {{{info1}}} 
+| style="text-align:center;" | {{{cooldown1}}}
+| style="font-size: 90%; text-align:center;" | {{ID|{{{spellid1|}}}}}
+|-
+! width=20% |{{{uword1}}} {{{uword2}}}
+| {{{info2}}} 
+| style="text-align:center;"  | {{{cooldown2}}}
+| style="font-size: 90%; text-align:center;" | {{ID|{{{spellid2|}}}}}
+|-
+! width=20% |{{{uword1}}} {{{uword2}}} {{{uword3}}}
+| {{{info3}}}
+| style="text-align:center;" | {{{cooldown3}}}
+| style="font-size: 90%; text-align:center;" | {{ID|{{{spellid3|}}}}}
+|-
+! colspan=4 | Locations
+|-
+| colspan=4|
+* {{{location1}}}{{#if:{{{location2|}}}|
+* {{{location2}}}}}{{#if:{{{location3|}}}|
+* {{{location3}}}}}
+|}</cleantable></includeonly><noinclude>{{/Doc}}</noinclude>

@@ -1,0 +1,46 @@
+[[fr:Skyrim:Allié héroïque]]{{needsimage|all three ghostly followers}}{{Shout Summary
+|id=0005196a
+|icon=SR-icon-shout-Ethereal.png
+|quote=The valiant of Sovngarde hear your Voice, and journey beyond space and time to lend aid.
+|word1=HUN
+|wordid1=00051960
+|cooldown1=180
+|info1=Summons [[Skyrim:Gormlaith Golden-Hilt|Gormlaith Golden-Hilt]] for 60 seconds.
+|location1=[[Skyrim:Sovngarde (place)|Sovngarde]] (all words learned together during [[Skyrim:Dragonslayer|Dragonslayer]])
+|letters1=HUN
+|word2=KaaL
+|wordid2=00051961
+|cooldown2=180
+|info2=Summons [[Skyrim:Felldir the Old|Felldir the Old]] for 60 seconds.
+|letters2=K1L
+|word3=ZooR
+|wordid3=00051962
+|cooldown3=180
+|info3=Summons [[Skyrim:Hakon One-Eye|Hakon One-Eye]] for 60 seconds.
+|letters3=Z8R
+|transword1=Hero
+|transword2=Champion
+|transword3=Legend
+|spellid1=00051967
+|spellid2=00051964
+|spellid3=00051969
+}}
+
+'''Call of Valor''' is a [[Skyrim:Dragon Shouts|dragon shout]] that summons a hero to fight alongside you. [[Skyrim:Tsun|Tsun]] teaches this shout to you at the end of [[Skyrim:Dragonslayer|Dragonslayer]], the conclusion of the [[Skyrim:Main Quest|main quest]].
+
+Using one word summons [[Skyrim:Gormlaith Golden-Hilt|Gormlaith Golden-Hilt]], two words summons [[Skyrim:Felldir the Old|Felldir the Old]], and three words summons [[Skyrim:Hakon One-Eye|Hakon One-Eye]]. 
+
+{{NewLeft}}
+== Related Quests ==
+* {{Quest Link|Dragonslayer}}
+
+== Notes ==
+* If Call of Valor is used while a conjured creature is still active, the shout will dispel the creature and replace it with the summoned hero. The reverse can happen as well; if a summoned hero is active, a [[Skyrim:Conjure|Conjure]] spell will dispel the hero and replace it with the conjured creature. This even applies to summoning [[Skyrim:Durnehviir|Durnehviir]], as well, as he is considered a summoned creature: calling for Durnehviir's help will dispel the heroes of Sovngarde, and summoning a hero of Sovngarde will dispel Durnehviir.
+* The heroes summoned by Call of Valor can be healed by restoration spells such as [[Skyrim:Healing Hands|Healing Hands]] and the shout allows one to keep the summoned hero indefinitely, unless another creature is summoned.
+* It is not possible to have the [[Skyrim:Spectral Assassin|Spectral Assassin]] and the Hero of Sovngarde summon out together, even with the [[Skyrim:Twin Souls|Twin Souls]] perk. Summoning one after the other will relinquish the former. The same applies with the [[Skyrim:Arniel's Shade|Arniel's Shade]] [[Skyrim:Summon Arniel's Shade|summon]].
+* If you happen to be in the path of the hero's Unrelenting Force shout, you will be ragdolled just as much as any enemy you were standing next to.
+
+==Bugs==
+{{Bug|Like [[Skyrim:Conjure|Conjure]] spells, the shout may be absorbed by any active [[Skyrim:Spell Absorption|Spell Absorption]] effects. If the shout is absorbed, a hero will not be summoned, but the shout's cooldown will still be triggered.|USKP|1.2.1}}
+
+{{Skyrim Shouts}}

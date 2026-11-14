@@ -1,0 +1,4788 @@
+{
+  "meta": {
+    "generated_at": "2026-11-14T06:47:51Z",
+    "generator": "tools/ingest/parse_corpus.py",
+    "source": "UESP wiki (en.uesp.net), MediaWiki API snapshot under research/sources/uesp/",
+    "license": "Attribution-ShareAlike 2.5 License",
+    "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+    "attribution": "Text from the Unofficial Elder Scrolls Pages (UESP), https://en.uesp.net/ ; each record names its page and revision id.",
+    "notes": [
+      "One record per distinct shout. Skyrim shout pages are the primary source for the words, their rune spelling and their meanings; other pages that name the same words are listed under also_attested_in, with differs_from_primary set where their English differs.",
+      "word = first letter upper case, rest lower case (as the wiki's infobox renders it); word_wiki_spelling = the infobox parameter as typed, in rune-case.",
+      "ESO rows come from the table on Online:Dragon; their 'name' is the ESO ability the wiki pairs with the line, where it gives one.",
+      "lore_thuum_list repeats the whole 'Known Shouts' list of Lore:Thu'um, including shouts for which the wiki records no dragon words."
+    ],
+    "counts": {
+      "shouts_total": 67,
+      "with_words_of_power": 63,
+      "skyrim_player_available": 27,
+      "by_game": {
+        "Skyrim": 28,
+        "Skyrim: Dawnguard": 4,
+        "Skyrim: Dragonborn": 5,
+        "The Elder Scrolls Online": 30
+      },
+      "distinct_words_of_power": 136
+    }
+  },
+  "shouts": [
+    {
+      "id": "shout-animal-allegiance",
+      "name": "Animal Allegiance",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Raan Mir Tah",
+      "meaning_phrase": "animal allegiance Pack",
+      "words": [
+        {
+          "position": 1,
+          "word": "Raan",
+          "word_wiki_spelling": "RaaN",
+          "runes": [
+            "R",
+            "AA",
+            "N"
+          ],
+          "meaning": "animal",
+          "word_id": "00060291",
+          "effect": "Animal Allegiance for 30 seconds in 75 ft",
+          "recharge_seconds": "50",
+          "location": "Ancient's Ascent",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Mir",
+          "word_wiki_spelling": "Mir",
+          "runes": [
+            "M",
+            "IR"
+          ],
+          "meaning": "allegiance",
+          "word_id": "00060292",
+          "effect": "Animal Allegiance for 45 seconds in 150 ft",
+          "recharge_seconds": "60",
+          "location": "Angarvunde",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Tah",
+          "word_wiki_spelling": "Tah",
+          "runes": [
+            "T",
+            "AH"
+          ],
+          "meaning": "Pack",
+          "word_id": "00060293",
+          "effect": "Animal Allegiance for 60 seconds in 250 ft",
+          "recharge_seconds": "70",
+          "location": "Ysgramor's Tomb (atop the hill, quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0005fc77",
+      "in_game_description": "A Shout for help from the beasts of the wild, who come to fight in your defense.",
+      "locations": [
+        "Ancient's Ascent",
+        "Angarvunde",
+        "Ysgramor's Tomb (atop the hill, quest locked)"
+      ],
+      "wiki_summary": "Animal Allegiance is a dragon shout that causes nearby animals to fight for you.",
+      "source_page": "Skyrim:Animal Allegiance",
+      "revid": 3564886,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Animal Allegiance",
+          "phrase_there": "Raan Mir Tah",
+          "meaning_there": "Animal Allegiance Pack",
+          "note": "Raan Mir Tah, meaning Animal Allegiance Pack, is a shout that can call for the beasts of the wilderness to aid the Tongue in combat."
+        }
+      ]
+    },
+    {
+      "id": "shout-aura-whisper",
+      "name": "Aura Whisper",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Laas Yah Nir",
+      "meaning_phrase": "life seek hunt",
+      "words": [
+        {
+          "position": 1,
+          "word": "Laas",
+          "word_wiki_spelling": "LaaS",
+          "runes": [
+            "L",
+            "AA",
+            "S"
+          ],
+          "meaning": "life",
+          "word_id": "00060294",
+          "effect": "Show life forces for 10 seconds.",
+          "recharge_seconds": "30",
+          "location": "Northwind Summit",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Yah",
+          "word_wiki_spelling": "Yah",
+          "runes": [
+            "Y",
+            "AH"
+          ],
+          "meaning": "seek",
+          "word_id": "00060295",
+          "effect": "Show life forces for 20 seconds.",
+          "recharge_seconds": "40",
+          "location": "Valthume",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Nir",
+          "word_wiki_spelling": "Nir",
+          "runes": [
+            "N",
+            "IR"
+          ],
+          "meaning": "hunt",
+          "word_id": "00060296",
+          "effect": "Show life forces for 30 seconds.",
+          "recharge_seconds": "50",
+          "location": "Volunruud",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0007097b",
+      "in_game_description": "Your Voice is not a Shout, but a whisper, revealing the life forces of any and all.",
+      "locations": [
+        "Northwind Summit",
+        "Valthume",
+        "Volunruud"
+      ],
+      "wiki_summary": "Aura Whisper is a dragon shout that reveals nearby mobile entities, similar to the Detect Life spell effect. Aura Whisper will reveal both NPCs and creatures.",
+      "source_page": "Skyrim:Aura Whisper",
+      "revid": 3463824,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Aura Whisper",
+          "phrase_there": "Laas Yah Nir",
+          "meaning_there": "Life Seek Hunt",
+          "note": "Laas Yah Nir, meaning Life Seek Hunt, is a shout that reveals the life force of any and all beings nearby."
+        }
+      ]
+    },
+    {
+      "id": "shout-battle-fury",
+      "name": "Battle Fury",
+      "game": "Skyrim: Dragonborn",
+      "availability": "player",
+      "phrase": "Mid Vur Shaan",
+      "meaning_phrase": "Loyal Valor Inspire",
+      "words": [
+        {
+          "position": 1,
+          "word": "Mid",
+          "word_wiki_spelling": "MID",
+          "runes": [
+            "M",
+            "I",
+            "D"
+          ],
+          "meaning": "Loyal",
+          "word_id": "xx0200e4",
+          "effect": "Battle Fury, 1.3 points within 25 feet for 60 seconds",
+          "recharge_seconds": "20",
+          "location": "All three words are found in Vahlok's Tomb",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Vur",
+          "word_wiki_spelling": "Vur",
+          "runes": [
+            "V",
+            "UR"
+          ],
+          "meaning": "Valor",
+          "word_id": "xx0200e5",
+          "effect": "Battle Fury, 1.5 points within 25 feet for 120 seconds",
+          "recharge_seconds": "30",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Shaan",
+          "word_wiki_spelling": "SHaaN",
+          "runes": [
+            "S",
+            "H",
+            "AA",
+            "N"
+          ],
+          "meaning": "Inspire",
+          "word_id": "xx0200e6",
+          "effect": "Battle Fury, 1.7 points within 25 feet for 180 seconds",
+          "recharge_seconds": "40",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx02ad09",
+      "in_game_description": "Your Thu'um enchants your nearby allies' weapons, allowing them to attack faster.",
+      "locations": [
+        "All three words are found in Vahlok's Tomb"
+      ],
+      "wiki_summary": "Battle Fury is a dragon shout added by the Dragonborn expansion that improves the fighting ability of allies by speeding up their attacks, similar to the Elemental Fury shout's effect on you.",
+      "source_page": "Skyrim:Battle Fury",
+      "revid": 2742102,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Battle Fury",
+          "phrase_there": "Mid Vur Shaan",
+          "meaning_there": "Loyal Valor Inspire",
+          "note": "Mid Vur Shaan, meaning Loyal Valor Inspire, is a shout that allows the allies of the Tongue to fight faster and with more fury."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Mid Vur Shaan",
+          "meaning_there": "Loyal Valor Inspire",
+          "note": "Corresponding ability: Battle Fury (On Atronach Minions)"
+        }
+      ]
+    },
+    {
+      "id": "shout-become-ethereal",
+      "name": "Become Ethereal",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Feim Zii Gron",
+      "meaning_phrase": "fade spirit bind",
+      "words": [
+        {
+          "position": 1,
+          "word": "Feim",
+          "word_wiki_spelling": "FeiM",
+          "runes": [
+            "F",
+            "EI",
+            "M"
+          ],
+          "meaning": "fade",
+          "word_id": "00032917",
+          "effect": "Ethereal Form for 8 seconds",
+          "recharge_seconds": "20",
+          "location": "Ironbind Barrow",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Zii",
+          "word_wiki_spelling": "Zii",
+          "runes": [
+            "Z",
+            "II"
+          ],
+          "meaning": "spirit",
+          "word_id": "00032918",
+          "effect": "Ethereal Form for 13 seconds",
+          "recharge_seconds": "30",
+          "location": "Lost Valley Redoubt",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Gron",
+          "word_wiki_spelling": "GRON",
+          "runes": [
+            "G",
+            "R",
+            "O",
+            "N"
+          ],
+          "meaning": "bind",
+          "word_id": "00032919",
+          "effect": "Ethereal Form for 18 seconds",
+          "recharge_seconds": "40",
+          "location": "Ustengrav (quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "00032920",
+      "in_game_description": "The Thu'um reaches out to the Void, changing your form to one that cannot harm, or be harmed.",
+      "locations": [
+        "Ironbind Barrow",
+        "Lost Valley Redoubt",
+        "Ustengrav (quest locked)"
+      ],
+      "wiki_summary": "Become Ethereal is a dragon shout that turns you into an ethereal form. While in this form, you cannot deal damage or take damage (including damage from falls or poison).",
+      "source_page": "Skyrim:Become Ethereal",
+      "revid": 3486179,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Become Ethereal",
+          "phrase_there": "Feim Zii Gron",
+          "meaning_there": "Fade Spirit Bind",
+          "note": "Feim Zii Gron, meaning Fade Spirit Bind, is a shout that turns the Tongue into an intangible ghost-like form, unable to be harmed."
+        }
+      ]
+    },
+    {
+      "id": "shout-bend-will",
+      "name": "Bend Will",
+      "game": "Skyrim: Dragonborn",
+      "availability": "player",
+      "phrase": "Gol Hah Dov",
+      "meaning_phrase": "Earth Mind Dragon",
+      "words": [
+        {
+          "position": 1,
+          "word": "Gol",
+          "word_wiki_spelling": "GOL",
+          "runes": [
+            "G",
+            "O",
+            "L"
+          ],
+          "meaning": "Earth",
+          "word_id": "xx0179d9",
+          "effect": "Cleanses All-Maker Stones",
+          "recharge_seconds": "10",
+          "location": "Saering's Watch",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Hah",
+          "word_wiki_spelling": "Hah",
+          "runes": [
+            "H",
+            "AH"
+          ],
+          "meaning": "Mind",
+          "word_id": "xx0179da",
+          "effect": "Forces NPCs and creatures to become allies for 30 seconds",
+          "recharge_seconds": "90",
+          "location": "Taught to you by Hermaeus Mora (during The Gardener of Men)",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Dov",
+          "word_wiki_spelling": "DOV",
+          "runes": [
+            "D",
+            "O",
+            "V"
+          ],
+          "meaning": "Dragon",
+          "word_id": "xx0179db",
+          "effect": "Tames dragons and allows them to be ridden",
+          "recharge_seconds": "120",
+          "location": "Taught to you by Hermaeus Mora (during The Gardener of Men)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx0179d8",
+      "in_game_description": "Your voice bends the very stones to your will. As it gains power, animals, people, and even dragons must do your bidding.",
+      "locations": [
+        "Saering's Watch",
+        "Taught to you by Hermaeus Mora (during The Gardener of Men)",
+        "Taught to you by Hermaeus Mora (during The Gardener of Men)"
+      ],
+      "wiki_summary": "Bend Will is a dragon shout obtained by progressing through the Dragonborn expansion's main questline. After learning and unlocking the first word, you are able to cleanse the All-Maker Stones located throughout the island by shouting at them.",
+      "source_page": "Skyrim:Bend Will",
+      "revid": 2742105,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Bend Will",
+          "phrase_there": "Gol Hah Dov",
+          "meaning_there": "Earth Mind Dragon",
+          "note": "Gol Hah Dov, meaning Earth Mind Dragon, allows the Tongue to bend and control the will of others, even dragons."
+        }
+      ]
+    },
+    {
+      "id": "shout-call-dragon",
+      "name": "Call Dragon",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Od Ah Viing",
+      "meaning_phrase": "Snow Hunter Wing",
+      "words": [
+        {
+          "position": 1,
+          "word": "Od",
+          "word_wiki_spelling": "OD",
+          "runes": [
+            "O",
+            "D"
+          ],
+          "meaning": "Snow",
+          "word_id": "00046b89",
+          "effect": "No effect.",
+          "recharge_seconds": "5",
+          "location": "High Hrothgar or Sky Haven Temple (all words learned together during The Fallen)",
+          "font_letters_param": "OD"
+        },
+        {
+          "position": 2,
+          "word": "Ah",
+          "word_wiki_spelling": "ah",
+          "runes": [
+            "AH"
+          ],
+          "meaning": "Hunter",
+          "word_id": "00046b8a",
+          "effect": "No effect.",
+          "recharge_seconds": "5",
+          "location": null,
+          "font_letters_param": "4"
+        },
+        {
+          "position": 3,
+          "word": "Viing",
+          "word_wiki_spelling": "ViiNG",
+          "runes": [
+            "V",
+            "II",
+            "N",
+            "G"
+          ],
+          "meaning": "Wing",
+          "word_id": "00046b8b",
+          "effect": "Summons Odahviing.",
+          "recharge_seconds": "300",
+          "location": null,
+          "font_letters_param": "V3NG"
+        }
+      ],
+      "form_id": "00046b8c",
+      "in_game_description": "Odahviing! Hear my Voice and come forth. I summon you in my time of need.",
+      "locations": [
+        "High Hrothgar or Sky Haven Temple (all words learned together during The Fallen)"
+      ],
+      "wiki_summary": "Call Dragon is a dragon shout that summons Odahviing to fight alongside you, but only if it is used outdoors. After shouting all three words, there will be a short delay, then Odahviing will arrive at your location.",
+      "source_page": "Skyrim:Call Dragon",
+      "revid": 3276969,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Od!",
+          "meaning_there": null,
+          "note": "learned at shout level 50"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Od Ah!",
+          "meaning_there": null,
+          "note": "learned at shout level 60"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Od Ah Viing!",
+          "meaning_there": null,
+          "note": "learned at shout level 70"
+        }
+      ]
+    },
+    {
+      "id": "shout-call-of-valor",
+      "name": "Call of Valor",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Hun Kaal Zoor",
+      "meaning_phrase": "Hero Champion Legend",
+      "words": [
+        {
+          "position": 1,
+          "word": "Hun",
+          "word_wiki_spelling": "HUN",
+          "runes": [
+            "H",
+            "U",
+            "N"
+          ],
+          "meaning": "Hero",
+          "word_id": "00051960",
+          "effect": "Summons Gormlaith Golden-Hilt for 60 seconds.",
+          "recharge_seconds": "180",
+          "location": "Sovngarde (all words learned together during Dragonslayer)",
+          "font_letters_param": "HUN"
+        },
+        {
+          "position": 2,
+          "word": "Kaal",
+          "word_wiki_spelling": "KaaL",
+          "runes": [
+            "K",
+            "AA",
+            "L"
+          ],
+          "meaning": "Champion",
+          "word_id": "00051961",
+          "effect": "Summons Felldir the Old for 60 seconds.",
+          "recharge_seconds": "180",
+          "location": null,
+          "font_letters_param": "K1L"
+        },
+        {
+          "position": 3,
+          "word": "Zoor",
+          "word_wiki_spelling": "ZooR",
+          "runes": [
+            "Z",
+            "OO",
+            "R"
+          ],
+          "meaning": "Legend",
+          "word_id": "00051962",
+          "effect": "Summons Hakon One-Eye for 60 seconds.",
+          "recharge_seconds": "180",
+          "location": null,
+          "font_letters_param": "Z8R"
+        }
+      ],
+      "form_id": "0005196a",
+      "in_game_description": "The valiant of Sovngarde hear your Voice, and journey beyond space and time to lend aid.",
+      "locations": [
+        "Sovngarde (all words learned together during Dragonslayer)"
+      ],
+      "wiki_summary": "Call of Valor is a dragon shout that summons a hero to fight alongside you. Tsun teaches this shout to you at the end of Dragonslayer, the conclusion of the main quest.",
+      "source_page": "Skyrim:Call of Valor",
+      "revid": 3080384,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Call of Valor",
+          "phrase_there": "Hun Kaal Zoor",
+          "meaning_there": "Hero Champion Legend",
+          "note": "Hun Kaal Zoor, meaning Hero Champion Legend, is a shout that can summon the ghost of a hero from Sovngarde to aid the Tongue in battle."
+        },
+        {
+          "source_page": "Legends:Call of Valor",
+          "revid": 3133889,
+          "source_kind": "Legends card audio line",
+          "name_there": "Call of Valor",
+          "phrase_there": "Hun",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Call of Valor",
+          "revid": 3133889,
+          "source_kind": "Legends card audio line",
+          "name_there": "Call of Valor",
+          "phrase_there": "Hun Kaal",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Call of Valor",
+          "revid": 3133889,
+          "source_kind": "Legends card audio line",
+          "name_there": "Call of Valor",
+          "phrase_there": "Hun Kaal Zoor",
+          "meaning_there": null,
+          "note": "Level 3"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Hun!",
+          "meaning_there": null,
+          "note": "learned at shout level 80"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Hun Kaal!",
+          "meaning_there": null,
+          "note": "learned at shout level 90"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Hun Kaal Zoor!",
+          "meaning_there": null,
+          "note": "learned at shout level 99"
+        }
+      ]
+    },
+    {
+      "id": "shout-clear-skies",
+      "name": "Clear Skies",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Lok Vah Koor",
+      "meaning_phrase": "Sky Spring Summer",
+      "words": [
+        {
+          "position": 1,
+          "word": "Lok",
+          "word_wiki_spelling": "LOK",
+          "runes": [
+            "L",
+            "O",
+            "K"
+          ],
+          "meaning": "Sky",
+          "word_id": "0003cd31",
+          "effect": "Clears weather for 25 seconds",
+          "recharge_seconds": "5",
+          "location": "High Hrothgar (during The Throat of the World)",
+          "font_letters_param": "LOK"
+        },
+        {
+          "position": 2,
+          "word": "Vah",
+          "word_wiki_spelling": "Vah",
+          "runes": [
+            "V",
+            "AH"
+          ],
+          "meaning": "Spring",
+          "word_id": "0003cd32",
+          "effect": "Clears weather for 40 seconds",
+          "recharge_seconds": "10",
+          "location": null,
+          "font_letters_param": "V4"
+        },
+        {
+          "position": 3,
+          "word": "Koor",
+          "word_wiki_spelling": "KooR",
+          "runes": [
+            "K",
+            "OO",
+            "R"
+          ],
+          "meaning": "Summer",
+          "word_id": "0003cd33",
+          "effect": "Clears weather for 60 seconds",
+          "recharge_seconds": "15",
+          "location": null,
+          "font_letters_param": "K8R"
+        }
+      ],
+      "form_id": "0003cd34",
+      "in_game_description": "Skyrim itself yields before the Thu'um, as you clear away fog and inclement weather.",
+      "locations": [
+        "High Hrothgar (during The Throat of the World)"
+      ],
+      "wiki_summary": "Clear Skies is a dragon shout that clears weather effects. All three words of this shout are learned from the Greybeards during The Throat of the World as part of the main quest.",
+      "source_page": "Skyrim:Clear Skies",
+      "revid": 3551032,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Clear Skies",
+          "phrase_there": "Lok Vah Koor",
+          "meaning_there": "Sky Spring Summer",
+          "note": "Lok Vah Koor, meaning Sky Spring Summer, is a shout that can dispel storms and clouds, and even magical mists."
+        }
+      ]
+    },
+    {
+      "id": "shout-cyclone",
+      "name": "Cyclone",
+      "game": "Skyrim: Dragonborn",
+      "availability": "player",
+      "phrase": "Ven Gaar Nos",
+      "meaning_phrase": "Wind Unleash Strike",
+      "words": [
+        {
+          "position": 1,
+          "word": "Ven",
+          "word_wiki_spelling": "VEN",
+          "runes": [
+            "V",
+            "E",
+            "N"
+          ],
+          "meaning": "Wind",
+          "word_id": "xx0200c2",
+          "effect": "Small cyclone, inflicts 50 damage, tosses enemies and objects into the air.",
+          "recharge_seconds": "30",
+          "location": "Benkongerike",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Gaar",
+          "word_wiki_spelling": "GaaR",
+          "runes": [
+            "G",
+            "AA",
+            "R"
+          ],
+          "meaning": "Unleash",
+          "word_id": "xx0200c3",
+          "effect": "Medium cyclone, inflicts 75 damage, increased area of effect and range.",
+          "recharge_seconds": "45",
+          "location": "Kolbjorn Barrow",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Nos",
+          "word_wiki_spelling": "NOS",
+          "runes": [
+            "N",
+            "O",
+            "S"
+          ],
+          "meaning": "Strike",
+          "word_id": "xx0200c4",
+          "effect": "Large cyclone, inflicts 100 damage, further increased area of effect and range.",
+          "recharge_seconds": "60",
+          "location": "White Ridge Sanctum",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx0200c0",
+      "in_game_description": "Your Thu'um creates a whirling cyclone that sows chaos among your enemies.",
+      "locations": [
+        "Benkongerike",
+        "Kolbjorn Barrow",
+        "White Ridge Sanctum"
+      ],
+      "wiki_summary": "Cyclone is a dragon shout added by the Dragonborn expansion. When used, the shout fires out a small cyclone that throws enemies, even large enemies like giants, into the air causing moderate damage.",
+      "source_page": "Skyrim:Cyclone",
+      "revid": 3540611,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Cyclone",
+          "phrase_there": "Ven Gaar Nos",
+          "meaning_there": "Wind Unleash Strike",
+          "note": "Ven Gaar Nos, meaning Wind Unleash Strike, is a shout that can summon a whirling tornado."
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Ven!",
+          "meaning_there": null,
+          "note": "learned at shout level 22"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Ven Gaar!",
+          "meaning_there": null,
+          "note": "learned at shout level 24"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Ven Gaar Nos!",
+          "meaning_there": null,
+          "note": "learned at shout level 27"
+        }
+      ]
+    },
+    {
+      "id": "shout-disarm",
+      "name": "Disarm",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Zun Haal Viik",
+      "meaning_phrase": "weapon Hand defeat",
+      "words": [
+        {
+          "position": 1,
+          "word": "Zun",
+          "word_wiki_spelling": "ZUN",
+          "runes": [
+            "Z",
+            "U",
+            "N"
+          ],
+          "meaning": "weapon",
+          "word_id": "0005fb95",
+          "effect": "Disarms enemies up to level 12",
+          "recharge_seconds": "30",
+          "location": "Eldersblood Peak",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Haal",
+          "word_wiki_spelling": "HaaL",
+          "runes": [
+            "H",
+            "AA",
+            "L"
+          ],
+          "meaning": "Hand",
+          "word_id": "0005fb96",
+          "effect": "Disarms enemies up to level 20",
+          "recharge_seconds": "35",
+          "location": "Silverdrift Lair",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Viik",
+          "word_wiki_spelling": "ViiK",
+          "runes": [
+            "V",
+            "II",
+            "K"
+          ],
+          "meaning": "defeat",
+          "word_id": "0005fb97",
+          "effect": "Disarms enemies up to level 30",
+          "recharge_seconds": "40",
+          "location": "Snow Veil Sanctum (quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "00070981",
+      "in_game_description": "Shout defies steel, as you rip the weapon from an opponent's grasp.",
+      "locations": [
+        "Eldersblood Peak",
+        "Silverdrift Lair",
+        "Snow Veil Sanctum (quest locked)"
+      ],
+      "wiki_summary": "Disarm is a shout that pulls the weapon out of an opponent's grasp. It is one of the more common shouts used by draugr, which can be quite an issue if you are wielding a unique weapon, as the weapon can easily be lost when thrown from your hand.",
+      "source_page": "Skyrim:Disarm",
+      "revid": 3246655,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Disarm",
+          "phrase_there": "Zun Haal Viik",
+          "meaning_there": "Weapon Hand Defeat",
+          "note": "Zun Haal Viik, meaning Weapon Hand Defeat, is a shout that rips a weapon out of an opponent's hands."
+        }
+      ]
+    },
+    {
+      "id": "shout-dismay",
+      "name": "Dismay",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Faas Ru Maar",
+      "meaning_phrase": "Fear run terror",
+      "words": [
+        {
+          "position": 1,
+          "word": "Faas",
+          "word_wiki_spelling": "FaaS",
+          "runes": [
+            "F",
+            "AA",
+            "S"
+          ],
+          "meaning": "Fear",
+          "word_id": "0003291a",
+          "effect": "Causes enemies up to level 7 within 36 feet to flee for 30 s",
+          "recharge_seconds": "40",
+          "location": "Dead Crone Rock",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Ru",
+          "word_wiki_spelling": "RU",
+          "runes": [
+            "R",
+            "U"
+          ],
+          "meaning": "run",
+          "word_id": "0003291b",
+          "effect": "Causes enemies up to level 15 within 50 feet to flee for 30 s",
+          "recharge_seconds": "45",
+          "location": "Lost Tongue Overlook",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Maar",
+          "word_wiki_spelling": "MaaR",
+          "runes": [
+            "M",
+            "AA",
+            "R"
+          ],
+          "meaning": "terror",
+          "word_id": "0003291c",
+          "effect": "Causes enemies up to level 24 within 93.75 feet to flee for 30 s",
+          "recharge_seconds": "50",
+          "location": "Shalidor's Maze",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0002395a",
+      "in_game_description": "And the weak shall fear the Thu'um, and flee in terror.",
+      "locations": [
+        "Dead Crone Rock",
+        "Lost Tongue Overlook",
+        "Shalidor's Maze"
+      ],
+      "wiki_summary": "Dismay is a dragon shout that causes enemies to flee from you. It can hit any enemies in its radius, similar to Unrelenting Force.",
+      "source_page": "Skyrim:Dismay",
+      "revid": 2742129,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Dismay",
+          "phrase_there": "Faas Ru Maar",
+          "meaning_there": "Fear Run Terror",
+          "note": "Faas Ru Maar, meaning Fear Run Terror, is a shout that forces enemies to flee in terror from the Tongue."
+        }
+      ]
+    },
+    {
+      "id": "shout-dragon-aspect",
+      "name": "Dragon Aspect",
+      "game": "Skyrim: Dragonborn",
+      "availability": "player",
+      "phrase": "Mul Qah Diiv",
+      "meaning_phrase": "Strength Armor Wyrm",
+      "words": [
+        {
+          "position": 1,
+          "word": "Mul",
+          "word_wiki_spelling": "MUL",
+          "runes": [
+            "M",
+            "U",
+            "L"
+          ],
+          "meaning": "Strength",
+          "word_id": "xx01df93",
+          "effect": "+25 Armor rating, and power attacks do 25% more damage",
+          "recharge_seconds": "5",
+          "location": "Apocrypha (Waking Dreams)",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Qah",
+          "word_wiki_spelling": "Qah",
+          "runes": [
+            "Q",
+            "AH"
+          ],
+          "meaning": "Armor",
+          "word_id": "xx01df94",
+          "effect": "+100 Armor rating (total), Ancient Dragonborn summoned if health below 50%, +25% fire and frost resistance",
+          "recharge_seconds": "5",
+          "location": "Raven Rock Mine",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Diiv",
+          "word_wiki_spelling": "DiiV",
+          "runes": [
+            "D",
+            "II",
+            "V"
+          ],
+          "meaning": "Wyrm",
+          "word_id": "xx01df95",
+          "effect": "Shout recharge time reduced by 20%",
+          "recharge_seconds": "5",
+          "location": "Temple of Miraak",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx01df92",
+      "in_game_description": "Once a day, take on the mighty aspect of a dragon, delivering colossal blows, with an armored hide, and more powerful shouts.",
+      "locations": [
+        "Apocrypha (Waking Dreams)",
+        "Raven Rock Mine",
+        "Temple of Miraak"
+      ],
+      "wiki_summary": "Dragon Aspect is a shout that improves your power attack damage, resistance to damage, and shout recharge time. When used, dragon-like traits will be physically applied to the one shouting in the form of a spectral armor.",
+      "source_page": "Skyrim:Dragon Aspect",
+      "revid": 3654014,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Dragon Aspect",
+          "phrase_there": "Mul Qah Diiv",
+          "meaning_there": "Strength Armor Wyrm",
+          "note": "Mul Qah Diiv, meaning Strength Armor Wyrm, is a shout that gives the Tongue the strength to deliver colossal blows, magical armor to withstand powerful attacks, and an empowered thu'um. This shout can also summon an ancient Dragonborn to aid the Tongue in battle."
+        },
+        {
+          "source_page": "Legends:Dragon Aspect",
+          "revid": 3135803,
+          "source_kind": "Legends card audio line",
+          "name_there": "Dragon Aspect",
+          "phrase_there": "Mul",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Dragon Aspect",
+          "revid": 3135803,
+          "source_kind": "Legends card audio line",
+          "name_there": "Dragon Aspect",
+          "phrase_there": "Mul Qah",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Dragon Aspect",
+          "revid": 3135803,
+          "source_kind": "Legends card audio line",
+          "name_there": "Dragon Aspect",
+          "phrase_there": "Mul Qah Diiv",
+          "meaning_there": null,
+          "note": "Level 3"
+        }
+      ]
+    },
+    {
+      "id": "shout-dragonrend",
+      "name": "Dragonrend",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Joor Zah Frul",
+      "meaning_phrase": "Mortal Finite Temporary",
+      "words": [
+        {
+          "position": 1,
+          "word": "Joor",
+          "word_wiki_spelling": "JooR",
+          "runes": [
+            "J",
+            "OO",
+            "R"
+          ],
+          "meaning": "Mortal",
+          "word_id": "00044251",
+          "effect": "15 seconds",
+          "recharge_seconds": "10",
+          "location": "Throat of the World (during Alduin's Bane)",
+          "font_letters_param": "J8R"
+        },
+        {
+          "position": 2,
+          "word": "Zah",
+          "word_wiki_spelling": "Zah",
+          "runes": [
+            "Z",
+            "AH"
+          ],
+          "meaning": "Finite",
+          "word_id": "00044252",
+          "effect": "18 seconds",
+          "recharge_seconds": "12",
+          "location": null,
+          "font_letters_param": "Z4"
+        },
+        {
+          "position": 3,
+          "word": "Frul",
+          "word_wiki_spelling": "FRUL",
+          "runes": [
+            "F",
+            "R",
+            "U",
+            "L"
+          ],
+          "meaning": "Temporary",
+          "word_id": "00044253",
+          "effect": "22 seconds",
+          "recharge_seconds": "15",
+          "location": null,
+          "font_letters_param": "FRUL"
+        }
+      ],
+      "form_id": "00044250",
+      "in_game_description": "Your Voice lashes out at a dragon's very soul, forcing the beast to land.",
+      "locations": [
+        "Throat of the World (during Alduin's Bane)"
+      ],
+      "wiki_summary": "Dragonrend is a dragon shout that weakens a dragon and forces it to land. It is said to do so by forcing a dragon to experience mortality, a completely foreign concept to the ageless and immortal dragons.",
+      "source_page": "Skyrim:Dragonrend",
+      "revid": 3415114,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Dragonrend",
+          "phrase_there": "Joor Zah Frul",
+          "meaning_there": "Mortal Finite Temporary",
+          "note": "Joor Zah Frul, meaning Mortal Finite Temporary, is a shout that inflicts the concept of mortality upon a dragon, lashing at its very soul and forcing it to land. This shout was created by the Nords to slay these otherwise immortal beasts."
+        }
+      ]
+    },
+    {
+      "id": "shout-drain-vitality",
+      "name": "Drain Vitality",
+      "game": "Skyrim: Dawnguard",
+      "availability": "player",
+      "phrase": "Gaan Lah Haas",
+      "meaning_phrase": "stamina magicka health",
+      "words": [
+        {
+          "position": 1,
+          "word": "Gaan",
+          "word_wiki_spelling": "GaaN",
+          "runes": [
+            "G",
+            "AA",
+            "N"
+          ],
+          "meaning": "stamina",
+          "word_id": "xx008a65",
+          "effect": "Drains 5 points of Stamina per second for 30 seconds.",
+          "recharge_seconds": "30",
+          "location": "Arcwind Point",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Lah",
+          "word_wiki_spelling": "Lah",
+          "runes": [
+            "L",
+            "AH"
+          ],
+          "meaning": "magicka",
+          "word_id": "xx008a64",
+          "effect": "Drains 5 points of Stamina and Magicka per second for 30 seconds.",
+          "recharge_seconds": "60",
+          "location": "Dimhollow Crypt (quest locked)",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Haas",
+          "word_wiki_spelling": "HaaS",
+          "runes": [
+            "H",
+            "AA",
+            "S"
+          ],
+          "meaning": "health",
+          "word_id": "xx008a63",
+          "effect": "Drains 5 points each of Stamina, Magicka, and Health per second for 30 seconds.",
+          "recharge_seconds": "90",
+          "location": "Forgotten Vale (quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx008a62",
+      "in_game_description": "Coax both magical and mortal energies from your hapless opponent.",
+      "locations": [
+        "Arcwind Point",
+        "Dimhollow Crypt (quest locked)",
+        "Forgotten Vale (quest locked)"
+      ],
+      "wiki_summary": "Drain Vitality is a dragon shout introduced in the Dawnguard add-on that drains stamina, magicka, and health from an enemy. The dragons added by Dawnguard, Revered and Legendary, each have their own version of this shout.",
+      "source_page": "Skyrim:Drain Vitality",
+      "revid": 3545621,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Drain Vitality",
+          "phrase_there": "Gaan Lah Haas",
+          "meaning_there": "Stamina Magicka Health",
+          "note": "Gaan Lah Haas, meaning Stamina Magicka Health, is a shout that drains magical and mortal energies from enemies."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Gaan Lah Haas",
+          "meaning_there": "Stamina Magicka Health",
+          "note": "Corresponding ability: Drain Vitality"
+        },
+        {
+          "source_page": "Legends:Drain Vitality",
+          "revid": 3134050,
+          "source_kind": "Legends card audio line",
+          "name_there": "Drain Vitality",
+          "phrase_there": "Gaan",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Drain Vitality",
+          "revid": 3134050,
+          "source_kind": "Legends card audio line",
+          "name_there": "Drain Vitality",
+          "phrase_there": "Gaan Lah",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Drain Vitality",
+          "revid": 3134050,
+          "source_kind": "Legends card audio line",
+          "name_there": "Drain Vitality",
+          "phrase_there": "Gaan Lah Haas",
+          "meaning_there": null,
+          "note": "Level 3"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Gaan!",
+          "meaning_there": null,
+          "note": "learned at shout level 29"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Gaan Lah!",
+          "meaning_there": null,
+          "note": "learned at shout level 31"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Gaan Lah Haas!",
+          "meaning_there": null,
+          "note": "learned at shout level 34"
+        }
+      ]
+    },
+    {
+      "id": "shout-elemental-fury",
+      "name": "Elemental Fury",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Su Grah Dun",
+      "meaning_phrase": "Air battle grace",
+      "words": [
+        {
+          "position": 1,
+          "word": "Su",
+          "word_wiki_spelling": "SU",
+          "runes": [
+            "S",
+            "U"
+          ],
+          "meaning": "Air",
+          "word_id": "0003291d",
+          "effect": "Elemental Fury, 1.3 pts for 15 secs",
+          "recharge_seconds": "30",
+          "location": "Dragontooth Crater",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Grah",
+          "word_wiki_spelling": "GRah",
+          "runes": [
+            "G",
+            "R",
+            "AH"
+          ],
+          "meaning": "battle",
+          "word_id": "0003291e",
+          "effect": "Elemental Fury, 1.5 pts for 15 secs",
+          "recharge_seconds": "40",
+          "location": "Shriekwind Bastion",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Dun",
+          "word_wiki_spelling": "DUN",
+          "runes": [
+            "D",
+            "U",
+            "N"
+          ],
+          "meaning": "grace",
+          "word_id": "0003291f",
+          "effect": "Elemental Fury, 1.7 pts for 15 secs",
+          "recharge_seconds": "50",
+          "location": "Statue to Meridia (just uphill to the northeast)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "00032921",
+      "in_game_description": "The Thu'um imbues your arms with the speed of wind, allowing for faster weapon strikes.",
+      "locations": [
+        "Dragontooth Crater",
+        "Shriekwind Bastion",
+        "Statue to Meridia (just uphill to the northeast)"
+      ],
+      "wiki_summary": "Elemental Fury is a dragon shout that increases the speed of weapon swings and damage for a short time. It does not work on enchanted or bound weapons.",
+      "source_page": "Skyrim:Elemental Fury",
+      "revid": 3482463,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Elemental Fury",
+          "phrase_there": "Su Grah Dun",
+          "meaning_there": "Air Battle Grace",
+          "note": "Su Grah Dun, meaning Air Battle Grace, is a shout that allows the Tongue to fight faster and with more fury."
+        }
+      ]
+    },
+    {
+      "id": "shout-fire-breath",
+      "name": "Fire Breath",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Yol Toor Shul",
+      "meaning_phrase": "fire Inferno Sun",
+      "words": [
+        {
+          "position": 1,
+          "word": "Yol",
+          "word_wiki_spelling": "YOL",
+          "runes": [
+            "Y",
+            "O",
+            "L"
+          ],
+          "meaning": "fire",
+          "word_id": "00020e17",
+          "effect": "50 Fire Damage",
+          "recharge_seconds": "30",
+          "location": "Dustman's Cairn (quest locked)",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Toor",
+          "word_wiki_spelling": "TooR",
+          "runes": [
+            "T",
+            "OO",
+            "R"
+          ],
+          "meaning": "Inferno",
+          "word_id": "00020e18",
+          "effect": "70 Fire Damage",
+          "recharge_seconds": "50",
+          "location": "Sunderstone Gorge",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Shul",
+          "word_wiki_spelling": "SHUL",
+          "runes": [
+            "S",
+            "H",
+            "U",
+            "L"
+          ],
+          "meaning": "Sun",
+          "word_id": "00020e19",
+          "effect": "90 Fire Damage",
+          "recharge_seconds": "100",
+          "location": "Throat of the World (during The Throat of the World)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0003f9ea",
+      "in_game_description": "Inhale air, exhale flame, and behold the Thu'um as inferno.",
+      "locations": [
+        "Dustman's Cairn (quest locked)",
+        "Sunderstone Gorge",
+        "Throat of the World (during The Throat of the World)"
+      ],
+      "wiki_summary": "Fire Breath is a shout that deals fire damage to enemies, and potentially staggers them as well. Its use does not increase XP for the Destruction skill.",
+      "source_page": "Skyrim:Fire Breath",
+      "revid": 3475751,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Fire Breath",
+          "phrase_there": "Yol Toor Shul",
+          "meaning_there": "Fire Inferno Sun",
+          "note": "Yol Toor Shul, meaning Fire Inferno Sun, allows the Tongue to exhale a torrent of flames."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Yol Toor Shul",
+          "meaning_there": "Fire Inferno Sun",
+          "note": "Corresponding ability: Fire Breath"
+        },
+        {
+          "source_page": "Legends:Fire Breath",
+          "revid": 3134053,
+          "source_kind": "Legends card audio line",
+          "name_there": "Fire Breath",
+          "phrase_there": "Yol!",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Fire Breath",
+          "revid": 3134053,
+          "source_kind": "Legends card audio line",
+          "name_there": "Fire Breath",
+          "phrase_there": "Yol Toor!",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Fire Breath",
+          "revid": 3134053,
+          "source_kind": "Legends card audio line",
+          "name_there": "Fire Breath",
+          "phrase_there": "Yol Toor Shul!",
+          "meaning_there": null,
+          "note": "Level 3"
+        },
+        {
+          "source_page": "Legends:Miraak, Dragonborn",
+          "revid": 3246013,
+          "source_kind": "Legends card audio line",
+          "name_there": "Miraak, Dragonborn",
+          "phrase_there": "Yol Toor Shul!",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "Legends:Odahviing",
+          "revid": 3133732,
+          "source_kind": "Legends card audio line",
+          "name_there": "Odahviing",
+          "phrase_there": "Yol! Toor shul!",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "Legends:Paarthurnax",
+          "revid": 3246908,
+          "source_kind": "Legends card audio line",
+          "name_there": "Paarthurnax",
+          "phrase_there": "Yol Toor Shul!",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Yol!",
+          "meaning_there": null,
+          "note": "learned at shout level 8"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Yol Toor!",
+          "meaning_there": null,
+          "note": "learned at shout level 10"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Yol Toor Shul!",
+          "meaning_there": null,
+          "note": "learned at shout level 13"
+        }
+      ]
+    },
+    {
+      "id": "shout-frost-breath",
+      "name": "Frost Breath",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Fo Krah Diin",
+      "meaning_phrase": "frost cold Freeze",
+      "words": [
+        {
+          "position": 1,
+          "word": "Fo",
+          "word_wiki_spelling": "FO",
+          "runes": [
+            "F",
+            "O"
+          ],
+          "meaning": "frost",
+          "word_id": "0005d16c",
+          "effect": "10 frost damage/sec for 5 seconds, Slow",
+          "recharge_seconds": "30",
+          "location": "Bonestrewn Crest",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Krah",
+          "word_wiki_spelling": "KRah",
+          "runes": [
+            "K",
+            "R",
+            "AH"
+          ],
+          "meaning": "cold",
+          "word_id": "0005d16d",
+          "effect": "14 frost damage/sec for 5 seconds, Slow",
+          "recharge_seconds": "50",
+          "location": "Folgunthur",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Diin",
+          "word_wiki_spelling": "DiiN",
+          "runes": [
+            "D",
+            "II",
+            "N"
+          ],
+          "meaning": "Freeze",
+          "word_id": "0005d16e",
+          "effect": "18 frost damage/sec for 5 seconds, Slow",
+          "recharge_seconds": "100",
+          "location": "Skyborn Altar",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0005d16b",
+      "in_game_description": "Your breath is winter, you Thu'um a blizzard.",
+      "locations": [
+        "Bonestrewn Crest",
+        "Folgunthur",
+        "Skyborn Altar"
+      ],
+      "wiki_summary": "Frost Breath is a dragon shout that deals frost damage to enemies.",
+      "source_page": "Skyrim:Frost Breath",
+      "revid": 3237013,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Frost Breath",
+          "phrase_there": "Fo Krah Diin",
+          "meaning_there": "Frost Cold Freeze",
+          "note": "Fo Krah Diin, meaning Frost Cold Freeze, is a shout that allows the Tongue to breathe freezing cold winds."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Fo Krah Diin",
+          "meaning_there": "Frost Cold Freeze",
+          "note": "Corresponding ability: Frost Breath"
+        },
+        {
+          "source_page": "Legends:Voice of Balance",
+          "revid": 3134203,
+          "source_kind": "Legends card audio line",
+          "name_there": "Voice of Balance",
+          "phrase_there": "Fo Krah Diin",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fo!",
+          "meaning_there": null,
+          "note": "learned at shout level 15"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fo Krah!",
+          "meaning_there": null,
+          "note": "learned at shout level 17"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fo Krah Diin!",
+          "meaning_there": null,
+          "note": "learned at shout level 20"
+        }
+      ]
+    },
+    {
+      "id": "shout-ice-form",
+      "name": "Ice Form",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Iiz Slen Nus",
+      "meaning_phrase": "Ice flesh statue",
+      "words": [
+        {
+          "position": 1,
+          "word": "Iiz",
+          "word_wiki_spelling": "iiZ",
+          "runes": [
+            "II",
+            "Z"
+          ],
+          "meaning": "Ice",
+          "word_id": "000602a3",
+          "effect": "Paralysis and 2 damage/s for 15 s",
+          "recharge_seconds": "60",
+          "location": "Frostmere Crypt",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Slen",
+          "word_wiki_spelling": "SLEN",
+          "runes": [
+            "S",
+            "L",
+            "E",
+            "N"
+          ],
+          "meaning": "flesh",
+          "word_id": "000602a4",
+          "effect": "Paralysis and 2 damage/s for 30 s",
+          "recharge_seconds": "90",
+          "location": "Mount Anthor",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Nus",
+          "word_wiki_spelling": "NUS",
+          "runes": [
+            "N",
+            "U",
+            "S"
+          ],
+          "meaning": "statue",
+          "word_id": "000602a5",
+          "effect": "Paralysis and 2 damage/s for 60 s",
+          "recharge_seconds": "120",
+          "location": "Saarthal (quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "00070980",
+      "in_game_description": "Your Thu'um freezes an opponent solid.",
+      "locations": [
+        "Frostmere Crypt",
+        "Mount Anthor",
+        "Saarthal (quest locked)"
+      ],
+      "wiki_summary": "Ice Form is a dragon shout that encases foes in a solid block of ice which renders them completely immobile for the duration of the shout. Damage is dealt to the target over time.",
+      "source_page": "Skyrim:Ice Form",
+      "revid": 3320656,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Ice Form",
+          "phrase_there": "Iiz Slen Nus",
+          "meaning_there": "Ice Flesh Statue",
+          "note": "Iiz Slen Nus, meaning Ice Flesh Statue, is a shout that encases an opponent in ice, freezing them solid."
+        }
+      ]
+    },
+    {
+      "id": "shout-ice-storm",
+      "name": "Ice Storm",
+      "game": "Skyrim: Dragonborn",
+      "availability": "not on the wiki's list of shouts available to the player",
+      "phrase": null,
+      "meaning_phrase": null,
+      "words": [],
+      "form_id": "xx03612c",
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Ice Storm is an exclusive shout only used in combat by Sahrotaar during At the Summit of Apocrypha. It deals frost damage in an area.",
+      "source_page": "Skyrim:Ice Storm (shout)",
+      "revid": 2742162,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-kyne-s-peace",
+      "name": "Kyne's Peace",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Kaan Drem Ov",
+      "meaning_phrase": "Kyne peace trust",
+      "words": [
+        {
+          "position": 1,
+          "word": "Kaan",
+          "word_wiki_spelling": "KaaN",
+          "runes": [
+            "K",
+            "AA",
+            "N"
+          ],
+          "meaning": "Kyne",
+          "word_id": "0006029d",
+          "effect": "Animals up to Level 20 within 75 feet are calmed for 60 s.",
+          "recharge_seconds": "40",
+          "location": "Ragnvald",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Drem",
+          "word_wiki_spelling": "DREM",
+          "runes": [
+            "D",
+            "R",
+            "E",
+            "M"
+          ],
+          "meaning": "peace",
+          "word_id": "0006029e",
+          "effect": "Animals up to Level 20 within 150 feet are calmed for 120 s.",
+          "recharge_seconds": "50",
+          "location": "Rannveig's Fast",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Ov",
+          "word_wiki_spelling": "OV",
+          "runes": [
+            "O",
+            "V"
+          ],
+          "meaning": "trust",
+          "word_id": "0006029f",
+          "effect": "Animals up to Level 20 within 225 feet are calmed for 180 s.",
+          "recharge_seconds": "60",
+          "location": "Shroud Hearth Barrow",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0007097e",
+      "in_game_description": "The Voice soothes wild beasts, who lose their desire to fight or flee.",
+      "locations": [
+        "Ragnvald",
+        "Rannveig's Fast",
+        "Shroud Hearth Barrow"
+      ],
+      "wiki_summary": "Kyne's Peace is a shout that calms animals. Affected creatures will not fight or flee.",
+      "source_page": "Skyrim:Kyne's Peace",
+      "revid": 2759719,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Kyne's Peace",
+          "phrase_there": "Kaan Drem Ov",
+          "meaning_there": "Kyne Peace Trust",
+          "note": "Kaan Drem Ov, meaning Kyne Peace Trust, is a shout that calms nearby animals into docility, making them unwilling to fight or flee."
+        }
+      ]
+    },
+    {
+      "id": "shout-marked-for-death",
+      "name": "Marked for Death",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Krii Lun Aus",
+      "meaning_phrase": "kill Leech suffer",
+      "words": [
+        {
+          "position": 1,
+          "word": "Krii",
+          "word_wiki_spelling": "KRii",
+          "runes": [
+            "K",
+            "R",
+            "II"
+          ],
+          "meaning": "kill",
+          "word_id": "00060297",
+          "effect": "Damage Health 1 pt for 60 seconds\nDamage Armor 25 pts for 60 seconds",
+          "recharge_seconds": "20",
+          "location": "Autumnwatch Tower",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Lun",
+          "word_wiki_spelling": "LUN",
+          "runes": [
+            "L",
+            "U",
+            "N"
+          ],
+          "meaning": "Leech",
+          "word_id": "00060298",
+          "effect": "Damage Health 2 pts for 60 seconds\nDamage Armor 50 pts for 60 seconds",
+          "recharge_seconds": "30",
+          "location": "Dark Brotherhood Sanctuary (quest locked)",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Aus",
+          "word_wiki_spelling": "AUS",
+          "runes": [
+            "A",
+            "U",
+            "S"
+          ],
+          "meaning": "suffer",
+          "word_id": "00060299",
+          "effect": "Damage Health 3 pts for 60 seconds\nDamage Armor 75 pts for 60 seconds",
+          "recharge_seconds": "40",
+          "location": "Forsaken Cave",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0007097c",
+      "in_game_description": "Speak, and let your Voice herald doom, as an opponent's armor and lifeforce are weakened.",
+      "locations": [
+        "Autumnwatch Tower",
+        "Dark Brotherhood Sanctuary (quest locked)",
+        "Forsaken Cave"
+      ],
+      "wiki_summary": "Marked for Death is a shout that temporarily reduces an enemy's health and armor rating, making them more vulnerable to physical damage. Each word further decreases the target's armor rating by 25 points, which means they will take 3% extra physical damage per word.",
+      "source_page": "Skyrim:Marked for Death",
+      "revid": 3480489,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Marked for Death",
+          "phrase_there": "Krii Lun Aus",
+          "meaning_there": "Kill Leech Suffer",
+          "note": "Krii Lun Aus, meaning Kill Leech Suffer, is a shout that weakens the armor and drains the life of an opponent, spelling their doom."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Krii Lun Aus",
+          "meaning_there": "Kill Leech Suffer",
+          "note": "Corresponding ability: Marked For Death"
+        }
+      ]
+    },
+    {
+      "id": "shout-phantom-form",
+      "name": "Phantom Form",
+      "game": "Skyrim",
+      "availability": "not on the wiki's list of shouts available to the player",
+      "phrase": "Fiik Lo Sah",
+      "meaning_phrase": "mirror deceive phantom",
+      "words": [
+        {
+          "position": 1,
+          "word": "Fiik",
+          "word_wiki_spelling": "FiiK",
+          "runes": [
+            "F",
+            "II",
+            "K"
+          ],
+          "meaning": "mirror",
+          "word_id": "0002f2cc",
+          "effect": "Create phantom for 8 seconds.",
+          "recharge_seconds": "1",
+          "location": "Unavailable",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Lo",
+          "word_wiki_spelling": "LO",
+          "runes": [
+            "L",
+            "O"
+          ],
+          "meaning": "deceive",
+          "word_id": "0002f2cd",
+          "effect": "Create phantom for 8 seconds.",
+          "recharge_seconds": "1",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Sah",
+          "word_wiki_spelling": "SAH",
+          "runes": [
+            "S",
+            "A",
+            "H"
+          ],
+          "meaning": "phantom",
+          "word_id": "0002f2ce",
+          "effect": "Create phantom for 8 seconds.",
+          "recharge_seconds": "1",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0002f2df",
+      "in_game_description": "Phantom Form, for 8 secs",
+      "locations": [
+        "Unavailable"
+      ],
+      "wiki_summary": "Phantom Form is a dragon shout that creates a phantom. It is used by the Greybeards to create targets for shout practice.",
+      "source_page": "Skyrim:Phantom Form",
+      "revid": 3207612,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Skyrim:Dragon Shouts",
+          "revid": 3279131,
+          "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+          "name_there": "Phantom Form",
+          "phrase_there": "Fiik Lo Sah",
+          "meaning_there": "Mirror Deceive Phantom",
+          "note": "The shout used by the Greybeards to create ethereal forms for you to practice shouts on is called Phantom Form‎. Its words of power are \"Fiik Lo Sah\", which is translated as \"Mirror Deceive Phantom\". The shout was apparently intended to be available, as it is voiced for all races."
+        },
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Phantom Form",
+          "phrase_there": "Fiik Lo Sah",
+          "meaning_there": "Mirror Deceive Phantom",
+          "note": "Fiik Lo Sah, meaning Mirror Deceive Phantom, is a shout that can create ethereal forms of the Tongue."
+        }
+      ]
+    },
+    {
+      "id": "shout-slow-time",
+      "name": "Slow Time",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Tiid Klo Ul",
+      "meaning_phrase": "Time sand eternity",
+      "words": [
+        {
+          "position": 1,
+          "word": "Tiid",
+          "word_wiki_spelling": "TiiD",
+          "runes": [
+            "T",
+            "II",
+            "D"
+          ],
+          "meaning": "Time",
+          "word_id": "00048aca",
+          "effect": "Slows time to 30% of normal speed for 8 seconds.",
+          "recharge_seconds": "30",
+          "location": "Hag's End",
+          "font_letters_param": "T3D"
+        },
+        {
+          "position": 2,
+          "word": "Klo",
+          "word_wiki_spelling": "KLO",
+          "runes": [
+            "K",
+            "L",
+            "O"
+          ],
+          "meaning": "sand",
+          "word_id": "00048acb",
+          "effect": "Slows time to 20% of normal speed for 12 seconds.",
+          "recharge_seconds": "45",
+          "location": "Korvanjund (quest locked)",
+          "font_letters_param": "KLO"
+        },
+        {
+          "position": 3,
+          "word": "Ul",
+          "word_wiki_spelling": "UL",
+          "runes": [
+            "U",
+            "L"
+          ],
+          "meaning": "eternity",
+          "word_id": "00048acc",
+          "effect": "Slows time to 10% of normal speed for 16 seconds.",
+          "recharge_seconds": "60",
+          "location": "Labyrinthian (quest locked)",
+          "font_letters_param": "UL"
+        }
+      ],
+      "form_id": "00048ac9",
+      "in_game_description": "Shout at time, and command it to obey, as the world around you stands still.",
+      "locations": [
+        "Hag's End",
+        "Korvanjund (quest locked)",
+        "Labyrinthian (quest locked)"
+      ],
+      "wiki_summary": "Slow Time is a shout that slows down time. You are also affected, but not to the same extent.",
+      "source_page": "Skyrim:Slow Time",
+      "revid": 3470026,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Slow Time",
+          "phrase_there": "Tiid Klo Ul",
+          "meaning_there": "Time Sand Eternity",
+          "note": "Tiid Klo Ul, meaning Time Sand Eternity, is a Shout that slows time around the Tongue."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Tiid Klo Ul",
+          "meaning_there": "Time Sand Eternity",
+          "note": "Corresponding ability: Time Stop"
+        }
+      ]
+    },
+    {
+      "id": "shout-soul-cairn-summon",
+      "name": "Soul Cairn Summon",
+      "game": "Skyrim: Dawnguard",
+      "availability": "not on the wiki's list of shouts available to the player",
+      "phrase": "Diil Qoth Zaam",
+      "meaning_phrase": "Undead Tomb Slave",
+      "words": [
+        {
+          "position": 1,
+          "word": "Diil",
+          "word_wiki_spelling": "DiiL",
+          "runes": [
+            "D",
+            "II",
+            "L"
+          ],
+          "meaning": "Undead",
+          "word_id": "xx01a162",
+          "effect": "Calls 1 undead (Boneman) from Soul Cairn for 60 seconds.",
+          "recharge_seconds": "15",
+          "location": "Unavailable",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Qoth",
+          "word_wiki_spelling": "QOTH",
+          "runes": [
+            "Q",
+            "O",
+            "T",
+            "H"
+          ],
+          "meaning": "Tomb",
+          "word_id": "xx01a163",
+          "effect": "Calls 2 undead (Boneman + Mistman) from Soul Cairn for 60 seconds.",
+          "recharge_seconds": "15",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Zaam",
+          "word_wiki_spelling": "ZaaM",
+          "runes": [
+            "Z",
+            "AA",
+            "M"
+          ],
+          "meaning": "Slave",
+          "word_id": "xx01a164",
+          "effect": "Calls 3 undead (Boneman + Mistman + Wrathman) from Soul Cairn for 60 seconds.",
+          "recharge_seconds": "15",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx01a165",
+      "in_game_description": "Summon undead from the Soul Cairn.",
+      "locations": [
+        "Unavailable"
+      ],
+      "wiki_summary": "Soul Cairn Summon is a shout unique to Durnehviir, and therefore cannot be learned by the player aside from using console commands. It summons one Boneman, one Mistman, and one Wrathman with each consecutive word, summoning one of each with all three words.",
+      "source_page": "Skyrim:Soul Cairn Summon",
+      "revid": 2742221,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Skyrim:Dragon Shouts",
+          "revid": 3279131,
+          "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+          "name_there": "Soul Cairn Summon",
+          "phrase_there": "Diil Qoth Zaam",
+          "meaning_there": "Undead Tomb Slave",
+          "note": "Dawnguard adds Soul Cairn Summon, a shout unique to Durnehviir. Its words of power are \"Diil Qoth Zaam\", translated as \"Undead Tomb Slave\". Each word summons an undead minion from the Soul Cairn; the full shout will summon a wrathman, boneman, and mistman to aid Durnehviir in combat. These summons are available to you, but rather in spell form. Even if you obtain this shout with console commands, you can only summon one undead unless you use the console to add the multiple summon perk that Durnehviir has."
+        },
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Soul Cairn Summon",
+          "phrase_there": "Diil Qoth Zaam",
+          "meaning_there": "Undead Tomb Slave",
+          "note": "Diil Qoth Zaam, meaning Undead Tomb Slave, is a shout that allows the Tongue to summon members of the Soul Guard from the Soul Cairn. It was used by Durnehviir."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Diil Qoth Zaam",
+          "meaning_there": "Undead Tomb Slave",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "shout-soul-tear",
+      "name": "Soul Tear",
+      "game": "Skyrim: Dawnguard",
+      "availability": "player",
+      "phrase": "Rii Vaaz Zol",
+      "meaning_phrase": "Essence Tear Zombie",
+      "words": [
+        {
+          "position": 1,
+          "word": "Rii",
+          "word_wiki_spelling": "Rii",
+          "runes": [
+            "R",
+            "II"
+          ],
+          "meaning": "Essence",
+          "word_id": "xx007cb7",
+          "effect": "Slight push",
+          "recharge_seconds": "5",
+          "location": "Durnehviir teaches you a word each time you summon him from the Soul Cairn.",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Vaaz",
+          "word_wiki_spelling": "VaaZ",
+          "runes": [
+            "V",
+            "AA",
+            "Z"
+          ],
+          "meaning": "Tear",
+          "word_id": "xx007cb8",
+          "effect": "Slight push",
+          "recharge_seconds": "5",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Zol",
+          "word_wiki_spelling": "ZOL",
+          "runes": [
+            "Z",
+            "O",
+            "L"
+          ],
+          "meaning": "Zombie",
+          "word_id": "xx007cb9",
+          "effect": "Soul Trap for 2 secs on enemy, drain health 300 pts and reanimate body upon death for 1 minute.",
+          "recharge_seconds": "90",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx007cb6",
+      "in_game_description": "Your Thu'um cuts through flesh and shatters soul, commanding the will of the fallen.",
+      "locations": [
+        "Durnehviir teaches you a word each time you summon him from the Soul Cairn."
+      ],
+      "wiki_summary": "Soul Tear is a dragon shout that is added with the Dawnguard add-on. At full strength, it casts soul trap upon foes, drains their health for 300 points on impact, and if the target is below level 100 and dies within 2 seconds, it captures their soul and resurrects the corpse to fight for you for 1 minute.",
+      "source_page": "Skyrim:Soul Tear",
+      "revid": 3603034,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Soul Tear",
+          "phrase_there": "Rii Vaaz Zol",
+          "meaning_there": "Essence Tear Zombie",
+          "note": "Rii Vaaz Zol, meaning Essence Tear Zombie, is a shout that cuts through flesh and shatters soul, ripping the soul of an opponent out of them and raising them from the dead to fight for the Tongue."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Rii Vaaz Zol",
+          "meaning_there": "Essence Tear Zombie",
+          "note": "Corresponding ability: Soul Tear"
+        },
+        {
+          "source_page": "Legends:Soul Tear",
+          "revid": 3474614,
+          "source_kind": "Legends card audio line",
+          "name_there": "Soul Tear",
+          "phrase_there": "Rii",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Soul Tear",
+          "revid": 3474614,
+          "source_kind": "Legends card audio line",
+          "name_there": "Soul Tear",
+          "phrase_there": "Rii Vaaz",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Soul Tear",
+          "revid": 3474614,
+          "source_kind": "Legends card audio line",
+          "name_there": "Soul Tear",
+          "phrase_there": "Rii Vaaz Zol",
+          "meaning_there": null,
+          "note": "Level 3"
+        }
+      ]
+    },
+    {
+      "id": "shout-storm-call",
+      "name": "Storm Call",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Strun Bah Qo",
+      "meaning_phrase": "storm Wrath Lightning",
+      "words": [
+        {
+          "position": 1,
+          "word": "Strun",
+          "word_wiki_spelling": "STRUN",
+          "runes": [
+            "S",
+            "T",
+            "R",
+            "U",
+            "N"
+          ],
+          "meaning": "storm",
+          "word_id": "0006029a",
+          "effect": "Calls storm for 60 seconds. Each target within 100 feet is struck by a 40 damage lightning bolt every 3-6 seconds.",
+          "recharge_seconds": "300",
+          "location": "Forelhost",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Bah",
+          "word_wiki_spelling": "Bah",
+          "runes": [
+            "B",
+            "AH"
+          ],
+          "meaning": "Wrath",
+          "word_id": "0006029b",
+          "effect": "Calls storm for 120 seconds. Each target within 100 feet is struck by a 60 damage lightning bolt every 3-6 seconds.",
+          "recharge_seconds": "480",
+          "location": "High Gate Ruins",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Qo",
+          "word_wiki_spelling": "QO",
+          "runes": [
+            "Q",
+            "O"
+          ],
+          "meaning": "Lightning",
+          "word_id": "0006029c",
+          "effect": "Calls storm for 180 seconds. Each target within 150 feet is struck by an 80 damage lightning bolt every 3-6 seconds.",
+          "recharge_seconds": "600",
+          "location": "Skuldafn Temple (quest locked)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0007097d",
+      "in_game_description": "A Shout to the skies, a cry to the clouds, that awakens the destructive force of Skyrim's lightning.",
+      "locations": [
+        "Forelhost",
+        "High Gate Ruins",
+        "Skuldafn Temple (quest locked)"
+      ],
+      "wiki_summary": "Storm Call is a shout that summons a storm of thunder and lightning. The lightning hits targets randomly and may hit friendly NPCs, who may be killed by the strikes, but will not hit you.",
+      "source_page": "Skyrim:Storm Call",
+      "revid": 3407646,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Storm Call",
+          "phrase_there": "Strun Bah Qo",
+          "meaning_there": "Storm Wrath Lightning",
+          "note": "Strun Bah Qo, meaning Storm Wrath Lightning, summons a storm and calls down lightning on the enemies of the Tongue."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Strun Bah Qo",
+          "meaning_there": "Storm Wrath Lightning",
+          "note": "Corresponding ability: Storm Call"
+        },
+        {
+          "source_page": "Legends:Greybeard Mentor",
+          "revid": 3189915,
+          "source_kind": "Legends card audio line",
+          "name_there": "Greybeard Mentor",
+          "phrase_there": "Strun Bah Qo!",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Strun!",
+          "meaning_there": null,
+          "note": "learned at shout level 36"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Strun Bah!",
+          "meaning_there": null,
+          "note": "learned at shout level 38"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Strun Bah Qo!",
+          "meaning_there": null,
+          "note": "learned at shout level 41"
+        }
+      ]
+    },
+    {
+      "id": "shout-summon-durnehviir",
+      "name": "Summon Durnehviir",
+      "game": "Skyrim: Dawnguard",
+      "availability": "player",
+      "phrase": "Dur Neh Viir",
+      "meaning_phrase": "Curse Never Dying",
+      "words": [
+        {
+          "position": 1,
+          "word": "Dur",
+          "word_wiki_spelling": "Dur",
+          "runes": [
+            "D",
+            "UR"
+          ],
+          "meaning": "Curse",
+          "word_id": "xx0030d4",
+          "effect": "No Effect",
+          "recharge_seconds": "5",
+          "location": "Soul Cairn (all words learned together after Beyond Death)",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Neh",
+          "word_wiki_spelling": "NEH",
+          "runes": [
+            "N",
+            "E",
+            "H"
+          ],
+          "meaning": "Never",
+          "word_id": "xx0030d6",
+          "effect": "No Effect",
+          "recharge_seconds": "5",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Viir",
+          "word_wiki_spelling": "ViiR",
+          "runes": [
+            "V",
+            "II",
+            "R"
+          ],
+          "meaning": "Dying",
+          "word_id": "xx0030d7",
+          "effect": "Summons Durnehviir",
+          "recharge_seconds": "300",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "xx0030d2",
+      "in_game_description": "Durnehviir! Hear my Voice and come forth from the Soul Cairn. I summon you in my time of need.",
+      "locations": [
+        "Soul Cairn (all words learned together after Beyond Death)"
+      ],
+      "wiki_summary": "Summon Durnehviir is a dragon shout that summons Durnehviir, an undead dragon, from the Soul Cairn. Unlike the Call Dragon shout, the Summon Durnehviir shout works like a Conjuration spell.",
+      "source_page": "Skyrim:Summon Durnehviir",
+      "revid": 2764809,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-throw-voice",
+      "name": "Throw Voice",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Zul Mey Gut",
+      "meaning_phrase": "voice Fool Far",
+      "words": [
+        {
+          "position": 1,
+          "word": "Zul",
+          "word_wiki_spelling": "ZUL",
+          "runes": [
+            "Z",
+            "U",
+            "L"
+          ],
+          "meaning": "voice",
+          "word_id": "000602a0",
+          "effect": "Throws voice",
+          "recharge_seconds": "30",
+          "location": "Shearpoint (all words learned together)",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Mey",
+          "word_wiki_spelling": "Mey",
+          "runes": [
+            "M",
+            "EY"
+          ],
+          "meaning": "Fool",
+          "word_id": "000602a1",
+          "effect": "Throws voice",
+          "recharge_seconds": "15",
+          "location": null,
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Gut",
+          "word_wiki_spelling": "GUT",
+          "runes": [
+            "G",
+            "U",
+            "T"
+          ],
+          "meaning": "Far",
+          "word_id": "000602a2",
+          "effect": "Throws voice",
+          "recharge_seconds": "5",
+          "location": null,
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0007097f",
+      "in_game_description": "The Thu'um is heard, but its source unknown, fooling those into seeking it out.",
+      "locations": [
+        "Shearpoint (all words learned together)"
+      ],
+      "wiki_summary": "Throw Voice is a dragon shout that causes the shout to be heard from the point on a surface the player is targeting. Enemies will often go investigate the sound, allowing it to be used as a distraction.",
+      "source_page": "Skyrim:Throw Voice",
+      "revid": 3530133,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Throw Voice",
+          "phrase_there": "Zul Mey Gut",
+          "meaning_there": "Voice Fool Far",
+          "note": "Zul Mey Gut, meaning Voice Fool Far, is a shout that allows the sound of the thu'um to appear from unknown sources, confounding enemies."
+        }
+      ]
+    },
+    {
+      "id": "shout-unrelenting-force",
+      "name": "Unrelenting Force",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Fus Ro Dah",
+      "meaning_phrase": "force Balance Push",
+      "words": [
+        {
+          "position": 1,
+          "word": "Fus",
+          "word_wiki_spelling": "FUS",
+          "runes": [
+            "F",
+            "U",
+            "S"
+          ],
+          "meaning": "force",
+          "word_id": "00013e22",
+          "effect": "Staggers enemies",
+          "recharge_seconds": "15",
+          "location": "Bleak Falls Sanctum (during The Golden Claw or Bleak Falls Barrow)",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Ro",
+          "word_wiki_spelling": "RO",
+          "runes": [
+            "R",
+            "O"
+          ],
+          "meaning": "Balance",
+          "word_id": "00013e23",
+          "effect": "Greater stagger effect",
+          "recharge_seconds": "20",
+          "location": "High Hrothgar (during The Way of the Voice)",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Dah",
+          "word_wiki_spelling": "Dah",
+          "runes": [
+            "D",
+            "AH"
+          ],
+          "meaning": "Push",
+          "word_id": "00013e24",
+          "effect": "Throws enemies",
+          "recharge_seconds": "45",
+          "location": "High Hrothgar (during The Horn of Jurgen Windcaller)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "00013e07",
+      "in_game_description": "Your Voice is raw power, pushing aside anything - or anyone - who stands in your path.",
+      "locations": [
+        "Bleak Falls Sanctum (during The Golden Claw or Bleak Falls Barrow)",
+        "High Hrothgar (during The Way of the Voice)",
+        "High Hrothgar (during The Horn of Jurgen Windcaller)"
+      ],
+      "wiki_summary": "Unrelenting Force is a shout that pushes objects and entities. Weak versions of the shout stagger enemies and slightly push objects, while the strongest version will throw objects a great distance and turn enemies into a ragdoll, briefly rendering them helpless.",
+      "source_page": "Skyrim:Unrelenting Force",
+      "revid": 3603032,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Unrelenting Force",
+          "phrase_there": "Fus Ro Dah",
+          "meaning_there": "Force Balance Push",
+          "note": "Fus Ro Dah, meaning Force Balance Push, is a shout that pushes aside anything in the Tongue's path with an incredible wave of force."
+        },
+        {
+          "source_page": "Online:Dragon",
+          "revid": 3644261,
+          "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+          "name_there": null,
+          "phrase_there": "Fus Ro Dah",
+          "meaning_there": "Force Balance Push",
+          "note": "Corresponding ability: Unrelenting Force"
+        },
+        {
+          "source_page": "Legends:Studious Greybeard",
+          "revid": 3134164,
+          "source_kind": "Legends card audio line",
+          "name_there": "Studious Greybeard",
+          "phrase_there": "Fus Ro Dah!",
+          "meaning_there": null,
+          "note": "attack"
+        },
+        {
+          "source_page": "Legends:Unrelenting Force",
+          "revid": 3134051,
+          "source_kind": "Legends card audio line",
+          "name_there": "Unrelenting Force",
+          "phrase_there": "Fus!",
+          "meaning_there": null,
+          "note": "Level 1"
+        },
+        {
+          "source_page": "Legends:Unrelenting Force",
+          "revid": 3134051,
+          "source_kind": "Legends card audio line",
+          "name_there": "Unrelenting Force",
+          "phrase_there": "Fus Ro!",
+          "meaning_there": null,
+          "note": "Level 2"
+        },
+        {
+          "source_page": "Legends:Unrelenting Force",
+          "revid": 3134051,
+          "source_kind": "Legends card audio line",
+          "name_there": "Unrelenting Force",
+          "phrase_there": "Fus Ro Dah!",
+          "meaning_there": null,
+          "note": "Level 3"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fus!",
+          "meaning_there": null,
+          "note": "learned at shout level 1"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fus Roh!",
+          "meaning_there": null,
+          "note": "learned at shout level 3"
+        },
+        {
+          "source_page": "SkyrimVSE:Combat",
+          "revid": 3140768,
+          "source_kind": "Skyrim Very Special Edition, 'Shout Progression' table",
+          "name_there": null,
+          "phrase_there": "Fus Roh Dah!",
+          "meaning_there": null,
+          "note": "learned at shout level 6"
+        },
+        {
+          "source_page": "Online:Yolnahkriin (Infinite Archive)",
+          "revid": 3507957,
+          "source_kind": "ESO ability name on a boss page",
+          "name_there": "Fus ro dah",
+          "phrase_there": "Fus ro dah",
+          "meaning_there": null,
+          "note": "Yolnahkriin shouts, causing Knockback in a medium cone in front of him. This can knock you off the platform, killing you instantly, so you should try to get behind or beside him as soon as you hear th"
+        }
+      ]
+    },
+    {
+      "id": "shout-whirlwind-sprint",
+      "name": "Whirlwind Sprint",
+      "game": "Skyrim",
+      "availability": "player",
+      "phrase": "Wuld Nah Kest",
+      "meaning_phrase": "Whirlwind fury tempest",
+      "words": [
+        {
+          "position": 1,
+          "word": "Wuld",
+          "word_wiki_spelling": "WULD",
+          "runes": [
+            "W",
+            "U",
+            "L",
+            "D"
+          ],
+          "meaning": "Whirlwind",
+          "word_id": "0002f7bb",
+          "effect": "Range: ~50 feet",
+          "recharge_seconds": "20",
+          "location": "Dead Men's Respite",
+          "font_letters_param": null
+        },
+        {
+          "position": 2,
+          "word": "Nah",
+          "word_wiki_spelling": "Nah",
+          "runes": [
+            "N",
+            "AH"
+          ],
+          "meaning": "fury",
+          "word_id": "0002f7bc",
+          "effect": "Range: ~75 feet",
+          "recharge_seconds": "25",
+          "location": "High Hrothgar (during The Way of the Voice)",
+          "font_letters_param": null
+        },
+        {
+          "position": 3,
+          "word": "Kest",
+          "word_wiki_spelling": "KEST",
+          "runes": [
+            "K",
+            "E",
+            "S",
+            "T"
+          ],
+          "meaning": "tempest",
+          "word_id": "0002f7bd",
+          "effect": "Range: ~100 feet",
+          "recharge_seconds": "35",
+          "location": "Volskygge (atop the hill)",
+          "font_letters_param": null
+        }
+      ],
+      "form_id": "0002f7ba",
+      "in_game_description": "The Thu'um rushes forward, carrying you in its wake with the speed of a tempest.",
+      "locations": [
+        "Dead Men's Respite",
+        "High Hrothgar (during The Way of the Voice)",
+        "Volskygge (atop the hill)"
+      ],
+      "wiki_summary": "Whirlwind Sprint is a shout that causes you to rush forward at great speed. It can be used even if you are overencumbered.",
+      "source_page": "Skyrim:Whirlwind Sprint",
+      "revid": 3672959,
+      "source_kind": "Skyrim shout page ({{Shout Summary}} infobox)",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Whirlwind Sprint",
+          "phrase_there": "Wuld Nah Kest",
+          "meaning_there": "Whirlwind Fury Tempest",
+          "note": "Wuld Nah Kest, meaning Whirlwind Fury Tempest, is a shout that allows the Tongue to rush forward with immense speed."
+        }
+      ]
+    },
+    {
+      "id": "shout-vile-vapor",
+      "name": "Vile Vapor",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": null,
+      "meaning_phrase": null,
+      "words": [],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Vile Vapor is an exclusive shout used in combat by the Afflicted during The Only Cure. Dawnguard adds the Reaper, who also has this ability.",
+      "source_page": "Skyrim:Vile Vapor",
+      "revid": 3462950,
+      "source_kind": "Skyrim shout page without a {{Shout Summary}} infobox",
+      "notes": "the wiki gives no words of power for this shout",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-dragon-storm-call",
+      "name": "Dragon Storm Call",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": null,
+      "meaning_phrase": null,
+      "words": [],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Alduin has a dragon shout named \"Dragon Storm Call\". It is similar to Storm Call, but it calls forth a meteor storm instead of a lightning storm and the sky turns red instead of stormy gray. Alduin used this shout to destroy Helgen. Clear Skies interrupts the storm.",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": "the wiki gives no words of power for this shout",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-resurrectionshout",
+      "name": "ResurrectionShout",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": "Slen Tiid Vo",
+      "meaning_phrase": "Flesh Time (Opposite of)",
+      "words": [
+        {
+          "position": 1,
+          "word": "Slen",
+          "word_wiki_spelling": "Slen",
+          "runes": null,
+          "meaning": "Flesh"
+        },
+        {
+          "position": 2,
+          "word": "Tiid",
+          "word_wiki_spelling": "Tiid",
+          "runes": null,
+          "meaning": "Time"
+        },
+        {
+          "position": 3,
+          "word": "Vo",
+          "word_wiki_spelling": "Vo",
+          "runes": null,
+          "meaning": "(Opposite of)"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Alduin has another shout called \"ResurrectionShout\" that resurrects dead dragons. Its words of power are \"Slen Tiid Vo\", which translate to \"Flesh Time (Opposite of)\". It should be noted that you can learn the words Tiid (Time) and Slen (Flesh), showing that words can be part of different shouts.",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Resurrection Shout",
+          "phrase_there": "Slen Tiid Vo",
+          "meaning_there": "Flesh Time (Opposite of)",
+          "note": "Slen Tiid Vo, meaning Flesh Time (Opposite of), is a shout used by Alduin to resurrect long-dead dragons."
+        }
+      ]
+    },
+    {
+      "id": "shout-soul-snare-mist-alduin-sovngarde",
+      "name": "Soul-snare mist (Alduin, Sovngarde)",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": "Ven Mul Riik",
+      "meaning_phrase": "Wind Strong Gale",
+      "words": [
+        {
+          "position": 1,
+          "word": "Ven",
+          "word_wiki_spelling": "Ven",
+          "runes": null,
+          "meaning": "Wind"
+        },
+        {
+          "position": 2,
+          "word": "Mul",
+          "word_wiki_spelling": "Mul",
+          "runes": null,
+          "meaning": "Strong"
+        },
+        {
+          "position": 3,
+          "word": "Riik",
+          "word_wiki_spelling": "Riik",
+          "runes": null,
+          "meaning": "Gale"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "The soul-snare mist created by Alduin in Sovngarde is technically not a dragon shout, but a script. It creates a mist where Alduin hides and feeds upon the trapped souls. Its words of power are \"Ven Mul Riik\", which translate to \"Wind Strong Gale\".",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Soul-Snare Mist",
+          "phrase_there": "Ven Mul Riik",
+          "meaning_there": "Wind Strong Gale",
+          "note": "Ven Mul Riik, meaning Wind Strong Gale, is a shout used by Alduin to ensnare the souls of Sovngarde in a mist. This is a shout that Alduin guards jealously."
+        }
+      ]
+    },
+    {
+      "id": "shout-tsun-s-shout-returning-the-player-to-nirn",
+      "name": "Tsun's shout returning the player to Nirn",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": "Nahl Daal Vus",
+      "meaning_phrase": "Living Return Nirn",
+      "words": [
+        {
+          "position": 1,
+          "word": "Nahl",
+          "word_wiki_spelling": "Nahl",
+          "runes": null,
+          "meaning": "Living"
+        },
+        {
+          "position": 2,
+          "word": "Daal",
+          "word_wiki_spelling": "Daal",
+          "runes": null,
+          "meaning": "Return"
+        },
+        {
+          "position": 3,
+          "word": "Vus",
+          "word_wiki_spelling": "Vus",
+          "runes": null,
+          "meaning": "Nirn"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "The shout used by Tsun to return you to Nirn from Sovngarde is another unavailable shout. Its words of power are \"Nahl Daal Vus\", which translate to \"Living Return Nirn\".",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Nahl Daal Vus",
+          "phrase_there": "Nahl Daal Vus",
+          "meaning_there": null,
+          "note": "This is a shout used by Tsun to return the Last Dragonborn to Nirn after Alduin is defeated."
+        }
+      ]
+    },
+    {
+      "id": "shout-open-borri-s-gate-word-the-wiki-says-it-is-a-script-not-a-shout",
+      "name": "Open (Borri's gate word; the wiki says it is a script, not a shout)",
+      "game": "Skyrim",
+      "availability": "not a shout according to the wiki (a script)",
+      "phrase": "Bex",
+      "meaning_phrase": "Open",
+      "words": [
+        {
+          "position": 1,
+          "word": "Bex",
+          "word_wiki_spelling": "Bex",
+          "runes": null,
+          "meaning": "Open"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "During the learning of Whirlwind Sprint, Borri opens the gate doors by saying \"Bex\", meaning \"Open\". This is not a shout, but a script.",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": null,
+      "also_attested_in": [
+        {
+          "source_page": "Lore:Thu'um",
+          "revid": 3656838,
+          "source_kind": "Lore:Thu'um, list 'Known Shouts'",
+          "name_there": "Open",
+          "phrase_there": "Bex",
+          "meaning_there": "Open",
+          "note": "Bex, meaning \"Open\", can open doors."
+        }
+      ]
+    },
+    {
+      "id": "shout-steam-breath",
+      "name": "Steam Breath",
+      "game": "Skyrim",
+      "availability": "not available to the player (dragon or NPC only)",
+      "phrase": null,
+      "meaning_phrase": null,
+      "words": [],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Dwarven Centurions have a \"Steam Breath\" power that is treated as a dragon shout by the game engine. The closest thing you can obtain to this is the lesser power Breath of Nchuak, added by Dragonborn and only available with the Visage of Mzund equipped.",
+      "source_page": "Skyrim:Dragon Shouts",
+      "revid": 3279131,
+      "source_kind": "Skyrim:Dragon Shouts, section 'Unavailable Dragon Shouts'",
+      "notes": "the wiki gives no words of power for this shout",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-al-gron-nok",
+      "name": "Summon Atronach",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Al Gron Nok",
+      "meaning_phrase": "Destroyer Bind Lie",
+      "words": [
+        {
+          "position": 1,
+          "word": "Al",
+          "word_wiki_spelling": "Al",
+          "runes": null,
+          "meaning": "Destroyer"
+        },
+        {
+          "position": 2,
+          "word": "Gron",
+          "word_wiki_spelling": "Gron",
+          "runes": null,
+          "meaning": "Bind"
+        },
+        {
+          "position": 3,
+          "word": "Nok",
+          "word_wiki_spelling": "Nok",
+          "runes": null,
+          "meaning": "Lie"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Summon Atronach",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-bex-miir-kein",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Bex Miir Kein",
+      "meaning_phrase": "Open Path War",
+      "words": [
+        {
+          "position": 1,
+          "word": "Bex",
+          "word_wiki_spelling": "Bex",
+          "runes": null,
+          "meaning": "Open"
+        },
+        {
+          "position": 2,
+          "word": "Miir",
+          "word_wiki_spelling": "Miir",
+          "runes": null,
+          "meaning": "Path"
+        },
+        {
+          "position": 3,
+          "word": "Kein",
+          "word_wiki_spelling": "Kein",
+          "runes": null,
+          "meaning": "War"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-bo-het-lo",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Bo Het Lo",
+      "meaning_phrase": "Fly Here Deceive",
+      "words": [
+        {
+          "position": 1,
+          "word": "Bo",
+          "word_wiki_spelling": "Bo",
+          "runes": null,
+          "meaning": "Fly"
+        },
+        {
+          "position": 2,
+          "word": "Het",
+          "word_wiki_spelling": "Het",
+          "runes": null,
+          "meaning": "Here"
+        },
+        {
+          "position": 3,
+          "word": "Lo",
+          "word_wiki_spelling": "Lo",
+          "runes": null,
+          "meaning": "Deceive"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-daal-tiid-zaam",
+      "name": "Time Portal",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Daal Tiid Zaam",
+      "meaning_phrase": "Return Time Slave",
+      "words": [
+        {
+          "position": 1,
+          "word": "Daal",
+          "word_wiki_spelling": "Daal",
+          "runes": null,
+          "meaning": "Return"
+        },
+        {
+          "position": 2,
+          "word": "Tiid",
+          "word_wiki_spelling": "Tiid",
+          "runes": null,
+          "meaning": "Time"
+        },
+        {
+          "position": 3,
+          "word": "Zaam",
+          "word_wiki_spelling": "Zaam",
+          "runes": null,
+          "meaning": "Slave"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Time Portal",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-dey-rah-zaam",
+      "name": "Animated Vigil Statue",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Dey Rah Zaam",
+      "meaning_phrase": "False Gods Slave",
+      "words": [
+        {
+          "position": 1,
+          "word": "Dey",
+          "word_wiki_spelling": "Dey",
+          "runes": null,
+          "meaning": "False"
+        },
+        {
+          "position": 2,
+          "word": "Rah",
+          "word_wiki_spelling": "Rah",
+          "runes": null,
+          "meaning": "Gods"
+        },
+        {
+          "position": 3,
+          "word": "Zaam",
+          "word_wiki_spelling": "Zaam",
+          "runes": null,
+          "meaning": "Slave"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Animated Vigil Statue",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-diiv-mir-tah",
+      "name": "Summon Wyrm",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Diiv Mir Tah",
+      "meaning_phrase": "Wyrm Allegiance Pack",
+      "words": [
+        {
+          "position": 1,
+          "word": "Diiv",
+          "word_wiki_spelling": "Diiv",
+          "runes": null,
+          "meaning": "Wyrm"
+        },
+        {
+          "position": 2,
+          "word": "Mir",
+          "word_wiki_spelling": "Mir",
+          "runes": null,
+          "meaning": "Allegiance"
+        },
+        {
+          "position": 3,
+          "word": "Tah",
+          "word_wiki_spelling": "Tah",
+          "runes": null,
+          "meaning": "Pack"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Summon Wyrm",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-du-kun-shaan",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Du Kun Shaan",
+      "meaning_phrase": "Devour Moonlight Inspire",
+      "words": [
+        {
+          "position": 1,
+          "word": "Du",
+          "word_wiki_spelling": "Du",
+          "runes": null,
+          "meaning": "Devour"
+        },
+        {
+          "position": 2,
+          "word": "Kun",
+          "word_wiki_spelling": "Kun",
+          "runes": null,
+          "meaning": "Moonlight"
+        },
+        {
+          "position": 3,
+          "word": "Shaan",
+          "word_wiki_spelling": "Shaan",
+          "runes": null,
+          "meaning": "Inspire"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: (Event Based, absorbs energy from Jodes core)",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki gives a remark in place of an ability name: (Event Based, absorbs energy from Jodes core)",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-fo-iiz-gron",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Fo Iiz Gron",
+      "meaning_phrase": "Frost Ice Bind",
+      "words": [
+        {
+          "position": 1,
+          "word": "Fo",
+          "word_wiki_spelling": "Fo",
+          "runes": null,
+          "meaning": "Frost"
+        },
+        {
+          "position": 2,
+          "word": "Iiz",
+          "word_wiki_spelling": "Iiz",
+          "runes": null,
+          "meaning": "Ice"
+        },
+        {
+          "position": 3,
+          "word": "Gron",
+          "word_wiki_spelling": "Gron",
+          "runes": null,
+          "meaning": "Bind"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: (Ice storm Ice Dragon)",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki gives a remark in place of an ability name: (Ice storm Ice Dragon)",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-gaar-toor-nah",
+      "name": "Cataclysm (Yolnahkriin)",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Gaar Toor Nah",
+      "meaning_phrase": "Release Inferno Fury",
+      "words": [
+        {
+          "position": 1,
+          "word": "Gaar",
+          "word_wiki_spelling": "Gaar",
+          "runes": null,
+          "meaning": "Release"
+        },
+        {
+          "position": 2,
+          "word": "Toor",
+          "word_wiki_spelling": "Toor",
+          "runes": null,
+          "meaning": "Inferno"
+        },
+        {
+          "position": 3,
+          "word": "Nah",
+          "word_wiki_spelling": "Nah",
+          "runes": null,
+          "meaning": "Fury"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Cataclysm (Yolnahkriin)",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-golt-mah-nos",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Golt Mah Nos",
+      "meaning_phrase": "Ground Fall Strike",
+      "words": [
+        {
+          "position": 1,
+          "word": "Golt",
+          "word_wiki_spelling": "Golt",
+          "runes": null,
+          "meaning": "Ground"
+        },
+        {
+          "position": 2,
+          "word": "Mah",
+          "word_wiki_spelling": "Mah",
+          "runes": null,
+          "meaning": "Fall"
+        },
+        {
+          "position": 3,
+          "word": "Nos",
+          "word_wiki_spelling": "Nos",
+          "runes": null,
+          "meaning": "Strike"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-jiid-so-daan",
+      "name": "Meteor Storm",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Jiid So Daan",
+      "meaning_phrase": "Moon Sorrow Doom",
+      "words": [
+        {
+          "position": 1,
+          "word": "Jiid",
+          "word_wiki_spelling": "Jiid",
+          "runes": null,
+          "meaning": "Moon"
+        },
+        {
+          "position": 2,
+          "word": "So",
+          "word_wiki_spelling": "So",
+          "runes": null,
+          "meaning": "Sorrow"
+        },
+        {
+          "position": 3,
+          "word": "Daan",
+          "word_wiki_spelling": "Daan",
+          "runes": null,
+          "meaning": "Doom"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Meteor Storm",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-jol-fus-daal",
+      "name": "Rift Pull (Bahlokdaan)",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Jol Fus Daal",
+      "meaning_phrase": "Unsteady Force Return",
+      "words": [
+        {
+          "position": 1,
+          "word": "Jol",
+          "word_wiki_spelling": "Jol",
+          "runes": null,
+          "meaning": "Unsteady"
+        },
+        {
+          "position": 2,
+          "word": "Fus",
+          "word_wiki_spelling": "Fus",
+          "runes": null,
+          "meaning": "Force"
+        },
+        {
+          "position": 3,
+          "word": "Daal",
+          "word_wiki_spelling": "Daal",
+          "runes": null,
+          "meaning": "Return"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Rift Pull (Bahlokdaan)",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-jud-hof-liik",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Jud Hof Liik",
+      "meaning_phrase": "Queen ??? ???",
+      "words": [
+        {
+          "position": 1,
+          "word": "Jud",
+          "word_wiki_spelling": "Jud",
+          "runes": null,
+          "meaning": "Queen"
+        },
+        {
+          "position": 2,
+          "word": "Hof",
+          "word_wiki_spelling": "Hof",
+          "runes": null,
+          "meaning": null
+        },
+        {
+          "position": 3,
+          "word": "Liik",
+          "word_wiki_spelling": "Liik",
+          "runes": null,
+          "meaning": null
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it; the wiki marks the meaning of Hof, Liik as unknown (???)",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-kren-qeth-gol",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Kren Qeth Gol",
+      "meaning_phrase": "Break Bone Earth",
+      "words": [
+        {
+          "position": 1,
+          "word": "Kren",
+          "word_wiki_spelling": "Kren",
+          "runes": null,
+          "meaning": "Break"
+        },
+        {
+          "position": 2,
+          "word": "Qeth",
+          "word_wiki_spelling": "Qeth",
+          "runes": null,
+          "meaning": "Bone"
+        },
+        {
+          "position": 3,
+          "word": "Gol",
+          "word_wiki_spelling": "Gol",
+          "runes": null,
+          "meaning": "Earth"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-kriid-iiz-gron",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Kriid Iiz Gron",
+      "meaning_phrase": "Slayer Ice Bind",
+      "words": [
+        {
+          "position": 1,
+          "word": "Kriid",
+          "word_wiki_spelling": "Kriid",
+          "runes": null,
+          "meaning": "Slayer"
+        },
+        {
+          "position": 2,
+          "word": "Iiz",
+          "word_wiki_spelling": "Iiz",
+          "runes": null,
+          "meaning": "Ice"
+        },
+        {
+          "position": 3,
+          "word": "Gron",
+          "word_wiki_spelling": "Gron",
+          "runes": null,
+          "meaning": "Bind"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-lok-diil-on",
+      "name": "Raise Dead",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Lok Diil On",
+      "meaning_phrase": "Rise Undead Spirit",
+      "words": [
+        {
+          "position": 1,
+          "word": "Lok",
+          "word_wiki_spelling": "Lok",
+          "runes": null,
+          "meaning": "Rise"
+        },
+        {
+          "position": 2,
+          "word": "Diil",
+          "word_wiki_spelling": "Diil",
+          "runes": null,
+          "meaning": "Undead"
+        },
+        {
+          "position": 3,
+          "word": "On",
+          "word_wiki_spelling": "On",
+          "runes": null,
+          "meaning": "Spirit"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Raise Dead",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-mul-bah-rein",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Mul Bah Rein",
+      "meaning_phrase": "Strong Wrath Roar",
+      "words": [
+        {
+          "position": 1,
+          "word": "Mul",
+          "word_wiki_spelling": "Mul",
+          "runes": null,
+          "meaning": "Strong"
+        },
+        {
+          "position": 2,
+          "word": "Bah",
+          "word_wiki_spelling": "Bah",
+          "runes": null,
+          "meaning": "Wrath"
+        },
+        {
+          "position": 3,
+          "word": "Rein",
+          "word_wiki_spelling": "Rein",
+          "runes": null,
+          "meaning": "Roar"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-nel-jaag-moh",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Nel Jaag Moh",
+      "meaning_phrase": "??? ??? ???",
+      "words": [
+        {
+          "position": 1,
+          "word": "Nel",
+          "word_wiki_spelling": "Nel",
+          "runes": null,
+          "meaning": null
+        },
+        {
+          "position": 2,
+          "word": "Jaag",
+          "word_wiki_spelling": "Jaag",
+          "runes": null,
+          "meaning": null
+        },
+        {
+          "position": 3,
+          "word": "Moh",
+          "word_wiki_spelling": "Moh",
+          "runes": null,
+          "meaning": null
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it; the wiki marks the meaning of Nel, Jaag, Moh as unknown (???)",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-qeth-krii-gol",
+      "name": "Earth Spike",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Qeth Krii Gol",
+      "meaning_phrase": "Bone Kill Earth",
+      "words": [
+        {
+          "position": 1,
+          "word": "Qeth",
+          "word_wiki_spelling": "Qeth",
+          "runes": null,
+          "meaning": "Bone"
+        },
+        {
+          "position": 2,
+          "word": "Krii",
+          "word_wiki_spelling": "Krii",
+          "runes": null,
+          "meaning": "Kill"
+        },
+        {
+          "position": 3,
+          "word": "Gol",
+          "word_wiki_spelling": "Gol",
+          "runes": null,
+          "meaning": "Earth"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Earth Spike",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-rii-vaaz-bex",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Rii Vaaz Bex",
+      "meaning_phrase": "Essence Tear Open",
+      "words": [
+        {
+          "position": 1,
+          "word": "Rii",
+          "word_wiki_spelling": "Rii",
+          "runes": null,
+          "meaning": "Essence"
+        },
+        {
+          "position": 2,
+          "word": "Vaaz",
+          "word_wiki_spelling": "Vaaz",
+          "runes": null,
+          "meaning": "Tear"
+        },
+        {
+          "position": 3,
+          "word": "Bex",
+          "word_wiki_spelling": "Bex",
+          "runes": null,
+          "meaning": "Open"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-riis-thaan-kohg",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Riis Thaan Kohg",
+      "meaning_phrase": "??? ??? ???",
+      "words": [
+        {
+          "position": 1,
+          "word": "Riis",
+          "word_wiki_spelling": "Riis",
+          "runes": null,
+          "meaning": null
+        },
+        {
+          "position": 2,
+          "word": "Thaan",
+          "word_wiki_spelling": "Thaan",
+          "runes": null,
+          "meaning": null
+        },
+        {
+          "position": 3,
+          "word": "Kohg",
+          "word_wiki_spelling": "Kohg",
+          "runes": null,
+          "meaning": null
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it; the wiki marks the meaning of Riis, Thaan, Kohg as unknown (???)",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-roth-nihn-fey",
+      "name": "Summon Strangler",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Roth Nihn Fey",
+      "meaning_phrase": "Vine Poison Grove",
+      "words": [
+        {
+          "position": 1,
+          "word": "Roth",
+          "word_wiki_spelling": "Roth",
+          "runes": null,
+          "meaning": "Vine"
+        },
+        {
+          "position": 2,
+          "word": "Nihn",
+          "word_wiki_spelling": "Nihn",
+          "runes": null,
+          "meaning": "Poison"
+        },
+        {
+          "position": 3,
+          "word": "Fey",
+          "word_wiki_spelling": "Fey",
+          "runes": null,
+          "meaning": "Grove"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Summon Strangler",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-sos-jiid-viin",
+      "name": "Moon Blast",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Sos Jiid Viin",
+      "meaning_phrase": "Blood Moon Shine",
+      "words": [
+        {
+          "position": 1,
+          "word": "Sos",
+          "word_wiki_spelling": "Sos",
+          "runes": null,
+          "meaning": "Blood"
+        },
+        {
+          "position": 2,
+          "word": "Jiid",
+          "word_wiki_spelling": "Jiid",
+          "runes": null,
+          "meaning": "Moon"
+        },
+        {
+          "position": 3,
+          "word": "Viin",
+          "word_wiki_spelling": "Viin",
+          "runes": null,
+          "meaning": "Shine"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Moon Blast",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-sov-ag-slen",
+      "name": "Lightning Breath",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Sov Ag Slen",
+      "meaning_phrase": "Shock Burn Flesh",
+      "words": [
+        {
+          "position": 1,
+          "word": "Sov",
+          "word_wiki_spelling": "Sov",
+          "runes": null,
+          "meaning": "Shock"
+        },
+        {
+          "position": 2,
+          "word": "Ag",
+          "word_wiki_spelling": "Ag",
+          "runes": null,
+          "meaning": "Burn"
+        },
+        {
+          "position": 3,
+          "word": "Slen",
+          "word_wiki_spelling": "Slen",
+          "runes": null,
+          "meaning": "Flesh"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Lightning Breath",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-tiid-grah-kron",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Tiid Grah Kron",
+      "meaning_phrase": "Time Battle Conquer",
+      "words": [
+        {
+          "position": 1,
+          "word": "Tiid",
+          "word_wiki_spelling": "Tiid",
+          "runes": null,
+          "meaning": "Time"
+        },
+        {
+          "position": 2,
+          "word": "Grah",
+          "word_wiki_spelling": "Grah",
+          "runes": null,
+          "meaning": "Battle"
+        },
+        {
+          "position": 3,
+          "word": "Kron",
+          "word_wiki_spelling": "Kron",
+          "runes": null,
+          "meaning": "Conquer"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-toor-vol-daan",
+      "name": "Dark Aeon Breath",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Toor Vol Daan",
+      "meaning_phrase": "Inferno Horror Doom",
+      "words": [
+        {
+          "position": 1,
+          "word": "Toor",
+          "word_wiki_spelling": "Toor",
+          "runes": null,
+          "meaning": "Inferno"
+        },
+        {
+          "position": 2,
+          "word": "Vol",
+          "word_wiki_spelling": "Vol",
+          "runes": null,
+          "meaning": "Horror"
+        },
+        {
+          "position": 3,
+          "word": "Daan",
+          "word_wiki_spelling": "Daan",
+          "runes": null,
+          "meaning": "Doom"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Dark Aeon Breath",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-vah-yol-ron",
+      "name": "Fire Storm (Nahviintaas)",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Vah Yol Ron",
+      "meaning_phrase": "Spring Fire Rain",
+      "words": [
+        {
+          "position": 1,
+          "word": "Vah",
+          "word_wiki_spelling": "Vah",
+          "runes": null,
+          "meaning": "Spring"
+        },
+        {
+          "position": 2,
+          "word": "Yol",
+          "word_wiki_spelling": "Yol",
+          "runes": null,
+          "meaning": "Fire"
+        },
+        {
+          "position": 3,
+          "word": "Ron",
+          "word_wiki_spelling": "Ron",
+          "runes": null,
+          "meaning": "Rain"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Fire Storm (Nahviintaas)",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-viir-su-pook",
+      "name": "Plague Breath",
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Viir Su Pook",
+      "meaning_phrase": "Dying Air Stink",
+      "words": [
+        {
+          "position": 1,
+          "word": "Viir",
+          "word_wiki_spelling": "Viir",
+          "runes": null,
+          "meaning": "Dying"
+        },
+        {
+          "position": 2,
+          "word": "Su",
+          "word_wiki_spelling": "Su",
+          "runes": null,
+          "meaning": "Air"
+        },
+        {
+          "position": 3,
+          "word": "Pook",
+          "word_wiki_spelling": "Pook",
+          "runes": null,
+          "meaning": "Stink"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": "Corresponding ability: Plague Breath",
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; name is the ESO ability the wiki pairs it with",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-wiix-lo-feim",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Wiix Lo Feim",
+      "meaning_phrase": "Trap Deceive Fade",
+      "words": [
+        {
+          "position": 1,
+          "word": "Wiix",
+          "word_wiki_spelling": "Wiix",
+          "runes": null,
+          "meaning": "Trap"
+        },
+        {
+          "position": 2,
+          "word": "Lo",
+          "word_wiki_spelling": "Lo",
+          "runes": null,
+          "meaning": "Deceive"
+        },
+        {
+          "position": 3,
+          "word": "Feim",
+          "word_wiki_spelling": "Feim",
+          "runes": null,
+          "meaning": "Fade"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    },
+    {
+      "id": "shout-eso-zey-qeth-lok",
+      "name": null,
+      "game": "The Elder Scrolls Online",
+      "availability": "dragon only (ESO)",
+      "phrase": "Zey Qeth Lok",
+      "meaning_phrase": "Brother Bone Rise",
+      "words": [
+        {
+          "position": 1,
+          "word": "Zey",
+          "word_wiki_spelling": "Zey",
+          "runes": null,
+          "meaning": "Brother"
+        },
+        {
+          "position": 2,
+          "word": "Qeth",
+          "word_wiki_spelling": "Qeth",
+          "runes": null,
+          "meaning": "Bone"
+        },
+        {
+          "position": 3,
+          "word": "Lok",
+          "word_wiki_spelling": "Lok",
+          "runes": null,
+          "meaning": "Rise"
+        }
+      ],
+      "form_id": null,
+      "in_game_description": null,
+      "locations": [],
+      "wiki_summary": null,
+      "source_page": "Online:Dragon",
+      "revid": 3644261,
+      "source_kind": "Online:Dragon, table of shouts spoken by generic dragons in ESO",
+      "notes": "ESO shout line; the wiki names no ability for it",
+      "also_attested_in": []
+    }
+  ],
+  "lore_thuum_list": [
+    {
+      "name": "Animal Allegiance",
+      "alternate_name": null,
+      "phrase": "Raan Mir Tah",
+      "meaning_phrase": "Animal Allegiance Pack",
+      "description": "Raan Mir Tah, meaning Animal Allegiance Pack, is a shout that can call for the beasts of the wilderness to aid the Tongue in combat."
+    },
+    {
+      "name": "Aura Whisper",
+      "alternate_name": null,
+      "phrase": "Laas Yah Nir",
+      "meaning_phrase": "Life Seek Hunt",
+      "description": "Laas Yah Nir, meaning Life Seek Hunt, is a shout that reveals the life force of any and all beings nearby."
+    },
+    {
+      "name": "Battle Fury",
+      "alternate_name": null,
+      "phrase": "Mid Vur Shaan",
+      "meaning_phrase": "Loyal Valor Inspire",
+      "description": "Mid Vur Shaan, meaning Loyal Valor Inspire, is a shout that allows the allies of the Tongue to fight faster and with more fury."
+    },
+    {
+      "name": "Become Ethereal",
+      "alternate_name": null,
+      "phrase": "Feim Zii Gron",
+      "meaning_phrase": "Fade Spirit Bind",
+      "description": "Feim Zii Gron, meaning Fade Spirit Bind, is a shout that turns the Tongue into an intangible ghost-like form, unable to be harmed."
+    },
+    {
+      "name": "Bend Will",
+      "alternate_name": null,
+      "phrase": "Gol Hah Dov",
+      "meaning_phrase": "Earth Mind Dragon",
+      "description": "Gol Hah Dov, meaning Earth Mind Dragon, allows the Tongue to bend and control the will of others, even dragons."
+    },
+    {
+      "name": "Blade Sharpening",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "It is said that shouts can be used to sharpen blades."
+    },
+    {
+      "name": "Blizzard",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that formed a blizzard around them, similar to the Destruction spell of the same name."
+    },
+    {
+      "name": "Bravery",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "It is said that a strong Nord can instill bravery in men with his battle-cry."
+    },
+    {
+      "name": "Call Dragon",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "The name of a dragon is a shout, and calling them will summon them. The dragon is not compelled to answer the call."
+    },
+    {
+      "name": "Call of Valor",
+      "alternate_name": null,
+      "phrase": "Hun Kaal Zoor",
+      "meaning_phrase": "Hero Champion Legend",
+      "description": "Hun Kaal Zoor, meaning Hero Champion Legend, is a shout that can summon the ghost of a hero from Sovngarde to aid the Tongue in battle."
+    },
+    {
+      "name": "Call Person",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "It is said that the greatest of the Nords can call to specific people over hundreds of miles."
+    },
+    {
+      "name": "Clear Skies",
+      "alternate_name": null,
+      "phrase": "Lok Vah Koor",
+      "meaning_phrase": "Sky Spring Summer",
+      "description": "Lok Vah Koor, meaning Sky Spring Summer, is a shout that can dispel storms and clouds, and even magical mists."
+    },
+    {
+      "name": "Command",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "It is said that the power of command is a common effect of shouting."
+    },
+    {
+      "name": "Cyclone",
+      "alternate_name": null,
+      "phrase": "Ven Gaar Nos",
+      "meaning_phrase": "Wind Unleash Strike",
+      "description": "Ven Gaar Nos, meaning Wind Unleash Strike, is a shout that can summon a whirling tornado."
+    },
+    {
+      "name": "Disarm",
+      "alternate_name": null,
+      "phrase": "Zun Haal Viik",
+      "meaning_phrase": "Weapon Hand Defeat",
+      "description": "Zun Haal Viik, meaning Weapon Hand Defeat, is a shout that rips a weapon out of an opponent's hands."
+    },
+    {
+      "name": "Dismay",
+      "alternate_name": null,
+      "phrase": "Faas Ru Maar",
+      "meaning_phrase": "Fear Run Terror",
+      "description": "Faas Ru Maar, meaning Fear Run Terror, is a shout that forces enemies to flee in terror from the Tongue."
+    },
+    {
+      "name": "Dragon Aspect",
+      "alternate_name": null,
+      "phrase": "Mul Qah Diiv",
+      "meaning_phrase": "Strength Armor Wyrm",
+      "description": "Mul Qah Diiv, meaning Strength Armor Wyrm, is a shout that gives the Tongue the strength to deliver colossal blows, magical armor to withstand powerful attacks, and an empowered thu'um. This shout can also summon an ancient Dragonborn to aid the Tongue in battle."
+    },
+    {
+      "name": "Dragonrend",
+      "alternate_name": null,
+      "phrase": "Joor Zah Frul",
+      "meaning_phrase": "Mortal Finite Temporary",
+      "description": "Joor Zah Frul, meaning Mortal Finite Temporary, is a shout that inflicts the concept of mortality upon a dragon, lashing at its very soul and forcing it to land. This shout was created by the Nords to slay these otherwise immortal beasts."
+    },
+    {
+      "name": "Dragon Storm Call",
+      "alternate_name": "Meteor Storm",
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "This is a shout commonly used by Alduin the World-Eater, though other dragons have been shown to know it. The shout turns the sky red and rains down flaming boulders from the sky in a meteor storm."
+    },
+    {
+      "name": "Drain Vitality",
+      "alternate_name": null,
+      "phrase": "Gaan Lah Haas",
+      "meaning_phrase": "Stamina Magicka Health",
+      "description": "Gaan Lah Haas, meaning Stamina Magicka Health, is a shout that drains magical and mortal energies from enemies."
+    },
+    {
+      "name": "Earth Spike",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that casts balls of fire to the ground, summoning molten stalagmites to emerge where they land. These spikes could then explode in fire and lava when an enemy walked nearby."
+    },
+    {
+      "name": "Elemental Fury",
+      "alternate_name": null,
+      "phrase": "Su Grah Dun",
+      "meaning_phrase": "Air Battle Grace",
+      "description": "Su Grah Dun, meaning Air Battle Grace, is a shout that allows the Tongue to fight faster and with more fury."
+    },
+    {
+      "name": "Event Denouement",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Event Denouement is a shout used by Barfok, Maid of Planes, to guarantee her victory in any battle she fought."
+    },
+    {
+      "name": "Fireball",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Many dragons have used a shout that casts a fireball towards their enemy, similar to the Destruction spell of the same name."
+    },
+    {
+      "name": "Fire Breath",
+      "alternate_name": null,
+      "phrase": "Yol Toor Shul",
+      "meaning_phrase": "Fire Inferno Sun",
+      "description": "Yol Toor Shul, meaning Fire Inferno Sun, allows the Tongue to exhale a torrent of flames."
+    },
+    {
+      "name": "Form Change",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "This shout could be used by Bhag, the Two-Tongued, though it is unknown if this refers to an ability to shapeshift or his ability to speak in two layers."
+    },
+    {
+      "name": "Frostbolt",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some Second Era dragons used a shout that launched a ball of ice toward their enemies."
+    },
+    {
+      "name": "Frost Breath",
+      "alternate_name": null,
+      "phrase": "Fo Krah Diin",
+      "meaning_phrase": "Frost Cold Freeze",
+      "description": "Fo Krah Diin, meaning Frost Cold Freeze, is a shout that allows the Tongue to breathe freezing cold winds."
+    },
+    {
+      "name": "Heart Roaring",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "This is a shout used by Chemua, the Running Hunger, to turn an opponent against their own allies."
+    },
+    {
+      "name": "Ice Fields",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some Second Era dragons used a shout that raised sharp icicles from the ground."
+    },
+    {
+      "name": "Ice Form",
+      "alternate_name": null,
+      "phrase": "Iiz Slen Nus",
+      "meaning_phrase": "Ice Flesh Statue",
+      "description": "Iiz Slen Nus, meaning Ice Flesh Statue, is a shout that encases an opponent in ice, freezing them solid."
+    },
+    {
+      "name": "Ice Storm",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Fourth Era used a shout that casts a swirling storm of ice, similar to the Destruction spell of the same name."
+    },
+    {
+      "name": "Kyne's Peace",
+      "alternate_name": null,
+      "phrase": "Kaan Drem Ov",
+      "meaning_phrase": "Kyne Peace Trust",
+      "description": "Kaan Drem Ov, meaning Kyne Peace Trust, is a shout that calms nearby animals into docility, making them unwilling to fight or flee."
+    },
+    {
+      "name": "Lightning Bolt",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that casts a lightning bolt towards their enemy, similar to the Destruction spell of the same name."
+    },
+    {
+      "name": "Lightning Breath",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era could exhale arcs of lightning towards their enemies."
+    },
+    {
+      "name": "Marked for Death",
+      "alternate_name": null,
+      "phrase": "Krii Lun Aus",
+      "meaning_phrase": "Kill Leech Suffer",
+      "description": "Krii Lun Aus, meaning Kill Leech Suffer, is a shout that weakens the armor and drains the life of an opponent, spelling their doom."
+    },
+    {
+      "name": "Nahl Daal Vus",
+      "alternate_name": null,
+      "phrase": "Nahl Daal Vus",
+      "meaning_phrase": null,
+      "description": "This is a shout used by Tsun to return the Last Dragonborn to Nirn after Alduin is defeated."
+    },
+    {
+      "name": "Open",
+      "alternate_name": null,
+      "phrase": "Bex",
+      "meaning_phrase": "Open",
+      "description": "Bex, meaning \"Open\", can open doors."
+    },
+    {
+      "name": "Phantom Form",
+      "alternate_name": null,
+      "phrase": "Fiik Lo Sah",
+      "meaning_phrase": "Mirror Deceive Phantom",
+      "description": "Fiik Lo Sah, meaning Mirror Deceive Phantom, is a shout that can create ethereal forms of the Tongue."
+    },
+    {
+      "name": "Raise Dead",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Used by Hoaga, Mouth of Mud, and some dragons, this shout can raise the dead to fight again."
+    },
+    {
+      "name": "Resurrection Shout",
+      "alternate_name": null,
+      "phrase": "Slen Tiid Vo",
+      "meaning_phrase": "Flesh Time (Opposite of)",
+      "description": "Slen Tiid Vo, meaning Flesh Time (Opposite of), is a shout used by Alduin to resurrect long-dead dragons."
+    },
+    {
+      "name": "Shor's Song",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "The Greybeards were able to sing Shor's ghost into the world, allowing the dead god to lead the armies of the Nords in the Battle of Red Mountain."
+    },
+    {
+      "name": "Sky Sickening",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Chemua, the Running Hunger, could use this shout to \"give clouds stomach aches\", turning the rain into bile."
+    },
+    {
+      "name": "Slow Time",
+      "alternate_name": null,
+      "phrase": "Tiid Klo Ul",
+      "meaning_phrase": "Time Sand Eternity",
+      "description": "Tiid Klo Ul, meaning Time Sand Eternity, is a Shout that slows time around the Tongue."
+    },
+    {
+      "name": "Soul Cairn Summon",
+      "alternate_name": null,
+      "phrase": "Diil Qoth Zaam",
+      "meaning_phrase": "Undead Tomb Slave",
+      "description": "Diil Qoth Zaam, meaning Undead Tomb Slave, is a shout that allows the Tongue to summon members of the Soul Guard from the Soul Cairn. It was used by Durnehviir."
+    },
+    {
+      "name": "Soul-Snare Mist",
+      "alternate_name": null,
+      "phrase": "Ven Mul Riik",
+      "meaning_phrase": "Wind Strong Gale",
+      "description": "Ven Mul Riik, meaning Wind Strong Gale, is a shout used by Alduin to ensnare the souls of Sovngarde in a mist. This is a shout that Alduin guards jealously."
+    },
+    {
+      "name": "Soul Tear",
+      "alternate_name": null,
+      "phrase": "Rii Vaaz Zol",
+      "meaning_phrase": "Essence Tear Zombie",
+      "description": "Rii Vaaz Zol, meaning Essence Tear Zombie, is a shout that cuts through flesh and shatters soul, ripping the soul of an opponent out of them and raising them from the dead to fight for the Tongue."
+    },
+    {
+      "name": "Storm Call",
+      "alternate_name": null,
+      "phrase": "Strun Bah Qo",
+      "meaning_phrase": "Storm Wrath Lightning",
+      "description": "Strun Bah Qo, meaning Storm Wrath Lightning, summons a storm and calls down lightning on the enemies of the Tongue."
+    },
+    {
+      "name": "Strike Enemy",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Shouts can be used to strike enemies."
+    },
+    {
+      "name": "Summon Durnehviir",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Similar to Call Dragon, except this shout allowed the Last Dragonborn to summon Durnehviir from the Soul Cairn."
+    },
+    {
+      "name": "Summon Fire Atronachs",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that could summon fire atronachs."
+    },
+    {
+      "name": "Summon Flame Wyrms",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that could summon flame wyrms."
+    },
+    {
+      "name": "Summon Frost Atronachs",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that could summon frost atronachs."
+    },
+    {
+      "name": "Summon Iron Atronachs",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that could summon iron atronachs."
+    },
+    {
+      "name": "Summon Storm Atronachs",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "Some dragons in the Second Era used a shout that could summon storm atronachs."
+    },
+    {
+      "name": "Surety",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "This shout could be used by Bhag, the Two-Tongued, though its effects are unknown."
+    },
+    {
+      "name": "Teleportation Shout",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "It is said that the greatest Nords can move by casting a shout, appearing where it lands."
+    },
+    {
+      "name": "Throw Voice",
+      "alternate_name": null,
+      "phrase": "Zul Mey Gut",
+      "meaning_phrase": "Voice Fool Far",
+      "description": "Zul Mey Gut, meaning Voice Fool Far, is a shout that allows the sound of the thu'um to appear from unknown sources, confounding enemies."
+    },
+    {
+      "name": "Unrelenting Force",
+      "alternate_name": null,
+      "phrase": "Fus Ro Dah",
+      "meaning_phrase": "Force Balance Push",
+      "description": "Fus Ro Dah, meaning Force Balance Push, is a shout that pushes aside anything in the Tongue's path with an incredible wave of force."
+    },
+    {
+      "name": "What Happens When You Shake the Dragon Just So",
+      "alternate_name": null,
+      "phrase": null,
+      "meaning_phrase": null,
+      "description": "This shout was used by Ysmir Wulfharth to restore the Nords to their proper ages after \"nearly every Nord was eaten down to six years old\" by Alduin."
+    },
+    {
+      "name": "Whirlwind Sprint",
+      "alternate_name": null,
+      "phrase": "Wuld Nah Kest",
+      "meaning_phrase": "Whirlwind Fury Tempest",
+      "description": "Wuld Nah Kest, meaning Whirlwind Fury Tempest, is a shout that allows the Tongue to rush forward with immense speed."
+    }
+  ],
+  "player_available_per_Skyrim_Dragon_Shouts": [
+    "Animal Allegiance",
+    "Aura Whisper",
+    "Battle Fury",
+    "Become Ethereal",
+    "Bend Will",
+    "Call Dragon",
+    "Call of Valor",
+    "Clear Skies",
+    "Cyclone",
+    "Disarm",
+    "Dismay",
+    "Dragon Aspect",
+    "Dragonrend",
+    "Drain Vitality",
+    "Elemental Fury",
+    "Fire Breath",
+    "Frost Breath",
+    "Ice Form",
+    "Kyne's Peace",
+    "Marked for Death",
+    "Slow Time",
+    "Soul Tear",
+    "Storm Call",
+    "Summon Durnehviir",
+    "Throw Voice",
+    "Unrelenting Force",
+    "Whirlwind Sprint"
+  ]
+}

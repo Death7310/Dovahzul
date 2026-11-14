@@ -1,0 +1,39 @@
+{
+  "title": "General:ESOU Podcast ft. ESO Loremaster Michael Zenke",
+  "revid": 3395680,
+  "timestamp": "2025-07-22T23:14:33Z",
+  "api_url": "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&revids=3395680&rvprop=ids|timestamp|sha1|content&rvslots=main",
+  "sha256": "2186102bc5ae62b8cbd4dd68a26c39b4a78d613f5841771d4f470b97a8561d18",
+  "license": "Attribution-ShareAlike 2.5 License",
+  "license_page": "UESPWiki:Copyright and Ownership",
+  "license_url": "https://en.uesp.net/wiki/UESPWiki:Copyright_and_Ownership",
+  "pageid": 418573,
+  "ns": 118,
+  "parentid": 3322603,
+  "requested_title": "General:ESOU Podcast ft. ESO Loremaster Michael Zenke",
+  "redirected_from": null,
+  "page_url": "https://en.uesp.net/wiki/General:ESOU_Podcast_ft._ESO_Loremaster_Michael_Zenke",
+  "permalink": "https://en.uesp.net/w/index.php?oldid=3395680",
+  "sha1": "a37e4461b19b9487113c5bb86a4bf4a763d612c3",
+  "sha1_matches_mediawiki": true,
+  "bytes": 25106,
+  "chars": 24754,
+  "lines": 339,
+  "saved_as": "research/sources/uesp/General_ESOU_Podcast_ft._ESO_Loremaster_Michael_Zenke.wikitext",
+  "groups": [
+    "other_titles"
+  ],
+  "site": {
+    "sitename": "UESPWiki",
+    "server": "https://en.uesp.net",
+    "generator": "MediaWiki 1.32.6"
+  },
+  "requests": [
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&prop=revisions&redirects=1&rvprop=ids|timestamp|sha1|size|content&rvslots=main&titles=Blades:Dragon|General:The+Elder+Scrolls+V:+Skyrim+Announcement+Trailer|General:The+Elder+Scrolls+V:+Skyrim+-+Official+Trailer|General:Behind+the+Wall:+The+Making+of+Skyrim|General:Skyrim+Fan+Interview|General:Emil+Pagliarulo|General:Elsweyr+%26+Update+22+AUA|General:Elsweyr+Burns+%E2%80%93+Dragons+In+The+Elder+Scrolls+Online|General:ESOU+Podcast+ft.+ESO+Loremaster+Michael+Zenke|General:A+Matter+of+Voice+and+Brass:+Dragon+Bones+DLC+Interview|General:Ehlnofex+Languages|Merchandise:Skyrim+Limited+Edition+Dragonstone+Replica",
+    "https://en.uesp.net/w/api.php?action=query&format=json&formatversion=2&meta=siteinfo&siprop=rightsinfo|general"
+  ],
+  "api_url_note": "api_url is pinned to the revision id and returns this exact text; the text was actually received through the batch call listed first under requests.",
+  "user_agent": "research-client/1.0",
+  "fetched_at": "2026-11-14T05:39:48Z",
+  "fetched_by": "tools/ingest/fetch_corpus.py"
+}

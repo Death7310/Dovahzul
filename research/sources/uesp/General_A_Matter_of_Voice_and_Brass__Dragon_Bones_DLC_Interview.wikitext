@@ -1,0 +1,142 @@
+{{Trail|Interviews}}
+{{Real Summary
+|medium=Online
+|format=Interview
+|title=A Matter of Voice and Brass: Dragon Bones DLC Interview
+|date=February 2018‎
+|interviewee=[[General:Lawrence Schick|Lawrence Schick]]
+|interviewer=IceFireWarden
+|location=[[wikipedia:Email|Email]]
+|image=
+}}
+''In February 2018, [[User:IceFireWarden|IceFireWarden]] conducted a lore interview with [[General:Lawrence Schick|Lawrence Schick]] to coincide with the release of the [[ON:Dragon Bones|Dragon Bones]] DLC for [[ON:Online|Elder Scrolls Online]]. The interview is set in-universe, with IceFireWarden playing Eis Vuur Warden and Schick playing [[Lore:Phrastus of Elinhir|Phrastus of Elinhir]] and [[Lore:Lady Cinnabar|Lady Cinnabar]].''
+
+==Introduction==
+In honor of the launch of the latest Elder Scrolls Online Dungeon DLC to be released, Dragon Bones, a new in-universe interview was conducted between ESO's Lead Loremaster Lawrence Schick and Elder Scrolls Community Writer IceFireWarden of the Imperial Library, Tamriel Foundry, Reddit, & UESP websites.
+
+In this in-universe roleplay, IceFireWarden resumes the character of Eis Vuur Warden (a wayward & peripatetic Argonian scholar formerly affiliated with the Imperial Geographic Society) from the [[Lore:Loremaster's Archive|Loremaster's Archives]], who is contacted by Phrastus of Elinhir & Lady Cinnabar of Taneth (both portrayed by Loremaster Schick). Eis takes the time to question both individuals and discovers that there is indeed something sinister at play....
+
+What dark secrets shall be revealed in this meeting of the three travelers? Read on to discover them for yourself!
+
+==Location: The Cloudy Dregs Inn, Wayrest, Stormhaven==
+A standard Breton establishment that includes the typical [[Lore:Nord|Nord]]ic, [[Lore:Yokudan|Yokudan]], and yes, even [[Lore:Orc|Orc]]ish influences. Its customers range from the noblest paladins to the greediest sellswords to the loudest drunkards and everything in-between, and as the night grows old one can hear the sounds of joyful laughter, playful punching, painful sizzling, and inebriated merry-making.
+
+==The Interview: A Task-Filled Night==
+''Making his way towards the bar with the taste of juniper berries already on his tongue, Eis orders a flagon of spiced mead from the 'tender and scans the dining hall for the persons he knew would stick out most at this particular time. After staring down the still-flabbergasted sorcerers, bards, rogues, and common folk that had never seen a [[Lore:Saxhleel|Saxhleel]] pop out of a magical hole in space-time before, he finally locks eyes with what appears to be a male [[Lore:Imperial|Imperial]] in finely woven robes sitting next to a female [[Lore:Redguard|Redguard]] wearing light armor and adjusting the bandages on the left side of her face.''
+
+''Sighing as he drops more than enough drakes on the countertop, Eis downs the rest of his flagon, grabs three bottles of ale and makes his way over to the duo. Stopping in front of them, he places the bottles on the table and begins to speak.''
+
+'''Eis''': Greetings! You two are Master Phrastus and Lady Cinnabar, I presume? You match the descriptions I received a week ago, but if I may ask...and I do erect the spine of apology-for-potential-rudeness ... can you show me the two items I asked you both to bring?
+
+'''Phrastus''': It seems to me, you grinning reptile, that we should be asking for your bona fides. We are prominent members of the Conclave of Antiquarian Scholars.
+
+'''Eis''': Yes, I know that it's a bit of a hassle...but you can never be so sure who is who in [[Lore:Tamriel|Tamriel]] these days, especially with [[Lore:Changeling|Changeling]]s, Skin-Stealers, and apparently even [[Lore:Psijic Order|Psijic]]s wandering about.
+
+'''Lady Cinnabar''': Really, Master [[Lore:Argonian|Argonian]], you take as long to get to the point as old Phrastus, here.
+
+'''Eis''': Ah, yes! I erect the spine of embarrassment. I do tend to ramble. Anyway, the items? And–if you don't mind, of course–could you explain to me what they are?
+
+''Sighing and grumbling, Phrastus and Cinnabar reach into their rucksacks to draw out what appears to be an ancient [[Lore:Dragon Priest|Dragon Priest]] mask and a Centurion Dynamo Core.''
+
+'''Phrastus''': This is the mask of a priest of the [[Lore:Dragon Cult|Dragon Cult]], though of a degenerate offshoot of the primary sect.
+
+'''Lady Cinnabar''': While you see here a Dynamo Core devised in the style of [[Lore:Arkngthamz-Phng|Arkngthamz-Phng]], a little-known exurb of the subterranean city on the southern border of [[Lore:Skyrim|Skyrim]].
+
+''Appearing satisfied, Eis folds his arms and motions for the two to return the items to their bags.''
+
+'''Eis''': Ah, yes, the paranoia of an old man is appeased! Now that I know you are who you say you are, we can return to the formalities. I am Eis Vuur Warden, contract scholar and field academic. A pleasure! (Extends his hand to the two in genuine politeness.)
+
+''Phrastus shakes Eis' hand roughly, causing the Argonian to wince.''
+
+''Lady Cinnabar shakes Eis' hand with cold brevity, causing the Argonian to wince harder.''
+
+'''Eis''': (Wringing his hand) Yes, anyway, let us get down to the matter at hand–two weeks ago I contacted your Conclave because I heard the two of you had information that might aid my investigation into the sudden sickness that seems to be spreading in [[Lore:Stormhaven|Stormhaven]], as well as the kidnappings in the [[Lore:Dragon's Teeth Mountains|Dragons Teeth Mountains]]. Since both events began more or less around the same period of time, I believe that they are at least somewhat connected. I've been reviewing the documents you both sent to me via {{Lore Link|Black Horse Courier}}, but I would also like to hear about your experiences with these strange events personally.
+
+'''Phrastus''': As you may have heard, our Conclave recently reached an agreement with the Undaunted whereby we would publicize their exploits in return for exclusive personal access to newly-opened sites of historical significance. Unfortunately, I found their assurances that {{Lore Link|Scalecaller Peak}} had been entirely pacified were wildly exaggerated. I barely escaped with a whole skin.
+
+'''Eis''': Very distressing, I'm sure! And you, Lady Cinnabar?
+
+'''Lady Cinnabar''': Like Phrastus—a phrase it's always unpleasant to utter—I found Arkngthamz-Phng, or [[Lore:Fang Lair|Fang Lair]] as the [[Lore:Undaunted|Undaunted]] called it, was still swarming with vicious undead of all sorts. I suffered a blow to the face that minor [[Lore:Restoration|Restoration]] spells have so far failed to heal.
+
+'''Eis''': I'm sorry those cretins wounded your eye, my dear. I'll try to make my questions as quick and painless as possible. I'll start off by asking you about this... "Scalecaller Peak," Master Phrastus. What exactly did you know about this ruin before you explored it in the weeks prior? I personally find it peculiar that, not only have I never heard about an ancient Nord ruin existing this close to [[Lore:High Rock|High Rock]], but I have also never heard of one that seemed to have been built upon the foundation of Orcish architecture and incorporating its structure into the design.
+
+'''Phrastus''': First of all, it would seem that the ancient Dragon Cult was not without unorthodoxy and schism, and that one sect, that of {{Lore Link|Zaan}} the Scalecaller, was an outlier in both geography and dogma, a group whose Dragon Priest was perhaps unstable, unreliable, or both. She seems to have led them badly astray and far from central authority, to a subterranean site of questionable origin.
+
+'''Lady Cinnabar''': Must you always speak like you're conducting a lecture, you [[Lore:Netch|netch]] sac?
+
+'''Phrastus''': I speak as I do to convey my ideas with gravity and precision, without stooping to sensational popularization like someone here I could mention!
+
+'''Eis''': Er, yes, interesting! So, this...Zaan the Scalecaller...was apparently a female Dragon Priest who ended up betrayed by her own followers? Do you have more information concerning her and her "Dragon Lord," [[Lore:Thurvokun|Thurvokun]]? My knowledge on the Dragon Cult and [[Lore:Dragon|Dragon]]s in general isn't as extensive as my knowledge on other subjects–for example, I can't even pinpoint whether Dragons originated from [[Lore:Akavir|Akavir]] or [[Lore:Atmora|Atmora]].
+
+'''Lady Cinnabar''': As Dragons existed even before the inception of sequential time in the [[Lore:Dawn Era|Dawn Era]], the concept of "origination" is hard to apply to the species.
+
+'''Phrastus''': Surely you don't think even an Argonian would be credulous enough to believe your "theories" about the mutability of time? Suffice to say that this Thurvokun made a poor choice when it picked this Zaan to be its priest, and probably never intended its followers to involve themselves with either [[Lore:Necromancy|necromancy]] or [[Lore:Daedra|Daedra]] worship.
+
+'''Eis''': Ah, I forgot that both of you had your areas of expertise! That information was very illuminating, but it leaves me with even more questions. Like this one, for example ... what exactly are Dragon Lords? Did every Dragon Priest have one of these supposed Lords? And why was it believed that Zaan's connection with Thurvokun was more unique in comparison to the connections between other Dragon Priests and their Dragon Lords?
+
+'''Phrastus''': Yes, as far as we can understand it today, every Dragon Priest was granted their authority over mortal worshipers by one or more associated Dragons. Zaan the Scalecaller's patron Dragon was the aforementioned Thurvokun, but something about the Dragon and its followers led them to leave central Skyrim for the remote mountain we now know as Scalecaller Peak. Then Thurvokun left Scalecaller behind and relocated to Lady Cinnabar's Dwarven ruins.
+
+'''Eis''': Hmm...but, why did Thurvokun depart from Zaan and travel to Fang Lair in the first place? A simple change of mind, or something deeper? The interactions between [[Lore:Dwemer|Dwemer]] and Dragons are not well-recorded, if they are even recorded at all, which I find suspicious considering that the Dragon Cult and the Deep Folk were both active at the same point in time. I'm especially curious about the idea of the Dwemer, in their research into the depths of tonal architecture–the practice of using music as magic–and soul gems, bartering with or even using Dragons for their experiments due to their [[Lore:Thu'um|thu'um]] and the uniqueness of their souls. Would you two happen to have anything to share on the subject?
+
+''The two colleagues look warily at one another, annoyed and bemused by the number of questions, and take sips of their drinks before answering the Argonian.''
+
+'''Phrastus''': I didn't have Lady Cinnabar's opportunity to view Fang Lair, but from what I saw of Scalecaller Peak, I think the rupture between Dragon and Dragon Priest was a personal matter, a falling out both personal and philosophical.
+
+'''Lady Cinnabar''': You would think that, Phrastus, since you take every scholastic disagreement as a personal insult. I think it more likely that the great Dragon's inquiring spirit grew bored and disenchanted with the pompous presumptions of its eccentric Dragon Priest and simply went in search of more stimulating companionship. Thus its relocation to Fang Lair.
+
+'''Eis''': While we're on the topic of Fang Lair, would you two happen to have any more information on the mysterious Clan [[Lore:Kragen|Kragen]] that built it in the first place? Tamriel at large knows little about Dwemeri clan structure and society, and outside of this one the only examples of it that we have are Clan [[Lore:Rourken|Rourken]] of [[Lore:Hammerfell|Hammerfell]] and the banished Clan Noraken of myths and fables. What were the Kragen like? How did their interactions with the other clans go about?
+
+'''Lady Cinnabar''': Drawing a blank, Phrastus? Well, I can say that other than the persistence of the name "Kragen" in the [[Lore:Morrowind|Morrowind]] location of [[Lore:Kragenmoor|Kragenmoor]], we have little to tell us where the clan came from and why they migrated. But it seems evident to me that the Kragen endeavor must already have failed by the time Thurvokun came to intrude on their mountain home.
+
+'''Eis''': But why is Fang Liar devoid completely of Dwemeri animunculi? In the notes that you sent me, Lady Cinnabar, the ruins were only host to members of the Blackmarrow Cult, local wildlife, and dangerous monsters. Normally even the smallest Dwarven installation continues to play host to some form of automaton, and the idea that this one doesn't is quite suspicious. Were they all destroyed by Thurvokun way back in the [[Lore:First Era|First Era]], or did some other event occur?
+
+'''Lady Cinnabar''': We must keep in mind that this was a site occupied more than once after the Dwarves disappeared, first by Thurvokun, last by the Blackmarrow necromancers, and who knows by who else in between? Of course, if I'd been able to get into its depths, I might have been able to answer that question, but as it is.... (She fingers her facial bandage.)
+
+''Sighing, Eis drinks deeply from his bottle and taps his fingers on the table. His tired but, like most scholars, thirsty companions give him half-smiles before returning to their ale and for a good minute or five the trio sit in silence. Eventually Phrastus sets down his empty mug and clears his throat meaningfully.''
+
+'''Phrastus''': While you're gathering your thoughts, perhaps we should have another round?
+
+'''Eis''': Apologies, I was lost in thought. Before I come back to you, Master Phrastus, I want to ask Lady Cinnabar one more question. It's an odd one, mind you, but I believe you'll be able to understand it. According to your report, the Blackmarrow Cult located within Fang Lair were trying to resurrect the corpse of Thurvokun for some nefarious purpose. A long time ago I stumbled upon a book reputedly written by the Archmage [[Lore:Shalidor|Shalidor]] simply titled [[Lore:Shalidor's Insights|Shalidor's Insights]], wherein he states that after he stole the "secret of life" from [[Lore:Alduin|Alduin]] and his mirror-father Bormahu, the secrets of the Dragons were, to paraphrase, "unraveled in eternity, dovah,"—something illegible—"and Shadow, and made known to me in stasis." In Insights, the Archmage explains that Dragons are spirits or shards of time and their souls are subjected only to the Will of the Time God to the point of resurrection. I'm not sure if you're familiar with this text or not, but do you believe this to be true? And if so, how does this effect the Blackmarrow Cult's plans?
+
+'''Lady Cinnabar''': Well, it fully supports my theories about time, doesn't it?
+
+''Phrastus snorts, then chokes on his ale.''
+
+'''Lady Cinnabar''': And it shows the folly of the Blackmarrows' plans, for even if they could reanimate the skeleton of Thurvokun, they could scarcely resurrect his soul into the bargain. Their ambitions seem just as ridiculous as those of this Dragon Priest Zaan of Phrastus's.
+
+'''Phrastus''': Here, now! You can hardly hold me responsible for the mad plans of deranged priest who lived thousands of years before I was born.
+
+''The Argonian scratches his chin-horns in a manner of man or mer might scratch their beard, clearly a habit he picked up from both cultures.''
+
+'''Eis''': Thank you for that ... very thought-provoking answer. You consider the mind of this very old lizard quite blown away. And to piggyback off of our current topic of Dragons, Phrastus, in the documents that you sent me on the Scalecaller Cult, you stated that you discovered tapestries, busts, and statues–some that appeared to be constructed by Orcish masons, some by Nords–of the [[Lore:Daedric Prince|Daedric Prince]] [[Lore:Peryite|Peryite]], the Blighted Lord and Taskmaster of [[Lore:Oblivion|Oblivion]]. I myself am quite familiar with the deity due to past experiences, but before I present you with my question I would like to know your personal thoughts, opinions, and knowledge of the Father of Bad Luck, if you'll share them with me, of course?
+
+'''Phrastus''': My opinions on traffic with the Daedric Princes are well known, as you would be aware if you were half the scholar you've twice claimed to be. None of them can be trusted under any circumstances, and mortals who think otherwise are deluded and will come to a bad end. This is particularly true of anyone who would be so reckless or ill-informed as to have anything to do with the Peryite the Janitor of Oblivion and his debased followers.
+
+'''Lady Cinnabar''': When it comes to Daedra worship, Phrastus, you over-simplify, as always. Did a [[Lore:Banekin|banekin]] steal your candy when you were a child? The sphere of Peryite the Taskmaster is far more than janitorial, and indeed I believe he is more worthy of study than many another over-exposed Prince such as [[Lore:Azura|Azura]] or your favorite hobby-horse, [[Lore:Meridia|Meridia]].
+
+'''Eis Vuur''': Heh, well, you're definitely not far off the mark. Peryite is perhaps one of the strangest and most introverted of the Daedric Princes, as most of the records concerning him describes him as an amicable but solemn entity that keeps to the background. His schemes–if they can even be called schemes–are often so well thought-out that no one even notices that they have been executed. Why would the Scalecaller Cult, which aesthetically seems to be a group focused on the Atmoran Dragon Cult and Zaan in particular, come to worship the Plague Master? Does Peryite have any historical significance in Skyrim? Why are the Nords as a race so connected with Dragons and the draconic?
+
+'''Phrastus''': (grumbling) The presence of Dragon mounds across northern Tamriel would seem to me an adequate answer to that.
+
+'''Eis''': Hm ... and as I read through these papers now, I see that you wrote that the female leader of this cult–who has, it seems, stolen the moniker of the "Scalecaller" from Zaan–is also apparently in the possession of the [[Lore:Spellbreaker|Spellbreaker]], one of the rarer and more mysterious Daedric [[Lore:Artifacts|Artifacts]]? This interests me, because items associated with Peryite are as ill-documented as the Prince himself, and by that I mean barely documented at all. [[Lore:Denstagmer's Ring|Denstagmer's Ring]] is sometimes associated with the Prince, and the Mirror of Hard Truths exists only in popular myths and legends, leaving Spellbreaker as the only "true" artifact associated with Peryite frequently referenced in Daedric lore. What are the origins of this strange and immensely powerful shield forged by the Rourken and wielded by Shalidor? What are its properties and limitations? And how did this Scalecaller person come into possession of it?
+
+'''Lady Cinnabar''': You've been unusually quiet, Phrastus. What's your theory about this? Was Spellbreaker stolen from Peryite the way that banekin took your candy, or is its appearance part of a deep Taskmaster plot and conspiracy, as our scaled friend here implies?
+
+'''Phrastus''': Your sarcastic deflection serves only to obfuscate your own ignorance in this regard, dearest Cinnabar, and puts Eis Vuur no closer to solving this enigma than if you'd said nothing at all—which would probably be your wisest course of action.
+
+''Furrowing his brow, Eis stares down at the parchment and letters on the table and in his hands before stretching his joints and yawning. Gathering up the items to place back in his satchel, he turns to look at his interviewees with a look of deep thought and irritation.''
+
+'''Eis''': With what information you have given me, such as it is, as well as your individual reports, I can't help but feel as if the Blackmarrow and Scalecaller Cults are somehow connected, or are, at the very least, communicating with one another. But why is all of this happening right now? Peryite cultists in ancient Nord ruins? Necromancers in abandoned Dwemeri facilities? All of this is quite bizarre, to be honest. Could there be a possible connection between Peryite, Zaan, & Thurvokun that I'm not seeing....
+
+'''Phrastus''': Have you considered that Peryite is the Lord of Pestilence, and that the deranged dogma of Daedric cultists can be thought of as a sort of contagious disease of the mind?
+
+'''Lady Cinnabar''': Has it occurred to you that the close association of the Dragon Cult with the undead the Nords call Draugr might indicate that Dragon Priests themselves engaged in a kind of necromancy?
+
+'''Eis''': Well, um ... no. But I'll give those ideas all the attention they deserve! As for me....
+
+''Retrieving a scroll from his satchel, the Argonian reads it a portal opens in the middle of the tavern, causing a massive tavern panic. Phrastus and Cinnabar cough and sputter due to the fumes (which smell strongly of [[Lore:Giant Bat|giant bat]]) as Eis prepares to jump into the rip in time and space.''
+
+'''Eis''': Thank you, my friends! Your information was of great benefit to me. But now I must go and report my findings to my current employers as soon as possible, considering that both of these locations are located within their immediate borders. I sense a large sack of gold in my future. Stay sunned and warm, and good luck in your future individuals!
+
+''And with that, the Argonian jumped into the portal and disappeared.''
+{{Digital Book|nocat=1|notrail=1|noheader=1|nosnake=1|author=[[Lore:Phrastus of Elinhir|Phrastus of Elinhir]], [[Lore:Lady Cinnabar|Lady Cinnabar]]}}

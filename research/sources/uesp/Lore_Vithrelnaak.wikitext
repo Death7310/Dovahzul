@@ -1,0 +1,21 @@
+<noinclude>__NOTOC__{{Lore People Summary
+|race=Dragon
+|gender=Male
+|name=Vithrelnaak
+|fullimgdesc=Dragonscale Armor made of Vithrelnaak's scales
+|image=SR-menu-Alternative Armors - Dragonscale.jpg
+|birth=Dawn Era
+|death=
+|deathLoc=
+|loc=Skyrim
+}}[[File:SR-creature-Ulfnir Bone-Skin.jpg|thumb|left|Ulfnir Bone-Skin]]</noinclude>
+[[Lore:Vithrelnaak|Vithrelnaak]] is a [[Lore:Dragon|dragon]] whose name means "Serpent-Domination-Eat" in the [[Lore:Dragon Language|Dragon Language]].{{ref|name=Prima|{{Cite Book|The Elder Scrolls V: Skyrim: Prima Official Game Guide|ns_base=BK}}}}{{ref|name=P|[[Skyrim:Paarthurnax (dragon)|Paarthurnax]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+Little is known of Vithrelnaak's past. At some point, Vithrelnaak was slain by [[Lore:Ulfnir Bone-Skin|Ulfnir Bone-Skin]], a warrior from an old [[Lore:Nord|Nord]] legend. Ulfnif fashioned a powerful armor from the scales of a slain dragon. When Ulfnir died, he was buried with the armor, and his corpse haunted the barrow near Yorgrim's Overlook, killing anyone who tried to take his armor. Centuries later, at some point before {{Year|4E 201}}, Fathrys, a young [[Lore:Bosmer|Bosmer]], ventured to his resting place to obtain the armor as a gift for his beloved Zaharia.{{Ref|name=Dirk|{{Cite Book|The Crimson Dirks, v4}}}}{{Ref|name=PFZ|{{Cite Book|ns_base=Skyrim|Poem for Zaharia}}}} He never returned, as he was slain by the undead Ulfnir.{{Ref|name=Ulfnir Bone-Skin|[[Skyrim:Ulfnir Bone-Skin|Ulfnir Bone-Skin]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=Fathrys|[[Skyrim:Fathrys|Fathrys]] in ''[[Skyrim:Skyrim|Skyrim]]''}}{{Ref|name=TS|Events of [[Skyrim:Tilted Scales|Tilted Scales]] in [[Skyrim:Alternative Armors - Dragonscale|Alternative Armors - Dragonscale]] [[Skyrim:Creation Club|Creation]] for ''[[Skyrim:Skyrim|Skyrim]]''}}
+
+In {{Year|4E 201}}, the [[Lore:Last Dragonborn|Last Dragonborn]] ventured to the ruins, defeated the ancient [[Lore:Draugr|draugr]], and plundered Ulfnir's tomb, taking the armor made from Vithrelnaak's scales for themselves.{{Ref|name=TS}}
+
+As his soul was not devoured by another dovah, Vithrelnaak was not killed permanently and can be raised again.{{Ref|name=LAD|{{Cite Book|Loremaster's Archive - Dragons in the Second Era}}}}{{Ref|name=Arngeir|[[Skyrim:Arngeir|Arngeir]]'s dialogue in ''[[Skyrim:Skyrim|Skyrim]]''}}<noinclude>
+{{NewLeft}} 
+==References==
+<references/>
