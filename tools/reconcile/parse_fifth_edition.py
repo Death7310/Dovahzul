@@ -16,7 +16,11 @@ spelling, in which the digits 1-9 stand for the two-letter runes
 
 Limits. The copy used was a PDF converted to Word, so columns are sometimes
 interleaved. One region (Kras, Krasnovaar, Krasaar) is patched by hand below.
-646 of the 647 entries the dictionary says it has were identified.
+The copy holds 646 entries; the dictionary's introduction says 647. An
+independent second parser found the same 646 headings. The word type is blank
+for 26 entries whose heading is laid out as a table. The copy itself misprints
+a few definitions (for example Krah, Krii, Sosaal, Gron), which this script
+records as printed.
 """
 import json, re, sys
 src, dst = sys.argv[1], sys.argv[2]
@@ -84,16 +88,18 @@ for n, a in enumerate(anchors):
     od = ''
     m = re.search(r'Official Definition(.*?)(?:Expanded Definition|Usage|Connotations|Etymology|Notes|See Also|$)', text)
     if m: od = m.group(1).strip()
-    cites = re.findall(r'\(([^()]{2,80})\)', od)
-    kinds = set()
-    for c in cites:
-        if c.startswith('Dialogue File'): kinds.add('dialogue_file')
-        elif c.startswith('POGGLE'): kinds.add('prima_guide')
-        elif c.startswith('PrimaGames'): kinds.add('primagames_com')
-        elif c.startswith('Book'): kinds.add('book')
-        elif 'Shout' in c: kinds.add('shout_menu')
-        else: kinds.add('other')
-    od_text = re.sub(r'\((?:Dialogue File|POGGLE|PrimaGames|Book)[^()]*\)|\([^()]*Shout\)', '', od).strip(' ;')
+    # The copy spells the dialogue tag three ways ("Dialogue File", "Dialogue FIle",
+    # "Dialogue") and sometimes drops a closing bracket; accept all of them.
+    paren = re.findall(r'\(([^()]{2,80})\)', od) + re.findall(r'\((POGGLE, p\. \d+)(?![\d)])', od)
+    cites = []; remarks = []; kinds = set()
+    for c in paren:
+        if re.match(r'Dialogue(\s+F[Ii]le)?\s*,', c): kinds.add('dialogue_file'); cites.append(c)
+        elif c.startswith('POGGLE'): kinds.add('prima_guide'); cites.append(c)
+        elif c.startswith('PrimaGames'): kinds.add('primagames_com'); cites.append(c)
+        elif c.startswith('Book'): kinds.add('book'); cites.append(c)
+        elif c.endswith('Shout'): kinds.add('shout_menu'); cites.append(c)
+        else: remarks.append(c)   # a bracketed remark inside the definition, not a source
+    od_text = re.sub(r'\((?:Dialogue|POGGLE|PrimaGames|Book)[^()]*\)?|\([^()]*Shout\)', '', od).strip(' ;')
     od_text = re.sub(r'\s+', ' ', od_text)
     only_attested = bool(re.search(r'[Aa]ttested only in', text))
     misspell = bool(re.search(r'[Mm]isspelling of', text))
@@ -106,10 +112,13 @@ for n, a in enumerate(anchors):
 for e in entries:
     if e['word'] == 'Kras':
         e.update({'official_definition': 'Sick', 'citations': ['PrimaGames.com'], 'source_kinds': ['primagames_com'], 'manual_patch': True})
+    if e['word'] == 'Krasaar':
+        e.update({'official_definition': 'Sickness', 'citations': ['Book, Dragon Language: Myth No More', 'POGGLE, p. 1096', 'PrimaGames.com'],
+                  'source_kinds': ['book', 'prima_guide', 'primagames_com'], 'says_attested_only_in': False, 'manual_patch': True})
 if not any(e['word'] == 'Krasnovaar' for e in entries):
     entries.append({'word': 'Krasnovaar', 'runes': 'KRASNOV1R', 'word_type': 'noun', 'ipa': ['/\u02c8kr\u00e6s no v\u0251r/'],
                     'official_definition': 'Disease', 'citations': ['PrimaGames.com'], 'source_kinds': ['primagames_com'],
-                    'says_attested_only_in': False, 'mentions_misspelling': False, 'line': 0, 'n_lines': 0, 'manual_patch': True})
+                    'says_attested_only_in': True, 'mentions_misspelling': False, 'line': 0, 'n_lines': 0, 'manual_patch': True})
     unresolved = [u for u in unresolved if 'KRASNOV1R' not in ' '.join(u[1])]
 json.dump({'n': len(entries), 'unresolved': unresolved, 'entries': entries}, open(dst, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print('entries', len(entries), 'unresolved', len(unresolved))

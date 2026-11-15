@@ -76,14 +76,25 @@ out = {
         'kept_here': 'Facts only: which words each source lists, the kind of official source the Fifth Edition cites for a definition, and likely spelling variants.',
         'not_kept_here': 'Pronunciations, word types, expanded definitions, notes, etymologies and examples, which are the Fifth Edition authors\' own work.',
         'source_kinds': {'dialogue_file': 'developer notes in the game\'s dialogue file', 'book': 'an in-game book', 'shout_menu': 'the in-game Shouts menu',
-                         'prima_guide': 'the printed official guide, Legendary Edition', 'primagames_com': 'the guide publisher\'s online word list', 'other': 'a parenthesis that is not a citation'},
-        'limits': 'The copy was a PDF converted to Word; 646 of the 647 entries it says it has were identified, one region by hand. Source kinds were read by pattern and not checked entry by entry.',
+                         'prima_guide': 'the printed official guide, Legendary Edition', 'primagames_com': 'the guide publisher\'s online word list'},
+        'limits': 'The copy was a PDF converted to Word and holds 646 entries; its introduction says 647. One region was read by hand. Source kinds were read by pattern; an independent second parser agreed on all of them after correction, and about 75 entries were read in full. A few definitions are misprinted in the copy itself, so a cited source should be checked before it overrides another reading.',
         'counts': {'wiki_entries': len(rows), 'wiki_entries_in_fifth_edition': sum(r['in_fifth_edition'] for r in rows),
                    'wiki_entries_not_in_fifth_edition': sum(not r['in_fifth_edition'] for r in rows),
                    'fifth_edition_entries_identified': len(ents), 'fifth_edition_entries_not_in_wiki': len(only5)},
         'wiki_class_by_fifth_edition_source': {a + ' -> ' + b: n for (a, b), n in sorted(cross.items())},
     },
     'wiki_entries': rows, 'only_in_fifth_edition': only5, 'likely_spelling_variants': variants,
+    'review_notes': [
+        'Wiki "Quethsegol" is the first word of the Fifth Edition heading "Quethsegol Ahrol", where it is called a misspelling of qethsegol.',
+        'Wiki "Nall" and "Thurri" occur in the Fifth Edition only inside a quoted line marked [sic].',
+        'Fifth Edition "Daniik" has usage examples spelt daanik, which is the wiki headword.',
+        'Wiki "Vun" appears in the Fifth Edition only in a note under Zul.',
+        'Of the 59 wiki entries with no Fifth Edition heading, 21 cite only the untraced list, 17 cite The Elder Scrolls Online, 8 cite the book Wisdom of the Flying Gods, 1 cites Blades, 8 cite Skyrim sources, 3 the printed guide and 1 a Bethesda article.',
+        'Eight of those 59 occur in the Fifth Edition as inflected or compound forms in examples under another heading (Briinahii, Duaan, Frini, Funta, Junnesejer, Stinselok, Ziil, Zindro): it gives headings to base words only.',
+        'Seven of the 36 Fifth Edition headings missing from the wiki dictionary rows are on the same wiki page in other lists: six locations and one phrase.',
+        'Thaarn cites a book and the guide in its definition, but its usage note says it is attested only on the guide website; its level is doubtful.',
+        'Kun cites a dialogue line, but its entry says the word is inferred and the line reads jun; its level is doubtful.',
+    ],
 }
 json.dump(out, open(sys.argv[3], 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 open(sys.argv[3], 'a').write('\n')

@@ -350,6 +350,6 @@ What the file holds:
 - `likely_spelling_variants`: pairs one letter apart.
 - `meta.counts` and `meta.wiki_class_by_fifth_edition_source`: the totals.
 
-Limits: the copy was a PDF converted to Word, with interleaved columns in places. 646 of the 647 entries it says it has were identified, one region by hand. Source kinds were read by pattern.
+Limits: the copy was a PDF converted to Word, with interleaved columns in places. It holds 646 entries; its introduction says 647. One region was read by hand. Source kinds were read by pattern, and an independent second parser agreed on all of them after seven were corrected. A few definitions are misprinted in the copy itself (`review_notes` lists the known doubts).
 
 To regenerate from your own copy, see the headers of `tools/reconcile/parse_fifth_edition.py` and `tools/reconcile/compare_fifth_edition.py`.

@@ -9,10 +9,9 @@
    "book": "an in-game book",
    "shout_menu": "the in-game Shouts menu",
    "prima_guide": "the printed official guide, Legendary Edition",
-   "primagames_com": "the guide publisher's online word list",
-   "other": "a parenthesis that is not a citation"
+   "primagames_com": "the guide publisher's online word list"
   },
-  "limits": "The copy was a PDF converted to Word; 646 of the 647 entries it says it has were identified, one region by hand. Source kinds were read by pattern and not checked entry by entry.",
+  "limits": "The copy was a PDF converted to Word and holds 646 entries; its introduction says 647. One region was read by hand. Source kinds were read by pattern; an independent second parser agreed on all of them after correction, and about 75 entries were read in full. A few definitions are misprinted in the copy itself, so a cited source should be checked before it overrides another reading.",
   "counts": {
    "wiki_entries": 657,
    "wiki_entries_in_fifth_edition": 598,
@@ -23,15 +22,14 @@
   "wiki_class_by_fifth_edition_source": {
    "game_data -> game_files_or_books": 4,
    "game_data -> guide_website_only": 2,
-   "game_text -> game_files_or_books": 315,
-   "game_text -> guide_website_only": 15,
-   "game_text -> no_official_definition_cited": 3,
+   "game_text -> game_files_or_books": 321,
+   "game_text -> guide_website_only": 14,
    "game_text -> not_in_fifth_edition": 34,
-   "game_text -> printed_guide": 25,
-   "guide_only -> game_files_or_books": 40,
+   "game_text -> printed_guide": 23,
+   "guide_only -> game_files_or_books": 41,
    "guide_only -> guide_website_only": 4,
    "guide_only -> not_in_fifth_edition": 3,
-   "guide_only -> printed_guide": 116,
+   "guide_only -> printed_guide": 115,
    "no_source -> printed_guide": 2,
    "other -> game_files_or_books": 1,
    "other -> not_in_fifth_edition": 1,
@@ -66,7 +64,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -95,7 +92,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -215,9 +211,9 @@
    "fifth_edition_headwords": [
     "Ahraan"
    ],
-   "fifth_edition_definition_source": "printed_guide",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com"
    ]
@@ -232,7 +228,7 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com"
    ]
@@ -511,7 +507,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -620,7 +615,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -746,9 +740,9 @@
    "fifth_edition_headwords": [
     "Bronjun"
    ],
-   "fifth_edition_definition_source": "no_official_definition_cited",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other"
+    "dialogue_file"
    ]
   },
   {
@@ -758,9 +752,9 @@
    "fifth_edition_headwords": [
     "Bruniik"
    ],
-   "fifth_edition_definition_source": "printed_guide",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com"
    ]
@@ -1131,7 +1125,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "shout_menu"
    ]
@@ -1147,7 +1140,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1254,7 +1246,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1397,7 +1388,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1661,7 +1651,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1761,7 +1750,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1879,7 +1867,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -1949,7 +1936,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -2096,7 +2082,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -2227,7 +2212,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -2269,7 +2253,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -2427,7 +2410,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -2612,7 +2594,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -2702,7 +2683,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -2716,7 +2696,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -2860,7 +2839,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com",
     "shout_menu"
@@ -3048,7 +3026,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -3329,7 +3306,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -3450,8 +3426,12 @@
    "fifth_edition_headwords": [
     "Krasaar"
    ],
-   "fifth_edition_definition_source": "no_official_definition_cited",
-   "fifth_edition_source_kinds": []
+   "fifth_edition_definition_source": "game_files_or_books",
+   "fifth_edition_source_kinds": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ]
   },
   {
    "word": "Krasnovaar",
@@ -3922,7 +3902,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -3972,7 +3951,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4054,7 +4032,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4289,7 +4266,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4319,7 +4295,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -4489,7 +4464,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -4503,7 +4477,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -4546,7 +4519,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4667,7 +4639,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4819,7 +4790,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -4849,7 +4819,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -5141,7 +5110,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -5454,7 +5422,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -5712,9 +5679,9 @@
    "fifth_edition_headwords": [
     "Praan"
    ],
-   "fifth_edition_definition_source": "printed_guide",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com"
    ]
@@ -5729,7 +5696,7 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com"
    ]
@@ -5865,7 +5832,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -6208,7 +6174,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -6291,7 +6256,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -6332,7 +6296,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -6517,7 +6480,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "prima_guide",
     "shout_menu"
    ]
@@ -6690,7 +6652,6 @@
    ],
    "fifth_edition_definition_source": "guide_website_only",
    "fifth_edition_source_kinds": [
-    "other",
     "primagames_com"
    ]
   },
@@ -6830,7 +6791,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -6907,7 +6867,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -6951,7 +6910,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -6989,7 +6947,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7016,6 +6973,7 @@
    ],
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
+    "prima_guide",
     "primagames_com",
     "shout_menu"
    ]
@@ -7094,7 +7052,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7106,9 +7063,9 @@
    "fifth_edition_headwords": [
     "Thur"
    ],
-   "fifth_edition_definition_source": "guide_website_only",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other",
+    "dialogue_file",
     "primagames_com"
    ]
   },
@@ -7129,7 +7086,7 @@
    ],
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other",
+    "dialogue_file",
     "prima_guide",
     "primagames_com",
     "shout_menu"
@@ -7322,7 +7279,6 @@
    ],
    "fifth_edition_definition_source": "guide_website_only",
    "fifth_edition_source_kinds": [
-    "other",
     "primagames_com"
    ]
   },
@@ -7345,7 +7301,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7426,7 +7381,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7601,9 +7555,9 @@
    "fifth_edition_headwords": [
     "Vennesetiid"
    ],
-   "fifth_edition_definition_source": "no_official_definition_cited",
+   "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
-    "other"
+    "dialogue_file"
    ]
   },
   {
@@ -7755,7 +7709,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide"
    ]
   },
@@ -7781,7 +7734,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7822,7 +7774,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "dialogue_file",
-    "other",
     "primagames_com"
    ]
   },
@@ -7835,7 +7786,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -7954,7 +7904,6 @@
    "fifth_edition_source_kinds": [
     "book",
     "dialogue_file",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -8095,7 +8044,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -8309,7 +8257,6 @@
    ],
    "fifth_edition_definition_source": "printed_guide",
    "fifth_edition_source_kinds": [
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -8349,7 +8296,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com"
    ]
@@ -8611,7 +8557,6 @@
    "fifth_edition_definition_source": "game_files_or_books",
    "fifth_edition_source_kinds": [
     "book",
-    "other",
     "prima_guide",
     "primagames_com",
     "shout_menu"
@@ -8697,8 +8642,7 @@
   {
    "word": "Gaaffesejul",
    "source_kinds": [
-    "dialogue_file",
-    "other"
+    "dialogue_file"
    ],
    "definition_source": "game_files_or_books"
   },
@@ -8900,5 +8844,16 @@
    "wiki": "Tovinaan",
    "fifth_edition": "Tovitaan"
   }
+ ],
+ "review_notes": [
+  "Wiki \"Quethsegol\" is the first word of the Fifth Edition heading \"Quethsegol Ahrol\", where it is called a misspelling of qethsegol.",
+  "Wiki \"Nall\" and \"Thurri\" occur in the Fifth Edition only inside a quoted line marked [sic].",
+  "Fifth Edition \"Daniik\" has usage examples spelt daanik, which is the wiki headword.",
+  "Wiki \"Vun\" appears in the Fifth Edition only in a note under Zul.",
+  "Of the 59 wiki entries with no Fifth Edition heading, 21 cite only the untraced list, 17 cite The Elder Scrolls Online, 8 cite the book Wisdom of the Flying Gods, 1 cites Blades, 8 cite Skyrim sources, 3 the printed guide and 1 a Bethesda article.",
+  "Eight of those 59 occur in the Fifth Edition as inflected or compound forms in examples under another heading (Briinahii, Duaan, Frini, Funta, Junnesejer, Stinselok, Ziil, Zindro): it gives headings to base words only.",
+  "Seven of the 36 Fifth Edition headings missing from the wiki dictionary rows are on the same wiki page in other lists: six locations and one phrase.",
+  "Thaarn cites a book and the guide in its definition, but its usage note says it is attested only on the guide website; its level is doubtful.",
+  "Kun cites a dialogue line, but its entry says the word is inferred and the line reads jun; its level is doubtful."
  ]
 }
