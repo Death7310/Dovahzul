@@ -2,14 +2,14 @@
 facts-only reconciliation file.
 
     python3 -I tools/reconcile/compare_fifth_edition.py \
-        research/data/canon-lexicon.json parsed.json \
+        research/data/canon-lexicon.json research/data/fifth-edition.json \
         research/data/fifth-edition-reconciliation.json
 
 What is written: for each wiki entry, whether the Fifth Edition has it and
 what kind of official source the Fifth Edition cites for its definition; the
 Fifth Edition headwords the wiki lacks, with the same source kinds; and pairs
-that look like spelling variants. Nothing the Fifth Edition's authors wrote
-(pronunciations, word types, expanded definitions, notes, examples) is copied.
+that look like spelling variants. The dictionary's own content is in
+research/data/fifth-edition.json; this file holds only the comparison.
 """
 import collections, json, re, sys
 L = json.load(open(sys.argv[1], encoding='utf-8'))
@@ -72,9 +72,8 @@ cross = collections.Counter((r['wiki_source_class'], r['fifth_edition_definition
 out = {
     'meta': {
         'what': 'Entry-by-entry comparison of the wiki dictionary (canon-lexicon.json) with the Dragon Language Dictionary, Fifth Edition, published by Thuum.org.',
-        'fifth_edition_copy': 'Supplied by the project owner as a Word file on 2026-11-15. Not stored in this repository: it states no licence.',
-        'kept_here': 'Facts only: which words each source lists, the kind of official source the Fifth Edition cites for a definition, and likely spelling variants.',
-        'not_kept_here': 'Pronunciations, word types, expanded definitions, notes, etymologies and examples, which are the Fifth Edition authors\' own work.',
+        'fifth_edition_copy': 'Supplied by the project owner as a Word file on 2026-11-15 and kept in research/sources/thuum/; its parsed contents are in research/data/fifth-edition.json.',
+        'kept_here': 'The comparison only: which words each source lists, the kind of official source the Fifth Edition cites for a definition, and likely spelling variants.',
         'source_kinds': {'dialogue_file': 'developer notes in the game\'s dialogue file', 'book': 'an in-game book', 'shout_menu': 'the in-game Shouts menu',
                          'prima_guide': 'the printed official guide, Legendary Edition', 'primagames_com': 'the guide publisher\'s online word list'},
         'limits': 'The copy was a PDF converted to Word and holds 646 entries; its introduction says 647. One region was read by hand. Source kinds were read by pattern; an independent second parser agreed on all of them after correction, and about 75 entries were read in full. A few definitions are misprinted in the copy itself, so a cited source should be checked before it overrides another reading.',

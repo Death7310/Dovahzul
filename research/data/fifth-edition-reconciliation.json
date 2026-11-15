@@ -1,9 +1,8 @@
 {
  "meta": {
   "what": "Entry-by-entry comparison of the wiki dictionary (canon-lexicon.json) with the Dragon Language Dictionary, Fifth Edition, published by Thuum.org.",
-  "fifth_edition_copy": "Supplied by the project owner as a Word file on 2026-11-15. Not stored in this repository: it states no licence.",
-  "kept_here": "Facts only: which words each source lists, the kind of official source the Fifth Edition cites for a definition, and likely spelling variants.",
-  "not_kept_here": "Pronunciations, word types, expanded definitions, notes, etymologies and examples, which are the Fifth Edition authors' own work.",
+  "fifth_edition_copy": "Supplied by the project owner as a Word file on 2026-11-15 and kept in research/sources/thuum/; its parsed contents are in research/data/fifth-edition.json.",
+  "kept_here": "The comparison only: which words each source lists, the kind of official source the Fifth Edition cites for a definition, and likely spelling variants.",
   "source_kinds": {
    "dialogue_file": "developer notes in the game's dialogue file",
    "book": "an in-game book",

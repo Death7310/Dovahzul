@@ -8,8 +8,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 
 | # | Proposal | Status |
 |---|---|---|
-| 1 | Where the dictionary is kept, and the public repository (replaces A0) | Put to the owner 2026-11-15 |
-| 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Queued |
+| 1 | Where the dictionary is kept, and the public repository (replaces A0) | Decided 2026-11-15 |
+| 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Put to the owner 2026-11-15 |
 | 3 | Words to add that the wiki dictionary lacks | Queued |
 | 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Queued |
 | 5 | Spelling conflicts | Queued |
@@ -29,7 +29,7 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 
 **Facts.** The dictionary states no licence. This repository is public. The design proposal says nothing of Thuum.org's is copied without a written licence, and its administrator is the person the project will be asking for one.
 
-**Done already, whatever the answer.** The dictionary was read and compared entry by entry with the wiki data. Only facts were stored: which words each source lists, what kind of official source the dictionary cites for each definition, and likely spelling variants (`research/data/fifth-edition-reconciliation.json`). The file itself and everything its authors wrote stayed out of the repository.
+**Done before the answer.** The dictionary was read and compared entry by entry with the wiki data, and only the comparison was stored (`research/data/fifth-edition-reconciliation.json`).
 
 **Options.**
 
@@ -39,7 +39,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 
 **Recommendation.** (a).
 
-**Outcome.** Pending.
+**Outcome, 2026-11-15.** The owner stated that Thuum.org claims no intellectual property over the dictionary and that it is free for anyone to use for any non-commercial purpose, as stated on its website and by its administrator personally. On that basis the dictionary and its parsed contents were added to the repository, with credit and marked for non-commercial use. The basis is recorded in `research/sources/thuum/ATTRIBUTION.md`. Repository visibility was left as it is.
+
+Two things follow. The administrator's own wording is to be added to the attribution file when the owner has it. And the non-commercial condition must be carried into the licence decision (A2), because the open licences recommended there allow selling: Thuum.org's material has to stay in its own files under its own terms, or the project's content licence has to be non-commercial too.
 
 ## Evidence notes for the queued proposals
 

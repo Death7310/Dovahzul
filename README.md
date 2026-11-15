@@ -12,11 +12,14 @@ This repository holds research and a design proposal for a free, offline app tha
 | `research/01` to `15` | Research reports, each with a checked reference list in `research/refs/` |
 | `research/data/` | Data extracted from the wiki snapshot; see its `README.md` |
 | `research/sources/uesp/` | The wiki snapshot the data was built from; see `ATTRIBUTION.md` there |
+| `research/sources/thuum/` | Thuum.org's Fifth Edition dictionary; see `ATTRIBUTION.md` there |
 | `tools/` | Scripts that fetch, parse, check and analyse the data |
 
 ## Sources and licences
 
 Text under `research/sources/uesp/`, and the data files under `research/data/` built from it, come from the Unofficial Elder Scrolls Pages (UESP), <https://en.uesp.net/>, and are used under the Creative Commons Attribution-ShareAlike 2.5 licence. Each page's title and revision is recorded in `research/sources/uesp/manifest.d/`. That licence covers what the wiki's editors wrote. It does not cover the game text the wiki quotes, in which this project claims no rights.
+
+The dictionary under `research/sources/thuum/`, and `research/data/fifth-edition.json` built from it, are the work of Thuum.org and its contributors, used here for non-commercial purposes with credit. The basis for that use is set out in `research/sources/thuum/ATTRIBUTION.md`.
 
 No licence has yet been chosen for the project's own material (reports, design, scripts). Until one is, all rights in that material are reserved by its authors.
 
