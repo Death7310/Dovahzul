@@ -338,3 +338,18 @@ Things to know:
 - `canon-lexicon.json` and `corpus-oov.json` come out byte for byte the same on every run. The three files written by `parse_corpus.py` carry a `generated_at` timestamp and are otherwise stable.
 - `verify_counts.py` writes nothing and exits with status 1 if a check fails. `parse_lexicon.py` refuses to write if its own checks fail.
 - To add a page: put its title in the `PAGES` list in `fetch_corpus.py`, run that script, then steps 2 and 3. If the parser has no rule for the page it is listed under `pages_fetched_but_nothing_extracted` with a reason.
+
+## fifth-edition-reconciliation.json
+
+An entry-by-entry comparison of `canon-lexicon.json` with the *Dragon Language Dictionary, Fifth Edition* published by Thuum.org, which the project owner supplied as a Word file on 2026-11-15. The dictionary states no licence, so the file is not in this repository and nothing its authors wrote is copied here.
+
+What the file holds:
+
+- `wiki_entries`: one row per wiki entry, with the wiki's source class, whether the Fifth Edition has the word, and the kind of official source the Fifth Edition cites for its definition (developer notes in the game's dialogue file, an in-game book, the Shouts menu, the printed official guide, or the guide publisher's online word list).
+- `only_in_fifth_edition`: its headwords that the wiki dictionary lacks, with the same source kinds.
+- `likely_spelling_variants`: pairs one letter apart.
+- `meta.counts` and `meta.wiki_class_by_fifth_edition_source`: the totals.
+
+Limits: the copy was a PDF converted to Word, with interleaved columns in places. 646 of the 647 entries it says it has were identified, one region by hand. Source kinds were read by pattern.
+
+To regenerate from your own copy, see the headers of `tools/reconcile/parse_fifth_edition.py` and `tools/reconcile/compare_fifth_edition.py`.
