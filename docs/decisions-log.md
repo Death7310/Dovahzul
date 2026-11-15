@@ -10,8 +10,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 |---|---|---|
 | 1 | Where the dictionary is kept, and the public repository (replaces A0) | Decided 2026-11-15 |
 | 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Accepted 2026-11-15 |
-| 3 | Words to add that the wiki dictionary lacks | Put to the owner 2026-11-15 |
-| 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Queued |
+| 3 | Words to add that the wiki dictionary lacks | Accepted 2026-11-15 |
+| 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Put to the owner 2026-11-15 |
 | 5 | Spelling conflicts | Queued |
 | 6 | Meanings: official definitions in place of wiki readings | Queued |
 | 7 | Word types | Queued |
@@ -56,6 +56,18 @@ Grades 1 to 3 may be used as building parts in the forge. Grade 4 may not until 
 
 **Applied.** `research/data/word-status.json`, built by `tools/reconcile/grade_words.py`: 378 game, 166 guide, 54 guide website, 21 unconfirmed, 26 later game, 12 waiting on proposal 4. This replaces decision A3 of the design proposal.
 
+## 3. Words the dictionary has that the wiki lacks
+
+**Ruling, accepted 2026-11-15 ("tap").** Of the 36 Fifth Edition entries missing from the wiki dictionary:
+
+- 10 compounds and set forms defined in the game's developer notes are added as vocabulary, graded Game, with their parts recorded.
+- 2 words from the printed guide are added, graded Guide.
+- 6 words found only on the guide's website are added, graded Guide website, with the single-source mark.
+- 11 place names go to the list of names, not the vocabulary.
+- 4 spelling variants wait for proposal 5, and 3 entries with no printed definition are recorded as forms seen, with no meaning.
+
+**Applied.** `research/data/lexicon-additions.json`, built by `tools/reconcile/build_additions.py`. Each added word was checked against a game text where it occurs; the readings agree, except Vosaraan, noted under proposal 6.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -64,11 +76,18 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **3. Words to add.** 36 Fifth Edition headings are not wiki dictionary rows. Eleven are names of places (eight from the in-game book Holdings of Jarl Gjalund, plus Alikr, Oblivion and Sovngarde; six are already in the wiki's place list). Ten are compounds or set forms defined in the game's developer notes (Alok-Dilon, Bormahu, Dovahsebrom, Gaaffesejul, Sossedov, Tiid-Ahraan, Ulse, Vomir, Vosaraan, Wuldsetiid). Eight are words from the guide or its website (Rahgron and Suleykaar in the printed guide; Kras, Saan, Sahsun, Sik, Viidost and Vu on the website only). Four are spelling variants of wiki words (Daniik, Krivaan, Tiiraaz, Tovitaan) and belong to proposal 5. Three print no official definition (Dohaviin, Sadonvum, Tu'um).
 
-**4. Wiki-only words.** 59. By wiki source: 21 untraced list, 17 The Elder Scrolls Online, 8 the book Wisdom of the Flying Gods, 1 Blades, 8 Skyrim, 3 printed guide, 1 Bethesda article. Eight occur in the Fifth Edition as inflected or compound forms under another heading; it gives headings to base words only. About 23 can be split into a Fifth Edition heading plus an ending or another heading.
+**4. Wiki-only words.** 59, in six groups.
+
+- Forms of words the project already has, 21: Dezu, Dinokii, Dovahzin, Fenjuntiid, Gronsezin, Juntiid, Nikrent, Sosmir (later games); Briinahii, Duaan, Frini, Junnesejer, Ziil, Zindro (Skyrim and the guide); Funta, Stinselok, Voqostiid, Naaktiid, Pelaan, Fahlah, Qahnaaran (untraced list). Sixteen occur in game text; Juntiid, Naaktiid, Pelaan, Fahlah and Qahnaaran do not occur as spelt.
+- Later-game words with a meaning given in game material, 11: Dey, Fey, Jiid, Jol, On, Ron, Roth, Wiix (the in-game book Wisdom of the Flying Gods, The Elder Scrolls Online), and Laar, Miir, Nihnzey, which the wiki cites only to the untraced list but which occur with translations in that book, in a dragon's shout and in a name.
+- Later-game words with no recorded meaning, 10: Han, Hof, Jaag, Kohg, Liik, Moh, Nel, Riis, Thaan, Tosh.
+- Untraced words with nothing else behind them, 7: Naas, Raal, Um, Unraak, Viint, Vindahlheim, Vos. None occurs in any game text.
+- Singles, 4: Au (occurs once in an in-game book, where the line is translated "on"; possibly a misprint of nau), Shor (a god's name), Ros (from a Bethesda article), Vun (cited to the printed guide; the Fifth Edition says the word for voice was once vun and is now zul).
+- Spelling variants and errors, 6, for proposal 5: Kriivaan, Tovinaan, Tiiraz, Quethsegol, Nall, Thurri.
 
 **5. Spelling.** Four pairs one letter apart, wiki form first: Kriivaan/Krivaan, Tiiraz/Tiiraaz, Tovinaan/Tovitaan, Daanik/Daniik (the Fifth Edition's own examples under Daniik are spelt daanik). The Fifth Edition also marks as errors: quethsegol (for qethsegol), nall, thurri, hinde, dohaviin, miraad, niid, bahlaan, tu'um, aan in the sense "slave", rok in the sense "word", jun in the sense "light".
 
-**6. Meanings.** Six real differences between a wiki meaning and the cited official definition: Bel, Mindol, Mindoraan, Mindok, Kun, Sov. The copy misprints some definitions (Krah, Krii, Sosaal, Gron, Unslaad, Niid), so no cited definition should replace a wiki meaning without a look at the game source. Kogaan carries the developer gloss "blessings (thankfully)", which bears on "thank you".
+**6. Meanings.** Six real differences between a wiki meaning and the cited official definition: Bel, Mindol, Mindoraan, Mindok, Kun, Sov. The copy misprints some definitions (Krah, Krii, Sosaal, Gron, Unslaad, Niid), so no cited definition should replace a wiki meaning without a look at the game source. Kogaan carries the developer gloss "blessings (thankfully)", which bears on "thank you". Vosaraan is defined in the developer notes as "do not wait / do not delay", while the wiki reads the same line as "(your) opposite awaits".
 
 **7. Word types.** A type is printed on nearly every entry under the dictionary's own strong and weak system, which it calls unofficial. Zu'u is printed as a verb in this copy, which is an error.
 

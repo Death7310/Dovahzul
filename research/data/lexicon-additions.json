@@ -1,0 +1,439 @@
+{
+ "meta": {
+  "what": "Words added to the project from the Dragon Language Dictionary, Fifth Edition (Thuum.org), under the ruling recorded as proposal 3 in docs/decisions-log.md, accepted 2026-11-15.",
+  "credit": "Compiled and cited by Thuum.org; see research/sources/thuum/ATTRIBUTION.md. Non-commercial use.",
+  "meaning": "The official definition as the Fifth Edition quotes it. Not yet checked against the game source.",
+  "parts": "How this project divides the form into words it already has. This is the project's analysis.",
+  "counts": {
+   "vocabulary": 18,
+   "names": 11,
+   "forms_seen_without_meaning": 3
+  }
+ },
+ "vocabulary": [
+  {
+   "word": "Alok-Dilon",
+   "meaning": "Necromancy",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 02013290"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": [],
+   "parts": [
+    "alok",
+    "dilon"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Bormahu",
+   "meaning": "Our Father",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 0009C213"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 4,
+   "example_text_ids": [
+    "dlg-online-nahfahlaar-13",
+    "dlg-skyrim-paarthurnax-dragon-60",
+    "dlg-skyrim-paarthurnax-dragon-62"
+   ],
+   "parts": [
+    "bormah",
+    "-u"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Dovahsebrom",
+   "meaning": "Dragon of the North",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 000C43AE"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-greybeards-chant-1"
+   ],
+   "parts": [
+    "dovah",
+    "se",
+    "brom"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Gaaffesejul",
+   "meaning": "Mortal Ghosts (“ghosts of men/humans”)",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 000ED366"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-alduin-33"
+   ],
+   "parts": [
+    "gaaf",
+    "(plural)",
+    "se",
+    "jul"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Sossedov",
+   "meaning": "Dragonblood/Blood of the Dragon",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 0005586A",
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-paarthurnax-dragon-17"
+   ],
+   "parts": [
+    "sos",
+    "se",
+    "dov"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Tiid-Ahraan",
+   "meaning": "Time-Wound",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 0003FA49"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "name-lore-time-wound-1"
+   ],
+   "parts": [
+    "tiid",
+    "ahraan"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Ulse",
+   "meaning": "For Eternity",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 000CC4F2"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 4,
+   "example_text_ids": [
+    "dlg-legends-alduin-1",
+    "dlg-skyrim-alduin-1",
+    "dlg-skyrim-alduin-7"
+   ],
+   "parts": [
+    "ul",
+    "se"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Vomir",
+   "meaning": "Unallied/Free of Fealty",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 0009E06E"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-dragonslayer-1"
+   ],
+   "parts": [
+    "vo-",
+    "mir"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Vosaraan",
+   "meaning": "Do not wait / Do not delay",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 000C64F0, 000C64F6"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-paarthurnax-dragon-47"
+   ],
+   "parts": [
+    "vo-",
+    "saraan"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Wuldsetiid",
+   "meaning": "Whirlwind of Time",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 00055771"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-paarthurnax-dragon-31"
+   ],
+   "parts": [
+    "wuld",
+    "se",
+    "tiid"
+   ],
+   "parts_all_known": true
+  },
+  {
+   "word": "Rahgron",
+   "meaning": "Angry",
+   "meaning_grade": "guide",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "POGGLE, p. 1099",
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "ww-whirlwind-sprint-1"
+   ]
+  },
+  {
+   "word": "Suleykaar",
+   "meaning": "Powerful",
+   "meaning_grade": "guide",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "POGGLE, p. 1097",
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "ww-dragon-aspect-1"
+   ]
+  },
+  {
+   "word": "Kras",
+   "meaning": "Sick",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
+  },
+  {
+   "word": "Saan",
+   "meaning": "Lose",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
+  },
+  {
+   "word": "Sahsun",
+   "meaning": "Village",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
+  },
+  {
+   "word": "Sik",
+   "meaning": "Rune/Word",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
+  },
+  {
+   "word": "Viidost",
+   "meaning": "Poison",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
+  },
+  {
+   "word": "Vu",
+   "meaning": "Dawn",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "ww-phantom-form-3"
+   ]
+  }
+ ],
+ "names": [
+  {
+   "word": "Ahroldan",
+   "meaning": "H’roldan",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 2
+  },
+  {
+   "word": "Ahrolsedovah",
+   "meaning": "Whiterun",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 2
+  },
+  {
+   "word": "Bromjunaar",
+   "meaning": "Bromjunaar",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 2
+  },
+  {
+   "word": "Hillgrundhofkah",
+   "meaning": "Hillgrund’s Steading",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Korvanjund",
+   "meaning": "Korvanjund",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": false,
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Quethsegol Ahrol",
+   "meaning": "Granite Hill",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 2
+  },
+  {
+   "word": "Rorikhofkah",
+   "meaning": "Rorik’s Steading",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": true,
+   "occurs_in_game_texts": 2
+  },
+  {
+   "word": "Volunruud",
+   "meaning": "Volunruud",
+   "sources_cited_by_fifth_edition": [
+    "Book, Holdings of Jarl Gjalund"
+   ],
+   "already_in_wiki_place_list": false,
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Alikr",
+   "meaning": "Alik’r",
+   "sources_cited_by_fifth_edition": [
+    "POGGLE, p. 1099"
+   ],
+   "already_in_wiki_place_list": false,
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Oblivion",
+   "meaning": "Oblivion",
+   "sources_cited_by_fifth_edition": [
+    "POGGLE, p. 1099"
+   ],
+   "already_in_wiki_place_list": false,
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Sovngarde",
+   "meaning": "Sovngarde",
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 00056380",
+    "POGGLE, p. 1099"
+   ],
+   "already_in_wiki_place_list": false,
+   "occurs_in_game_texts": 10
+  }
+ ],
+ "forms_seen_without_meaning": [
+  {
+   "word": "Dohaviin",
+   "meaning": null,
+   "note": "The Fifth Edition has an entry and prints no official definition.",
+   "occurs_in_game_texts": 0
+  },
+  {
+   "word": "Sadonvum",
+   "meaning": null,
+   "note": "The Fifth Edition has an entry and prints no official definition.",
+   "occurs_in_game_texts": 1
+  },
+  {
+   "word": "Tu'um",
+   "meaning": null,
+   "note": "The Fifth Edition has an entry and prints no official definition.",
+   "occurs_in_game_texts": 0
+  }
+ ]
+}
