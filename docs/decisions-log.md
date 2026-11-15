@@ -11,8 +11,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 1 | Where the dictionary is kept, and the public repository (replaces A0) | Decided 2026-11-15 |
 | 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Accepted 2026-11-15 |
 | 3 | Words to add that the wiki dictionary lacks | Accepted 2026-11-15 |
-| 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Put to the owner 2026-11-15 |
-| 5 | Spelling conflicts | Queued |
+| 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Accepted 2026-11-15 |
+| 5 | Spelling conflicts | Put to the owner 2026-11-15 |
 | 6 | Meanings: official definitions in place of wiki readings | Queued |
 | 7 | Word types | Queued |
 | 8 | Pronunciation convention | Queued |
@@ -68,6 +68,19 @@ Grades 1 to 3 may be used as building parts in the forge. Grade 4 may not until 
 
 **Applied.** `research/data/lexicon-additions.json`, built by `tools/reconcile/build_additions.py`. Each added word was checked against a game text where it occurs; the readings agree, except Vosaraan, noted under proposal 6.
 
+## 4. Words the wiki has that the dictionary lacks
+
+**Ruling, accepted 2026-11-15 ("tap").** Of the 59:
+
+- 21 forms of words the project already has are filed under their base word as recorded forms, not as separate entries.
+- 11 words from a later game, with a meaning given in that game, are kept as vocabulary, graded Game, labelled with the game, and usable in the forge. Laar, Miir and Nihnzey move here from Unconfirmed.
+- 10 later-game words with no recorded meaning are reserved: recorded, never given an invented meaning, and their spellings not reused for new words.
+- 7 words from the untraced list with nothing else behind them stay Unconfirmed.
+- Shor goes to the list of names. Ros is kept, graded like a guide word, single source. Au is kept, graded Game, with a note that it may be a misprint of nau. Vun is kept with a doubt mark and is not built on.
+- 6 spelling variants and errors wait for proposal 5.
+
+**Applied.** `research/data/word-status.json` now reads: 390 game, 168 guide, 54 guide website, 7 unconfirmed, 10 reserved, 21 recorded forms, 1 name, 6 waiting on proposal 5.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -85,7 +98,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 - Singles, 4: Au (occurs once in an in-game book, where the line is translated "on"; possibly a misprint of nau), Shor (a god's name), Ros (from a Bethesda article), Vun (cited to the printed guide; the Fifth Edition says the word for voice was once vun and is now zul).
 - Spelling variants and errors, 6, for proposal 5: Kriivaan, Tovinaan, Tiiraz, Quethsegol, Nall, Thurri.
 
-**5. Spelling.** Four pairs one letter apart, wiki form first: Kriivaan/Krivaan, Tiiraz/Tiiraaz, Tovinaan/Tovitaan, Daanik/Daniik (the Fifth Edition's own examples under Daniik are spelt daanik). The Fifth Edition also marks as errors: quethsegol (for qethsegol), nall, thurri, hinde, dohaviin, miraad, niid, bahlaan, tu'um, aan in the sense "slave", rok in the sense "word", jun in the sense "light".
+**5. Spelling.** Four pairs one letter apart, wiki form first, with occurrences in game text: Kriivaan 0 / Krivaan 1 (printed guide); Tiiraz 1 / Tiiraaz 1 (the developer note has tiiraaz; the Fifth Edition calls tiiraz a misspelling in the dialogue); Tovinaan 0 / Tovitaan 0 (guide website only); Daanik 3 / Daniik 0 (website spelling; the Fifth Edition's own examples are spelt daanik). Rare spellings beside a common one, rare first: quethsegol 3 / qethsegol 26; nall 1 / naal 11; thurri 3 / thuri 12; niid 1 / nid 7; miraad 1 / miiraad 1; bahlaan 1 / balaan 2; tuum 1 / thu'um 5; hinde 1 (the regular plural would be hinne, which does not occur). The Fifth Edition also marks as errors: quethsegol (for qethsegol), nall, thurri, hinde, dohaviin, miraad, niid, bahlaan, tu'um, aan in the sense "slave", rok in the sense "word", jun in the sense "light".
 
 **6. Meanings.** Six real differences between a wiki meaning and the cited official definition: Bel, Mindol, Mindoraan, Mindok, Kun, Sov. The copy misprints some definitions (Krah, Krii, Sosaal, Gron, Unslaad, Niid), so no cited definition should replace a wiki meaning without a look at the game source. Kogaan carries the developer gloss "blessings (thankfully)", which bears on "thank you". Vosaraan is defined in the developer notes as "do not wait / do not delay", while the wiki reads the same line as "(your) opposite awaits".
 
