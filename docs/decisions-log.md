@@ -9,8 +9,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | # | Proposal | Status |
 |---|---|---|
 | 1 | Where the dictionary is kept, and the public repository (replaces A0) | Decided 2026-11-15 |
-| 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Put to the owner 2026-11-15 |
-| 3 | Words to add that the wiki dictionary lacks | Queued |
+| 2 | Re-grade each word's status from the official sources the dictionary cites (replaces A3) | Accepted 2026-11-15 |
+| 3 | Words to add that the wiki dictionary lacks | Put to the owner 2026-11-15 |
 | 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Queued |
 | 5 | Spelling conflicts | Queued |
 | 6 | Meanings: official definitions in place of wiki readings | Queued |
@@ -43,17 +43,30 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 
 Two things follow. The administrator's own wording is to be added to the attribution file when the owner has it. And the non-commercial condition must be carried into the licence decision (A2), because the open licences recommended there allow selling: Thuum.org's material has to stay in its own files under its own terms, or the project's content licence has to be non-commercial too.
 
+## 2. How each word's standing is graded
+
+**Ruling, accepted 2026-11-15 ("tap").** A word's meaning has one of four grades, by where its official definition comes from:
+
+1. **Game**: the game's own material (developer notes in the game files, in-game books, the Shouts menu).
+2. **Guide**: the printed official guide, with no game source.
+3. **Guide website**: only the guide publisher's online word list. Official, but marked as resting on a single source.
+4. **Unconfirmed**: no official definition found.
+
+Grades 1 to 3 may be used as building parts in the forge. Grade 4 may not until the owner rules on each word. Words from later games keep the wiki's reading and are labelled by game. No cited definition replaces a wiki meaning until the game source has been checked (proposal 6).
+
+**Applied.** `research/data/word-status.json`, built by `tools/reconcile/grade_words.py`: 378 game, 166 guide, 54 guide website, 21 unconfirmed, 26 later game, 12 waiting on proposal 4. This replaces decision A3 of the design proposal.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
 
 **2. Status.** Of the wiki's 657 entries, 598 have a Fifth Edition heading. For the definition, the Fifth Edition cites: game files, in-game books or the Shouts menu for 378; the printed guide but no game source for 166; only the guide publisher's website for 54. By wiki class: of 392 game-text entries, 321 / 23 / 14, with 34 absent; of 163 guide-only entries, 41 / 115 / 4, with 3 absent; of 91 untraced-list entries, 11 / 25 / 34, with 21 absent. The Fifth Edition treats the printed guide and the guide website as official.
 
-**3. Words to add.** 36 Fifth Edition headings are not wiki dictionary rows. Seven are on the wiki page in other lists (six place names, one phrase). The rest are compounds and forms defined in developer notes, words from the guide or its website, and four entries with no official definition.
+**3. Words to add.** 36 Fifth Edition headings are not wiki dictionary rows. Eleven are names of places (eight from the in-game book Holdings of Jarl Gjalund, plus Alikr, Oblivion and Sovngarde; six are already in the wiki's place list). Ten are compounds or set forms defined in the game's developer notes (Alok-Dilon, Bormahu, Dovahsebrom, Gaaffesejul, Sossedov, Tiid-Ahraan, Ulse, Vomir, Vosaraan, Wuldsetiid). Eight are words from the guide or its website (Rahgron and Suleykaar in the printed guide; Kras, Saan, Sahsun, Sik, Viidost and Vu on the website only). Four are spelling variants of wiki words (Daniik, Krivaan, Tiiraaz, Tovitaan) and belong to proposal 5. Three print no official definition (Dohaviin, Sadonvum, Tu'um).
 
 **4. Wiki-only words.** 59. By wiki source: 21 untraced list, 17 The Elder Scrolls Online, 8 the book Wisdom of the Flying Gods, 1 Blades, 8 Skyrim, 3 printed guide, 1 Bethesda article. Eight occur in the Fifth Edition as inflected or compound forms under another heading; it gives headings to base words only. About 23 can be split into a Fifth Edition heading plus an ending or another heading.
 
-**5. Spelling.** Three pairs one letter apart: Kriivaan/Krivaan, Tiiraz/Tiiraaz, Tovinaan/Tovitaan. The Fifth Edition also marks as errors: quethsegol (for qethsegol), nall, thurri, hinde, dohaviin, miraad, niid, bahlaan, tu'um, aan in the sense "slave", rok in the sense "word", jun in the sense "light".
+**5. Spelling.** Four pairs one letter apart, wiki form first: Kriivaan/Krivaan, Tiiraz/Tiiraaz, Tovinaan/Tovitaan, Daanik/Daniik (the Fifth Edition's own examples under Daniik are spelt daanik). The Fifth Edition also marks as errors: quethsegol (for qethsegol), nall, thurri, hinde, dohaviin, miraad, niid, bahlaan, tu'um, aan in the sense "slave", rok in the sense "word", jun in the sense "light".
 
 **6. Meanings.** Six real differences between a wiki meaning and the cited official definition: Bel, Mindol, Mindoraan, Mindok, Kun, Sov. The copy misprints some definitions (Krah, Krii, Sosaal, Gron, Unslaad, Niid), so no cited definition should replace a wiki meaning without a look at the game source. Kogaan carries the developer gloss "blessings (thankfully)", which bears on "thank you".
 

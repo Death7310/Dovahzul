@@ -362,3 +362,7 @@ What the file holds:
 Source kinds were read by pattern; an independent second parser agreed on all of them after seven were corrected.
 
 To regenerate, see the headers of `tools/reconcile/parse_fifth_edition.py` and `tools/reconcile/compare_fifth_edition.py`.
+
+## word-status.json
+
+The standing of each wiki dictionary entry's meaning under the ruling recorded as proposal 2 in `docs/decisions-log.md`. Each row gives the word, where the wiki says the word itself occurs, whether the Fifth Edition has it, the grade of its meaning (`game`, `guide`, `guide_website`, `unconfirmed`, `later_game`, or none while a ruling is pending), whether it rests on a single source, and whether it may be used as a building part in the forge. Built by `tools/reconcile/grade_words.py`; `meta.counts` has the totals.

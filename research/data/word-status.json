@@ -1,0 +1,8078 @@
+{
+ "meta": {
+  "what": "The standing of each wiki dictionary entry's meaning, by the ruling in docs/decisions-log.md, proposal 2.",
+  "grades": {
+   "game": "defined in the game's own material",
+   "guide": "defined in the printed official guide, no game source",
+   "guide_website": "defined only in the guide publisher's online word list (single source)",
+   "unconfirmed": "no official definition found; may not be built on until ruled",
+   "later_game": "from a later game the Fifth Edition does not cover; keeps the wiki reading",
+   "None": "waits on proposal 4"
+  },
+  "word_attested": "where the wiki says the word itself occurs: game_text, game_data, guide_only, untraced_list_only, other, no_source",
+  "counts": {
+   "None": 12,
+   "game": 378,
+   "guide": 166,
+   "guide_website": 54,
+   "later_game": 26,
+   "unconfirmed": 21
+  },
+  "caution": "A grade says where the definition is cited from. A few definitions are misprinted in the Fifth Edition copy (see the doubt field), and no cited definition replaces a wiki meaning until the game source has been checked."
+ },
+ "words": [
+  {
+   "word": "Aak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aal",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aam",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aav",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Aaz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ag",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahkrin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahmik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahmul",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahrk",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahrol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahst",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahtiid",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ahzid",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Al",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Alok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Alun",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Am",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Amativ",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Atmora",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Au",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Aus",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bahlaan, Balaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bahlok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bel",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bex",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Beyn",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bii",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bodiis",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bolaav",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bolog",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bonaar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bormah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bovul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Boziik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Brendon",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Brii",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Briinah",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Briinahii",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Briinahmaar",
+   "word_attested": "no_source",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Brit",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Brod",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Brom",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bron",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bronjun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Bruniik(ke)",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Daal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Daan, Daanii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Daanik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Daar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dahmaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Deinmaar",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Denek",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Denos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dey",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Deyra",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Deyto",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dez",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dezu",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Dii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Diil",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Diin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Diiv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Diivon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dilon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dilos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dinok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dinokii",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Dinoksetiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Do",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dov",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dovah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dovahgolz",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dovahkiin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dovahkriid",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dovahzin",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Draal",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dreh",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Drem",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Drey",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Drog",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Drun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Du",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Du'ul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Duaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Dukaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dur",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dwiin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Dwiirok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ek",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Enook",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ensosin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Erei",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Eruvos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Evenaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Evgir",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faad",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faasnu",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faaz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fahdon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fahlah",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Fahliil",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fahluaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Faraan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Feim",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fel",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fen",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fenjuntiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Fent",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fey",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Feykro",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Feyn",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fiik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Filok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fod",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fodiiz",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Folaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Folook",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fonaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Frin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Frini",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Frod",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fron",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Frul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ful",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Fundein",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Funt",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Funta",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Fus",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gaaf",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gaar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gahrot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gahvon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Galik",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Geh",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Geinmaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gogil",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Golah",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Golt",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Golz",
+   "word_attested": "no_source",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Goraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Govey",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Graag",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Graan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grah-Zeymahzin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grahmindol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gram",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gravuun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grind",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gro",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Grohiik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gron",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is cut short in the copy; the expanded definition has \"to bind\""
+  },
+  {
+   "word": "Gronsezin",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls: Blades",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Gruth",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Gut",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Haal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Haalvut",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Haas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hadrim, Hahdrim",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hahkun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hahnu",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hahvulon",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Han",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Heim",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Het",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hevno",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hevnoraak",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Heyv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hi",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Him, Hin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hind",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hof",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Hofkah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hofkahsejun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hofkiin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true,
+   "doubt": "pronunciation is printed identically to that of Hofkah"
+  },
+  {
+   "word": "Hokoron",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Horvut",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Horvutah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Hungaar",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Huzrah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Iiz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "In",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Inhus",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jaag",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Jer",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Jol",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Joor(re)",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jud",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Jun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Junaar",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Junnesejer",
+   "word_attested": "guide_only",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Juntiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Kaal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kaaz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Keizaal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kel(le)",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kendov",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kest",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Key",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Keyn",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kiim",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kiin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kiir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kinbok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kinzon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kip",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kipraan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Klo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Klov",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ko",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kod",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kodaav",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kogaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kohg",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Kol",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kolos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Komeyt",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Konahrik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Koor",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kopraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Koraav",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kos",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kosil",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kotin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is misprinted in the copy (it repeats the previous entry); the expanded definition has \"cold\""
+  },
+  {
+   "word": "Krasaar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "this region of the copy is interleaved; only the definition and source were read, by hand"
+  },
+  {
+   "word": "Krasnovaar",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true,
+   "doubt": "this region of the copy is interleaved; only the definition and source were read, by hand"
+  },
+  {
+   "word": "Kreh",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kren",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krent",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kriaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krif",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is misprinted in the copy (it repeats the previous entry); the expanded definition has \"to kill\""
+  },
+  {
+   "word": "Kriid",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kriin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kriist",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kriivaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Kriivah",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kril",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krilot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kro",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kron",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krongrah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kroniid",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Krosis",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kruziik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kulaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kulaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Kun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "cites a dialogue line, but the entry says the word is inferred and the line reads jun"
+  },
+  {
+   "word": "Laan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Laar",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Laas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Laat",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lahney",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lahvraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lahvu",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Leh",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Liik",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Liiv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Liivrah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lingrah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lo",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lon",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Loost",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Los",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Losei",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lost",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lovaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Luft",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lumnaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Lun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Luv",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Maar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mahfaeraak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mahlaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Maltiid",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Med",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mey",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Meyz",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mid",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Middovah",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Midrot, midun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Miin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Miir",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Miiraad, Miraad",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Miiraak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mindin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mindok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mindol",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mindoraan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Moh",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Mon",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Monah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Monahven",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Morah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Moro",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Morokei",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Motaad",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Motmah",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Motmahus",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mu",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mulaag",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mulhaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Mun",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Munax",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Muz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naak",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naako",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naaktiid",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Naal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naar",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Naas",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Nah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahgahdinok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahkip",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahkriin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahl",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahlaas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nahlot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nall",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Nau",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nax",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Neh",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nel",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Ney",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ni",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nid, Niid",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is printed as \"Niid No\""
+  },
+  {
+   "word": "Nihnzey",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Nii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Niin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nikrent",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Nikriin(ne)",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nil",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nimaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nis",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nivahriin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nonvul",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Norok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nos",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nu",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nunon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nus",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nust",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Nuz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Oblaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Od",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Odus",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ofaal",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ofan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ogiim",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Okaaz",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Om",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "On",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Ond",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Onik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Onikiv",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Onikaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ont",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Orin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Osos",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Oth",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ov",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ozinvey",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Paak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Paal",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Paar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Paaz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pahklok, Pahlok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pel",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pelaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Peyt",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pindaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Piraak",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pogaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pogaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pook",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Praal",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Praan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Prodah",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pruzaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Pruzah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qahnaar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qahnaaran",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Qahnaarin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qalos",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qeth",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qethsegol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Quethsegol",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Qiilaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qolaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qostiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Qoth",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Raal",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Raan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rahgol",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rahgot",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rath",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rek",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rel",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Revak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Reyliik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Reyth",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Riik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Riis",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Rinik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ro(h)",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ron",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Ronaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ronaaz",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ronax",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ronit",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ros",
+   "word_attested": "other",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Rot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Roth",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Rotmulaag",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rovaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ru",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Rul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ruth",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ruvaak",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ruz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sadon",
+   "word_attested": "other",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sah",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahlo",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahqo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahqon",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahrot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahsunaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sahvot",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Saraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Saviik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Se",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Shaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Shor",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Shul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Siigonis",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Siiv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sil",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sillesejoor",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sinak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sindugahvon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sinon",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sivaas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sizaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Slen",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Smoliin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "So",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sod",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sonaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sonaak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sos",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sosmir",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Sosaal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is misprinted in the copy (it repeats the previous entry); the expanded definition has \"to bleed\""
+  },
+  {
+   "word": "Sot",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sov",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sovrahzun",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Spaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Staadnau",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Stin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Stinselok",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Strun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Strundu'ul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Strunmah",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Su",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Su'um",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Suleyk",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Suleyksejun",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Sunvaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Suvulaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Taazokaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tafiir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tahrodiis",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tahrovin",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tey",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Thaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Thaarn",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "cites a book and the guide, but its usage note says it is attested only on the guide website"
+  },
+  {
+   "word": "Thu'um",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Thur",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Thurri",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Tiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tiiraz",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Tinvaak",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Til",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Togaat",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Toor",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tosh",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online",
+   "meaning_is": "not recorded",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Tovinaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Tovit",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tu",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tum",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Tuz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ufiik",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Um",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Un",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Unraak",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Unslaad, Unahzaal",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "definition is printed identically to that of Unahzaal"
+  },
+  {
+   "word": "Unt",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Us",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Uth",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Uv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Uznahgaar",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vaal",
+   "word_attested": "other",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vaat",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vaaz",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahdin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahlok",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahriin",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahrukiv",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahrukt",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahzah, Vazah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vahzen",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ved",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ven",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vennesetiid",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vey",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Veydo",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Veysun",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Viik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Viin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Viing",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Viint",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Viintaas",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Viir",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vindahlheim",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Vith",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vo...",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vobalaan",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vod",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vodahmin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vokiin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vokri, Vokrii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vokul",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vokun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vol",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Volaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vomindok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vonmindoraan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vonun",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vonuz",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Voqostiid",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Vos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": false,
+   "meaning_grade": "unconfirmed",
+   "meaning_sources": [],
+   "single_source": false,
+   "may_be_built_on": false
+  },
+  {
+   "word": "Voth",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vothaarn",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vukein",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vulom",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vulon",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vum",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vun",
+   "word_attested": "guide_only",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Vur",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Vus",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wahl",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wahlaan",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wen",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Werid",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wiix",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": "later_game",
+   "later_game": "The Elder Scrolls Online (book: Wisdom of the Flying Gods)",
+   "meaning_is": "the wiki reading",
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Win",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wo",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wol",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wuld",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wundun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wunduniik",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Wuth",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Yah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Yol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Yolos",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Yoriik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Yuvon",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zaam",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zaamhus",
+   "word_attested": "game_data",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zaan",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zahkrii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zahrahmiik",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zeim",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zein",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zeymah",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zeymahzin",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zii",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Ziil",
+   "word_attested": "game_text",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Zin",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zind",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zindro",
+   "word_attested": "guide_only",
+   "in_fifth_edition": false,
+   "meaning_grade": null,
+   "single_source": false,
+   "may_be_built_on": null,
+   "waits_on": "proposal 4"
+  },
+  {
+   "word": "Zofaas",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zohungaar",
+   "word_attested": "guide_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zok",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "prima_guide",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zol",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zoor",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zorox",
+   "word_attested": "untraced_list_only",
+   "in_fifth_edition": true,
+   "meaning_grade": "guide_website",
+   "meaning_sources": [
+    "primagames_com"
+   ],
+   "single_source": true,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zu'u",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "dialogue_file",
+    "primagames_com"
+   ],
+   "single_source": false,
+   "may_be_built_on": true,
+   "doubt": "word type is printed as a verb; the entry itself defines a pronoun"
+  },
+  {
+   "word": "Zul",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "book",
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  },
+  {
+   "word": "Zun",
+   "word_attested": "game_text",
+   "in_fifth_edition": true,
+   "meaning_grade": "game",
+   "meaning_sources": [
+    "prima_guide",
+    "primagames_com",
+    "shout_menu"
+   ],
+   "single_source": false,
+   "may_be_built_on": true
+  }
+ ]
+}
