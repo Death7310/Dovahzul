@@ -35,7 +35,8 @@ Fifth Edition heading:
   singles          Shor is a name. Ros keeps a guide-level grade with the
                    single-source mark. Au is graded game with a note. Vun
                    keeps a guide grade with a doubt mark and is not built on.
-  spelling         6 wait on proposal 5.
+  spelling         6 are spelling variants of other words (proposal 5,
+                   accepted 2026-11-15); see spelling.json.
 """
 import collections, json, sys
 L = json.load(open(sys.argv[1], encoding='utf-8'))
@@ -61,7 +62,7 @@ FORMS = {  # proposal 4: forms of words the project already has
 FORMS_NOT_IN_TEXT = {'Juntiid', 'Naaktiid', 'Pelaan', 'Fahlah', 'Qahnaaran'}
 LATER_WITH_MEANING = {'Dey': ESO, 'Fey': ESO, 'Jiid': ESO, 'Jol': ESO, 'On': ESO, 'Ron': ESO, 'Roth': ESO, 'Wiix': ESO, 'Laar': ESO, 'Miir': ESO, 'Nihnzey': ESO}
 RESERVED = {'Han', 'Hof', 'Jaag', 'Kohg', 'Liik', 'Moh', 'Nel', 'Riis', 'Thaan', 'Tosh'}
-SPELLING = {'Kriivaan', 'Tovinaan', 'Tiiraz', 'Quethsegol', 'Nall', 'Thurri'}
+SPELLING = {'Kriivaan': 'Krivaan', 'Tovinaan': 'Tovitaan', 'Tiiraz': 'Tiiraaz', 'Quethsegol': 'Qethsegol', 'Nall': 'Naal', 'Thurri': 'Thuri'}  # proposal 5
 SINGLES = {
     'Shor': {'meaning_grade': 'name', 'may_be_built_on': None, 'note': 'a god\'s name; belongs to the list of names'},
     'Ros': {'meaning_grade': 'guide', 'single_source': True, 'may_be_built_on': True, 'note': 'from a Bethesda article; graded like a guide word'},
@@ -90,7 +91,8 @@ for r in R['wiki_entries']:
         row.update({'meaning_grade': 'reserved', 'later_game': ESO, 'meaning_is': 'not recorded', 'single_source': False, 'may_be_built_on': False,
                     'note': 'never to be given an invented meaning; the spelling is not reused for new words'})
     elif w in SPELLING:
-        row.update({'meaning_grade': None, 'single_source': False, 'may_be_built_on': None, 'waits_on': 'proposal 5'})
+        row.update({'meaning_grade': 'variant', 'variant_of': SPELLING[w], 'single_source': False, 'may_be_built_on': False,
+                    'note': 'a recorded spelling variant, not a separate word; see spelling.json'})
     elif w in SINGLES:
         row.update({'single_source': False}); row.update(SINGLES[w])
     else:
@@ -104,14 +106,14 @@ for r in R['wiki_entries']:
             row.update({'meaning_grade': None, 'single_source': False, 'may_be_built_on': None, 'waits_on': 'proposal 4'})
     rows.append(row)
 counts = collections.Counter(str(r['meaning_grade']) for r in rows)
-out = {'meta': {'what': 'The standing of each wiki dictionary entry\'s meaning, by the rulings in docs/decisions-log.md, proposals 2 and 4.',
+out = {'meta': {'what': 'The standing of each wiki dictionary entry\'s meaning, by the rulings in docs/decisions-log.md, proposals 2, 4 and 5.',
                 'grades': {'game': 'defined in the game\'s own material', 'guide': 'defined in the printed official guide, no game source',
                            'guide_website': 'defined only in the guide publisher\'s online word list (single source)',
                            'unconfirmed': 'no official definition found; may not be built on until ruled',
                            'recorded_form': 'a form of a word the project already has; filed under that word',
                            'reserved': 'a later-game word with no recorded meaning; never given one, spelling not reused',
                            'name': 'a proper name',
-                           'None': 'waits on proposal 5'},
+                           'variant': 'a recorded spelling variant of another word; not a separate word'},
                 'word_attested': 'where the wiki says the word itself occurs: game_text, game_data, guide_only, untraced_list_only, other, no_source',
                 'counts': dict(sorted(counts.items())),
                 'caution': 'A grade says where the definition is cited from. A few definitions are misprinted in the Fifth Edition copy (see the doubt field), and no cited definition replaces a wiki meaning until the game source has been checked.'},

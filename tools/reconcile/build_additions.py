@@ -10,9 +10,9 @@ F = json.load(open(sys.argv[1], encoding='utf-8'))
 L = json.load(open(sys.argv[2], encoding='utf-8'))
 C = json.load(open(sys.argv[3], encoding='utf-8'))
 fe = {e['word']: e for e in F['entries']}
-GAME = ['Alok-Dilon', 'Bormahu', 'Dovahsebrom', 'Gaaffesejul', 'Sossedov', 'Tiid-Ahraan', 'Ulse', 'Vomir', 'Vosaraan', 'Wuldsetiid']
-GUIDE = ['Rahgron', 'Suleykaar']
-WEB = ['Kras', 'Saan', 'Sahsun', 'Sik', 'Viidost', 'Vu']
+GAME = ['Alok-Dilon', 'Bormahu', 'Dovahsebrom', 'Gaaffesejul', 'Sossedov', 'Tiid-Ahraan', 'Ulse', 'Vomir', 'Vosaraan', 'Wuldsetiid', 'Tiiraaz']  # Tiiraaz: proposal 5
+GUIDE = ['Rahgron', 'Suleykaar', 'Krivaan']            # Krivaan: standard spelling by proposal 5
+WEB = ['Kras', 'Saan', 'Sahsun', 'Sik', 'Viidost', 'Vu', 'Tovitaan']   # Tovitaan: standard spelling by proposal 5
 NAMES = ['Ahroldan', 'Ahrolsedovah', 'Bromjunaar', 'Hillgrundhofkah', 'Korvanjund', 'Quethsegol Ahrol', 'Rorikhofkah', 'Volunruud', 'Alikr', 'Oblivion', 'Sovngarde']
 SEEN_ONLY = ['Dohaviin', 'Sadonvum', "Tu'um"]
 PARTS = {  # how each compound or set form divides into words the dictionary already has
@@ -43,7 +43,7 @@ places_in_wiki = json.dumps(L.get('locations'), ensure_ascii=False).lower()
 names = [{'word': w, 'meaning': fe[w]['official_definition'], 'sources_cited_by_fifth_edition': fe[w]['citations'],
           'already_in_wiki_place_list': w.lower() in places_in_wiki, 'occurs_in_game_texts': len(occurrences(w))} for w in NAMES]
 seen = [{'word': w, 'meaning': None, 'note': 'The Fifth Edition has an entry and prints no official definition.', 'occurs_in_game_texts': len(occurrences(w))} for w in SEEN_ONLY]
-out = {'meta': {'what': 'Words added to the project from the Dragon Language Dictionary, Fifth Edition (Thuum.org), under the ruling recorded as proposal 3 in docs/decisions-log.md, accepted 2026-11-15.',
+out = {'meta': {'what': 'Words added to the project from the Dragon Language Dictionary, Fifth Edition (Thuum.org), under the rulings recorded as proposals 3 and 5 in docs/decisions-log.md, accepted 2026-11-15.',
                 'credit': 'Compiled and cited by Thuum.org; see research/sources/thuum/ATTRIBUTION.md. Non-commercial use.',
                 'meaning': 'The official definition as the Fifth Edition quotes it. Not yet checked against the game source.',
                 'parts': 'How this project divides the form into words it already has. This is the project\'s analysis.',

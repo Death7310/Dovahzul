@@ -1,6 +1,6 @@
 {
  "meta": {
-  "what": "The standing of each wiki dictionary entry's meaning, by the rulings in docs/decisions-log.md, proposals 2 and 4.",
+  "what": "The standing of each wiki dictionary entry's meaning, by the rulings in docs/decisions-log.md, proposals 2, 4 and 5.",
   "grades": {
    "game": "defined in the game's own material",
    "guide": "defined in the printed official guide, no game source",
@@ -9,18 +9,18 @@
    "recorded_form": "a form of a word the project already has; filed under that word",
    "reserved": "a later-game word with no recorded meaning; never given one, spelling not reused",
    "name": "a proper name",
-   "None": "waits on proposal 5"
+   "variant": "a recorded spelling variant of another word; not a separate word"
   },
   "word_attested": "where the wiki says the word itself occurs: game_text, game_data, guide_only, untraced_list_only, other, no_source",
   "counts": {
-   "None": 6,
    "game": 390,
    "guide": 168,
    "guide_website": 54,
    "name": 1,
    "recorded_form": 21,
    "reserved": 10,
-   "unconfirmed": 7
+   "unconfirmed": 7,
+   "variant": 6
   },
   "caution": "A grade says where the definition is cited from. A few definitions are misprinted in the Fifth Edition copy (see the doubt field), and no cited definition replaces a wiki meaning until the game source has been checked."
  },
@@ -3435,10 +3435,11 @@
    "word": "Kriivaan",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Krivaan",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Kriivah",
@@ -4605,10 +4606,11 @@
    "word": "Nall",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Naal",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Nau",
@@ -5556,10 +5558,11 @@
    "word": "Quethsegol",
    "word_attested": "game_text",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Qethsegol",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Qiilaan",
@@ -6754,10 +6757,11 @@
    "word": "Thurri",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Thuri",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Tiid",
@@ -6777,10 +6781,11 @@
    "word": "Tiiraz",
    "word_attested": "game_text",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Tiiraaz",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Tinvaak",
@@ -6860,10 +6865,11 @@
    "word": "Tovinaan",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": null,
+   "meaning_grade": "variant",
+   "variant_of": "Tovitaan",
    "single_source": false,
-   "may_be_built_on": null,
-   "waits_on": "proposal 5"
+   "may_be_built_on": false,
+   "note": "a recorded spelling variant, not a separate word; see spelling.json"
   },
   {
    "word": "Tovit",

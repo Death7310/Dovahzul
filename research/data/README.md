@@ -370,3 +370,7 @@ The standing of each wiki dictionary entry's meaning under the ruling recorded a
 ## lexicon-additions.json
 
 Words added to the project from the Fifth Edition under the ruling recorded as proposal 3 in `docs/decisions-log.md`: 18 vocabulary entries with their meaning, grade, the sources the Fifth Edition cites, how many game texts they occur in and, for compounds, their parts; 11 place names; and 3 forms the Fifth Edition lists with no definition. Built by `tools/reconcile/build_additions.py`. Credit for the compilation goes to Thuum.org; non-commercial use.
+
+## spelling.json
+
+Standard spellings and their recorded variants under the ruling recorded as proposal 5 in `docs/decisions-log.md`: the rule, eleven words with their standard form, the basis for it, each variant with where it comes from and how often each occurs in game text, one unexplained form, and eight further cases the Fifth Edition reports that are still to be checked. Built by `tools/reconcile/build_spelling.py`.

@@ -1,11 +1,11 @@
 {
  "meta": {
-  "what": "Words added to the project from the Dragon Language Dictionary, Fifth Edition (Thuum.org), under the ruling recorded as proposal 3 in docs/decisions-log.md, accepted 2026-11-15.",
+  "what": "Words added to the project from the Dragon Language Dictionary, Fifth Edition (Thuum.org), under the rulings recorded as proposals 3 and 5 in docs/decisions-log.md, accepted 2026-11-15.",
   "credit": "Compiled and cited by Thuum.org; see research/sources/thuum/ATTRIBUTION.md. Non-commercial use.",
   "meaning": "The official definition as the Fifth Edition quotes it. Not yet checked against the game source.",
   "parts": "How this project divides the form into words it already has. This is the project's analysis.",
   "counts": {
-   "vocabulary": 18,
+   "vocabulary": 21,
    "names": 11,
    "forms_seen_without_meaning": 3
   }
@@ -210,6 +210,21 @@
    "parts_all_known": true
   },
   {
+   "word": "Tiiraaz",
+   "meaning": "Sad",
+   "meaning_grade": "game",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "Dialogue File, 0009C20A",
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "dlg-skyrim-paarthurnax-dragon-64"
+   ]
+  },
+  {
    "word": "Rahgron",
    "meaning": "Angry",
    "meaning_grade": "guide",
@@ -237,6 +252,22 @@
    "occurs_in_game_texts": 1,
    "example_text_ids": [
     "ww-dragon-aspect-1"
+   ]
+  },
+  {
+   "word": "Krivaan",
+   "meaning": "Murderer/Killer",
+   "meaning_grade": "guide",
+   "single_source": false,
+   "sources_cited_by_fifth_edition": [
+    "POGGLE, p. 1096, 1098",
+    "PrimaGames.com",
+    "POGGLE, p. 1096"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 1,
+   "example_text_ids": [
+    "ww-cyclone-3"
    ]
   },
   {
@@ -312,6 +343,18 @@
    "example_text_ids": [
     "ww-phantom-form-3"
    ]
+  },
+  {
+   "word": "Tovitaan",
+   "meaning": "Searcher",
+   "meaning_grade": "guide_website",
+   "single_source": true,
+   "sources_cited_by_fifth_edition": [
+    "PrimaGames.com"
+   ],
+   "may_be_built_on": true,
+   "occurs_in_game_texts": 0,
+   "example_text_ids": []
   }
  ],
  "names": [

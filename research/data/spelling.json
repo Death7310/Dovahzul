@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "what": "Standard spellings and their recorded variants, under the ruling recorded as proposal 5 in docs/decisions-log.md.",
+  "rule": [
+   "Each word has one standard spelling: the one the developer notes or the guide give, or failing that the most frequent in game text.",
+   "The course teaches only the standard, and the forge checker accepts only the standard in new writing.",
+   "Game texts are never altered. They are shown as written, and a rare spelling is marked as a variant of its standard word.",
+   "A variant is not a separate word."
+  ],
+  "counts": "Occurrences are whole-word counts over the game texts in canon-corpus.json with duplicate records left out."
+ },
+ "cases": [
+  {
+   "standard": "Krivaan",
+   "meaning": "murderer",
+   "basis": "in the printed guide; occurs on a word wall",
+   "standard_occurs_in_game_text": 1,
+   "variants": [
+    {
+     "form": "Kriivaan",
+     "from": "the untraced word list",
+     "occurs_in_game_text": 0
+    }
+   ]
+  },
+  {
+   "standard": "Tiiraaz",
+   "meaning": "sad",
+   "basis": "the developer note spells it so; the Fifth Edition calls tiiraz a slip in the dialogue",
+   "standard_occurs_in_game_text": 1,
+   "variants": [
+    {
+     "form": "Tiiraz",
+     "from": "game dialogue",
+     "occurs_in_game_text": 1
+    }
+   ]
+  },
+  {
+   "standard": "Tovitaan",
+   "meaning": "searcher",
+   "basis": "on the guide website; single source; neither spelling occurs in game text",
+   "standard_occurs_in_game_text": 0,
+   "variants": [
+    {
+     "form": "Tovinaan",
+     "from": "the untraced word list",
+     "occurs_in_game_text": 0
+    }
+   ]
+  },
+  {
+   "standard": "Daanik",
+   "meaning": "doomed",
+   "basis": "the spelling in game text, including word walls",
+   "standard_occurs_in_game_text": 3,
+   "variants": [
+    {
+     "form": "Daniik",
+     "from": "the guide website; the Fifth Edition has a heading for each spelling",
+     "occurs_in_game_text": 0
+    }
+   ]
+  },
+  {
+   "standard": "Qethsegol",
+   "meaning": "stone",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 26,
+   "variants": [
+    {
+     "form": "Quethsegol",
+     "from": "an in-game book, in the place name Quethsegol Ahrol (Granite Hill), where it stays as written",
+     "occurs_in_game_text": 3
+    }
+   ]
+  },
+  {
+   "standard": "Naal",
+   "meaning": "by",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 17,
+   "variants": [
+    {
+     "form": "Nall",
+     "from": "one line of game dialogue",
+     "occurs_in_game_text": 1
+    }
+   ]
+  },
+  {
+   "standard": "Thuri",
+   "meaning": "my overlord",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 12,
+   "variants": [
+    {
+     "form": "Thurri",
+     "from": "game dialogue",
+     "occurs_in_game_text": 3
+    }
+   ]
+  },
+  {
+   "standard": "Nid",
+   "meaning": "no",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 8,
+   "variants": [
+    {
+     "form": "Niid",
+     "from": "one line of game dialogue",
+     "occurs_in_game_text": 1
+    }
+   ]
+  },
+  {
+   "standard": "Balaan",
+   "meaning": "worthy",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 2,
+   "variants": [
+    {
+     "form": "Bahlaan",
+     "from": "one line of game dialogue; the Fifth Edition calls it a misspelling or an archaic form",
+     "occurs_in_game_text": 1
+    }
+   ]
+  },
+  {
+   "standard": "Thu'um",
+   "meaning": "voice, shout",
+   "basis": "the usual spelling in game text",
+   "standard_occurs_in_game_text": 6,
+   "variants": [
+    {
+     "form": "Tuum",
+     "from": "one banner inscription",
+     "occurs_in_game_text": 1
+    }
+   ]
+  },
+  {
+   "standard": "Miiraad",
+   "meaning": "doorway",
+   "basis": "the Fifth Edition calls miraad a misspelling; each occurs once",
+   "standard_occurs_in_game_text": 1,
+   "variants": [
+    {
+     "form": "Miraad",
+     "from": "one line of game dialogue",
+     "occurs_in_game_text": 1
+    }
+   ]
+  }
+ ],
+ "unexplained_forms": [
+  {
+   "form": "hinde",
+   "occurs_in_game_text": 1,
+   "note": "A plural of hin (\"your\") in one line of dialogue. The regular plural would be hinne, which does not occur. Left unexplained and not taught."
+  }
+ ],
+ "further_cases_reported_by_the_fifth_edition": [
+  "dohaviin for dovahkiin",
+  "uznahgar for uznahgaar",
+  "sindungahvon for sindugahvon",
+  "hadrimme as a plural of hahdrim",
+  "vonmindoraan, possibly for vomindoraan",
+  "aan in the sense \"slave\", possibly for aar",
+  "rok in the sense \"word\", for rot",
+  "jun in the sense \"light\", for kun"
+ ],
+ "further_cases_note": "These fall under the same rule. Each is to be checked against the game text before it is recorded as a variant."
+}
