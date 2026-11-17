@@ -6,7 +6,7 @@
   "copy_used": "research/sources/thuum/Dragon_Language_Print_Dictionary_5th_Edition.docx, a Word conversion of the PDF supplied by the project owner on 2026-11-15",
   "terms": "Non-commercial use, with credit to Thuum.org. See research/sources/thuum/ATTRIBUTION.md for the basis.",
   "what_is_official": "By the dictionary's own statement only the official definition and the usage quotations come from official sources. Word type, pronunciation, expanded definition, connotations, etymology and notes are its authors' analysis.",
-  "limits": "The copy is a PDF converted to Word, so columns are sometimes interleaved and section text can carry stray words from a neighbouring entry. It holds 646 entries; the introduction says 647. One region was read by hand. Word type is blank for 26 entries. Entries with a known misprint or doubt carry a \"doubt\" field. Section text is as printed and was not proofread.",
+  "limits": "The copy is a PDF converted to Word, so columns are sometimes interleaved and section text can carry stray words from a neighbouring entry. It holds 646 entries; the introduction says 647. One region was read by hand. Entries with a known misprint or doubt carry a \"doubt\" field. Section text is as printed and was not proofread.",
   "fields": {
    "word": "heading as printed",
    "runes": "rune spelling in the font's key codes (1 aa, 2 ei, 3 ii, 4 ah, 5 uu, 6 ur, 7 ir, 8 oo, 9 ey)",
@@ -1242,7 +1242,7 @@
   {
    "word": "Bii",
    "runes": "B3",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/bi/"
    ],
@@ -1268,8 +1268,7 @@
    "says_attested_only_in": true,
    "mentions_misspelling": false,
    "line": 1382,
-   "n_lines": 22,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 22
   },
   {
    "word": "Bo",
@@ -1559,7 +1558,7 @@
   {
    "word": "Boziik",
    "runes": "BOZ3K",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/ˈbo zik/"
    ],
@@ -1591,8 +1590,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 1679,
-   "n_lines": 44,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 44
   },
   {
    "word": "Brendon",
@@ -2693,7 +2691,7 @@
   {
    "word": "Do",
    "runes": "DO",
-   "word_type": "",
+   "word_type": "preposition",
    "ipa": [
     "/do/"
    ],
@@ -2722,8 +2720,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 2772,
-   "n_lines": 44,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 44
   },
   {
    "word": "Dohaviin",
@@ -3249,7 +3246,7 @@
   {
    "word": "Dukaan",
    "runes": "DUK1N",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/duˈkɑn/"
    ],
@@ -3277,8 +3274,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 3341,
-   "n_lines": 40,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 40
   },
   {
    "word": "Dun",
@@ -3626,7 +3622,7 @@
   {
    "word": "Faad",
    "runes": "F1D",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/fɑd/"
    ],
@@ -3652,8 +3648,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 3688,
-   "n_lines": 28,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 28
   },
   {
    "word": "Faal",
@@ -3788,7 +3783,7 @@
   {
    "word": "Fah",
    "runes": "F4",
-   "word_type": "",
+   "word_type": "preposition",
    "ipa": [
     "/fɑ/"
    ],
@@ -3818,8 +3813,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 3861,
-   "n_lines": 50,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 50
   },
   {
    "word": "Fahdon",
@@ -3983,7 +3977,7 @@
   {
    "word": "Fel",
    "runes": "FEL",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/fɛl/"
    ],
@@ -4009,8 +4003,7 @@
    "says_attested_only_in": true,
    "mentions_misspelling": false,
    "line": 4064,
-   "n_lines": 30,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 30
   },
   {
    "word": "Fen",
@@ -4441,7 +4434,7 @@
   {
    "word": "Frin",
    "runes": "FRIN",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/frin/"
    ],
@@ -4471,8 +4464,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 4473,
-   "n_lines": 40,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 40
   },
   {
    "word": "Frod",
@@ -4513,7 +4505,7 @@
   {
    "word": "Fron",
    "runes": "FRON",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/fron/"
    ],
@@ -4539,8 +4531,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 4548,
-   "n_lines": 24,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 24
   },
   {
    "word": "Frul",
@@ -7056,7 +7047,7 @@
   {
    "word": "Kah",
    "runes": "K4",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/kɑ/"
    ],
@@ -7084,8 +7075,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 7051,
-   "n_lines": 36,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 36
   },
   {
    "word": "Kein",
@@ -7606,7 +7596,7 @@
   {
    "word": "Ko",
    "runes": "KO",
-   "word_type": "",
+   "word_type": "preposition",
    "ipa": [
     "/ko/"
    ],
@@ -7637,8 +7627,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 7604,
-   "n_lines": 42,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 42
   },
   {
    "word": "Kod",
@@ -7676,7 +7665,7 @@
   {
    "word": "Kodaav",
    "runes": "KOD1V",
-   "word_type": "",
+   "word_type": "noun",
    "ipa": [
     "/koˈdɑv/"
    ],
@@ -7706,8 +7695,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 7675,
-   "n_lines": 38,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 38
   },
   {
    "word": "Kogaan",
@@ -8036,7 +8024,7 @@
   {
    "word": "Kosil",
    "runes": "KOSIL",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/koˈsil/"
    ],
@@ -8062,8 +8050,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 8022,
-   "n_lines": 32,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 32
   },
   {
    "word": "Kotin",
@@ -10199,7 +10186,7 @@
   {
    "word": "Mid",
    "runes": "MID",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/mid/"
    ],
@@ -10230,8 +10217,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 10175,
-   "n_lines": 56,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 56
   },
   {
    "word": "Middovah",
@@ -10534,7 +10520,7 @@
   {
    "word": "Mir",
    "runes": "M7",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/mir/"
    ],
@@ -10562,8 +10548,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 10506,
-   "n_lines": 44,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 44
   },
   {
    "word": "Miraad",
@@ -11984,7 +11969,7 @@
   {
    "word": "Nivahriin",
    "runes": "NIV4R3N",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/ˈni və rin/"
    ],
@@ -12012,8 +11997,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 11937,
-   "n_lines": 44,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 44
   },
   {
    "word": "Nok",
@@ -12643,7 +12627,7 @@
   {
    "word": "Ol",
    "runes": "OL",
-   "word_type": "",
+   "word_type": "adverb",
    "ipa": [
     "/ol/"
    ],
@@ -12673,8 +12657,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 12604,
-   "n_lines": 48,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 48
   },
   {
    "word": "Om",
@@ -15045,7 +15028,7 @@
   {
    "word": "Sah",
    "runes": "S4",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/sɑ/"
    ],
@@ -15073,8 +15056,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 14873,
-   "n_lines": 40,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 40
   },
   {
    "word": "Sahlo",
@@ -15366,7 +15348,7 @@
   {
    "word": "Se",
    "runes": "SE",
-   "word_type": "",
+   "word_type": "preposition",
    "ipa": [
     "/sɛ/"
    ],
@@ -15392,8 +15374,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 15200,
-   "n_lines": 30,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 30
   },
   {
    "word": "Shaan",
@@ -15842,7 +15823,7 @@
   {
    "word": "So",
    "runes": "SO",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/so/"
    ],
@@ -15866,8 +15847,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 15699,
-   "n_lines": 30,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 30
   },
   {
    "word": "Sod",
@@ -16061,7 +16041,7 @@
   {
    "word": "Sot",
    "runes": "SOT",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/sot/"
    ],
@@ -16087,8 +16067,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 15912,
-   "n_lines": 32,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 32
   },
   {
    "word": "Sov",
@@ -16832,7 +16811,7 @@
   {
    "word": "Thaarn",
    "runes": "TH1RN",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/θɑrn/"
    ],
@@ -16861,8 +16840,7 @@
    "mentions_misspelling": false,
    "line": 16703,
    "n_lines": 30,
-   "doubt": "cites a book and the guide, but its usage note says it is attested only on the guide website",
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "doubt": "cites a book and the guide, but its usage note says it is attested only on the guide website"
   },
   {
    "word": "Thu'um",
@@ -17592,7 +17570,7 @@
   {
    "word": "Us",
    "runes": "US",
-   "word_type": "",
+   "word_type": "preposition",
    "ipa": [
     "/us/"
    ],
@@ -17616,8 +17594,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 17532,
-   "n_lines": 26,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 26
   },
   {
    "word": "Uth",
@@ -18609,7 +18586,7 @@
   {
    "word": "Vodahmin",
    "runes": "VOD4MIN",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/voˈdɑ min/"
    ],
@@ -18637,8 +18614,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 18535,
-   "n_lines": 36,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 36
   },
   {
    "word": "Vokiin",
@@ -19801,7 +19777,7 @@
   {
    "word": "Yah",
    "runes": "Y4",
-   "word_type": "",
+   "word_type": "strong verb",
    "ipa": [
     "/jɑ/"
    ],
@@ -19831,8 +19807,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 19740,
-   "n_lines": 42,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 42
   },
   {
    "word": "Yol",
@@ -20061,7 +20036,7 @@
   {
    "word": "Zah",
    "runes": "Z4",
-   "word_type": "",
+   "word_type": "strong adjective",
    "ipa": [
     "/zɑ/"
    ],
@@ -20089,8 +20064,7 @@
    "says_attested_only_in": false,
    "mentions_misspelling": false,
    "line": 19995,
-   "n_lines": 30,
-   "doubt_word_type": "not read: the heading is laid out as a table in the copy"
+   "n_lines": 30
   },
   {
    "word": "Zahkrii",

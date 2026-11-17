@@ -378,3 +378,7 @@ Standard spellings and their recorded variants under the ruling recorded as prop
 ## meanings.json
 
 The meaning of record for each wiki dictionary entry under the ruling recorded as proposal 6 in `docs/decisions-log.md`. Each row gives the meaning the project uses, the kind of source it rests on, the wiki's wording where it differs, any further senses with a label, which part of the rule applied, and whether the cited source has been or can be checked. Built by `tools/reconcile/build_meanings.py`. Official definitions are quoted as compiled by Thuum.org (non-commercial use, with credit); wiki wordings are from UESP.
+
+## word-types.json
+
+The project's word types under the ruling recorded as proposal 7 in `docs/decisions-log.md`: for each Fifth Edition entry, its class, whether it can also serve as a noun, the roles the dictionary lists for it, and the roles the project allows (by the owner's ruling, every role the system permits). The classification is Thuum.org's, used with credit for non-commercial purposes. Twenty-one words the dictionary does not cover are listed as having no type yet. Built by `tools/reconcile/build_word_types.py`.

@@ -18,8 +18,7 @@ spelling, in which the digits 1-9 stand for the two-letter runes
 Limits. The copy used was a PDF converted to Word, so columns are sometimes
 interleaved. One region (Kras, Krasnovaar, Krasaar) is patched by hand below.
 The copy holds 646 entries; the dictionary's introduction says 647. An
-independent second parser found the same 646 headings. The word type is blank
-for 26 entries whose heading is laid out as a table. The copy itself misprints
+independent second parser found the same 646 headings. The copy itself misprints
 a few definitions (for example Krah, Krii, Sosaal, Gron), which this script
 records as printed.
 """
@@ -86,6 +85,10 @@ for n, a in enumerate(anchors):
         m = re.search(r'\b' + t + r'\b', after)
         if m and m.start() < pos_best and m.start() < 160:
             pos_best = m.start(); wt = t
+    if not wt:
+        # heading laid out as a table: "| Word Type strong adjective | Pronunciation ... |"
+        mt = re.search(r'Word Type[\s|+\-]*(' + '|'.join(TYPES) + r')\b', ' '.join(x for x in block[:12] if x))
+        if mt: wt = mt.group(1)
     # official definition: between "Official Definition" and "Expanded Definition"
     od = ''
     m = re.search(r'Official Definition(.*?)(?:Expanded Definition|Usage|Connotations|Etymology|Notes|See Also|$)', text)
@@ -174,7 +177,7 @@ META = {
     'copy_used': 'research/sources/thuum/Dragon_Language_Print_Dictionary_5th_Edition.docx, a Word conversion of the PDF supplied by the project owner on 2026-11-15',
     'terms': 'Non-commercial use, with credit to Thuum.org. See research/sources/thuum/ATTRIBUTION.md for the basis.',
     'what_is_official': 'By the dictionary\'s own statement only the official definition and the usage quotations come from official sources. Word type, pronunciation, expanded definition, connotations, etymology and notes are its authors\' analysis.',
-    'limits': 'The copy is a PDF converted to Word, so columns are sometimes interleaved and section text can carry stray words from a neighbouring entry. It holds 646 entries; the introduction says 647. One region was read by hand. Word type is blank for 26 entries. Entries with a known misprint or doubt carry a "doubt" field. Section text is as printed and was not proofread.',
+    'limits': 'The copy is a PDF converted to Word, so columns are sometimes interleaved and section text can carry stray words from a neighbouring entry. It holds 646 entries; the introduction says 647. One region was read by hand. Entries with a known misprint or doubt carry a "doubt" field. Section text is as printed and was not proofread.',
     'fields': {'word': 'heading as printed', 'runes': 'rune spelling in the font\'s key codes (1 aa, 2 ei, 3 ii, 4 ah, 5 uu, 6 ur, 7 ir, 8 oo, 9 ey)',
                'word_type': 'the dictionary\'s own class', 'ipa': 'first pronunciation', 'pronunciations_as_printed': 'all pronunciations in the heading',
                'official_definition': 'definition quoted from an official source', 'citations': 'sources cited for that definition',

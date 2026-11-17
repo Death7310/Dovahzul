@@ -14,8 +14,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Accepted 2026-11-15 |
 | 5 | Spelling conflicts | Accepted 2026-11-17 |
 | 6 | Meanings: official definitions in place of wiki readings | Accepted 2026-11-17, with an addition |
-| 7 | Word types | Put to the owner 2026-11-17 |
-| 8 | Pronunciation convention | Queued |
+| 7 | Word types | Accepted 2026-11-17, flexibility chosen |
+| 8 | Pronunciation convention | Put to the owner 2026-11-17 |
 | 9 | The apostrophe and the UU rune | Queued |
 | 10 | Pronouns | Queued |
 | 11 | Possessive endings | Queued |
@@ -117,6 +117,22 @@ The seven words: Bel "summon", Mindol "thought", Mindok "think", Mindoraan "unde
 
 **Applied.** `research/data/meanings.json`, built by `tools/reconcile/build_meanings.py`: 570 words where the sources agree, 14 where the official wording is taken and the wiki wording kept as a note, 7 ruled individually (the seven above, counting Rok, whose sense "word" the Fifth Edition calls the guide's mistake for rot, in place of Vosaraan, which is in the added words), and 6 where the copy misprints the definition and the wiki reading stands until the publisher's file is re-read.
 
+## 7. Word types
+
+**Ruling, 2026-11-17.** The owner's answer: "opt for the flexibility a language is."
+
+- The Fifth Edition's word types are the project's starting types, credited to Thuum.org.
+- Each word has a class and, for verbs and adjectives, a note of whether it can also serve as a noun (strong) or not (weak, because a separate noun exists).
+- **Flexibility.** A word may be used in every role the system allows, whether or not the game shows that use. Uses attested in game text are recorded as information, not as a limit.
+- In the forge a new verb or adjective is strong unless a separate noun for the same idea exists.
+- Known errors are fixed: zu'u is a pronoun, not a verb as this copy prints it.
+
+**Applied.** `research/data/word-types.json`, built by `tools/reconcile/build_word_types.py`: 646 entries (274 nouns, 172 verbs, 128 adjectives, 21 pronouns, 19 adverbs, 16 prepositions, 11 conjunctions, 3 articles, 1 interjection, 1 prefix); 255 strong and 41 weak. The 26 types that could not be read at first were read from the table layout. Twenty-one words the Fifth Edition does not cover have no type yet and are listed in the file.
+
+**Not done.** The types were not checked against how each word is used in game text. That check belongs with the sentence checker; under this ruling any use the game shows is allowed in any case.
+
+**Consequence noted.** The more roles a word may take, the fewer mistakes a sentence checker can catch, since more word sequences count as correct.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -144,7 +160,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **9. Apostrophe.** The table gives one rune for "uu or u'u". The dictionary's own headings spell those words with two U runes and an apostrophe. Game inscriptions use the single rune and no apostrophe.
 
-**10. Pronouns.** The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
+**10. Pronouns.** The Fifth Edition's entry for dovah (dragon) carries the official remark that it also means "me" when a dragon speaks. The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
 
 **11. Possessive endings.** -i "my" 20 tokens, no counter-example; -ii "his" or "her" 15 tokens, "its" unattested; -iil "your" one token; -u "our" five tokens, one glossed differently by the wiki.
 
