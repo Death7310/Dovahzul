@@ -13,8 +13,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 3 | Words to add that the wiki dictionary lacks | Accepted 2026-11-15 |
 | 4 | Words only the wiki has: keep, re-file or mark unconfirmed | Accepted 2026-11-15 |
 | 5 | Spelling conflicts | Accepted 2026-11-17 |
-| 6 | Meanings: official definitions in place of wiki readings | Put to the owner 2026-11-17 |
-| 7 | Word types | Queued |
+| 6 | Meanings: official definitions in place of wiki readings | Accepted 2026-11-17, with an addition |
+| 7 | Word types | Put to the owner 2026-11-17 |
 | 8 | Pronunciation convention | Queued |
 | 9 | The apostrophe and the UU rune | Queued |
 | 10 | Pronouns | Queued |
@@ -96,6 +96,26 @@ Part 2, the rule for slips in the game's own text:
 - Hinde is left as an unexplained form and is not taught.
 
 **Applied.** `research/data/spelling.json` (11 standard spellings with their variants and counts, the unexplained form, and eight further cases the Fifth Edition reports, to be checked against game text). The six waiting rows of `word-status.json` are now marked as variants. Krivaan, Tiiraaz and Tovitaan are added to `lexicon-additions.json`, which now has 21 vocabulary entries.
+
+## 6. Which meaning counts
+
+**Ruling, accepted 2026-11-17 ("tap"), with an addition from the owner.**
+
+The rule:
+
+1. The meaning of record is the official definition from the best source: the game's own material, then the printed guide, then the guide website.
+2. Where the wiki only words it differently, its wording is kept as a note.
+3. Where two games give a word different senses, both are kept, each labelled with its game.
+4. Thuum.org's commentary (expanded definitions, connotations, notes) is shown as commentary, credited to Thuum.org, never as the meaning of record.
+5. Nothing is replaced blind. A definition the copy misprints is not used, and one that rests only on the printed guide or the guide website is marked as taken on the Fifth Edition's word.
+
+The seven words: Bel "summon", Mindol "thought", Mindok "think", Mindoraan "understanding", Vosaraan "do not wait", Sov "spent" with "shock" as a later-game sense, Kun "moonlight" with "light" as an unconfirmed inference.
+
+**The owner's addition.** Bel, Mindol and Mindok are fine to keep, and: "we can keep things created by the community... that's how language naturally evolves." Applied here by keeping the older meanings of those three words ("foul", "trick", "know") as a second, labelled sense beside the meaning of record. Where those older meanings came from is not known; the wiki cites a list it calls an official Bethesda dictionary, hosted on a fan archive.
+
+**Owner's principle, recorded for later proposals.** Things created by the community can be kept. This is carried into proposal 14 and decision A4, and it raises the question of the seven words still graded Unconfirmed.
+
+**Applied.** `research/data/meanings.json`, built by `tools/reconcile/build_meanings.py`: 570 words where the sources agree, 14 where the official wording is taken and the wiki wording kept as a note, 7 ruled individually (the seven above, counting Rok, whose sense "word" the Fifth Edition calls the guide's mistake for rot, in place of Vosaraan, which is in the added words), and 6 where the copy misprints the definition and the wiki reading stands until the publisher's file is re-read.
 
 ## Evidence notes for the queued proposals
 

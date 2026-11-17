@@ -374,3 +374,7 @@ Words added to the project from the Fifth Edition under the ruling recorded as p
 ## spelling.json
 
 Standard spellings and their recorded variants under the ruling recorded as proposal 5 in `docs/decisions-log.md`: the rule, eleven words with their standard form, the basis for it, each variant with where it comes from and how often each occurs in game text, one unexplained form, and eight further cases the Fifth Edition reports that are still to be checked. Built by `tools/reconcile/build_spelling.py`.
+
+## meanings.json
+
+The meaning of record for each wiki dictionary entry under the ruling recorded as proposal 6 in `docs/decisions-log.md`. Each row gives the meaning the project uses, the kind of source it rests on, the wiki's wording where it differs, any further senses with a label, which part of the rule applied, and whether the cited source has been or can be checked. Built by `tools/reconcile/build_meanings.py`. Official definitions are quoted as compiled by Thuum.org (non-commercial use, with credit); wiki wordings are from UESP.

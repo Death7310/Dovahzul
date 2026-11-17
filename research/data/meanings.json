@@ -1,0 +1,5432 @@
+{
+ "meta": {
+  "what": "The meaning of record for each wiki dictionary entry, under the ruling recorded as proposal 6 in docs/decisions-log.md.",
+  "credit": "Official definitions are quoted as compiled and cited by Thuum.org in its Fifth Edition (non-commercial use; see research/sources/thuum/ATTRIBUTION.md). Wiki wordings are from UESP (CC BY-SA 2.5).",
+  "fields": {
+   "meaning_of_record": "the meaning the project uses",
+   "from": "the kind of source it rests on",
+   "wiki_wording": "the wiki editors' wording, kept as a note where it differs",
+   "other_senses": "further senses, each with a label",
+   "how_settled": "which part of the rule applied",
+   "checked": "whether the cited source has been or can be checked",
+   "printed_in_copy": "what the Fifth Edition copy prints where that is a known misprint"
+  },
+  "added_words": "Words added from the Fifth Edition are in lexicon-additions.json. Vosaraan there carries the developer note's meaning, by this ruling.",
+  "counts": {
+   "later game or single ruling": 12,
+   "misprint in copy": 6,
+   "name": 1,
+   "no official definition printed": 1,
+   "official definition taken; wiki wording kept as a note": 14,
+   "recorded_form": 21,
+   "reserved": 10,
+   "ruled individually": 7,
+   "single ruling": 2,
+   "sources agree": 570,
+   "unconfirmed": 7,
+   "variant": 6
+  }
+ },
+ "words": [
+  {
+   "word": "Aak",
+   "grade": "game",
+   "meaning_of_record": "Guide",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Aal",
+   "grade": "guide",
+   "meaning_of_record": "May (as in “May his soul”)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "May",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Aam",
+   "grade": "game",
+   "meaning_of_record": "Serve",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Aan",
+   "grade": "game",
+   "meaning_of_record": "A/An (Song of the Dragonborn, not generally used) | Slave",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "A(n), Idea, Slave (See also \"Zaam\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Aar",
+   "grade": "game",
+   "meaning_of_record": "Servant/Slave",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Servant, Slave (See also \"Zaam\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Aav",
+   "grade": "game",
+   "meaning_of_record": "Join",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Aaz",
+   "grade": "guide",
+   "meaning_of_record": "Mercy",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ag",
+   "grade": "game",
+   "meaning_of_record": "Burn",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ah",
+   "grade": "game",
+   "meaning_of_record": "Hunter",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ahkrin",
+   "grade": "guide",
+   "meaning_of_record": "Courage",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Courage/Bravery",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ahmik",
+   "grade": "guide",
+   "meaning_of_record": "Service",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ahmul",
+   "grade": "guide",
+   "meaning_of_record": "Husband",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Husband (Lit. \"Hunter-Strong\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ahraan",
+   "grade": "game",
+   "meaning_of_record": "Wound (as in, injury/hurt/etc. - noun or verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Wound",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ahrk",
+   "grade": "game",
+   "meaning_of_record": "And (formal - not commonly used) (Dragon Language: Myth No More)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "And",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ahrol",
+   "grade": "game",
+   "meaning_of_record": "Hill",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ahst",
+   "grade": "game",
+   "meaning_of_record": "At",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ahtiid",
+   "grade": "guide",
+   "meaning_of_record": "Wear",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Wear (verb)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ahzid",
+   "grade": "guide",
+   "meaning_of_record": "Bitter",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Al",
+   "grade": "game",
+   "meaning_of_record": "Destroy/Destroyer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Destroyer",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Alok",
+   "grade": "game",
+   "meaning_of_record": "Arise, Rise",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Arise",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Alun",
+   "grade": "guide",
+   "meaning_of_record": "Ever",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Am",
+   "grade": "guide_website",
+   "meaning_of_record": "Lion",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Amativ",
+   "grade": "game",
+   "meaning_of_record": "Forward/Onward",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Onward",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Atmora",
+   "grade": "game",
+   "meaning_of_record": "Atmora",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Au",
+   "grade": "game",
+   "meaning_of_record": "On",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Aus",
+   "grade": "game",
+   "meaning_of_record": "Suffer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bah",
+   "grade": "game",
+   "meaning_of_record": "Wrath",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bahlaan, Balaan",
+   "grade": "game",
+   "meaning_of_record": "Worthy",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bahlok",
+   "grade": "game",
+   "meaning_of_record": "Hunger",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bein",
+   "grade": "game",
+   "meaning_of_record": "Foul",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Foul (adj.)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bel",
+   "grade": "guide_website",
+   "meaning_of_record": "Summon",
+   "from": "guide website",
+   "other_senses": [
+    {
+     "meaning": "Foul (v.)",
+     "label": "from the untraced word list; kept as a second sense by the owner's ruling"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Bex",
+   "grade": "game",
+   "meaning_of_record": "Open",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Beyn",
+   "grade": "game",
+   "meaning_of_record": "Scorn/Scorned",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Scorn",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bii",
+   "grade": "game",
+   "meaning_of_record": "Blue",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bo",
+   "grade": "game",
+   "meaning_of_record": "Fly (also arrive, move)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Flow, Fly, Move",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bodiis",
+   "grade": "guide",
+   "meaning_of_record": "Borrow",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Bok",
+   "grade": "game",
+   "meaning_of_record": "Age",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bolaav",
+   "grade": "guide",
+   "meaning_of_record": "Grant/Granted",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Bolog",
+   "grade": "guide_website",
+   "meaning_of_record": "Beg",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Bonaar",
+   "grade": "game",
+   "meaning_of_record": "Humble",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bormah",
+   "grade": "game",
+   "meaning_of_record": "Father",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bovul",
+   "grade": "game",
+   "meaning_of_record": "Flee",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Boziik",
+   "grade": "game",
+   "meaning_of_record": "Bold(ly)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Bold(ly), Rash",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Brendon",
+   "grade": "guide",
+   "meaning_of_record": "Specter/Spectre",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Specter",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Brii",
+   "grade": "guide",
+   "meaning_of_record": "Beauty",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Briinah",
+   "grade": "game",
+   "meaning_of_record": "Sister",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Sister (Lit. \"Beauty-Fury\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Briinahii",
+   "grade": "recorded_form",
+   "meaning_of_record": "(for her) sister's",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Briinahmaar",
+   "grade": "guide",
+   "meaning_of_record": "Sisterhood",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Brit",
+   "grade": "game",
+   "meaning_of_record": "Beautiful",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Brod",
+   "grade": "guide",
+   "meaning_of_record": "Clan",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Brom",
+   "grade": "game",
+   "meaning_of_record": "North",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bron",
+   "grade": "guide",
+   "meaning_of_record": "Nord",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Bronjun",
+   "grade": "game",
+   "meaning_of_record": "Jarl",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Jarl (lit. \"Nord King\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Bruniik(ke)",
+   "grade": "game",
+   "meaning_of_record": "Savage",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Savage(s) (also a reference to Akaviri)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Daal",
+   "grade": "game",
+   "meaning_of_record": "Return",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Daan, Daanii",
+   "grade": "game",
+   "meaning_of_record": "Doom",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Daanik",
+   "grade": "guide_website",
+   "meaning_of_record": "Doomed",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Daar",
+   "grade": "game",
+   "meaning_of_record": "This/These",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dah",
+   "grade": "game",
+   "meaning_of_record": "Push",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dahmaan",
+   "grade": "game",
+   "meaning_of_record": "Remember",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dein",
+   "grade": "game",
+   "meaning_of_record": "Keep/Guard",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Keep (v.), Guard",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Deinmaar",
+   "grade": "guide",
+   "meaning_of_record": "Keeper",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Denek",
+   "grade": "guide",
+   "meaning_of_record": "Soil",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Soil (n.)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Denos",
+   "grade": "guide",
+   "meaning_of_record": "Decline",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Decline (n.)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dey",
+   "grade": "game",
+   "meaning_of_record": "False (Laughably False)",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Deyra",
+   "grade": "guide",
+   "meaning_of_record": "Daedra",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Deyto",
+   "grade": "guide_website",
+   "meaning_of_record": "Bury",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dez",
+   "grade": "game",
+   "meaning_of_record": "Fate",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dezu",
+   "grade": "recorded_form",
+   "meaning_of_record": "Our Fate",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Dii",
+   "grade": "game",
+   "meaning_of_record": "Mine/My",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Mine",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Diil",
+   "grade": "game",
+   "meaning_of_record": "Undead",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Undead (See also \"Dilon\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Diin",
+   "grade": "game",
+   "meaning_of_record": "Freeze",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Diiv",
+   "grade": "guide",
+   "meaning_of_record": "Wyrm",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Diivon",
+   "grade": "game",
+   "meaning_of_record": "Swallow",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dilon",
+   "grade": "guide_website",
+   "meaning_of_record": "Dead",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dilos",
+   "grade": "guide",
+   "meaning_of_record": "Deadly",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dinok",
+   "grade": "game",
+   "meaning_of_record": "Death/End",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Death",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dinokii",
+   "grade": "recorded_form",
+   "meaning_of_record": null,
+   "how_settled": "recorded_form",
+   "from": null
+  },
+  {
+   "word": "Dinoksetiid",
+   "grade": "game",
+   "meaning_of_record": "The End of Time",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "End of time (lit. \"Death of time\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dir",
+   "grade": "game",
+   "meaning_of_record": "Die",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Do",
+   "grade": "game",
+   "meaning_of_record": "Of/About, often unused in sentence formation",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Of (See also \"Se\") /About",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dok",
+   "grade": "guide",
+   "meaning_of_record": "Hound",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dov",
+   "grade": "game",
+   "meaning_of_record": "Dragon/Dragonkind/Wyrm (referring to the race of dragons)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dragonkind, Dragon (race)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dovah",
+   "grade": "game",
+   "meaning_of_record": "Dragon (also means “me” when a dragon speaks)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dragon",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dovahgolz",
+   "grade": "guide",
+   "meaning_of_record": "Dragonstone",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dovahkiin",
+   "grade": "game",
+   "meaning_of_record": "Dragonborn",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dragonborn (lit. \"Dragon-Born\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dovahkriid",
+   "grade": "game",
+   "meaning_of_record": "Dragonslayer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dovahzin",
+   "grade": "recorded_form",
+   "meaning_of_record": "A Dragon name (Dragon-Honor)",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Draal",
+   "grade": "game",
+   "meaning_of_record": "Pray",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dreh",
+   "grade": "game",
+   "meaning_of_record": "Do/Does",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Do (v.)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Drem",
+   "grade": "game",
+   "meaning_of_record": "Peace",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Drey",
+   "grade": "game",
+   "meaning_of_record": "Did (“drey kod” - “did wield”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Did",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Drog",
+   "grade": "guide",
+   "meaning_of_record": "Lord",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Drun",
+   "grade": "game",
+   "meaning_of_record": "Bring",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Du",
+   "grade": "game",
+   "meaning_of_record": "Devour",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Du'ul",
+   "grade": "game",
+   "meaning_of_record": "Crown",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Duaan",
+   "grade": "recorded_form",
+   "meaning_of_record": "Devoured",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Dukaan",
+   "grade": "game",
+   "meaning_of_record": "Dishonor",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dun",
+   "grade": "game",
+   "meaning_of_record": "Grace",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dur",
+   "grade": "game",
+   "meaning_of_record": "Curse",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Dwiin",
+   "grade": "guide",
+   "meaning_of_record": "Steel",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Dwiirok",
+   "grade": "guide",
+   "meaning_of_record": "Carve",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ek",
+   "grade": "guide",
+   "meaning_of_record": "Her (used equally with the “ii” form of the possessive)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Her",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Enook",
+   "grade": "guide",
+   "meaning_of_record": "Each",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ensosin",
+   "grade": "guide",
+   "meaning_of_record": "Bewitch",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Erei",
+   "grade": "guide_website",
+   "meaning_of_record": "Until",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Eruvos",
+   "grade": "guide",
+   "meaning_of_record": "Year",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Evenaar",
+   "grade": "guide",
+   "meaning_of_record": "Extinguish",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Evgir",
+   "grade": "game",
+   "meaning_of_record": "Season",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Faad",
+   "grade": "guide",
+   "meaning_of_record": "Warmth",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Faal",
+   "grade": "game",
+   "meaning_of_record": "The (rare, only used with specific proper nouns or as a sign of reverence, as in “Faal Krein - The Sun”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "The (see also \"Fin\"; \"Faal\" is less common than \"Fin\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Faas",
+   "grade": "game",
+   "meaning_of_record": "Fear",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Faasnu",
+   "grade": "guide",
+   "meaning_of_record": "Fearless",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Faaz",
+   "grade": "game",
+   "meaning_of_record": "Pain",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fah",
+   "grade": "game",
+   "meaning_of_record": "For",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fahdon",
+   "grade": "game",
+   "meaning_of_record": "Friend",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fahlah",
+   "grade": "recorded_form",
+   "meaning_of_record": "Flower (Lit. \"For-Magicka\")",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Fahliil",
+   "grade": "game",
+   "meaning_of_record": "Elf",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fahluaan",
+   "grade": "guide",
+   "meaning_of_record": "Gardener",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Faraan",
+   "grade": "guide",
+   "meaning_of_record": "Fortune/Wealth",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Fortune, wealth",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Feim",
+   "grade": "game",
+   "meaning_of_record": "Fade",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fel",
+   "grade": "guide",
+   "meaning_of_record": "Feral",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Fen",
+   "grade": "game",
+   "meaning_of_record": "Will",
+   "from": "game material",
+   "official_remark": "Fen (as in “fen kos” - “will be”)",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fenjuntiid",
+   "grade": "recorded_form",
+   "meaning_of_record": "Will of Akatosh (lit. \"Will-King-Time\")",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Fent",
+   "grade": "game",
+   "meaning_of_record": "Shall",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fey",
+   "grade": "game",
+   "meaning_of_record": "Grove",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Feykro",
+   "grade": "guide",
+   "meaning_of_record": "Forest",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Feyn",
+   "grade": "game",
+   "meaning_of_record": "Bane",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fiik",
+   "grade": "guide",
+   "meaning_of_record": "Mirror",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Filok",
+   "grade": "game",
+   "meaning_of_record": "Escape",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fin",
+   "grade": "game",
+   "meaning_of_record": "The (not commonly used in regular sentence structure)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "The (see also \"Faal\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fo",
+   "grade": "game",
+   "meaning_of_record": "Frost",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fod",
+   "grade": "game",
+   "meaning_of_record": "When",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fodiiz",
+   "grade": "guide",
+   "meaning_of_record": "Hoar",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Folaas",
+   "grade": "guide",
+   "meaning_of_record": "Wrong",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Folook",
+   "grade": "guide",
+   "meaning_of_record": "Haunt",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Fonaar",
+   "grade": "guide",
+   "meaning_of_record": "Charge",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Frin",
+   "grade": "game",
+   "meaning_of_record": "Hot/Eagerness",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Hot",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Frini",
+   "grade": "recorded_form",
+   "meaning_of_record": "Eagerness",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Frod",
+   "grade": "game",
+   "meaning_of_record": "Battlefield (Field)",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "(Battle)field",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fron",
+   "grade": "game",
+   "meaning_of_record": "Kin/Related",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Frul",
+   "grade": "game",
+   "meaning_of_record": "Ephemeral/Temporary",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ful",
+   "grade": "game",
+   "meaning_of_record": "So",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fun",
+   "grade": "game",
+   "meaning_of_record": "Told",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Fundein",
+   "grade": "game",
+   "meaning_of_record": "Unfurl(ed)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Funt",
+   "grade": "game",
+   "meaning_of_record": "Fail",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Funta",
+   "grade": "recorded_form",
+   "meaning_of_record": "Failed",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Fus",
+   "grade": "game",
+   "meaning_of_record": "Force",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gaaf",
+   "grade": "game",
+   "meaning_of_record": "Ghost",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gaan",
+   "grade": "game",
+   "meaning_of_record": "Stamina",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gaar",
+   "grade": "game",
+   "meaning_of_record": "Release/Unleash",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unleash/Release",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gahrot",
+   "grade": "game",
+   "meaning_of_record": "Steal",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gahvon",
+   "grade": "game",
+   "meaning_of_record": "Yield",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Galik",
+   "grade": "guide",
+   "meaning_of_record": "Pine",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Pine(n.)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Geh",
+   "grade": "game",
+   "meaning_of_record": "Yes",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gein",
+   "grade": "game",
+   "meaning_of_record": "One (a single person or thing)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "One",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Geinmaar",
+   "grade": "guide",
+   "meaning_of_record": "Oneself",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Gogil",
+   "grade": "guide",
+   "meaning_of_record": "Goblin",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Gol",
+   "grade": "game",
+   "meaning_of_record": "Stone/Earth",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Earth",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Golah",
+   "grade": "guide",
+   "meaning_of_record": "Stubborn",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Golt",
+   "grade": "game",
+   "meaning_of_record": "Ground",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Golz",
+   "grade": "guide",
+   "meaning_of_record": "Stone",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Goraan",
+   "grade": "guide_website",
+   "meaning_of_record": "Young",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Govey",
+   "grade": "game",
+   "meaning_of_record": "Remove",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Graag",
+   "grade": "guide_website",
+   "meaning_of_record": "Green",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Graan",
+   "grade": "game",
+   "meaning_of_record": "Rout (verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Rout",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grah",
+   "grade": "game",
+   "meaning_of_record": "Battle",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grah-Zeymahzin",
+   "grade": "game",
+   "meaning_of_record": "Ally",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Ally (lit. \"Battle-Brother Honor\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grahmindol",
+   "grade": "game",
+   "meaning_of_record": "Stratagem (“battle-thought”, trick)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Stratagem",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gram",
+   "grade": "guide_website",
+   "meaning_of_record": "Cloud",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Gravuun",
+   "grade": "game",
+   "meaning_of_record": "Autumn",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grik",
+   "grade": "game",
+   "meaning_of_record": "Such",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grind",
+   "grade": "game",
+   "meaning_of_record": "Meet",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Gro",
+   "grade": "game",
+   "meaning_of_record": "Bound",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Grohiik",
+   "grade": "guide",
+   "meaning_of_record": "Wolf",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Gron",
+   "grade": "game",
+   "meaning_of_record": "Bind",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "Bin"
+  },
+  {
+   "word": "Gronsezin",
+   "grade": "recorded_form",
+   "meaning_of_record": "Honor-bound",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Gruth",
+   "grade": "guide",
+   "meaning_of_record": "Betrayal",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Betrayal (see also \"Nihnzey\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Gut",
+   "grade": "game",
+   "meaning_of_record": "Far",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Haal",
+   "grade": "game",
+   "meaning_of_record": "Hand",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Haalvut",
+   "grade": "game",
+   "meaning_of_record": "Touch (noun or verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Touch",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Haas",
+   "grade": "game",
+   "meaning_of_record": "Health",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hadrim, Hahdrim",
+   "grade": "game",
+   "meaning_of_record": "Mind",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hah",
+   "grade": "game",
+   "meaning_of_record": "Mind",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hahkun",
+   "grade": "game",
+   "meaning_of_record": "Axe",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hahnu",
+   "grade": "guide",
+   "meaning_of_record": "Dream",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dream (lit. \"Mind-Now\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Hahvulon",
+   "grade": "guide_website",
+   "meaning_of_record": "Nightmare",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Nightmare (lit. \"Mind-Dead\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Han",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Heim",
+   "grade": "game",
+   "meaning_of_record": "Forge",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Het",
+   "grade": "game",
+   "meaning_of_record": "Here",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hevno",
+   "grade": "game",
+   "meaning_of_record": "Brutal",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hevnoraak",
+   "grade": "guide_website",
+   "meaning_of_record": "Brutality",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Heyv",
+   "grade": "game",
+   "meaning_of_record": "Duty",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hi",
+   "grade": "game",
+   "meaning_of_record": "You",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Him, Hin",
+   "grade": "game",
+   "meaning_of_record": "Your | Your (formal)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Your",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hind",
+   "grade": "game",
+   "meaning_of_record": "Wish/Hope",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Wish, Hope",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hof",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Hofkah",
+   "grade": "game",
+   "meaning_of_record": "House/Steading",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Steading",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hofkahsejun",
+   "grade": "game",
+   "meaning_of_record": "Palace",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Palace (lit. \"Steading of King\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hofkiin",
+   "grade": "guide_website",
+   "meaning_of_record": "Home",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word",
+   "doubt": "pronunciation is printed identically to that of Hofkah"
+  },
+  {
+   "word": "Hokoron",
+   "grade": "game",
+   "meaning_of_record": "Enemy/Enemies",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Enemy",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hon",
+   "grade": "game",
+   "meaning_of_record": "Hear (“nust hon” - “they hear”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Hear",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Horvut",
+   "grade": "game",
+   "meaning_of_record": "Trap/Lure (noun)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Lure",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Horvutah",
+   "grade": "game",
+   "meaning_of_record": "Trap/Catch",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Trapped",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hun",
+   "grade": "game",
+   "meaning_of_record": "Hero",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Hungaar",
+   "grade": "guide_website",
+   "meaning_of_record": "Heroic",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Huzrah",
+   "grade": "game",
+   "meaning_of_record": "Hearken",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Iiz",
+   "grade": "game",
+   "meaning_of_record": "Ice",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "In",
+   "grade": "guide",
+   "meaning_of_record": "Master",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Inhus",
+   "grade": "game",
+   "meaning_of_record": "Mastery",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Jaag",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Jer",
+   "grade": "guide",
+   "meaning_of_record": "East",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Jiid",
+   "grade": "game",
+   "meaning_of_record": "Moon",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Jol",
+   "grade": "game",
+   "meaning_of_record": "Unsteady",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Joor(re)",
+   "grade": "game",
+   "meaning_of_record": "Mortal (noun)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Mortal(s)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Jot",
+   "grade": "game",
+   "meaning_of_record": "Maw",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Jud",
+   "grade": "guide",
+   "meaning_of_record": "Queen",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Jul",
+   "grade": "game",
+   "meaning_of_record": "Man/Mankind/Humans",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Man/Mankind/Humans (See also \"Muz\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Jun",
+   "grade": "game",
+   "meaning_of_record": "King(s), Light",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "King, Light",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Junaar",
+   "grade": "guide_website",
+   "meaning_of_record": "Kingdom",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Kingdom/Kingship",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Junnesejer",
+   "grade": "recorded_form",
+   "meaning_of_record": "Kings of the East",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Juntiid",
+   "grade": "recorded_form",
+   "meaning_of_record": "Akatosh (lit. \"King Time\")",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Kaal",
+   "grade": "game",
+   "meaning_of_record": "Champion",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kaan",
+   "grade": "game",
+   "meaning_of_record": "Kyne",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kaaz",
+   "grade": "guide",
+   "meaning_of_record": "Cat/Khajiit",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kah",
+   "grade": "game",
+   "meaning_of_record": "Pride",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kein",
+   "grade": "game",
+   "meaning_of_record": "War",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Keizaal",
+   "grade": "game",
+   "meaning_of_record": "Skyrim",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kel(le)",
+   "grade": "game",
+   "meaning_of_record": "Elder Scroll (abbreviated to “Scroll” in the Song of the Dragonborn)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Scroll(s) (as in Elder Scroll)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kendov",
+   "grade": "guide",
+   "meaning_of_record": "Warrior",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kest",
+   "grade": "game",
+   "meaning_of_record": "Tempest",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Key",
+   "grade": "guide",
+   "meaning_of_record": "Horse",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Keyn",
+   "grade": "guide",
+   "meaning_of_record": "Anvil",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kiim",
+   "grade": "guide_website",
+   "meaning_of_record": "Wife",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kiin",
+   "grade": "guide",
+   "meaning_of_record": "Born",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kiir",
+   "grade": "game",
+   "meaning_of_record": "Child/Children",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Child",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kinbok",
+   "grade": "guide",
+   "meaning_of_record": "Leader",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kinzon",
+   "grade": "game",
+   "meaning_of_record": "Sharp",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kip",
+   "grade": "guide_website",
+   "meaning_of_record": "Food",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kipraan",
+   "grade": "guide_website",
+   "meaning_of_record": "Meal",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Klo",
+   "grade": "game",
+   "meaning_of_record": "Sand",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Klov",
+   "grade": "game",
+   "meaning_of_record": "Head",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ko",
+   "grade": "game",
+   "meaning_of_record": "In",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kod",
+   "grade": "game",
+   "meaning_of_record": "Wield",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kodaav",
+   "grade": "game",
+   "meaning_of_record": "Bear",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kogaan",
+   "grade": "game",
+   "meaning_of_record": "Blessing",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Blessings (thanks)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kohg",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Kol",
+   "grade": "guide",
+   "meaning_of_record": "Crag",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kolos",
+   "grade": "guide",
+   "meaning_of_record": "In Which",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Komeyt",
+   "grade": "game",
+   "meaning_of_record": "Issue(d) / let loose (verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Issue/Let loose",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Konahrik",
+   "grade": "game",
+   "meaning_of_record": "Warlord",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Koor",
+   "grade": "game",
+   "meaning_of_record": "Summer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kopraan",
+   "grade": "guide",
+   "meaning_of_record": "Body",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Koraav",
+   "grade": "game",
+   "meaning_of_record": "See/Recognize",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "See",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kos",
+   "grade": "game",
+   "meaning_of_record": "Be",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Be/Are",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kosil",
+   "grade": "game",
+   "meaning_of_record": "Inner/Within",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Inner, within",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kotin",
+   "grade": "game",
+   "meaning_of_record": "Into",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krah",
+   "grade": "guide",
+   "meaning_of_record": "Cold",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "Into"
+  },
+  {
+   "word": "Krasaar",
+   "grade": "game",
+   "meaning_of_record": "Sickness",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done",
+   "doubt": "this region of the copy is interleaved; only the definition and source were read, by hand"
+  },
+  {
+   "word": "Krasnovaar",
+   "grade": "guide_website",
+   "meaning_of_record": "Disease",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word",
+   "doubt": "this region of the copy is interleaved; only the definition and source were read, by hand"
+  },
+  {
+   "word": "Kreh",
+   "grade": "game",
+   "meaning_of_record": "Bend",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krein",
+   "grade": "game",
+   "meaning_of_record": "Sun",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kren",
+   "grade": "game",
+   "meaning_of_record": "Break",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krent",
+   "grade": "game",
+   "meaning_of_record": "Broken/Shattered",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Broken",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kriaan",
+   "grade": "game",
+   "meaning_of_record": "Slayer | Killed",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Killed",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krif",
+   "grade": "game",
+   "meaning_of_record": "Fight",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krii",
+   "grade": "game",
+   "meaning_of_record": "Kill",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "Fight"
+  },
+  {
+   "word": "Kriid",
+   "grade": "game",
+   "meaning_of_record": "Slayer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kriin",
+   "grade": "guide",
+   "meaning_of_record": "Slay",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kriist",
+   "grade": "guide",
+   "meaning_of_record": "Stand",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kriivaan",
+   "grade": "variant",
+   "meaning_of_record": "Murderer",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Kriivah",
+   "grade": "guide_website",
+   "meaning_of_record": "Murder",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kril",
+   "grade": "guide",
+   "meaning_of_record": "Brave",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Krilot",
+   "grade": "guide",
+   "meaning_of_record": "Valiant",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Krin",
+   "grade": "game",
+   "meaning_of_record": "Courageous",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kro",
+   "grade": "guide",
+   "meaning_of_record": "Sorcerer",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kron",
+   "grade": "game",
+   "meaning_of_record": "Win/Conquer",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Victory, win, conquer",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krongrah",
+   "grade": "game",
+   "meaning_of_record": "Victory",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "(Great) Victory",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kroniid",
+   "grade": "game",
+   "meaning_of_record": "Conqueror",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Krosis",
+   "grade": "game",
+   "meaning_of_record": "Sorrow/Apologies",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Sorrow (Apologies, Regret, Pity)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kruziik",
+   "grade": "game",
+   "meaning_of_record": "Ancient",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kul",
+   "grade": "game",
+   "meaning_of_record": "Son(s) | Good",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Son",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Kulaan",
+   "grade": "guide",
+   "meaning_of_record": "Prince",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kulaas",
+   "grade": "guide",
+   "meaning_of_record": "Princess",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Kun",
+   "grade": "game",
+   "meaning_of_record": "Moonlight",
+   "from": "The Elder Scrolls Online, twice with a translation",
+   "other_senses": [
+    {
+     "meaning": "Light",
+     "label": "unconfirmed: the Fifth Edition's inference; the Skyrim line it cites reads jun"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Laan",
+   "grade": "game",
+   "meaning_of_record": "Want/Request",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Want, Request",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Laar",
+   "grade": "game",
+   "meaning_of_record": "Water",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Laas",
+   "grade": "game",
+   "meaning_of_record": "Life",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Laat",
+   "grade": "guide",
+   "meaning_of_record": "Last",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lah",
+   "grade": "game",
+   "meaning_of_record": "Magicka",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lahney",
+   "grade": "guide",
+   "meaning_of_record": "Live",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lahvraan",
+   "grade": "game",
+   "meaning_of_record": "Muster/Gather",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Mustered",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lahvu",
+   "grade": "guide",
+   "meaning_of_record": "Army",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Leh",
+   "grade": "guide",
+   "meaning_of_record": "Lest",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lein",
+   "grade": "game",
+   "meaning_of_record": "World (equivalent to Mundus - the universe, everything)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "World",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Liik",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Liiv",
+   "grade": "game",
+   "meaning_of_record": "Wither",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Liivrah",
+   "grade": "game",
+   "meaning_of_record": "Diminish/Wither",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Diminish",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lingrah",
+   "grade": "game",
+   "meaning_of_record": "Long (as in “long ago”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Long",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lir",
+   "grade": "guide_website",
+   "meaning_of_record": "Worm",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lo",
+   "grade": "game",
+   "meaning_of_record": "Deceive",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lok",
+   "grade": "game",
+   "meaning_of_record": "Sky",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Rise (v.), Sky, sky",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lon",
+   "grade": "guide_website",
+   "meaning_of_record": "Fist",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Loost",
+   "grade": "guide",
+   "meaning_of_record": "Hath",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Los",
+   "grade": "game",
+   "meaning_of_record": "Is/Was (Combine with other verbs to form present tense: “is helping”, “Is sworn”)",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Is (Combine with other verbs for present tense: \"is helping\", \"is sworn\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Losei",
+   "grade": "game",
+   "meaning_of_record": "You’re",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "You are",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lost",
+   "grade": "game",
+   "meaning_of_record": "Have/Was",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Was, Have, Has, Had, Were",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lot",
+   "grade": "game",
+   "meaning_of_record": "Great",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Lovaas",
+   "grade": "guide",
+   "meaning_of_record": "Music/Song/Voice",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Music/Song",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Luft",
+   "grade": "guide",
+   "meaning_of_record": "Face",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lumnaar",
+   "grade": "guide",
+   "meaning_of_record": "Valley",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Lun",
+   "grade": "game",
+   "meaning_of_record": "Leech",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Luv",
+   "grade": "guide",
+   "meaning_of_record": "Tear(s)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Tear",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Maar",
+   "grade": "game",
+   "meaning_of_record": "Terror",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Terror, as suffix: -hood, -self",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mah",
+   "grade": "game",
+   "meaning_of_record": "Fall/Fell",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mahfaeraak",
+   "grade": "game",
+   "meaning_of_record": "Forever",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mahlaan",
+   "grade": "game",
+   "meaning_of_record": "Fallen",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mal",
+   "grade": "guide",
+   "meaning_of_record": "Little",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Maltiid",
+   "grade": "guide",
+   "meaning_of_record": "Brief",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Brief (lit. \"Little-Time\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Med",
+   "grade": "game",
+   "meaning_of_record": "Like/Similar To",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Like (similar)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mey",
+   "grade": "game",
+   "meaning_of_record": "Fool",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Meyz",
+   "grade": "game",
+   "meaning_of_record": "Come (Become) (“meyz fundein” - “come unfurled”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Come (\"to become\"/\"come to be\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mid",
+   "grade": "game",
+   "meaning_of_record": "Loyal/Loyalty",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Loyal",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Middovah",
+   "grade": "game",
+   "meaning_of_record": "Loyalist/Ally (dragon)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Ally (lit. \"Loyal-Dragon\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Midrot, midun",
+   "grade": "game",
+   "meaning_of_record": "Loyalty",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Miin",
+   "grade": "guide",
+   "meaning_of_record": "Eye(s)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Eye",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Miir",
+   "grade": "game",
+   "meaning_of_record": "Path",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Miiraad, Miraad",
+   "grade": "game",
+   "meaning_of_record": "Door/Doorway | Doorway",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Door, doorway (\"miraad\" is a typo)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Miiraak",
+   "grade": "guide_website",
+   "meaning_of_record": "Portal",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Mindin",
+   "grade": "guide",
+   "meaning_of_record": "After",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Mindok",
+   "grade": "guide_website",
+   "meaning_of_record": "Think",
+   "from": "guide website",
+   "other_senses": [
+    {
+     "meaning": "Know, Known, Knowable",
+     "label": "the wiki's reading; kept as a second sense by the owner's ruling"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Mindol",
+   "grade": "guide_website",
+   "meaning_of_record": "Thought",
+   "from": "guide website",
+   "other_senses": [
+    {
+     "meaning": "Trick",
+     "label": "from the untraced word list; kept as a second sense by the owner's ruling"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Mindoraan",
+   "grade": "guide_website",
+   "meaning_of_record": "Understanding",
+   "from": "guide website",
+   "other_senses": [],
+   "how_settled": "ruled individually",
+   "wiki_wording": "Knowledgeable"
+  },
+  {
+   "word": "Mir",
+   "grade": "game",
+   "meaning_of_record": "Allegiance/Loyal",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Allegiance",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Moh",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Mon",
+   "grade": "guide",
+   "meaning_of_record": "Daughter",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Monah",
+   "grade": "guide_website",
+   "meaning_of_record": "Mother",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Monahven",
+   "grade": "game",
+   "meaning_of_record": "Throat of the World = Mother (of the) Wind",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Throat of the World (lit. \"Mother Wind\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Morah",
+   "grade": "game",
+   "meaning_of_record": "Focus (also attention/concentration), Thought",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Focus, thought, concentration, attention",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Moro",
+   "grade": "game",
+   "meaning_of_record": "Glory",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Morokei",
+   "grade": "game",
+   "meaning_of_record": "Glorious",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Motaad",
+   "grade": "game",
+   "meaning_of_record": "Shudder(ed)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Shudder",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Motmah",
+   "grade": "guide",
+   "meaning_of_record": "Slip",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Motmahus",
+   "grade": "guide_website",
+   "meaning_of_record": "Slippery/Elusive/Tricky",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Slippery, Elusive",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Mu",
+   "grade": "game",
+   "meaning_of_record": "We",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mul",
+   "grade": "game",
+   "meaning_of_record": "Strong/Strength",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Strong, Strength",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mulaag",
+   "grade": "game",
+   "meaning_of_record": "Strength/Strengthen",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Strength",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Mulhaan",
+   "grade": "guide",
+   "meaning_of_record": "Unmoving/Unchanging/Still",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unmoving, unchanging, still",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Mun",
+   "grade": "guide",
+   "meaning_of_record": "Man",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Munax",
+   "grade": "guide",
+   "meaning_of_record": "Cruel",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Muz",
+   "grade": "game",
+   "meaning_of_record": "Men (plural of “man”, not “mankind”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Men (see also \"Jul\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Naak",
+   "grade": "game",
+   "meaning_of_record": "Eat",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Naako",
+   "grade": "guide",
+   "meaning_of_record": "Eaten",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Naaktiid",
+   "grade": "recorded_form",
+   "meaning_of_record": "Begin (lit. \"Eat-Time\")",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Naal",
+   "grade": "game",
+   "meaning_of_record": "By",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Naan",
+   "grade": "game",
+   "meaning_of_record": "Any",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Naar",
+   "grade": "guide_website",
+   "meaning_of_record": "Summit",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Naas",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Tooth",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Nah",
+   "grade": "game",
+   "meaning_of_record": "Fury",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nahgahdinok",
+   "grade": "guide",
+   "meaning_of_record": "Necromancer",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Necromancer (\"Dinok\" meaning \"death\", \"nahgah\" may be extrapolated to mean \"wizard\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nahkip",
+   "grade": "game",
+   "meaning_of_record": "Feed",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nahkriin",
+   "grade": "guide",
+   "meaning_of_record": "Vengeance",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nahl",
+   "grade": "guide",
+   "meaning_of_record": "Living (opposite of dead)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Living",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nahlaas",
+   "grade": "game",
+   "meaning_of_record": "Alive",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Alive, Live",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nahlot",
+   "grade": "game",
+   "meaning_of_record": "Silenced (verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Silenced",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nall",
+   "grade": "variant",
+   "meaning_of_record": "By my",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Nau",
+   "grade": "game",
+   "meaning_of_record": "On",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nax",
+   "grade": "guide",
+   "meaning_of_record": "Cruelty",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Neh",
+   "grade": "game",
+   "meaning_of_record": "Never",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nel",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Ney",
+   "grade": "game",
+   "meaning_of_record": "Both",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ni",
+   "grade": "game",
+   "meaning_of_record": "Not",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nid, Niid",
+   "grade": "game",
+   "meaning_of_record": "No",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "No/None/Nothing | Niid No"
+  },
+  {
+   "word": "Nihnzey",
+   "grade": "game",
+   "meaning_of_record": "Betrayal (see also \"Gruth\")",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Nii",
+   "grade": "game",
+   "meaning_of_record": "It",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Niin",
+   "grade": "guide",
+   "meaning_of_record": "Them",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nikrent",
+   "grade": "recorded_form",
+   "meaning_of_record": "Unbroken (lit. Not-broken)",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Nikriin(ne)",
+   "grade": "game",
+   "meaning_of_record": "Coward",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Coward(s)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nil",
+   "grade": "guide_website",
+   "meaning_of_record": "Void",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nimaar",
+   "grade": "guide",
+   "meaning_of_record": "Itself",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nin",
+   "grade": "guide",
+   "meaning_of_record": "Sting",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nir",
+   "grade": "guide",
+   "meaning_of_record": "Hunt",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nis",
+   "grade": "game",
+   "meaning_of_record": "Cannot",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nivahriin",
+   "grade": "game",
+   "meaning_of_record": "Cowardly",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Cowardly (lit. \"Not Sworn\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nok",
+   "grade": "game",
+   "meaning_of_record": "Lie(s)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Lie (Meaning lie both as a verb and noun; \"To lie down\" and \"To tell a lie\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nol",
+   "grade": "game",
+   "meaning_of_record": "From",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nonvul",
+   "grade": "guide",
+   "meaning_of_record": "Noble",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Norok",
+   "grade": "game",
+   "meaning_of_record": "Fierce (“Fiercest” in the Song of the Dragonborn)",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Fiercest",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nos",
+   "grade": "game",
+   "meaning_of_record": "Strike",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nu",
+   "grade": "game",
+   "meaning_of_record": "Now",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nunon",
+   "grade": "guide",
+   "meaning_of_record": "Only",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Nus",
+   "grade": "game",
+   "meaning_of_record": "Statue",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nust",
+   "grade": "game",
+   "meaning_of_record": "They/Those",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "They",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Nuz",
+   "grade": "game",
+   "meaning_of_record": "But",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Oblaan",
+   "grade": "game",
+   "meaning_of_record": "End",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "End (noun), Is over, Is ended",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Od",
+   "grade": "game",
+   "meaning_of_record": "Snow",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Odus",
+   "grade": "guide",
+   "meaning_of_record": "Snowy",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ofaal",
+   "grade": "guide",
+   "meaning_of_record": "Receive",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ofan",
+   "grade": "game",
+   "meaning_of_record": "Give",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ogiim",
+   "grade": "guide",
+   "meaning_of_record": "Orc",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ok",
+   "grade": "game",
+   "meaning_of_record": "His",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Okaaz",
+   "grade": "guide",
+   "meaning_of_record": "Sea",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ol",
+   "grade": "game",
+   "meaning_of_record": "As",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Om",
+   "grade": "guide",
+   "meaning_of_record": "Hair",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "On",
+   "grade": "game",
+   "meaning_of_record": "Spirit (Described as similar to \"soul,\" but empty; lifeless)",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Ond",
+   "grade": "guide",
+   "meaning_of_record": "Lo",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Onik",
+   "grade": "game",
+   "meaning_of_record": "Wise",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Onikiv",
+   "grade": "guide",
+   "meaning_of_record": "Enlightenment",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Onikaan",
+   "grade": "game",
+   "meaning_of_record": "Wisdom",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ont",
+   "grade": "game",
+   "meaning_of_record": "Once",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Orin",
+   "grade": "game",
+   "meaning_of_record": "Even (adverb, meaning “fully” or “quite”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Even",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Osos",
+   "grade": "guide",
+   "meaning_of_record": "Some",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Oth",
+   "grade": "guide_website",
+   "meaning_of_record": "Orphan",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ov",
+   "grade": "game",
+   "meaning_of_record": "Trust",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ozinvey",
+   "grade": "guide",
+   "meaning_of_record": "Ivory",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Paak",
+   "grade": "game",
+   "meaning_of_record": "Shame",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Paal",
+   "grade": "game",
+   "meaning_of_record": "Foe/Enemy",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Foe",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Paar",
+   "grade": "guide",
+   "meaning_of_record": "Ambition",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Paaz",
+   "grade": "game",
+   "meaning_of_record": "Fair",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Pah",
+   "grade": "game",
+   "meaning_of_record": "All",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Pahklok, Pahlok",
+   "grade": "game",
+   "meaning_of_record": "Arrogance/Arrogant",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Arrogance \"Pahklok\" is a typo",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Pel",
+   "grade": "guide_website",
+   "meaning_of_record": "Write",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Pelaan",
+   "grade": "recorded_form",
+   "meaning_of_record": "Wrote",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Peyt",
+   "grade": "guide",
+   "meaning_of_record": "Rose",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Pindaar",
+   "grade": "guide",
+   "meaning_of_record": "Plain(s)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Piraak",
+   "grade": "guide",
+   "meaning_of_record": "Possess",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Pogaan",
+   "grade": "game",
+   "meaning_of_record": "Many",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Pogaas",
+   "grade": "guide",
+   "meaning_of_record": "Much",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Pook",
+   "grade": "guide",
+   "meaning_of_record": "Stink",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Praal",
+   "grade": "guide",
+   "meaning_of_record": "Sit/Sat",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Sit, sat",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Praan",
+   "grade": "game",
+   "meaning_of_record": "Rest",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Prodah",
+   "grade": "game",
+   "meaning_of_record": "Foretell/Foretold",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Foretold",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Pruzaan",
+   "grade": "guide",
+   "meaning_of_record": "Best",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Pruzah",
+   "grade": "game",
+   "meaning_of_record": "Good",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qah",
+   "grade": "game",
+   "meaning_of_record": "Armor",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qahnaar",
+   "grade": "game",
+   "meaning_of_record": "Vanquish",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Vanquish, Denial",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qahnaaran",
+   "grade": "recorded_form",
+   "meaning_of_record": "Is vanquished",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Qahnaarin",
+   "grade": "game",
+   "meaning_of_record": "Vanquisher",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qalos",
+   "grade": "game",
+   "meaning_of_record": "Touch",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qeth",
+   "grade": "guide",
+   "meaning_of_record": "Bone",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Qethsegol",
+   "grade": "game",
+   "meaning_of_record": "Stone",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "(Word Wall) Stone (lit. \"Bone of Earth\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Quethsegol",
+   "grade": "variant",
+   "meaning_of_record": "Granite",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Qiilaan",
+   "grade": "game",
+   "meaning_of_record": "Bow (verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qo",
+   "grade": "game",
+   "meaning_of_record": "Lightning",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qolaas",
+   "grade": "guide",
+   "meaning_of_record": "Herald",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Qostiid",
+   "grade": "game",
+   "meaning_of_record": "Prophecy",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Qoth",
+   "grade": "game",
+   "meaning_of_record": "Tomb",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Raal",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Survive, last (v.)",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Raan",
+   "grade": "game",
+   "meaning_of_record": "Animal",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rah",
+   "grade": "game",
+   "meaning_of_record": "God(s)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Gods",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rahgol",
+   "grade": "guide",
+   "meaning_of_record": "Rage",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Rahgot",
+   "grade": "guide_website",
+   "meaning_of_record": "Anger",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Rath",
+   "grade": "guide_website",
+   "meaning_of_record": "River",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Rein",
+   "grade": "game",
+   "meaning_of_record": "Roar",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rek",
+   "grade": "guide",
+   "meaning_of_record": "She",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Rel",
+   "grade": "game",
+   "meaning_of_record": "Domination",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Revak",
+   "grade": "game",
+   "meaning_of_record": "Sacred",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Reyliik",
+   "grade": "game",
+   "meaning_of_record": "Race",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Race(s)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Reyth",
+   "grade": "guide_website",
+   "meaning_of_record": "Tree",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Rii",
+   "grade": "game",
+   "meaning_of_record": "Essence",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Riik",
+   "grade": "guide",
+   "meaning_of_record": "Gale",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Riis",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Rinik",
+   "grade": "game",
+   "meaning_of_record": "Very",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ro(h)",
+   "grade": "game",
+   "meaning_of_record": "Balance",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rok",
+   "grade": "game",
+   "meaning_of_record": "He",
+   "from": "game material",
+   "other_senses": [
+    {
+     "meaning": "Word",
+     "label": "listed in the printed guide; the Fifth Edition calls this a mistake for rot"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Ron",
+   "grade": "game",
+   "meaning_of_record": "Rain",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Ronaan",
+   "grade": "guide",
+   "meaning_of_record": "Archer",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ronaaz",
+   "grade": "guide",
+   "meaning_of_record": "Arrow",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ronax",
+   "grade": "guide",
+   "meaning_of_record": "Regiment",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ronit",
+   "grade": "game",
+   "meaning_of_record": "Rival (verb)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Rival",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ros",
+   "grade": "guide",
+   "meaning_of_record": "Love",
+   "from": "the wiki reading",
+   "how_settled": "single ruling"
+  },
+  {
+   "word": "Rot",
+   "grade": "guide_website",
+   "meaning_of_record": "Word",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Word(s)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Roth",
+   "grade": "game",
+   "meaning_of_record": "Vine",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Rotmulaag",
+   "grade": "game",
+   "meaning_of_record": "Word of Power",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rovaan",
+   "grade": "guide",
+   "meaning_of_record": "Wander",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ru",
+   "grade": "game",
+   "meaning_of_record": "Run",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Rul",
+   "grade": "game",
+   "meaning_of_record": "When",
+   "from": "game material",
+   "official_remark": "Rul (special case, used only when the word is the first in the sentence)",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ruth",
+   "grade": "game",
+   "meaning_of_record": "Rage/Curses",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Rage, Curses/Damn (interjection)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ruvaak",
+   "grade": "guide",
+   "meaning_of_record": "Raven",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ruz",
+   "grade": "game",
+   "meaning_of_record": "Then (“ahrk ruz” = “and then”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Then",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sadon",
+   "grade": "guide",
+   "meaning_of_record": "Gray",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Gray (adj.), lose (v.)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sah",
+   "grade": "game",
+   "meaning_of_record": "Phantom",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sahlo",
+   "grade": "game",
+   "meaning_of_record": "Weak",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sahqo",
+   "grade": "game",
+   "meaning_of_record": "Red",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sahqon",
+   "grade": "guide",
+   "meaning_of_record": "Crimson",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sahrot",
+   "grade": "game",
+   "meaning_of_record": "Mighty",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sahsunaar",
+   "grade": "guide",
+   "meaning_of_record": "Villager(s)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sahvot",
+   "grade": "guide",
+   "meaning_of_record": "Faith",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Saraan",
+   "grade": "game",
+   "meaning_of_record": "Await/Wait/Delay",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "First, Awaits",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Saviik",
+   "grade": "game",
+   "meaning_of_record": "Savior",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Se",
+   "grade": "guide",
+   "meaning_of_record": "Of, should be used when new words are formed",
+   "from": "printed guide",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Of",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Shaan",
+   "grade": "game",
+   "meaning_of_record": "Inspire",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Shor",
+   "grade": "name",
+   "meaning_of_record": "Shor",
+   "how_settled": "name",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Shul",
+   "grade": "game",
+   "meaning_of_record": "Sun (Word of Power, see also Krein)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Sun",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Siigonis",
+   "grade": "guide_website",
+   "meaning_of_record": "Argonian/Lizard",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Lizard, Argonian",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Siiv",
+   "grade": "game",
+   "meaning_of_record": "Find/Found",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sil",
+   "grade": "game",
+   "meaning_of_record": "Soul",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sillesejoor",
+   "grade": "game",
+   "meaning_of_record": "Mortal Souls",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sinak",
+   "grade": "game",
+   "meaning_of_record": "Finger(s)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sindugahvon",
+   "grade": "guide",
+   "meaning_of_record": "Unyielding",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sinon",
+   "grade": "guide",
+   "meaning_of_record": "Instead",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sivaas",
+   "grade": "game",
+   "meaning_of_record": "Beast",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sizaan",
+   "grade": "guide",
+   "meaning_of_record": "Lost",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Slen",
+   "grade": "game",
+   "meaning_of_record": "Flesh",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Smoliin",
+   "grade": "game",
+   "meaning_of_record": "Passion",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "So",
+   "grade": "game",
+   "meaning_of_record": "Sorrow",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sod",
+   "grade": "guide_website",
+   "meaning_of_record": "Deed (Exploit)",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Exploit, deed, feat",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sonaan",
+   "grade": "guide",
+   "meaning_of_record": "Bard",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sonaak",
+   "grade": "guide",
+   "meaning_of_record": "Priest",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dragon Priest(s)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sos",
+   "grade": "game",
+   "meaning_of_record": "Blood",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sosmir",
+   "grade": "recorded_form",
+   "meaning_of_record": "Blood Allegiance",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Sosaal",
+   "grade": "game",
+   "meaning_of_record": "Bleed",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "Blood"
+  },
+  {
+   "word": "Sot",
+   "grade": "guide",
+   "meaning_of_record": "White",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Sov",
+   "grade": "guide",
+   "meaning_of_record": "Spend/Spent",
+   "from": "printed guide; occurs on a Skyrim word wall",
+   "other_senses": [
+    {
+     "meaning": "Shock",
+     "label": "The Elder Scrolls Online, in a dragon's shout"
+    }
+   ],
+   "how_settled": "ruled individually"
+  },
+  {
+   "word": "Sovrahzun",
+   "grade": "guide",
+   "meaning_of_record": "Mercenary",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Mercenary (n.), purchase (n.)",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Spaan",
+   "grade": "guide",
+   "meaning_of_record": "Shield",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Staadnau",
+   "grade": "game",
+   "meaning_of_record": "strong adjective Unbound",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unbound",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Stin",
+   "grade": "game",
+   "meaning_of_record": "Free (adjective) / Freedom",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Free",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Stinselok",
+   "grade": "recorded_form",
+   "meaning_of_record": "Sky's freedom",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Strun",
+   "grade": "game",
+   "meaning_of_record": "Storm",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Strundu'ul",
+   "grade": "game",
+   "meaning_of_record": "Stormcrown",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Strunmah",
+   "grade": "game",
+   "meaning_of_record": "Mountain",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Su",
+   "grade": "game",
+   "meaning_of_record": "Air",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Su'um",
+   "grade": "game",
+   "meaning_of_record": "Breath/inner spirit (used in terms of the Voice power)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Breath",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sul",
+   "grade": "game",
+   "meaning_of_record": "Day",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Suleyk",
+   "grade": "game",
+   "meaning_of_record": "Power",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Suleyksejun",
+   "grade": "game",
+   "meaning_of_record": "Realm, dominion (literally “power-of-theking”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Dominion(lit. Power of kings)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Sunvaar",
+   "grade": "guide",
+   "meaning_of_record": "Beast(s)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Suvulaan",
+   "grade": "guide_website",
+   "meaning_of_record": "Twilight",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Taazokaan",
+   "grade": "guide",
+   "meaning_of_record": "Tamriel",
+   "from": "printed guide",
+   "official_remark": "Taazokaan (the physical land/continent)",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tafiir",
+   "grade": "game",
+   "meaning_of_record": "Thief",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Tah",
+   "grade": "game",
+   "meaning_of_record": "Pack",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Tahrodiis",
+   "grade": "game",
+   "meaning_of_record": "Treacherous/Turbulent",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Treacherous",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Tahrovin",
+   "grade": "guide_website",
+   "meaning_of_record": "Treachery",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tey",
+   "grade": "game",
+   "meaning_of_record": "Tale",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Thaan",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Thaarn",
+   "grade": "game",
+   "meaning_of_record": "Obedience",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done",
+   "doubt": "cites a book and the guide, but its usage note says it is attested only on the guide website"
+  },
+  {
+   "word": "Thu'um",
+   "grade": "game",
+   "meaning_of_record": "Shout/Voice (“Storm voice”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "(Dragon) Shout, Voice",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Thur",
+   "grade": "game",
+   "meaning_of_record": "Overlord/King/Overlordship",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Overlord",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Thurri",
+   "grade": "variant",
+   "meaning_of_record": "Lord",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Tiid",
+   "grade": "game",
+   "meaning_of_record": "Time",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Tiiraz",
+   "grade": "variant",
+   "meaning_of_record": "Sad",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Tinvaak",
+   "grade": "game",
+   "meaning_of_record": "Talk/Speak/Speech",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Talk, Speech",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Til",
+   "grade": "game",
+   "meaning_of_record": "There",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Togaat",
+   "grade": "guide",
+   "meaning_of_record": "Attempt",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tol",
+   "grade": "game",
+   "meaning_of_record": "That",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Toor",
+   "grade": "game",
+   "meaning_of_record": "Inferno",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Tosh",
+   "grade": "reserved",
+   "meaning_of_record": null,
+   "how_settled": "reserved",
+   "from": null
+  },
+  {
+   "word": "Tovinaan",
+   "grade": "variant",
+   "meaning_of_record": "Searcher",
+   "how_settled": "variant",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Tovit",
+   "grade": "guide_website",
+   "meaning_of_record": "Search",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tu",
+   "grade": "guide",
+   "meaning_of_record": "Hammer",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tum",
+   "grade": "guide",
+   "meaning_of_record": "Down",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Tuz",
+   "grade": "game",
+   "meaning_of_record": "Blade",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ufiik",
+   "grade": "guide",
+   "meaning_of_record": "Troll",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ul",
+   "grade": "game",
+   "meaning_of_record": "Eternity",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Um",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Twin",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Un",
+   "grade": "guide_website",
+   "meaning_of_record": "Our (possessive form of we - not commonly used)",
+   "from": "guide website",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "OurUsed less often than the -u suffix.",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Unraak",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Marriage, marry, married.",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Unslaad, Unahzaal",
+   "grade": "game",
+   "meaning_of_record": "Unending/Ceaseless/EternalUnslaad is the more common form.",
+   "from": "the wiki reading",
+   "how_settled": "the Fifth Edition copy misprints this definition; to be re-read from the publisher's file",
+   "printed_in_copy": "Eternal/Unending/Ceaseless (less common than Unslaad)"
+  },
+  {
+   "word": "Unt",
+   "grade": "guide",
+   "meaning_of_record": "Try",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Us",
+   "grade": "guide_website",
+   "meaning_of_record": "Before",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Before, in front ofNot \"before\" chronologically. Qiilan us dilon: bow before the dead.",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Uth",
+   "grade": "game",
+   "meaning_of_record": "Order/Command",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Command, Order",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Uv",
+   "grade": "game",
+   "meaning_of_record": "Or",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Uznahgaar",
+   "grade": "game",
+   "meaning_of_record": "Unbridled",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unbridled, Unending",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vaal",
+   "grade": "game",
+   "meaning_of_record": "Bay (as in “at bay”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "BayAs in \"hold at bay\".",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vaat",
+   "grade": "guide",
+   "meaning_of_record": "Swear/Swore",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vaaz",
+   "grade": "game",
+   "meaning_of_record": "Tear",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Tear, ripNot lacrymal tears.",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vah",
+   "grade": "game",
+   "meaning_of_record": "Spring",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vahdin",
+   "grade": "guide",
+   "meaning_of_record": "Maiden",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vahlok",
+   "grade": "guide",
+   "meaning_of_record": "Guardian",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vahriin",
+   "grade": "game",
+   "meaning_of_record": "Sworn",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vahrukiv",
+   "grade": "game",
+   "meaning_of_record": "Commemorate",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vahrukt",
+   "grade": "game",
+   "meaning_of_record": "Memory",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vahzah, Vazah",
+   "grade": "game",
+   "meaning_of_record": "True",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vahzen",
+   "grade": "guide_website",
+   "meaning_of_record": "Truth",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Ved",
+   "grade": "game",
+   "meaning_of_record": "Black",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ven",
+   "grade": "game",
+   "meaning_of_record": "Wind",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vennesetiid",
+   "grade": "game",
+   "meaning_of_record": "The Currents of Time",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vey",
+   "grade": "game",
+   "meaning_of_record": "Cut",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Veydo",
+   "grade": "guide_website",
+   "meaning_of_record": "Grass",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Veysun",
+   "grade": "guide",
+   "meaning_of_record": "Ship",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Viik",
+   "grade": "game",
+   "meaning_of_record": "Defeat",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Viin",
+   "grade": "game",
+   "meaning_of_record": "Shine",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Viing",
+   "grade": "game",
+   "meaning_of_record": "Wing",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Viint",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Shine",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Viintaas",
+   "grade": "guide",
+   "meaning_of_record": "Shining",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Viir",
+   "grade": "game",
+   "meaning_of_record": "Dying",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vindahlheim",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Forever",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Vith",
+   "grade": "guide",
+   "meaning_of_record": "Serpent",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vo...",
+   "grade": "guide",
+   "meaning_of_record": "Opposite of...",
+   "from": "the wiki reading",
+   "how_settled": "no official definition printed"
+  },
+  {
+   "word": "Vobalaan",
+   "grade": "game",
+   "meaning_of_record": "Unworthy",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vod",
+   "grade": "game",
+   "meaning_of_record": "Ago (“lingrah vod” - “long ago”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Ago",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vodahmin",
+   "grade": "game",
+   "meaning_of_record": "Unremembered/Forgotten",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unremembered, forgotten",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vokiin",
+   "grade": "game",
+   "meaning_of_record": "Unborn",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vokri, Vokrii",
+   "grade": "game",
+   "meaning_of_record": "Restore (literally “unkill”)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Restore",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vokul",
+   "grade": "guide",
+   "meaning_of_record": "Evil (literally “ungood”)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Evil",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vokun",
+   "grade": "guide",
+   "meaning_of_record": "Shadow",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vol",
+   "grade": "guide",
+   "meaning_of_record": "Horror",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Volaan",
+   "grade": "guide_website",
+   "meaning_of_record": "Intruder",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vomindok",
+   "grade": "game",
+   "meaning_of_record": "Unknown/Unknowable",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Unknown",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vonmindoraan",
+   "grade": "game",
+   "meaning_of_record": "Incomprehensible",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Incomprehensible idea",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vonun",
+   "grade": "guide_website",
+   "meaning_of_record": "Unseen",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vonuz",
+   "grade": "guide_website",
+   "meaning_of_record": "Invisible",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Voqostiid",
+   "grade": "recorded_form",
+   "meaning_of_record": "Surprised",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Vos",
+   "grade": "unconfirmed",
+   "meaning_of_record": "Claw",
+   "from": "the wiki reading",
+   "how_settled": "unconfirmed"
+  },
+  {
+   "word": "Voth",
+   "grade": "game",
+   "meaning_of_record": "With (Song of the Dragonborn - avoid using)",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "WithShould be avoided.",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vothaarn",
+   "grade": "game",
+   "meaning_of_record": "Disobedience",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vukein",
+   "grade": "game",
+   "meaning_of_record": "Combat",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vul",
+   "grade": "game",
+   "meaning_of_record": "Dark",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vulom",
+   "grade": "guide",
+   "meaning_of_record": "Darkness",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vulon",
+   "grade": "guide",
+   "meaning_of_record": "Night",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vum",
+   "grade": "guide_website",
+   "meaning_of_record": "Beard",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Vun",
+   "grade": "guide",
+   "meaning_of_record": "Tongue",
+   "from": "the wiki reading",
+   "how_settled": "single ruling"
+  },
+  {
+   "word": "Vur",
+   "grade": "game",
+   "meaning_of_record": "Valor",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Vus",
+   "grade": "guide_website",
+   "meaning_of_record": "Nirn",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Wah",
+   "grade": "game",
+   "meaning_of_record": "To/Versus",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "To(both as preposition and verb infinitive form)",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wahl",
+   "grade": "guide",
+   "meaning_of_record": "Build/Create (past tense Wahlaan Built/Created)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Build/Create",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Wahlaan",
+   "grade": "game",
+   "meaning_of_record": "Built/Created/Raised/Erected | Creation",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Raise, Built/Created",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wen",
+   "grade": "game",
+   "meaning_of_record": "Whose",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Werid",
+   "grade": "guide",
+   "meaning_of_record": "Praise",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Wiix",
+   "grade": "game",
+   "meaning_of_record": "Trap",
+   "from": "the wiki reading",
+   "how_settled": "later game or single ruling"
+  },
+  {
+   "word": "Win",
+   "grade": "game",
+   "meaning_of_record": "Wage",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wo",
+   "grade": "game",
+   "meaning_of_record": "Who",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wol",
+   "grade": "guide_website",
+   "meaning_of_record": "Oak",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Wuld",
+   "grade": "game",
+   "meaning_of_record": "Whirlwind/Vortex",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Whirlwind, Vortex",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wundun",
+   "grade": "game",
+   "meaning_of_record": "Travel",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wunduniik",
+   "grade": "game",
+   "meaning_of_record": "Traveller",
+   "from": "game material",
+   "how_settled": "official definition taken; wiki wording kept as a note",
+   "wiki_wording": "Traveler",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Wuth",
+   "grade": "game",
+   "meaning_of_record": "Old",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Yah",
+   "grade": "game",
+   "meaning_of_record": "Seek",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Yol",
+   "grade": "game",
+   "meaning_of_record": "Fire",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Yolos",
+   "grade": "guide",
+   "meaning_of_record": "Flame",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Yoriik",
+   "grade": "guide",
+   "meaning_of_record": "March",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Yuvon",
+   "grade": "guide",
+   "meaning_of_record": "Gold/Golden (adjective)",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "wiki_wording": "Gold/Golden",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zaam",
+   "grade": "game",
+   "meaning_of_record": "Slave",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zaamhus",
+   "grade": "game",
+   "meaning_of_record": "Slavery",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zaan",
+   "grade": "game",
+   "meaning_of_record": "Shout (noun) (meaning yell, not use of Voice power)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Shout (as in \"yell\", not \"Dragon Shout\")",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zah",
+   "grade": "game",
+   "meaning_of_record": "Finite",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zahkrii",
+   "grade": "game",
+   "meaning_of_record": "Sword",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zahrahmiik",
+   "grade": "guide",
+   "meaning_of_record": "Sacrifice",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zeim",
+   "grade": "game",
+   "meaning_of_record": "Through",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zein",
+   "grade": "guide_website",
+   "meaning_of_record": "Worship",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zeymah",
+   "grade": "game",
+   "meaning_of_record": "Brother(s)",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zeymahzin",
+   "grade": "guide_website",
+   "meaning_of_record": "Companion",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "wiki_wording": "Companion (lit. \"Brother-Honor\")",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zii",
+   "grade": "game",
+   "meaning_of_record": "Spirit/Soul",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Spirit",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Ziil",
+   "grade": "recorded_form",
+   "meaning_of_record": "Soul",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Zin",
+   "grade": "game",
+   "meaning_of_record": "Honor",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zind",
+   "grade": "game",
+   "meaning_of_record": "Triumph",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zindro",
+   "grade": "recorded_form",
+   "meaning_of_record": "Triumph's",
+   "how_settled": "recorded_form",
+   "from": "the wiki reading"
+  },
+  {
+   "word": "Zofaas",
+   "grade": "game",
+   "meaning_of_record": "Fearful",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zohungaar",
+   "grade": "guide",
+   "meaning_of_record": "Heroically",
+   "from": "printed guide",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zok",
+   "grade": "game",
+   "meaning_of_record": "Most",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zol",
+   "grade": "game",
+   "meaning_of_record": "Zombie",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "Most, Zombie",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zoor",
+   "grade": "game",
+   "meaning_of_record": "Legend",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zorox",
+   "grade": "guide_website",
+   "meaning_of_record": "Create",
+   "from": "guide website",
+   "how_settled": "sources agree",
+   "checked": "taken on the Fifth Edition's word"
+  },
+  {
+   "word": "Zu'u",
+   "grade": "game",
+   "meaning_of_record": "I",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done",
+   "doubt": "word type is printed as a verb; the entry itself defines a pronoun"
+  },
+  {
+   "word": "Zul",
+   "grade": "game",
+   "meaning_of_record": "Voice (the actual mortal voice, not the power of the shouting [sic])",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "wiki_wording": "(mortal) Voice",
+   "checked": "can be checked against game pages; not yet done"
+  },
+  {
+   "word": "Zun",
+   "grade": "game",
+   "meaning_of_record": "Weapon",
+   "from": "game material",
+   "how_settled": "sources agree",
+   "checked": "can be checked against game pages; not yet done"
+  }
+ ]
+}
