@@ -1,0 +1,4778 @@
+{
+ "meta": {
+  "what": "The project's reading convention, under the ruling recorded as proposal 8 in docs/decisions-log.md.",
+  "credit": "The pronunciations are Thuum.org's, from its Fifth Edition dictionary (non-commercial use; see research/sources/thuum/ATTRIBUTION.md). The dictionary calls them recommended, not official.",
+  "ruling": [
+   "The Fifth Edition's per-word pronunciations are the reading convention.",
+   "Where its table and its entries disagree, the entries are followed.",
+   "Where an entry lists several pronunciations, the first is taught and the rest are accepted.",
+   "Stress is taught as marked and described as a tendency.",
+   "It is labelled everywhere as a convention, not official.",
+   "For new words the pronunciation is worked out from the spelling by the rule below.",
+   "Owner's condition: people will at some point listen to the game. The convention stays open to that evidence. What is heard in the game is recorded per word under heard_in_game, with the speaker and line; a form heard in the game is accepted, and where the game consistently contradicts the taught form, the taught form changes in a numbered release."
+  ],
+  "notation": "International Phonetic Alphabet. A space separates syllables; ˈ marks primary stress and ˌ secondary stress on the syllable that follows."
+ },
+ "rule_for_new_words": {
+  "method": "Each spelling unit takes the sound the dictionary most often gives it, separately for a stressed syllable (S), an unstressed one (U), an unstressed one at the end of the word (Ufinal) and for consonants (C).",
+  "sound_table": {
+   "a": {
+    "S": {
+     "sound": "æ",
+     "share": 0.83,
+     "n": 23,
+     "others": {
+      "ɑ": 3,
+      "ə": 1
+     }
+    },
+    "U": {
+     "sound": "æ",
+     "share": 0.56,
+     "n": 16,
+     "others": {
+      "ə": 6,
+      "ɑ": 1
+     }
+    },
+    "Ufinal": {
+     "sound": "ə",
+     "share": 1.0,
+     "n": 2,
+     "others": {}
+    }
+   },
+   "aa": {
+    "S": {
+     "sound": "ɑ",
+     "share": 0.98,
+     "n": 104,
+     "others": {
+      "ɪ": 1,
+      "ɒ": 1
+     }
+    },
+    "U": {
+     "sound": "ɑ",
+     "share": 0.91,
+     "n": 47,
+     "others": {
+      "ə": 4
+     }
+    }
+   },
+   "ae": {
+    "S": {
+     "sound": "eɪ",
+     "share": 1.0,
+     "n": 1,
+     "others": {}
+    }
+   },
+   "ah": {
+    "S": {
+     "sound": "ɑ",
+     "share": 1.0,
+     "n": 69,
+     "others": {}
+    },
+    "U": {
+     "sound": "ə",
+     "share": 0.89,
+     "n": 36,
+     "others": {
+      "ɑ": 3,
+      "e": 1
+     }
+    },
+    "Ufinal": {
+     "sound": "ə",
+     "share": 0.91,
+     "n": 23,
+     "others": {
+      "ɑ": 2
+     }
+    }
+   },
+   "au": {
+    "S": {
+     "sound": "aʊ",
+     "share": 1.0,
+     "n": 3,
+     "others": {}
+    }
+   },
+   "b": {
+    "C": {
+     "sound": "b",
+     "share": 1.0,
+     "n": 35,
+     "others": {}
+    }
+   },
+   "d": {
+    "C": {
+     "sound": "d",
+     "share": 1.0,
+     "n": 126,
+     "others": {}
+    }
+   },
+   "e": {
+    "S": {
+     "sound": "ɛ",
+     "share": 1.0,
+     "n": 34,
+     "others": {}
+    },
+    "U": {
+     "sound": "ɛ",
+     "share": 0.88,
+     "n": 26,
+     "others": {
+      "ə": 2,
+      "e": 1
+     }
+    },
+    "Ufinal": {
+     "sound": "",
+     "share": 0.5,
+     "n": 2,
+     "others": {
+      "ə": 1
+     }
+    }
+   },
+   "eh": {
+    "S": {
+     "sound": "ɛ",
+     "share": 1.0,
+     "n": 5,
+     "others": {}
+    }
+   },
+   "ei": {
+    "S": {
+     "sound": "aɪ",
+     "share": 0.88,
+     "n": 17,
+     "others": {
+      "a": 1,
+      "ɑɪ": 1
+     }
+    },
+    "U": {
+     "sound": "aɪ",
+     "share": 1.0,
+     "n": 1,
+     "others": {}
+    },
+    "Ufinal": {
+     "sound": "aɪ",
+     "share": 1.0,
+     "n": 1,
+     "others": {}
+    }
+   },
+   "ey": {
+    "S": {
+     "sound": "eɪ",
+     "share": 1.0,
+     "n": 22,
+     "others": {}
+    },
+    "U": {
+     "sound": "eɪ",
+     "share": 1.0,
+     "n": 5,
+     "others": {}
+    },
+    "Ufinal": {
+     "sound": "eɪ",
+     "share": 1.0,
+     "n": 2,
+     "others": {}
+    }
+   },
+   "f": {
+    "C": {
+     "sound": "f",
+     "share": 0.98,
+     "n": 50,
+     "others": {
+      "": 1
+     }
+    }
+   },
+   "g": {
+    "C": {
+     "sound": "g",
+     "share": 0.98,
+     "n": 60,
+     "others": {
+      "": 1
+     }
+    }
+   },
+   "h": {
+    "C": {
+     "sound": "h",
+     "share": 1.0,
+     "n": 36,
+     "others": {}
+    }
+   },
+   "i": {
+    "S": {
+     "sound": "i",
+     "share": 0.96,
+     "n": 55,
+     "others": {
+      "ɪ": 2
+     }
+    },
+    "U": {
+     "sound": "i",
+     "share": 0.96,
+     "n": 57,
+     "others": {
+      "ɪ": 2
+     }
+    }
+   },
+   "ii": {
+    "S": {
+     "sound": "i",
+     "share": 1.0,
+     "n": 49,
+     "others": {}
+    },
+    "U": {
+     "sound": "i",
+     "share": 0.93,
+     "n": 30,
+     "others": {
+      "ə": 1,
+      "ii": 1
+     }
+    },
+    "Ufinal": {
+     "sound": "i",
+     "share": 1.0,
+     "n": 1,
+     "others": {}
+    }
+   },
+   "j": {
+    "C": {
+     "sound": "dʒ",
+     "share": 1.0,
+     "n": 14,
+     "others": {}
+    }
+   },
+   "k": {
+    "C": {
+     "sound": "k",
+     "share": 1.0,
+     "n": 161,
+     "others": {}
+    }
+   },
+   "l": {
+    "C": {
+     "sound": "l",
+     "share": 0.98,
+     "n": 162,
+     "others": {
+      "ll": 2,
+      "": 1
+     }
+    }
+   },
+   "m": {
+    "C": {
+     "sound": "m",
+     "share": 0.99,
+     "n": 89,
+     "others": {
+      "": 1
+     }
+    }
+   },
+   "n": {
+    "C": {
+     "sound": "n",
+     "share": 0.99,
+     "n": 302,
+     "others": {
+      "": 2,
+      "ŋ": 2
+     }
+    }
+   },
+   "o": {
+    "S": {
+     "sound": "o",
+     "share": 0.99,
+     "n": 149,
+     "others": {
+      "ɑ": 1
+     }
+    },
+    "U": {
+     "sound": "o",
+     "share": 1.0,
+     "n": 109,
+     "others": {}
+    },
+    "Ufinal": {
+     "sound": "o",
+     "share": 1.0,
+     "n": 8,
+     "others": {}
+    }
+   },
+   "oo": {
+    "S": {
+     "sound": "ɔ",
+     "share": 0.56,
+     "n": 9,
+     "others": {
+      "u": 4
+     }
+    }
+   },
+   "p": {
+    "C": {
+     "sound": "p",
+     "share": 1.0,
+     "n": 23,
+     "others": {}
+    }
+   },
+   "q": {
+    "C": {
+     "sound": "kw",
+     "share": 1.0,
+     "n": 13,
+     "others": {}
+    }
+   },
+   "qu": {
+    "C": {
+     "sound": "kw",
+     "share": 1.0,
+     "n": 1,
+     "others": {}
+    }
+   },
+   "r": {
+    "C": {
+     "sound": "r",
+     "share": 0.99,
+     "n": 217,
+     "others": {
+      "ir": 1,
+      "rr": 1,
+      "n": 1
+     }
+    }
+   },
+   "s": {
+    "C": {
+     "sound": "s",
+     "share": 0.99,
+     "n": 125,
+     "others": {
+      "z": 1
+     }
+    }
+   },
+   "sh": {
+    "C": {
+     "sound": "ʃ",
+     "share": 1.0,
+     "n": 2,
+     "others": {}
+    }
+   },
+   "t": {
+    "C": {
+     "sound": "t",
+     "share": 1.0,
+     "n": 80,
+     "others": {}
+    }
+   },
+   "th": {
+    "C": {
+     "sound": "θ",
+     "share": 1.0,
+     "n": 17,
+     "others": {}
+    }
+   },
+   "u": {
+    "S": {
+     "sound": "u",
+     "share": 1.0,
+     "n": 95,
+     "others": {}
+    },
+    "U": {
+     "sound": "u",
+     "share": 0.97,
+     "n": 38,
+     "others": {
+      "hu": 1
+     }
+    },
+    "Ufinal": {
+     "sound": "u",
+     "share": 0.75,
+     "n": 4,
+     "others": {
+      "hu": 1
+     }
+    }
+   },
+   "u'u": {
+    "S": {
+     "sound": "u",
+     "share": 1.0,
+     "n": 6,
+     "others": {}
+    }
+   },
+   "uu": {
+    "U": {
+     "sound": "u",
+     "share": 1.0,
+     "n": 2,
+     "others": {}
+    }
+   },
+   "v": {
+    "C": {
+     "sound": "v",
+     "share": 0.99,
+     "n": 122,
+     "others": {
+      "vɪ": 1
+     }
+    }
+   },
+   "w": {
+    "C": {
+     "sound": "w",
+     "share": 1.0,
+     "n": 16,
+     "others": {}
+    }
+   },
+   "x": {
+    "C": {
+     "sound": "ks",
+     "share": 1.0,
+     "n": 5,
+     "others": {}
+    }
+   },
+   "y": {
+    "C": {
+     "sound": "j",
+     "share": 1.0,
+     "n": 5,
+     "others": {}
+    }
+   },
+   "z": {
+    "C": {
+     "sound": "z",
+     "share": 1.0,
+     "n": 60,
+     "others": {}
+    }
+   }
+  },
+  "stress_rules_tried": {
+   "first syllable": {
+    "matches_the_first_pronunciation": 0.63,
+    "matches_any_listed_pronunciation": 0.711
+   },
+   "last syllable": {
+    "matches_the_first_pronunciation": 0.289,
+    "matches_any_listed_pronunciation": 0.361
+   },
+   "last syllable with aa or ii, else first": {
+    "matches_the_first_pronunciation": 0.59,
+    "matches_any_listed_pronunciation": 0.659
+   },
+   "first syllable with aa or ii, else first": {
+    "matches_the_first_pronunciation": 0.597,
+    "matches_any_listed_pronunciation": 0.662
+   },
+   "last syllable with a two-letter vowel, else first": {
+    "matches_the_first_pronunciation": 0.603,
+    "matches_any_listed_pronunciation": 0.662
+   },
+   "in a two-syllable word the last if it has aa, ii, ei or ey; otherwise the first": {
+    "matches_the_first_pronunciation": 0.656,
+    "matches_any_listed_pronunciation": 0.725
+   }
+  },
+  "stress_rule_used": "first syllable",
+  "words_of_two_or_more_syllables": 305,
+  "words_listing_more_than_one_stress_position": 54,
+  "stress_finding": "Stress cannot be worked out from spelling alone: the best simple rule matches about two words in three. The dictionary ties stress to the root of a word, which spelling does not show. In the forge the coiner declares the parts of a new word, so stress is placed on the root; for a new root the default is the first syllable.",
+  "how_well_it_reproduces_the_dictionary": {
+   "test": "five-fold cross-validation over 644 entries: the rule is learned from four fifths and tried on the rest",
+   "sounds_right_when_the_stress_is_known": 0.921,
+   "sounds_right_with_the_stress_rule": 0.888,
+   "matches_any_listed_pronunciation_with_the_stress_rule": 0.902,
+   "note": "A match means every sound is the same as in the dictionary's pronunciation; stress marks and syllable breaks are not compared."
+  },
+  "commonest_misses": [
+   {
+    "unit": "a",
+    "where": "U",
+    "rule_gives": "æ",
+    "dictionary_has": "ə",
+    "times": 6,
+    "examples": [
+     "Dohaviin",
+     "Saraan",
+     "Amativ"
+    ]
+   },
+   {
+    "unit": "oo",
+    "where": "S",
+    "rule_gives": "u",
+    "dictionary_has": "ɔ",
+    "times": 5,
+    "examples": [
+     "Koor",
+     "Toor",
+     "Joor"
+    ]
+   },
+   {
+    "unit": "oo",
+    "where": "S",
+    "rule_gives": "ɔ",
+    "dictionary_has": "u",
+    "times": 4,
+    "examples": [
+     "Pook",
+     "Folook",
+     "Loost"
+    ]
+   },
+   {
+    "unit": "aa",
+    "where": "U",
+    "rule_gives": "ɑ",
+    "dictionary_has": "ə",
+    "times": 4,
+    "examples": [
+     "Pindaar",
+     "Ruvaak",
+     "Pruzaan"
+    ]
+   },
+   {
+    "unit": "a",
+    "where": "S",
+    "rule_gives": "æ",
+    "dictionary_has": "ɑ",
+    "times": 3,
+    "examples": [
+     "Daniik",
+     "Saviik",
+     "Tafiir"
+    ]
+   },
+   {
+    "unit": "ah",
+    "where": "U",
+    "rule_gives": "ə",
+    "dictionary_has": "ɑ",
+    "times": 2,
+    "examples": [
+     "Nahgahdinok",
+     "Grah-Zeymahzin"
+    ]
+   },
+   {
+    "unit": "a",
+    "where": "U",
+    "rule_gives": "ə",
+    "dictionary_has": "æ",
+    "times": 2,
+    "examples": [
+     "Ahroldan",
+     "Korvanjund"
+    ]
+   },
+   {
+    "unit": "n",
+    "where": "C",
+    "rule_gives": "n",
+    "dictionary_has": "",
+    "times": 2,
+    "examples": [
+     "Geinmaar",
+     "Hofkiin"
+    ]
+   },
+   {
+    "unit": "i",
+    "where": "S",
+    "rule_gives": "i",
+    "dictionary_has": "ɪ",
+    "times": 2,
+    "examples": [
+     "Hillgrundhofkah",
+     "Oblivion"
+    ]
+   },
+   {
+    "unit": "ah",
+    "where": "Ufinal",
+    "rule_gives": "ə",
+    "dictionary_has": "ɑ",
+    "times": 2,
+    "examples": [
+     "Krongrah",
+     "Lingrah"
+    ]
+   },
+   {
+    "unit": "n",
+    "where": "C",
+    "rule_gives": "n",
+    "dictionary_has": "ŋ",
+    "times": 2,
+    "examples": [
+     "Lingrah",
+     "Viing"
+    ]
+   },
+   {
+    "unit": "l",
+    "where": "C",
+    "rule_gives": "l",
+    "dictionary_has": "ll",
+    "times": 2,
+    "examples": [
+     "Alikr",
+     "Galik"
+    ]
+   },
+   {
+    "unit": "i",
+    "where": "U",
+    "rule_gives": "i",
+    "dictionary_has": "ɪ",
+    "times": 2,
+    "examples": [
+     "Alikr",
+     "Krosis"
+    ]
+   },
+   {
+    "unit": "e",
+    "where": "U",
+    "rule_gives": "ɛ",
+    "dictionary_has": "ə",
+    "times": 2,
+    "examples": [
+     "Gaaffesejul",
+     "Vennesetiid"
+    ]
+   }
+  ]
+ },
+ "words": [
+  {
+   "word": "Aak",
+   "taught": "ɑk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aal",
+   "taught": "ɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aam",
+   "taught": "ɑm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aan",
+   "taught": "ɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aan",
+   "taught": "ɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aar",
+   "taught": "ɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aav",
+   "taught": "ɑv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aaz",
+   "taught": "ɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ag",
+   "taught": "æg",
+   "also_accepted": [
+    "ɑg"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ah",
+   "taught": "ɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahkrin",
+   "taught": "ˈɑ krin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahmik",
+   "taught": "ˈɑ mik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahmul",
+   "taught": "ˈɑ mul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahraan",
+   "taught": "əˈrɑn",
+   "also_accepted": [
+    "əxˈrɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahrk",
+   "taught": "ɑrk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahrol",
+   "taught": "əˈrol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahroldan",
+   "taught": "əˈrol dæn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahrolsedovah",
+   "taught": "əˌrol sɛˈdo və",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahst",
+   "taught": "ɑst",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahtiid",
+   "taught": "əˈtid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ahzid",
+   "taught": "ˈɑ zid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Al",
+   "taught": "æl",
+   "also_accepted": [
+    "ɑl"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Alikr",
+   "taught": "ˈæl lɪˌkir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Alok",
+   "taught": "əˈlok",
+   "also_accepted": [
+    "ˈæ lok"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Alok-Dilon",
+   "taught": "ˌæ lokˈdi lon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Alun",
+   "taught": "ˈæ lun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Am",
+   "taught": "æm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Amativ",
+   "taught": "ˈæm əˌtiv",
+   "also_accepted": [
+    "ˈɑm əˌtiv"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Atmora",
+   "taught": "ˈæt mo rə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Aus",
+   "taught": "aʊs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bah",
+   "taught": "bɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bahlaan",
+   "taught": "ˈbɑ lɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bahlok",
+   "taught": "ˈbɑ lok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Balaan",
+   "taught": "ˈbæ lɑn",
+   "also_accepted": [
+    "ˈbɑ lɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bein",
+   "taught": "baɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bel",
+   "taught": "bɛl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bex",
+   "taught": "bɛks",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Beyn",
+   "taught": "beɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bii",
+   "taught": "bi",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bo",
+   "taught": "bo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bodiis",
+   "taught": "ˈbo dis",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bok",
+   "taught": "bok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bolaav",
+   "taught": "boˈlɑv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bolog",
+   "taught": "ˈbo log",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bonaar",
+   "taught": "boˈnɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bormah",
+   "taught": "ˈbor mə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bormahu",
+   "taught": "borˈmɑ hu",
+   "also_accepted": [
+    "borˈmɑx hu"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bovul",
+   "taught": "boˈvul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Boziik",
+   "taught": "ˈbo zik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Brendon",
+   "taught": "ˈbrɛn don",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Brii",
+   "taught": "bri",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Briinah",
+   "taught": "ˈbri nə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Briinahmaar",
+   "taught": "ˈbri nə mɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Brit",
+   "taught": "brit",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Brod",
+   "taught": "brod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Brom",
+   "taught": "brom",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bromjunaar",
+   "taught": "ˈbrom dʒun ɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bron",
+   "taught": "bron",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bronjun",
+   "taught": "ˈbron dʒun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Bruniik",
+   "taught": "ˈbru nik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Daal",
+   "taught": "dɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Daan",
+   "taught": "dɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Daanik",
+   "taught": "ˈdɑ nik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Daar",
+   "taught": "dɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dah",
+   "taught": "dɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dahmaan",
+   "taught": "ˈdɑ mɑn",
+   "also_accepted": [
+    "dəˈmɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Daniik",
+   "taught": "ˈdɑ nik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dein",
+   "taught": "daɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Deinmaar",
+   "taught": "ˈdaɪn mɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Denek",
+   "taught": "ˈdɛn ɛk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Denos",
+   "taught": "dɛˈnos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Deyra",
+   "taught": "ˈdeɪ rə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Deyto",
+   "taught": "ˈdeɪ to",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dez",
+   "taught": "dɛz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dii",
+   "taught": "di",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Diil",
+   "taught": "dil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Diin",
+   "taught": "din",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Diiv",
+   "taught": "div",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Diivon",
+   "taught": "ˈdi von",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dilon",
+   "taught": "diˈlon",
+   "also_accepted": [
+    "ˈdi lon"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dilos",
+   "taught": "diˈlos",
+   "also_accepted": [
+    "ˈdi los"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dinok",
+   "taught": "di ˈnok",
+   "also_accepted": [
+    "ˈdi nok"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dinoksetiid",
+   "taught": "diˌnok sɛˈtid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dir",
+   "taught": "dir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Do",
+   "taught": "do",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dohaviin",
+   "taught": "ˈdo hə vin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dok",
+   "taught": "dok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dov",
+   "taught": "dov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dovah",
+   "taught": "ˈdo və",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dovahgolz",
+   "taught": "ˈdo və golz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dovahkiin",
+   "taught": "ˈdo və kin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dovahkriid",
+   "taught": "ˈdo və krid",
+   "also_accepted": [
+    "doˈvɑ krid"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dovahsebrom",
+   "taught": "ˌdo və sɛˈbrom",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Draal",
+   "taught": "drɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dreh",
+   "taught": "drɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Drem",
+   "taught": "drɛm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Drey",
+   "taught": "dreɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Drog",
+   "taught": "drog",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Drun",
+   "taught": "drun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Du",
+   "taught": "du",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Du'ul",
+   "taught": "dul",
+   "also_accepted": [
+    "ˈdu ʌl",
+    "duˈul"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dukaan",
+   "taught": "duˈkɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dun",
+   "taught": "dun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dur",
+   "taught": "dur",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dwiin",
+   "taught": "dwin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Dwiirok",
+   "taught": "ˈdwir ok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ek",
+   "taught": "ɛk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Enook",
+   "taught": "ɛˈnuk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ensosin",
+   "taught": "ɛnˈsos in",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Erei",
+   "taught": "ɛˈraɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Eruvos",
+   "taught": "ɛrˈru vos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Evenaar",
+   "taught": "ˈɛv ɛn ɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Evgir",
+   "taught": "ˈɛv gir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faad",
+   "taught": "fɑd",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faal",
+   "taught": "fɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faas",
+   "taught": "fɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faasnu",
+   "taught": "ˈfɑs nu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faaz",
+   "taught": "fɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fah",
+   "taught": "fɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fahdon",
+   "taught": "ˈfɑ don",
+   "also_accepted": [
+    "fəˈdon"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fahliil",
+   "taught": "fəˈlil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fahluaan",
+   "taught": "ˈfɑ lu ɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Faraan",
+   "taught": "fəˈrɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Feim",
+   "taught": "faɪm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fel",
+   "taught": "fɛl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fen",
+   "taught": "fɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fent",
+   "taught": "fɛnt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Feykro",
+   "taught": "ˈfeɪ kro",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Feyn",
+   "taught": "feɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fiik",
+   "taught": "fik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Filok",
+   "taught": "fiˈlok",
+   "also_accepted": [
+    "ˈfi lok"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fin",
+   "taught": "fin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fo",
+   "taught": "fo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fod",
+   "taught": "fod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fodiiz",
+   "taught": "ˈfo diz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Folaas",
+   "taught": "foˈlɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Folook",
+   "taught": "foˈluk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fonaar",
+   "taught": "ˈfo nɑr",
+   "also_accepted": [
+    "foˈnɑr"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Frin",
+   "taught": "frin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Frod",
+   "taught": "frod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fron",
+   "taught": "fron",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Frul",
+   "taught": "frul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ful",
+   "taught": "ful",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fun",
+   "taught": "fun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fundein",
+   "taught": "funˈdaɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Funt",
+   "taught": "funt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Fus",
+   "taught": "fus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gaaf",
+   "taught": "gɑf",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gaaffesejul",
+   "taught": "ˌgɑ fə sɛˈdʒul",
+   "also_accepted": [
+    "ˌgɑ fə sɛˈjul"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gaan",
+   "taught": "gɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gaar",
+   "taught": "gɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gahrot",
+   "taught": "ˈgɑ rot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gahvon",
+   "taught": "ˈgɑ von",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Galik",
+   "taught": "ˈgæl lik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Geh",
+   "taught": "gɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gein",
+   "taught": "gaɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Geinmaar",
+   "taught": "gaɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gogil",
+   "taught": "ˈgo gil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gol",
+   "taught": "gol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Golah",
+   "taught": "ˈgo lə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Golt",
+   "taught": "golt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Golz",
+   "taught": "golz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Goraan",
+   "taught": "goˈrɒn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Govey",
+   "taught": "go ˈveɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Graag",
+   "taught": "grɑg",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Graan",
+   "taught": "grɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grah",
+   "taught": "grɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grah-Zeymahzin",
+   "taught": "ˈgrɑ zeɪˌmɑ zin",
+   "also_accepted": [
+    "ˈgrɑ zeɪˌmɑzɪn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grahmindol",
+   "taught": "ˈgrɑ min dol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gram",
+   "taught": "græm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gravuun",
+   "taught": "ˈgræ vun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grik",
+   "taught": null,
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grind",
+   "taught": "grind",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gro",
+   "taught": "gro",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Grohiik",
+   "taught": "ˈgro hik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gron",
+   "taught": "gron",
+   "also_accepted": [
+    "grɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gruth",
+   "taught": "gruθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Gut",
+   "taught": "gut",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Haal",
+   "taught": "hɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Haalvut",
+   "taught": "ˈhɑl vut",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Haas",
+   "taught": "hɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hah",
+   "taught": "hɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hahdrim",
+   "taught": "ˈhɑ drim",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hahkun",
+   "taught": "ˈhɑ kun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hahnu",
+   "taught": "ˈhɑ nu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hahvulon",
+   "taught": "ˈhɑ vu lon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Heim",
+   "taught": "haɪm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Het",
+   "taught": "hɛt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hevno",
+   "taught": "hɛv no",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hevnoraak",
+   "taught": "ˈhɛv no rɑk",
+   "also_accepted": [
+    "hɛvˈnor æk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Heyv",
+   "taught": "heɪv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hi",
+   "taught": "hi",
+   "also_accepted": [
+    "haɪ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hillgrundhofkah",
+   "taught": "ˈhɪl grundˌhof kə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Him",
+   "taught": "him",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hin",
+   "taught": "hin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hind",
+   "taught": "hind",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hofkah",
+   "taught": "ˈhof kə",
+   "also_accepted": [
+    "hɔf kə"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hofkahsejun",
+   "taught": "ˌhof kə sɛˈdʒun",
+   "also_accepted": [
+    "ˌhof kə sɛˈjun"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hofkiin",
+   "taught": "ˈhof kə",
+   "also_accepted": [
+    "ˈhɔf kə"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hokoron",
+   "taught": "ˈho kor on",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hon",
+   "taught": "hon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Horvut",
+   "taught": "ˈhor vut",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Horvutah",
+   "taught": "horˈvu tə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hun",
+   "taught": "hun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Hungaar",
+   "taught": "ˈhun gɑr",
+   "also_accepted": [
+    "ˈhuŋ gɑr"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Huzrah",
+   "taught": "ˈhuz rə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Iiz",
+   "taught": "iz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "In",
+   "taught": "in",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Inhus",
+   "taught": "inˈhus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Jer",
+   "taught": "dʒɛr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Joor",
+   "taught": "dʒɔr",
+   "also_accepted": [
+    "dʒur"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Jot",
+   "taught": "dʒot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Jud",
+   "taught": "dʒud",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Jul",
+   "taught": "dʒul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Jun",
+   "taught": "dʒun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Junaar",
+   "taught": "ˈdʒu nɑr",
+   "also_accepted": [
+    "dʒuˈnɑr"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kaal",
+   "taught": "kɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kaan",
+   "taught": "kɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kaaz",
+   "taught": "kɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kah",
+   "taught": "kɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kein",
+   "taught": "kaɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Keizaal",
+   "taught": "kaɪˈzɑl",
+   "also_accepted": [
+    "kiˈzɑl"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kel",
+   "taught": "kɛl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kendov",
+   "taught": "ˈkɛn dov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kest",
+   "taught": "kɛst",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Key",
+   "taught": "keɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Keyn",
+   "taught": "keɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kiim",
+   "taught": "kim",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kiin",
+   "taught": "kin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kiir",
+   "taught": "kir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kinbok",
+   "taught": "ˈkin bok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kinzon",
+   "taught": "ˈkin zon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kip",
+   "taught": "kip",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kipraan",
+   "taught": "kiˈprɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Klo",
+   "taught": "klo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Klov",
+   "taught": "klov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ko",
+   "taught": "ko",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kod",
+   "taught": "kod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kodaav",
+   "taught": "koˈdɑv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kogaan",
+   "taught": "koˈgɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kol",
+   "taught": "kol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kolos",
+   "taught": "koˈlos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Komeyt",
+   "taught": "koˈmeɪt",
+   "also_accepted": [
+    "ˈko meɪt"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Konahrik",
+   "taught": "koˈnɑ rik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Koor",
+   "taught": "kɔr",
+   "also_accepted": [
+    "kur"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kopraan",
+   "taught": "koˈprɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Koraav",
+   "taught": "koˈrɑv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Korvanjund",
+   "taught": "ˈkor væn dʒund",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kos",
+   "taught": "kos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kosil",
+   "taught": "koˈsil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kotin",
+   "taught": "ˈko tin",
+   "also_accepted": [
+    "koˈtin"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krah",
+   "taught": "krɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kras",
+   "taught": "kræs",
+   "also_accepted": [
+    "krɑs"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krasaar",
+   "taught": "ˈkræ sɑr",
+   "also_accepted": [
+    "ˈkrɑ sɑr"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kreh",
+   "taught": "krɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krein",
+   "taught": "kraɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kren",
+   "taught": "krɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krent",
+   "taught": "krɛnt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriaan",
+   "taught": "kriˈɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriaan",
+   "taught": "kriˈɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krif",
+   "taught": "krif",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krii",
+   "taught": "kri",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriid",
+   "taught": "krid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriin",
+   "taught": "krin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriist",
+   "taught": "krist",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kriivah",
+   "taught": "ˈkri və",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kril",
+   "taught": "kril",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krilot",
+   "taught": "ˈkri lot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krin",
+   "taught": "krin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krivaan",
+   "taught": "ˈkri vɑn",
+   "also_accepted": [
+    "kriˈvɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kro",
+   "taught": "kro",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kron",
+   "taught": "kron",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krongrah",
+   "taught": "ˈkron grɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kroniid",
+   "taught": "ˈkron id",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krosis",
+   "taught": "ˈkro sɪs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kruziik",
+   "taught": "ˈkru zik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kul",
+   "taught": "kul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kul",
+   "taught": "kul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kulaan",
+   "taught": "ˈkul ɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kulaas",
+   "taught": "ˈkul ɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Kun",
+   "taught": "kun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Laan",
+   "taught": "lɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Laas",
+   "taught": "lɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Laat",
+   "taught": "lɑt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lah",
+   "taught": "lɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lahney",
+   "taught": "ˈlɑ neɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lahvraan",
+   "taught": "ləˈvrɑn",
+   "also_accepted": [
+    "ˈlɑ vrɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lahvu",
+   "taught": "ˈlɑ vu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Leh",
+   "taught": "lɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lein",
+   "taught": "laɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Liiv",
+   "taught": "liv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Liivrah",
+   "taught": "ˈliv rə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lingrah",
+   "taught": "ˈliŋ grɑ",
+   "also_accepted": [
+    "ˈlin grɑ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lir",
+   "taught": "lir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lo",
+   "taught": "lo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lok",
+   "taught": "lok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lon",
+   "taught": "lon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Loost",
+   "taught": "lust",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Los",
+   "taught": "los",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Losei",
+   "taught": "loˈsɑɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lost",
+   "taught": "lost",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lot",
+   "taught": "lot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lovaas",
+   "taught": "loˈvɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Luft",
+   "taught": "luft",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lumnaar",
+   "taught": "ˈlum nɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Lun",
+   "taught": "lun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Luv",
+   "taught": "luv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Maar",
+   "taught": "mɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mah",
+   "taught": "mɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mahfaeraak",
+   "taught": "məˈfeɪ rɑk",
+   "also_accepted": [
+    "ˈmɑ feɪ rɑk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mahlaan",
+   "taught": "məˈlɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mal",
+   "taught": "mæl",
+   "also_accepted": [
+    "mɑl"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Maltiid",
+   "taught": "ˈmæl tid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Med",
+   "taught": "mɛd",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mey",
+   "taught": "meɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Meyz",
+   "taught": "meɪz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mid",
+   "taught": "mid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Middovah",
+   "taught": "midˈdo və",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Midrot",
+   "taught": "ˈmid rot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Midun",
+   "taught": "ˈmi dun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Miin",
+   "taught": "min",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Miiraad",
+   "taught": "ˈmir ɑd",
+   "also_accepted": [
+    "mirˈɑd"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Miiraak",
+   "taught": "ˈmir ɑk",
+   "also_accepted": [
+    "mirˈɑk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mindin",
+   "taught": "ˈmin din",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mindok",
+   "taught": "ˈmin dok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mindol",
+   "taught": "ˈmin dol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mindoraan",
+   "taught": "ˈmin do rɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mir",
+   "taught": "mir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Miraad",
+   "taught": "mirˈɑd",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mon",
+   "taught": "mon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Monah",
+   "taught": "ˈmo nə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Monahven",
+   "taught": "moˈnɑ vɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Morah",
+   "taught": "ˈmo rə",
+   "also_accepted": [
+    "moˈrɑ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Moro",
+   "taught": "ˈmo ro",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Morokei",
+   "taught": "ˈmo ro kaɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Motaad",
+   "taught": "moˈtɑd",
+   "also_accepted": [
+    "ˈmo tɑd"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Motmah",
+   "taught": "ˈmot mə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Motmahus",
+   "taught": "motˈmɑ hus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mu",
+   "taught": "mu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mul",
+   "taught": "mul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mulaag",
+   "taught": "ˈmul ɑg",
+   "also_accepted": [
+    "mulˈɑg"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mulhaan",
+   "taught": "ˈmul hɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Mun",
+   "taught": "mun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Munax",
+   "taught": "ˈmun æks",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Muz",
+   "taught": "muz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Naak",
+   "taught": "nɑk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Naako",
+   "taught": "ˈnɑ ko",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Naal",
+   "taught": "nɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Naan",
+   "taught": "nɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Naar",
+   "taught": "nɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nah",
+   "taught": "nɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahgahdinok",
+   "taught": "ˌnɑ gəˈdi nok",
+   "also_accepted": [
+    "nəˈgɑ diˌnok"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahkip",
+   "taught": "ˈnɑ kip",
+   "also_accepted": [
+    "nəˈkip"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahkriin",
+   "taught": "ˈnɑ krin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahl",
+   "taught": "nɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahlaas",
+   "taught": "nəˈlɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nahlot",
+   "taught": "ˈnɑ lot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nau",
+   "taught": "naʊ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nax",
+   "taught": "næks",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Neh",
+   "taught": "nɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ney",
+   "taught": "neɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ni",
+   "taught": "ni",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nid",
+   "taught": "nid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nii",
+   "taught": "ni",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Niid",
+   "taught": "nid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Niin",
+   "taught": "nin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nikriin",
+   "taught": "ˈni krin",
+   "also_accepted": [
+    "niˈkrin"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nil",
+   "taught": "nil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nimaar",
+   "taught": "niˈmɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nin",
+   "taught": "nin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nir",
+   "taught": "nir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nis",
+   "taught": "nis",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nivahriin",
+   "taught": "ˈni və rin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nok",
+   "taught": "nok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nol",
+   "taught": "nol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nonvul",
+   "taught": "ˈnon vul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Norok",
+   "taught": "ˈnor ok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nos",
+   "taught": "nos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nu",
+   "taught": "nu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nunon",
+   "taught": "nuˈnon",
+   "also_accepted": [
+    "ˈnu non"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nus",
+   "taught": "nus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nust",
+   "taught": "nust",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Nuz",
+   "taught": "nuz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Oblaan",
+   "taught": "oˈblɑn",
+   "also_accepted": [
+    "ˈo blɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Oblivion",
+   "taught": "oˈblɪv i on",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Od",
+   "taught": "od",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Odus",
+   "taught": "ˈo dus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ofaal",
+   "taught": "oˈfɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ofan",
+   "taught": "oˈfæn",
+   "also_accepted": [
+    "oˈfɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ogiim",
+   "taught": "ˈo gim",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ok",
+   "taught": "ok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Okaaz",
+   "taught": "oˈkɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ol",
+   "taught": "ol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Om",
+   "taught": "om",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ond",
+   "taught": "ond",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Onik",
+   "taught": "ˈo nik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Onikaan",
+   "taught": "ˈo ni kɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Onikiv",
+   "taught": "ˈo ni kiv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ont",
+   "taught": "ont",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Orin",
+   "taught": "ˈor in",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Osos",
+   "taught": "ˈo sos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Oth",
+   "taught": "oθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ov",
+   "taught": "ov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ozinvey",
+   "taught": "ˈo zin veɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Paak",
+   "taught": "pɑk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Paal",
+   "taught": "pɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Paar",
+   "taught": "pɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Paaz",
+   "taught": "pɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pah",
+   "taught": "pɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pahlok",
+   "taught": "pɑ lok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pel",
+   "taught": "pɛl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Peyt",
+   "taught": "peɪt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pindaar",
+   "taught": "ˈpin dər",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Piraak",
+   "taught": "pirˈɑk",
+   "also_accepted": [
+    "ˈpir ək"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pogaan",
+   "taught": "ˈpo gɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pogaas",
+   "taught": "ˈpo gɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pook",
+   "taught": "puk",
+   "also_accepted": [
+    "pɔk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Praal",
+   "taught": "prɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Praan",
+   "taught": "prɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Prodah",
+   "taught": "ˈpro də",
+   "also_accepted": [
+    "proˈdɑ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pruzaan",
+   "taught": "ˈpru zən",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Pruzah",
+   "taught": "ˈpru zə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qah",
+   "taught": "ˈkwɑ",
+   "also_accepted": [
+    "kɑ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qahnaar",
+   "taught": "kwəˈnɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qahnaarin",
+   "taught": "kwəˈnɑr in",
+   "also_accepted": [
+    "kwəˈnɑr ɪn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qalos",
+   "taught": "kwəˈlos",
+   "also_accepted": [
+    "ˈkwæ los",
+    "ˈkwɑ los"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qeth",
+   "taught": "kwɛθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qethsegol",
+   "taught": "ˈkwɛθ sɛ gol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qiilaan",
+   "taught": "kwiˈlɑn",
+   "also_accepted": [
+    "ˈkwi lən"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qo",
+   "taught": "kwo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qolaas",
+   "taught": "kwoˈlɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qostiid",
+   "taught": "kwosˈtid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Qoth",
+   "taught": "kwoθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Quethsegol Ahrol",
+   "taught": "ˈkwɛθ sɛ gol əˌrol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Raan",
+   "taught": "rɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rah",
+   "taught": "rɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rahgol",
+   "taught": "ˈrɑ gol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rahgot",
+   "taught": "ˈrɑ got",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rahgron",
+   "taught": "ˈrɑ gron",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rath",
+   "taught": "ræθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rein",
+   "taught": "raɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rek",
+   "taught": "rɛk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rel",
+   "taught": "rɛl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Revak",
+   "taught": "ˈrɛv æk",
+   "also_accepted": [
+    "ˈrɛv ɑk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Reyliik",
+   "taught": "ˈreɪ lik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Reyth",
+   "taught": "reɪθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rii",
+   "taught": "ri",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Riik",
+   "taught": "rik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rinik",
+   "taught": "ˈri nik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ro",
+   "taught": "ro",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rok",
+   "taught": "rok",
+   "also_accepted": [
+    "rɑk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rok",
+   "taught": "rok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ronaan",
+   "taught": "roˈnɑn",
+   "also_accepted": [
+    "ˈro nɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ronaaz",
+   "taught": "roˈnɑz",
+   "also_accepted": [
+    "ˈro nəz"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ronax",
+   "taught": "ˈron æks",
+   "also_accepted": [
+    "roˈnæks"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ronit",
+   "taught": "ˈron it",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rorikhofkah",
+   "taught": "ˈro rikˌhof kə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rot",
+   "taught": "rot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rotmulaag",
+   "taught": "ˈrot mul ɑg",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rovaan",
+   "taught": "roˈvɑn",
+   "also_accepted": [
+    "ˈro vən"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ru",
+   "taught": "ru",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Rul",
+   "taught": "rul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ruth",
+   "taught": "ruθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ruvaak",
+   "taught": "ˈru vək",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ruz",
+   "taught": "ruz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Saan",
+   "taught": "sɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sadon",
+   "taught": "’sæ don",
+   "also_accepted": [
+    "‘sɑ don"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sadonvum",
+   "taught": "’sæ don vum",
+   "also_accepted": [
+    "‘sɑ donvum"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sah",
+   "taught": "sɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahlo",
+   "taught": "ˈsɑ lo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahqo",
+   "taught": "ˈsɑ kwo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahqon",
+   "taught": "ˈsɑ kwon",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahrot",
+   "taught": "ˈsɑ rot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahsun",
+   "taught": "ˈsɑ sun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahsunaar",
+   "taught": "ˈsɑ sun ɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sahvot",
+   "taught": "ˈsɑ vot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Saraan",
+   "taught": "səˈrɑn",
+   "also_accepted": [
+    "sɑrˈən"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Saviik",
+   "taught": "ˈsɑ vik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Se",
+   "taught": "sɛ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Shaan",
+   "taught": "ʃɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Shul",
+   "taught": "ʃul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Siigonis",
+   "taught": "ˈsi go nis",
+   "also_accepted": [
+    "siˈgon is"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Siiv",
+   "taught": "siv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sik",
+   "taught": "sik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sil",
+   "taught": "sil",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sillesejoor",
+   "taught": "ˌsil le sɛˈdʒɔr",
+   "also_accepted": [
+    "sil ɛˈsjur"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sinak",
+   "taught": "ˈsi næk",
+   "also_accepted": [
+    "ˈsi nɑk"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sindugahvon",
+   "taught": "ˌsin duˈgɑ von",
+   "also_accepted": [
+    "sinˈdu gəvon"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sinon",
+   "taught": "siˈnon",
+   "also_accepted": [
+    "ˈsi non"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sivaas",
+   "taught": "siˈvɑs",
+   "also_accepted": [
+    "ˈsi vəs"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sizaan",
+   "taught": "siˈzɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Slen",
+   "taught": "slɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Smoliin",
+   "taught": "ˈsmo liin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "So",
+   "taught": "so",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sod",
+   "taught": "sod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sonaak",
+   "taught": "soˈnɑk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sonaan",
+   "taught": "soˈnɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sos",
+   "taught": "sos",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sosaal",
+   "taught": "soˈzɑl",
+   "also_accepted": [
+    "ˈsos ɑl"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sossedov",
+   "taught": "sos sɛˈdov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sot",
+   "taught": "sot",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sov",
+   "taught": "sov",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sovngarde",
+   "taught": "ˈsɑ vɪn gɑrd",
+   "also_accepted": [
+    "ˈso vɪn gɑrd"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sovrahzun",
+   "taught": "ˈsov rə zun",
+   "also_accepted": [
+    "sovˈrɑ zun"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Spaan",
+   "taught": "spɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Staadnau",
+   "taught": "stədˈnaʊ",
+   "also_accepted": [
+    "ˈstad naʊ"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Stin",
+   "taught": "stin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Strun",
+   "taught": "strun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Strundu'ul",
+   "taught": "strun ˈdul",
+   "also_accepted": [
+    "strun ˈdu ʌl",
+    "ˈstrunduˌul"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Strunmah",
+   "taught": "ˈstrun mə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Su",
+   "taught": "su",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Su'um",
+   "taught": "sum",
+   "also_accepted": [
+    "ˈsu ʌm",
+    "suˈum"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sul",
+   "taught": "sul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Suleyk",
+   "taught": "ˈsu leɪk",
+   "also_accepted": [
+    "suˈlik"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Suleykaar",
+   "taught": "ˈsu leɪ kɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Suleyksejun",
+   "taught": "ˌsu leɪk sɛˈdʒun",
+   "also_accepted": [
+    "ˌsu leɪksɛˈjun"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Sunvaar",
+   "taught": "ˈsun vɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Suvulaan",
+   "taught": "ˈsu vu lɑn",
+   "also_accepted": [
+    "suˈvu lɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Taazokaan",
+   "taught": "ˈtɑ zo kɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tafiir",
+   "taught": "ˈtɑ fir",
+   "also_accepted": [
+    "tɑˈfir"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tah",
+   "taught": "tɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tahrodiis",
+   "taught": "tə ˈro dis",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tahrovin",
+   "taught": "tə ˈro vin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tey",
+   "taught": "teɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Thaarn",
+   "taught": "θɑrn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Thu'um",
+   "taught": "θum",
+   "also_accepted": [
+    "ˈθu ʌm",
+    "θuˈum"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Thur",
+   "taught": "θur",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tiid",
+   "taught": "tid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tiid-Ahraan",
+   "taught": "ˌtid ə ˈrɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tiiraaz",
+   "taught": "tirˈɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Til",
+   "taught": "til",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tinvaak",
+   "taught": "ˈtin vɑk",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Togaat",
+   "taught": "toˈgɑt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tol",
+   "taught": "tol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Toor",
+   "taught": "tɔr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tovit",
+   "taught": "ˈto vit",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tovitaan",
+   "taught": "ˈto vi tɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tu",
+   "taught": "tu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tu'um",
+   "taught": "tum",
+   "also_accepted": [
+    "ˈtu ʌm",
+    "tuˈum"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tum",
+   "taught": "tum",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Tuz",
+   "taught": "tuz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ufiik",
+   "taught": "ˈu fik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ul",
+   "taught": "ul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ulse",
+   "taught": "ˈul sə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Un",
+   "taught": "un",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Unahzaal",
+   "taught": "ˈun ə zɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Unslaad",
+   "taught": "ˈun slɑd",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Unt",
+   "taught": "unt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Us",
+   "taught": "us",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Uth",
+   "taught": "uθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Uv",
+   "taught": "uv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Uznahgaar",
+   "taught": "ˈuz ne gɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vaal",
+   "taught": "vɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vaat",
+   "taught": "vɑt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vaaz",
+   "taught": "vɑz",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vah",
+   "taught": "vɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahdin",
+   "taught": "ˈvɑ din",
+   "also_accepted": [
+    "vəˈdin"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahlok",
+   "taught": "ˈvɑ lok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahriin",
+   "taught": "vəˈrin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahrukiv",
+   "taught": "vəˈruk iv",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahrukt",
+   "taught": "vəˈrukt",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahzah",
+   "taught": "ˈvɑ zə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vahzen",
+   "taught": "ˈvɑ zɛn",
+   "also_accepted": [
+    "vəˈzɛn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ved",
+   "taught": "vɛd",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Ven",
+   "taught": "vɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vennesetiid",
+   "taught": "ˌvɛn nə sɛˈtid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vey",
+   "taught": "veɪ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Veydo",
+   "taught": "ˈveɪ do",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Veysun",
+   "taught": "ˈveɪ sun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viidost",
+   "taught": "ˈvi dost",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viik",
+   "taught": "vik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viin",
+   "taught": "vin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viing",
+   "taught": "viŋ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viintaas",
+   "taught": "ˈvin tɑs",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Viir",
+   "taught": "vir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vith",
+   "taught": "viθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vo",
+   "taught": "vo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vo-",
+   "taught": "vo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vobalaan",
+   "taught": "voˈbæl ɑn",
+   "also_accepted": [
+    "voˈbɑl ɑn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vod",
+   "taught": "vod",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vodahmin",
+   "taught": "voˈdɑ min",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vokiin",
+   "taught": "ˈvo kin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vokrii",
+   "taught": "voˈkri",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vokul",
+   "taught": "ˈvo kul",
+   "also_accepted": [
+    "voˈkul"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vokun",
+   "taught": "ˈvo kun",
+   "also_accepted": [
+    "voˈkun"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vol",
+   "taught": "vol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Volaan",
+   "taught": "voˈlɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Volunruud",
+   "taught": "ˈvo lun rud",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vomindok",
+   "taught": "ˈvo min dok",
+   "also_accepted": [
+    "voˈmin dok"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vomir",
+   "taught": "voˈmir",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vonmindoraan",
+   "taught": "vonˈmin doˌrɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vonun",
+   "taught": "ˈvo nun",
+   "also_accepted": [
+    "voˈnun"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vonuz",
+   "taught": "ˈvo nuz",
+   "also_accepted": [
+    "voˈnuz"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vosaraan",
+   "taught": "voˈsə rɑn",
+   "also_accepted": [
+    "vo’sɑr ən"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Voth",
+   "taught": "voθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vothaarn",
+   "taught": "voˈθɑrn",
+   "also_accepted": [
+    "ˈvo θɑrn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vu",
+   "taught": "vu",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vukein",
+   "taught": "vuˈkaɪn",
+   "also_accepted": [
+    "ˈvu kaɪn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vul",
+   "taught": "vul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vulom",
+   "taught": "ˈvul om",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vulon",
+   "taught": "ˈvul on",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vum",
+   "taught": "vum",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vur",
+   "taught": "vur",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Vus",
+   "taught": "vus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wah",
+   "taught": "wɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wahl",
+   "taught": "wɑl",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wahlaan",
+   "taught": "wəˈlɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wahlaan",
+   "taught": "wəˈlɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wen",
+   "taught": "wɛn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Werid",
+   "taught": "ˈwɛr id",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Win",
+   "taught": "win",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wo",
+   "taught": "wo",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wol",
+   "taught": "wol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wuld",
+   "taught": "wuld",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wuldsetiid",
+   "taught": "wuld sɛˈtid",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wundun",
+   "taught": "ˈwun dun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wunduniik",
+   "taught": "ˈwun dun ik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Wuth",
+   "taught": "wuθ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Yah",
+   "taught": "jɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Yol",
+   "taught": "jol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Yolos",
+   "taught": "ˈjol os",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Yoriik",
+   "taught": "ˈjo rik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Yuvon",
+   "taught": "ˈju von",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zaam",
+   "taught": "zɑm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zaamhus",
+   "taught": "ˈzɑm hus",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zaan",
+   "taught": "zɑn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zah",
+   "taught": "zɑ",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zahkrii",
+   "taught": "ˈzɑ kri",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zahrahmiik",
+   "taught": "ˈzɑ rə mik",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zeim",
+   "taught": "zaɪm",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zein",
+   "taught": "zaɪn",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zeymah",
+   "taught": "ˈzeɪ mə",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zeymahzin",
+   "taught": "zeɪˈmɑ zin",
+   "also_accepted": [
+    "zeɪˈmɑ zɪn"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zii",
+   "taught": "zi",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zin",
+   "taught": "zin",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zind",
+   "taught": "zind",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zofaas",
+   "taught": "zoˈfɑs",
+   "also_accepted": [
+    "ˈzo fɑs"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zohungaar",
+   "taught": "zoˈhun gɑr",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zok",
+   "taught": "zok",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zol",
+   "taught": "zol",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zoor",
+   "taught": "zɔr",
+   "also_accepted": [
+    "zur"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zorox",
+   "taught": "zoˈroks",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zu'u",
+   "taught": "zu",
+   "also_accepted": [
+    "zuˈu"
+   ],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zul",
+   "taught": "zul",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Zun",
+   "taught": "zun",
+   "also_accepted": [],
+   "heard_in_game": []
+  },
+  {
+   "word": "Krasnovaar",
+   "taught": null,
+   "also_accepted": [],
+   "heard_in_game": []
+  }
+ ]
+}

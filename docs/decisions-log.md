@@ -15,8 +15,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 5 | Spelling conflicts | Accepted 2026-11-17 |
 | 6 | Meanings: official definitions in place of wiki readings | Accepted 2026-11-17, with an addition |
 | 7 | Word types | Accepted 2026-11-17, flexibility chosen |
-| 8 | Pronunciation convention | Put to the owner 2026-11-17 |
-| 9 | The apostrophe and the UU rune | Queued |
+| 8 | Pronunciation convention | Accepted 2026-11-17, with a condition |
+| 9 | The apostrophe and the UU rune | Put to the owner 2026-11-17 |
 | 10 | Pronouns | Queued |
 | 11 | Possessive endings | Queued |
 | 12 | Verb forms | Queued |
@@ -133,6 +133,28 @@ The seven words: Bel "summon", Mindol "thought", Mindok "think", Mindoraan "unde
 
 **Consequence noted.** The more roles a word may take, the fewer mistakes a sentence checker can catch, since more word sequences count as correct.
 
+## 8. Pronunciation
+
+**Ruling, accepted 2026-11-17 ("tap"), with a condition from the owner.**
+
+1. The Fifth Edition's per-word pronunciations are this project's reading convention, credited to Thuum.org.
+2. Where its table and its entries disagree, the entries are followed: e as in "bed", ei as in "eye", q as "kw", u'u as one long "oo" or two syllables with no catch.
+3. Where an entry lists several pronunciations, the first is taught and the rest are accepted.
+4. Stress is taught as marked in the entries and described as a tendency.
+5. It is labelled everywhere as a convention, not official.
+6. For new words the pronunciation is worked out from the spelling by rule.
+
+**The owner's condition.** "The assumption here is that at some point people will go and listen to the game." So the convention stays open to that evidence. What is heard in the game is recorded per word, with the speaker and the line. A form heard in the game is accepted. Where the game consistently contradicts the taught form, the taught form changes in a numbered release. The listening pass is no longer needed before lessons are written.
+
+**Applied.** `research/data/pronunciation.json`, built by `tools/analysis/pronunciation_rule.py`: the taught and accepted pronunciations of 644 entries, an empty `heard_in_game` list on each for listening reports, and the rule for new words.
+
+**How well the rule for new words works**, by five-fold cross-validation over the 644 entries (learned from four fifths, tried on the rest):
+
+- Every sound right when the stress is known: 92 percent.
+- Every sound right with stress put on the first syllable: 89 percent; 90 percent counting any pronunciation the entry lists.
+- Stress cannot be worked out from spelling. Of 305 words of two or more syllables, the first syllable is stressed in 63 percent (71 percent counting any listed pronunciation); no simple rule tried does more than three points better, and 54 words list more than one stress position. The dictionary ties stress to a word's root. In the forge the coiner declares a new word's parts, so stress goes on the root; for a new root the default is the first syllable.
+- The commonest misses are unstressed a (full or weak), oo (two values in the dictionary: koor, toor, joor against pook, folook, loost), and a few words where the dictionary gives a an "ah" quality.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -158,7 +180,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **8. Pronunciation.** A table of 34 runes with typical values, and a pronunciation on 644 entries. The dictionary calls them recommended, says most words have no recording and that voice actors vary greatly. The table and the entries disagree on e, ei, q and u'u. Entries also use th, sh, ng and a reduced vowel that the table lacks. Stress is given as a tendency: root stressed, endings not.
 
-**9. Apostrophe.** The table gives one rune for "uu or u'u". The dictionary's own headings spell those words with two U runes and an apostrophe. Game inscriptions use the single rune and no apostrophe.
+**9. Apostrophe.** Six words have u'u: zu'u, thu'um, su'um, du'ul, tu'um, strundu'ul. The dictionary's table gives one rune for "uu or u'u" and lists no apostrophe among the 34 runes, yet its own headings spell those words with two U runes and an apostrophe. In the game, text in Latin letters (dialogue, the song book) writes the apostrophe. The one rune inscription of such a word, the Throw Voice word wall, writes thu'um with the single UU rune, the same rune used in gravuun, sigruuf and volunruud. No rune text has an apostrophe. A banner is transcribed THUUM TUUM, but the record does not show which runes it uses.
 
 **10. Pronouns.** The Fifth Edition's entry for dovah (dragon) carries the official remark that it also means "me" when a dragon speaks. The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
 

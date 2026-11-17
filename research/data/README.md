@@ -382,3 +382,7 @@ The meaning of record for each wiki dictionary entry under the ruling recorded a
 ## word-types.json
 
 The project's word types under the ruling recorded as proposal 7 in `docs/decisions-log.md`: for each Fifth Edition entry, its class, whether it can also serve as a noun, the roles the dictionary lists for it, and the roles the project allows (by the owner's ruling, every role the system permits). The classification is Thuum.org's, used with credit for non-commercial purposes. Twenty-one words the dictionary does not cover are listed as having no type yet. Built by `tools/reconcile/build_word_types.py`.
+
+## pronunciation.json
+
+The project's reading convention under the ruling recorded as proposal 8 in `docs/decisions-log.md`: for each Fifth Edition entry the pronunciation taught, the others accepted, and an empty `heard_in_game` list for listening reports; and `rule_for_new_words`, a table giving each spelling unit the sound the dictionary most often gives it in stressed and unstressed syllables, with a cross-validated measure of how often the rule reproduces the dictionary's own pronunciations and the result of the stress rules tried. The pronunciations are Thuum.org's, used with credit for non-commercial purposes; the dictionary calls them recommended, not official. Built by `tools/analysis/pronunciation_rule.py`.
