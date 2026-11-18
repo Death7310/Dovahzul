@@ -1,0 +1,38 @@
+{
+ "meta": {
+  "what": "Words coined for this project and ratified by the owner. Each is new: it occurs in no game text and no official source.",
+  "label": "Every word here is shown in the app as invented, never as the games' own.",
+  "source": "docs/decisions-log.md records each coinage with the owner's words."
+ },
+ "words": [
+  {
+   "word": "niist",
+   "meaning": "their",
+   "class": "pronoun",
+   "use": "a separate possessive word before the noun, like ok (his) and ek (her)",
+   "built_from": [
+    "nii (it)",
+    "-st, as in nust (they)"
+   ],
+   "coined_by": "the project owner",
+   "coined": "2026-11-18",
+   "status": "ratified, founding batch",
+   "proposal": 11,
+   "owner_reasoning": "A combination: nii, and then the st from nust, so that it stands with nii, nust and niin.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [],
+    "sound_pattern": "begins with n and ends in -st after ii, as kriist does; all attested",
+    "note": "The pattern behind ok and ek (the pronoun without its first sound) would have given ust. The owner chose niist."
+   },
+   "said": "nist (\"neest\"), one syllable, by the rule for new words",
+   "in_runes": [
+    "N",
+    "II",
+    "S",
+    "T"
+   ]
+  }
+ ]
+}

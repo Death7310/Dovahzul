@@ -390,3 +390,7 @@ The project's reading convention under the ruling recorded as proposal 8 in `doc
 ## grammar-rulings.json
 
 The owner's rulings on the open areas of grammar listed in `grammar-gaps.json`, one entry per area, each with its rules, the forms it covers, how often each use occurs in game text, which uses are the project's convention, and its status (provisional until one release in use). `docs/decisions-log.md` holds the owner's words and the evidence.
+
+## forge-words.json
+
+Words coined for this project and ratified by the owner. Each entry gives the word, its meaning and class, what it was built from, who coined it and when, the checks it passed (not an existing word, not in any game text, nothing one letter away, an attested sound pattern), how it is said and how it is written in runes. Everything here is invented and is labelled so in the app.

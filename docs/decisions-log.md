@@ -18,7 +18,7 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 8 | Pronunciation convention | Accepted 2026-11-17, with a condition |
 | 9 | The apostrophe and the UU rune | Ruled by the owner 2026-11-18, differently from the recommendation |
 | 10 | Pronouns | Accepted 2026-11-18; 'its' and 'their' carried into 11 |
-| 11 | Possession | Put to the owner 2026-11-18 |
+| 11 | Possession | Put to the owner 2026-11-18; "their" settled, the rest pending |
 | 12 | Verb forms | Queued |
 | 13 | Articles, plurals and adjectives | Queued |
 | 14 | A guard against English-centred gap-filling | Queued |
@@ -190,6 +190,14 @@ So:
 On the seventh point the owner did not leave "its" and "their" as gaps. The owner proposed coining **niist** for "their", by analogy with nust and niin, if no such word exists, and asked whether there is a rule for possession. Both are carried into proposal 11. Checked: niist is not an existing word, occurs in no text, has no word one letter away, and its shape is attested (kriist, nust).
 
 **Applied.** `research/data/grammar-rulings.json`, the first entry of the project's grammar rulings, marked provisional, with each form's counts as subject and object in game text and a note of which uses are the project's convention.
+
+## 11. Possession (in progress)
+
+**Settled 2026-11-18: the word for "their" is niist.** The owner weighed ust, which follows the pattern of ok and ek, and chose niist: "I basically made a combination, where it's ni, and then the st from nust. So we're gonna go with NIIST." It is the first word coined for the project, recorded in `research/data/forge-words.json` as ratified in the founding batch. It is said "neest", in one syllable.
+
+**Answered for the owner.** The doubled i is one long "ee" sound with its own single rune. None of the 80 words that contain it has a break inside it, so by the ruling on proposal 9 it takes no apostrophe. Zaamiil is two syllables: zaa-miil.
+
+**Still pending:** that both the separate word and the ending are standard; the endings by person (-i, -iil, -ii, -u); "its" as the ending -ii; hin as the standard "your"; the ending merging after ii; do and se for "of".
 
 ## Evidence notes for the queued proposals
 
