@@ -17,8 +17,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 7 | Word types | Accepted 2026-11-17, flexibility chosen |
 | 8 | Pronunciation convention | Accepted 2026-11-17, with a condition |
 | 9 | The apostrophe and the UU rune | Ruled by the owner 2026-11-18, differently from the recommendation |
-| 10 | Pronouns | Put to the owner 2026-11-18 |
-| 11 | Possessive endings | Queued |
+| 10 | Pronouns | Accepted 2026-11-18; 'its' and 'their' carried into 11 |
+| 11 | Possession | Put to the owner 2026-11-18 |
 | 12 | Verb forms | Queued |
 | 13 | Articles, plurals and adjectives | Queued |
 | 14 | A guard against English-centred gap-filling | Queued |
@@ -176,6 +176,21 @@ So:
 
 **Applied.** `research/data/spelling.json` (section `apostrophe`) and `research/data/pronunciation.json` (the six words, and the rule for new words).
 
+## 10. Pronouns
+
+**Ruling, 2026-11-18.** The owner went through the proposal point by point and accepted each:
+
+1. One form serves as both subject and object: zu'u is "I" and "me"; likewise mu, hi, rok, rek, nii.
+2. Nust is "they" and niin is "them".
+3. Hi is "you" for one person or many, "in the same way" as English.
+4. An object pronoun may be left out where the meaning is clear.
+5. Reflexives use the plain pronoun. Nimaar is kept for "itself".
+6. Dovah for "me" is for role play. The owner: "It doesn't mean yourself. You're not a dragon, you're a person."
+
+On the seventh point the owner did not leave "its" and "their" as gaps. The owner proposed coining **niist** for "their", by analogy with nust and niin, if no such word exists, and asked whether there is a rule for possession. Both are carried into proposal 11. Checked: niist is not an existing word, occurs in no text, has no word one letter away, and its shape is attested (kriist, nust).
+
+**Applied.** `research/data/grammar-rulings.json`, the first entry of the project's grammar rulings, marked provisional, with each form's counts as subject and object in game text and a note of which uses are the project's convention.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -205,7 +220,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **10. Pronouns.** Official definitions exist for: zu'u I; mu we; hi you; rok he; rek she; nii it; nust they or those; niin them; nimaar itself; dii mine or my; un our ("not commonly used"); hin your (formal); him your; ok his; ek her. The Fifth Edition's own notes say hi is "only observed" as an object and that niin is the only pronoun with a separate object form, which contradicts its summary table. Its entry for dovah (dragon) carries the official remark that it also means "me" when a dragon speaks. The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
 
-**11. Possessive endings.** -i "my" 20 tokens, no counter-example; -ii "his" or "her" 15 tokens, "its" unattested; -iil "your" one token; -u "our" five tokens, one glossed differently by the wiki.
+**11. Possession.** Separate words: dii my or mine (9), hin your (21; official definition "your (formal)"), him your (1), ok his (25), ek her (4; official remark "used equally with the ii form of the possessive"), un our (1; "not commonly used"). Endings on the noun: -i "my" 20 tokens, no counter-example (thuri); -ii "his" or "her" 15 tokens (bormahii, ahmulii), "its" unattested; -iil "your" one token (zaamiil), and ziil "your soul" shows the ending merging after ii; -u "our" five tokens (thu'umu, bormahu), one glossed differently by the wiki. A pattern inside the separate words: his and her are the pronoun without its first sound (rok, ok; rek, ek). Applied to nust it gives ust, which is one letter from nust, us (before) and unt (try); applied to nii it gives ii, the same as the ending. Between two nouns: do is the general "of" (82 tokens; official remark "often unused in sentence formation"), se joins compounds and its official definition says it "should be used when new words are formed".
 
 **12. Verbs.** fen plus verb (future) and drey plus verb (past) are well attested. The perfect is made three ways: -aan, lost plus verb, and both together. The -a or -ha infinitive rests on two tokens that do not show the same construction; the four example forms in the summary are unattested.
 

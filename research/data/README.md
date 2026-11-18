@@ -386,3 +386,7 @@ The project's word types under the ruling recorded as proposal 7 in `docs/decisi
 ## pronunciation.json
 
 The project's reading convention under the ruling recorded as proposal 8 in `docs/decisions-log.md`: for each Fifth Edition entry the pronunciation taught, the others accepted, and an empty `heard_in_game` list for listening reports; and `rule_for_new_words`, a table giving each spelling unit the sound the dictionary most often gives it in stressed and unstressed syllables, with a cross-validated measure of how often the rule reproduces the dictionary's own pronunciations and the result of the stress rules tried. The pronunciations are Thuum.org's, used with credit for non-commercial purposes; the dictionary calls them recommended, not official. Built by `tools/analysis/pronunciation_rule.py`.
+
+## grammar-rulings.json
+
+The owner's rulings on the open areas of grammar listed in `grammar-gaps.json`, one entry per area, each with its rules, the forms it covers, how often each use occurs in game text, which uses are the project's convention, and its status (provisional until one release in use). `docs/decisions-log.md` holds the owner's words and the evidence.

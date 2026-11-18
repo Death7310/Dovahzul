@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "what": "Grammar rulings made by the project owner, one per open area of research/data/grammar-gaps.json. Each starts provisional and is frozen after one release in use.",
+  "source": "docs/decisions-log.md records each ruling with the owner's words and the evidence."
+ },
+ "rulings": [
+  {
+   "id": "G06-pronouns",
+   "area": "G06 Pronouns: personal paradigm",
+   "decided": "2026-11-18",
+   "status": "provisional",
+   "proposal": 10,
+   "rules": [
+    "One form serves as both subject and object for I, we, you, he, she and it.",
+    "Nust is 'they' and niin is 'them'.",
+    "Hi is 'you' for one person or many.",
+    "An object pronoun may be left out where the meaning is clear.",
+    "Reflexives use the plain pronoun. Nimaar is kept for 'itself' as emphasis.",
+    "Dovah for 'me' is a style for dragon speakers in role play. It is not the standard pronoun: a learner is a person, not a dragon."
+   ],
+   "forms": [
+    {
+     "person": "I / me",
+     "form": "zu'u",
+     "as_subject_in_game_text": 23,
+     "as_object_in_game_text": 0,
+     "object_use_is": "project convention"
+    },
+    {
+     "person": "we / us",
+     "form": "mu",
+     "as_subject_in_game_text": 10,
+     "as_object_in_game_text": 0,
+     "object_use_is": "project convention"
+    },
+    {
+     "person": "you (one or many)",
+     "form": "hi",
+     "as_subject_in_game_text": 1,
+     "as_object_in_game_text": 4,
+     "note": "the one subject use is in a later game; said 'hee'"
+    },
+    {
+     "person": "he / him",
+     "form": "rok",
+     "as_subject_in_game_text": 12,
+     "as_object_in_game_text": 0,
+     "object_use_is": "project convention"
+    },
+    {
+     "person": "she / her",
+     "form": "rek",
+     "as_subject_in_game_text": 7,
+     "as_object_in_game_text": 0,
+     "object_use_is": "project convention"
+    },
+    {
+     "person": "it",
+     "form": "nii",
+     "as_subject_in_game_text": 2,
+     "as_object_in_game_text": 1
+    },
+    {
+     "person": "they",
+     "form": "nust",
+     "as_subject_in_game_text": 5,
+     "as_object_in_game_text": 0
+    },
+    {
+     "person": "them",
+     "form": "niin",
+     "as_subject_in_game_text": 0,
+     "as_object_in_game_text": 1
+    },
+    {
+     "person": "itself (emphatic)",
+     "form": "nimaar",
+     "occurs_in_game_text": 1
+    }
+   ],
+   "basis": "The summary table of the Thuum.org Fifth Edition, tested against the game texts. Counts are tokens in the game texts with duplicate records left out.",
+   "carried_forward": "Words for 'its' and 'their' are settled with possession (proposal 11). The owner proposed coining niist for 'their'."
+  }
+ ]
+}
