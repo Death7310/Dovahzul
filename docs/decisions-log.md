@@ -19,7 +19,7 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 9 | The apostrophe and the UU rune | Ruled by the owner 2026-11-18, differently from the recommendation |
 | 10 | Pronouns | Accepted 2026-11-18; 'its' and 'their' carried into 11 |
 | 11 | Possession | Put to the owner 2026-11-18; "their" settled, the rest pending |
-| 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Put to the owner 2026-11-18 |
+| 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Question order ruled 2026-11-18: all three of the game's ways are correct. The five new question words are pending |
 | 12 | Verb forms | Queued |
 | 13 | Articles, plurals and adjectives | Queued |
 | 14 | A guard against English-centred gap-filling | Queued |
@@ -199,6 +199,12 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 **Answered for the owner.** The doubled i is one long "ee" sound with its own single rune. None of the 80 words that contain it has a break inside it, so by the ruling on proposal 9 it takes no apostrophe. Zaamiil is two syllables: zaa-miil.
 
 **Still pending:** that both the separate word and the ending are standard; the endings by person (-i, -iil, -ii, -u); "its" as the ending -ii; hin as the standard "your"; the ending merging after ii; do and se for "of".
+
+## 11b. Questions (in progress)
+
+**Ruled 2026-11-18: how a question is formed.** The owner: "all three methods." A question may be formed in any of the three ways the game shows, and all are correct: a question word first; the verb moved in front of the subject; or a statement said with a questioning tone. Recorded in `research/data/grammar-rulings.json`.
+
+**Still pending:** the five candidate question words (waar what, wil where, wuz when, wul why, wed how).
 
 ## Evidence notes for the queued proposals
 

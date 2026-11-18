@@ -80,6 +80,22 @@
    ],
    "basis": "The summary table of the Thuum.org Fifth Edition, tested against the game texts. Counts are tokens in the game texts with duplicate records left out.",
    "carried_forward": "Words for 'its' and 'their' are settled with possession (proposal 11). The owner proposed coining niist for 'their'."
+  },
+  {
+   "id": "G11-question-order",
+   "area": "G11 Questions: how a question is formed",
+   "decided": "2026-11-18",
+   "status": "provisional",
+   "proposal": "11b",
+   "rules": [
+    "A question may be formed in any of the three ways the game shows. All three are correct.",
+    "1. A question word comes first: Wo meyz wah dii vul junaar? (Who comes to my dark kingdom?)",
+    "2. The verb moves in front of the subject: Boaan tiid ...? (Has the time come ...?), beside the statement Tiid boaan. (The time has come.)",
+    "3. A statement is said with a questioning tone: Ful, losei Dovahkiin? (So, you're the Dragonborn?)"
+   ],
+   "basis": "The five questions in the game's dragon-language text. Each of the three patterns is attested once.",
+   "owner_words": "all three methods",
+   "carried_forward": "The words for what, where, when, why and how are a separate ruling. The game has none."
   }
  ]
 }
