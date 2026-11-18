@@ -9,6 +9,7 @@
    "Stress is taught as marked and described as a tendency.",
    "It is labelled everywhere as a convention, not official.",
    "For new words the pronunciation is worked out from the spelling by the rule below.",
+   "Owner's ruling on proposal 9: the apostrophe between two u's writes a break (a glottal stop). A word spelt with it is taught with the break; uu without it is one long u.",
    "Owner's condition: people will at some point listen to the game. The convention stays open to that evidence. What is heard in the game is recorded per word under heard_in_game, with the speaker and line; a form heard in the game is accepted, and where the game consistently contradicts the taught form, the taught form changes in a numbered release."
   ],
   "notation": "International Phonetic Alphabet. A space separates syllables; ˈ marks primary stress and ˌ secondary stress on the syllable that follows."
@@ -439,10 +440,9 @@
    },
    "u'u": {
     "S": {
-     "sound": "u",
-     "share": 1.0,
-     "n": 6,
-     "others": {}
+     "sound": "uʔu",
+     "by": "owner's ruling, proposal 9: two syllables with a catch between them",
+     "dictionary_first_form": "u"
     }
    },
    "uu": {
@@ -1322,12 +1322,14 @@
   },
   {
    "word": "Du'ul",
-   "taught": "dul",
+   "taught": "ˈdu ʌl",
    "also_accepted": [
-    "ˈdu ʌl",
+    "dul",
     "duˈul"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Dukaan",
@@ -3898,12 +3900,14 @@
   },
   {
    "word": "Strundu'ul",
-   "taught": "strun ˈdul",
+   "taught": "strun ˈdu ʌl",
    "also_accepted": [
-    "strun ˈdu ʌl",
+    "strun ˈdul",
     "ˈstrunduˌul"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Strunmah",
@@ -3919,12 +3923,14 @@
   },
   {
    "word": "Su'um",
-   "taught": "sum",
+   "taught": "ˈsu ʌm",
    "also_accepted": [
-    "ˈsu ʌm",
+    "sum",
     "suˈum"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Sul",
@@ -4014,12 +4020,14 @@
   },
   {
    "word": "Thu'um",
-   "taught": "θum",
+   "taught": "ˈθu ʌm",
    "also_accepted": [
-    "ˈθu ʌm",
+    "θum",
     "θuˈum"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Thur",
@@ -4095,12 +4103,14 @@
   },
   {
    "word": "Tu'um",
-   "taught": "tum",
+   "taught": "ˈtu ʌm",
    "also_accepted": [
-    "ˈtu ʌm",
+    "tum",
     "tuˈum"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Tum",
@@ -4750,11 +4760,13 @@
   },
   {
    "word": "Zu'u",
-   "taught": "zu",
+   "taught": "zuˈu",
    "also_accepted": [
-    "zuˈu"
+    "zu"
    ],
-   "heard_in_game": []
+   "heard_in_game": [],
+   "break_between_the_two_u": "a light catch in the throat (a glottal stop), which the apostrophe writes",
+   "note": "Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted."
   },
   {
    "word": "Zul",

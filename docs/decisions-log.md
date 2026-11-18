@@ -16,8 +16,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 6 | Meanings: official definitions in place of wiki readings | Accepted 2026-11-17, with an addition |
 | 7 | Word types | Accepted 2026-11-17, flexibility chosen |
 | 8 | Pronunciation convention | Accepted 2026-11-17, with a condition |
-| 9 | The apostrophe and the UU rune | Put to the owner 2026-11-17 |
-| 10 | Pronouns | Queued |
+| 9 | The apostrophe and the UU rune | Ruled by the owner 2026-11-18, differently from the recommendation |
+| 10 | Pronouns | Put to the owner 2026-11-18 |
 | 11 | Possessive endings | Queued |
 | 12 | Verb forms | Queued |
 | 13 | Articles, plurals and adjectives | Queued |
@@ -155,6 +155,27 @@ The seven words: Bel "summon", Mindol "thought", Mindok "think", Mindoraan "unde
 - Stress cannot be worked out from spelling. Of 305 words of two or more syllables, the first syllable is stressed in 63 percent (71 percent counting any listed pronunciation); no simple rule tried does more than three points better, and 54 words list more than one stress position. The dictionary ties stress to a word's root. In the forge the coiner declares a new word's parts, so stress goes on the root; for a new root the default is the first syllable.
 - The commonest misses are unstressed a (full or weak), oo (two values in the dictionary: koor, toor, joor against pook, folook, loost), and a few words where the dictionary gives a an "ah" quality.
 
+## 9. The apostrophe
+
+**The owner's ruling, 2026-11-18**, in place of the recommendation. In the owner's words: where there is a glottal stop between the two u's, "put an apostrophe. Even if they don't do it in the game or inscription, we're doing this from linguistic principles, so we want there to be a level and a degree of consistency. If a person just doesn't write it that way, that's fine, but the standard will be with an apostrophe in between the two U's."
+
+So:
+
+- The apostrophe between two u's writes a break in the voice, a glottal stop. Where that sound is made, the standard spelling has the apostrophe, whatever the game or an inscription writes.
+- Two u's with no break are one long u, written uu.
+- Writing a word without its apostrophe is accepted, but is not the standard.
+
+**Which words.** Six have the apostrophe: zu'u, thu'um, su'um, du'ul, strundu'ul, tu'um. Gravuun and Volunruud do not: the reading convention gives each one long u, and the Fifth Edition says of gravuun that it "should not be spoken as three syllables or with a glottal stop".
+
+**What follows from the ruling, as applied.**
+
+- Pronunciation. The Fifth Edition lists the one-syllable form of the six words first ("thoom"). For the spelling and the sound to agree, the form with the break is now the one taught, and the one-syllable form stays accepted. This changes how proposal 8 applies to these six words.
+- New words. The forge accepts an apostrophe only between two u's, and only where the coiner declares a break.
+- Runes. A break is written with two separate U runes; the single double-U rune is one long u. The runes have no sign for the apostrophe, so a break mark joins the list of new signs to design. The Throw Voice word wall and a High Hrothgar banner write these words with the double-U rune; both are recorded as variants and shown as written.
+- Not decided: whether a break may be written between other vowels (a'a, i'i). The games have no such word.
+
+**Applied.** `research/data/spelling.json` (section `apostrophe`) and `research/data/pronunciation.json` (the six words, and the rule for new words).
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -182,7 +203,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **9. Apostrophe.** Six words have u'u: zu'u, thu'um, su'um, du'ul, tu'um, strundu'ul. The dictionary's table gives one rune for "uu or u'u" and lists no apostrophe among the 34 runes, yet its own headings spell those words with two U runes and an apostrophe. In the game, text in Latin letters (dialogue, the song book) writes the apostrophe. The one rune inscription of such a word, the Throw Voice word wall, writes thu'um with the single UU rune, the same rune used in gravuun, sigruuf and volunruud. No rune text has an apostrophe. A banner is transcribed THUUM TUUM, but the record does not show which runes it uses.
 
-**10. Pronouns.** The Fifth Edition's entry for dovah (dragon) carries the official remark that it also means "me" when a dragon speaks. The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
+**10. Pronouns.** Official definitions exist for: zu'u I; mu we; hi you; rok he; rek she; nii it; nust they or those; niin them; nimaar itself; dii mine or my; un our ("not commonly used"); hin your (formal); him your; ok his; ek her. The Fifth Edition's own notes say hi is "only observed" as an object and that niin is the only pronoun with a separate object form, which contradicts its summary table. Its entry for dovah (dragon) carries the official remark that it also means "me" when a dragon speaks. The summary table makes object equal subject except nust/niin. In game text: zu'u, mu, rok and rek are never objects; hi is an object in Skyrim and a subject once, in Blades; no reflexive use of any pronoun is attested; nimaar occurs once as an emphatic.
 
 **11. Possessive endings.** -i "my" 20 tokens, no counter-example; -ii "his" or "her" 15 tokens, "its" unattested; -iil "your" one token; -u "our" five tokens, one glossed differently by the wiki.
 

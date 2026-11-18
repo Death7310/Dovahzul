@@ -128,19 +128,6 @@
    ]
   },
   {
-   "standard": "Thu'um",
-   "meaning": "voice, shout",
-   "basis": "the usual spelling in game text",
-   "standard_occurs_in_game_text": 6,
-   "variants": [
-    {
-     "form": "Tuum",
-     "from": "one banner inscription",
-     "occurs_in_game_text": 1
-    }
-   ]
-  },
-  {
    "standard": "Miiraad",
    "meaning": "doorway",
    "basis": "the Fifth Edition calls miraad a misspelling; each occurs once",
@@ -154,6 +141,69 @@
    ]
   }
  ],
+ "apostrophe": {
+  "ruling": "Proposal 9, the owner's ruling of 2026-11-18. The apostrophe between two u's writes a break in the voice, a glottal stop. Where that sound is made the standard spelling has the apostrophe, whether or not the game or an inscription writes it. Writing the word without it is accepted, but it is not the standard. Two u's with no break between them are one long u and are written uu.",
+  "standard_with_apostrophe": [
+   {
+    "word": "Zu'u",
+    "meaning": "I"
+   },
+   {
+    "word": "Thu'um",
+    "meaning": "voice, shout"
+   },
+   {
+    "word": "Su'um",
+    "meaning": "breath"
+   },
+   {
+    "word": "Du'ul",
+    "meaning": "crown"
+   },
+   {
+    "word": "Strundu'ul",
+    "meaning": "stormcrown"
+   },
+   {
+    "word": "Tu'um",
+    "meaning": "no official definition"
+   }
+  ],
+  "long_u_without_apostrophe": [
+   {
+    "word": "Gravuun",
+    "meaning": "autumn",
+    "basis": "the Fifth Edition says it should not be spoken as three syllables or with a glottal stop"
+   },
+   {
+    "word": "Volunruud",
+    "meaning": "a place name",
+    "basis": "the reading convention gives one long u"
+   },
+   {
+    "word": "Sigruuf",
+    "meaning": "a personal name on a word wall",
+    "basis": "no evidence of a break"
+   }
+  ],
+  "in_runes": [
+   "A break is written with two separate U runes. The single double-U rune stands for one long u.",
+   "The runes have no sign for the apostrophe. A break mark is to be designed with the other new signs; once it exists the standard rune spelling carries it between the two U runes.",
+   "Game inscriptions are shown as written. The Throw Voice word wall writes thu'um with the double-U rune, and a High Hrothgar banner writes tu'um the same way; both are recorded variants."
+  ],
+  "in_new_words": "The forge accepts an apostrophe only between two u's, and only where the coiner declares a break. Elsewhere it is rejected.",
+  "not_decided": "Whether a break may be written between other vowels (a'a, i'i). The games have no such word.",
+  "variants_without_apostrophe_in_game_material": [
+   {
+    "form": "thuum",
+    "occurs_in_game_text": 4
+   },
+   {
+    "form": "tuum",
+    "occurs_in_game_text": 1
+   }
+  ]
+ },
  "unexplained_forms": [
   {
    "form": "hinde",

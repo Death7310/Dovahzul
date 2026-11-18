@@ -193,10 +193,22 @@ table = {}
 for (u, ctx), c in sorted(rule_all.items()):
     table.setdefault(u, {})[ctx] = {'sound': c.most_common(1)[0][0], 'share': round(c.most_common(1)[0][1] / sum(c.values()), 2), 'n': sum(c.values()),
                                     'others': {k: v for k, v in c.most_common(4)[1:]}}
+def n_syll(v): return len(parse_ipa(v)[2])
 words = []
 for e in F['entries']:
     vs = variants(e)
-    words.append({'word': e['word'], 'taught': vs[0] if vs else None, 'also_accepted': vs[1:], 'heard_in_game': []})
+    row = {'word': e['word'], 'taught': vs[0] if vs else None, 'also_accepted': vs[1:], 'heard_in_game': []}
+    if "u'u" in e['word'].lower() and vs:
+        # Proposal 9: the apostrophe marks a break between the two u's, so the form with the break is the one taught.
+        longer = [v for v in vs if n_syll(v) > n_syll(vs[0])]
+        if longer:
+            row['taught'] = longer[0]; row['also_accepted'] = [v for v in vs if v != longer[0]]
+            row['break_between_the_two_u'] = 'a light catch in the throat (a glottal stop), which the apostrophe writes'
+            row['note'] = 'Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted.'
+    words.append(row)
+if "u'u" in table:
+    table["u'u"] = {'S': {'sound': 'uʔu', 'by': 'owner\'s ruling, proposal 9: two syllables with a catch between them',
+                          'dictionary_first_form': table["u'u"].get('S', {}).get('sound')}}
 out = {
     'meta': {
         'what': 'The project\'s reading convention, under the ruling recorded as proposal 8 in docs/decisions-log.md.',
@@ -204,6 +216,7 @@ out = {
         'ruling': ['The Fifth Edition\'s per-word pronunciations are the reading convention.', 'Where its table and its entries disagree, the entries are followed.',
                    'Where an entry lists several pronunciations, the first is taught and the rest are accepted.', 'Stress is taught as marked and described as a tendency.',
                    'It is labelled everywhere as a convention, not official.', 'For new words the pronunciation is worked out from the spelling by the rule below.',
+                   'Owner\'s ruling on proposal 9: the apostrophe between two u\'s writes a break (a glottal stop). A word spelt with it is taught with the break; uu without it is one long u.',
                    'Owner\'s condition: people will at some point listen to the game. The convention stays open to that evidence. What is heard in the game is recorded per word under heard_in_game, with the speaker and line; a form heard in the game is accepted, and where the game consistently contradicts the taught form, the taught form changes in a numbered release.'],
         'notation': 'International Phonetic Alphabet. A space separates syllables; ˈ marks primary stress and ˌ secondary stress on the syllable that follows.',
     },
@@ -228,4 +241,4 @@ print('entries', len(items), 'aligned', len(aligned), 'polysyllabic', len(poly))
 print('stress rules', stress_acc)
 print(out['rule_for_new_words']['how_well_it_reproduces_the_dictionary'])
 for m in out['rule_for_new_words']['commonest_misses'][:12]: print('  ', m)
-print({u: {ctx: (v['sound'], v['share'], v['n']) for ctx, v in d.items()} for u, d in table.items() if u in ('a', 'aa', 'ah', 'e', 'ei', 'ey', 'i', 'ii', 'o', 'oo', 'u', 'uu', "u'u", 'q', 'j', 'x', 'y', 'th', 'h', 'ir', 'ur', 'au', 'ae')})
+print({u: {ctx: (v['sound'], v.get('share'), v.get('n')) for ctx, v in d.items()} for u, d in table.items() if u in ('a', 'aa', 'ah', 'e', 'ei', 'ey', 'i', 'ii', 'o', 'oo', 'u', 'uu', "u'u", 'q', 'j', 'x', 'y', 'th', 'h', 'ir', 'ur', 'au', 'ae')})

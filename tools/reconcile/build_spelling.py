@@ -28,7 +28,6 @@ CASES = [
     ('Thuri', 'my overlord', 'the usual spelling in game text', [('Thurri', 'game dialogue')]),
     ('Nid', 'no', 'the usual spelling in game text', [('Niid', 'one line of game dialogue')]),
     ('Balaan', 'worthy', 'the usual spelling in game text', [('Bahlaan', 'one line of game dialogue; the Fifth Edition calls it a misspelling or an archaic form')]),
-    ("Thu'um", 'voice, shout', 'the usual spelling in game text', [('Tuum', 'one banner inscription')]),
     ('Miiraad', 'doorway', 'the Fifth Edition calls miraad a misspelling; each occurs once', [('Miraad', 'one line of game dialogue')]),
 ]
 out_cases = []
@@ -43,6 +42,19 @@ out = {
                       'A variant is not a separate word.'],
              'counts': 'Occurrences are whole-word counts over the game texts in canon-corpus.json with duplicate records left out.'},
     'cases': out_cases,
+    'apostrophe': {
+        'ruling': 'Proposal 9, the owner\'s ruling of 2026-11-18. The apostrophe between two u\'s writes a break in the voice, a glottal stop. Where that sound is made the standard spelling has the apostrophe, whether or not the game or an inscription writes it. Writing the word without it is accepted, but it is not the standard. Two u\'s with no break between them are one long u and are written uu.',
+        'standard_with_apostrophe': [{'word': w, 'meaning': m} for w, m in [("Zu'u", 'I'), ("Thu'um", 'voice, shout'), ("Su'um", 'breath'), ("Du'ul", 'crown'), ("Strundu'ul", 'stormcrown'), ("Tu'um", 'no official definition')]],
+        'long_u_without_apostrophe': [{'word': 'Gravuun', 'meaning': 'autumn', 'basis': 'the Fifth Edition says it should not be spoken as three syllables or with a glottal stop'},
+                                      {'word': 'Volunruud', 'meaning': 'a place name', 'basis': 'the reading convention gives one long u'},
+                                      {'word': 'Sigruuf', 'meaning': 'a personal name on a word wall', 'basis': 'no evidence of a break'}],
+        'in_runes': ['A break is written with two separate U runes. The single double-U rune stands for one long u.',
+                     'The runes have no sign for the apostrophe. A break mark is to be designed with the other new signs; once it exists the standard rune spelling carries it between the two U runes.',
+                     'Game inscriptions are shown as written. The Throw Voice word wall writes thu\'um with the double-U rune, and a High Hrothgar banner writes tu\'um the same way; both are recorded variants.'],
+        'in_new_words': 'The forge accepts an apostrophe only between two u\'s, and only where the coiner declares a break. Elsewhere it is rejected.',
+        'not_decided': 'Whether a break may be written between other vowels (a\'a, i\'i). The games have no such word.',
+        'variants_without_apostrophe_in_game_material': [{'form': f, 'occurs_in_game_text': occ(f)} for f in ['thuum', 'tuum']],
+    },
     'unexplained_forms': [{'form': 'hinde', 'occurs_in_game_text': occ('hinde'),
                            'note': 'A plural of hin ("your") in one line of dialogue. The regular plural would be hinne, which does not occur. Left unexplained and not taught.'}],
     'further_cases_reported_by_the_fifth_edition': [
