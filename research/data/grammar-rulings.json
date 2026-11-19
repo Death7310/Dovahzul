@@ -95,7 +95,12 @@
    ],
    "basis": "The five questions in the game's dragon-language text. Each of the three patterns is attested once.",
    "owner_words": "all three methods",
-   "carried_forward": "The words for what, where, when, why and how are a separate ruling. The game has none."
+   "carried_forward": "Question words: wo who and wen whose are the game's. Waar what, wil where, wuz when, wul why and wed how were coined for this project and accepted by the owner on 2026-11-19; see forge-words.json. The game's fod and rul (when) and kolos (in which) remain joining words.",
+   "examples_with_the_new_words": [
+    "Wul drey hi dreh daar? (Why did you do that?)",
+    "Wil los hi? (Where are you?)",
+    "Wed drey rok dir? (How did he die?)"
+   ]
   }
  ]
 }

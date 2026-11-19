@@ -33,6 +33,180 @@
     "S",
     "T"
    ]
+  },
+  {
+   "word": "waar",
+   "meaning": "what",
+   "class": "pronoun",
+   "use": "a question word; it comes first in the question",
+   "built_from": [
+    "w-, as in wo (who) and wen (whose)",
+    "daar (this)"
+   ],
+   "coined_by": "proposed by the assistant, accepted by the project owner",
+   "coined": "2026-11-19",
+   "status": "ratified, founding batch",
+   "proposal": "11b",
+   "reasoning": "The game pairs no question word with its answer word, but many languages do (there and where, then and when). Each word is the game's own answer word with w in front, to sit beside wo and wen.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [
+     "aar",
+     "daar",
+     "gaar",
+     "laar",
+     "maar",
+     "naar",
+     "paar"
+    ],
+    "sound_pattern": "one syllable; beginning and ending both common in game words"
+   },
+   "said": "wɑr (\"wahr\"), by the rule for new words",
+   "in_runes": [
+    "W",
+    "AA",
+    "R"
+   ]
+  },
+  {
+   "word": "wil",
+   "meaning": "where",
+   "class": "adverb",
+   "use": "a question word; it comes first in the question",
+   "built_from": [
+    "w-, as in wo and wen",
+    "til (there)"
+   ],
+   "coined_by": "proposed by the assistant, accepted by the project owner",
+   "coined": "2026-11-19",
+   "status": "ratified, founding batch",
+   "proposal": "11b",
+   "reasoning": "The game pairs no question word with its answer word, but many languages do (there and where, then and when). Each word is the game's own answer word with w in front, to sit beside wo and wen.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [
+     "nil",
+     "sil",
+     "til",
+     "win",
+     "wol",
+     "wul"
+    ],
+    "sound_pattern": "one syllable; beginning and ending both common in game words"
+   },
+   "said": "wil (\"weel\"), by the rule for new words",
+   "in_runes": [
+    "W",
+    "I",
+    "L"
+   ]
+  },
+  {
+   "word": "wuz",
+   "meaning": "when",
+   "class": "adverb",
+   "use": "a question word; it comes first in the question",
+   "built_from": [
+    "w-, as in wo and wen",
+    "ruz (then)"
+   ],
+   "coined_by": "proposed by the assistant, accepted by the project owner",
+   "coined": "2026-11-19",
+   "status": "ratified, founding batch",
+   "proposal": "11b",
+   "reasoning": "The game pairs no question word with its answer word, but many languages do (there and where, then and when). Each word is the game's own answer word with w in front, to sit beside wo and wen.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [
+     "muz",
+     "nuz",
+     "ruz",
+     "tuz",
+     "wul"
+    ],
+    "sound_pattern": "one syllable; beginning and ending both common in game words"
+   },
+   "said": "wuz (\"wooz\"), by the rule for new words",
+   "in_runes": [
+    "W",
+    "U",
+    "Z"
+   ]
+  },
+  {
+   "word": "wul",
+   "meaning": "why",
+   "class": "adverb",
+   "use": "a question word; it comes first in the question",
+   "built_from": [
+    "w-, as in wo and wen",
+    "ful (so)"
+   ],
+   "coined_by": "proposed by the assistant, accepted by the project owner",
+   "coined": "2026-11-19",
+   "status": "ratified, founding batch",
+   "proposal": "11b",
+   "reasoning": "The game pairs no question word with its answer word, but many languages do (there and where, then and when). Each word is the game's own answer word with w in front, to sit beside wo and wen.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [
+     "ful",
+     "jul",
+     "kul",
+     "mul",
+     "rul",
+     "sul",
+     "ul",
+     "vul",
+     "wol",
+     "wuld",
+     "zul",
+     "wil",
+     "wuz"
+    ],
+    "sound_pattern": "one syllable; beginning and ending both common in game words"
+   },
+   "said": "wul (\"wool\"), by the rule for new words",
+   "in_runes": [
+    "W",
+    "U",
+    "L"
+   ]
+  },
+  {
+   "word": "wed",
+   "meaning": "how",
+   "class": "adverb",
+   "use": "a question word; it comes first in the question",
+   "built_from": [
+    "w-, as in wo and wen",
+    "med (like)"
+   ],
+   "coined_by": "proposed by the assistant, accepted by the project owner",
+   "coined": "2026-11-19",
+   "status": "ratified, founding batch",
+   "proposal": "11b",
+   "reasoning": "The game pairs no question word with its answer word, but many languages do (there and where, then and when). Each word is the game's own answer word with w in front, to sit beside wo and wen.",
+   "checks": {
+    "already_a_word": false,
+    "occurs_in_any_game_text": false,
+    "words_one_letter_away": [
+     "med",
+     "ved",
+     "wen"
+    ],
+    "sound_pattern": "one syllable; beginning and ending both common in game words"
+   },
+   "said": "wɛd (\"wed\"), by the rule for new words",
+   "in_runes": [
+    "W",
+    "E",
+    "D"
+   ]
   }
  ]
 }
