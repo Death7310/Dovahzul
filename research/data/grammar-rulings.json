@@ -101,6 +101,92 @@
     "Wil los hi? (Where are you?)",
     "Wed drey rok dir? (How did he die?)"
    ]
+  },
+  {
+   "id": "G07-possessive-endings",
+   "area": "G07 Possession: the endings on the noun",
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 11,
+   "rules": [
+    "The endings are: -i my; -i'il your; -i'i his, her or its; -u our.",
+    "In -i'i and -i'il the two i's are separated by a glottal stop, as the two u's are in thu'um, and the standard spelling writes the apostrophe.",
+    "This applies only to these endings. Inside a word the doubled i is one long 'ee' and is unchanged (Dovahkiin, krii, tiid).",
+    "A noun that already ends in ii takes the stop and the rest of the ending: zii (soul), zii'il (your soul), zii'i (his soul).",
+    "Game texts are shown as the game wrote them (bormahii, zaamiil, ziil), and those spellings are accepted variants."
+   ],
+   "owner_words": "we're going to treat the i'i like thu'um, like a glottal stop; then, asked how far it reaches: let's go with 1 (the endings only)",
+   "why": "Under the reading convention i and ii are the same sound, so 'my' (-i) and 'his' (-ii) were written differently and said alike. The owner had called this systematically problematic.",
+   "forms_in_game_text": [
+    {
+     "as_the_game_writes_it": "aarii",
+     "standard_spelling": "aari'i",
+     "meaning": "his servant"
+    },
+    {
+     "as_the_game_writes_it": "ahmulii",
+     "standard_spelling": "ahmuli'i",
+     "meaning": "her husband"
+    },
+    {
+     "as_the_game_writes_it": "bormahii",
+     "standard_spelling": "bormahi'i",
+     "meaning": "his father"
+    },
+    {
+     "as_the_game_writes_it": "briinahii",
+     "standard_spelling": "briinahi'i",
+     "meaning": "her sister"
+    },
+    {
+     "as_the_game_writes_it": "daanii",
+     "standard_spelling": "daani'i",
+     "meaning": "his doom"
+    },
+    {
+     "as_the_game_writes_it": "dinokii",
+     "standard_spelling": "dinoki'i",
+     "meaning": "(no translation recorded)"
+    },
+    {
+     "as_the_game_writes_it": "judii",
+     "standard_spelling": "judi'i",
+     "meaning": "his queen"
+    },
+    {
+     "as_the_game_writes_it": "kulii",
+     "standard_spelling": "kuli'i",
+     "meaning": "his sons"
+    },
+    {
+     "as_the_game_writes_it": "monii",
+     "standard_spelling": "moni'i",
+     "meaning": "his daughter"
+    },
+    {
+     "as_the_game_writes_it": "thu'umii",
+     "standard_spelling": "thu'umi'i",
+     "meaning": "his Voice"
+    },
+    {
+     "as_the_game_writes_it": "zeymahii",
+     "standard_spelling": "zeymahi'i",
+     "meaning": "his brother"
+    },
+    {
+     "as_the_game_writes_it": "zaamiil",
+     "standard_spelling": "zaami'il",
+     "meaning": "your slave"
+    },
+    {
+     "as_the_game_writes_it": "ziil",
+     "standard_spelling": "zii'il",
+     "meaning": "your soul"
+    }
+   ],
+   "note": "The stop in these endings is this project's convention. The game writes them with the single double-i rune, and nothing is known of how its voice actors say them.",
+   "in_runes": "As with u'u: two separate I runes, with the break mark between them once that sign is designed. The single double-i rune stands for the long vowel inside a word.",
+   "still_open": "Whether both ways of showing possession are standard, 'its' as the ending, hin as the standard 'your', and do and se for 'of' await the owner's confirmation."
   }
  ]
 }

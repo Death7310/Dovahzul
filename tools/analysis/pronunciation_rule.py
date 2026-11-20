@@ -217,6 +217,7 @@ out = {
                    'Where an entry lists several pronunciations, the first is taught and the rest are accepted.', 'Stress is taught as marked and described as a tendency.',
                    'It is labelled everywhere as a convention, not official.', 'For new words the pronunciation is worked out from the spelling by the rule below.',
                    'Owner\'s ruling on proposal 9: the apostrophe between two u\'s writes a break (a glottal stop). A word spelt with it is taught with the break; uu without it is one long u.',
+                   'Owner\'s ruling of 2026-11-20: the possessive endings -i\'i and -i\'il have the same break between their two i\'s (iʔi, iʔil). Inside a word the doubled i stays one long vowel.',
                    'Owner\'s condition: people will at some point listen to the game. The convention stays open to that evidence. What is heard in the game is recorded per word under heard_in_game, with the speaker and line; a form heard in the game is accepted, and where the game consistently contradicts the taught form, the taught form changes in a numbered release.'],
         'notation': 'International Phonetic Alphabet. A space separates syllables; ˈ marks primary stress and ˌ secondary stress on the syllable that follows.',
     },

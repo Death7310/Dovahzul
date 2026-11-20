@@ -191,8 +191,9 @@
    "The runes have no sign for the apostrophe. A break mark is to be designed with the other new signs; once it exists the standard rune spelling carries it between the two U runes.",
    "Game inscriptions are shown as written. The Throw Voice word wall writes thu'um with the double-U rune, and a High Hrothgar banner writes tu'um the same way; both are recorded variants."
   ],
-  "in_new_words": "The forge accepts an apostrophe only between two u's, and only where the coiner declares a break. Elsewhere it is rejected.",
-  "not_decided": "Whether a break may be written between other vowels (a'a, i'i). The games have no such word.",
+  "possessive_endings": "By the owner's ruling of 2026-11-20 the same stop separates the two i's of the possessive endings, which are written -i'i (his, her, its) and -i'il (your). This applies to the endings only; inside a word the doubled i is one long vowel. See grammar-rulings.json, G07-possessive-endings.",
+  "in_new_words": "The forge accepts an apostrophe in two places only: between two u's where the coiner declares a break, and in the possessive endings -i'i and -i'il. Elsewhere it is rejected.",
+  "not_decided": "Whether a break may be written between other vowels inside a word (a'a, or i'i other than in the endings). The games have no such word.",
   "variants_without_apostrophe_in_game_material": [
    {
     "form": "thuum",

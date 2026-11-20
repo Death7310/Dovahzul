@@ -200,7 +200,9 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 
 **Ruled 2026-11-19: the doubled i in the endings.** Asked whether i and ii should sound different (leave them alike, or hold a doubled vowel longer), the owner chose neither: "we're going to treat the i'i like thu'um, like a glottal stop." How far this reaches was put back to the owner, because the two readings differ greatly. Applied only to the possessive endings, -ii becomes -i'i and -iil becomes -i'il, and my, his and your differ by ear; 13 forms in game text are affected and stay shown as the game wrote them. Applied to every doubled i, it would respell 80 dictionary words and about one word in ten of all game text, and 20 of the 136 words of power, which are all one syllable today, would become two syllables.
 
-**Still pending:** how far the ruling above reaches; that both the separate word and the ending are standard; the endings by person (-i, -iil, -ii, -u); "its" as the ending -ii; hin as the standard "your"; the ending merging after ii; do and se for "of".
+**Settled 2026-11-20: it reaches the endings only.** The owner: "let's go with 1." The possessive endings are now -i (my), -i'il (your), -i'i (his, her, its) and -u (our), with a glottal stop between the two i's and the apostrophe written in the standard spelling. Inside a word the doubled i is unchanged. A noun ending in ii takes the stop and the rest of the ending (zii, zii'il). The 13 forms in game text stay shown as the game wrote them and are accepted variants. Recorded in `research/data/grammar-rulings.json` (G07-possessive-endings), with the standard spelling of each of the 13 forms; the apostrophe rule in `spelling.json` and the reading convention in `pronunciation.json` are updated to match.
+
+**Still pending:** that both the separate word and the ending are standard; "its" as the ending -i'i with no separate word; hin as the standard "your"; do and se for "of".
 
 ## 11b. Questions
 
