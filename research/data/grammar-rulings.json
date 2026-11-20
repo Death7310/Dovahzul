@@ -332,6 +332,179 @@
    ],
    "owner_words": "this also seems good",
    "basis": "Game text: fen 16 tokens, 15 directly before a verb; fent 4; drey 6; wah + verb 23. The perfect is made with -aan alone, with lost + verb, and once with both (lost kriaan). The -a or -ha ending rests on two tokens that do not show the same construction, and the four example forms in the Thuum.org summary do not occur in the game. The makers stated that tense is optional."
+  },
+  {
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 13,
+   "owner_words": "this also all works",
+   "id": "G14-articles",
+   "area": "G14 Articles",
+   "rules": [
+    "'The' and 'a' are optional and usually left out.",
+    "Fin is 'the' and aan is 'a' when a speaker wants one.",
+    "Faal is 'the' for names and for things held in reverence."
+   ],
+   "examples": [
+    {
+     "text": "Het dir bruniik rek-grohiik",
+     "meaning": "Here died (the) savage she-wolf",
+     "shows": "no article",
+     "from": "game"
+    },
+    {
+     "text": "ahrk fin tey",
+     "meaning": "and the tale",
+     "shows": "fin",
+     "from": "game"
+    },
+    {
+     "text": "voth aan suleyk",
+     "meaning": "with a power",
+     "shows": "aan",
+     "from": "game"
+    },
+    {
+     "text": "Het nok faal Vahlok",
+     "meaning": "Here lies the Guardian",
+     "shows": "faal",
+     "from": "game"
+    }
+   ],
+   "basis": "Game text: fin 39 tokens, aan 8 as an article, faal 10; the wiki's translators supplied 'the' 87 times and 'a' or 'an' 10 times. Official remarks call aan 'not generally used', fin 'not commonly used in regular sentence structure' and faal 'rare, only used with specific proper nouns or as a sign of reverence'."
+  },
+  {
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 13,
+   "owner_words": "this also all works",
+   "id": "G08-plural",
+   "area": "G08 Plural",
+   "rules": [
+    "Marking the plural is optional. An unmarked noun can mean more than one.",
+    "To mark it, double the last letter and add e: sil, sille; dovah, dovahhe.",
+    "A noun ending in a vowel stays unchanged in the plural. The game shows no such plural; this is the project's convention.",
+    "Muz ('men', from mun) is taught as it is. Bruniike and hinde are recorded as the game wrote them and are not taught as patterns."
+   ],
+   "examples": [
+    {
+     "text": "hin sille",
+     "meaning": "your souls",
+     "shows": "doubling + e",
+     "from": "game"
+    },
+    {
+     "text": "ek hokoron",
+     "meaning": "her enemies",
+     "shows": "unmarked plural",
+     "from": "game"
+    },
+    {
+     "text": "kriid muz ahrk sunvaar",
+     "meaning": "slayer of men and beasts",
+     "shows": "muz",
+     "from": "game"
+    }
+   ],
+   "basis": "Game text: 14 noun types with doubling plus e; unmarked plurals such as hokoron (twice) and frod; no plural of a vowel-final noun."
+  },
+  {
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 13,
+   "owner_words": "this also all works",
+   "id": "G19-adjective-position",
+   "area": "G19 Word order: where a describing word goes",
+   "rules": [
+    "A describing word goes before the noun.",
+    "After the noun is accepted; the game does it occasionally."
+   ],
+   "examples": [
+    {
+     "text": "sadon gravuun",
+     "meaning": "gray autumn",
+     "from": "game"
+    },
+    {
+     "text": "krin raan",
+     "meaning": "courageous animal",
+     "from": "game"
+    },
+    {
+     "text": "dii vul junaar",
+     "meaning": "my dark kingdom",
+     "from": "game"
+    }
+   ],
+   "basis": "In game text a describing word stands directly before a noun about five times as often as directly after one (a rough count using the adopted word types)."
+  },
+  {
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 13,
+   "owner_words": "this also all works",
+   "id": "G12-negation",
+   "area": "G12 Negation",
+   "rules": [
+    "Ni is 'not'. It stands before the verb.",
+    "With drey, dreh or fen it stands after them and before the verb.",
+    "Nid is 'no' or 'none' before a noun."
+   ],
+   "examples": [
+    {
+     "text": "Zu'u ni faas",
+     "meaning": "I do not fear",
+     "from": "game"
+    },
+    {
+     "text": "Kel drey ni viik",
+     "meaning": "The Scroll did not defeat (me)",
+     "from": "game"
+    },
+    {
+     "text": "voth nid balaan klov",
+     "meaning": "with no worthy head",
+     "from": "game"
+    }
+   ],
+   "basis": "Game text: ni directly before the verb in 25 of 27 cases, after drey or dreh in the other two."
+  },
+  {
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 13,
+   "owner_words": "this also all works",
+   "id": "G20-commands",
+   "area": "G20 Commands",
+   "rules": [
+    "A command is the plain verb.",
+    "A command not to do something is the verb followed by ni, or dreh ni followed by the verb. Both are correct."
+   ],
+   "examples": [
+    {
+     "text": "Aam uv dir",
+     "meaning": "Serve or die",
+     "from": "game"
+    },
+    {
+     "text": "Sahloknir, krii daar joorre",
+     "meaning": "Sahloknir, kill this mortal",
+     "from": "game"
+    },
+    {
+     "text": "Faas ni Brendon do Dinok",
+     "meaning": "Fear not the Specter of Death",
+     "shows": "verb + ni",
+     "from": "game"
+    },
+    {
+     "text": "Dreh ni nahkip",
+     "meaning": "Do not feed",
+     "shows": "dreh ni + verb",
+     "from": "game"
+    }
+   ],
+   "basis": "Each form of the negative command occurs once in game text."
   }
  ]
 }

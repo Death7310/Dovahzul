@@ -21,8 +21,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 11 | Possession | Settled 2026-11-20 |
 | 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Settled. Question order ruled 2026-11-18: all three of the game's ways are correct. Five question words accepted 2026-11-19 |
 | 12 | Verb forms | Accepted 2026-11-20 |
-| 13 | Articles, plurals, adjectives, "not" and commands | Put to the owner 2026-11-20 |
-| 14 | A guard against English-centred gap-filling | Queued |
+| 13 | Articles, plurals, adjectives, "not" and commands | Accepted 2026-11-20 |
+| 14 | A guard against English-centred gap-filling, and community vocabulary | Put to the owner 2026-11-20 |
 | 15 | Corrections to the design proposal | Queued |
 | 16 on | A1, A2, A4 to A10, then B1 to B7 and C1 to C8 from the design proposal | Queued |
 
@@ -224,6 +224,18 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 8. The ending -a or -ha for "to" is not taught for new sentences. Vokriiha and funta are recognised and explained.
 
 Recorded in `research/data/grammar-rulings.json` (G09-verbs-and-time) with a game example for each point.
+
+## 13. The small rules
+
+**Ruling, accepted 2026-11-20 ("this also all works").**
+
+- Articles. "The" and "a" are optional and usually left out; fin and aan when wanted; faal for names and reverence.
+- Plural. Optional. To mark it, double the last letter and add e. A noun ending in a vowel stays unchanged (the project's convention; the game shows none). Muz is taught as it is; bruniike and hinde are recorded as written and not taught as patterns.
+- Describing words go before the noun; after it is accepted.
+- Ni is "not", before the verb, or after drey, dreh or fen. Nid is "no" before a noun.
+- A command is the plain verb. "Don't" is verb + ni or dreh ni + verb; both are correct.
+
+Recorded in `research/data/grammar-rulings.json` as five provisional rulings, each with game examples.
 
 ## Evidence notes for the queued proposals
 
