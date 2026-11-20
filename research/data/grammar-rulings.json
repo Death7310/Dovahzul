@@ -245,6 +245,93 @@
    ],
    "owner_words": "this seems fine",
    "basis": "Counts in game text: dii 9, hin 21, him 1, ok 25, ek 4, un 1; endings -i 20, -ii 15, -iil 1, -u 5; do 82. The official definition of se says it should be used when new words are formed."
+  },
+  {
+   "id": "G09-verbs-and-time",
+   "area": "G09 Tense and aspect, with G13 the copula",
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 12,
+   "rules": [
+    "A verb has one form. It does not change for person or number.",
+    "Marking time is optional. The plain verb can mean present, past or ongoing, and the checker never marks an unmarked verb wrong.",
+    "To mark the past: drey + verb. To mark the future: fen + verb. Fent + verb is the solemn 'shall'.",
+    "'Have done' may be said either way: lost + verb, or the verb with -aan. The -aan form also serves as the describing word ('fallen', 'killed').",
+    "A new -aan form is made by adding -aan. The game's irregular ones are kept as they are: kriaan from krii, mahlaan from mah, naako.",
+    "'To' before a verb is wah + verb.",
+    "Los is 'is' and 'are'; lost is 'was' and 'have'; kos is 'be', used after fen and fent. Los may be left out where the meaning is clear.",
+    "The ending -a or -ha for 'to' is not taught for new sentences. The two game words that carry it, vokriiha and funta, are recognised and explained."
+   ],
+   "examples": [
+    {
+     "text": "Het dir bruniik rek-grohiik",
+     "meaning": "Here died the savage she-wolf",
+     "shows": "plain verb as past",
+     "from": "game"
+    },
+    {
+     "text": "wo drey yah moro",
+     "meaning": "who did seek glory",
+     "shows": "drey + verb",
+     "from": "game"
+    },
+    {
+     "text": "wen zii fen mahfaeraak aak ok brod",
+     "meaning": "whose spirit will forever guide his clan",
+     "shows": "fen + verb",
+     "from": "game"
+    },
+    {
+     "text": "Zu'u fent aam",
+     "meaning": "I shall serve",
+     "shows": "fent + verb",
+     "from": "game"
+    },
+    {
+     "text": "Zu'u lost daal",
+     "meaning": "I have returned",
+     "shows": "lost + verb",
+     "from": "game"
+    },
+    {
+     "text": "Tiid boaan",
+     "meaning": "The time has come",
+     "shows": "-aan",
+     "from": "game"
+    },
+    {
+     "text": "Alduin mahlaan",
+     "meaning": "Alduin has fallen",
+     "shows": "-aan, irregular",
+     "from": "game"
+    },
+    {
+     "text": "wah dein vokul",
+     "meaning": "to keep evil",
+     "shows": "wah + verb",
+     "from": "game"
+    },
+    {
+     "text": "rok los qolaas do moro",
+     "meaning": "he is the herald of glory",
+     "shows": "los",
+     "from": "game"
+    },
+    {
+     "text": "Zu'u Alduin!",
+     "meaning": "I am Alduin!",
+     "shows": "los left out",
+     "from": "game"
+    },
+    {
+     "text": "Keizaal fen kos stin",
+     "meaning": "Skyrim will be free",
+     "shows": "fen kos",
+     "from": "game"
+    }
+   ],
+   "owner_words": "this also seems good",
+   "basis": "Game text: fen 16 tokens, 15 directly before a verb; fent 4; drey 6; wah + verb 23. The perfect is made with -aan alone, with lost + verb, and once with both (lost kriaan). The -a or -ha ending rests on two tokens that do not show the same construction, and the four example forms in the Thuum.org summary do not occur in the game. The makers stated that tense is optional."
   }
  ]
 }

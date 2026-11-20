@@ -20,8 +20,8 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 10 | Pronouns | Accepted 2026-11-18; 'its' and 'their' carried into 11 |
 | 11 | Possession | Settled 2026-11-20 |
 | 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Settled. Question order ruled 2026-11-18: all three of the game's ways are correct. Five question words accepted 2026-11-19 |
-| 12 | Verb forms | Put to the owner 2026-11-20 |
-| 13 | Articles, plurals and adjectives | Queued |
+| 12 | Verb forms | Accepted 2026-11-20 |
+| 13 | Articles, plurals, adjectives, "not" and commands | Put to the owner 2026-11-20 |
 | 14 | A guard against English-centred gap-filling | Queued |
 | 15 | Corrections to the design proposal | Queued |
 | 16 on | A1, A2, A4 to A10, then B1 to B7 and C1 to C8 from the design proposal | Queued |
@@ -210,6 +210,21 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 
 **Accepted 2026-11-19 ("tap"): five question words.** Waar what, wil where, wuz when, wul why, wed how. Each is the game's own answer word with w in front (daar this, til there, ruz then, ful so, med like), to sit beside the game's wo (who) and wen (whose). None was an existing word or occurred in a game text. They are recorded in `research/data/forge-words.json` as ratified in the founding batch, with the words each is one letter from. The game's fod and rul (when) and kolos (in which) stay as joining words.
 
+## 12. Verbs and time
+
+**Ruling, accepted 2026-11-20 ("this also seems good").**
+
+1. A verb has one form; it does not change for person or number.
+2. Marking time is optional. The plain verb can mean present, past or ongoing, and the checker never marks an unmarked verb wrong.
+3. Past: drey + verb. Future: fen + verb. Solemn future: fent + verb.
+4. "Have done" may be said with lost + verb or with the ending -aan; the game uses both.
+5. A new -aan form simply adds -aan. The game's irregular forms (kriaan, mahlaan, naako) are kept.
+6. "To" before a verb is wah + verb.
+7. Los ("is", "are") may be left out where the meaning is clear; kos is "be" after fen and fent.
+8. The ending -a or -ha for "to" is not taught for new sentences. Vokriiha and funta are recognised and explained.
+
+Recorded in `research/data/grammar-rulings.json` (G09-verbs-and-time) with a game example for each point.
+
 ## Evidence notes for the queued proposals
 
 Checked on 2026-11-15 by an independent second parse of the dictionary and by testing its grammar summary against the game texts. These are facts about what the dictionary contains, in this project's own words.
@@ -245,7 +260,7 @@ Checked on 2026-11-15 by an independent second parse of the dictionary and by te
 
 **12. Verbs.** fen plus verb (future) and drey plus verb (past) are well attested. The perfect is made three ways: -aan, lost plus verb, and both together. The -a or -ha infinitive rests on two tokens that do not show the same construction; the four example forms in the summary are unattested.
 
-**13. Articles, plurals, adjectives.** Articles are usually omitted; faal goes with proper names. Plural by doubling the last letter plus e in 14 types, with exceptions (muz, hinde, bruniike) and unchanged plurals. Adjectives stand before the noun about five times as often as after.
+**13. Articles, plurals, adjectives, "not" and commands.** Articles are usually omitted: fin "the" 39 tokens, aan "a" 8, faal "the" 10, while the wiki's translators had to supply "the" 87 times and "a" 10 times; official remarks call aan "not generally used", fin "not commonly used in regular sentence structure" and faal "rare, only used with specific proper nouns or as a sign of reverence". Plural by doubling the last letter plus e in 14 types (dovahhe, sille, meyye, aanne), with exceptions (muz "men", hinde, bruniike) and unchanged plurals (hokoron "enemies" twice, frod "battlefields"); no plural of a noun ending in a vowel is attested. Adjectives stand before the noun about five times as often as after (krin raan, sadon gravuun, vul junaar). Not: ni before the verb in 25 of 27 cases (Zu'u ni faas); after drey or dreh in two (Kel drey ni viik; Dreh ni nahkip). Nid is "no" before a noun (nid balaan klov, "no worthy head"). Commands use the plain verb (Alok; krii daar joorre; Aam uv dir); negative commands occur as verb + ni (Faas ni, "Fear not") and as dreh ni + verb (Dreh ni nahkip, "Do not feed").
 
 **14. English-centred gap-filling.** The introduction gives two reasons for abandoning about 6,000 fan words: the cost of constant revision, and a submission system that "promoted finding missing English translations", with a word-for-word translator, which bred an English-centred approach. It also says the fan vocabulary was built before the language was understood. This bears on the forge's concept list, on English structure as a source, and on reusing the retired fan vocabulary.
 
