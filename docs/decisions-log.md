@@ -18,9 +18,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 8 | Pronunciation convention | Accepted 2026-11-17, with a condition |
 | 9 | The apostrophe and the UU rune | Ruled by the owner 2026-11-18, differently from the recommendation |
 | 10 | Pronouns | Accepted 2026-11-18; 'its' and 'their' carried into 11 |
-| 11 | Possession | Put to the owner 2026-11-18; "their" settled, the rest pending |
+| 11 | Possession | Settled 2026-11-20 |
 | 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Settled. Question order ruled 2026-11-18: all three of the game's ways are correct. Five question words accepted 2026-11-19 |
-| 12 | Verb forms | Queued |
+| 12 | Verb forms | Put to the owner 2026-11-20 |
 | 13 | Articles, plurals and adjectives | Queued |
 | 14 | A guard against English-centred gap-filling | Queued |
 | 15 | Corrections to the design proposal | Queued |
@@ -192,7 +192,7 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 
 **Applied.** `research/data/grammar-rulings.json`, the first entry of the project's grammar rulings, marked provisional, with each form's counts as subject and object in game text and a note of which uses are the project's convention.
 
-## 11. Possession (in progress)
+## 11. Possession
 
 **Settled 2026-11-18: the word for "their" is niist.** The owner weighed ust, which follows the pattern of ok and ek, and chose niist: "I basically made a combination, where it's ni, and then the st from nust. So we're gonna go with NIIST." It is the first word coined for the project, recorded in `research/data/forge-words.json` as ratified in the founding batch. It is said "neest", in one syllable.
 
@@ -202,7 +202,7 @@ On the seventh point the owner did not leave "its" and "their" as gaps. The owne
 
 **Settled 2026-11-20: it reaches the endings only.** The owner: "let's go with 1." The possessive endings are now -i (my), -i'il (your), -i'i (his, her, its) and -u (our), with a glottal stop between the two i's and the apostrophe written in the standard spelling. Inside a word the doubled i is unchanged. A noun ending in ii takes the stop and the rest of the ending (zii, zii'il). The 13 forms in game text stay shown as the game wrote them and are accepted variants. Recorded in `research/data/grammar-rulings.json` (G07-possessive-endings), with the standard spelling of each of the 13 forms; the apostrophe rule in `spelling.json` and the reading convention in `pronunciation.json` are updated to match.
 
-**Still pending:** that both the separate word and the ending are standard; "its" as the ending -i'i with no separate word; hin as the standard "your"; do and se for "of".
+**Accepted 2026-11-20 ("this seems fine"): the rest.** Both ways of showing possession are standard, the separate word before the noun or the ending on it. "Its" is the ending -i'i, with no separate word. Hin is the standard "your" and him a rare variant. For "of" between two nouns do is the general word, and se joins the parts of a compound. Recorded in `research/data/grammar-rulings.json` (G07-possession) with examples.
 
 ## 11b. Questions
 

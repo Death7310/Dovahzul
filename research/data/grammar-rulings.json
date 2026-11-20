@@ -185,8 +185,66 @@
     }
    ],
    "note": "The stop in these endings is this project's convention. The game writes them with the single double-i rune, and nothing is known of how its voice actors say them.",
-   "in_runes": "As with u'u: two separate I runes, with the break mark between them once that sign is designed. The single double-i rune stands for the long vowel inside a word.",
-   "still_open": "Whether both ways of showing possession are standard, 'its' as the ending, hin as the standard 'your', and do and se for 'of' await the owner's confirmation."
+   "in_runes": "As with u'u: two separate I runes, with the break mark between them once that sign is designed. The single double-i rune stands for the long vowel inside a word."
+  },
+  {
+   "id": "G07-possession",
+   "area": "G07 Possession: the two ways, 'its', 'your', and 'of'",
+   "decided": "2026-11-20",
+   "status": "provisional",
+   "proposal": 11,
+   "rules": [
+    "Possession is shown in either of two ways, and both are standard: a separate word before the noun, or an ending on the noun. The checker accepts either.",
+    "The separate words are dii (my, mine), hin (your), ok (his), ek (her), un (our) and niist (their). Niist was coined for this project.",
+    "The endings are set out under G07-possessive-endings.",
+    "'Its' is the ending -i'i. There is no separate word for it.",
+    "Hin is the standard 'your'. Him occurs once in the game and is a rare variant.",
+    "For 'of' between two nouns, do is the general word. Se joins the parts of a compound."
+   ],
+   "examples": [
+    {
+     "text": "dii vul junaar",
+     "meaning": "my dark kingdom",
+     "from": "game"
+    },
+    {
+     "text": "Zu'u hin daan!",
+     "meaning": "I am your doom!",
+     "from": "game"
+    },
+    {
+     "text": "Alduin, thuri!",
+     "meaning": "Alduin, my overlord!",
+     "from": "game"
+    },
+    {
+     "text": "hin dovah / dovahi'il",
+     "meaning": "your dragon, both ways",
+     "from": "built from the rules"
+    },
+    {
+     "text": "niist drog",
+     "meaning": "their lord",
+     "from": "built from the rules, with a coined word"
+    },
+    {
+     "text": "viingi'i",
+     "meaning": "its wing",
+     "from": "built from the rules"
+    },
+    {
+     "text": "Brendon do Dinok",
+     "meaning": "Specter of Death",
+     "from": "game"
+    },
+    {
+     "text": "sossedov",
+     "meaning": "blood of dragonkind",
+     "from": "game"
+    }
+   ],
+   "owner_words": "this seems fine",
+   "basis": "Counts in game text: dii 9, hin 21, him 1, ok 25, ek 4, un 1; endings -i 20, -ii 15, -iil 1, -u 5; do 82. The official definition of se says it should be used when new words are formed."
   }
  ]
 }
