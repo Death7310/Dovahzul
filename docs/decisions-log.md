@@ -24,8 +24,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 13 | Articles, plurals, adjectives, "not" and commands | Accepted 2026-11-20 |
 | 14 | A guard against English-centred gap-filling, and community vocabulary | Accepted 2026-11-22 |
 | 15 | Corrections to the design proposal | In hand 2026-11-22; no decision needed |
-| 16 | A1, the constitution | Put to the owner 2026-11-22 |
-| 17 on | A2, A5 to A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
+| 16 | A1, the constitution | Accepted 2026-11-22 |
+| 17 | A2, licences | Put to the owner 2026-11-22 |
+| 18 on | A5 to A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -258,6 +259,12 @@ Community vocabulary:
 **Applied.** `research/data/forge-policy.json` gathers the forge's rules from this and earlier rulings. `word-status.json` now reads: 390 game, 168 guide, 54 guide website, 7 source untraced, 10 reserved, 21 recorded forms, 6 variants, 1 name; 618 of the 657 entries may be built on.
 
 **Decisions of the design proposal now settled or replaced:** A0 (the repository stays public; the dictionary is included with credit, for non-commercial use), A3 (replaced by proposal 2), A4 (replaced by point 6 above), A8 (the sources for filling gaps: covered by points 1 to 6), C7 (the comparison with Thuum.org's dictionary: done). C3, the listening pass, is no longer needed before lessons (proposal 8).
+
+## 16. The constitution
+
+**Accepted 2026-11-22 ("tap").** Points 1 to 8: game text is the base; every word carries a visible label of where it comes from; checks decide what may be proposed and only the owner ratifies; a new word needs a sentence it is used in, the founding batch excepted; each ruling is published with its reason; grammar rulings are provisional until one release in use; a ratified word never changes its form or meaning and can only be retired; only the owner can change the rules of the official edition. Point 9, succession, is to be written before the first release.
+
+Until the first numbered release, everything decided so far can still be changed. The text is `docs/constitution.md`.
 
 ## Evidence notes for the queued proposals
 
