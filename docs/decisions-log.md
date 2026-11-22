@@ -25,8 +25,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 14 | A guard against English-centred gap-filling, and community vocabulary | Accepted 2026-11-22 |
 | 15 | Corrections to the design proposal | In hand 2026-11-22; no decision needed |
 | 16 | A1, the constitution | Accepted 2026-11-22 |
-| 17 | A2, licences | Put to the owner 2026-11-22 |
-| 18 on | A5 to A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
+| 17 | A2, licences | Accepted 2026-11-22 |
+| 18 | A5, installers, spending and the permanent address | Put to the owner 2026-11-22 |
+| 19 on | A6, A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -265,6 +266,18 @@ Community vocabulary:
 **Accepted 2026-11-22 ("tap").** Points 1 to 8: game text is the base; every word carries a visible label of where it comes from; checks decide what may be proposed and only the owner ratifies; a new word needs a sentence it is used in, the founding batch excepted; each ruling is published with its reason; grammar rulings are provisional until one release in use; a ratified word never changes its form or meaning and can only be retired; only the owner can change the rules of the official edition. Point 9, succession, is to be written before the first release.
 
 Until the first numbered release, everything decided so far can still be changed. The text is `docs/constitution.md`.
+
+## 17. Licences
+
+**Accepted 2026-11-22 ("tap").** Three kinds of material, three answers:
+
+- Files built from the wiki editors' text stay under the wiki's share-alike licence, with credit. Not a choice.
+- Files built from Thuum.org's dictionary are for non-commercial use only, with credit, on the basis the owner reported.
+- The project's own work: lessons, rulings and coined words under Creative Commons Attribution-NonCommercial-ShareAlike 4.0; program code under the GPL, version 3 or later; the font, when made, under the Open Font License with its name reserved.
+
+This replaces the fully open licence recommended in the design proposal. The reasons: Thuum.org's material is non-commercial only, and the owner wants nobody to make money from the project. The costs put to the owner: other share-alike projects cannot merge the content; "commercial" is not sharply defined in law; the code alone could still be sold. Until someone else contributes, the owner can change this; afterwards not without the contributors' agreement.
+
+**Applied.** `NOTICE.md` says which terms cover which files, including the files that draw on more than one source; the licence texts are in `LICENSES/`; the README is updated.
 
 ## Evidence notes for the queued proposals
 

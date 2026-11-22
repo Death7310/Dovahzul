@@ -14,6 +14,8 @@ This repository holds research and a design proposal for a free, offline app tha
 | `research/sources/uesp/` | The wiki snapshot the data was built from; see `ATTRIBUTION.md` there |
 | `research/sources/thuum/` | Thuum.org's Fifth Edition dictionary; see `ATTRIBUTION.md` there |
 | `tools/` | Scripts that fetch, parse, check and analyse the data |
+| `NOTICE.md`, `LICENSES/` | What terms cover what, and the licence texts |
+| `docs/constitution.md`, `docs/decisions-log.md` | The rules about who decides, and every ruling made so far |
 
 ## Sources and licences
 
@@ -21,11 +23,11 @@ Text under `research/sources/uesp/`, and the data files under `research/data/` b
 
 The dictionary under `research/sources/thuum/`, and `research/data/fifth-edition.json` built from it, are the work of Thuum.org and its contributors, used here for non-commercial purposes with credit. The basis for that use is set out in `research/sources/thuum/ATTRIBUTION.md`.
 
-No licence has yet been chosen for the project's own material (reports, design, scripts). Until one is, all rights in that material are reserved by its authors.
+The project's own work is licensed as follows: program code under the GNU General Public License, version 3 or later; the project's writing, rulings and coined words under Creative Commons Attribution-NonCommercial-ShareAlike 4.0. `NOTICE.md` says which terms cover which files, and the licence texts are in `LICENSES/`.
 
 ## Status
 
-Research is complete and the design proposal is with the project owner. Nothing here is legal advice.
+Research is complete. The project owner is ruling on the design one decision at a time; `docs/decisions-log.md` records each ruling. No app exists yet. Nothing here is legal advice.
 
 ## Contact
 
