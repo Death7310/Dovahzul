@@ -101,15 +101,18 @@ for r in R['wiki_entries']:
             row.update({'meaning_grade': 'later_game', 'later_game': games[0], 'meaning_is': 'the wiki reading' if defs[w] else 'not recorded',
                         'single_source': False, 'may_be_built_on': None, 'waits_on': 'proposal 4'})
         elif r['wiki_source_class'] == 'untraced_list_only':
-            row.update({'meaning_grade': 'unconfirmed', 'meaning_sources': [], 'single_source': False, 'may_be_built_on': False})
+            # proposal 14: the words with nothing behind them but the untraced list are kept and usable, labelled
+            row.update({'meaning_grade': 'source_untraced', 'meaning_sources': [], 'single_source': True, 'may_be_built_on': True,
+                        'note': 'kept by the owner\'s ruling on proposal 14; shown with the label "source untraced"'})
         else:
             row.update({'meaning_grade': None, 'single_source': False, 'may_be_built_on': None, 'waits_on': 'proposal 4'})
     rows.append(row)
 counts = collections.Counter(str(r['meaning_grade']) for r in rows)
-out = {'meta': {'what': 'The standing of each wiki dictionary entry\'s meaning, by the rulings in docs/decisions-log.md, proposals 2, 4 and 5.',
+out = {'meta': {'what': 'The standing of each wiki dictionary entry\'s meaning, by the rulings in docs/decisions-log.md, proposals 2, 4, 5 and 14.',
                 'grades': {'game': 'defined in the game\'s own material', 'guide': 'defined in the printed official guide, no game source',
                            'guide_website': 'defined only in the guide publisher\'s online word list (single source)',
                            'unconfirmed': 'no official definition found; may not be built on until ruled',
+                           'source_untraced': 'known only from a word list whose origin could not be traced; kept and usable by the owner\'s ruling, with that label',
                            'recorded_form': 'a form of a word the project already has; filed under that word',
                            'reserved': 'a later-game word with no recorded meaning; never given one, spelling not reused',
                            'name': 'a proper name',

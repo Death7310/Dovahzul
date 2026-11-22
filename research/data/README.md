@@ -394,3 +394,7 @@ The owner's rulings on the open areas of grammar listed in `grammar-gaps.json`, 
 ## forge-words.json
 
 Words coined for this project and ratified by the owner. Each entry gives the word, its meaning and class, what it was built from, who coined it and when, the checks it passed (not an existing word, not in any game text, nothing one letter away, an attested sound pattern), how it is said and how it is written in runes. Everything here is invented and is labelled so in the app.
+
+## forge-policy.json
+
+The rules the forge works by, gathered from the owner's rulings: how a new word is made, what may be built on, the form a new word must take, how community vocabulary is treated, what the app will not have, and who decides. Each rule names the proposal in `docs/decisions-log.md` that set it.

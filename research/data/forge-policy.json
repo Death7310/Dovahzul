@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "what": "The rules the forge works by, as ruled by the project owner. Each rule names the proposal in docs/decisions-log.md that set it.",
+  "status": "Provisional until the first numbered release."
+ },
+ "how_a_new_word_is_made": [
+  {
+   "rule": "A new word starts from a sentence, not from a word list. A proposal must include the dragon-language sentence the word is needed for.",
+   "proposal": 14,
+   "example": "The question words came from a sentence the owner wanted to say: Why did you do that?"
+  },
+  {
+   "rule": "Before coining, try what the language already has: an existing word, a phrase, a form built on an existing family, or a compound.",
+   "proposal": 14
+  },
+  {
+   "rule": "Where English has two words for what the language treats as one idea, no new word is made.",
+   "proposal": 14,
+   "example": "No word may be coined for 'me': zu'u is both 'I' and 'me' (grammar ruling G06-pronouns)."
+  },
+  {
+   "rule": "A coined word is defined by how it is used, with a short explanation and examples, not by a single English word.",
+   "proposal": 14
+  },
+  {
+   "rule": "The first batch of missing words comes from the course's own conversation scenes: the scenes are written, and the words they cannot be written without are brought to the owner. Lists of basic English concepts are a cross-check, not the to-do list.",
+   "proposal": 14
+  }
+ ],
+ "what_may_be_built_on": [
+  {
+   "rule": "Words graded game, guide or guide website may be used as building parts. Guide-website words carry a single-source mark.",
+   "proposal": 2
+  },
+  {
+   "rule": "The seven words whose source is untraced (naas, raal, um, unraak, viint, vindahlheim, vos) are kept and usable, labelled 'source untraced'.",
+   "proposal": 14
+  },
+  {
+   "rule": "Ten later-game words with no recorded meaning are reserved: never given an invented meaning, and their spellings not reused.",
+   "proposal": 4
+  },
+  {
+   "rule": "A spelling variant is not a separate word and cannot be built on.",
+   "proposal": 5
+  }
+ ],
+ "form_of_a_new_word": [
+  {
+   "rule": "Only the standard spelling is accepted in new writing.",
+   "proposal": 5
+  },
+  {
+   "rule": "An apostrophe is accepted in two places only: between two u's where the coiner declares a break, and in the possessive endings -i'i and -i'il.",
+   "proposal": "9 and 11"
+  },
+  {
+   "rule": "A new verb or adjective is strong (it can also serve as a noun) unless a separate noun for the same idea exists.",
+   "proposal": 7
+  },
+  {
+   "rule": "A word may be used in every role the word-type system allows.",
+   "proposal": 7
+  },
+  {
+   "rule": "The pronunciation of a new word is worked out from its spelling by the rule in pronunciation.json. Stress goes on the root the coiner declares; for a new root, on the first syllable.",
+   "proposal": 8
+  }
+ ],
+ "community_vocabulary": [
+  {
+   "rule": "Things created by the community can be kept.",
+   "proposal": 6,
+   "owner_words": "we can keep things created by the community... that's how language naturally evolves"
+  },
+  {
+   "rule": "The retired Thuum.org fan vocabulary is a source of candidates, not a set of accepted words. A fan word comes in through the same door as any other: a sentence that needs it, the checks, the owner's ratification, and credit to its maker.",
+   "proposal": 14
+  }
+ ],
+ "what_the_app_will_not_have": [
+  {
+   "rule": "No automatic translator that turns English sentences into dragon ones word by word. Looking a word up in the dictionary stays.",
+   "proposal": 14,
+   "why": "Thuum.org's administrator names the word-for-word translator, with a submission system that promoted finding missing English translations, as what pushed its community toward an English-centred view of the language."
+  }
+ ],
+ "who_decides": "Checks decide what may be proposed. Only the owner ratifies. A ratified word never changes its form or meaning; it can only be retired."
+}

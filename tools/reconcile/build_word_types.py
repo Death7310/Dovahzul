@@ -39,7 +39,7 @@ for e in F['entries']:
     if note: row['note'] = note
     rows.append(row); tally[cls] += 1
 have = {re.sub(r"[^a-z]", "", r['word'].lower()) for r in rows}
-pending = [w['word'] for w in W['words'] if w.get('meaning_grade') in ('game', 'guide', 'guide_website', 'unconfirmed')
+pending = [w['word'] for w in W['words'] if w.get('meaning_grade') in ('game', 'guide', 'guide_website', 'unconfirmed', 'source_untraced')
            and not w['in_fifth_edition'] and not any(re.sub(r"[^a-z]", "", f.lower()) in have for f in re.split(r'[,(]', w['word']))]
 out = {'meta': {'what': 'The project\'s word types, under the ruling recorded as proposal 7 in docs/decisions-log.md.',
                 'credit': 'The classification is Thuum.org\'s, from its Fifth Edition dictionary (non-commercial use; see research/sources/thuum/ATTRIBUTION.md). The dictionary calls it unofficial.',

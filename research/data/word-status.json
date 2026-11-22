@@ -1,11 +1,12 @@
 {
  "meta": {
-  "what": "The standing of each wiki dictionary entry's meaning, by the rulings in docs/decisions-log.md, proposals 2, 4 and 5.",
+  "what": "The standing of each wiki dictionary entry's meaning, by the rulings in docs/decisions-log.md, proposals 2, 4, 5 and 14.",
   "grades": {
    "game": "defined in the game's own material",
    "guide": "defined in the printed official guide, no game source",
    "guide_website": "defined only in the guide publisher's online word list (single source)",
    "unconfirmed": "no official definition found; may not be built on until ruled",
+   "source_untraced": "known only from a word list whose origin could not be traced; kept and usable by the owner's ruling, with that label",
    "recorded_form": "a form of a word the project already has; filed under that word",
    "reserved": "a later-game word with no recorded meaning; never given one, spelling not reused",
    "name": "a proper name",
@@ -19,7 +20,7 @@
    "name": 1,
    "recorded_form": 21,
    "reserved": 10,
-   "unconfirmed": 7,
+   "source_untraced": 7,
    "variant": 6
   },
   "caution": "A grade says where the definition is cited from. A few definitions are misprinted in the Fifth Edition copy (see the doubt field), and no cited definition replaces a wiki meaning until the game source has been checked."
@@ -4508,10 +4509,11 @@
    "word": "Naas",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Nah",
@@ -5628,10 +5630,11 @@
    "word": "Raal",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Raan",
@@ -6947,10 +6950,11 @@
    "word": "Um",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Un",
@@ -6967,10 +6971,11 @@
    "word": "Unraak",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Unslaad, Unahzaal",
@@ -7304,10 +7309,11 @@
    "word": "Viint",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Viintaas",
@@ -7337,10 +7343,11 @@
    "word": "Vindahlheim",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Vith",
@@ -7536,10 +7543,11 @@
    "word": "Vos",
    "word_attested": "untraced_list_only",
    "in_fifth_edition": false,
-   "meaning_grade": "unconfirmed",
+   "meaning_grade": "source_untraced",
    "meaning_sources": [],
-   "single_source": false,
-   "may_be_built_on": false
+   "single_source": true,
+   "may_be_built_on": true,
+   "note": "kept by the owner's ruling on proposal 14; shown with the label \"source untraced\""
   },
   {
    "word": "Voth",

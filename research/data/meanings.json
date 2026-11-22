@@ -13,6 +13,7 @@
   },
   "added_words": "Words added from the Fifth Edition are in lexicon-additions.json. Vosaraan there carries the developer note's meaning, by this ruling.",
   "counts": {
+   "kept; source untraced": 7,
    "later game or single ruling": 12,
    "misprint in copy": 6,
    "name": 1,
@@ -23,7 +24,6 @@
    "ruled individually": 7,
    "single ruling": 2,
    "sources agree": 570,
-   "unconfirmed": 7,
    "variant": 6
   }
  },
@@ -2986,10 +2986,10 @@
   },
   {
    "word": "Naas",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Tooth",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Nah",
@@ -3714,10 +3714,10 @@
   },
   {
    "word": "Raal",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Survive, last (v.)",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Raan",
@@ -4600,10 +4600,10 @@
   },
   {
    "word": "Um",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Twin",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Un",
@@ -4616,10 +4616,10 @@
   },
   {
    "word": "Unraak",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Marriage, marry, married.",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Unslaad, Unahzaal",
@@ -4836,10 +4836,10 @@
   },
   {
    "word": "Viint",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Shine",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Viintaas",
@@ -4859,10 +4859,10 @@
   },
   {
    "word": "Vindahlheim",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Forever",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Vith",
@@ -4998,10 +4998,10 @@
   },
   {
    "word": "Vos",
-   "grade": "unconfirmed",
+   "grade": "source_untraced",
    "meaning_of_record": "Claw",
    "from": "the wiki reading",
-   "how_settled": "unconfirmed"
+   "how_settled": "kept; source untraced"
   },
   {
    "word": "Voth",

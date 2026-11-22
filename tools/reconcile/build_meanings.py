@@ -82,7 +82,7 @@ for r in R['wiki_entries']:
         if any(e.get('doubt') for e in heads) and 'printed_in_copy' not in row: row['doubt'] = '; '.join(e['doubt'] for e in heads if e.get('doubt'))
     else:
         row.update({'meaning_of_record': wdef or None, 'from': 'the wiki reading' if wdef else None,
-                    'how_settled': {'game': 'later game or single ruling', 'guide': 'single ruling', 'unconfirmed': 'unconfirmed'}.get(st.get('meaning_grade'), 'see word-status.json')})
+                    'how_settled': {'game': 'later game or single ruling', 'guide': 'single ruling', 'unconfirmed': 'unconfirmed', 'source_untraced': 'kept; source untraced'}.get(st.get('meaning_grade'), 'see word-status.json')})
     tally[row['how_settled'] if len(row['how_settled']) < 60 else 'misprint in copy'] += 1
     rows.append(row)
 out = {'meta': {'what': 'The meaning of record for each wiki dictionary entry, under the ruling recorded as proposal 6 in docs/decisions-log.md.',

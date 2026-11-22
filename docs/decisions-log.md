@@ -22,9 +22,10 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 11b | Question words and how questions are formed (raised by the owner 2026-11-18) | Settled. Question order ruled 2026-11-18: all three of the game's ways are correct. Five question words accepted 2026-11-19 |
 | 12 | Verb forms | Accepted 2026-11-20 |
 | 13 | Articles, plurals, adjectives, "not" and commands | Accepted 2026-11-20 |
-| 14 | A guard against English-centred gap-filling, and community vocabulary | Put to the owner 2026-11-20 |
-| 15 | Corrections to the design proposal | Queued |
-| 16 on | A1, A2, A4 to A10, then B1 to B7 and C1 to C8 from the design proposal | Queued |
+| 14 | A guard against English-centred gap-filling, and community vocabulary | Accepted 2026-11-22 |
+| 15 | Corrections to the design proposal | In hand 2026-11-22; no decision needed |
+| 16 | A1, the constitution | Put to the owner 2026-11-22 |
+| 17 on | A2, A5 to A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -236,6 +237,27 @@ Recorded in `research/data/grammar-rulings.json` (G09-verbs-and-time) with a gam
 - A command is the plain verb. "Don't" is verb + ni or dreh ni + verb; both are correct.
 
 Recorded in `research/data/grammar-rulings.json` as five provisional rulings, each with game examples.
+
+## 14. How new words get made, and community vocabulary
+
+**Ruling, accepted 2026-11-22 ("This seems acceptable").**
+
+How a new word is made:
+
+1. A new word starts from a sentence, not from a word list. A proposal must include the dragon-language sentence the word is needed for.
+2. Before coining, try what the language already has. Where English has two words for what the language treats as one idea, no new word is made.
+3. A coined word is defined by how it is used, with an explanation and examples, not by a single English word.
+4. The app has no automatic sentence translator. Dictionary lookup stays.
+5. The first batch of missing words comes from the course's own conversation scenes. Lists of basic English concepts are a cross-check.
+
+Community vocabulary:
+
+6. The retired Thuum.org fan vocabulary is a source of candidates, not a set of accepted words. A fan word comes in through the same door as any other, with credit to its maker. This replaces decision A4 of the design proposal.
+7. The seven words that were graded Unconfirmed (naas, raal, um, unraak, viint, vindahlheim, vos) are kept and usable, labelled "source untraced".
+
+**Applied.** `research/data/forge-policy.json` gathers the forge's rules from this and earlier rulings. `word-status.json` now reads: 390 game, 168 guide, 54 guide website, 7 source untraced, 10 reserved, 21 recorded forms, 6 variants, 1 name; 618 of the 657 entries may be built on.
+
+**Decisions of the design proposal now settled or replaced:** A0 (the repository stays public; the dictionary is included with credit, for non-commercial use), A3 (replaced by proposal 2), A4 (replaced by point 6 above), A8 (the sources for filling gaps: covered by points 1 to 6), C7 (the comparison with Thuum.org's dictionary: done). C3, the listening pass, is no longer needed before lessons (proposal 8).
 
 ## Evidence notes for the queued proposals
 
