@@ -27,8 +27,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 16 | A1, the constitution | Accepted 2026-11-22 |
 | 17 | A2, licences | Accepted 2026-11-22 |
 | 18 | A5, installers, spending and the permanent address | Ruled 2026-11-23: standalone programs on all three systems are the end goal; a web app first is acceptable |
-| 19 | A7, names | Queued |
-| 20 on | A6, A9, A10; the order of sources where the game is silent and the rule against borrowing word forms (the part of A8 not yet ruled); then B1 to B7 and the remaining C tasks | Queued |
+| 19 | A7, names | Ruled 2026-11-23: the name is Zu'u Tinvaak Dovah. No borrowing from real languages |
+| 20 | A6, the game texts pack | Put to the owner 2026-11-23 |
+| 21 on | A9, A10; the order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -291,6 +292,17 @@ What this commits the project to, by system (research report 13; checked in revi
 The address question (a free GitHub address or the owner's own) was not answered. With standalone programs as the goal the address matters less, because an installed program does not depend on it.
 
 **Corrections to earlier entries.** Decision A8 was recorded under item 14 as settled. Only part of it was: that what the language already has is tried first, and how fan vocabulary is treated. The order of sources where the game is silent (analogy inside the language, then simplified English structure, then Old Norse and Old English patterns for word-building and style) and the rule that word forms are never borrowed from real languages have not been put to the owner and are back in the queue. On the High Hrothgar banner: the Fifth Edition says it spells tu'um with the double-U rune; the project's own record of the banner does not show which runes it uses. On kogaan: the developer's note "blessings (thankfully)" is quoted in the Fifth Edition's usage section for a line of Paarthurnax; the official definition itself is "Blessing".
+
+## 19. The name, and borrowing
+
+**The owner's ruling, 2026-11-23.** "We will go with 'Zu'u Tinvaak Dovah' as the name. We don't borrow words from English or other real languages. Maybe daedric but no borrowing from real languages."
+
+- **The name is Zu'u Tinvaak Dovah, "I speak dragon".** All three words are the game's: zu'u (I), tinvaak (speak), dovah (dragon). It was the owner's own, offered in place of the three candidates.
+- **Checked.** A web search found no app or product of that name or named Tinvaak; fans use the compound Dovahtinvaak, "dragon-speech", for the language. A search of trademark listings found registrations for "The Elder Scrolls" and none for a term beginning Dovah, but those listings were third-party copies, not the registers themselves. A search of the registers themselves is still to be done before release.
+- **No word is borrowed from English or any other real language.** This settles that part of decision A8 and is recorded in `research/data/forge-policy.json`.
+- **Borrowing from the game world's own languages** is not ruled out and not yet decided. Daedric in the games is an alphabet used to write English, not a stock of words.
+
+Still open from A8: the order of sources where the game is silent on how a sentence is built.
 
 ## Evidence notes for the queued proposals
 

@@ -25,6 +25,12 @@
   {
    "rule": "The first batch of missing words comes from the course's own conversation scenes: the scenes are written, and the words they cannot be written without are brought to the owner. Lists of basic English concepts are a cross-check, not the to-do list.",
    "proposal": 14
+  },
+  {
+   "rule": "No word is borrowed from English or any other real language.",
+   "proposal": "19 (ruled with the name, 2026-11-23)",
+   "owner_words": "We don't borrow words from English or other real languages. Maybe daedric but no borrowing from real languages.",
+   "note": "Borrowing from the game world's own languages is not ruled out and not yet decided. Daedric in the games is an alphabet used to write English, not a stock of words; the game world's languages that do have word lists are others. A word built from game words may by chance look like a real word; that is not borrowing."
   }
  ],
  "what_may_be_built_on": [

@@ -1,4 +1,6 @@
-# Dragon language research and design workspace
+# Zu'u Tinvaak Dovah
+
+*"I speak dragon."* An unofficial guide to the dragon language of *The Elder Scrolls V: Skyrim*. This repository is the project's research and design workspace.
 
 **Unofficial fan project.** Not affiliated with, endorsed or sponsored by Bethesda Softworks, ZeniMax Media or Microsoft. The Elder Scrolls and Skyrim are trademarks of ZeniMax Media Inc. Dragon-language text from the games belongs to its owners and is quoted here for study and commentary.
 
