@@ -29,8 +29,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 18 | A5, installers, spending and the permanent address | Ruled 2026-11-23: standalone programs on all three systems are the end goal; a web app first is acceptable |
 | 19 | A7, names | Ruled 2026-11-23: the name is Zu'u Tinvaak Dovah. No borrowing from real languages |
 | 20 | A6, the game texts pack | Accepted 2026-11-23: included, as a component that can be taken out |
-| 21 | A9, where invented words appear | Put to the owner 2026-11-23 |
-| 22 on | A10; the order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
+| 21 | A9, where invented words appear | Ruled 2026-11-23: both kinds of content on by default, with a setting to remove either |
+| 22 | A10, a lawyer's review | Put to the owner 2026-11-23 |
+| 23 on | The order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -317,6 +318,14 @@ Still open from A8: the order of sources where the game is silent on how a sente
 Taken as accepted with it, since the owner raised no objection: a game text is always shown with its words explained or inside an exercise, never as bare text; and there is a routine for complaints, with a public contact, an answer within two days, and a one-step way to publish the app without the component. The two-day answer is a commitment on the owner's part and was pointed out as such.
 
 Said to the owner in reply: being free of charge lowers the risk and does not remove it. It is one thing a court weighs, and rights holders tolerate free fan work more readily, but it is not a permission. The removable component is the protection.
+
+## 21. Where invented words appear
+
+**The owner's ruling, 2026-11-23**, in place of the recommendation (which was to ask on first launch). "You can just have a button in settings that removes one or the other content, but by default they're both on."
+
+- Both kinds of content are on by default: what the games contain, and what this project adds.
+- A setting lets the user remove either kind.
+- Everything the project adds stays labelled as such whether or not the setting is used (constitution, rule 2).
 
 ## Evidence notes for the queued proposals
 

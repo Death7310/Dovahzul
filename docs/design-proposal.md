@@ -1,6 +1,6 @@
 # Design proposal: a teaching app and language forge for the dragon language
 
-**Status:** second draft, revised after the owner's rulings. Partly decided: log items 1 to 14 and 16 to 20 are ruled; the rest are open. `docs/decisions-log.md` records each ruling with the owner's words and the evidence ("log item 6" below means entry 6 there). No app code has been written.
+**Status:** second draft, revised after the owner's rulings. Partly decided: log items 1 to 14 and 16 to 21 are ruled; the rest are open. `docs/decisions-log.md` records each ruling with the owner's words and the evidence ("log item 6" below means entry 6 there). No app code has been written.
 **Date:** 2026-11-23.
 **Evidence:** the fifteen reports in `research/` and the data in `research/data/`.
 **Review:** four independent reviewers checked the first draft and two more the second; their corrections are in. This revision changes what the rulings and the Thuum.org dictionary changed. Section 13 says what is still unverified.
@@ -105,7 +105,7 @@ Of the seven areas that blocked teaching outright, five are ruled (sound values,
 | **Forge** | Propose words and see them checked; browse rulings and open gaps |
 | **Reference** | Dictionary, grammar, rune converter, pronunciation guide |
 
-Every word, rule and sentence carries a visible label saying where it comes from. Invented words sit in a separate track that the learner switches on (still open; section 12). There is no translator that turns English sentences into dragon ones; dictionary lookup stays (log item 14).
+Every word, rule and sentence carries a visible label saying where it comes from. What the games contain and what this project adds are both shown by default, and a setting removes either (decided; log item 21). There is no translator that turns English sentences into dragon ones; dictionary lookup stays (log item 14).
 
 ---
 
@@ -408,6 +408,7 @@ Stopping after A still leaves a usable reader; stopping after C leaves a course 
 | 18 | Standalone programs | The end goal for Mac, Windows and Android, running with no connection; a web app may come first (section 8) |
 | 19 | The name; borrowing | *Zu'u Tinvaak Dovah*, "I speak dragon", three words of the game's. No word is borrowed from English or any other real language |
 | 20 | The game's own texts | Included, as a component that can be taken out; always shown with the words explained; a routine for complaints. The owner means in time to write original texts to replace them |
+| 21 | Where invented words appear | Both kinds of content are on by default: the games' and the project's additions. A setting removes either. Additions are always labelled |
 
 **Until the first numbered release, everything decided so far can still be changed** (log item 16).
 
@@ -417,9 +418,7 @@ In the order of the log's queue.
 
 **The permanent address** (left unanswered; log item 18). An installed copy of the web app is tied to its web address, so the address must be fixed before the web app is first released. A standalone program does not depend on it, so the question matters less than it did. The choice: the free GitHub address (no cost; if the host removes the site, installed copies of the web app lose their update channel for good) or a web address of your own (roughly 10 to 15 dollars a year; it must never lapse). *Working default: the free GitHub address, unless you say you want your own.* Either way the app should live in its own repository, apart from this one. What to spend on the programs is also unanswered; it is chosen when they are packaged (section 8).
 
-**Where invented words appear** (put to you on 2026-11-23). Options: off by default, switched on once with an explanation (this draft); or on by default with a "games only" switch. The community report advises the first, because today's fan hub keeps to official words. Conversation cannot be taught without invented words, and six already exist. Either way an invented word is always labelled. *Recommendation: off by default.*
-
-**A lawyer's review before public release,** of the name, the licences and the text policy, as the legal report advises; I would add the basis for using Thuum.org's dictionary. *Recommendation: yes if you can; at the least before any standalone program is published or listed in a store.*
+**A lawyer's review before public release** (put to you on 2026-11-23), of the name, the licences and the text policy, as the legal report advises; I would add the basis for using Thuum.org's dictionary. *Recommendation: yes if you can; at the least before any standalone program is published or listed in a store.*
 
 **The order of sources where the game is silent** (section 4.5). Not yet put to you. *Recommendation: accept it; a brief will set out the evidence first.* The rule against borrowing words from real languages is now ruled (log item 19); whether to borrow from the game world's own languages is undecided.
 
