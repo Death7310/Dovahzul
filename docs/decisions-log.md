@@ -30,8 +30,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 19 | A7, names | Ruled 2026-11-23: the name is Zu'u Tinvaak Dovah. No borrowing from real languages |
 | 20 | A6, the game texts pack | Accepted 2026-11-23: included, as a component that can be taken out |
 | 21 | A9, where invented words appear | Ruled 2026-11-23: both kinds of content on by default, with a setting to remove either |
-| 22 | A10, a lawyer's review | Put to the owner 2026-11-23 |
-| 23 on | The order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
+| 22 | A10, a lawyer's review | Declined 2026-11-23: the open licences are attached and the project goes ahead |
+| 23 | Go-ahead to build and release | Given by the owner 2026-11-23 |
+| 24 on | The order of sources where the game is silent (the part of A8 still open); further rulings on the language; the tasks only the owner can do | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -326,6 +327,17 @@ Said to the owner in reply: being free of charge lowers the risk and does not re
 - Both kinds of content are on by default: what the games contain, and what this project adds.
 - A setting lets the user remove either kind.
 - Everything the project adds stays labelled as such whether or not the setting is used (constitution, rule 2).
+
+## 22 and 23. No lawyer's review; the go-ahead to build
+
+**The owner's words, 2026-11-23.** "Its an open license that needs to be attached. Go ahead and build an release unless there is anything else needed for approval."
+
+- **No lawyer's review.** The licences the owner chose are attached (`LICENSES/`, `NOTICE.md`), and the project goes ahead on that. Said to the owner earlier and still true: those licences cover the project's own work, not the game's material, which the project uses without a licence from its publisher.
+- **The go-ahead.** Building starts, with the first release being the reader and reference described in the design proposal (stage A): the dictionary with its labels, the rune chart and converter, the 64 inscriptions with every word explained, rune practice, backup and restore, and the notices.
+- **The reversible defaults of the design proposal are taken as accepted** with the go-ahead, and can be changed at any time: lesson texts drafted by the assistant and approved by the owner; submissions through a free GitHub account, with a file route; a weekly target in place of streaks; at most two words per concept and no brand-new stems for modern concepts; the four items left out of the first version; the course written for English-speaking learners; no new letter-runes for now.
+- **Access granted the same day:** the wiki's image server, so that reference pictures of the 34 runes can be viewed. The pictures are for measuring only and are not put in the repository; the project's runes are drawn fresh.
+
+**What still needs the owner**, none of it holding up the start of building: the macOS and Android versions of the owner's devices; turning on the website for the repository when the first version is ready, which is the act that makes it public; testing on the owner's own devices; and, for standalone programs later, the accounts and fees set out under item 18.
 
 ## Evidence notes for the queued proposals
 
