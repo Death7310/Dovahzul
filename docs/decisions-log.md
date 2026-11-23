@@ -26,8 +26,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 15 | Corrections to the design proposal | In hand 2026-11-22; no decision needed |
 | 16 | A1, the constitution | Accepted 2026-11-22 |
 | 17 | A2, licences | Accepted 2026-11-22 |
-| 18 | A5, installers, spending and the permanent address | Put to the owner 2026-11-22 |
-| 19 on | A6, A7, A9, A10, then B1 to B7 and the remaining C tasks from the design proposal | Queued |
+| 18 | A5, installers, spending and the permanent address | Ruled 2026-11-23: standalone programs on all three systems are the end goal; a web app first is acceptable |
+| 19 | A7, names | Queued |
+| 20 on | A6, A9, A10; the order of sources where the game is silent and the rule against borrowing word forms (the part of A8 not yet ruled); then B1 to B7 and the remaining C tasks | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -278,6 +279,18 @@ Until the first numbered release, everything decided so far can still be changed
 This replaces the fully open licence recommended in the design proposal. The reasons: Thuum.org's material is non-commercial only, and the owner wants nobody to make money from the project. The costs put to the owner: other share-alike projects cannot merge the content; "commercial" is not sharply defined in law; the code alone could still be sold. Until someone else contributes, the owner can change this; afterwards not without the contributors' agreement.
 
 **Applied.** `NOTICE.md` says which terms cover which files, including the files that draw on more than one source; the licence texts are in `LICENSES/`; the README is updated.
+
+## 18. Installing and the end goal
+
+**The owner's ruling, 2026-11-23.** "We want this to be a standalone program on Mac, on Windows, on Android. We want it to work and function on all three of them independently without an internet connection. And so if you have to do that with a web address first or web app first, fine, we can do that. But the end goal is what I stated."
+
+So: standalone programs for Mac, Windows and Android that run with no connection are the committed end goal, not an optional later stage. A web app may come first as a step toward it. The same program is the core of both: the web app is wrapped to make the standalone programs.
+
+What this commits the project to, by system (research report 13; checked in review in November 2026): on Windows, a free listing in the Microsoft Store, which needs an identity check, or an installer from the project's own site that shows a security warning; on Android, a developer account with identity documents and a one-time fee of 25 dollars, or a file from the project's own site that a user must allow by hand; on Mac, 99 dollars a year to Apple for an installer with no warning, or an installer that the user must approve in System Settings. The owner has not yet said what to spend or which accounts to open; those choices come when the programs are packaged.
+
+The address question (a free GitHub address or the owner's own) was not answered. With standalone programs as the goal the address matters less, because an installed program does not depend on it.
+
+**Corrections to earlier entries.** Decision A8 was recorded under item 14 as settled. Only part of it was: that what the language already has is tried first, and how fan vocabulary is treated. The order of sources where the game is silent (analogy inside the language, then simplified English structure, then Old Norse and Old English patterns for word-building and style) and the rule that word forms are never borrowed from real languages have not been put to the owner and are back in the queue. On the High Hrothgar banner: the Fifth Edition says it spells tu'um with the double-U rune; the project's own record of the banner does not show which runes it uses. On kogaan: the developer's note "blessings (thankfully)" is quoted in the Fifth Edition's usage section for a line of Paarthurnax; the official definition itself is "Blessing".
 
 ## Evidence notes for the queued proposals
 

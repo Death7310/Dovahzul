@@ -202,7 +202,9 @@ for e in F['entries']:
         # Proposal 9: the apostrophe marks a break between the two u's, so the form with the break is the one taught.
         longer = [v for v in vs if n_syll(v) > n_syll(vs[0])]
         if longer:
-            row['taught'] = longer[0]; row['also_accepted'] = [v for v in vs if v != longer[0]]
+            row['taught'] = re.sub(r"u([ ˈˌ]+)([uʌ])", r"u\1ʔ\2", longer[0], count=1)   # write the stop between the two vowels
+            row['taught_form_in_the_dictionary'] = longer[0]
+            row['also_accepted'] = [v for v in vs if v != longer[0]]
             row['break_between_the_two_u'] = 'a light catch in the throat (a glottal stop), which the apostrophe writes'
             row['note'] = 'Taught with the break by the ruling on proposal 9. The dictionary lists the one-syllable form first; it stays accepted.'
     words.append(row)

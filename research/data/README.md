@@ -365,11 +365,11 @@ To regenerate, see the headers of `tools/reconcile/parse_fifth_edition.py` and `
 
 ## word-status.json
 
-The standing of each wiki dictionary entry's meaning under the ruling recorded as proposal 2 in `docs/decisions-log.md`. Each row gives the word, where the wiki says the word itself occurs, whether the Fifth Edition has it, the grade of its meaning (`game`, `guide`, `guide_website`, `unconfirmed`, `later_game`, or none while a ruling is pending), whether it rests on a single source, and whether it may be used as a building part in the forge. Built by `tools/reconcile/grade_words.py`; `meta.counts` has the totals.
+The standing of each wiki dictionary entry's meaning under the ruling recorded as proposal 2 in `docs/decisions-log.md`. Each row gives the word, where the wiki says the word itself occurs, whether the Fifth Edition has it, the grade of its meaning (`game`, `guide`, `guide_website`, `source_untraced`, `reserved`, `recorded_form`, `variant` or `name`), whether it rests on a single source, and whether it may be used as a building part in the forge. Built by `tools/reconcile/grade_words.py`; `meta.counts` has the totals.
 
 ## lexicon-additions.json
 
-Words added to the project from the Fifth Edition under the ruling recorded as proposal 3 in `docs/decisions-log.md`: 18 vocabulary entries with their meaning, grade, the sources the Fifth Edition cites, how many game texts they occur in and, for compounds, their parts; 11 place names; and 3 forms the Fifth Edition lists with no definition. Built by `tools/reconcile/build_additions.py`. Credit for the compilation goes to Thuum.org; non-commercial use.
+Words added to the project from the Fifth Edition under the ruling recorded as proposal 3 in `docs/decisions-log.md`: 21 vocabulary entries with their meaning, grade, the sources the Fifth Edition cites, how many game texts they occur in and, for compounds, their parts; 11 place names; and 3 forms the Fifth Edition lists with no definition. Built by `tools/reconcile/build_additions.py`. Credit for the compilation goes to Thuum.org; non-commercial use.
 
 ## spelling.json
 
@@ -389,7 +389,7 @@ The project's reading convention under the ruling recorded as proposal 8 in `doc
 
 ## grammar-rulings.json
 
-The owner's rulings on the open areas of grammar listed in `grammar-gaps.json`, one entry per area, each with its rules, the forms it covers, how often each use occurs in game text, which uses are the project's convention, and its status (provisional until one release in use). `docs/decisions-log.md` holds the owner's words and the evidence.
+The owner's rulings on the open areas of grammar listed in `grammar-gaps.json`. Most entries cover one area; possession has two entries, and one entry covers tense together with "is" and "are". Each has its rules, the forms it covers, how often each use occurs in game text, which uses are the project's convention, and its status (provisional until one release in use). `docs/decisions-log.md` holds the owner's words and the evidence.
 
 ## forge-words.json
 

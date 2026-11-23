@@ -111,7 +111,6 @@ counts = collections.Counter(str(r['meaning_grade']) for r in rows)
 out = {'meta': {'what': 'The standing of each wiki dictionary entry\'s meaning, by the rulings in docs/decisions-log.md, proposals 2, 4, 5 and 14.',
                 'grades': {'game': 'defined in the game\'s own material', 'guide': 'defined in the printed official guide, no game source',
                            'guide_website': 'defined only in the guide publisher\'s online word list (single source)',
-                           'unconfirmed': 'no official definition found; may not be built on until ruled',
                            'source_untraced': 'known only from a word list whose origin could not be traced; kept and usable by the owner\'s ruling, with that label',
                            'recorded_form': 'a form of a word the project already has; filed under that word',
                            'reserved': 'a later-game word with no recorded meaning; never given one, spelling not reused',
