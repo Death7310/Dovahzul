@@ -1,11 +1,11 @@
 # Design proposal: a teaching app and language forge for the dragon language
 
-**Status:** second draft, for the owner's decision. No app code has been written.
-**Date:** 2026-11-14.
+**Status:** second draft, revised after the owner's rulings. Partly decided: fourteen numbered proposals are ruled; the rest are open. `docs/decisions-log.md` records each ruling with the owner's words and the evidence ("log item 6" below means entry 6 there). No app code has been written.
+**Date:** 2026-11-22.
 **Evidence:** the fifteen reports in `research/` and the data in `research/data/`.
-**Review:** the first draft was checked by four independent reviewers against the canon data, the teaching research, the platform facts and the owner's original request. They found six problems serious enough to hold it back and about thirty places where it was wrong or imprecise. Two further reviewers then checked this draft, including its legal and fan-community sections, and their corrections are in. Section 13 says what is still unverified.
+**Review:** four independent reviewers checked the first draft and two more the second; their corrections are in. This revision changes what the rulings and the Thuum.org dictionary changed. Section 13 says what is still unverified.
 
-A note on the name: "Dovahzul" is a fan name. Official text says "Dragon Language" or "Dragon tongue". This document says "the dragon language" for what the games contain.
+"Dovahzul" is a fan name; official text says "Dragon Language", and this document says "the dragon language". "The Fifth Edition" is Thuum.org's current dictionary, which the owner supplied on 2026-11-15.
 
 ---
 
@@ -13,46 +13,69 @@ A note on the name: "Dovahzul" is a fan name. Official text says "Dragon Languag
 
 **What I propose.** One free app with four parts: a course, a reading library, a word forge, and a reference (dictionary, grammar, rune converter). Everything runs on the device with no connection and no live AI.
 
-**What you would get first.** A reader and reference for what the games already contain: dictionary, rune chart and converter, and the word walls with every word explained. It needs none of your rulings and can be released while the language is being finished.
+**What you would get first.** A reader and reference for what the games already contain: dictionary, rune chart and converter, and the word walls with every word explained. It needs no further rulings on the language.
 
 **The four things you most need to know.**
 
-1. **The language has to be finished before it can be taught to conversation.** The games contain about 650 words and a few thousand words of text. There is no word for *what, where, why, how, if, because, two* or *thank you*. The forge is therefore the main line of work, and your rulings come before most lessons.
-2. **Thuum.org already tried open fan expansion and gave it up.** As far as I could establish without reading the site directly, it reached about 6,000 fan words, found revising them unsustainable, retired them in 2016, and in March 2026 removed the links to them. Its current dictionary is canon only. What that history supports is strict checks and never revising an accepted word. How Thuum.org approved words is not known, so it is not evidence for a single authority; that part of the design rests on Klingon, Na'vi and Esperanto. Whether fans still coin words elsewhere (a chat server run by former members, for instance) is also unknown.
-3. **"Installable web app" is not quite the downloadable file you asked for.** It installs from a web page on first visit and then runs offline. True installers are possible; on Mac they cost 99 US dollars a year. This is your decision (section 12).
-4. **The work is large and rests on you.** I estimate 60 to 150 hours of your time for rulings and review over the life of the build, before testing and screening submissions, and the content to be written is about twenty times the size of everything in the games.
+1. **The language has to be finished before it can be taught to conversation.** The games contain about 650 words and a few thousand words of text, with no word for *if, because* or *two*. Five question words have now been coined and ratified. The forge is the main line of work, and your rulings come before most lessons.
+2. **Thuum.org tried open fan expansion and gave it up; this is now confirmed first-hand.** The introduction of its Fifth Edition says the community abandoned about 6,000 fan words, for two causes: the cost of constant revision, and a submission system built around finding missing English translations, with a word-for-word translator. It gives no year. That dictionary is now included here, with credit, for non-commercial use (section 9). The history supports strict checks, never revising an accepted word, and starting from a sentence instead of a list of English words.
+3. **"Installable web app" is not quite the downloadable file you asked for.** It installs from a web page on first visit and then runs offline. True installers are possible; on Mac they cost 99 US dollars a year. This is still your decision (section 12).
+4. **The work is large and rests on you.** Before any ruling I estimated 60 to 150 hours of your time for rulings and review, and I have not re-estimated since. The content to be written is about twenty times the size of everything in the games.
 
-**What I need from you:** answers to the decisions in section 12. The first one (A0) concerns this repository and should not wait.
+**Decided and open.** The standing, meaning, spelling, type and pronunciation of the words are decided, with ten areas of grammar and the rules for making new words. Still open, each with a recommendation in section 12: the constitution (put to you on 2026-11-22), licences, installers and the permanent address, the game texts pack, names, where invented words appear, a lawyer's review, a set of reversible defaults, and some tasks only you can do.
 
 ---
 
 ## 1. What the research found
 
-**1. The makers built a game device, not a full language, and said so.** The designer who wrote it told the press in 2011: "you're not developing it as an actual language. It's much more word based." Anything beyond individual attested words is this project's design, not recovery of something hidden. (Report 02.)
+**1. The makers built a game device, not a full language, and said so.** The designer told the press in 2011: "you're not developing it as an actual language. It's much more word based." Anything beyond individual attested words is this project's design, not recovery of something hidden. (Report 02.)
 
-**2. The game material is small.** The wiki dictionary has 657 entries. Connected text (word walls, dialogue, songs) comes to between 2,200 and 2,600 words depending on how duplicates and names are counted, with 700 to 750 distinct word forms, about half of which occur once. There are 64 distinct word-wall inscriptions. (Data files; recounted for this document.)
+**2. The game material is small.** The wiki dictionary has 657 entries; the Fifth Edition has 646 in the copy supplied (its introduction says 647); 598 are in both. Connected text (word walls, dialogue, songs) comes to between 2,200 and 2,600 words, with 700 to 750 distinct word forms, about half of which occur once. There are 64 distinct word-wall inscriptions. (Data files.)
 
-**3. Not all 657 entries stand on the same ground.** 398 cite game text or game data. 163 rest only on the official strategy guide. 91 rest only on a word list hosted by a fan archive, whose origin could not be traced. Five have mixed or no sources. Most English meanings are wiki editors' readings; only four sources carry English that appears in the game itself. (Reports 01, 02.)
+**3. Every word's standing is graded by where its definition comes from** (decided; log items 2, 4, 5 and 14). The 657 wiki entries:
 
-**4. About half of everyday vocabulary is missing.** Against three standard lists of basic concepts, the dictionary covers 47 to 51 percent. Counting only words attested in game text, it covers 32 to 46 percent. Missing: *what, where, why, how, if, because, two, three, thank you*, and most body parts and basic verbs. A greeting exists as a set phrase (*Drem Yol Lok*). (Report 06. The concept lists were typed from memory and must be checked against the published lists.)
+| Grade | Entries | What it means |
+|---|---|---|
+| Game | 390 | Defined in the game's own material: developer notes in the game files, in-game books, the Shouts menu |
+| Guide | 168 | Defined in the printed official guide, with no game source |
+| Guide website | 54 | Defined only in the guide publisher's online word list; official, but a single source |
+| Source untraced | 7 | From a word list whose origin could not be traced; kept and usable, with that label |
+| Reserved | 10 | A later-game word with no recorded meaning; never given one, and its spelling not reused |
+| Recorded form, Variant, Name | 21, 6, 1 | A form or a spelling variant of another word, or a proper name; not separate words |
 
-**5. Grammar has 34 undecided areas.** Seven block teaching outright: sound values, numbers, pronouns, possession, tense, questions, core vocabulary. Twenty-one must be ruled before the first three course stages can be written. (Reports 01, 15.)
+618 of the 657 may be used as building parts for new words. A further 21 words were added from the Fifth Edition. Of the 91 words the earlier draft called untraced, 73 now have an official source, 11 proved to be forms or variants of other words, and 7 remain untraced.
 
-**6. The most similar natural language, of ten compared, is modern English.** On 30 standard grammatical features the dragon language scores 0.82 against English (1.0 would be identical), 0.80 against Afrikaans and 0.62 against Old Norse. The designers put invented words into English sentence structure. Old Norse and Old English supplied the *style*: memorial inscriptions, compound names, a heroic tone. (Report 05. The older languages were scored by one analyst and the figures are approximate.)
+**The meaning of record is settled too** (log item 6): the official definition from the best source (the game's own material, then the printed guide, then the guide website), with the wiki's wording kept as a note. For 570 entries the sources agree; 14 took the official wording; seven were ruled one by one; six are misprinted in the dictionary copy, so the wiki reading stands for now. Example: *bel* is "summon"; its older meaning "foul" stays as a second, labelled sense, because you ruled that things created by the community can be kept.
 
-**7. Where it differs from English, it does so by leaving things out, and not consistently.** Tense is optional. Articles and plural endings are usually omitted. "Is" is often dropped. Possession is marked by a suffix (*thuri*, "my overlord") about as often as by a separate word (*dii*, "my"). *Ni* ("not") stands before the verb without "do" in 25 of 27 cases and with it in two. These are tendencies that need your ruling, not rules already fixed. (Reports 01, 05; counter-examples found in review.)
+**Word types exist** for all 646 Fifth Edition entries, credited to Thuum.org (log item 7). Twenty-one words it does not cover have none yet.
 
-**8. There is no official pronunciation, and the project has no drawings of the runes yet.** Every published sound value is a fan convention. An in-game book says an old song lacks "a sure pronunciation". The data holds the 34 runes as letters, not shapes. (Reports 01, 08, 11.)
+**4. About half of everyday vocabulary was missing, and most of that still is.** Against three standard lists of basic concepts the wiki dictionary covers 47 to 51 percent; counting only words attested in game text, 32 to 46 percent. These figures predate the rulings. (Report 06. The concept lists were typed from memory and must be checked against the published lists.) Three corrections:
 
-**9. Sound patterns can be checked by rule, up to a point.** Four in five syllables are consonant-vowel or consonant-vowel-consonant. No dictionary word begins with *tr, bl, fl, gl, pl* or *sn*. Requiring a new word to begin and end like existing words keeps 97.5 percent of real words in a test, but still lets through a third of scrambled words. The stricter test proposed in section 4.3, which looks at every syllable, has not been measured yet. Rules narrow the field; they do not replace judgement. (Reports 01, 07; test re-run in review.)
+- *What, where, when, why, how* are coined and ratified: *waar, wil, wuz, wul, wed*, each the game's own answer word with *w* in front (*daar* "this" gives *waar* "what"), beside the game's *wo* "who" (log item 11b).
+- "No word for *thank you*" was too strong. *Kogaan* means "blessing", and the developer's note on a line of Paarthurnax glosses it: blessings ("thankfully"). A set phrase for thanks is not yet ruled.
+- *Me* is not missing: *zu'u* is both "I" and "me" (log item 10).
 
-**10. What teaching research supports, and its limits.** Short explicit rules followed by practice. Recalling from memory with feedback, spread over days. Practice in each skill separately, because skill in reading transfers only partly to writing. A lot of easy reading in which new words recur. The limits: published effects are inflated, studies of language apps are small or company-run and show beginner-level gains in people who keep going, and all of it comes from natural languages. Computer-taught miniature artificial languages have been learned in experiments, but with a few dozen words. (Reports 09, 10, 12, 15.)
+Still missing: *if, because*, the numbers from two up, and most body parts and basic verbs.
 
-**11. What made other constructed languages last.** Esperanto, Klingon, Na'vi and Toki Pona produced real speakers. Each had one written reference, a known final authority, a core that never changes, and somewhere to use the language. Projects failed through endless reform (Ido), a founder fighting the users over ownership (Volapük, Loglan), or no authority at all (Tolkien's Elvish). (Reports 03, 06, 14.)
+**5. Grammar had 34 undecided areas; about half are now ruled in whole or in part.** Ten grammar rulings are recorded (log items 10 to 13; section 12 has the rules): pronouns; how a question is formed; the possessive endings; the other rules of possession; verbs and time, with "is"; articles; the plural; where a describing word goes; "not"; and commands. Other rulings settle six more areas: sound values, the apostrophe, spelling variants, which meaning counts, the standing of guide and untraced words, and word types.
 
-**12. The fan hub retreated to canon.** See point 2 of section 0. No licence for its material was found, which is not the same as there being none. No other app combines lessons, spaced practice, rune reading and writing offline. (Report 03, from search summaries only; the site refuses automated access and I did not work around that.)
+Of the seven areas that blocked teaching outright, five are ruled (sound values, pronouns, possession, tense, questions) and two remain (numbers, core vocabulary). Also open, roughly: "can, must, should" and "if"; comparison; linking words; prepositions; longer clauses; word-building and compound order; rare sound patterns; set phrases; time and dates; rune spelling rules; shouts and names. Every grammar ruling is provisional until it has been in use for one release. (Reports 01, 15; `research/data/grammar-gaps.json`.)
 
-**13. The legal position.** Under United States law, grammar, sound rules and single words are very probably free to teach and extend; no court has ruled on a constructed language. The complete word list taken as a set is less certain. The game's *texts* are ordinary protected writing. Other countries' rules were not researched. No published policy from the rights holder covers a project like this, so it would run on tolerated use, which can be withdrawn. (Report 04. Research, not legal advice.)
+**6. The most similar natural language, of ten compared, is modern English.** On 30 grammatical features it scores 0.82 (1.0 would be identical); Old Norse scores 0.62. Old Norse and Old English supplied the *style*: memorial inscriptions, compound names, a heroic tone. (Report 05; approximate figures.)
+
+**7. Where it differs from English, it does so by leaving things out, and not consistently.** Tense is optional; articles and plural endings are usually omitted; "is" is often dropped; possession is marked by a suffix (*thuri*, "my overlord") about as often as by a separate word (*dii*, "my"). The rulings so far keep this freedom. (Reports 01, 05; log items 11 to 13.)
+
+**8. There is no official pronunciation, and the project still has no drawings of the runes.** Every published sound value is a fan convention; the project has adopted Thuum.org's and labels it as one (section 7). The data holds the 34 runes as letters, not shapes. (Reports 01, 08, 11.)
+
+**9. Sound patterns can be checked by rule, up to a point.** No dictionary word begins with *tr, bl, fl, gl, pl* or *sn*. Requiring a new word to begin and end like existing words keeps 97.5 percent of real words but lets through a third of scrambled words. Rules narrow the field; they do not replace judgement. (Reports 01, 07.)
+
+**10. What teaching research supports, and its limits.** Short explicit rules followed by practice; recall from memory with feedback, spread over days; separate practice in each skill; much easy reading in which new words recur. But published effects are inflated, and all of it comes from natural languages. (Reports 09, 10, 12, 15.)
+
+**11. What made other constructed languages last.** Esperanto, Klingon, Na'vi and Toki Pona each had one written reference, a known final authority, a core that never changes, and somewhere to use the language. Others failed through endless reform, fights over ownership, or no authority at all. (Reports 03, 06, 14.)
+
+**12. The fan hub retreated to official words.** See point 2 of section 0. Its dictionary states no licence and gives no contact address; section 9 gives the basis on which the project uses it. No other app combines lessons, spaced practice, rune reading and writing offline (Report 03, from search summaries only).
+
+**13. The legal position** is set out in section 9: the language itself is very probably free to teach and extend under United States law, but the game's *texts* are protected and the project runs on tolerated use. (Report 04. Research, not legal advice.)
 
 ---
 
@@ -60,16 +83,16 @@ A note on the name: "Dovahzul" is a fan name. Official text says "Dragon Languag
 
 | You asked for | This design gives | Why | To get exactly what you asked |
 |---|---|---|---|
-| A thing that can be downloaded and runs standalone, offline, on Android, Mac and Windows | A web app you install from a web page. After the first visit it runs with no connection | It is the only route with no fees, identity checks or security warnings | True installers: free on Windows through the Microsoft Store (identity check); on Android an identity-verified developer account; on Mac 99 dollars a year, or users click through a security warning. A free downloadable folder edition for PCs and Macs may be possible and is one of the tests in section 11. The legal report advises distributing from the project's own site and not through app stores |
-| Free for everyone; you make no money | Yes | | Note: the open licences I recommend also let anyone copy it, change it, or sell copies. That is your choice (decision A2); only the files built from the wiki's text are required to stay open |
-| Thuum.org's fan expansion built in | Its retired fan vocabulary used as a reference: where one of its words passes the rules, it is adopted with credit instead of coining a rival. Nothing is copied without a written licence | The maintainers retired that vocabulary; no licence for it was found; no sound-pattern or collision checks were visible in its process | A written licence that lets those words be released under this project's terms. Whether the administrator can grant that for words members submitted is unknown. I draft the request; you send it. If there is no answer in 30 days the project proceeds without their material and says so |
-| People can add words as long as they fit the structure | People can *propose* any word that passes the rules. You ratify | A rule cannot judge whether a meaning is needed or a word is a good fit. Thuum.org's own account, as search summaries render it, blames the effort of revising about 6,000 fan words for ending its expansion | You could ratify everything that passes. I advise against it |
-| You are the ultimate authority; nobody can change the rules | True for the official edition. Under the licences I recommend, others may publish a changed copy | Open licences allow copies. What marks your edition is its web address, its name and its release record | Keeping all rights in the project's own material (decision A2). I advise against it: closed ownership is what split other language projects |
-| Fill the gaps by borrowing from the most similar language | English structure is used where the games are silent, after the games' own patterns | The most similar language is English. Borrowing Old Norse grammar would contradict the games in every sentence | You can order the sources differently (decision A8). I advise against importing another language's grammar |
-| Fluency: reading, composing, conversation, role play, script, pronunciation | Checked targets for reading, writing, script and listening. Speaking is practised and self-assessed. Conversation is scripted | No offline program can judge free conversation or score pronunciation in a language with no speakers | Other people. The app prepares learners and provides material for play and correspondence with them |
-| New script symbols that look like relatives of the claw marks | Numerals, punctuation and a handwriting style first; fused letter-runes as an optional layer | Every letter already has a rune. Numbers and punctuation are what the script lacks | New letter-runes can be added if you want them; they would have no sound of their own to carry |
+| A thing that can be downloaded and runs standalone, offline, on Android, Mac and Windows | A web app you install from a web page. After the first visit it runs with no connection | It is the only route with no fees, identity checks or security warnings | True installers: free on Windows (identity check); an identity-verified developer account on Android; 99 dollars a year on Mac. A downloadable folder edition is one of the tests in section 11 |
+| Free for everyone; you make no money | Yes | | The licence is still open (section 12). The terms I now recommend forbid commercial use of the content and coined words; the program code would stay under an open licence, which lets copies be sold |
+| Thuum.org's fan expansion built in | Its current dictionary is built in, with credit, for non-commercial use. Its retired fan vocabulary is only a source of candidate words, each entering by the same route as any new word (decided; log items 1 and 14) | Thuum.org itself abandoned that vocabulary, for the two causes in section 0 | Adopting the retired vocabulary whole. I advise against it; the project holds no copy of it |
+| People can add words as long as they fit the structure | People can *propose* any word that passes the rules and comes with the sentence it is needed for. You ratify | A rule cannot judge whether a meaning is needed or a word is a good fit | You could ratify everything that passes. I advise against it |
+| You are the ultimate authority; nobody can change the rules | True for the official edition. Under any licence that allows sharing, others may publish a changed copy | What marks your edition is its web address, its name and its release record | Keeping all rights in the project's own material. I advise against it: closed ownership is what split other language projects |
+| Fill the gaps by borrowing from the most similar language | English structure where the games are silent, after the games' own patterns, with a guard against copying English (decided; section 4.5) | The most similar language is English | Nothing further |
+| Fluency: reading, composing, conversation, role play, script, pronunciation | Checked targets for reading, writing, script and listening. Pronunciation follows an adopted reading convention (decided; section 7). Speaking is practised and self-assessed. Conversation is scripted | No offline program can judge free conversation or score pronunciation in a language with no speakers | Other people. The app prepares learners for play and correspondence with them |
+| New script symbols that look like relatives of the claw marks | Numerals, punctuation, a break mark for the apostrophe and a handwriting style first; fused letter-runes as an option | Every letter already has a rune; these are what the script lacks | New letter-runes can be added if you want them; they would have no sound of their own to carry |
 | No live AI tutor; rules standalone and offline | Yes | | Note: I would draft lesson texts during development. Nothing in the installed app calls an AI |
-| Research at the edge of the field, scholarly sources only | 939 references, machine-checked for existence. Full texts could not be opened in the research environment | Network limits | A second pass with library access before any figure is quoted publicly |
+| Research at the edge of the field, scholarly sources only | 939 references, machine-checked for existence; full texts could not be opened | Network limits | A second pass with library access |
 
 ---
 
@@ -82,7 +105,7 @@ A note on the name: "Dovahzul" is a fan name. Official text says "Dragon Languag
 | **Forge** | Propose words and see them checked; browse rulings and open gaps |
 | **Reference** | Dictionary, grammar, rune converter, pronunciation guide |
 
-Every word, rule and sentence carries a visible label saying where it comes from. Invented words are kept in a separate track that the learner chooses to switch on (decision A9).
+Every word, rule and sentence carries a visible label saying where it comes from. Invented words sit in a separate track that the learner switches on (still open; section 12). There is no translator that turns English sentences into dragon ones; dictionary lookup stays (log item 14).
 
 ---
 
@@ -90,89 +113,84 @@ Every word, rule and sentence carries a visible label saying where it comes from
 
 ### 4.1 The constitution
 
-A one-page document, published with the app.
+A one-page document, published with the app. It awaits your acceptance (section 12). The text below matches the rulings already made.
 
-1. **Game text is the base and is never contradicted.** Where game text and the strategy guide disagree, game text wins.
-2. **Every word has a status, recorded separately for its form and its meaning,** because most meanings are wiki readers' interpretations.
+1. **Game text is the base. It is never altered and never marked wrong.** Where it and the strategy guide disagree, game text wins. Where a ruling sets a standard that differs from what the game wrote, the game's form stays an accepted variant: the game writes *bormahii* ("his father"), and the standard is now *bormahi'i*.
+2. **Every word has a status,** and a label saying what its meaning rests on.
 
    | Status | Meaning | Who can change it |
    |---|---|---|
-   | Game | Attested in game text | Nobody |
-   | Official | From the strategy guide or the makers' statements | Nobody |
-   | Unconfirmed | From the untraced word list, or with no recorded meaning | You, by ruling on each |
-   | Wiki reading | A meaning given by wiki editors and not by the game itself. Most meanings start here | You, by ruling |
-   | Ratified | Approved by you | You, only by retiring it. Form and meaning never change |
+   | Game, Guide, Guide website | Defined in an official source. May be built on | Nobody |
+   | Source untraced | From an untraced word list. Kept, usable, labelled | You |
+   | Reserved | A later-game word with no recorded meaning. Never given one; spelling not reused | Nobody |
+   | Recorded form, Variant, Name | Not separate words | You |
+   | Ratified | Coined and approved by you | You, only by retiring it |
    | Trial | Passed the checks, screened by you, awaiting ruling | Its proposer may withdraw it |
    | Local | On one person's device | That person |
-   | Fan legacy | From Thuum.org's retired vocabulary, with permission | Reference only |
 
 3. **Checks decide what may be proposed. Only you ratify.**
-4. **Use before ratification.** Before a word can be ratified it needs example sentences that pass the checks. The first founding batch of basic words is exempt, since nothing can be written without them.
-5. **Small numbered releases with a public log** of each ruling and your reason. Suggested limit: about 50 new words per release after the founding batch. At that rate the stage 4 vocabulary takes seven to eleven releases.
-6. **Grammar rulings start provisional and are frozen after one release in use.** A ratified word is fixed from the release that publishes it. Freezing too early and reforming endlessly both sank other projects.
-7. **Only you can change the rules of the official edition.** The licences do not force copies to use another name. What marks the official edition is the address it is served from, a distinctive name with a written policy on its use, and the font's reserved name. A common fan name such as "Dovahzul" cannot do that job. Digitally signed releases, which two reports recommend before the forge opens to outsiders, are left out of the first version.
-8. **Succession.** The project names a second person who can keep it running if you cannot. This clause is not written yet; accepting the constitution now means accepting clauses 1 to 7, with clause 8 to follow before first release.
+4. **A new word starts from a sentence.** A proposal must include the dragon-language sentence the word is needed for. This now covers the founding batch of basic words too, which comes from the course's own conversation scenes.
+5. **Small numbered releases with a public log** of each ruling and your reason; a suggested limit of about 50 new words per release after the founding batch.
+6. **Rulings are provisional until one release in use, then frozen. A ratified word never changes** its form or meaning; it can only be retired.
+7. **Only you can change the rules of the official edition.** What marks the official edition is its address, a distinctive name with a written policy on its use, and the font's reserved name.
+8. **Succession.** The project names a second person who can keep it running if you cannot. Not written yet; accepting the constitution now means accepting clauses 1 to 7.
 
-One thing to be plain about: I prepare each ruling with a recommendation, and you are not a linguist. Where you cannot evaluate a ruling, the recommendation becomes the language in practice. The safeguards are that every brief shows the game evidence in full with example sentences for each option, briefs are published, and rulings stay provisional while they are tried.
+One thing to be plain about: I prepare each ruling with a recommendation, and where you cannot evaluate it, the recommendation becomes the language in practice. The safeguards: every brief shows the game evidence with examples for each option, briefs are published, and rulings stay provisional while they are tried. On the apostrophe you ruled differently from my recommendation.
 
 ### 4.2 The rulebook as data
 
-The language is stored as plain files: spelling units, permitted sound patterns, word-building patterns, the dictionary, grammar patterns, and your rulings. One small program reads them. The same program runs in the app and in the project's automated checks, so a word gets the same verdict everywhere.
-
-Each rule carries examples that must pass and examples that must fail. If a rule change would alter the verdict on any existing word or game text, you see that list before approving.
+The language is stored as plain files that one small program reads, in the app and in the project's automated checks, so a word gets the same verdict everywhere. The rulings so far are already stored this way in `research/data/`. Each rule carries examples that must pass and examples that must fail, and you see which verdicts a rule change would alter before approving it.
 
 ### 4.3 What the word checker tests
 
-1. **Spelling.** Only letters and letter-pairs the language uses.
-2. **Sound pattern.** Every syllable must begin, centre and end in a way found in game words. Patterns found in five or more words pass; rarer ones pass with a note; patterns found once or never need your approval. Words of power must be one syllable (all 136 in the games are).
-3. **Typicality score.** A number for how closely a word resembles game words. Advisory only. It cannot reject, because many genuine game words score poorly.
-4. **Collisions.** Not identical to any existing word, any form of one with an ending attached, or any rune spelling. Words one letter apart are listed for information; the games themselves pair related words that way (*jun* "king", *jud* "queen").
-5. **Structure.** A compound must name its parts and say which part is the main one. The games use two orders (*Dovahkiin*, "dragon-born"; *Qethsegol*, "bone-of-earth").
-6. **Meaning.** Each proposal points to a numbered concept from the project's own list. If the concept has a word already, the proposal must say how it differs.
-7. **Route.** Before a brand-new word stem is allowed, the proposer must try an existing word, a phrase, a form built on an existing family (the games have *wo* "who" and *wen* "whose", so question words should follow that series), or a compound.
-8. **Names.** Not on a list of other people's names and trademarks.
+Tests 1, 2, 6, 8, 9 and 10 follow rulings already made (`research/data/forge-policy.json`).
 
-At least 20 existing game words break these tests (rare endings such as *ahrk* "and", apostrophes as in *Thu'um*). They are listed as named exceptions. Proper names are exempt, and may be respelled into the language as the games do.
+1. **Spelling.** Only letters and letter-pairs the language uses, and only a word's standard spelling: *qethsegol* ("stone"), not the variant *quethsegol*.
+2. **The apostrophe.** Accepted only between two u's where the coiner declares a break in the voice (as in *thu'um*) and in the possessive endings *-i'i* and *-i'il*. Whether a break may be written between other vowels is not decided.
+3. **Sound pattern.** Every syllable must begin, centre and end in a way found in game words. Patterns found in five or more words pass; rarer ones pass with a note or need your approval. Words of power must be one syllable (all 136 in the games are).
+4. **Typicality score.** How closely a word resembles game words. Advisory only.
+5. **Collisions.** Not identical to any existing word, any form of one with an ending, any rune spelling, or any of the ten reserved words (such as *han* and *tosh*). Words one letter apart are only listed; the games pair related words that way (*jun* "king", *jud* "queen").
+6. **Building parts.** A new word may be built on Game, Guide and Guide website words and on the seven untraced words; not on a reserved word, a spelling variant, or *vun*, which carries a doubt mark.
+7. **Structure.** A compound names its parts and its main part. The games use two orders (*Dovahkiin*, "dragon-born"; *Qethsegol*, "bone-of-earth"). *Se* joins the parts, as in *sossedov*, "blood of dragonkind".
+8. **Word type.** A new verb or adjective is "strong" (it can also serve as a noun) unless a separate noun for the idea exists; then it is "weak". *Faas* is "to fear" and "fear"; *vahzah* ("true") is weak because *vahzen* ("truth") exists.
+9. **Need and meaning.** In place of the earlier draft's numbered list of concepts: the proposal carries the sentence the word is needed for; the proposer must first try an existing word, a phrase, a form built on an existing family, or a compound; and the meaning is a short explanation with examples, not a single English word. Where English merely has two words for one idea, none is made: no word for "me", because *zu'u* is both.
+10. **Pronunciation.** Worked out from the spelling by rule (section 7), with stress on the root the coiner declares, or on the first syllable of a new root.
+11. **Names.** Not on a list of other people's names and trademarks.
 
-Two limits are proposals for you to decide: at most two words per concept, and no brand-new word stems for modern or technical concepts.
+Game words that break these tests (rare endings such as *ahrk* "and") are listed as named exceptions. Proper names are exempt.
 
 ### 4.4 How a proposal travels
 
-1. A person coins a word in the app. The checker runs on their device.
-2. If it passes, the proposer adds at least one example sentence and confirms a plain statement: the word is their own invention and they release it under the project's content licence. The app then produces a proposal file and a link that opens a pre-filled submission on GitHub, the public site that hosts the project.
+1. A person has a sentence they cannot say, and coins a word for it in the app. The checker runs on their device.
+2. If it passes, the proposal must carry that sentence and a short explanation of the meaning. The proposer confirms that the word is their own invention (or, for a word from the retired fan vocabulary, names its maker) and releases it under the project's content licence. The app produces a proposal file and a link to a pre-filled submission on GitHub.
 3. An automated check re-runs the same program. It never accepts anything.
-4. **You screen it:** one click to confirm the English meaning is acceptable. Until then it is not published and holds no place in the dictionary.
+4. **You screen it:** one click to confirm the explanation is acceptable. Until then it is not published.
 5. Screened proposals enter Trial, labelled, and are shown only in the invented-words track. Lessons use Ratified words only.
 6. You rule in batches. Each ruling is published with its reason.
 
-Safeguards built in from the start: a limit per contributor; meanings capped in length and shown as plain text; the automated check allowed to read and comment but not to change anything; and a trial of the whole path with deliberately malicious submissions before it opens.
-
-Submitting needs a free GitHub account, and the submitter's account name is public. A person without one can pass their proposal file to someone who has.
+Safeguards from the start: a limit per contributor; meanings capped in length and shown as plain text; an automated check that can comment but change nothing; and a trial of the whole path with deliberately malicious submissions. Submitting needs a free GitHub account, whose name is public; a person without one can pass their proposal file to someone who has.
 
 ### 4.5 Filling the grammar
 
-For each open area I prepare a brief: what the games show, the options with example sentences, what each does to existing texts, and a recommendation. Sources are consulted in this order:
+For each open area I prepare a brief with the game evidence, the options and a recommendation. The order of sources, as now settled (log item 14):
 
-1. **Game text.** One occurrence is enough for a pattern to be offered as an option. The majority pattern is the default. Where the games show two patterns, both stay valid until you rule.
-2. **Analogy inside the language.**
-3. **The retired fan vocabulary,** where a word passes the rules and a licence exists.
-4. **English structure, simplified.** Each such ruling is checked for copying an English quirk the games lack.
-5. **Old Norse and Old English patterns,** for word-building and style only.
+1. **Game text.** One occurrence is enough for a pattern to be offered; the majority pattern is the default.
+2. **What the language already has,** by analogy: the game has *wo* "who" and *wen* "whose", so the new question words begin with *w*.
+3. **English structure, simplified,** under the guard below.
+4. **Old Norse and Old English patterns,** for word-building and style only.
 
-Word forms are not borrowed from real languages. This is project policy, and it and the order above are yours to change (decision A8).
+The retired fan vocabulary is no longer a step in this order: it is a source of candidate words, and a fan word enters by the same route as any other, with credit to its maker. Word forms are not borrowed from real languages; this remains project policy.
 
-For the features the games leave optional (tense, plural, articles, "is"), each ruling states the form the course teaches by default. The checker accepts every form the games allow and never marks one wrong.
+**The guard against copying English** (decided; log item 14). A new word starts from a sentence, not a word list: the question words came from "Why did you do that?", now *Wul drey hi dreh daar?* What the language already has is tried first, and a coined word is defined by how it is used. The first batch of missing words comes from the course's own conversation scenes, with lists of basic English concepts as a cross-check only.
 
-Rulings needed, by course stage:
+Where the games leave a feature optional (tense, plural, articles, "is"), the course teaches a default and the checker accepts every form the games allow: an unmarked verb is never an error.
 
-| Before stage | Areas to rule |
-|---|---|
-| 0 | Sound values; stress; rune spelling; Latin-letter spelling; set phrases; which meanings are authoritative |
-| 1 | Pronouns; possession; tense; "is"; negation; articles; plural; first verbs |
-| 2 | Questions; numbers; "can/must/should"; linking words; the founding batch of missing basic words; rare sound patterns; compound order; word-building suffixes |
-| 3 and 4 | The remaining thirteen areas, including word types for the 642 dictionary entries that state none. I propose the types; you check a sample |
-
-Until meanings are ruled on, the first release shows each one labelled as a wiki reading.
+| Before stage | Ruled | Still to rule |
+|---|---|---|
+| 0 | Sound values and stress (the reading convention); one standard spelling per word; the apostrophe; which meanings count | Rune spelling rules beyond the break; set phrases |
+| 1 | Pronouns; possession; verbs and time; "is"; "not"; articles; plural | The choice of first verbs |
+| 2 | How a question is formed; five question words | Numbers; "can, must, should" and "if"; linking words; the rest of the founding batch; rare sound patterns; compound order; word-building endings |
+| 3 and 4 | Word types (21 words still lack one); where a describing word goes; commands | The other open areas in section 1, point 5 |
 
 ---
 
@@ -184,7 +202,7 @@ Three targets the app can check, and one it cannot.
 
 1. **Read** the glossed game texts with the glosses hidden, answering typed comprehension questions.
 2. **Write** text that the grammar checker accepts, within the ratified vocabulary.
-3. **Understand by ear** words and sentences in the project's pronunciation.
+3. **Understand by ear** words and sentences in the project's reading convention. Lessons no longer wait for a listening pass through the game (section 7).
 4. **Speak:** practised by listening, repeating, recording and comparing. Self-assessed, and labelled as unverified.
 
 Open conversation needs other people. No study shows it arising from software alone.
@@ -200,62 +218,70 @@ Open conversation needs other people. No study shows it arising from software al
 | 4 | Composes text the checker accepts; completes scripted scenes by typing | 1,000 to 1,200, of which 350 to 550 newly ratified |
 | 5 | Contributes to the forge | |
 
-Sixteen runes cover 83 percent of inscription text, and five recurring formulas account for 57 of the 64 inscriptions. But a formula is only its opening words: with a well-chosen 100 words roughly a dozen inscriptions are fully readable, and with 300 roughly 45.
+Sixteen runes cover 83 percent of inscription text. With a well-chosen 100 words roughly a dozen of the 64 inscriptions are fully readable, and with 300 roughly 45.
 
-Gates advise; they do not lock. A learner may move ahead. Stages 0, 1 and 3 use game material only. Stages 2 and 4 need invented words and belong to the track the learner switches on.
+Gates advise; they do not lock. Stages 0, 1 and 3 use game material only. Stages 2 and 4 need invented words.
 
 ### 5.3 How each thing is taught
 
-- **Grammar.** One card per pattern: a short rule with game examples, then exercises that recognise the pattern, then exercises that make the learner produce it. Most explicit attention goes to the places where an English speaker's habits mislead (*'s*, *-s*, "do not"). The design assumes English-speaking learners.
-- **Vocabulary and runes.** Recall from memory with feedback, on a schedule that spaces reviews over days. The scheduling method (called FSRS) is chosen because it is open and well documented. It predicts forgetting well; no trial shows it produces more learning than simpler schedules.
-- **Reading.** Graded stories in which most words are known and each new word recurs about ten times. The research does not fix either number. Every authored line is labelled as not from the games.
-- **Writing.** Word tiles, then filling slots in game formulas, then free composition. The checker answers "accepted", "this specific error", or "cannot analyse". It checks form, not meaning: a well-formed sentence that says the wrong thing passes.
-- **Conversation.** Scripted branching scenes, answered first by choosing a line and later by typing one. The app also produces scene sheets and phrase cards for tabletop play and letters between people.
-- **Speed.** An optional timed strand on material already mastered. Nothing is timed by default.
-- **Mastery.** An item counts as known after correct recall on three separate days, the last at least a week after the one before. These are starting values.
+- **Grammar.** One card per pattern: a short rule with game examples, then exercises that recognise the pattern, then exercises that make the learner produce it. Where a ruling allows more than one form, the card teaches the default and names the others as correct. Most attention goes to the places where an English speaker's habits mislead (*'s*, *-s*, "do not").
+- **Word roles.** You chose flexibility (log item 7): a word may be used in every role the word-type system allows, whether or not the game shows that use. *Mul* may serve as "strong", "strength", "strongly" and "to strengthen". The cost, as the log records: the more roles a word may take, the fewer mistakes the sentence checker can catch.
+- **Vocabulary and runes.** Recall from memory with feedback, on a schedule that spaces reviews over days. The scheduling method (FSRS) is open and well documented; no trial shows it produces more learning than simpler schedules.
+- **Reading.** Graded stories in which most words are known and each new word recurs about ten times. Every authored line is labelled as not from the games.
+- **Writing.** Word tiles, then filling slots in game formulas, then free composition. The checker checks form, not meaning: a well-formed sentence that says the wrong thing passes.
+- **Conversation.** Scripted branching scenes, answered first by choosing a line and later by typing one. These scenes also supply the first batch of missing words (section 4.5). The app also produces scene sheets and phrase cards for tabletop play.
+- **Mastery.** An item counts as known after correct recall on three separate days, the last at least a week after the one before (a starting value).
 
 ### 5.4 Minimum workload for a learner
 
-The proposed ceiling is eight new words a day in ten-minute sessions, and it falls to about five once reviews build up. That gives twelve to nineteen weeks to meet all the game words once, and four to eight months to reach stage 4's vocabulary for recognition alone, longer for recall. That is card time only, before any reading. These are floors computed from starting values, not promises.
+At a ceiling of eight new words a day, falling to about five as reviews build up, a learner meets all the game words in twelve to nineteen weeks and recognises stage 4's vocabulary in four to eight months, before any reading. These are floors computed from starting values, not promises.
 
 ### 5.5 What is left out, and why
 
-No lives, leaderboards, currencies, or streaks that punish a missed day. This is a choice, with a cost: streak incentives do raise persistence in recent studies, and dropping out is the main way self-study fails. The replacement is a weekly target the learner sets, with nothing lost for a missed day. Progress is shown as real capability ("you can read 12 of 64 inscriptions unaided").
-
-The app is built to the WCAG 2.2 AA accessibility standard. Runes are real text with a Latin-letter alternative; nothing depends on colour or dragging alone; typed answers have a tile alternative.
+No lives, leaderboards, currencies, or streaks that punish a missed day, although streak incentives do raise persistence in recent studies. The replacement is a weekly target the learner sets, and progress is shown as real capability ("you can read 12 of 64 inscriptions unaided"). The app is built to the WCAG 2.2 AA accessibility standard: runes are real text with a Latin-letter alternative, and nothing depends on colour or dragging alone.
 
 ### 5.6 How we find out whether it works
 
-The app sends nothing anywhere, so it cannot report results by itself. Two measures: a small pilot at each build stage with a stated pass mark (for example, three new testers read an unseen inscription with glosses hidden a week after finishing stage 1), and an optional button that saves an anonymous results file a learner can choose to send.
+The app sends nothing anywhere. Two measures: a small pilot at each build stage with a stated pass mark (for example, three new testers read an unseen inscription unaided), and an optional button that saves an anonymous results file a learner can choose to send.
 
 ### 5.7 Content
 
 The course needs roughly 45,000 to 65,000 words of graded text and several hundred dialogue lines, about twenty times the game corpus. The estimate rests on one assumed multiplier and could be well off.
 
-I would draft it, with a line-by-line English version; the checker would verify form; you would read and approve. Nothing but your reading checks the meaning. Two cautions. Text drafted this way is untested as reading material in any study. And because this text will dwarf the games', its habits (how often tense is marked, for instance) will in effect set the norm, so it has to follow the rulings exactly.
+I would draft it, with a line-by-line English version; the checker would verify form; you would read and approve. Nothing but your reading checks the meaning. Text drafted this way is untested as reading material. And because it will dwarf the games' text, its habits (how often tense is marked, for instance) will in effect set the norm, so it has to follow the rulings exactly.
 
 ---
 
 ## 6. The script
 
-All 34 runes exist, and every letter the language uses has one. The gaps are numerals and punctuation.
+All 34 runes exist, and every letter the language uses has one. The gaps are numerals, punctuation and a sign for the break that the apostrophe writes.
 
-1. **Obtain reference images of the 34 runes and measure them:** strokes, dots, angles. The makers' only description is "three talons plus a dewclaw dot". The images are used for measuring only and are not put in the repository.
-2. **Draw an original font from those measurements.** The game's font file is never opened or copied. Letter shapes are not protected in the United States; font files are. Other countries may differ. This font is needed for the first release.
-3. **Derive new signs the way real scripts did:** add or drop a stroke, add a dot, fuse two signs, simplify for speed. Each new sign must differ from every existing one by at least two features.
-4. **Order:** digits and sentence marks; a word divider; a handwriting style; fused runes for *th, sh, ng* as an option that never replaces game spelling.
+1. **Obtain reference images of the 34 runes and measure them.** They are used for measuring only and are not put in the repository.
+2. **Draw an original font from those measurements.** The game's font file is never opened or copied. Letter shapes are not protected in the United States; font files are. This font is needed for the first release.
+3. **Derive new signs the way real scripts did:** add or drop a stroke, add a dot, fuse two signs. Each new sign must differ from every existing one by at least two features.
+4. **Order:** digits and sentence marks; a word divider; a break mark; a handwriting style; fused runes for *th, sh, ng* as an option that never replaces game spelling.
 
-The inscriptions do not spell consistently: the pair *ah* is one rune 225 times and two runes 15 times. Game text is therefore stored rune by rune as written, and the strict spelling rule applies only to new words.
+**How the break is written in runes** (decided; log items 9 and 11). The apostrophe writes a break in the voice, a light catch in the throat. The runes have no sign for it, so one is to be designed.
+
+| In Latin letters | What it is | In runes |
+|---|---|---|
+| *uu* (*gravuun*, "autumn"); *ii* inside a word (*krii*) | One long vowel | The single double-U or double-I rune |
+| *u'u* (*thu'um*); *-i'i* and *-i'il* (*zaami'il*, "your slave") | Two vowels with a break | Two separate U or I runes, with the break mark between them once it exists |
+
+Game inscriptions are shown as written: the Throw Voice word wall writes *thu'um* with the single double-U rune, and that is kept as a variant. The inscriptions are inconsistent in other ways too (the pair *ah* is one rune 225 times and two runes 15 times), so game text is stored rune by rune as written and the strict spelling rule applies only to new words.
 
 ---
 
 ## 7. Pronunciation
 
-1. **A written standard that you rule on:** one entry per spelling unit, with a core sound, tolerated variants and the evidence. The app calls it "this project's reading convention".
-2. **A listening pass first.** Someone with a copy of the game notes how the voice actors say the disputed sounds. I cannot hear audio.
-3. **Reference audio is machine-made at first, and will sound robotic.** It is generated during development from sound-by-sound instructions. Volunteer recordings replace it over time. No game audio is used.
-4. **Listening practice with feedback** can be scored offline. Its research support comes from human voices; with synthetic voices it is untested, so it stays provisional until human recordings exist.
-5. **Speaking practice** is listen, repeat, record, compare. There is no score. An honest one needs speech models built from native speakers, and none exist.
+1. **The reading convention is adopted** (log item 8): the Fifth Edition's pronunciations, given for 644 entries and credited to Thuum.org. Where its sound table and its entries disagree, the entries are followed: *e* as in "bed", *ei* as in "eye", *q* as "kw". Where an entry lists several pronunciations, the first is taught and the rest are accepted. It is labelled everywhere as a convention, not official.
+2. **The break.** The six words spelt with *u'u* (*zu'u, thu'um, su'um, du'ul, strundu'ul, tu'um*) are taught with a break between the two u's (log item 9); the one-syllable form the dictionary lists first ("thoom") stays accepted. The possessive endings *-i'i* and *-i'il* have the same break (log item 11).
+3. **Your condition: at some point people will listen to the game.** So what is heard in the game is recorded per word, with the speaker and the line. A form heard there is accepted, and where the game consistently contradicts the taught form, the taught form changes in a numbered release. A listening pass is no longer needed before lessons are written. The dictionary says voice actors vary greatly, so listening cannot settle most sound values.
+4. **New words are pronounced by rule.** Each spelling unit takes the sound the dictionary most often gives it. Tried on dictionary words the rule had not been shown, it got every sound right in 92 percent of words when the stress was known, and 89 percent with the stress put on the first syllable. Example: the coined *niist* comes out as "neest".
+5. **Stress cannot be worked out from spelling.** Of 305 words of two or more syllables, the first syllable is stressed in 63 percent, and no simple rule tried does more than three points better. So stress is taught as marked in the entries and described as a tendency. For new words, see section 4.3, test 10.
+6. **Reference audio is machine-made at first, and will sound robotic.** Volunteer recordings replace it over time. No game audio is used.
+7. **Listening practice with feedback** can be scored offline, but its research support comes from human voices, so it stays provisional until human recordings exist.
+8. **Speaking practice** is listen, repeat, record, compare, with no score: an honest one needs speech models built from native speakers, and none exist.
 
 ---
 
@@ -270,49 +296,48 @@ A web app, served as plain files from GitHub's free website hosting (GitHub Page
 | Mac | Safari: "Add to Dock" | macOS 14 or later. Current Chrome needs macOS 13 or later |
 | iPhone | Safari: "Add to Home Screen" | |
 
-**Your Mac.** Whether it is 64-bit does not matter (every MacBook Pro since 2007 is). What matters is its macOS version. On an older system the app still runs offline in a browser tab but cannot be installed as its own app, and Safari may delete its saved data after a week without use. I need your macOS version before this table is final.
+**Your Mac.** What matters is its macOS version: on an older system the app still runs offline in a browser tab but cannot be installed as its own app, and Safari may delete its saved data after a week without use.
 
 **What the web app route does not give you.**
 
 - The first visit must be online.
 - There is no file to hand someone on a memory stick.
-- The app and the learner's progress live in the browser's storage, which the browser or the user can clear. The app will ask the browser to protect its storage, prompt for a backup file on a schedule, and offer "restore from backup" on its first screen.
+- The app and the learner's progress live in the browser's storage, which can be cleared. The app will prompt for a backup file on a schedule and offer "restore from backup" on its first screen.
 - Progress moves between devices only by that backup file.
 
-**Size.** Text data is under 200 KB compressed. Audio is the bulk, about 25 MB, downloaded separately with an "offline ready" indicator.
+**Size.** Text data is under 200 KB compressed; audio, about 25 MB, is downloaded separately.
 
-**The address must never change.** An installed copy is tied to its web address. Renaming the account or project later would strand every installed copy. The address, and a second person able to recover the account, must be fixed before the first public release (decision A5).
+**The address must never change.** An installed copy is tied to its web address. Renaming the account or project later would strand every installed copy, so the address must be fixed before the first public release (still open; section 12).
 
-**None of this has been tested on real devices.** I cannot run Safari or an Android phone; you would do those checks by hand. Section 11 begins with a one-day test for exactly this.
+**None of this has been tested on real devices.** Section 11 begins with a one-day test that you would do by hand.
 
 ---
 
 ## 9. Legal position
 
-Research, not legal advice. Report 04 recommends a lawyer's review of the name, licences and text policy before public release.
+Research, not legal advice.
 
-- **The language itself.** Under United States law, grammar, sound rules and single words are very probably free to teach and extend. That is a strong argument, not a settled rule. The complete word list as a set is less certain, and the app ships all of it. Outside the United States the rules on quotation and on letter shapes are narrower and were not researched.
-- **The game's texts** are the clearest exposure. They ship as a separate pack that can be removed, and appear only inside a unit that adds analysis or an exercise; no screen lists game texts one after another. The app must work with that pack absent.
+- **The language itself.** Under United States law, grammar, sound rules and single words are very probably free to teach and extend. The complete word list as a set is less certain, and the app ships all of it. Other countries' rules were not researched.
+- **The game's texts** are the clearest exposure. They ship as a separate pack that can be removed, and appear only inside a unit that adds analysis or an exercise. The app must work with that pack absent.
 - **No game assets:** no audio, art, screenshots or font files.
-- **The name** contains no trademark of the rights holder. One plain line says what the app is. An "unofficial, not affiliated" notice appears on first run, on the About screen and on the project's front page, and a "Sources and licences" screen is readable offline.
-- **The wiki data** is under a Creative Commons licence that requires credit and requires anything built from the wiki editors' text to carry the same licence. Those files are kept separate. Where possible the project writes its own short meanings.
-- **Thuum.org's material** is not copied without a written licence.
-- **Contributors** confirm that a proposed word is their own and release it under the project's licence.
-- **Tolerated use.** The project has no licence from the rights holder. A complaint about any file can take the whole repository offline, and with it the site. The host belongs to Microsoft, which also owns the game's publisher, so the host is not a neutral party. Installed copies should keep working where the browser has kept their data; updates and submissions would stop. The first release includes a public contact address, a commitment to answer within 48 hours, a one-step build without the game texts and wiki-derived text, and a private log of notices.
+- **The name** contains no trademark of the rights holder. An "unofficial, not affiliated" notice appears on first run, and a "Sources and licences" screen is readable offline.
+- **The wiki data** is under a Creative Commons licence that requires credit and requires anything built from the wiki editors' text to carry the same licence. Those files are kept separate.
+- **Thuum.org's dictionary** is included, with credit, for non-commercial use only (decided; log item 1). No formal licence text was found. The basis, recorded in `research/sources/thuum/ATTRIBUTION.md`: the title page says the game material it features is used for non-commercial, educational purposes; a forum answer, seen only through a web search, says the site claims no intellectual property over the dragon language and cannot license commercial use; and you stated on 2026-11-15 that Thuum.org's website, and its administrator personally, say the dictionary is free for any non-commercial use. The administrator's own wording is still to be added. If Thuum.org objects, the file and the data built from it will be removed. Files built from the dictionary keep these terms, so an edition containing them may not be sold.
+- **Tolerated use.** The project has no licence from the rights holder. A complaint about any file can take the whole repository offline, and with it the site. The host belongs to Microsoft, which also owns the game's publisher. Installed copies should keep working; updates and submissions would stop. The first release includes a public contact address, a commitment to answer within 48 hours, a one-step build without the game texts and wiki-derived text, and a private log of notices.
 
-**This repository today.** It is public and holds 331 complete wiki pages (about 3.4 MB), including English game dialogue, song lyrics and loading-screen text, plus the corpus extracted from them. Attribution is in place and an "unofficial" notice has now been added. The wiki's licence lets its editors' text be republished with credit; it cannot grant rights in the game text those pages quote. The legal report wanted notice and licence files in place before anything was public, and that moment has passed. This is decision A0.
+**This repository today** (decided; log item 1). It stays public, by your decision. It holds 331 complete wiki pages, including English game dialogue and song lyrics, the corpus extracted from them, and now the Thuum.org dictionary and the data built from it. Attribution and an "unofficial" notice are in place. The wiki's licence lets its editors' text be republished with credit; it cannot grant rights in the game text those pages quote.
 
 ---
 
 ## 10. What this costs
 
-**Money.** Nothing is required to build. Optional: a web address of your own (roughly 10 to 15 dollars a year, my estimate), which would let the project move hosts without stranding anyone; Mac installers (99 dollars a year); an Android developer account (25 dollars and identity documents). The legal report advises a lawyer's review of the name, licences and text policy before public release; its cost was not researched.
+**Money.** Nothing is required to build. Optional: a web address of your own (roughly 10 to 15 dollars a year, my estimate); Mac installers (99 dollars a year); an Android developer account (25 dollars and identity documents). The cost of a lawyer's review was not researched.
 
-**Your time.** Rough estimate, 60 to 150 hours across the build: 34 rulings at 20 to 40 minutes; 350 to 550 word decisions at 5 to 10 minutes; rulings on the 91 untraced words; reading the authored texts; checking a sample of the 642 word types; the listening pass. Not included: screening submissions, which grows with their number; testing each release on your devices; finding and running pilot testers.
+**Your time.** The rough estimate of 60 to 150 hours was made before any ruling and has not been redone. Of its parts: about half of the 34 areas are ruled in whole or in part; six of the 350 to 550 word decisions are made; the 91 untraced words are dealt with; word types were adopted from the Fifth Edition, with 21 words still needing one; the listening pass is no longer needed before lessons; reading the authored texts has not started.
 
-**Dependence on one person.** You are the only one who can rule, and you cannot read the program code you approve. Your real control is the report showing which verdicts a change would alter.
+Not included: screening submissions; testing each release on your devices; finding pilot testers.
 
-**Dependence on me.** I would write the program, the briefs and the content. That work is limited by your usage allowance: the research alone took three allowance periods. The files are plain and documented so another person or assistant could continue.
+**Dependence on one person, and on me.** You are the only one who can rule, and you cannot read the program code you approve; your control is the report showing which verdicts a change would alter. I would write the program, the briefs and the content, limited by your usage allowance; the files are plain and documented so another person or assistant could continue.
 
 ---
 
@@ -320,94 +345,114 @@ Research, not legal advice. Report 04 recommends a lawyer's review of the name, 
 
 **Before committing: five small tests.**
 
-1. A one-page offline test on GitHub Pages, installed on your actual phone, PC and Mac: switch the network off, leave it ten days, publish an update, clear the browser once, restore from backup.
-2. Twenty words rendered as synthetic audio, including the disputed sounds, for you to hear.
+1. A one-page offline test installed on your phone, PC and Mac: switch the network off, leave it ten days, publish an update, clear the browser once, restore from backup.
+2. Twenty words rendered as synthetic audio, including words with a break, for you to hear.
 3. The submission path run on a throwaway project with deliberately malicious submissions.
 4. Five runes drawn as original outlines, for you to compare with the game.
-5. A downloadable folder edition for PCs and Macs that runs without installing. This may not be workable; the test is to find out.
+5. A downloadable folder edition for PCs and Macs that runs without installing. This may not be workable.
 
-Test 1 runs from a throwaway address unless the permanent one has been chosen by then.
+| Stage | Delivers | Done when | Needs from you |
+|---|---|---|---|
+| A. Reader and reference (first public release) | Rune font, rune chart and converter, dictionary with status labels, the 64 inscriptions with every word explained, rune recognition practice, backup and restore, notices and sources screen | Installs and runs offline on your three devices; an update arrives without losing data; every game word passes the checker or is on the named exception list | Rune reference images; device tests; the open decisions in section 12 |
+| B. Rulings, round one (partly done) | Done: the rulings listed in section 12. Remaining: see below | Rulebook 1.0 published | Acceptance of the constitution; your rulings |
+| C. Course, first part | Stages 0 and 1; review scheduler; first audio; a sentence checker that tests words and simple patterns | Pilot testers meet the stage 1 pass mark | Pilot testers |
+| D. Forge | Coining, checking, proposal files, automated checks, screening, Trial, ratification, releases | A proposal travels end to end; the malicious-submission trial passes | Screening and rulings |
+| B2. Rulings, round two | The areas not needed until stages 3 and 4 | Rulebook 2.0 published | Your rulings |
+| E. Course, second part | Stages 2 and 3; full grammar checker; first scenes; graded texts | Pilot testers meet the stage 3 pass mark | Approving texts |
+| F. Composition and conversation | Stage 4; numerals and punctuation; human recordings; installers if chosen | Pilot testers complete a scripted scene by typing | |
 
-| Stage | Delivers | Done when | Needs from you | Size |
-|---|---|---|---|---|
-| A. Reader and reference (first public release) | Rune font, rune chart and converter, dictionary with status labels, the 64 inscriptions with every word explained, rune recognition practice, backup and restore, notices and sources screen | Installs and runs offline on your three devices; an update arrives without losing data; every game word passes the checker or is on the named exception list | Rune reference images; device tests; decisions in section 12 | Medium |
-| B. Rulings, round one | Briefs and rulings for stages 0 to 2; the founding batch of basic words | Rulebook 1.0 published | Listening pass; your rulings | Mostly your time |
-| C. Course, first part | Stages 0 and 1; review scheduler; first audio; a sentence checker that tests words and simple patterns | Pilot testers meet the stage 1 pass mark | Pilot testers | Large |
-| D. Forge | Coining, checking, proposal files, automated checks, screening, Trial, ratification, releases | A proposal travels end to end; the malicious-submission trial passes | Screening and rulings | Medium |
-| B2. Rulings, round two | The remaining thirteen areas; word types | Rulebook 2.0 published | Your rulings | Mostly your time |
-| E. Course, second part | Stages 2 and 3; full grammar checker; first scenes; graded texts | Pilot testers meet the stage 3 pass mark | Approving texts | Large |
-| F. Composition and conversation | Stage 4; numerals and punctuation; human recordings; installers if chosen | Pilot testers complete a scripted scene by typing | | Large |
+**What remains of round one.**
 
-Stopping after A still leaves a usable reader. Stopping after C leaves a course for runes and first inscriptions.
+- The rulings still to make for stages 0 to 2 (table in section 4.5).
+- The founding batch of words. I draft the first conversation scenes, and the words they cannot be written without come to you.
+- Loose ends I can tie up without you: types for the 21 words that have none; eight further spelling cases to check against game text; six misprinted definitions to re-read from the publisher's file; and the cited definitions to check against the game pages.
 
-I cannot give dates. Pace is set by your usage allowance and your own time. As a guess, stage A is a handful of my working sessions and the whole plan is several dozen.
+Stopping after A still leaves a usable reader; stopping after C leaves a course for runes and first inscriptions. I cannot give dates: pace is set by your usage allowance and your own time.
 
 **Not in the first version,** with what each would have given:
 
-- Digitally signed data files: proof that a word list really came from you. This matters once lists circulate outside the official site.
-- A second, independent copy of the checker: a way to catch mistakes in the first. The existing analysis scripts serve as fixed test cases instead.
-- Outside concept databases: a standard numbering of meanings shared with linguists. The project's own numbered list is used instead.
-- Automatic tuning of the review schedule to each learner: it needs months of a learner's data to be worth anything.
+- Digitally signed data files: proof that a word list really came from you.
+- A second, independent copy of the checker: a way to catch mistakes in the first.
+- Outside concept databases: a standard numbering of meanings. By your ruling, lists of concepts are only a cross-check.
+- Automatic tuning of the review schedule to each learner: it needs months of a learner's data.
 
 ---
 
 ## 12. Decisions
 
-### A. Decisions that define the project. Please answer each.
+### Decided so far
 
-**A0. This repository, now.** It is public and holds full wiki pages that quote game text (section 9). Options: (a) make it private, which is one setting on GitHub and reversible; (b) leave it public and I remove the raw wiki pages from the visible files, keeping the script that can fetch them again; (c) leave it as it is. Whichever you choose, the app itself should later live in its own clean repository under its permanent name, so that a complaint about texts cannot take the app's address down with it. *Recommendation: (a), today.*
+| Log item | What | The decision in one line |
+|---|---|---|
+| 1 | Repository; Thuum.org dictionary | The repository stays public; the dictionary is included with credit, for non-commercial use |
+| 2 | How a word's standing is graded | By where its definition comes from: game, guide or guide website |
+| 3 | Words only the Fifth Edition has | Added as vocabulary; place names go to the list of names |
+| 4 | Words only the wiki has | Forms filed under their base word; later-game words kept and labelled; ten reserved |
+| 5 | Spelling | One standard spelling per word. Game texts are never altered; rare spellings are variants |
+| 6 | Which meaning counts | The official definition from the best source; community meanings kept as labelled second senses |
+| 7 | Word types | Thuum.org's types adopted. A word may be used in every role the system allows |
+| 8 | Pronunciation | Thuum.org's pronunciations adopted as the reading convention, open to what is heard in the game |
+| 9 | The apostrophe | It writes a break between two u's and belongs to the standard spelling: *thu'um* |
+| 10 | Pronouns | One form for subject and object: *zu'u* is "I" and "me". *Nust* "they", *niin* "them" |
+| 11 | Possession | A separate word or an ending, both standard: *hin dovah* or *dovahi'il*, "your dragon". *Niist* "their" coined |
+| 11b | Questions | Three ways, all correct: a question word first, the verb before the subject, or a questioning tone. *Wil los hi?* "Where are you?" |
+| 12 | Verbs and time | One verb form; marking time is optional. *Keizaal fen kos stin*, "Skyrim will be free" |
+| 13 | Articles, plural, describing words, "not", commands | Articles and plural optional (*sil*, *sille*, "souls"); describing words before the noun; *Zu'u ni faas*, "I do not fear"; a command is the plain verb |
+| 14 | New words; community vocabulary | A word starts from a sentence. Fan words enter by the same route, with credit. The seven untraced words are kept |
 
-**A1. The constitution in section 4.1.** It makes you the only ratifier. It also binds you: reasons are published, and a ratified word's form and meaning never change. Clause 8 (succession) is still to be written. *Recommendation: accept clauses 1 to 7.*
+### Still open: decisions that define the project
 
-**A2. Licences.** Files built from the wiki editors' text must stay under the wiki's share-alike licence, with credit; that part is not a choice. For everything the project writes itself, the licence is yours to choose. I recommend: program code under the GPL, version 3 or later (anyone may use and change it; changed versions must stay open); project-written content, ratified words and volunteer recordings under Creative Commons Attribution-ShareAlike 4.0; the font under the Open Font License with its name reserved. The cost: these cannot be withdrawn, they let others copy, change and sell copies (the font only as part of something larger), and once other people have contributed, the licence cannot be changed without their agreement. The alternatives are non-commercial terms, which would forbid selling but are vague in law and would stop other open projects reusing the work, or keeping all rights, which is the closed ownership that split other language projects. Machine-made audio stays in its own folder until the licence position of the program that makes it is confirmed. *Recommendation: the open licences.*
+The log's queue calls these, in order, A1, A2, A5, A6, A7, A9 and A10.
 
-**A3. Words that rest only on the strategy guide (163) or the untraced list (91).** If neither counts, coverage of basic concepts falls from about half to about a third and the forge has more to coin. *Recommendation: guide words count as Official and may be built on; untraced words stay Unconfirmed until you rule on each.*
+**The constitution in section 4.1.** It makes you the only ratifier. It also binds you: reasons are published, and a ratified word's form and meaning never change. Clause 8 (succession) is still to be written. *Recommendation: accept clauses 1 to 7.*
 
-**A4. The retired fan vocabulary.** *Recommendation: ask for a written licence; where a fan word passes the rules, adopt it with credit; proceed without it after 30 days of silence, linking to Thuum.org as the reference for the games' own words.* The alternative is to coin independently from the start, which is simpler and loses continuity with what some fans already know.
+**Licences.** Three kinds of material need three answers. Files built from the wiki editors' text must stay under the wiki's share-alike licence, with credit; that is not a choice. Files built from Thuum.org's dictionary may be used only for non-commercial purposes, with credit, on the basis recorded in the attribution file. For everything the project writes itself, the licence is yours to choose. Because Thuum.org's condition is non-commercial, and because you want nobody to make money from this, I now recommend a non-commercial share-alike licence for the project's own content and coined words (Creative Commons Attribution-NonCommercial-ShareAlike 4.0), in place of the fully open licence I recommended before. The program code would stay under the GPL, version 3 or later, and the font under the Open Font License. The cost of the non-commercial term: other open projects, such as wikis under a share-alike licence, could not merge this content into theirs, and 'commercial' is not sharply defined in law. The three kinds of material must be kept in separate files so that each keeps its own terms. This is not legal advice.
 
-**A5. Installers, spending and the permanent address.** *Recommendation: web app only for the first release; decide on installers once it exists.* One choice cannot wait for that: the address, which can never change after first release. Either the free GitHub address (no cost; if the host removes the site, every installed copy loses its update channel for good) or a web address of your own (roughly 10 to 15 dollars a year; the project can move hosts; it must never be allowed to lapse). *Recommendation: your own address, if you are willing to keep paying for it indefinitely; otherwise the free one.*
+One earlier point still holds: once other people have contributed, a licence cannot be changed without their agreement.
 
-**A6. The game texts pack.** *Recommendation: include it, removable, always with analysis.* The alternative is a first release with words only and no inscriptions, which removes the clearest exposure but not the unsettled one about the word list, and is much less useful.
+**Installers, spending and the permanent address.** *Recommendation: web app only for the first release; decide on installers once it exists.* The address cannot wait, because it can never change after first release: either the free GitHub address (no cost; if the host removes the site, installed copies lose their update channel for good) or a web address of your own (roughly 10 to 15 dollars a year; it must never lapse). *Recommendation: your own address, if you are willing to keep paying for it indefinitely.* Either way the app should live in its own clean repository, so that a complaint about texts cannot take its address down.
 
-**A7. Names.** A name for the app with no trademarked term, and a name for the invented extension so it never claims to be the official language. "Dovahzul" is a widely used fan name, so it cannot mark your edition as yours. *I will bring a shortlist once you tell me the tone you want; each name needs a search of the trademark registers before it is adopted.*
+**The game texts pack.** *Recommendation: include it, removable, always with analysis.* The alternative is a first release with words only and no inscriptions, which removes the clearest exposure but is much less useful.
 
-**A8. How gaps are filled.** The order of sources in section 4.5, and the policy that word forms are never borrowed from real languages. *Recommendation: accept.*
+**Names.** A name for the app with no trademarked term, and a name for the invented extension so it never claims to be the official language. "Dovahzul" is a common fan name, so it cannot mark your edition as yours. *I will bring a shortlist once you tell me the tone you want; each name needs a trademark search.*
 
-**A9. Where invented words appear.** The community report advises that the default course use game and guide material only, with invented words in a separate track the learner switches on, because today's fan hub is canon-only. Conversation cannot be taught without invented words. Options: invented words off by default, switched on once with an explanation (this draft); or on by default with a "games only" switch. *Recommendation: off by default.*
+**Where invented words appear.** Options: off by default, switched on once with an explanation (this draft); or on by default with a "games only" switch. The community report advises the first, because today's fan hub keeps to official words. Conversation cannot be taught without invented words, and six already exist. Either way an invented word is always labelled. *Recommendation: off by default.*
 
-**A10. A lawyer's review before public release,** of the name, the licences and the text policy, as the legal report advises. Cost not researched. *Recommendation: yes if you can; at the least before any installer or app-store listing.*
+**A lawyer's review before public release,** of the name, the licences and the text policy, as the legal report advises; I would add the basis for using Thuum.org's dictionary. *Recommendation: yes if you can; at the least before any installer or app-store listing.*
 
-### B. Defaults you can accept together
+### Still open: defaults you can accept together
 
-- B1. I draft lesson texts and dialogue; the checker verifies form; you approve; all labelled as not from the games.
-- B2. Submissions need a free GitHub account, with the file route for those without one.
-- B3. A weekly target in place of streaks, lives and leaderboards.
-- B4. At most two words per concept; no brand-new word stems for modern or technical concepts.
-- B5. The four items listed under "not in the first version" in section 11 stay out.
-- B6. The course is written for English-speaking learners.
-- B7. No new letter-runes for now; numerals, punctuation and a handwriting style come first.
+These are reversible. The log's queue calls them B1 to B7.
 
-### C. Things only you can do
+- I draft lesson texts and dialogue; the checker verifies form; you approve.
+- Submissions need a free GitHub account, with the file route for those without one.
+- A weekly target in place of streaks, lives and leaderboards.
+- At most two words per concept; no brand-new word stems for modern or technical concepts.
+- The four items listed under "not in the first version" in section 11 stay out.
+- The course is written for English-speaking learners.
+- No new letter-runes for now; numerals, punctuation, the break mark and a handwriting style come first.
 
-- C1. Tell me the macOS version on your MacBook, your phone's Android version, and the country you live in (the legal research covers United States law only).
-- C2. Send the request to Thuum.org's administrator (I draft it): terms for reusing the current dictionary and the retired list, and whether they object to the name or to linking. Then introduce the project to the chat community run by its former members. Read their March 2026 home-page notice yourself to confirm what I could only see second-hand.
-- C3. The listening pass: about one to two hours with a checklist I prepare.
-- C4. Rune reference images: approve access to the wiki's image server when I ask, or send me a screenshot of the alphabet.
-- C5. Name a second person who could recover the project.
-- C6. Run the tests in section 11 on your devices.
-- C7. Compare the wiki's 657 entries with Thuum.org's current 647 by reading its dictionary. I prepare the table. Not yet in the hours estimate.
-- C8. Find three to five pilot testers.
+### Still open: things only you can do
+
+- Tell me your MacBook's macOS version, your phone's Android version, and your country (the legal research covers United States law only).
+- Get the administrator's own wording on the terms for using Thuum.org's dictionary, and where it is stated, for the attribution file. I suggest asking at the same time about words from the retired fan vocabulary, which that file does not cover.
+- Send listening reports whenever you or others listen to the game: the word, the speaker and the line.
+- Rune reference images: approve access to the wiki's image server, or send me a screenshot of the alphabet.
+- Name a second person who could recover the project.
+- Run the tests in section 11 on your devices.
+- Find three to five pilot testers.
 
 ---
 
 ## 13. How far to trust this
 
-- **Citations.** 939 references were run through a script against the scholarly registry. 685 matched on title, year and first author. None was flagged as a mismatch. 201 are web pages, legal sources and other items a registry cannot check; 42 are books and conference papers it does not hold, most confirmed by search; 7 exist in another registry; 4 matched a related record, such as a review of the cited book, and need a manual look.
-- **What was not read.** Full texts could not be opened. Figures come from abstracts, search summaries and the analysts' prior knowledge. In review, 17 sources were re-checked against their abstracts: none was invented, and four had been read more loosely than the source supports; those claims are corrected here.
-- **Thuum.org.** Everything said about it comes from search summaries. Confirm it yourself (C2).
-- **Game data.** Counts were recomputed from the data files, which come from one wiki snapshot. English meanings are mostly wiki editors' readings. Rune spellings follow the wiki's transcription and were not checked against the game.
-- **Platform facts** were checked by search in November 2026 but not on devices. Whether an installed Mac web app is protected from Safari's seven-day deletion could not be confirmed either way.
-- **Transfer.** All teaching evidence comes from natural languages.
+- **Citations.** 939 references were checked by script against the scholarly registry; 685 matched and none was flagged as a mismatch. Full texts could not be opened: figures come from abstracts, search summaries and the analysts' prior knowledge.
+- **Thuum.org: what is now first-hand.** The Fifth Edition itself, read by program and compared entry by entry with the wiki. First-hand from it: that the fan vocabulary was abandoned, the two causes, that no year is given, and that it states no licence and gives no contact address.
+- **Thuum.org: what is still second-hand.** The forum answer on commercial use was seen only as a web search returned it. That the administrator calls the dictionary free for non-commercial use rests on your statement; the administrator's own wording is not yet on file. The earlier draft's report of a March 2026 home-page notice is unconfirmed.
+- **The dictionary copy has known misprints.** It is a PDF converted to Word. Six definitions are misprinted (*krii*, "kill", is printed as "fight"), thirteen entries carry a doubt mark, and *zu'u* is printed as a verb. Its official definitions have not yet been checked against the game pages, and those resting only on the guide or its website are taken on the Fifth Edition's word.
+- **The grammar rulings are provisional** until one release in use. Some rest on thin evidence: each of the three ways of asking a question occurs once in game text, and the break in the possessive endings is this project's convention, with nothing known of how the game's voice actors say them.
+- **Game data.** Counts come from the data files, which rest on one wiki snapshot. Rune spellings follow the wiki's transcription and were not checked against the game.
+- **Platform facts** were checked by search in November 2026 but not on devices.
 - **Starting values, not findings:** stage sizes, the content estimate, pass marks, repetition counts, mastery rule, release size, hours.
 
 ---
@@ -416,17 +461,22 @@ I cannot give dates. Pace is set by your usage allowance and your own time. As a
 
 | Term | Meaning here |
 |---|---|
-| Canon, game text | What appears in the games themselves |
+| Game text | What appears in the games themselves |
 | Rulebook | The files that define the language for this project |
 | Ruling | Your decision on an open question, recorded with its reason |
 | Ratify | Your approval that makes a proposed word part of the language |
+| Meaning of record | The one meaning the project uses for a word |
+| Standard spelling, variant | The one spelling the project teaches for a word, and any other spelling of it found in the sources |
+| Strong, weak | A verb or adjective that can also serve as a noun (strong), or cannot (weak) |
+| Reading convention | The pronunciation this project teaches; not official |
+| Break | A light catch in the throat between two vowels (a glottal stop), written with an apostrophe |
 | Checker | The program that tests a word or sentence against the rulebook |
 | Gloss | The meaning shown for a word |
 | Graded text | A story written so that nearly all its words are already known |
 | Web app | An app delivered through a browser that can be installed and run offline |
-| Repository, GitHub | The public online folder holding the project, and the site that hosts it |
+| Repository, GitHub, GitHub Pages | The public online folder holding the project, the site that hosts it, and its free website hosting |
 | Open licence | Terms that let anyone use and copy the work under stated conditions |
 | Share-alike | A condition that copies and adaptations carry the same licence |
+| GPL | A licence for program code: anyone may use and change it, and changed versions must stay open |
 | Word stem | The core of a word before any ending is added |
 | Trial | A proposed word that passed the checks and your screening and awaits your ruling |
-| GitHub Pages | GitHub's free hosting for a website built from a repository |
