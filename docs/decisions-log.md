@@ -28,8 +28,9 @@ Items 1 to 15 arise from the Dragon Language Dictionary, Fifth Edition (Thuum.or
 | 17 | A2, licences | Accepted 2026-11-22 |
 | 18 | A5, installers, spending and the permanent address | Ruled 2026-11-23: standalone programs on all three systems are the end goal; a web app first is acceptable |
 | 19 | A7, names | Ruled 2026-11-23: the name is Zu'u Tinvaak Dovah. No borrowing from real languages |
-| 20 | A6, the game texts pack | Put to the owner 2026-11-23 |
-| 21 on | A9, A10; the order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
+| 20 | A6, the game texts pack | Accepted 2026-11-23: included, as a component that can be taken out |
+| 21 | A9, where invented words appear | Put to the owner 2026-11-23 |
+| 22 on | A10; the order of sources where the game is silent (the part of A8 still open); then B1 to B7 and the remaining C tasks | Queued |
 
 ## 1. Where the dictionary is kept, and the public repository
 
@@ -303,6 +304,19 @@ The address question (a free GitHub address or the owner's own) was not answered
 - **Borrowing from the game world's own languages** is not ruled out and not yet decided. Daedric in the games is an alphabet used to write English, not a stock of words.
 
 Still open from A8: the order of sources where the game is silent on how a sentence is built.
+
+## 20. The game's own texts
+
+**The owner's ruling, 2026-11-23.** "Everything about this app is non-commercial use, so it's completely free. We're never going to charge anything, so you can use the scripts, make it a component that can be taken out. Eventually I'll try and develop a script that can replace it."
+
+- The game's inscriptions, dialogue lines and songs are included in the app.
+- They are a separate component that can be taken out, and the app must work without it.
+- The app is and stays free of charge.
+- The owner intends in time to write original texts that can replace the game's.
+
+Taken as accepted with it, since the owner raised no objection: a game text is always shown with its words explained or inside an exercise, never as bare text; and there is a routine for complaints, with a public contact, an answer within two days, and a one-step way to publish the app without the component. The two-day answer is a commitment on the owner's part and was pointed out as such.
+
+Said to the owner in reply: being free of charge lowers the risk and does not remove it. It is one thing a court weighs, and rights holders tolerate free fan work more readily, but it is not a permission. The removable component is the protection.
 
 ## Evidence notes for the queued proposals
 
