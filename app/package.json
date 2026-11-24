@@ -1,0 +1,33 @@
+{
+  "name": "zuu-tinvaak-dovah",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zu'u Tinvaak Dovah: an unofficial, free reader and reference for the dragon language. Runs with no connection.",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "packs": "node scripts/build-packs.mjs",
+    "dev": "npm run packs && vite",
+    "build": "npm run packs && npm run typecheck && vite build",
+    "build:without-game-texts": "node scripts/build-packs.mjs --without-game-texts && npm run typecheck && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "glyph-sheet": "node scripts/render-glyph-sheet.mjs"
+  },
+  "dependencies": {
+    "preact": "11.2.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "2.10.6",
+    "@types/node": "22.20.5",
+    "preact-render-to-string": "6.8.3",
+    "typescript": "7.0.2",
+    "vite": "8.3.8",
+    "vite-plugin-pwa": "2.0.0",
+    "vitest": "5.1.1"
+  }
+}
